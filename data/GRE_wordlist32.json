@@ -1,0 +1,1548 @@
+[
+  {
+    "id": "001",
+    "word": "natty",
+    "pos": "adj.",
+    "head_meanings": [
+      "(복장·외관 따위가) 산뜻한",
+      "말쑥한",
+      "멋진",
+      "정교한"
+    ],
+    "synonyms_from_image": [
+      "neat",
+      "smart",
+      "dapper",
+      "fashionable",
+      "well-groomed",
+      "doggy"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "nauseate",
+    "pos": "v.",
+    "head_meanings": [
+      "구역질나게 하다",
+      "(몹시) 불쾌감을 주다",
+      "혐오감을 느끼게 하다",
+      "(사람·것을) 싫어하다"
+    ],
+    "synonyms_from_image": [
+      "disgust",
+      "revolt",
+      "repel",
+      "sicken"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "naysayer",
+    "pos": "n.",
+    "head_meanings": [
+      "(습관적인) 반대론자",
+      "비관론자",
+      "부정자",
+      "반대자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "004",
+    "word": "nebula",
+    "pos": "n.",
+    "head_meanings": [
+      "성운"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "005",
+    "word": "nebular",
+    "pos": "adj.",
+    "head_meanings": [
+      "성운(모양)의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "006",
+    "word": "nebulous",
+    "pos": "adj.",
+    "head_meanings": [
+      "흐린",
+      "불투명한",
+      "막연한",
+      "(기억·표현 등이) 흐릿한",
+      "불명확한",
+      "(천문) 성운모양의"
+    ],
+    "synonyms_from_image": [
+      "vague",
+      "indistinct",
+      "unclear",
+      "murky",
+      "dark",
+      "dim",
+      "obscure",
+      "indefinite",
+      "hazy",
+      "cloudy",
+      "blurred",
+      "faint",
+      "amorphous",
+      "uncertain",
+      "muddled",
+      "confused",
+      "ambiguous"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "nefarious",
+    "pos": "adj.",
+    "head_meanings": [
+      "극악한",
+      "사악한",
+      "흉악한",
+      "못된",
+      "괴씸한"
+    ],
+    "synonyms_from_image": [
+      "bad",
+      "base",
+      "evil",
+      "notorious",
+      "vicious"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "negate",
+    "pos": "v.",
+    "head_meanings": [
+      "[사실·진실을] 부정/부인하다",
+      "(결과·효과를) 상쇄하다",
+      "취소하다",
+      "무효로 하다"
+    ],
+    "synonyms_from_image": [
+      "invalidate",
+      "nullify",
+      "neutralize",
+      "cancel",
+      "undo",
+      "reverse",
+      "annul",
+      "void",
+      "revoke",
+      "rescind",
+      "repeal",
+      "retract",
+      "countermand",
+      "overrule",
+      "abrogate",
+      "override",
+      "deny",
+      "dispute",
+      "contradict",
+      "controvert",
+      "refute",
+      "rebut",
+      "reject",
+      "repudiate",
+      "gainsay"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "negation",
+    "pos": "n.",
+    "head_meanings": [
+      "부정",
+      "부인",
+      "취소",
+      "무효",
+      "결여",
+      "(존재·실재)의 반대"
+    ],
+    "synonyms_from_image": [
+      "disproof",
+      "nonexistence",
+      "refusal",
+      "disavowal",
+      "disclaimer"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "negligence",
+    "pos": "n.",
+    "head_meanings": [
+      "태만",
+      "부주의",
+      "무관심",
+      "등한시",
+      "소홀함",
+      "태만한 행위",
+      "불찰",
+      "(법) 부주의로 인한 과실",
+      "(예술) 법칙의 무시",
+      "자유 분방"
+    ],
+    "synonyms_from_image": [
+      "neglect",
+      "indifference",
+      "unconcern",
+      "aloofness"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "negligent",
+    "pos": "adj.",
+    "head_meanings": [
+      "태만한",
+      "무관심한",
+      "등한한",
+      "부주의한",
+      "되는대로 하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "012",
+    "word": "negligible",
+    "pos": "adj.",
+    "head_meanings": [
+      "무시해도 좋은",
+      "하찮은",
+      "시시한",
+      "없는 거나 다름 없는"
+    ],
+    "synonyms_from_image": [
+      "nugatory",
+      "insufficient",
+      "meagre",
+      "trivial",
+      "trifling",
+      "insignificant",
+      "minor",
+      "inconsequential",
+      "minimal",
+      "slight",
+      "inappreciable",
+      "infinitesimal",
+      "petty",
+      "paltry",
+      "exiguous"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "nemesis",
+    "pos": "n.",
+    "head_meanings": [
+      "천벌",
+      "인과응보",
+      "(N-)복수의 여신",
+      "보복자"
+    ],
+    "synonyms_from_image": [
+      "retaliation",
+      "justice",
+      "punishment",
+      "discipline"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "neologism",
+    "pos": "n.",
+    "head_meanings": [
+      "신어구",
+      "신어 사용",
+      "(신학상) 합리주의"
+    ],
+    "synonyms_from_image": [
+      "nonce word",
+      "coinage"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "neophyte",
+    "pos": "n.",
+    "head_meanings": [
+      "초심자",
+      "신참(beginner)",
+      "(종교) 새 개종자",
+      "새 신도"
+    ],
+    "synonyms_from_image": [
+      "novice",
+      "tyro",
+      "initiate",
+      "fledgling",
+      "apprentice",
+      "trainee",
+      "probationer",
+      "newcomer",
+      "tenderfoot",
+      "greenhorn",
+      "colt"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "nepotism",
+    "pos": "n.",
+    "head_meanings": [
+      "친척 등용",
+      "정실",
+      "편애주의"
+    ],
+    "synonyms_from_image": [
+      "partiality",
+      "favoring of one over others",
+      "partisanship",
+      "bias"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "nepotistic",
+    "pos": "adj.",
+    "head_meanings": [
+      "(친척·연고를) 편애하는",
+      "정실의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "018",
+    "word": "nerved",
+    "pos": "adj.",
+    "head_meanings": [
+      "대담한",
+      "용기 있는",
+      "강건한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "019",
+    "word": "nettle",
+    "pos": "v.",
+    "head_meanings": [
+      "초조하게 하다",
+      "화나게 하다",
+      "짜증나게 하다"
+    ],
+    "synonyms_from_image": [
+      "irritate",
+      "peeve",
+      "provoke",
+      "annoy",
+      "irk",
+      "gall",
+      "vex",
+      "anger",
+      "exasperate",
+      "infuriate",
+      "upset",
+      "displeasure",
+      "offend",
+      "affront",
+      "pique",
+      "rankle",
+      "aggravate",
+      "rile",
+      "needle",
+      "thorn",
+      "spike",
+      "sting"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "nettlesome",
+    "pos": "adj.",
+    "head_meanings": [
+      "초조하게 하는",
+      "난처하게 만드는",
+      "귀찮은",
+      "성가신"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "021",
+    "word": "nibble",
+    "pos": "v.",
+    "head_meanings": [
+      "조금씩 뜯어먹다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "022",
+    "word": "nicety",
+    "pos": "n.",
+    "head_meanings": [
+      "정확함",
+      "정밀함",
+      "미묘함",
+      "우아함"
+    ],
+    "synonyms_from_image": [
+      "accuracy",
+      "meticulousness",
+      "discrimination",
+      "preciseness",
+      "good taste"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "niggardly",
+    "pos": "adj.",
+    "head_meanings": [
+      "인색한(히)",
+      "쩨쩨한"
+    ],
+    "synonyms_from_image": [
+      "miserly",
+      "meager",
+      "selfish",
+      "mean",
+      "closefisted"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "nihilism",
+    "pos": "n.",
+    "head_meanings": [
+      "니힐리즘(기성 도덕·법률·종교 등에 대한 전면적 부정)",
+      "허무주의"
+    ],
+    "synonyms_from_image": [
+      "disbelief in anything",
+      "agnosticism",
+      "amorality",
+      "nothingness"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "nimble",
+    "pos": "adj.",
+    "head_meanings": [
+      "민첩한",
+      "재빠른",
+      "영리한",
+      "예민한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "026",
+    "word": "nitpick",
+    "pos": "v.",
+    "head_meanings": [
+      "트집잡다",
+      "하찮은 일에 꼬치꼬치 따지다",
+      "(별 것 아닌 것을) 꼬집다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "027",
+    "word": "nitpicking",
+    "pos": "adj.",
+    "head_meanings": [
+      "트집잡는",
+      "사소한 결점을 들추는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "028",
+    "word": "nocturnal",
+    "pos": "adj.",
+    "head_meanings": [
+      "밤의",
+      "밤에 활동하는",
+      "야행성의"
+    ],
+    "synonyms_from_image": [
+      "nightly",
+      "nighttime",
+      "midnight",
+      "nightlong"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "noisome",
+    "pos": "adj.",
+    "head_meanings": [
+      "악취가 나는",
+      "불쾌한",
+      "해로운",
+      "건강에 나쁜"
+    ],
+    "synonyms_from_image": [
+      "malodorous",
+      "unsavory",
+      "offensive",
+      "harmful",
+      "horrid",
+      "unhealthful"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "nomadic",
+    "pos": "adj.",
+    "head_meanings": [
+      "유목의",
+      "방랑의"
+    ],
+    "synonyms_from_image": [
+      "roving",
+      "vagrant",
+      "vagabond",
+      "roaming",
+      "strolling",
+      "traveling",
+      "drifting",
+      "migratory",
+      "itinerant"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "nomenclature",
+    "pos": "n.",
+    "head_meanings": [
+      "(분류학) 학명",
+      "명칭",
+      "(총칭)"
+    ],
+    "synonyms_from_image": [
+      "phraseology",
+      "nomination",
+      "vocabulary",
+      "term",
+      "appellation",
+      "language",
+      "jargon"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "nominal",
+    "pos": "adj.",
+    "head_meanings": [
+      "이름뿐인",
+      "명목상의",
+      "보잘것없는",
+      "아주 적은",
+      "극소한"
+    ],
+    "synonyms_from_image": [
+      "in name only",
+      "titular",
+      "official",
+      "theoretical",
+      "supposed",
+      "ostensible",
+      "so-called",
+      "token",
+      "symbolic",
+      "tiny",
+      "minute",
+      "unsubstantial",
+      "insignificant",
+      "trifling"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "nonchalance",
+    "pos": "n.",
+    "head_meanings": [
+      "무관심",
+      "태연",
+      "무기력",
+      "무사태평"
+    ],
+    "synonyms_from_image": [
+      "apathy",
+      "coolness",
+      "lacking interest",
+      "unconcern"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "nonchalant",
+    "pos": "adj.",
+    "head_meanings": [
+      "무관심한",
+      "태연한",
+      "아랑곳하지 않는"
+    ],
+    "synonyms_from_image": [
+      "calm",
+      "composed",
+      "unconcerned",
+      "cool",
+      "indifferent",
+      "dispassionate",
+      "apathetic",
+      "casual",
+      "insouciant"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "noncommittal",
+    "pos": "adj.",
+    "head_meanings": [
+      "뜻(성격)이 애매한",
+      "의도도 아닌",
+      "언질을 안 주는",
+      "특징이 없는",
+      "[neutral]",
+      "[unpledged]",
+      "[undecided]"
+    ],
+    "synonyms_from_image": [
+      "equivocal",
+      "vague",
+      "ambiguous",
+      "mute",
+      "mum"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "nonconformist",
+    "pos": "n.",
+    "head_meanings": [
+      "(관행 등을) 따르지 않는 사람",
+      "비(규)표준(의)",
+      "순응하지 않는"
+    ],
+    "synonyms_from_image": [
+      "maverick"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "nonconformity",
+    "pos": "n.",
+    "head_meanings": [
+      "(규범·전통·표준·법률 등을) 따르지 않음",
+      "불순응"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "038",
+    "word": "nondescript",
+    "pos": "adj.",
+    "head_meanings": [
+      "무어라 말하기 어려운",
+      "정체를 알 수 없는(사람/것)",
+      "특징이 없는",
+      "평범한"
+    ],
+    "synonyms_from_image": [
+      "indescribable",
+      "vague",
+      "undistinguished",
+      "indefinable",
+      "unremarkable",
+      "unexceptional",
+      "featureless",
+      "characterless",
+      "ordinary",
+      "commonplace",
+      "average",
+      "mundane",
+      "run-of-the-mill",
+      "uninteresting",
+      "uninspiring"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "nonentity",
+    "pos": "n.",
+    "head_meanings": [
+      "보잘 것 없는(하찮은) 사람/물건",
+      "비실재",
+      "존재하지 않는 물건"
+    ],
+    "synonyms_from_image": [
+      "nobody",
+      "zero",
+      "cipher",
+      "unimportant person(thing)"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "noninterventionist",
+    "pos": "n.",
+    "head_meanings": [
+      "내정 불간섭자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "041",
+    "word": "nonplus",
+    "pos": "v.",
+    "head_meanings": [
+      "어리둥절하게 하다",
+      "꼼짝 못하게 하다",
+      "몹시 난처하게 하다"
+    ],
+    "synonyms_from_image": [
+      "befuddle",
+      "baffle",
+      "bewilder",
+      "perplex",
+      "mystify",
+      "stump",
+      "beat",
+      "puzzle"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "nonsense",
+    "pos": "n.",
+    "head_meanings": [
+      "아무 의미도 없는 것(일)",
+      "무의미한(말)",
+      "허튼 소리"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "043",
+    "word": "nostalgic",
+    "pos": "adj.",
+    "head_meanings": [
+      "옛날을 그리워하는",
+      "향수의",
+      "회향병의(homesickness)"
+    ],
+    "synonyms_from_image": [
+      "reminiscence",
+      "remembrance",
+      "recollection",
+      "wistfulness",
+      "regret",
+      "regretfulness",
+      "sentimentality",
+      "yearning",
+      "sentiment",
+      "maudlinness",
+      "longing for the past"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "nostrum",
+    "pos": "n.",
+    "head_meanings": [
+      "특효약",
+      "비방약",
+      "엉터리약"
+    ],
+    "synonyms_from_image": [
+      "remedy",
+      "medicine",
+      "physic",
+      "drug",
+      "treatment",
+      "cure",
+      "panacea",
+      "does"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "nothing but",
+    "pos": "",
+    "head_meanings": [
+      "-에 지나지 않는(only)",
+      "단지 -일 따름"
+    ],
+    "synonyms_from_image": [
+      "nothing else[other] than[but]"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "notoriety",
+    "pos": "n.",
+    "head_meanings": [
+      "(보통 나쁜 뜻으로) 평판",
+      "유명",
+      "악명",
+      "악명(높은 사람)"
+    ],
+    "synonyms_from_image": [
+      "infamy",
+      "disrepute",
+      "ill repute",
+      "shame",
+      "dishonor",
+      "disgrace",
+      "discredit"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "novel",
+    "pos": "adj.",
+    "head_meanings": [
+      "새로운",
+      "신기한",
+      "참신한",
+      "독창적인"
+    ],
+    "synonyms_from_image": [
+      "original"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "novelty",
+    "pos": "n.",
+    "head_meanings": [
+      "새로움",
+      "색다른 물건",
+      "새로운 경험",
+      "신종 제품"
+    ],
+    "synonyms_from_image": [
+      "originality",
+      "uniqueness",
+      "permutation",
+      "change",
+      "innovation",
+      "trinket",
+      "gewgaw",
+      "bagatelle",
+      "bauble"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "novice",
+    "pos": "n.",
+    "head_meanings": [
+      "초심자(beginner)",
+      "미숙자",
+      "풋내기",
+      "무경험자"
+    ],
+    "synonyms_from_image": [
+      "neophyte",
+      "tyro",
+      "debutant",
+      "beginner",
+      "initiate",
+      "fledgling",
+      "apprentice",
+      "trainee",
+      "tenderfoot",
+      "proselyte"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "noxious",
+    "pos": "adj.",
+    "head_meanings": [
+      "유해한",
+      "유독한",
+      "불건전한"
+    ],
+    "synonyms_from_image": [
+      "poisonous",
+      "toxic",
+      "malicious",
+      "offensive",
+      "unhealthy",
+      "noisome",
+      "sickly",
+      "pernicious"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "nuance",
+    "pos": "n.",
+    "head_meanings": [
+      "(색채·음조·의미·감정 등의) 미묘한 차이",
+      "음영",
+      "뉘앙스"
+    ],
+    "synonyms_from_image": [
+      "difference",
+      "discrimination",
+      "touch",
+      "shade",
+      "dissimilarity"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "nugatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "하찮은",
+      "쓸모 없는",
+      "무효의"
+    ],
+    "synonyms_from_image": [
+      "negligible",
+      "valueless",
+      "shabby",
+      "ineffective",
+      "trivial",
+      "vain"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "nuisance",
+    "pos": "n.",
+    "head_meanings": [
+      "귀찮은 존재(것)",
+      "성가신 것",
+      "불쾌한 것"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "054",
+    "word": "nullify",
+    "pos": "v.",
+    "head_meanings": [
+      "(법적으로) 무효로 하다",
+      "폐기하다",
+      "헛되이 하다"
+    ],
+    "synonyms_from_image": [
+      "repeal",
+      "abrogate",
+      "void",
+      "cancel",
+      "annul",
+      "abolish"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "numinous",
+    "pos": "adj.",
+    "head_meanings": [
+      "신령( numen)의",
+      "초자연적인",
+      "신비한",
+      "불가사의한"
+    ],
+    "synonyms_from_image": [
+      "occult",
+      "spiritual",
+      "religious",
+      "divine",
+      "holy",
+      "sacred",
+      "mysterious",
+      "other-worldly",
+      "unearthly",
+      "transcendent"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "nurture",
+    "pos": "v.",
+    "head_meanings": [
+      "양육하다",
+      "(영양물을 주어) 키우다",
+      "교육하다"
+    ],
+    "synonyms_from_image": [
+      "care for",
+      "cherish",
+      "foster",
+      "make better",
+      "nourish",
+      "nurse"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "nutrient",
+    "pos": "n.",
+    "head_meanings": [
+      "자양분이 있는",
+      "영양이 되는"
+    ],
+    "synonyms_from_image": [
+      "nutritious",
+      "nutritive",
+      "nourishing",
+      "nutrimental"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "obdurate",
+    "pos": "adj.",
+    "head_meanings": [
+      "완고한",
+      "고집 센",
+      "(죄수 등이) 쉽게 회개하지 않는",
+      "냉혹한"
+    ],
+    "synonyms_from_image": [
+      "intransigent",
+      "unyielding",
+      "implacable",
+      "intractable",
+      "stubborn",
+      "obstinate",
+      "inflexible",
+      "mulish",
+      "headstrong",
+      "callous",
+      "heartless",
+      "impenitent",
+      "insensible",
+      "cold",
+      "inexorable",
+      "uncompromising",
+      "adamant",
+      "determined"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "obduracy",
+    "pos": "n.",
+    "head_meanings": [
+      "고집",
+      "완고",
+      "냉혹"
+    ],
+    "synonyms_from_image": [
+      "intransigence",
+      "obstinacy",
+      "stubbornness",
+      "inflexibility",
+      "mulishness"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "obeisance",
+    "pos": "n.",
+    "head_meanings": [
+      "절",
+      "인사",
+      "존경",
+      "경의",
+      "복종"
+    ],
+    "synonyms_from_image": [
+      "homage",
+      "respect",
+      "submission",
+      "loyalty",
+      "kowtow"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "obese",
+    "pos": "adj.",
+    "head_meanings": [
+      "뚱뚱하게 살찐"
+    ],
+    "synonyms_from_image": [
+      "corpulent",
+      "stout",
+      "overweight",
+      "plump"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "obfuscate",
+    "pos": "v.",
+    "head_meanings": [
+      "(일 등을) 혼란하게 하다",
+      "난처하게 하다",
+      "흐리게(불명료하게) 하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "063",
+    "word": "obfuscatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "혼란하게 하는",
+      "이해하기 어렵게 하는"
+    ],
+    "synonyms_from_image": [
+      "obscure",
+      "confuse",
+      "blur",
+      "muddle",
+      "complicate",
+      "muddy",
+      "cloud",
+      "befog",
+      "darken",
+      "fluster",
+      "confound",
+      "stupefy"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "obfuscation",
+    "pos": "n.",
+    "head_meanings": [
+      "혼란",
+      "난처",
+      "흐리게 함"
+    ],
+    "synonyms_from_image": [
+      "mystification"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "objectionable",
+    "pos": "adj.",
+    "head_meanings": [
+      "이의가 있는",
+      "반대할 만한",
+      "불쾌한",
+      "싫은(offensive)"
+    ],
+    "synonyms_from_image": [
+      "unpleasant",
+      "disagreeable",
+      "distasteful",
+      "obnoxious",
+      "offensive",
+      "horrible",
+      "horrid",
+      "disgusting"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "objective",
+    "pos": "adj.",
+    "head_meanings": [
+      "객관적인",
+      "편견이 없는",
+      "물질의",
+      "실재의"
+    ],
+    "synonyms_from_image": [
+      "equitable",
+      "impartial",
+      "impersonal",
+      "uncolored",
+      "material",
+      "physical",
+      "external"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "objectivity",
+    "pos": "n.",
+    "head_meanings": [
+      "객관성"
+    ],
+    "synonyms_from_image": [
+      "fairness"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "objective",
+    "pos": "n.",
+    "head_meanings": [
+      "목적",
+      "목표"
+    ],
+    "synonyms_from_image": [
+      "purpose",
+      "intent",
+      "target",
+      "destination",
+      "mark"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "objurgate",
+    "pos": "v.",
+    "head_meanings": [
+      "(을) 심하게 책망하다",
+      "엄하게 꾸짖다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "070",
+    "word": "obligate",
+    "pos": "v.",
+    "head_meanings": [
+      "의무를 지우다",
+      "강요하다"
+    ],
+    "synonyms_from_image": [
+      "oblige",
+      "compel",
+      "commit",
+      "bind",
+      "constrain",
+      "force",
+      "impel"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "obligated",
+    "pos": "adj.",
+    "head_meanings": [
+      "의무를 진",
+      "필수의",
+      "강제된"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "072",
+    "word": "obligatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "의무적인",
+      "(과목 등이) 필수의",
+      "강제적인",
+      "(도덕·도리상) 구속력이 있는",
+      "지켜야 할 의무가 있는"
+    ],
+    "synonyms_from_image": [
+      "compulsory",
+      "mandatory",
+      "imperative",
+      "necessary",
+      "binding",
+      "required",
+      "prescribed"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "oblique",
+    "pos": "adj.",
+    "head_meanings": [
+      "비스듬한",
+      "기울어진",
+      "부정한",
+      "잘못된",
+      "비뚤어진(perverse)",
+      "완곡한",
+      "에두른",
+      "간접적인",
+      "모호한"
+    ],
+    "synonyms_from_image": [
+      "diagonal",
+      "inclined",
+      "sloping",
+      "aslant",
+      "slanted",
+      "leaning",
+      "wrong",
+      "unjust",
+      "indirect",
+      "allusive"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "obliquity",
+    "pos": "n.",
+    "head_meanings": [
+      "부도덕(한 행위)",
+      "부정(행위)",
+      "마음의 비뚤어짐",
+      "비뚤어진 행동(행위)",
+      "고집(하는 태도)",
+      "경사",
+      "각도",
+      "빛각"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "075",
+    "word": "obliterate",
+    "pos": "v.",
+    "head_meanings": [
+      "[흔적 등을] 없애다",
+      "제거하다",
+      "말살하다",
+      "(기억에) 지우다",
+      "(문자 등을) 지우다"
+    ],
+    "synonyms_from_image": [
+      "expunge",
+      "forget",
+      "efface",
+      "erase",
+      "delete",
+      "eradicate",
+      "wipe out",
+      "black out",
+      "destroy",
+      "annihilate",
+      "demolish",
+      "liquidate",
+      "hide",
+      "obscure",
+      "block",
+      "cover",
+      "screen"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "obliterating",
+    "pos": "adj.",
+    "head_meanings": [
+      "말살하는",
+      "제거하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "077",
+    "word": "oblivion",
+    "pos": "n.",
+    "head_meanings": [
+      "잊혀져 있는 상태"
+    ],
+    "synonyms_from_image": [
+      "insensibility",
+      "forgetfulness",
+      "obliviousness",
+      "nirvana",
+      "unconsciousness"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "oblivious",
+    "pos": "adj.",
+    "head_meanings": [
+      "염두(안중)에 없는",
+      "(-에) 몰두하여 감지하지 못하는",
+      "(잘) 잊어버리는",
+      "건망성 있는"
+    ],
+    "synonyms_from_image": [
+      "unaware",
+      "unconscious",
+      "heedless",
+      "unmindful",
+      "insensible",
+      "ignorant",
+      "unsuspecting",
+      "unconcerned"
+    ]
+  },
+  {
+    "id": "079",
+    "word": "obloquy",
+    "pos": "n.",
+    "head_meanings": [
+      "욕설",
+      "비방",
+      "오명",
+      "불명예"
+    ],
+    "synonyms_from_image": [
+      "criticism",
+      "rebuke",
+      "censure",
+      "calumny",
+      "dishonor",
+      "shame"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "obnoxious",
+    "pos": "adj.",
+    "head_meanings": [
+      "역겨운",
+      "주관한",
+      "불쾌한",
+      "싫은",
+      "미운",
+      "기분 나쁜",
+      "밉살스러운"
+    ],
+    "synonyms_from_image": [
+      "objectionable",
+      "disagreeable",
+      "unpleasant",
+      "nasty",
+      "hateful"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "obscure",
+    "pos": "adj. & v.",
+    "head_meanings": [
+      "(adj) 분명하지 않은",
+      "(adj) 애매한",
+      "(adj) 어두운",
+      "(adj) 흐린",
+      "(adj) 눈에 띄지 않는",
+      "(adj) 세상에 알려지지 않은",
+      "(adj) 무명인",
+      "(v) 숨기다",
+      "(v) 덮어 감추다",
+      "(v) 흐리게(불명료하게) 하다",
+      "(v) 어둡게 하다"
+    ],
+    "synonyms_from_image": [
+      "opaque",
+      "indistinct",
+      "vague",
+      "shadowy",
+      "hazy",
+      "blurred",
+      "cloudy",
+      "unclear",
+      "indefinite",
+      "uncertain",
+      "doubtful",
+      "dubious",
+      "ambiguous",
+      "hidden",
+      "concealed",
+      "intricate",
+      "little-known",
+      "unknown",
+      "unheard of",
+      "undistinguished",
+      "unimportant",
+      "nameless",
+      "minor",
+      "unrecognizable",
+      "forgotten",
+      "hide",
+      "conceal",
+      "cover",
+      "veil",
+      "shroud",
+      "screen",
+      "mask",
+      "cloak",
+      "shadow",
+      "block",
+      "obliterate",
+      "eclipse",
+      "confuse",
+      "complicate",
+      "obfuscate",
+      "cloud",
+      "blur",
+      "muddy"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "obscurity",
+    "pos": "n.",
+    "head_meanings": [
+      "우묵함",
+      "비밀",
+      "은폐",
+      "어둠",
+      "세상이 알려지지 않은 상태",
+      "무명"
+    ],
+    "synonyms_from_image": [
+      "anonymity"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "obsequious",
+    "pos": "adj.",
+    "head_meanings": [
+      "아첨하는",
+      "아부적인",
+      "순종하는"
+    ],
+    "synonyms_from_image": [
+      "sycophantic",
+      "fawning",
+      "toadying",
+      "flattering",
+      "obeisant",
+      "deferential"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "obsession",
+    "pos": "n.",
+    "head_meanings": [
+      "집념",
+      "강박 관념",
+      "(머리에 들러붙어 떠나지 않는) 집념",
+      "사로잡혀 있기",
+      "(망상 등이) 들러붙음",
+      "사로잡음",
+      "(귀신 등이) 들림",
+      "그 상태"
+    ],
+    "synonyms_from_image": [
+      "bewitchment",
+      "engrossment",
+      "fixation",
+      "compulsion",
+      "possession"
+    ]
+  }
+]

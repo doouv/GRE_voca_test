@@ -1,0 +1,1263 @@
+[
+  {
+    "id": "001",
+    "word": "misguide",
+    "pos": "",
+    "head_meanings": [
+      "그릇되게 지도하다",
+      "잘못 이끌다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "002",
+    "word": "misguided1",
+    "pos": "",
+    "head_meanings": [
+      "잘못 인식시키다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "003",
+    "word": "mishap1",
+    "pos": "",
+    "head_meanings": [
+      "재난",
+      "불행한 사건",
+      "불운"
+    ],
+    "synonyms_from_image": [
+      "misadventure",
+      "mischance",
+      "casualty",
+      "adversity"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "mislead",
+    "pos": "",
+    "head_meanings": [
+      "잘못된 방향으로 이끌다",
+      "속이다",
+      "오해하게 하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "005",
+    "word": "misnomer1",
+    "pos": "",
+    "head_meanings": [
+      "잘못된 명칭",
+      "오칭",
+      "잘못 부르기",
+      "잘못 적기",
+      "오기"
+    ],
+    "synonyms_from_image": [
+      "unsuitable term",
+      "misusage",
+      "misnaming",
+      "solecism"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "maverick1",
+    "pos": "",
+    "head_meanings": [
+      "어느 파에도 속하지 않는",
+      "무소속가",
+      "독불장군",
+      "소유자 표시의 낙인이 없는 소",
+      "어미 소에서 떨어진 낙인 없는 송아지",
+      "무리에서 벗어나다"
+    ],
+    "synonyms_from_image": [
+      "non-conformist",
+      "independent thinker",
+      "individualist"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "mawkish1",
+    "pos": "",
+    "head_meanings": [
+      "동시 감상적인",
+      "잘 우는",
+      "속이 언짢은",
+      "메스꺼운",
+      "구역질 나게 하는",
+      "역겨운",
+      "싱거운"
+    ],
+    "synonyms_from_image": [
+      "maudlin",
+      "sentimental",
+      "soppy",
+      "nauseating",
+      "unsavory",
+      "sickening",
+      "insipid"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "mawkishness1",
+    "pos": "",
+    "head_meanings": [
+      "감상적임",
+      "역겨움",
+      "싱거움"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "009",
+    "word": "maze1",
+    "pos": "",
+    "head_meanings": [
+      "미로",
+      "미궁",
+      "복잡함",
+      "얽히고 설킴",
+      "당혹",
+      "혼란"
+    ],
+    "synonyms_from_image": [
+      "labyrinth",
+      "tangle"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "meager",
+    "pos": "",
+    "head_meanings": [
+      "빈약한",
+      "결핍한",
+      "불충분한",
+      "부실한",
+      "지적결핍한",
+      "비천한",
+      "천박한",
+      "비열한"
+    ],
+    "synonyms_from_image": [
+      "paltry",
+      "insufficient",
+      "slender",
+      "insubstantial",
+      "deficient",
+      "slight"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "mean",
+    "pos": "",
+    "head_meanings": [
+      "열등한",
+      "하찮은",
+      "천한",
+      "비열한",
+      "초라한",
+      "인색한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "012",
+    "word": "meander",
+    "pos": "",
+    "head_meanings": [
+      "이리저리 정처없이 헤매다"
+    ],
+    "synonyms_from_image": [
+      "twist",
+      "drift",
+      "wind",
+      "stray",
+      "wander",
+      "ramble"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "measured1",
+    "pos": "",
+    "head_meanings": [
+      "정확히 잰",
+      "균형이 잡힌",
+      "신중한",
+      "숙고한",
+      "박자가 맞는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "014",
+    "word": "meddlesome1",
+    "pos": "",
+    "head_meanings": [
+      "쓸데없이 참견하기 좋아하는"
+    ],
+    "synonyms_from_image": [
+      "officious",
+      "meddling",
+      "prying",
+      "obtrusive"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "meddle1",
+    "pos": "v.",
+    "head_meanings": [
+      "남의 일에 쓸데없이 참견하다",
+      "간섭하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "016",
+    "word": "mediate",
+    "pos": "",
+    "head_meanings": [
+      "조정하다",
+      "중재하다",
+      "화해시키다"
+    ],
+    "synonyms_from_image": [
+      "reconcile",
+      "intervene",
+      "step in",
+      "intercede"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "mediocre1",
+    "pos": "",
+    "head_meanings": [
+      "보통의",
+      "평범한",
+      "좋지도 나쁘지도 않은"
+    ],
+    "synonyms_from_image": [
+      "undistinguished",
+      "indifferent",
+      "normal",
+      "average",
+      "bad",
+      "poor",
+      "inferior"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "meditation",
+    "pos": "",
+    "head_meanings": [
+      "심사숙고",
+      "명상",
+      "묵상",
+      "명상록"
+    ],
+    "synonyms_from_image": [
+      "consideration",
+      "engrossment",
+      "contemplation"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "meek",
+    "pos": "",
+    "head_meanings": [
+      "온순한",
+      "유순한",
+      "말 잘 듣는",
+      "기백이 없는",
+      "굴종적인"
+    ],
+    "synonyms_from_image": [
+      "humble",
+      "modest",
+      "unassuming",
+      "mild",
+      "patient"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "meet",
+    "pos": "",
+    "head_meanings": [
+      "적절한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "021",
+    "word": "megalomania",
+    "pos": "",
+    "head_meanings": [
+      "과대 망상광증",
+      "과장하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "022",
+    "word": "megalomaniac(adj)",
+    "pos": "",
+    "head_meanings": [
+      "과대망상의",
+      "과대망상에 빠진 사람"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "023",
+    "word": "melancholic",
+    "pos": "",
+    "head_meanings": [
+      "우울한 사람",
+      "우울증의 환자",
+      "우울하게 하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "024",
+    "word": "melancholy",
+    "pos": "n.",
+    "head_meanings": [
+      "우울",
+      "침울",
+      "우울한",
+      "슬픈",
+      "우울하게 하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "025",
+    "word": "meld1",
+    "pos": "",
+    "head_meanings": [
+      "혼합하다"
+    ],
+    "synonyms_from_image": [
+      "combine"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "meliorate",
+    "pos": "",
+    "head_meanings": [
+      "개선하다",
+      "개량하다",
+      "좋아지다",
+      "호전되다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "027",
+    "word": "mellifluous",
+    "pos": "",
+    "head_meanings": [
+      "감미로운",
+      "부드럽게 흘러 나오는"
+    ],
+    "synonyms_from_image": [
+      "melodious",
+      "sweet-sounding",
+      "sweet",
+      "mellifluent"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "melodramatic1",
+    "pos": "",
+    "head_meanings": [
+      "멜로드라마의",
+      "통속극식의",
+      "신파조의",
+      "과장된 투의"
+    ],
+    "synonyms_from_image": [
+      "exaggerated",
+      "histrionic",
+      "overdramatic",
+      "over-sensational",
+      "overemotional",
+      "sentimental",
+      "theatrical",
+      "stagy"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "melodrama1",
+    "pos": "",
+    "head_meanings": [
+      "멜로드라마",
+      "통속극"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "030",
+    "word": "memoir1",
+    "pos": "",
+    "head_meanings": [
+      "회고록",
+      "회상록",
+      "체험기",
+      "자서전",
+      "연구 논문집",
+      "회보",
+      "전기"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "031",
+    "word": "menace",
+    "pos": "",
+    "head_meanings": [
+      "위협하다",
+      "위협하는 것",
+      "위협하는 사람"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "032",
+    "word": "mendacious1",
+    "pos": "",
+    "head_meanings": [
+      "거짓말하는",
+      "부정직한",
+      "허위의",
+      "거짓의"
+    ],
+    "synonyms_from_image": [
+      "insincere",
+      "disingenuous",
+      "hypocritical",
+      "untruthful",
+      "dishonest",
+      "forsworn",
+      "deceitful",
+      "dissembling",
+      "fraudulent",
+      "duplicitous",
+      "fictitious",
+      "falsified",
+      "fabricated",
+      "fallacious",
+      "invented",
+      "made up"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "mendacity1",
+    "pos": "n.",
+    "head_meanings": [
+      "거짓말하는 버릇",
+      "거짓",
+      "허위"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "034",
+    "word": "disinformation1",
+    "pos": "",
+    "head_meanings": [
+      "거짓 정보"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "035",
+    "word": "mendicant",
+    "pos": "",
+    "head_meanings": [
+      "거지",
+      "탁발승",
+      "구걸하는",
+      "탁발의"
+    ],
+    "synonyms_from_image": [
+      "beggar",
+      "vagrant",
+      "vagabond",
+      "bum",
+      "mooch",
+      "moocher",
+      "bummer"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "menial1",
+    "pos": "",
+    "head_meanings": [
+      "시시한",
+      "지루한",
+      "천한 일을 하는",
+      "비천한",
+      "비굴한",
+      "머슴",
+      "하인"
+    ],
+    "synonyms_from_image": [
+      "unskilled",
+      "lowly",
+      "humble",
+      "low-grade",
+      "inferior",
+      "degrading",
+      "routine",
+      "humdrum",
+      "boring",
+      "dull",
+      "servant",
+      "drudge",
+      "minion",
+      "factotum",
+      "lackey"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "mercantile",
+    "pos": "",
+    "head_meanings": [
+      "상업의",
+      "상인의",
+      "중상주의의"
+    ],
+    "synonyms_from_image": [
+      "commercial",
+      "trading",
+      "industrial"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "mercantilism1",
+    "pos": "",
+    "head_meanings": [
+      "상업주의",
+      "상술",
+      "상인 기질"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "039",
+    "word": "mercenary1",
+    "pos": "",
+    "head_meanings": [
+      "돈만 바라는",
+      "보수를 목적으로 하는"
+    ],
+    "synonyms_from_image": [
+      "monetary",
+      "money-motivated",
+      "for pay",
+      "covetous"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "mercurial1",
+    "pos": "",
+    "head_meanings": [
+      "변덕스러운",
+      "변하기 쉬운",
+      "쾌활한",
+      "명랑한",
+      "활기 있는",
+      "재치 있는",
+      "수은의"
+    ],
+    "synonyms_from_image": [
+      "volatile",
+      "capricious",
+      "inconstant",
+      "unstable",
+      "fickle",
+      "changeable",
+      "variable",
+      "protean",
+      "mutable",
+      "erratic",
+      "inconsistent",
+      "fluctuating",
+      "whimsical",
+      "impulsive",
+      "labile",
+      "lively"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "metamorphosis",
+    "pos": "",
+    "head_meanings": [
+      "변형",
+      "변태"
+    ],
+    "synonyms_from_image": [
+      "translation",
+      "mutation",
+      "modification",
+      "transmogrification",
+      "transformation",
+      "conversion",
+      "transfiguration"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "metaphor1",
+    "pos": "",
+    "head_meanings": [
+      "은유",
+      "암유",
+      "상징"
+    ],
+    "synonyms_from_image": [
+      "image",
+      "figurative expression",
+      "poetic equivalent",
+      "metonymy",
+      "parallel",
+      "analogy",
+      "similitude"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "metaphoric(al)",
+    "pos": "a.",
+    "head_meanings": [
+      "은유의",
+      "은유적인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "044",
+    "word": "metaphysical1",
+    "pos": "",
+    "head_meanings": [
+      "형이상학의",
+      "순수 철학의",
+      "철학적인",
+      "극히 추상적인",
+      "난해한",
+      "초자연적인",
+      "공상적인"
+    ],
+    "synonyms_from_image": [
+      "immaterial",
+      "unanswerable",
+      "intellectual",
+      "nonmaterial",
+      "spiritual",
+      "supernatural",
+      "abstract"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "meteoric",
+    "pos": "",
+    "head_meanings": [
+      "빠른",
+      "유성과 같은",
+      "잠시 빛났다 사라지는",
+      "대기의"
+    ],
+    "synonyms_from_image": [
+      "flaming",
+      "fleetingly bright",
+      "transiently fiery"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "methodical1",
+    "pos": "",
+    "head_meanings": [
+      "정연한",
+      "질서 있는",
+      "조직적인",
+      "규칙적인"
+    ],
+    "synonyms_from_image": [
+      "systematic",
+      "deliberate",
+      "meticulous",
+      "logical",
+      "analytical",
+      "orderly"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "meticulous1",
+    "pos": "",
+    "head_meanings": [
+      "꼼꼼한",
+      "세심한",
+      "정확한",
+      "사소한 일에 마음을 쓰는",
+      "신중한",
+      "소심한",
+      "지나치게 세심한"
+    ],
+    "synonyms_from_image": [
+      "careful",
+      "conscientious",
+      "attentive",
+      "diligent",
+      "scrupulous",
+      "punctilious",
+      "painstaking",
+      "accurate",
+      "precise",
+      "thorough",
+      "rigorous",
+      "detailed",
+      "perfectionist",
+      "fastidious",
+      "methodical",
+      "exactitude"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "meticulousness1",
+    "pos": "n.",
+    "head_meanings": [
+      "정확성",
+      "정밀도",
+      "엄격",
+      "열정"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "049",
+    "word": "meticulously1",
+    "pos": "adv.",
+    "head_meanings": [
+      "꼼꼼하게",
+      "세심하게",
+      "신중하게"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "050",
+    "word": "mettle",
+    "pos": "",
+    "head_meanings": [
+      "기질",
+      "패기",
+      "원기",
+      "용기",
+      "기개"
+    ],
+    "synonyms_from_image": [
+      "animation",
+      "temperament",
+      "nerve",
+      "bravery",
+      "determination",
+      "gallantry"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "microcosm1",
+    "pos": "",
+    "head_meanings": [
+      "소우주",
+      "소세계",
+      "인간사회",
+      "축도"
+    ],
+    "synonyms_from_image": [
+      "miniature universe"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "midst1",
+    "pos": "",
+    "head_meanings": [
+      "한복판",
+      "중앙",
+      "한가운데",
+      "한창때"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "053",
+    "word": "mien",
+    "pos": "",
+    "head_meanings": [
+      "태도",
+      "몸가짐",
+      "처신",
+      "양상",
+      "외관",
+      "겉치레"
+    ],
+    "synonyms_from_image": [
+      "demeanor",
+      "appearance",
+      "bearing",
+      "expression",
+      "manner",
+      "look",
+      "aspect"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "migrant",
+    "pos": "",
+    "head_meanings": [
+      "이주하는",
+      "이주자"
+    ],
+    "synonyms_from_image": [
+      "migratory",
+      "immigrant",
+      "emigrant",
+      "mobile"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "migratory",
+    "pos": "",
+    "head_meanings": [
+      "이동하는",
+      "이주성의",
+      "방랑하는"
+    ],
+    "synonyms_from_image": [
+      "migrant",
+      "migrative",
+      "transmigratory",
+      "wandering"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "milestone",
+    "pos": "",
+    "head_meanings": [
+      "마일 표",
+      "이정표",
+      "기념비적인 사건",
+      "획기적인 사건",
+      "기념비적인 일"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "057",
+    "word": "milieu",
+    "pos": "",
+    "head_meanings": [
+      "주위",
+      "환경",
+      "표현수단"
+    ],
+    "synonyms_from_image": [
+      "surrounding",
+      "ambience",
+      "background",
+      "setting",
+      "atmosphere",
+      "element"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "mimetic1",
+    "pos": "",
+    "head_meanings": [
+      "모방의",
+      "의태의"
+    ],
+    "synonyms_from_image": [
+      "imitation",
+      "impersonation",
+      "apery",
+      "parody",
+      "mockery"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "mimicry1",
+    "pos": "",
+    "head_meanings": [
+      "흉내",
+      "모방",
+      "의태",
+      "모조품"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "060",
+    "word": "mimic1",
+    "pos": "v.",
+    "head_meanings": [
+      "흉내내다",
+      "꼭 닮다",
+      "의태하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "061",
+    "word": "minatory",
+    "pos": "",
+    "head_meanings": [
+      "협박의",
+      "위협적인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "062",
+    "word": "mindful",
+    "pos": "",
+    "head_meanings": [
+      "신경을 쓰는",
+      "마음에 새기는",
+      "주의하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "063",
+    "word": "minimize1",
+    "pos": "",
+    "head_meanings": [
+      "최소한도로 하다",
+      "최소한도로 평가하다",
+      "경시하다",
+      "과소평가하다",
+      "얕보다"
+    ],
+    "synonyms_from_image": [
+      "keep down",
+      "reduce",
+      "decrease",
+      "lessen",
+      "curtail",
+      "diminish",
+      "prune",
+      "belittle",
+      "play down",
+      "underestimate",
+      "underrate",
+      "downplay",
+      "undervalue",
+      "understate"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "minion1",
+    "pos": "",
+    "head_meanings": [
+      "앞잡이",
+      "부하",
+      "심복"
+    ],
+    "synonyms_from_image": [
+      "favorite",
+      "follower",
+      "pawn",
+      "a right-hand man",
+      "agent",
+      "sycophant"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "minuscule",
+    "pos": "",
+    "head_meanings": [
+      "아주 작은",
+      "하찮은",
+      "소문자의"
+    ],
+    "synonyms_from_image": [
+      "diminutive"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "minute1",
+    "pos": "",
+    "head_meanings": [
+      "미세한",
+      "하찮은",
+      "미미한",
+      "세심한",
+      "상세한"
+    ],
+    "synonyms_from_image": [
+      "diminutive",
+      "extremely small",
+      "imperceptible",
+      "tiny",
+      "exhaustive",
+      "meticulous",
+      "thorough"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "mire",
+    "pos": "",
+    "head_meanings": [
+      "궁지에 몰아 넣다",
+      "진흙 속에 처박다",
+      "진창",
+      "수렁",
+      "진흙"
+    ],
+    "synonyms_from_image": [
+      "bog down",
+      "ensnare",
+      "enmesh",
+      "quagmire",
+      "swamp",
+      "bog",
+      "morass",
+      "marshland"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "mirth",
+    "pos": "",
+    "head_meanings": [
+      "환희",
+      "유쾌한 법석",
+      "떠들썩한 소동",
+      "즐거운 웃음 소리"
+    ],
+    "synonyms_from_image": [
+      "amusement",
+      "jollity",
+      "gaiety",
+      "playfulness"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "mirthful1",
+    "pos": "",
+    "head_meanings": [
+      "즐거운",
+      "명랑한"
+    ],
+    "synonyms_from_image": [
+      "jovial",
+      "merry",
+      "high-spirited",
+      "gleeful",
+      "cheerful",
+      "jocular",
+      "buoyant",
+      "festive",
+      "euphoric",
+      "exhilarated",
+      "elated",
+      "light-hearted",
+      "joyous",
+      "jolly"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "misanthrope",
+    "pos": "",
+    "head_meanings": [
+      "인간을 싫어하는 사람",
+      "염세가"
+    ],
+    "synonyms_from_image": [
+      "manhater",
+      "pessimist",
+      "defeatist",
+      "one who sees only the bad side"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "miscalculation1",
+    "pos": "",
+    "head_meanings": [
+      "계산 착오",
+      "오산",
+      "잘못된 판단"
+    ],
+    "synonyms_from_image": [
+      "error of judgement",
+      "misjudgement",
+      "mistake",
+      "overestimate",
+      "underestimate"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "miscellany",
+    "pos": "",
+    "head_meanings": [
+      "혼합",
+      "잡동사니",
+      "문집",
+      "잡록집"
+    ],
+    "synonyms_from_image": [
+      "assemblage",
+      "medley",
+      "hodgepodge",
+      "compilation",
+      "selections"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "mischance",
+    "pos": "",
+    "head_meanings": [
+      "불행",
+      "불운",
+      "재난"
+    ],
+    "synonyms_from_image": [
+      "misfortune",
+      "mishap",
+      "tragedy",
+      "accident",
+      "calamity",
+      "affliction"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "misconstrue1",
+    "pos": "",
+    "head_meanings": [
+      "뜻을 잘못 짚다",
+      "잘못 해석하다",
+      "오해하다"
+    ],
+    "synonyms_from_image": [
+      "misinterpret",
+      "misapprehend",
+      "misreckon",
+      "misread",
+      "mistranslate",
+      "distort"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "miscreant1",
+    "pos": "",
+    "head_meanings": [
+      "악한",
+      "이단자",
+      "신앙심이 없는 사람",
+      "사악한"
+    ],
+    "synonyms_from_image": [
+      "evildoer",
+      "sinner",
+      "malefactor"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "misdemeanor",
+    "pos": "",
+    "head_meanings": [
+      "경범죄",
+      "나쁜 품행",
+      "비행"
+    ],
+    "synonyms_from_image": [
+      "crime",
+      "misbehavior",
+      "misdeed",
+      "wrongdoing",
+      "delict",
+      "offense"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "miserly",
+    "pos": "",
+    "head_meanings": [
+      "인색한",
+      "욕심 많은",
+      "탐욕스러운"
+    ],
+    "synonyms_from_image": [
+      "parsimonious",
+      "selfish",
+      "ungenerous",
+      "greedy"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "misgivings1",
+    "pos": "",
+    "head_meanings": [
+      "의심",
+      "걱정",
+      "불안"
+    ],
+    "synonyms_from_image": [
+      "apprehension",
+      "trepidation",
+      "anxiety",
+      "foreboding",
+      "mental reservations"
+    ]
+  }
+]

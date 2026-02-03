@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "001",
+    "word": "obsolete",
+    "pos": "adj.",
+    "head_meanings": [
+      "시대에 뒤진, 구식의",
+      "쓸모 없게 된",
+      "한물간"
+    ],
+    "synonyms_from_image": [
+      "outmoded",
+      "old-fashioned",
+      "out of date",
+      "outdated",
+      "outmoded",
+      "disused",
+      "out of fashion",
+      "past",
+      "passé",
+      "dead",
+      "extinct",
+      "antiquated",
+      "bygone",
+      "anachronistic",
+      "discontinued",
+      "dated",
+      "archaic",
+      "ancient",
+      "defunct"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "obstinate",
+    "pos": "adj.",
+    "head_meanings": [
+      "고집센, 완고한, 집요한, 완강한",
+      "(병이) 난치의, 고치기 힘든"
+    ],
+    "synonyms_from_image": [
+      "stubborn",
+      "intransigent",
+      "intractable",
+      "obdurate",
+      "unyielding",
+      "inflexible",
+      "unbending",
+      "mulish",
+      "headstrong",
+      "willful",
+      "perverse",
+      "resolute",
+      "steadfast",
+      "recalcitrant",
+      "unmanageable",
+      "pernicious",
+      "uncompromising",
+      "implacable",
+      "unrelenting",
+      "persistent",
+      "tenacious",
+      "dogged",
+      "adamant",
+      "determined",
+      "refractory"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "obstreperous",
+    "pos": "adj.",
+    "head_meanings": [
+      "시끄러운; 다루기 힘든"
+    ],
+    "synonyms_from_image": [
+      "vociferous",
+      "violent",
+      "ungovernable",
+      "refractory"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "obstruct",
+    "pos": "v.",
+    "head_meanings": [
+      "(도로·수로 등을) 막다; 지나가기 어렵게 하다; (전망·소리·빛 등을) 가로막다; (진행·활동 등을) 방해하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "005",
+    "word": "obtrude",
+    "pos": "v.",
+    "head_meanings": [
+      "강요하다, 내밀다; 주제넘게 나서다"
+    ],
+    "synonyms_from_image": [
+      "intrude",
+      "thrust upon",
+      "impose",
+      "presume",
+      "trespass",
+      "barge in"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "obtrusive",
+    "pos": "adj.",
+    "head_meanings": [
+      "강요하는; 주제넘게 나서는; 참견하는; 눈에 거슬리는"
+    ],
+    "synonyms_from_image": [
+      "impertinent",
+      "meddlesome",
+      "officious",
+      "interfering",
+      "insolent",
+      "prominent",
+      "noticeable",
+      "obvious",
+      "conspicuous",
+      "intrusive"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "obtuse",
+    "pos": "adj.",
+    "head_meanings": [
+      "(칼날·각이) 무딘; 둔감한, 우둔한; (수학) 둔각"
+    ],
+    "synonyms_from_image": [
+      "unfeeling",
+      "insensitive",
+      "ignorant",
+      "not pointed",
+      "dull"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "obviate",
+    "pos": "v.",
+    "head_meanings": [
+      "(위험·곤란 따위를) 제거하다; (대책을 써서) 미연에 방지하다"
+    ],
+    "synonyms_from_image": [
+      "displace",
+      "avert",
+      "forestall",
+      "preclude",
+      "eliminate",
+      "remove",
+      "deter",
+      "discourage",
+      "ward off",
+      "prohibit",
+      "stave off"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "obvious",
+    "pos": "adj.",
+    "head_meanings": [
+      "분명한, 명백한, 이해하기 쉬운"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "010",
+    "word": "occlude",
+    "pos": "v.",
+    "head_meanings": [
+      "(구멍·통로 따위를) 막다, 폐색하다, 차단하다"
+    ],
+    "synonyms_from_image": [
+      "obstruct",
+      "block",
+      "congest",
+      "plug",
+      "clog",
+      "choke"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "occult",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "(adj.) 숨은, 신비로운, 초자연적인",
+      "(v.) (해·달 등을) 가리다, 숨기다"
+    ],
+    "synonyms_from_image": [
+      "numinous",
+      "veiled",
+      "concealed",
+      "latent",
+      "mystical",
+      "magic",
+      "arcane"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "odious",
+    "pos": "adj.",
+    "head_meanings": [
+      "미운, 싫은, 추악한, 밉살스런"
+    ],
+    "synonyms_from_image": [
+      "filthy",
+      "offensive",
+      "intolerable",
+      "abominable",
+      "detestable"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "odium",
+    "pos": "n.",
+    "head_meanings": [
+      "악평, 오명, 질책, 비난, 반감, 증오"
+    ],
+    "synonyms_from_image": [
+      "hate",
+      "contempt",
+      "infamy",
+      "opprobrium",
+      "disgrace"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "odoriferous",
+    "pos": "adj.",
+    "head_meanings": [
+      "향기로운, 향기나는; (도덕적으로) 부한; 냄새나는"
+    ],
+    "synonyms_from_image": [
+      "sweet-scented",
+      "scented",
+      "redolent",
+      "odorous"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "odorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "향기로운, 향기나는"
+    ],
+    "synonyms_from_image": [
+      "odoriferous",
+      "balmy",
+      "spicy",
+      "aromatic",
+      "scented"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "offbeat",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "색다른; 자유스러운; 약한 박자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "017",
+    "word": "offhand",
+    "pos": "adj./adv.",
+    "head_meanings": [
+      "즉석의, 준비 없는; 되는대로의; 무뚝뚝한"
+    ],
+    "synonyms_from_image": [
+      "extemporaneous",
+      "impromptu",
+      "unstudied",
+      "unrehearsed"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "officious",
+    "pos": "adj.",
+    "head_meanings": [
+      "참견 잘하는, 주제넘게 나서는; 쓸데없이 친절을 베푸는"
+    ],
+    "synonyms_from_image": [
+      "impertinent",
+      "busy",
+      "intrusive",
+      "obtrusive",
+      "presumptuous",
+      "meddling",
+      "interfering"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "offset",
+    "pos": "v./n.",
+    "head_meanings": [
+      "상쇄하다; 보상하다; (부족한 것을) 메우다"
+    ],
+    "synonyms_from_image": [
+      "counterbalance",
+      "balance (out)",
+      "cancel (out)",
+      "counteract",
+      "neutralize",
+      "compensate for",
+      "make up for",
+      "redeem"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "offspring",
+    "pos": "n.",
+    "head_meanings": [
+      "(사람·동물의) 자식, 새끼; 자손; 생겨난 것, 소산, 결과"
+    ],
+    "synonyms_from_image": [
+      "progeny",
+      "brood",
+      "descendents",
+      "heirs",
+      "successors",
+      "children",
+      "youngster",
+      "spawn"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "olfactory",
+    "pos": "adj.",
+    "head_meanings": [
+      "후각의; 후각 기관(신경)의"
+    ],
+    "synonyms_from_image": [
+      "olfactive"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "oligarchy",
+    "pos": "n.",
+    "head_meanings": [
+      "과두 정치, 소수 독재 정치"
+    ],
+    "synonyms_from_image": [
+      "polyarchy"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "ominous",
+    "pos": "adj.",
+    "head_meanings": [
+      "불길한, 나쁜 징조의; 협박하는; 전조의"
+    ],
+    "synonyms_from_image": [
+      "inauspicious",
+      "menacing",
+      "baleful",
+      "forbidding",
+      "sinister",
+      "unpropitious",
+      "portentous",
+      "unfavorable",
+      "unpromising",
+      "minatory"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "omnipotent",
+    "pos": "adj.",
+    "head_meanings": [
+      "전지전능한; 무엇이든지 할 수 있는 절대력을 가진"
+    ],
+    "synonyms_from_image": [
+      "almighty",
+      "godlike",
+      "sovereign",
+      "supreme",
+      "divine"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "omnipresent",
+    "pos": "adj.",
+    "head_meanings": [
+      "편재하는; (동시에) 어디든지 있는"
+    ],
+    "synonyms_from_image": [
+      "ubiquitous"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "omnipresence",
+    "pos": "n.",
+    "head_meanings": [
+      "편재, (동시에) 어디든지 있음"
+    ],
+    "synonyms_from_image": [
+      "ubiquity"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "omniscient",
+    "pos": "adj.",
+    "head_meanings": [
+      "전지의; 박식한"
+    ],
+    "synonyms_from_image": [
+      "all-seeing",
+      "all-wise",
+      "supereminent",
+      "infinite",
+      "preeminent"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "omnivorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "잡식의; 무엇이든 먹는; 닥치는 대로 읽는"
+    ],
+    "synonyms_from_image": [
+      "all-devouring",
+      "polyphagous",
+      "gluttonous",
+      "predacious",
+      "voracious"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "onerous",
+    "pos": "adj.",
+    "head_meanings": [
+      "성가신, 귀찮은, 부담스러운; 부담이 따르는"
+    ],
+    "synonyms_from_image": [
+      "burdensome",
+      "taxing",
+      "arduous",
+      "strenuous",
+      "difficult",
+      "severe",
+      "heavy",
+      "oppressive",
+      "hard to endure",
+      "distressing",
+      "weighty",
+      "formidable",
+      "laborious",
+      "Herculean",
+      "exhausting",
+      "tiring",
+      "demanding",
+      "grueling",
+      "exacting",
+      "wearing",
+      "wearisome",
+      "toilsome"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "onset",
+    "pos": "n.",
+    "head_meanings": [
+      "개시, 출발, 착수; 공격, 습격, 돌격"
+    ],
+    "synonyms_from_image": [
+      "beginning",
+      "start",
+      "commencement",
+      "inception",
+      "outset",
+      "assault",
+      "onslaught"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "onslaught",
+    "pos": "n.",
+    "head_meanings": [
+      "맹공격, 맹습"
+    ],
+    "synonyms_from_image": [
+      "attack",
+      "aggression",
+      "impact",
+      "offensive",
+      "raid",
+      "invasion"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "onus",
+    "pos": "n.",
+    "head_meanings": [
+      "짐, 부담, 책임, 의무"
+    ],
+    "synonyms_from_image": [
+      "burden",
+      "liability",
+      "obligation",
+      "load",
+      "charge",
+      "duty"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "opaque",
+    "pos": "adj.",
+    "head_meanings": [
+      "불투명한, 빛을 통과시키지 않는; 분명하지 않은, 애매한; 이해하기 어려운"
+    ],
+    "synonyms_from_image": [
+      "obscure",
+      "inaccessible",
+      "non-transparent",
+      "cloudy",
+      "blurred",
+      "smeared",
+      "muddy",
+      "muddied",
+      "unclear",
+      "mysterious",
+      "puzzling",
+      "perplexing",
+      "baffling",
+      "unfathomable",
+      "incomprehensible",
+      "unintelligible",
+      "impenetrable",
+      "vague",
+      "stupid"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "opaque to",
+    "pos": "adj./phrase",
+    "head_meanings": [
+      "(…에게) 불명확한; 이해하기 어려운"
+    ],
+    "synonyms_from_image": [
+      "obscure",
+      "inaccessible",
+      "unclear",
+      "mysterious",
+      "incomprehensible"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "open-ended",
+    "pos": "adj.",
+    "head_meanings": [
+      "(도입·인원·시간 등의) 제한이 없는; (조정) 가능한; (시험·인터뷰 등) 정해진 답이 없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "036",
+    "word": "opinionated",
+    "pos": "adj.",
+    "head_meanings": [
+      "자기 설을 고집하는, 완고한"
+    ],
+    "synonyms_from_image": [
+      "dogmatic",
+      "of fixed views",
+      "inflexible",
+      "uncompromising",
+      "prejudiced",
+      "bigoted"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "opportune",
+    "pos": "adj.",
+    "head_meanings": [
+      "시기 적절한, 알맞은, 형편이 좋은"
+    ],
+    "synonyms_from_image": [
+      "timely",
+      "apt",
+      "expedient",
+      "well-timed",
+      "seasonable",
+      "favorable"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "opportunist",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "기회주의자(의); 기회주의적인"
+    ],
+    "synonyms_from_image": [
+      "timeserver",
+      "self-seeker",
+      "egoist",
+      "trimmer"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "opportunism",
+    "pos": "n.",
+    "head_meanings": [
+      "기회주의"
+    ],
+    "synonyms_from_image": [
+      "self-interest"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "opprobrium",
+    "pos": "n.",
+    "head_meanings": [
+      "오명, 치욕, 불명예; 욕설, 비난"
+    ],
+    "synonyms_from_image": [
+      "odium",
+      "shame",
+      "obloquy",
+      "ignominy",
+      "discredit",
+      "disrepute"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "opprobrious",
+    "pos": "adj.",
+    "head_meanings": [
+      "모욕적인; 비난하는; 불명예스러운"
+    ],
+    "synonyms_from_image": [
+      "disdain",
+      "reproach"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "opt",
+    "pos": "v.",
+    "head_meanings": [
+      "선택하다, 채택하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "043",
+    "word": "optimal",
+    "pos": "adj.",
+    "head_meanings": [
+      "최선의, 최상의, 최적의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "044",
+    "word": "optimist",
+    "pos": "n.",
+    "head_meanings": [
+      "낙천가, 태평한 사람, 낙천주의자"
+    ],
+    "synonyms_from_image": [
+      "utopian",
+      "incurable romantic",
+      "Pollyanna",
+      "positivist"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "optimism",
+    "pos": "n.",
+    "head_meanings": [
+      "낙천(낙관)주의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "046",
+    "word": "optimistic",
+    "pos": "adj.",
+    "head_meanings": [
+      "낙천적인, 낙관적인"
+    ],
+    "synonyms_from_image": [
+      "sanguine"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "optimum",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "최적의, 적정의; (n.) 최적조건"
+    ],
+    "synonyms_from_image": [
+      "best",
+      "prime",
+      "optimal",
+      "most favorable",
+      "most advantageous",
+      "ideal",
+      "perfect",
+      "supreme"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "optional",
+    "pos": "adj.",
+    "head_meanings": [
+      "선택 자유의, 임의의"
+    ],
+    "synonyms_from_image": [
+      "elective",
+      "free",
+      "voluntary",
+      "nonobligatory",
+      "not required",
+      "unforced",
+      "alternative"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "opulent",
+    "pos": "adj.",
+    "head_meanings": [
+      "부유한; 풍부한; 화려한; 무척 큰"
+    ],
+    "synonyms_from_image": [
+      "luxurious",
+      "sumptuous",
+      "palatial",
+      "lavishly",
+      "splendid",
+      "magnificent",
+      "grandiose",
+      "wealthy",
+      "rich",
+      "affluent",
+      "prosperous",
+      "copious",
+      "abundant",
+      "profuse",
+      "prolific",
+      "plentiful",
+      "luxuriant"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "opulence",
+    "pos": "n.",
+    "head_meanings": [
+      "부유(wealth); 풍부(양·다량); (음악·문체 등의) 화려함"
+    ],
+    "synonyms_from_image": [
+      "luxuriousness",
+      "sumptuousness",
+      "lavishness",
+      "richness",
+      "luxury",
+      "luxuriance",
+      "splendor",
+      "grand",
+      "splendidness",
+      "affluence",
+      "plenty",
+      "prosperity",
+      "abundance",
+      "prosperousness"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "opus",
+    "pos": "n.",
+    "head_meanings": [
+      "저작, 작품, 음악 작품"
+    ],
+    "synonyms_from_image": [
+      "oeuvre",
+      "piece",
+      "production",
+      "composition",
+      "creation",
+      "product"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "oracle",
+    "pos": "n.",
+    "head_meanings": [
+      "계시; 신탁; 신의 사도; 예언자; 현인"
+    ],
+    "synonyms_from_image": [
+      "prophet",
+      "augur",
+      "prophecy",
+      "revelation",
+      "forewarning",
+      "foreshadowing",
+      "prediction"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "oracular",
+    "pos": "adj.",
+    "head_meanings": [
+      "신탁의; 예언자 같은; 수수께끼 같은, 모호한"
+    ],
+    "synonyms_from_image": [
+      "fatidic",
+      "prophetic"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "orator",
+    "pos": "n.",
+    "head_meanings": [
+      "연설자, 웅변가"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "055",
+    "word": "oratory",
+    "pos": "n.",
+    "head_meanings": [
+      "웅변술; 수사; 과장적 문체; 미사여구; 기도실; 소예배당"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "056",
+    "word": "ordain",
+    "pos": "v.",
+    "head_meanings": [
+      "정하다, 운명짓다; (법규 등을) 규정·제정하다; (사람이) 명하다; (사제) 서품하다"
+    ],
+    "synonyms_from_image": [
+      "impose",
+      "invest",
+      "frock",
+      "appoint",
+      "commission"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "ordeal",
+    "pos": "n.",
+    "head_meanings": [
+      "힘든 시련, 고통스러운 체험; 신의 심판"
+    ],
+    "synonyms_from_image": [
+      "calvary",
+      "cross",
+      "tribulation"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "ordinance",
+    "pos": "n.",
+    "head_meanings": [
+      "법령, 포고, 명령; (지방자치제의) 조례·규정; 의식; 성찬식"
+    ],
+    "synonyms_from_image": [
+      "law",
+      "rule",
+      "regulation",
+      "rite",
+      "act",
+      "command",
+      "order",
+      "proclamation"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "orient",
+    "pos": "v.",
+    "head_meanings": [
+      "(…을) 일정 방향으로 향하게 하다; (환경에) 적응시키다"
+    ],
+    "synonyms_from_image": [
+      "accustom",
+      "relate",
+      "acclimate",
+      "locate",
+      "situate",
+      "set",
+      "fix"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "orientation",
+    "pos": "n.",
+    "head_meanings": [
+      "(환경에의) 지도·적응; 방향의 인식/방향 잡기; (신입생에 대한) 예비 교육"
+    ],
+    "synonyms_from_image": [
+      "adjustment",
+      "direction",
+      "position",
+      "heading",
+      "course"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "original",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "독창적인; 독자적인; 처음의; 원본(의)"
+    ],
+    "synonyms_from_image": [
+      "innovative",
+      "experimental",
+      "novel"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "originality",
+    "pos": "n.",
+    "head_meanings": [
+      "독창성; 원래의 것; 신기한; 기발한; 색다름"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "063",
+    "word": "ornate",
+    "pos": "adj.",
+    "head_meanings": [
+      "지나치게 장식한, 화려한"
+    ],
+    "synonyms_from_image": [
+      "embellished",
+      "flowery",
+      "sumptuous",
+      "elaborate",
+      "fancy"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "ornamental",
+    "pos": "adj.",
+    "head_meanings": [
+      "장식용의"
+    ],
+    "synonyms_from_image": [
+      "decorative",
+      "ornate"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "ornithology",
+    "pos": "n.",
+    "head_meanings": [
+      "조류학"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "066",
+    "word": "orthodox",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "(특히 종교상의) 정설(의); 신봉하는; 정통파(의)"
+    ],
+    "synonyms_from_image": [
+      "standard",
+      "accepted",
+      "established",
+      "approved",
+      "conventional",
+      "customary"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "orthography",
+    "pos": "n.",
+    "head_meanings": [
+      "정자법, 바른 철자법"
+    ],
+    "synonyms_from_image": [
+      "rules of spelling",
+      "system of spelling"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "oscillate",
+    "pos": "v.",
+    "head_meanings": [
+      "진동하다; (의견 등이) 동요하다, 흔들리다"
+    ],
+    "synonyms_from_image": [
+      "fluctuate",
+      "pendulate",
+      "vacillate",
+      "sway"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "oscillating",
+    "pos": "adj.",
+    "head_meanings": [
+      "진동하는; 동요하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "070",
+    "word": "ostensible",
+    "pos": "adj.",
+    "head_meanings": [
+      "표면상의, 겉보기의, 외견상의"
+    ],
+    "synonyms_from_image": [
+      "specious",
+      "superficial",
+      "professed",
+      "alleged",
+      "purported",
+      "presumable",
+      "outward",
+      "seeming",
+      "illusory"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "ostensibly",
+    "pos": "adv.",
+    "head_meanings": [
+      "표면상(으로)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "072",
+    "word": "ostentation",
+    "pos": "n.",
+    "head_meanings": [
+      "겉치레, 허식, 과시"
+    ],
+    "synonyms_from_image": [
+      "showiness",
+      "ostentatiousness",
+      "pretentiousness",
+      "extravagance",
+      "flamboyance",
+      "gaudiness",
+      "ornateness",
+      "exhibitionism"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "ostentatious",
+    "pos": "adj.",
+    "head_meanings": [
+      "자랑삼아 드러내는, 과시하는; 화려한; 허세 부리는"
+    ],
+    "synonyms_from_image": [
+      "showy",
+      "pretentious",
+      "flamboyant",
+      "gaudy",
+      "ornate",
+      "fancy",
+      "grandiloquent"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "ostentatiousness",
+    "pos": "n.",
+    "head_meanings": [
+      "과시, 허세"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "075",
+    "word": "ostracize",
+    "pos": "v.",
+    "head_meanings": [
+      "추방하다; 배척하다"
+    ],
+    "synonyms_from_image": [
+      "excommunicate",
+      "disapprove",
+      "expel",
+      "shut out",
+      "banish"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "oust",
+    "pos": "v.",
+    "head_meanings": [
+      "(장소·지위·권력에서) 내쫓다"
+    ],
+    "synonyms_from_image": [
+      "expel",
+      "eject",
+      "evict",
+      "remove",
+      "banish",
+      "dismiss",
+      "discharge"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "outdated",
+    "pos": "adj.",
+    "head_meanings": [
+      "시대에 뒤진, 구식의, 진부한"
+    ],
+    "synonyms_from_image": [
+      "old-fashioned",
+      "out of date",
+      "outmoded",
+      "out of fashion",
+      "dated",
+      "obsolete",
+      "antiquated"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "outlandish",
+    "pos": "adj.",
+    "head_meanings": [
+      "이국(풍)의; 색다른; 별난"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "079",
+    "word": "outlaw",
+    "pos": "v./n.",
+    "head_meanings": [
+      "(v.) 금지하다, 불법화하다; (n.) 무법자, 범죄자, 추방자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "080",
+    "word": "outmoded",
+    "pos": "adj.",
+    "head_meanings": [
+      "유행에 뒤떨어진; 현대에는 통하지 않는; 구식의"
+    ],
+    "synonyms_from_image": [
+      "obsolete",
+      "old-fashioned",
+      "out of date",
+      "outdated",
+      "out of fashion",
+      "dated"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "outrage",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(n.) 격분, 분노; 모욕; 난폭한 행위",
+      "(v.) 격분시키다; 모욕하다; 폭행하다"
+    ],
+    "synonyms_from_image": [
+      "indignation",
+      "fury",
+      "anger",
+      "rage",
+      "wrath",
+      "resentment",
+      "insult",
+      "injustice",
+      "disgrace",
+      "atrocity",
+      "act of violence/wickedness",
+      "crime",
+      "wrong",
+      "inhumane act",
+      "enrage",
+      "infuriate",
+      "incense",
+      "offend",
+      "affront",
+      "horrify",
+      "disgust",
+      "appall"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "outspoken",
+    "pos": "adj.",
+    "head_meanings": [
+      "거리낌 없는; 솔직한, 노골적인"
+    ],
+    "synonyms_from_image": [
+      "forthright",
+      "frank",
+      "direct",
+      "candid",
+      "straightforward",
+      "honest",
+      "open",
+      "plain-spoken",
+      "blunt",
+      "abrupt",
+      "bluff",
+      "brusque"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "outstrip",
+    "pos": "v.",
+    "head_meanings": [
+      "따라가 앞서다; 능가하다"
+    ],
+    "synonyms_from_image": [
+      "outplay",
+      "best",
+      "outclass",
+      "defeat",
+      "beat",
+      "exceed",
+      "excel",
+      "top"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "ovation",
+    "pos": "n.",
+    "head_meanings": [
+      "열렬한 환영, 갈채"
+    ],
+    "synonyms_from_image": [
+      "acclaim",
+      "plaudit",
+      "cheers",
+      "adulation",
+      "acclamation",
+      "homage"
+    ]
+  },
+  {
+    "id": "085",
+    "word": "overarching",
+    "pos": "adj.",
+    "head_meanings": [
+      "(무엇보다) 포괄적인, 전반에 영향을 미치는; 아치형으로 덮는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "086",
+    "word": "overbearing",
+    "pos": "adj.",
+    "head_meanings": [
+      "고압적인, 위압적인; 거만한; 압도적인"
+    ],
+    "synonyms_from_image": [
+      "haughty",
+      "domineering",
+      "dominating",
+      "autocratic",
+      "tyrannical",
+      "despotic",
+      "oppressive",
+      "bullying",
+      "bossy"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "overestimate",
+    "pos": "v.",
+    "head_meanings": [
+      "(가치·능력 등을) 과대평가하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "088",
+    "word": "oversell",
+    "pos": "v.",
+    "head_meanings": [
+      "과장하여 팔(광고하)다; 실제보다 더 낫다고 말하다; (재고) 초과판매하다"
+    ],
+    "synonyms_from_image": [
+      "overpraise"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "overhaul",
+    "pos": "v.",
+    "head_meanings": [
+      "철저히 점검/분해 검사(수리)하다; 정비하다; 철저히 조사하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "090",
+    "word": "overload",
+    "pos": "v./n.",
+    "head_meanings": [
+      "짐/부담을 너무 많이 지우다; 과부하 걸다; (n.) 과부하, 과적"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "091",
+    "word": "overlook",
+    "pos": "v.",
+    "head_meanings": [
+      "못 보고 넘어가다; 간과하다; (일부러) 못 본 체하다; (방 등이) 내려다보다"
+    ],
+    "synonyms_from_image": [
+      "neglect",
+      "disregard",
+      "ignore"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "overmodest",
+    "pos": "adj.",
+    "head_meanings": [
+      "지나치게 겸손한/수줍은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "093",
+    "word": "overrate",
+    "pos": "v.",
+    "head_meanings": [
+      "과대평가하다"
+    ],
+    "synonyms_from_image": [
+      "overestimate",
+      "overvalue"
+    ]
+  },
+  {
+    "id": "094",
+    "word": "override",
+    "pos": "v.",
+    "head_meanings": [
+      "(결정·명령 등을) 무효로 하다/번복하다; (반대 등을) 무시하다; (생각·감정 등을) 압도하다"
+    ],
+    "synonyms_from_image": [
+      "disallow",
+      "overrule",
+      "countermand",
+      "veto",
+      "quash",
+      "overthrow",
+      "cancel",
+      "reverse",
+      "rescind",
+      "revoke",
+      "repeal",
+      "annul",
+      "nullify",
+      "invalidate",
+      "negate",
+      "void",
+      "abrogate",
+      "recall",
+      "disregard",
+      "pay no heed to",
+      "ignore",
+      "outweigh",
+      "supersede",
+      "take precedence over",
+      "take priority over",
+      "offset",
+      "cancel out",
+      "compensate for"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "overriding",
+    "pos": "adj.",
+    "head_meanings": [
+      "우선적인; 가장 중요한; 결정적인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "096",
+    "word": "overshadow",
+    "pos": "v.",
+    "head_meanings": [
+      "그늘지게 하다; (중요성 등을) 흐리게/무색하게 하다"
+    ],
+    "synonyms_from_image": [
+      "outshine",
+      "outdo",
+      "surpass",
+      "eclipse"
+    ]
+  },
+  {
+    "id": "097",
+    "word": "overstate",
+    "pos": "v.",
+    "head_meanings": [
+      "과장하다"
+    ],
+    "synonyms_from_image": [
+      "exaggerate",
+      "overemphasize",
+      "overdo",
+      "overplay",
+      "dramatize"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "overstatement",
+    "pos": "n.",
+    "head_meanings": [
+      "과장된 말/표현"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "099",
+    "word": "overt",
+    "pos": "adj.",
+    "head_meanings": [
+      "공공연한, 명백한"
+    ],
+    "synonyms_from_image": [
+      "revealed",
+      "unconcealed",
+      "disclosed",
+      "undisguised",
+      "plain (to see)",
+      "clear",
+      "apparent",
+      "conspicuous",
+      "manifest",
+      "patent",
+      "open",
+      "blatant",
+      "observable",
+      "obvious"
+    ]
+  },
+  {
+    "id": "100",
+    "word": "overtly",
+    "pos": "adv.",
+    "head_meanings": [
+      "공공연히, 명백히"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "101",
+    "word": "overtone",
+    "pos": "n.",
+    "head_meanings": [
+      "함축, 부대적 의미; 뉘앙스; (음악) 배음"
+    ],
+    "synonyms_from_image": [
+      "implication",
+      "hint",
+      "connotation",
+      "nuance",
+      "insinuation",
+      "tinge",
+      "suggestion",
+      "undertone"
+    ]
+  },
+  {
+    "id": "102",
+    "word": "overweening",
+    "pos": "adj.",
+    "head_meanings": [
+      "자부심이 강한, 거만한, 잘난 체하는"
+    ],
+    "synonyms_from_image": [
+      "confident",
+      "insolent",
+      "haughty",
+      "imperious"
+    ]
+  }
+]

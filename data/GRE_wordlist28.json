@@ -1,0 +1,897 @@
+[
+  {
+    "id": "001",
+    "word": "laity",
+    "pos": "n.",
+    "head_meanings": [
+      "평신도",
+      "일반인"
+    ],
+    "synonyms_from_image": [
+      "layman",
+      "layperson",
+      "laypeople"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "laic",
+    "pos": "adj.",
+    "head_meanings": [
+      "속인의",
+      "평신도의",
+      "전문적이지 않은"
+    ],
+    "synonyms_from_image": [
+      "lay"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "lambast",
+    "pos": "v.",
+    "head_meanings": [
+      "맹렬히 비난하다",
+      "호되게 꾸짖다"
+    ],
+    "synonyms_from_image": [
+      "denounce",
+      "criticize",
+      "berate",
+      "censure",
+      "reprimand",
+      "rebuke",
+      "castigate",
+      "excoriate"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "lambaste",
+    "pos": "v.",
+    "head_meanings": [
+      "맹렬히 비난하다",
+      "호되게 꾸짖다"
+    ],
+    "synonyms_from_image": [
+      "denounce",
+      "criticize",
+      "berate",
+      "censure"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "lament",
+    "pos": "v.",
+    "head_meanings": [
+      "슬퍼하다",
+      "비탄하다",
+      "한탄하다"
+    ],
+    "synonyms_from_image": [
+      "deplore",
+      "bemoan"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "lampoon",
+    "pos": "v.",
+    "head_meanings": [
+      "풍자하다",
+      "조롱하다"
+    ],
+    "synonyms_from_image": [
+      "satirize",
+      "mock",
+      "ridicule",
+      "parody"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "languid",
+    "pos": "adj.",
+    "head_meanings": [
+      "노곤한",
+      "기운 없는",
+      "활기 없는"
+    ],
+    "synonyms_from_image": [
+      "enervated",
+      "apathetic",
+      "fatigued",
+      "inert"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "languish",
+    "pos": "v.",
+    "head_meanings": [
+      "시들다",
+      "쇠약해지다",
+      "기운이 빠지다"
+    ],
+    "synonyms_from_image": [
+      "diminish",
+      "deteriorate"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "languor",
+    "pos": "n.",
+    "head_meanings": [
+      "노곤함",
+      "무기력",
+      "권태"
+    ],
+    "synonyms_from_image": [
+      "lassitude",
+      "fatigue",
+      "listlessness"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "lapse",
+    "pos": "n.",
+    "head_meanings": [
+      "실수",
+      "과실",
+      "경과",
+      "쇠퇴"
+    ],
+    "synonyms_from_image": [
+      "slip",
+      "error"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "larceny",
+    "pos": "n.",
+    "head_meanings": [
+      "절도",
+      "도둑질"
+    ],
+    "synonyms_from_image": [
+      "theft",
+      "thievery"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "larder",
+    "pos": "n.",
+    "head_meanings": [
+      "식료품 저장실"
+    ],
+    "synonyms_from_image": [
+      "pantry",
+      "storeroom"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "largess",
+    "pos": "n.",
+    "head_meanings": [
+      "후한 증여",
+      "아낌없는 베풂"
+    ],
+    "synonyms_from_image": [
+      "generosity",
+      "munificence"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "larva",
+    "pos": "n.",
+    "head_meanings": [
+      "유충",
+      "애벌레"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "015",
+    "word": "larval",
+    "pos": "adj.",
+    "head_meanings": [
+      "유충의",
+      "미숙한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "016",
+    "word": "lascivious",
+    "pos": "adj.",
+    "head_meanings": [
+      "음란한",
+      "호색적인"
+    ],
+    "synonyms_from_image": [
+      "amorous",
+      "lecherous"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "lassitude",
+    "pos": "n.",
+    "head_meanings": [
+      "노곤함",
+      "피로",
+      "권태"
+    ],
+    "synonyms_from_image": [
+      "fatigue",
+      "lethargy"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "latent",
+    "pos": "adj.",
+    "head_meanings": [
+      "잠재된",
+      "숨은"
+    ],
+    "synonyms_from_image": [
+      "concealed",
+      "underlying"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "lateral",
+    "pos": "adj.",
+    "head_meanings": [
+      "측면의",
+      "옆의"
+    ],
+    "synonyms_from_image": [
+      "sideways",
+      "sideling"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "latitude",
+    "pos": "n.",
+    "head_meanings": [
+      "자유",
+      "재량",
+      "허용 범위"
+    ],
+    "synonyms_from_image": [
+      "scope",
+      "freedom"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "laud",
+    "pos": "v.",
+    "head_meanings": [
+      "칭찬하다",
+      "찬양하다"
+    ],
+    "synonyms_from_image": [
+      "commend",
+      "praise",
+      "extol"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "laudable",
+    "pos": "adj.",
+    "head_meanings": [
+      "칭찬할 만한"
+    ],
+    "synonyms_from_image": [
+      "admirable",
+      "exemplary"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "laudatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "찬사의",
+      "칭찬하는"
+    ],
+    "synonyms_from_image": [
+      "complimentary",
+      "approving"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "lavish",
+    "pos": "adj.",
+    "head_meanings": [
+      "아낌없는",
+      "호화로운"
+    ],
+    "synonyms_from_image": [
+      "sumptuous",
+      "luxurious",
+      "generous"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "lax",
+    "pos": "adj.",
+    "head_meanings": [
+      "느슨한",
+      "부주의한"
+    ],
+    "synonyms_from_image": [
+      "slack",
+      "heedless"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "lay out",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "배치하다",
+      "설계하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "027",
+    "word": "leaning",
+    "pos": "n.",
+    "head_meanings": [
+      "기울기",
+      "성향"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "028",
+    "word": "leaven",
+    "pos": "v.",
+    "head_meanings": [
+      "발효시키다",
+      "영향을 미치다"
+    ],
+    "synonyms_from_image": [
+      "ferment",
+      "vitalize"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "leeway",
+    "pos": "n.",
+    "head_meanings": [
+      "여유",
+      "허용 범위"
+    ],
+    "synonyms_from_image": [
+      "freedom",
+      "latitude"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "legible",
+    "pos": "adj.",
+    "head_meanings": [
+      "읽기 쉬운",
+      "판독 가능한"
+    ],
+    "synonyms_from_image": [
+      "readable"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "legitimate",
+    "pos": "adj.",
+    "head_meanings": [
+      "합법적인",
+      "정당한"
+    ],
+    "synonyms_from_image": [
+      "lawful",
+      "valid"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "legitimacy",
+    "pos": "n.",
+    "head_meanings": [
+      "합법성",
+      "정당성"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "033",
+    "word": "leniency",
+    "pos": "n.",
+    "head_meanings": [
+      "관대함",
+      "자비"
+    ],
+    "synonyms_from_image": [
+      "mercy",
+      "clemency"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "lenient",
+    "pos": "adj.",
+    "head_meanings": [
+      "관대한",
+      "자비로운"
+    ],
+    "synonyms_from_image": [
+      "merciful",
+      "mild"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "lethal",
+    "pos": "adj.",
+    "head_meanings": [
+      "치명적인"
+    ],
+    "synonyms_from_image": [
+      "fatal",
+      "deadly"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "lethargic",
+    "pos": "adj.",
+    "head_meanings": [
+      "무기력한",
+      "활기 없는"
+    ],
+    "synonyms_from_image": [
+      "sluggish",
+      "somnolent"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "levitate",
+    "pos": "v.",
+    "head_meanings": [
+      "공중에 뜨다"
+    ],
+    "synonyms_from_image": [
+      "float"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "levity",
+    "pos": "n.",
+    "head_meanings": [
+      "경박함",
+      "가벼움"
+    ],
+    "synonyms_from_image": [
+      "frivolity"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "levy",
+    "pos": "v.",
+    "head_meanings": [
+      "부과하다",
+      "징수하다"
+    ],
+    "synonyms_from_image": [
+      "assess",
+      "charge"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "lewd",
+    "pos": "adj.",
+    "head_meanings": [
+      "음란한",
+      "외설적인"
+    ],
+    "synonyms_from_image": [
+      "lascivious",
+      "obscene"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "liability",
+    "pos": "n.",
+    "head_meanings": [
+      "책임",
+      "부채"
+    ],
+    "synonyms_from_image": [
+      "obligation",
+      "burden"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "libel",
+    "pos": "n.",
+    "head_meanings": [
+      "중상",
+      "명예훼손"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "043",
+    "word": "libelous",
+    "pos": "adj.",
+    "head_meanings": [
+      "중상적인",
+      "비방하는"
+    ],
+    "synonyms_from_image": [
+      "slanderous",
+      "defamatory"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "liberalize",
+    "pos": "v.",
+    "head_meanings": [
+      "자유화하다",
+      "완화하다"
+    ],
+    "synonyms_from_image": [
+      "relax"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "liberate",
+    "pos": "v.",
+    "head_meanings": [
+      "해방시키다"
+    ],
+    "synonyms_from_image": [
+      "free"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "libertine",
+    "pos": "n.",
+    "head_meanings": [
+      "방탕한 사람"
+    ],
+    "synonyms_from_image": [
+      "debauchee"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "licentious",
+    "pos": "adj.",
+    "head_meanings": [
+      "방탕한",
+      "문란한"
+    ],
+    "synonyms_from_image": [
+      "lawless",
+      "unchaste"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "lighthearted",
+    "pos": "adj.",
+    "head_meanings": [
+      "경쾌한",
+      "근심 없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "049",
+    "word": "limber",
+    "pos": "adj.",
+    "head_meanings": [
+      "유연한"
+    ],
+    "synonyms_from_image": [
+      "pliable",
+      "elastic"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "limited",
+    "pos": "adj.",
+    "head_meanings": [
+      "제한된",
+      "한정된"
+    ],
+    "synonyms_from_image": [
+      "restricted",
+      "scant"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "limitation",
+    "pos": "n.",
+    "head_meanings": [
+      "제한",
+      "한계"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "052",
+    "word": "limpid",
+    "pos": "adj.",
+    "head_meanings": [
+      "맑은",
+      "투명한"
+    ],
+    "synonyms_from_image": [
+      "pellucid"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "lineage",
+    "pos": "n.",
+    "head_meanings": [
+      "혈통",
+      "계보"
+    ],
+    "synonyms_from_image": [
+      "ancestry",
+      "descent"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "lineament",
+    "pos": "n.",
+    "head_meanings": [
+      "윤곽",
+      "특징"
+    ],
+    "synonyms_from_image": [
+      "outline",
+      "contour"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "linger",
+    "pos": "v.",
+    "head_meanings": [
+      "머무르다",
+      "질질 끌다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "056",
+    "word": "lionize",
+    "pos": "v.",
+    "head_meanings": [
+      "추앙하다",
+      "영웅시하다"
+    ],
+    "synonyms_from_image": [
+      "acclaim",
+      "exalt"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "liquidate",
+    "pos": "v.",
+    "head_meanings": [
+      "청산하다",
+      "정리하다"
+    ],
+    "synonyms_from_image": [
+      "dispose",
+      "eliminate"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "liquidity",
+    "pos": "n.",
+    "head_meanings": [
+      "유동성"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "059",
+    "word": "list",
+    "pos": "n.",
+    "head_meanings": [
+      "기울기",
+      "목록"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "060",
+    "word": "listless",
+    "pos": "adj.",
+    "head_meanings": [
+      "무기력한",
+      "무관심한"
+    ],
+    "synonyms_from_image": [
+      "languid",
+      "apathetic"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "lithe",
+    "pos": "adj.",
+    "head_meanings": [
+      "유연한",
+      "날씬한"
+    ],
+    "synonyms_from_image": [
+      "supple",
+      "pliant"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "litigation",
+    "pos": "n.",
+    "head_meanings": [
+      "소송"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "063",
+    "word": "litigant",
+    "pos": "n.",
+    "head_meanings": [
+      "소송 당사자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "064",
+    "word": "lizard",
+    "pos": "n.",
+    "head_meanings": [
+      "도마뱀"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "065",
+    "word": "loaf",
+    "pos": "v.",
+    "head_meanings": [
+      "빈둥거리다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "066",
+    "word": "loath",
+    "pos": "adj.",
+    "head_meanings": [
+      "마지못해 하는",
+      "싫어하는"
+    ],
+    "synonyms_from_image": [
+      "reluctant"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "loathe",
+    "pos": "v.",
+    "head_meanings": [
+      "혐오하다",
+      "몹시 싫어하다"
+    ],
+    "synonyms_from_image": [
+      "detest",
+      "abhor"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "lofty",
+    "pos": "adj.",
+    "head_meanings": [
+      "고상한",
+      "거만한",
+      "매우 높은"
+    ],
+    "synonyms_from_image": [
+      "exalted",
+      "towering"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "longevity",
+    "pos": "n.",
+    "head_meanings": [
+      "장수",
+      "수명"
+    ],
+    "synonyms_from_image": [
+      "durability"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "long-winded",
+    "pos": "adj.",
+    "head_meanings": [
+      "장황한",
+      "말이 긴"
+    ],
+    "synonyms_from_image": [
+      "prolix",
+      "rambling"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "lopsided",
+    "pos": "adj.",
+    "head_meanings": [
+      "한쪽으로 기운",
+      "불균형한"
+    ],
+    "synonyms_from_image": [
+      "askew",
+      "uneven"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "loquacious",
+    "pos": "adj.",
+    "head_meanings": [
+      "수다스러운",
+      "말이 많은"
+    ],
+    "synonyms_from_image": [
+      "garrulous",
+      "talkative"
+    ]
+  }
+]

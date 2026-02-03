@@ -1,0 +1,1205 @@
+[
+  {
+    "id": "001",
+    "word": "mitigate",
+    "pos": "",
+    "head_meanings": [
+      "완화하다",
+      "누그러뜨리다",
+      "진정시키다"
+    ],
+    "synonyms_from_image": [
+      "soften",
+      "abate",
+      "diminish",
+      "extenuate",
+      "moderate",
+      "mollify",
+      "reduce",
+      "relax",
+      "relieve"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "mitigating",
+    "pos": "",
+    "head_meanings": [
+      "누그러뜨리는",
+      "진정시키는"
+    ],
+    "synonyms_from_image": [
+      "soften",
+      "abate",
+      "diminish",
+      "extenuate",
+      "moderate",
+      "mollify",
+      "reduce",
+      "relax",
+      "relieve"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "mnemonic",
+    "pos": "",
+    "head_meanings": [
+      "기억을 돕는",
+      "기억의",
+      "기억술의"
+    ],
+    "synonyms_from_image": [
+      "recollective",
+      "memoried",
+      "retrospective",
+      "remindful"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "mobile",
+    "pos": "",
+    "head_meanings": [
+      "움직일 수 있는",
+      "이동식의",
+      "변덕스러운"
+    ],
+    "synonyms_from_image": [
+      "changeable",
+      "moving",
+      "stirring"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "mockery",
+    "pos": "",
+    "head_meanings": [
+      "조롱",
+      "놀림",
+      "조롱거리",
+      "웃음거리",
+      "가짜",
+      "흉내낸 것",
+      "모방"
+    ],
+    "synonyms_from_image": [
+      "derision",
+      "ridicule",
+      "jeering",
+      "sneering",
+      "contempt",
+      "scorn",
+      "scoffing",
+      "teasing",
+      "taunting",
+      "sarcasm",
+      "travesty",
+      "charade",
+      "farce",
+      "parody"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "mode",
+    "pos": "",
+    "head_meanings": [
+      "방법",
+      "양식",
+      "방식",
+      "식"
+    ],
+    "synonyms_from_image": [
+      "fashion",
+      "form",
+      "manner",
+      "way",
+      "technique"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "moderate",
+    "pos": "",
+    "head_meanings": [
+      "절제된",
+      "온건한",
+      "(양·정도·질 등이) 적당한",
+      "(분노 등이) 심하지 않은",
+      "온화한",
+      "절제하다",
+      "완화하다",
+      "(바람이) 잔잔해지다",
+      "(회의의) 의장을 맡다",
+      "사회하다"
+    ],
+    "synonyms_from_image": [
+      "average",
+      "modest",
+      "reasonable",
+      "acceptable",
+      "inexpensive",
+      "non-extreme",
+      "non-radical",
+      "middle-of-the-road",
+      "restrained",
+      "controlled",
+      "sober",
+      "lenient",
+      "die down",
+      "abate",
+      "let up",
+      "lessen",
+      "diminish",
+      "recede",
+      "subside",
+      "curb",
+      "control",
+      "check",
+      "temper",
+      "restrain",
+      "subdue",
+      "repress",
+      "lessen",
+      "decrease",
+      "alleviate",
+      "allay",
+      "appease",
+      "assuage",
+      "soothe",
+      "take the chair of",
+      "preside over"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "modest",
+    "pos": "",
+    "head_meanings": [
+      "겸손한",
+      "신중한",
+      "조심성 있는",
+      "적당한",
+      "(질·양·정도 등이) 별로 많지 않은"
+    ],
+    "synonyms_from_image": [
+      "unassuming",
+      "unostentatious",
+      "self-deprecating",
+      "humble",
+      "unpretentious",
+      "shy",
+      "lowly"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "modicum",
+    "pos": "",
+    "head_meanings": [
+      "소량",
+      "조금",
+      "소액"
+    ],
+    "synonyms_from_image": [
+      "piece",
+      "portion",
+      "small amount"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "modish",
+    "pos": "",
+    "head_meanings": [
+      "유행을 따르는",
+      "현대풍의"
+    ],
+    "synonyms_from_image": [
+      "faddish",
+      "stylish",
+      "modern",
+      "voguish",
+      "chic"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "modulation",
+    "pos": "",
+    "head_meanings": [
+      "(소리·파악 등의) 변화",
+      "억양",
+      "조정",
+      "조절"
+    ],
+    "synonyms_from_image": [
+      "tempered",
+      "articulation",
+      "intonation",
+      "pitch",
+      "accent",
+      "inflection (of the voice)"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "modulate",
+    "pos": "v.",
+    "head_meanings": [
+      "(목소리의 강도 등을) 조절하다/바꾸다",
+      "조절하다/바꾸다(속도·빈도 등)",
+      "조정(조절)하다",
+      "(음색·음조 등을) 변화시키다"
+    ],
+    "synonyms_from_image": [
+      "tempered",
+      "articulation",
+      "intonation",
+      "pitch",
+      "accent",
+      "inflection (of the voice)"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "mollify",
+    "pos": "",
+    "head_meanings": [
+      "완화시키다",
+      "달래다",
+      "진정시키다"
+    ],
+    "synonyms_from_image": [
+      "calm",
+      "pacify",
+      "relieve",
+      "soften"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "mollycoddle",
+    "pos": "",
+    "head_meanings": [
+      "응석을 받아주다",
+      "과보호하다",
+      "오냐오냐 하다",
+      "(명사) 응석받이",
+      "(명사) 나약한 남자"
+    ],
+    "synonyms_from_image": [
+      "spoil",
+      "overindulge",
+      "baby",
+      "cater to",
+      "cosset",
+      "pet"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "momentary",
+    "pos": "",
+    "head_meanings": [
+      "순식간의",
+      "순간적인",
+      "찰나의",
+      "덧없는",
+      "지각적인"
+    ],
+    "synonyms_from_image": [
+      "evanescent",
+      "brief",
+      "short-lived",
+      "fleeting",
+      "transient",
+      "ephemeral"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "momentous",
+    "pos": "",
+    "head_meanings": [
+      "중대(중요)한",
+      "심상치 않은"
+    ],
+    "synonyms_from_image": [
+      "meaningful",
+      "eventful",
+      "influential",
+      "great",
+      "crucial"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "momentum",
+    "pos": "",
+    "head_meanings": [
+      "운동량",
+      "반동력",
+      "여세"
+    ],
+    "synonyms_from_image": [
+      "impulse",
+      "drive",
+      "thrust",
+      "impelling",
+      "force",
+      "push",
+      "velocity",
+      "dash",
+      "vigor",
+      "speed"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "monarchy",
+    "pos": "",
+    "head_meanings": [
+      "군주제",
+      "군주국"
+    ],
+    "synonyms_from_image": [
+      "absolutism",
+      "dictatorship",
+      "totalitarianism",
+      "despotism",
+      "tyranny",
+      "authoritarianism",
+      "autocracy"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "monetary",
+    "pos": "",
+    "head_meanings": [
+      "화폐의",
+      "금전상의",
+      "재정상의"
+    ],
+    "synonyms_from_image": [
+      "pecuniary",
+      "nummary",
+      "financial",
+      "capital",
+      "fiscal",
+      "budgetary"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "monger",
+    "pos": "",
+    "head_meanings": [
+      "(…을) 세상에 퍼뜨리는 사람"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "021",
+    "word": "profit monger",
+    "pos": "",
+    "head_meanings": [
+      "이익을 부당하게 추구하는 사람"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "022",
+    "word": "monolithic",
+    "pos": "",
+    "head_meanings": [
+      "하나의 암석으로 된",
+      "(조직·사상 등이) 단일체의",
+      "획일적인",
+      "하나로 통제된"
+    ],
+    "synonyms_from_image": [
+      "massive",
+      "colossal",
+      "gigantic",
+      "featureless",
+      "characterless",
+      "inflexible",
+      "rigid",
+      "unbending",
+      "unchanging",
+      "fossilized"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "monopolize",
+    "pos": "",
+    "head_meanings": [
+      "독점하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "024",
+    "word": "monotony",
+    "pos": "",
+    "head_meanings": [
+      "단조",
+      "무변화",
+      "지루함"
+    ],
+    "synonyms_from_image": [
+      "tedium",
+      "humdrum",
+      "dullness",
+      "ennui",
+      "boredom",
+      "tediousness",
+      "flatness"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "monumental",
+    "pos": "",
+    "head_meanings": [
+      "무거운",
+      "당당한",
+      "엄청난",
+      "기념비의",
+      "기념이 되는"
+    ],
+    "synonyms_from_image": [
+      "heavy",
+      "colossal",
+      "larger than life",
+      "huge",
+      "gigantic",
+      "memorable",
+      "epochal"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "moratorium",
+    "pos": "",
+    "head_meanings": [
+      "지불 정지",
+      "지불 유예",
+      "일시적 중지"
+    ],
+    "synonyms_from_image": [
+      "suspension of payment",
+      "delay",
+      "retardation",
+      "detention",
+      "wait"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "morbid",
+    "pos": "",
+    "head_meanings": [
+      "불건전한",
+      "병적인",
+      "침울한"
+    ],
+    "synonyms_from_image": [
+      "diseased",
+      "melancholic",
+      "unwholesome",
+      "pathological"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "mordant",
+    "pos": "",
+    "head_meanings": [
+      "(말·기질 등이) 비꼬는",
+      "신랄한",
+      "빈정대는",
+      "(산이) 부식성의"
+    ],
+    "synonyms_from_image": [
+      "acerbic",
+      "acrimonious",
+      "scornful",
+      "pungent",
+      "witty"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "mores",
+    "pos": "",
+    "head_meanings": [
+      "사회적인 관습",
+      "관행",
+      "습속"
+    ],
+    "synonyms_from_image": [
+      "convention",
+      "practices",
+      "code",
+      "etiquette"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "moribund",
+    "pos": "",
+    "head_meanings": [
+      "다 죽어가는",
+      "빈사 상태의",
+      "소멸해 가는"
+    ],
+    "synonyms_from_image": [
+      "dying",
+      "expiring",
+      "near death",
+      "declining",
+      "in decline",
+      "waning",
+      "stagnant",
+      "crumbling"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "morose",
+    "pos": "",
+    "head_meanings": [
+      "시무룩한",
+      "침울한"
+    ],
+    "synonyms_from_image": [
+      "glum",
+      "surly",
+      "mopish",
+      "downcast",
+      "sulky",
+      "cranky"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "mortify",
+    "pos": "",
+    "head_meanings": [
+      "굴욕을 느끼게 하다",
+      "분하게 하다",
+      "(정욕·감정 등을) 억제하다",
+      "극복하다"
+    ],
+    "synonyms_from_image": [
+      "embarrass",
+      "humiliate",
+      "humble",
+      "disgrace",
+      "shame",
+      "dishonor",
+      "abash",
+      "degrade",
+      "subdue",
+      "control",
+      "restrain",
+      "suppress"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "motility",
+    "pos": "",
+    "head_meanings": [
+      "(생물) 운동성",
+      "자동성"
+    ],
+    "synonyms_from_image": [
+      "mobility",
+      "motivity",
+      "locomotion",
+      "movableness"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "motley",
+    "pos": "",
+    "head_meanings": [
+      "다색으로 짜섞인",
+      "얼룩덜룩한",
+      "잡다한",
+      "뒤섞인"
+    ],
+    "synonyms_from_image": [
+      "of different colors",
+      "dappled",
+      "variegated",
+      "versicolor",
+      "multicolored"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "mottled",
+    "pos": "",
+    "head_meanings": [
+      "얼룩덜룩한",
+      "잡색의"
+    ],
+    "synonyms_from_image": [
+      "motley",
+      "multicolored",
+      "piebald",
+      "polychromatic"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "mountebank",
+    "pos": "",
+    "head_meanings": [
+      "엉터리 약장수",
+      "돌팔이 의사"
+    ],
+    "synonyms_from_image": [
+      "fake",
+      "fraud",
+      "deceiver",
+      "trickster",
+      "cheat",
+      "juggler",
+      "quack",
+      "quacksalver"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "muddle",
+    "pos": "",
+    "head_meanings": [
+      "혼란시키다",
+      "어리둥절케 하다",
+      "뒤죽박죽을 만들다",
+      "(계획 등을) 엉망으로 만들다",
+      "낭비하다"
+    ],
+    "synonyms_from_image": [
+      "confused",
+      "muddled",
+      "bungle",
+      "complicate",
+      "disorder",
+      "fluster",
+      "disarrange",
+      "waste"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "muddled",
+    "pos": "",
+    "head_meanings": [
+      "혼란스러운",
+      "어리둥절한"
+    ],
+    "synonyms_from_image": [
+      "confused"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "muffle",
+    "pos": "",
+    "head_meanings": [
+      "소리를 죽이다(약하게 하다)",
+      "덮다",
+      "감싸다"
+    ],
+    "synonyms_from_image": [
+      "wrap (up)",
+      "swathe",
+      "enfold",
+      "envelop",
+      "cloak",
+      "deaden",
+      "dull",
+      "dampen",
+      "mute",
+      "soften",
+      "tone down",
+      "mask",
+      "stifle",
+      "smother"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "muffled",
+    "pos": "",
+    "head_meanings": [
+      "둘러 감싼 것",
+      "(내연기관의) 소음기",
+      "(피아노)의 음을 약하게 하는 장치",
+      "(목도리)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "041",
+    "word": "muggy",
+    "pos": "",
+    "head_meanings": [
+      "찌는 듯한 더운",
+      "무덥고",
+      "후덥지근한"
+    ],
+    "synonyms_from_image": [
+      "sultry",
+      "sticky",
+      "humid",
+      "moist"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "mulish",
+    "pos": "",
+    "head_meanings": [
+      "고집 센",
+      "다루기 힘든",
+      "노새 같은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "043",
+    "word": "multifaceted",
+    "pos": "",
+    "head_meanings": [
+      "다방면에 걸친",
+      "(보석 따위가) 다면체의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "044",
+    "word": "multifarious",
+    "pos": "",
+    "head_meanings": [
+      "여러 종류의",
+      "다양한",
+      "여러 부분으로 된",
+      "다면적인"
+    ],
+    "synonyms_from_image": [
+      "diverse",
+      "different",
+      "manifold",
+      "motley",
+      "multiplex",
+      "numerous",
+      "several"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "mundane",
+    "pos": "",
+    "head_meanings": [
+      "평범한",
+      "흔히 있는",
+      "현세의",
+      "세속적인",
+      "이승의"
+    ],
+    "synonyms_from_image": [
+      "humdrum",
+      "dull",
+      "boring",
+      "tedious",
+      "monotonous",
+      "tiresome",
+      "wearisome",
+      "unexciting",
+      "uneventful",
+      "repetitious",
+      "routine",
+      "ordinary",
+      "run-of-the-mill",
+      "commonplace",
+      "earthly",
+      "worldly",
+      "terrestrial",
+      "material",
+      "temporal",
+      "secular",
+      "sublunar",
+      "pedestrian",
+      "prosaic",
+      "profane"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "munificent",
+    "pos": "",
+    "head_meanings": [
+      "아낌없이 주는",
+      "선심 잘 쓰는",
+      "손이 큰",
+      "푸짐한"
+    ],
+    "synonyms_from_image": [
+      "liberal",
+      "free",
+      "unselfish",
+      "bountiful"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "munificence",
+    "pos": "",
+    "head_meanings": [
+      "아낌없이 줌",
+      "후함"
+    ],
+    "synonyms_from_image": [
+      "largesse",
+      "bounty",
+      "bounteousness",
+      "generosity",
+      "bountifulness",
+      "open-handedness",
+      "magnanimity",
+      "lavishness",
+      "liberality",
+      "philanthropy",
+      "charitableness",
+      "beneficence"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "mural",
+    "pos": "",
+    "head_meanings": [
+      "벽화",
+      "벽의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "049",
+    "word": "murkiness",
+    "pos": "",
+    "head_meanings": [
+      "어둑어둑함",
+      "모호함"
+    ],
+    "synonyms_from_image": [
+      "obscurity",
+      "dimness",
+      "muddle"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "murky",
+    "pos": "",
+    "head_meanings": [
+      "어둡고 탁한",
+      "모호한",
+      "애매한"
+    ],
+    "synonyms_from_image": [
+      "obscurity",
+      "dimness",
+      "muddle"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "muse",
+    "pos": "",
+    "head_meanings": [
+      "심사숙고하다",
+      "명상에 잠기다"
+    ],
+    "synonyms_from_image": [
+      "consider",
+      "deliberate",
+      "meditate",
+      "mull",
+      "ruminate"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "mushroom",
+    "pos": "",
+    "head_meanings": [
+      "빨리 생기다(발전하다)",
+      "급격히 퍼지다",
+      "버섯 모양으로 퍼지다"
+    ],
+    "synonyms_from_image": [
+      "proliferate",
+      "burgeon",
+      "grow/develop rapidly",
+      "spread",
+      "increase",
+      "expand",
+      "boom",
+      "explode",
+      "snowball",
+      "rocket",
+      "skyrocket",
+      "thrive",
+      "flourish",
+      "prosper"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "mutable",
+    "pos": "",
+    "head_meanings": [
+      "변하기 쉬운",
+      "마음이 잘 변하는"
+    ],
+    "synonyms_from_image": [
+      "flexible",
+      "changeable",
+      "inconstant",
+      "irresolute",
+      "unstable",
+      "variable",
+      "uncertain"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "mutability",
+    "pos": "n.",
+    "head_meanings": [
+      "변화성"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "055",
+    "word": "mutate",
+    "pos": "",
+    "head_meanings": [
+      "변화시키다",
+      "돌연 변이시키다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "056",
+    "word": "muted",
+    "pos": "",
+    "head_meanings": [
+      "말을 하지 않는",
+      "가만히 있는",
+      "무언의",
+      "침묵하는"
+    ],
+    "synonyms_from_image": [
+      "soundless",
+      "quiet",
+      "still",
+      "hushed"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "mutinous",
+    "pos": "",
+    "head_meanings": [
+      "폭동의",
+      "폭동을 일으키는",
+      "반항적인",
+      "불순한",
+      "억제하기 힘든"
+    ],
+    "synonyms_from_image": [
+      "lawless",
+      "unwilling",
+      "insubordinate",
+      "rebellious",
+      "subversive",
+      "seditious",
+      "insurgent",
+      "rebel",
+      "riotous"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "mutiny",
+    "pos": "n.",
+    "head_meanings": [
+      "반란",
+      "폭동",
+      "반항",
+      "항명"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "059",
+    "word": "myopic",
+    "pos": "",
+    "head_meanings": [
+      "근시(안)의",
+      "통찰력이 없는"
+    ],
+    "synonyms_from_image": [
+      "shortsighted",
+      "narrow-minded",
+      "bigoted",
+      "prejudiced",
+      "intolerant"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "myriad",
+    "pos": "",
+    "head_meanings": [
+      "1만",
+      "무수(한 사람·물건)"
+    ],
+    "synonyms_from_image": [
+      "plenty",
+      "immense number"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "mystify",
+    "pos": "",
+    "head_meanings": [
+      "속이다",
+      "어리둥절하게 하다",
+      "신비적으로 가리다",
+      "신비화하다"
+    ],
+    "synonyms_from_image": [
+      "bewilder",
+      "baffle",
+      "confound"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "mystification",
+    "pos": "n.",
+    "head_meanings": [
+      "신비화",
+      "어리둥절[혼란]하게 함",
+      "속임수"
+    ],
+    "synonyms_from_image": [
+      "obfuscation"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "nadir",
+    "pos": "",
+    "head_meanings": [
+      "천저",
+      "구렁텅이",
+      "최하점"
+    ],
+    "synonyms_from_image": [
+      "bottom",
+      "base",
+      "foot"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "naive",
+    "pos": "",
+    "head_meanings": [
+      "순진한",
+      "천진난만한",
+      "고지식한",
+      "잘 속아넘어가는",
+      "세련되지 않은",
+      "순진한 사람",
+      "경험이 없는 사람"
+    ],
+    "synonyms_from_image": [
+      "unsophisticated"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "naivete",
+    "pos": "n.",
+    "head_meanings": [
+      "천진난만함",
+      "순진함",
+      "소박(단순)함"
+    ],
+    "synonyms_from_image": [
+      "artlessness",
+      "ingenuousness",
+      "simplicity",
+      "innocence"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "narcissist",
+    "pos": "",
+    "head_meanings": [
+      "자기 도취자"
+    ],
+    "synonyms_from_image": [
+      "egoist",
+      "self-centered person"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "nascent",
+    "pos": "",
+    "head_meanings": [
+      "발생하려고 하는",
+      "초기의",
+      "발생기의",
+      "미성숙의"
+    ],
+    "synonyms_from_image": [
+      "introductory",
+      "inceptive",
+      "beginning",
+      "initial"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "natter",
+    "pos": "",
+    "head_meanings": [
+      "재잘거리다",
+      "두덜거리다",
+      "수다(떨다)"
+    ],
+    "synonyms_from_image": []
+  }
+]

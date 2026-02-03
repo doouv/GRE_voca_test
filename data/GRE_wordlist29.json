@@ -1,0 +1,1496 @@
+[
+  {
+    "id": "001",
+    "word": "lucid",
+    "pos": "adj.",
+    "head_meanings": [
+      "밝은",
+      "명석한",
+      "알기 쉬운",
+      "맑은",
+      "제정신의"
+    ],
+    "synonyms_from_image": [
+      "clarity",
+      "clear",
+      "intelligible",
+      "understandable",
+      "sane",
+      "normal",
+      "right"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "lucidity",
+    "pos": "n.",
+    "head_meanings": [
+      "명료",
+      "명석",
+      "제정신",
+      "밝기",
+      "광명",
+      "맑음",
+      "투명"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "003",
+    "word": "lucrative",
+    "pos": "adj.",
+    "head_meanings": [
+      "이익의",
+      "수지 맞는",
+      "유리한",
+      "돈이 벌리는",
+      "무상으로 얻은"
+    ],
+    "synonyms_from_image": [
+      "remunerative",
+      "gainful",
+      "high-paying",
+      "moneymaking"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "lucre",
+    "pos": "n.",
+    "head_meanings": [
+      "돈",
+      "금전",
+      "이득",
+      "<경멸> 이익, 이득",
+      "부",
+      "재물",
+      "부정 이득"
+    ],
+    "synonyms_from_image": [
+      "gain",
+      "wealth",
+      "cash",
+      "silver"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "lucubrate",
+    "pos": "v.",
+    "head_meanings": [
+      "(야간에) 부지런히 일하다",
+      "밤 늦게까지 열심히 공부하다/일하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "006",
+    "word": "lucubration",
+    "pos": "n.",
+    "head_meanings": [
+      "밤 늦게까지의 저작/학습",
+      "노작(저술)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "007",
+    "word": "ludicrous",
+    "pos": "adj.",
+    "head_meanings": [
+      "익살스러운",
+      "우스꽝스러운",
+      "어리석은",
+      "바보 같은"
+    ],
+    "synonyms_from_image": [
+      "risible",
+      "foolish",
+      "humorous",
+      "absurd",
+      "comic",
+      "funny"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "lugubrious",
+    "pos": "adj.",
+    "head_meanings": [
+      "가련한",
+      "애처로운",
+      "불쌍한",
+      "슬픈 듯한",
+      "우울한",
+      "(특히 과장되게) 슬퍼하는",
+      "울적한"
+    ],
+    "synonyms_from_image": [
+      "gloomy",
+      "mournful",
+      "sad",
+      "unhappy",
+      "doleful",
+      "dolorous",
+      "glum",
+      "melancholy",
+      "woeful",
+      "miserable",
+      "woebegone",
+      "forlorn",
+      "somber",
+      "solemn",
+      "serious",
+      "sorrowful",
+      "morose",
+      "dour",
+      "cheerless",
+      "joyless",
+      "dismal",
+      "tearful"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "lukewarm",
+    "pos": "adj.",
+    "head_meanings": [
+      "미지근한",
+      "열기가 별로 없는",
+      "미온적인",
+      "무관심한",
+      "개의치 않는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "010",
+    "word": "lull",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(비바람, 폭우 등의) 잠잠함",
+      "진정",
+      "(대화 따위의) 일시적 중단",
+      "(병의) 소강상태",
+      "중간 휴식",
+      "자장가",
+      "달래다/어르다",
+      "안심·진정시키다"
+    ],
+    "synonyms_from_image": [
+      "respite",
+      "relief",
+      "hush",
+      "temporary",
+      "stillness",
+      "quiet",
+      "pause",
+      "interlude",
+      "halt",
+      "hiatus"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "lumber",
+    "pos": "n./v.",
+    "head_meanings": [
+      "무겁게 움직이다",
+      "떨떨거리며 나아가다",
+      "육중하게 걷다/움직이다",
+      "목재",
+      "벌채하다"
+    ],
+    "synonyms_from_image": [
+      "waddle",
+      "trudge",
+      "barge",
+      "plod",
+      "clump",
+      "stump",
+      "shamble",
+      "shuffle",
+      "slog"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "luminous",
+    "pos": "adj.",
+    "head_meanings": [
+      "빛나는",
+      "빛을 발하는",
+      "번쩍이는"
+    ],
+    "synonyms_from_image": [
+      "glowing",
+      "beaming",
+      "illuminated",
+      "bright",
+      "radiant"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "lurch",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(갑자기) 휘청하다/비척거리다",
+      "갑자기 기울다",
+      "갑자기 흔들리다",
+      "갑작스런 요동",
+      "강한 충동"
+    ],
+    "synonyms_from_image": [
+      "stagger",
+      "stumble",
+      "wobble",
+      "sway",
+      "roll",
+      "pitch",
+      "toss",
+      "flounder",
+      "swerve"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "lure",
+    "pos": "n./v.",
+    "head_meanings": [
+      "유혹하다",
+      "꾀다",
+      "유혹물",
+      "미끼",
+      "덫",
+      "올가미",
+      "함정"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "015",
+    "word": "lurid",
+    "pos": "adj.",
+    "head_meanings": [
+      "소름끼치는",
+      "으시시한",
+      "무서운",
+      "끔찍한",
+      "선정적인",
+      "야한",
+      "타는 듯이 붉은",
+      "창백한",
+      "혈색없는"
+    ],
+    "synonyms_from_image": [
+      "gruesome",
+      "gory",
+      "grisly",
+      "sensational",
+      "salacious",
+      "unrestrained",
+      "explicit",
+      "bright",
+      "brilliant",
+      "vivid",
+      "glaring",
+      "shocking",
+      "fluorescent",
+      "flaming",
+      "dazzling",
+      "gaudy",
+      "loud",
+      "appalling",
+      "grim",
+      "dramatic",
+      "melodramatic"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "lurk",
+    "pos": "v.",
+    "head_meanings": [
+      "숨어 기다리다",
+      "잠복하다",
+      "잠재하다"
+    ],
+    "synonyms_from_image": [
+      "sneak",
+      "creep",
+      "gumshoe",
+      "slip",
+      "snake",
+      "slide"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "luscious",
+    "pos": "adj.",
+    "head_meanings": [
+      "냄새 좋은",
+      "맛이 좋은",
+      "감미로운",
+      "매력적인",
+      "관능적인",
+      "육감적인",
+      "요염한"
+    ],
+    "synonyms_from_image": [
+      "delicious",
+      "pleasant",
+      "tasty",
+      "savory",
+      "sapid",
+      "sensuous",
+      "sensual"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "luster",
+    "pos": "n.",
+    "head_meanings": [
+      "빛",
+      "광택",
+      "광채",
+      "(명성의) 광휘"
+    ],
+    "synonyms_from_image": [
+      "gleam",
+      "sheen",
+      "opalescence",
+      "brightness",
+      "brilliance",
+      "burnish"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "lustrous",
+    "pos": "adj.",
+    "head_meanings": [
+      "빛나는",
+      "광택이 있는"
+    ],
+    "synonyms_from_image": [
+      "illustrious",
+      "luminous",
+      "gloss",
+      "sheeny",
+      "gleaming"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "luxuriant",
+    "pos": "adj.",
+    "head_meanings": [
+      "다산의",
+      "(땅이) 기름진",
+      "무성한",
+      "현란한",
+      "풍요한"
+    ],
+    "synonyms_from_image": [
+      "rampant",
+      "rank",
+      "plentiful",
+      "productive",
+      "fruitful",
+      "florid"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "luxurious",
+    "pos": "adj.",
+    "head_meanings": [
+      "사치스런",
+      "호사스런",
+      "화려한",
+      "지나치게 꾸민",
+      "관능적인",
+      "음란한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "022",
+    "word": "lyrical",
+    "pos": "adj.",
+    "head_meanings": [
+      "서정시 같은",
+      "서정적인",
+      "감상적인",
+      "열성적인",
+      "열렬한"
+    ],
+    "synonyms_from_image": [
+      "expressive",
+      "emotional",
+      "deeply felt",
+      "enthusiastic",
+      "rhapsodic",
+      "effusive",
+      "rapturous",
+      "ecstatic",
+      "euphoric"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "macabre",
+    "pos": "adj.",
+    "head_meanings": [
+      "소름끼치는",
+      "무시무시한",
+      "섬뜩한"
+    ],
+    "synonyms_from_image": [
+      "deathly",
+      "terrible",
+      "horrible",
+      "weird",
+      "eerie",
+      "ghostlike"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "machinations",
+    "pos": "n.(pl.)",
+    "head_meanings": [
+      "음모",
+      "책모",
+      "교묘한 책략(술책)"
+    ],
+    "synonyms_from_image": [
+      "conspiracy",
+      "intrigue",
+      "stratagem",
+      "practice",
+      "plot"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "maculated",
+    "pos": "adj.",
+    "head_meanings": [
+      "반점(오점)이 있는",
+      "얼룩진",
+      "더러워진"
+    ],
+    "synonyms_from_image": [
+      "dotted",
+      "specked",
+      "striped"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "madcap",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "무모한",
+      "무분별한",
+      "물불을 가리지 않는(사람)",
+      "황급한",
+      "미친"
+    ],
+    "synonyms_from_image": [
+      "reckless",
+      "rash",
+      "foolhardy",
+      "foolish",
+      "hasty",
+      "imprudent",
+      "crazy",
+      "zany",
+      "eccentric",
+      "unconventional"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "maelstrom",
+    "pos": "n.",
+    "head_meanings": [
+      "큰 소용돌이",
+      "대혼란",
+      "격동"
+    ],
+    "synonyms_from_image": [
+      "agitation",
+      "bustle",
+      "whirl",
+      "storm",
+      "vortex"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "magnanimity",
+    "pos": "n.",
+    "head_meanings": [
+      "도량이 큼",
+      "관대한 행위"
+    ],
+    "synonyms_from_image": [
+      "benevolence",
+      "kindness",
+      "goodwill",
+      "honesty",
+      "virtue"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "magnanimous",
+    "pos": "adj.",
+    "head_meanings": [
+      "도량이 큰",
+      "관대한",
+      "배포가 큰",
+      "고결한"
+    ],
+    "synonyms_from_image": [
+      "benevolence",
+      "kindness",
+      "goodwill",
+      "honesty",
+      "virtue"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "magniloquent",
+    "pos": "adj.",
+    "head_meanings": [
+      "호언장담하는",
+      "과장하는",
+      "과장된"
+    ],
+    "synonyms_from_image": [
+      "aureate",
+      "flowery",
+      "sonorous",
+      "euphuistic"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "magnitude",
+    "pos": "n.",
+    "head_meanings": [
+      "크기",
+      "정도",
+      "중요함",
+      "위대함",
+      "규모(지진)",
+      "광도(천문)"
+    ],
+    "synonyms_from_image": [
+      "quantity",
+      "size",
+      "amplitude",
+      "enormity",
+      "importance"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "mainstay",
+    "pos": "n.",
+    "head_meanings": [
+      "가장 중요한 의지물",
+      "기둥",
+      "대들보",
+      "주요 사업"
+    ],
+    "synonyms_from_image": [
+      "central component",
+      "central figure",
+      "prop",
+      "cornerstone",
+      "pillar",
+      "bulwark",
+      "buttress",
+      "chief support",
+      "anchor",
+      "foundation",
+      "base"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "maintain",
+    "pos": "v.",
+    "head_meanings": [
+      "지속하다",
+      "주장하다/단언하다",
+      "부양하다"
+    ],
+    "synonyms_from_image": [
+      "continue",
+      "keep going",
+      "preserve",
+      "sustain",
+      "assert",
+      "insist on",
+      "declare",
+      "announce",
+      "affirm",
+      "claim",
+      "contend",
+      "allege",
+      "support",
+      "finance",
+      "feed",
+      "nurture"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "maladroit",
+    "pos": "adj.",
+    "head_meanings": [
+      "서투른",
+      "솜씨 없는"
+    ],
+    "synonyms_from_image": [
+      "halting",
+      "unhandy",
+      "gauche",
+      "awkward",
+      "inept"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "malady",
+    "pos": "n.",
+    "head_meanings": [
+      "질병",
+      "(특히 만성의) 병"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "036",
+    "word": "malaise",
+    "pos": "n.",
+    "head_meanings": [
+      "(육체적) 불쾌(감)",
+      "(사회의) 침체(상태)",
+      "기분이 언짢음",
+      "불안(감)"
+    ],
+    "synonyms_from_image": [
+      "vague discomfort",
+      "minor complaint",
+      "lassitude",
+      "discomposure",
+      "nervousness"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "malcontent",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "불평가",
+      "반항자",
+      "선동자"
+    ],
+    "synonyms_from_image": [
+      "grouch",
+      "grumbler",
+      "complainer",
+      "anarchist",
+      "revolter"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "malediction",
+    "pos": "n.",
+    "head_meanings": [
+      "저주",
+      "욕",
+      "험담"
+    ],
+    "synonyms_from_image": [
+      "anathema",
+      "malison",
+      "imprecation"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "malefactor",
+    "pos": "n.",
+    "head_meanings": [
+      "악인",
+      "범죄자"
+    ],
+    "synonyms_from_image": [
+      "bad person",
+      "evildoer",
+      "villain",
+      "crook",
+      "knave",
+      "rogue",
+      "offender"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "malevolent",
+    "pos": "adj.",
+    "head_meanings": [
+      "남의 불행을 기뻐하는",
+      "악의 있는"
+    ],
+    "synonyms_from_image": [
+      "malicious",
+      "showing ill will",
+      "ill-disposed",
+      "wicked"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "malfeasance",
+    "pos": "n.",
+    "head_meanings": [
+      "불법[부정]행위",
+      "(특히 공무원의) 위법행위",
+      "나쁜 짓"
+    ],
+    "synonyms_from_image": [
+      "fraudulence",
+      "misconduct",
+      "misbehavior",
+      "misdoing",
+      "wrongdoing"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "malicious",
+    "pos": "adj.",
+    "head_meanings": [
+      "악의가 있는",
+      "심술 궂은"
+    ],
+    "synonyms_from_image": [
+      "hostile",
+      "malevolent",
+      "bitter"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "malign",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "헐뜯다",
+      "중상하다",
+      "해로운",
+      "악의 있는",
+      "악성의"
+    ],
+    "synonyms_from_image": [
+      "harmful",
+      "evil",
+      "bad",
+      "baleful",
+      "hostile",
+      "inimical",
+      "destructive",
+      "malignant",
+      "injurious",
+      "maleficent",
+      "defame",
+      "slander",
+      "libel",
+      "smear",
+      "vilify",
+      "speak ill of",
+      "cast aspersion on",
+      "traduce",
+      "denigrate",
+      "disparage",
+      "slur",
+      "abuse",
+      "revile",
+      "derogate",
+      "calumniate",
+      "asperse",
+      "belittle"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "malignant",
+    "pos": "adj.",
+    "head_meanings": [
+      "악의[적의]가 있는",
+      "(병이) 악성인"
+    ],
+    "synonyms_from_image": [
+      "fatal",
+      "harmful",
+      "hostile",
+      "malicious",
+      "poisonous"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "malingerer",
+    "pos": "n.",
+    "head_meanings": [
+      "꾀병 부리는 사람(병사)"
+    ],
+    "synonyms_from_image": [
+      "neglector",
+      "shirker",
+      "idler"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "malinger",
+    "pos": "v.",
+    "head_meanings": [
+      "꾀병 부리다",
+      "(복무 중인) (의무) 피하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "047",
+    "word": "malingering",
+    "pos": "n.",
+    "head_meanings": [
+      "꾀병 부리기"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "048",
+    "word": "malleable",
+    "pos": "adj.",
+    "head_meanings": [
+      "두드려 펴 늘일 수 있는",
+      "유순한",
+      "온순한",
+      "영향받기 쉬운",
+      "융통성 있는"
+    ],
+    "synonyms_from_image": [
+      "pliable",
+      "ductile",
+      "plastic",
+      "pliant",
+      "soft",
+      "easily influenced",
+      "susceptible",
+      "impressionable",
+      "amenable",
+      "compliant",
+      "tractable",
+      "complaisant",
+      "persuadable"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "malodorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "악취를 풍기는",
+      "용납될 수 없는",
+      "역겨운"
+    ],
+    "synonyms_from_image": [
+      "noisome",
+      "foul",
+      "stinking",
+      "fetid",
+      "putrid",
+      "rank",
+      "rancid",
+      "fusty",
+      "musty"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "mammoth",
+    "pos": "adj.",
+    "head_meanings": [
+      "거대한"
+    ],
+    "synonyms_from_image": [
+      "huge",
+      "large",
+      "immense",
+      "giant"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "manacle",
+    "pos": "n./v.",
+    "head_meanings": [
+      "구속하다",
+      "속박하다",
+      "수갑을 채우다",
+      "쇠고랑을 채우다"
+    ],
+    "synonyms_from_image": [
+      "bridle",
+      "restrain",
+      "handcuff",
+      "fetter",
+      "shackle",
+      "tie one's hands",
+      "put in chains",
+      "put in irons"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "manage to",
+    "pos": "v.",
+    "head_meanings": [
+      "용케 … 해내다",
+      "이럭저럭 해내다",
+      "간신히 -하다",
+      "성공하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "053",
+    "word": "mandate",
+    "pos": "n./v.",
+    "head_meanings": [
+      "지시",
+      "요구",
+      "명령",
+      "권한 위임",
+      "권한 부여",
+      "위임 통치(령, 식민지)",
+      "통치를 위임하다"
+    ],
+    "synonyms_from_image": [
+      "commission",
+      "legal order",
+      "injunction",
+      "command",
+      "charge"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "mandatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "명령의",
+      "강제의",
+      "필수의",
+      "위임의"
+    ],
+    "synonyms_from_image": [
+      "required",
+      "commanding",
+      "necessary",
+      "prescriptive",
+      "obligatory"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "maneuverable",
+    "pos": "adj.",
+    "head_meanings": [
+      "조작(운전)하기 쉬운",
+      "조정(운용, 기동)할 수 있는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "056",
+    "word": "maneuver",
+    "pos": "n./v.",
+    "head_meanings": [
+      "계략을 써서 ~하게 하다",
+      "조종하다",
+      "교묘히 이동시키다",
+      "책략",
+      "술책",
+      "공작"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "057",
+    "word": "mangy",
+    "pos": "adj.",
+    "head_meanings": [
+      "누추한",
+      "불결한",
+      "초라한",
+      "여길 만한",
+      "천한"
+    ],
+    "synonyms_from_image": [
+      "shabby",
+      "wretched",
+      "ragged",
+      "scruffy",
+      "ratty",
+      "ignoble",
+      "meager"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "maniacal",
+    "pos": "adj.",
+    "head_meanings": [
+      "광란의",
+      "광기의"
+    ],
+    "synonyms_from_image": [
+      "excited",
+      "mad",
+      "rabid",
+      "frenzied"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "manifest",
+    "pos": "adj./v./n.",
+    "head_meanings": [
+      "명백한",
+      "뚜렷한",
+      "분명히 나타난",
+      "명백하게 하다",
+      "명시하다",
+      "표현하다",
+      "적하목록",
+      "승객명단"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "060",
+    "word": "manifestation",
+    "pos": "n.",
+    "head_meanings": [
+      "명시",
+      "표명",
+      "현시",
+      "정견 발표",
+      "태도 표명"
+    ],
+    "synonyms_from_image": [
+      "symptom",
+      "evidence",
+      "demonstration",
+      "exhibition",
+      "illustration",
+      "presentation",
+      "expression"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "manipulate",
+    "pos": "v.",
+    "head_meanings": [
+      "교묘하게 다루다",
+      "솜씨 있게 처리하다",
+      "조종하다",
+      "교묘하게 조작하다",
+      "조작하여 속이다",
+      "촉진하다"
+    ],
+    "synonyms_from_image": [
+      "control",
+      "handle",
+      "manage",
+      "maneuver",
+      "ply",
+      "operate",
+      "work",
+      "influence",
+      "use one's advantage",
+      "exploit",
+      "engineer",
+      "steer",
+      "direct",
+      "falsify",
+      "rig",
+      "distort",
+      "alter",
+      "change",
+      "tamper with",
+      "tinker with",
+      "misrepresent"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "manumit",
+    "pos": "v.",
+    "head_meanings": [
+      "해방하다"
+    ],
+    "synonyms_from_image": [
+      "discharge",
+      "liberate free",
+      "unshackle",
+      "loose"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "mar",
+    "pos": "n./v.",
+    "head_meanings": [
+      "흠가게 하다",
+      "훼손하다",
+      "망치다",
+      "손상하다",
+      "못쓰게 만들다",
+      "오점",
+      "결점"
+    ],
+    "synonyms_from_image": [
+      "spoil",
+      "impair",
+      "disfigure",
+      "detract from",
+      "blemish",
+      "scar",
+      "mutilate",
+      "deface",
+      "deform",
+      "ruin",
+      "damage",
+      "wreck",
+      "harm",
+      "hurt",
+      "taint",
+      "tarnish",
+      "sully",
+      "stain",
+      "pollute",
+      "vitiate"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "marred",
+    "pos": "adj.",
+    "head_meanings": [
+      "손상된",
+      "망친"
+    ],
+    "synonyms_from_image": [
+      "injured",
+      "hurt",
+      "offended",
+      "wounded"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "marginal",
+    "pos": "adj.",
+    "head_meanings": [
+      "사소한",
+      "중요하지 않은",
+      "변두리(가장자리)의",
+      "주변의",
+      "주변적인",
+      "한계의",
+      "최저의"
+    ],
+    "synonyms_from_image": [
+      "peripheral",
+      "slight",
+      "small",
+      "tiny",
+      "insignificant",
+      "minimal",
+      "negligible",
+      "borderline",
+      "disputable",
+      "questionable",
+      "doubtful"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "marginalize",
+    "pos": "v.",
+    "head_meanings": [
+      "처지게 하다",
+      "내버려두다",
+      "주류에서 몰아내다",
+      "사회적으로 무시/과소평가하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "067",
+    "word": "marked",
+    "pos": "adj.",
+    "head_meanings": [
+      "두드러진",
+      "현저한",
+      "주목받는",
+      "표적(기호)이 있는"
+    ],
+    "synonyms_from_image": [
+      "pronounced",
+      "striking",
+      "conspicuous",
+      "noticeable",
+      "distinct",
+      "significant",
+      "discernible",
+      "manifest"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "martinet",
+    "pos": "n.",
+    "head_meanings": [
+      "규율에 까다로운 사람",
+      "규율가",
+      "(훈련)이 엄한 사람"
+    ],
+    "synonyms_from_image": [
+      "disciplinarian",
+      "stickler for discipline",
+      "despot",
+      "autocrat",
+      "tyrant",
+      "taskmaster",
+      "authoritarian",
+      "hard master"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "mask",
+    "pos": "n./v.",
+    "head_meanings": [
+      "숨기다",
+      "가리다",
+      "가면을 씌우다",
+      "감추다",
+      "가장하다",
+      "본심을 숨기다",
+      "위장",
+      "겉치레",
+      "핑계",
+      "구실",
+      "가면",
+      "탈"
+    ],
+    "synonyms_from_image": [
+      "belie",
+      "disguise",
+      "hide",
+      "conceal",
+      "cloak",
+      "obscure",
+      "screen",
+      "veil",
+      "camouflage",
+      "cover up",
+      "pretense",
+      "veneer",
+      "guise"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "massacre",
+    "pos": "n./v.",
+    "head_meanings": [
+      "대학살",
+      "대량 살육",
+      "완패"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "071",
+    "word": "masterful",
+    "pos": "adj.",
+    "head_meanings": [
+      "명인 솜씨의",
+      "대가의",
+      "훌륭한",
+      "권위적인",
+      "오만한"
+    ],
+    "synonyms_from_image": [
+      "commanding",
+      "powerful",
+      "imposing",
+      "authoritative",
+      "domineering",
+      "overbearing",
+      "overweening",
+      "imperious",
+      "expert",
+      "adept",
+      "clever",
+      "masterly",
+      "skillful",
+      "adroit",
+      "deft",
+      "dexterous",
+      "consummate"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "masticate",
+    "pos": "v.",
+    "head_meanings": [
+      "씹다",
+      "씹어서 잘게 하다"
+    ],
+    "synonyms_from_image": [
+      "champ",
+      "munch",
+      "crunch",
+      "chomp"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "matchless",
+    "pos": "adj.",
+    "head_meanings": [
+      "적수가 없는",
+      "대단한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "074",
+    "word": "materialism",
+    "pos": "n.",
+    "head_meanings": [
+      "물질주의",
+      "실리주의",
+      "유물론",
+      "유물주의",
+      "이기주의",
+      "실물주의",
+      "유물사관",
+      "사적유물론"
+    ],
+    "synonyms_from_image": [
+      "love of possessions",
+      "love of material things",
+      "pursuit of wealth"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "maternal",
+    "pos": "adj.",
+    "head_meanings": [
+      "어머니(로서)의",
+      "어머니다운",
+      "외가의"
+    ],
+    "synonyms_from_image": [
+      "motherlike",
+      "doting",
+      "shielding"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "matriarch",
+    "pos": "n.",
+    "head_meanings": [
+      "여가장",
+      "여족장",
+      "위엄 있는 노부인"
+    ],
+    "synonyms_from_image": [
+      "female head",
+      "female chieftain",
+      "female ruler",
+      "female leader",
+      "grande dame",
+      "materfamilias"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "mature",
+    "pos": "adj.",
+    "head_meanings": [
+      "완전히 성장한(발달한)",
+      "충분히 발육한",
+      "심사숙고한",
+      "신중한",
+      "현명한",
+      "(과일이) 익은",
+      "숙성한",
+      "잘 익은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "078",
+    "word": "maturity",
+    "pos": "n.",
+    "head_meanings": [
+      "성숙",
+      "충분한 발육",
+      "심사숙고",
+      "신중함",
+      "현명함",
+      "익음/숙성"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "079",
+    "word": "maudlin",
+    "pos": "adj.",
+    "head_meanings": [
+      "눈물많은",
+      "감상적인",
+      "잘 우는"
+    ],
+    "synonyms_from_image": [
+      "emotional",
+      "mawkish",
+      "teary"
+    ]
+  }
+]
