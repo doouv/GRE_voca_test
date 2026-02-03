@@ -737,9 +737,9 @@
   // ======================================================================
   async function loadWordlistData() {
     try {
-      const response = await fetch(`data/wordlist${WORDLIST_NUMBER}.json`);
+      const response = await fetch(`data/GRE_wordlist${WORDLIST_NUMBER}.json`);
       if (!response.ok) {
-        throw new Error(`Word List ${WORDLIST_NUMBER} not found`);
+        throw new Error(`GRE_wordlist${WORDLIST_NUMBER}.json not found`);
       }
       const data = await response.json();
       return data;
