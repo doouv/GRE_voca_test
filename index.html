@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>GRE Vocabulary Practice</title>
+  <style>
+    :root {
+      --bg: #FAFAFA;
+      --card: #FFFFFF;
+      --border: #E5E7EB;
+      --text: #111827;
+      --muted: #9CA3AF;
+      --green: #16A34A;
+      --blue: #2563EB;
+      --shadow: 0 1px 3px rgba(0,0,0,.04), 0 6px 16px rgba(0,0,0,.06);
+    }
+    
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+      -webkit-tap-highlight-color: transparent;
+    }
+    
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    
+    .header {
+      text-align: center;
+      margin-bottom: 48px;
+    }
+    
+    .header h1 {
+      font-size: 32px;
+      font-weight: 800;
+      margin-bottom: 12px;
+      letter-spacing: -0.5px;
+    }
+    
+    .header p {
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    
+    .stats-summary {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+    
+    .stat-box {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .stat-box .label {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+    }
+    
+    .stat-box .value {
+      font-size: 28px;
+      font-weight: 800;
+    }
+    
+    .section-title {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .wordlist-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 12px;
+      margin-bottom: 40px;
+    }
+    
+    .wordlist-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 16px;
+      text-align: center;
+      text-decoration: none;
+      color: var(--text);
+      transition: all 0.2s ease;
+      cursor: pointer;
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
+      min-height: 100px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    
+    .wordlist-card:hover {
+      box-shadow: var(--shadow);
+      border-color: var(--blue);
+      transform: translateY(-2px);
+    }
+    
+    .wordlist-card:active {
+      transform: scale(0.98);
+    }
+    
+    .wordlist-card .number {
+      font-size: 24px;
+      font-weight: 800;
+      margin-bottom: 4px;
+    }
+    
+    .wordlist-card .label {
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 600;
+    }
+    
+    .wordlist-card .status {
+      font-size: 11px;
+      margin-top: 8px;
+      padding: 3px 8px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+    
+    .wordlist-card .status.completed {
+      background: #F0FDF4;
+      color: var(--green);
+    }
+    
+    .wordlist-card .status.in-progress {
+      background: #FEF3C7;
+      color: #D97706;
+    }
+    
+    .wordlist-card.unavailable {
+      opacity: 0.5;
+      pointer-events: none;
+    }
+    
+    .wordlist-card.unavailable .status {
+      background: #F3F4F6;
+      color: var(--muted);
+    }
+    
+    .info-box {
+      background: #EFF6FF;
+      border: 1px solid #BFDBFE;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+    }
+    
+    .info-box h3 {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--blue);
+      margin-bottom: 8px;
+    }
+    
+    .info-box p {
+      font-size: 14px;
+      color: #1E40AF;
+      line-height: 1.6;
+    }
+    
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+    
+    @media (max-width: 600px) {
+      .container { padding: 24px 16px; }
+      .header h1 { font-size: 26px; }
+      .stats-summary { grid-template-columns: repeat(3, 1fr); gap: 8px; }
+      .stat-box { padding: 14px 10px; }
+      .stat-box .value { font-size: 22px; }
+      .wordlist-grid { grid-template-columns: repeat(3, 1fr); gap: 8px; }
+      .wordlist-card { padding: 16px 12px; min-height: 90px; }
+      .wordlist-card .number { font-size: 20px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>📚 GRE Vocabulary Practice</h1>
+      <p>Word List를 선택하여 연습을 시작하세요</p>
+    </div>
+    
+    <div class="stats-summary">
+      <div class="stat-box">
+        <div class="label">완료</div>
+        <div class="value" id="completedCount">0</div>
+      </div>
+      <div class="stat-box">
+        <div class="label">진행 중</div>
+        <div class="value" id="inProgressCount">0</div>
+      </div>
+      <div class="stat-box">
+        <div class="label">평균 점수</div>
+        <div class="value" id="avgScore">-</div>
+      </div>
+    </div>
+    
+    <div class="info-box">
+      <h3>💡 사용 방법</h3>
+      <p>
+        각 Word List 카드를 클릭하면 시험이 시작됩니다.<br>
+        진행 상황은 자동 저장되며, 언제든 이어서 할 수 있습니다.
+      </p>
+    </div>
+    
+    <div class="section-title">📋 Word Lists</div>
+    <div class="wordlist-grid" id="wordlistGrid">
+      <!-- Dynamically populated -->
+    </div>
+    
+    <div class="footer">
+      GRE Vocabulary Practice · 데이터는 브라우저에 저장됩니다
+    </div>
+  </div>
+  
+  <script>
+    // Configuration: List of available word lists
+    // Add numbers here as you create JSON files
+    const AVAILABLE_WORDLISTS = [1, 28]; // Example: Word List 1 and 28 are available
+    
+    // Total word lists (for showing unavailable ones)
+    const TOTAL_WORDLISTS = 30;
+    
+    function getWordlistStatus(num) {
+      const key = `gre_vocab_answers_wordlist_${num}`;
+      try {
+        const data = JSON.parse(localStorage.getItem(key) || '{}');
+        if (data._meta?.graded) {
+          return { status: 'completed', score: data._meta.score };
+        }
+        const hasAnswers = Object.keys(data).some(k => !k.startsWith('_'));
+        if (hasAnswers) {
+          return { status: 'in-progress' };
+        }
+      } catch (e) {}
+      return { status: 'not-started' };
+    }
+    
+    function renderWordlists() {
+      const grid = document.getElementById('wordlistGrid');
+      grid.innerHTML = '';
+      
+      let completed = 0;
+      let inProgress = 0;
+      let totalScore = 0;
+      let scoredCount = 0;
+      
+      for (let i = 1; i <= TOTAL_WORDLISTS; i++) {
+        const isAvailable = AVAILABLE_WORDLISTS.includes(i);
+        const info = isAvailable ? getWordlistStatus(i) : { status: 'unavailable' };
+        
+        const card = document.createElement('a');
+        card.className = 'wordlist-card' + (isAvailable ? '' : ' unavailable');
+        card.href = isAvailable ? `test.html?list=${i}` : '#';
+        
+        let statusHtml = '';
+        if (info.status === 'completed') {
+          statusHtml = `<div class="status completed">✓ ${info.score}점</div>`;
+          completed++;
+          totalScore += info.score;
+          scoredCount++;
+        } else if (info.status === 'in-progress') {
+          statusHtml = `<div class="status in-progress">진행 중</div>`;
+          inProgress++;
+        } else if (info.status === 'unavailable') {
+          statusHtml = `<div class="status">준비 중</div>`;
+        }
+        
+        card.innerHTML = `
+          <div class="number">${i}</div>
+          <div class="label">Word List</div>
+          ${statusHtml}
+        `;
+        
+        grid.appendChild(card);
+      }
+      
+      document.getElementById('completedCount').textContent = completed;
+      document.getElementById('inProgressCount').textContent = inProgress;
+      document.getElementById('avgScore').textContent = scoredCount > 0 
+        ? Math.round(totalScore / scoredCount) + '점' 
+        : '-';
+    }
+    
+    renderWordlists();
+  </script>
+</body>
+</html>

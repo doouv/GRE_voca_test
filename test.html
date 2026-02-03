@@ -1,0 +1,1275 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>GRE Vocabulary Test</title>
+  <style>
+    :root{
+      --bg:#FAFAFA;
+      --card:#FFFFFF;
+      --border:#E5E7EB;
+      --text:#111827;
+      --muted:#9CA3AF;
+      --shadow:0 1px 3px rgba(0,0,0,.04), 0 6px 16px rgba(0,0,0,.06);
+      --shadow-sm:0 1px 2px rgba(0,0,0,.04);
+      --radius:14px;
+      --green:#16A34A;
+      --green-bg:#F0FDF4;
+      --green-border:#BBF7D0;
+      --red:#DC2626;
+      --red-bg:#FEF2F2;
+      --red-border:#FECACA;
+      --amber:#D97706;
+      --amber-bg:#FFFBEB;
+      --amber-border:#FDE68A;
+      --blue:#2563EB;
+      --blue-bg:#EFF6FF;
+      --blue-border:#BFDBFE;
+      --highlight:#FBBF24;
+      --highlight-bg:#FEF3C7;
+      --highlight-border:#F59E0B;
+    }
+    *{ box-sizing:border-box; }
+    html,body{ height:100%; }
+    body{
+      margin:0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Inter', system-ui, Segoe UI, Roboto, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    /* Top bar - MOBILE FIX: solid background, no backdrop-filter */
+    .topbar{
+      position: sticky;
+      top:0;
+      z-index:50;
+      background: #FFFFFF; /* Solid white instead of transparent */
+      border-bottom: 1px solid var(--border);
+    }
+    .topbar-inner{
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 12px 16px;
+      display:flex;
+      align-items:center;
+      justify-content: space-between;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .brand{
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+    .back-btn{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 44px;
+      height: 44px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: #fff;
+      text-decoration: none;
+      color: var(--text);
+      font-size: 20px;
+      touch-action: manipulation;
+    }
+    .back-btn:active{ background: #F3F4F6; }
+    .brand h1{
+      font-size: 15px;
+      margin:0;
+      font-weight: 800;
+      letter-spacing: -.2px;
+    }
+    .brand .sub{
+      margin-top:1px;
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 600;
+    }
+    
+    /* Controls - MOBILE FIX: larger touch targets */
+    .controls{
+      display:flex;
+      gap:8px;
+      align-items:center;
+      flex-wrap: wrap;
+      justify-content:flex-end;
+    }
+    .btn{
+      border: 1px solid var(--border);
+      background: #fff;
+      color: var(--text);
+      padding: 12px 16px; /* Increased from 8px 14px */
+      min-height: 44px; /* MOBILE: minimum touch target */
+      border-radius: 10px;
+      cursor:pointer;
+      font-weight: 600;
+      font-size: 14px;
+      transition: all .15s ease;
+      touch-action: manipulation; /* MOBILE: prevent double-tap zoom */
+      -webkit-tap-highlight-color: transparent;
+    }
+    .btn:hover{ background: #F9FAFB; box-shadow: var(--shadow-sm); }
+    .btn:active{ 
+      transform: scale(.97); 
+      background: #F3F4F6;
+    }
+    .btn.primary{
+      background: var(--text);
+      color: #fff;
+      border-color: var(--text);
+    }
+    .btn.grade-btn{
+      background: var(--green);
+      color: #fff;
+      border-color: var(--green);
+    }
+    .btn.grade-btn:disabled{
+      background: var(--muted);
+      border-color: var(--muted);
+      cursor: not-allowed;
+      opacity: .6;
+    }
+    .pill{
+      display:flex;
+      gap:6px;
+      align-items:center;
+      padding: 10px 14px;
+      min-height: 44px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--muted);
+      background: #fff;
+    }
+    .dot{
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: #D1D5DB;
+      flex-shrink: 0;
+    }
+    .dot.ok{ background: var(--green); box-shadow: 0 0 0 3px rgba(22,163,74,.15); }
+
+    /* Hero */
+    .wrap{
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 24px 16px 80px;
+    }
+    .hero{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      margin-bottom: 28px;
+    }
+    .hero-left{
+      width: 100%;
+      text-align: center;
+    }
+    .hero-left h2{
+      font-size: 22px;
+      font-weight: 800;
+      margin: 0 0 8px;
+      letter-spacing: -.3px;
+    }
+    .hero-left p{
+      color: var(--muted);
+      font-size: 14px;
+      margin: 0 auto;
+      max-width: 520px;
+      line-height: 1.5;
+    }
+    .hero-right{
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      width: 100%;
+      max-width: 560px;
+    }
+    .progress{ width: 100%; }
+    .progress .row{
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 6px;
+    }
+    .bar{
+      height: 6px;
+      border-radius: 99px;
+      background: #F3F4F6;
+      overflow: hidden;
+    }
+    .bar > div{
+      height: 100%;
+      border-radius: 99px;
+      background: linear-gradient(90deg, var(--text), #374151);
+      width: 0%;
+      transition: width .4s ease;
+    }
+
+    /* Stats bar */
+    .stats-bar{
+      display: flex;
+      gap: 12px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+    .stat-card{
+      flex:1;
+      min-width: 90px;
+      padding: 14px 12px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      text-align: center;
+      background: #fff;
+    }
+    .stat-card .stat-label{
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      color: var(--muted);
+      margin-bottom: 4px;
+    }
+    .stat-card .stat-value{
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: -.5px;
+    }
+    .stat-card .stat-value .unit{
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+    }
+
+    /* Question cards - single column on mobile */
+    .questions{
+      column-count: 2;
+      column-gap: 16px;
+    }
+    @media (max-width: 980px){
+      .questions{ column-count: 1; }
+    }
+
+    .qcard{
+      break-inside: avoid;
+      -webkit-column-break-inside: avoid;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 0;
+      margin-bottom: 16px;
+      background: var(--card);
+      overflow: hidden;
+      position: relative;
+      transition: border-color .3s, box-shadow .3s;
+      box-shadow: var(--shadow-sm);
+    }
+    .qcard.correct{ border-color: var(--green-border); box-shadow: 0 0 0 1px var(--green-border); }
+    .qcard.partial{ border-color: var(--amber-border); box-shadow: 0 0 0 1px var(--amber-border); }
+    .qcard.incorrect{ border-color: var(--red-border); box-shadow: 0 0 0 1px var(--red-border); }
+
+    /* Result badge */
+    .result-badge{
+      display: none;
+      position: absolute;
+      top: 14px; right: 14px;
+      padding: 5px 12px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: .3px;
+      z-index: 5;
+    }
+    .result-badge.show{ display: inline-block; }
+    .result-badge.badge-correct{ background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+    .result-badge.badge-partial{ background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); }
+    .result-badge.badge-incorrect{ background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
+
+    .qhead{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 16px 12px;
+      border-bottom: 1px solid #F3F4F6;
+      background: #FAFAFA;
+    }
+    .qhead-left{
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .q-number{
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--muted);
+      min-width: 26px;
+    }
+    .word-text{
+      font-size: 18px;
+      font-weight: 800;
+      letter-spacing: -.2px;
+    }
+    .pos-tag{
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--muted);
+      background: #ECEEF1;
+      padding: 2px 8px;
+      border-radius: 5px;
+    }
+
+    .section{
+      padding: 14px 16px;
+    }
+    .section + .section{
+      border-top: 1px solid #F5F5F5;
+    }
+    .section-label{
+      display: flex;
+      gap: 10px;
+      align-items: baseline;
+      margin-bottom: 10px;
+    }
+    .section-label .lbl{
+      font-size: 13px;
+      font-weight: 700;
+      color: #4B5563;
+    }
+    .section-label .hint{
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 500;
+    }
+    textarea{
+      width: 100%;
+      min-height: 60px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px 14px;
+      font-size: 16px; /* MOBILE: prevent zoom on focus */
+      font-family: inherit;
+      resize: vertical;
+      outline: none;
+      transition: border-color .15s, box-shadow .15s;
+      background: #fff;
+      -webkit-appearance: none;
+    }
+    textarea:focus{
+      border-color: #A5B4FC;
+      box-shadow: 0 0 0 3px rgba(99,102,241,.08);
+    }
+    textarea:disabled{
+      background: #F9FAFB;
+      color: #6B7280;
+    }
+
+    /* Options - MOBILE FIX: larger touch targets */
+    .options{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+    @media (max-width: 500px){ 
+      .options{ grid-template-columns: 1fr; } 
+    }
+
+    .opt{
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 14px; /* Increased padding */
+      min-height: 52px; /* MOBILE: larger touch target */
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      cursor: pointer;
+      transition: all .15s ease;
+      user-select: none;
+      position: relative;
+      background: #fff;
+      touch-action: manipulation;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .opt:hover{ background: #F9FAFB; border-color: #D1D5DB; }
+    .opt:active{ background: #F3F4F6; }
+    .opt input[type="checkbox"]{
+      width: 20px; height: 20px;
+      accent-color: var(--text);
+      flex-shrink: 0;
+      cursor: pointer;
+      touch-action: manipulation;
+    }
+    .opt-letter{
+      font-size: 13px;
+      font-weight: 800;
+      color: #D1D5DB;
+      min-width: 18px;
+    }
+    .opt-text{
+      font-size: 15px;
+      font-weight: 500;
+      flex: 1;
+    }
+
+    /* Graded option states */
+    .opt.opt-correct{
+      background: var(--green-bg);
+      border-color: var(--green-border);
+    }
+    .opt.opt-correct .opt-letter{ color: var(--green); }
+    .opt.opt-incorrect{
+      background: var(--red-bg);
+      border-color: var(--red-border);
+    }
+    .opt.opt-incorrect .opt-letter{ color: var(--red); }
+    .opt.opt-incorrect .opt-text{ text-decoration: line-through; color: var(--red); }
+    .opt.opt-missed{
+      background: var(--amber-bg);
+      border-color: var(--amber-border);
+    }
+    .opt.opt-missed .opt-letter{ color: var(--amber); }
+    .opt.disabled{ pointer-events: none; opacity: .85; }
+
+    /* Answer reveal */
+    .answer-reveal{
+      display: none;
+      margin-top: 10px;
+      padding: 12px 14px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 1.5;
+    }
+    .answer-reveal.show{ display: block; }
+    .answer-reveal .answer-label{
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      margin-bottom: 4px;
+    }
+    .answer-reveal.correct-reveal{
+      background: var(--green-bg);
+      border: 1px solid var(--green-border);
+      color: var(--green);
+    }
+    .answer-reveal.correct-reveal .answer-label{ color: var(--green); }
+    .answer-reveal.incorrect-reveal{
+      background: var(--red-bg);
+      border: 1px solid var(--red-border);
+      color: var(--red);
+    }
+    .answer-reveal.incorrect-reveal .answer-label{ color: var(--red); }
+
+    /* Highlight feature */
+    .opt-text .hw{
+      cursor: pointer;
+      padding: 2px 4px;
+      border-radius: 4px;
+      transition: background .15s, box-shadow .15s;
+    }
+    .opt-text .hw:hover{
+      background: #FEF9C3;
+    }
+    .opt-text .hw.highlighted{
+      background: var(--highlight-bg);
+      box-shadow: 0 0 0 2px var(--highlight);
+      font-weight: 700;
+    }
+
+    /* Highlight panel */
+    .highlight-panel{
+      display: none;
+      padding: 12px 16px;
+      border-top: 1px dashed #FDE68A;
+      background: #FFFEF5;
+    }
+    .highlight-panel.has-items{ display: block; }
+    .highlight-panel-title{
+      font-size: 12px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      color: var(--highlight-border);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .hl-chips{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .hl-chip{
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 14px;
+      min-height: 36px;
+      border-radius: 999px;
+      background: var(--highlight-bg);
+      border: 1px solid var(--highlight);
+      font-size: 14px;
+      font-weight: 700;
+      color: #92400E;
+      touch-action: manipulation;
+    }
+    .hl-chip .hl-remove{
+      cursor: pointer;
+      font-size: 16px;
+      color: #B45309;
+      font-weight: 800;
+      line-height: 1;
+      padding: 4px;
+    }
+    .hl-chip .hl-remove:hover{ color: var(--red); }
+
+    .hl-tip{
+      font-size: 12px;
+      color: var(--muted);
+      margin-top: 8px;
+      font-weight: 500;
+    }
+
+    /* Loading state */
+    .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 300px;
+      color: var(--muted);
+    }
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid var(--border);
+      border-top-color: var(--text);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin-bottom: 16px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    
+    .error-box {
+      background: var(--red-bg);
+      border: 1px solid var(--red-border);
+      border-radius: 12px;
+      padding: 24px;
+      text-align: center;
+      color: var(--red);
+    }
+    .error-box h3 { margin: 0 0 8px; }
+    .error-box p { margin: 0; font-size: 14px; }
+    .error-box a {
+      display: inline-block;
+      margin-top: 16px;
+      color: var(--text);
+      text-decoration: none;
+      padding: 12px 24px;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-weight: 600;
+    }
+
+    /* Footer */
+    .footer{
+      text-align:center;
+      color: #D1D5DB;
+      font-size: 11px;
+      font-weight: 600;
+      margin-top: 48px;
+      letter-spacing: .2px;
+    }
+
+    /* Mobile button bar at bottom */
+    @media (max-width: 700px) {
+      .topbar-inner { padding: 10px 12px; }
+      .controls { 
+        width: 100%;
+        justify-content: space-between;
+        gap: 6px;
+      }
+      .controls .pill { display: none; } /* Hide save pill on mobile */
+      .btn { 
+        flex: 1; 
+        padding: 12px 10px;
+        font-size: 13px;
+        text-align: center;
+      }
+      .brand { min-width: auto; }
+      .brand > div { display: none; } /* Hide brand text on mobile */
+    }
+
+    /* Print */
+    @media print{
+      .topbar{ position: static; }
+      .controls, .hero-right, .footer, .stats-bar, .highlight-panel{ display:none !important; }
+      .questions{ column-count: 1; }
+      .qcard{ box-shadow:none; }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <a href="index.html" class="back-btn" aria-label="Back to list">←</a>
+        <div>
+          <h1 id="titleTop">GRE Vocabulary Test</h1>
+          <div class="sub" id="subtitleTop">Loading...</div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <div class="pill" id="saveState">
+          <span class="dot" id="saveDot"></span>
+          <span id="saveText">Not saved</span>
+        </div>
+        <button class="btn" id="saveBtn" type="button">저장</button>
+        <button class="btn grade-btn" id="gradeBtn" type="button">채점</button>
+        <button class="btn primary" id="exportBtn" type="button">Export</button>
+        <button class="btn" id="clearBtn" type="button">초기화</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="hero">
+      <div class="hero-left">
+        <h2 id="titleHero">Word List Practice</h2>
+        <p id="descHero">
+          각 단어의 뜻을 적고, 해당하는 모든 동의어를 선택하세요.
+        </p>
+      </div>
+      <div class="hero-right">
+        <div class="progress">
+          <div class="row">
+            <span id="progText">Progress: 0/0</span>
+            <span id="progDetail">뜻 0 · 동의어 0</span>
+          </div>
+          <div class="bar"><div id="progBar"></div></div>
+        </div>
+        <div class="stats-bar">
+          <div class="stat-card">
+            <div class="stat-label">점수</div>
+            <div class="stat-value" id="statScore">—</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">연속</div>
+            <div class="stat-value" id="statStreak">0 <span class="unit">🔥</span></div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-label">하이라이트</div>
+            <div class="stat-value" id="statHighlight">0 <span class="unit">개</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="questions" id="questions">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <div>데이터 불러오는 중...</div>
+      </div>
+    </div>
+
+    <div class="footer">
+      GRE Vocabulary Practice · 진행 상황 자동 저장
+    </div>
+  </div>
+
+<script>
+  // ======================================================================
+  // URL PARAMETER & DATA LOADING
+  // ======================================================================
+  const urlParams = new URLSearchParams(window.location.search);
+  const WORDLIST_NUMBER = urlParams.get('list') || '1';
+  
+  let QUESTIONS = [];
+  let isGraded = false;
+  let correctCount = 0;
+  let partialCount = 0;
+  let incorrectCount = 0;
+  let currentStreak = 0;
+  let bestStreak = 0;
+  let highlightedWords = {};
+
+  const STORAGE_KEY = `gre_vocab_answers_wordlist_${WORDLIST_NUMBER}`;
+
+  // ======================================================================
+  // HELPERS
+  // ======================================================================
+  function $(sel) { return document.querySelector(sel); }
+  function $$(sel) { return document.querySelectorAll(sel); }
+
+  function el(tag, attrs = {}, children = []) {
+    const node = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (k === 'class') node.className = v;
+      else if (k === 'html') node.innerHTML = v;
+      else node.setAttribute(k, v);
+    }
+    children.forEach(c => {
+      if (typeof c === 'string') node.appendChild(document.createTextNode(c));
+      else node.appendChild(c);
+    });
+    return node;
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
+  }
+
+  // ======================================================================
+  // LOAD JSON DATA
+  // ======================================================================
+  async function loadWordlistData() {
+    try {
+      const response = await fetch(`data/wordlist${WORDLIST_NUMBER}.json`);
+      if (!response.ok) {
+        throw new Error(`Word List ${WORDLIST_NUMBER} not found`);
+      }
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error('Failed to load wordlist:', error);
+      return null;
+    }
+  }
+
+  function showError(message) {
+    $('#questions').innerHTML = `
+      <div class="error-box">
+        <h3>😕 데이터를 불러올 수 없습니다</h3>
+        <p>${message}</p>
+        <a href="index.html">← 목록으로 돌아가기</a>
+      </div>
+    `;
+  }
+
+  // ======================================================================
+  // TITLES
+  // ======================================================================
+  function setTitles() {
+    const t = `Word List ${WORDLIST_NUMBER} Practice`;
+    $('#titleHero').textContent = t;
+    $('#titleTop').textContent = "GRE Vocabulary Test";
+    $('#subtitleTop').textContent = `Word List ${WORDLIST_NUMBER} · 모든 동의어 선택`;
+  }
+
+  // ======================================================================
+  // RENDERING
+  // ======================================================================
+  function render() {
+    const root = $('#questions');
+    root.innerHTML = '';
+
+    QUESTIONS.forEach((q, idx) => {
+      if (!highlightedWords[q.qid]) highlightedWords[q.qid] = new Set();
+
+      const card = el('div', { class: 'qcard', 'data-qid': q.qid });
+      const badge = el('div', { class: 'result-badge', id: `badge-${q.qid}` });
+      card.appendChild(badge);
+
+      // Header
+      const head = el('div', { class: 'qhead' });
+      const headLeft = el('div', { class: 'qhead-left' });
+      headLeft.appendChild(el('span', { class: 'q-number', html: `${String(idx + 1).padStart(2, '0')}` }));
+      headLeft.appendChild(el('span', { class: 'word-text', html: esc(q.word) }));
+      if (q.pos) headLeft.appendChild(el('span', { class: 'pos-tag', html: esc(q.pos) }));
+      head.appendChild(headLeft);
+      card.appendChild(head);
+
+      // Section A: Meaning
+      const secA = el('div', { class: 'section', id: `sec-meaning-${q.qid}` });
+      secA.innerHTML = `
+        <div class="section-label">
+          <span class="lbl">A. 뜻을 적으세요</span>
+        </div>`;
+      const ta = el('textarea', { id: `${q.qid}-meaning`, placeholder: '뜻을 적으세요...' });
+      secA.appendChild(ta);
+
+      const revealA = el('div', { class: 'answer-reveal', id: `reveal-meaning-${q.qid}` });
+      revealA.innerHTML = `<div class="answer-label">정답</div>${q.meanings.join(', ')}`;
+      secA.appendChild(revealA);
+      card.appendChild(secA);
+
+      // Section B: Synonyms (only if options exist)
+      if (q.options && Object.keys(q.options).length > 0) {
+        const secB = el('div', { class: 'section', id: `sec-syn-${q.qid}` });
+        secB.innerHTML = `
+          <div class="section-label">
+            <span class="lbl">B. 동의어 모두 선택</span>
+          </div>`;
+        const optsDiv = el('div', { class: 'options', id: `${q.qid}-opts` });
+
+        Object.entries(q.options).forEach(([letter, text]) => {
+          const label = el('label', { class: 'opt', id: `opt-${q.qid}-${letter}` });
+          const input = el('input', { type: 'checkbox', name: `${q.qid}-syn`, value: letter });
+          const letterSpan = el('span', { class: 'opt-letter', html: letter });
+
+          const textSpan = el('span', { class: 'opt-text' });
+          const words = text.split(/\s+/);
+          words.forEach((word, wIdx) => {
+            const hw = el('span', {
+              class: 'hw',
+              'data-qid': q.qid,
+              'data-word': word.toLowerCase(),
+              html: esc(word)
+            });
+            hw.addEventListener('click', (e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              toggleHighlight(q.qid, word.toLowerCase(), hw);
+            });
+            textSpan.appendChild(hw);
+            if (wIdx < words.length - 1) {
+              textSpan.appendChild(document.createTextNode(' '));
+            }
+          });
+
+          label.appendChild(input);
+          label.appendChild(letterSpan);
+          label.appendChild(textSpan);
+          optsDiv.appendChild(label);
+        });
+        secB.appendChild(optsDiv);
+
+        const revealB = el('div', { class: 'answer-reveal', id: `reveal-syn-${q.qid}` });
+        const correctTexts = q.correct.map(l => `${l}) ${q.options[l]}`).join(', ');
+        revealB.innerHTML = `<div class="answer-label">정답</div>${correctTexts}`;
+        secB.appendChild(revealB);
+        card.appendChild(secB);
+      }
+
+      // Highlight panel
+      const hlPanel = el('div', { class: 'highlight-panel', id: `hl-panel-${q.qid}` });
+      hlPanel.innerHTML = `
+        <div class="highlight-panel-title">⭐ 하이라이트</div>
+        <div class="hl-chips" id="hl-chips-${q.qid}"></div>
+        <div class="hl-tip">채점 후 Export에 포함됩니다</div>`;
+      card.appendChild(hlPanel);
+
+      root.appendChild(card);
+    });
+  }
+
+  // ======================================================================
+  // HIGHLIGHT LOGIC
+  // ======================================================================
+  function toggleHighlight(qid, word, spanEl) {
+    if (isGraded) return;
+
+    const set = highlightedWords[qid];
+    if (set.has(word)) {
+      set.delete(word);
+      document.querySelectorAll(`.hw[data-qid="${qid}"][data-word="${word}"]`).forEach(s => {
+        s.classList.remove('highlighted');
+      });
+    } else {
+      set.add(word);
+      document.querySelectorAll(`.hw[data-qid="${qid}"][data-word="${word}"]`).forEach(s => {
+        s.classList.add('highlighted');
+      });
+    }
+    updateHighlightPanel(qid);
+    updateHighlightStat();
+    scheduleSave();
+  }
+
+  function updateHighlightPanel(qid) {
+    const panel = $(`#hl-panel-${qid}`);
+    const chipsDiv = $(`#hl-chips-${qid}`);
+    const set = highlightedWords[qid];
+
+    if (!panel || !chipsDiv) return;
+
+    chipsDiv.innerHTML = '';
+    if (set.size === 0) {
+      panel.classList.remove('has-items');
+      return;
+    }
+    panel.classList.add('has-items');
+
+    set.forEach(word => {
+      const chip = el('span', { class: 'hl-chip' });
+      chip.textContent = word;
+      const removeBtn = el('span', { class: 'hl-remove', html: '×' });
+      removeBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        toggleHighlight(qid, word, null);
+      });
+      chip.appendChild(removeBtn);
+      chipsDiv.appendChild(chip);
+    });
+  }
+
+  function updateHighlightStat() {
+    let total = 0;
+    Object.values(highlightedWords).forEach(set => total += set.size);
+    $('#statHighlight').innerHTML = `${total} <span class="unit">개</span>`;
+  }
+
+  // ======================================================================
+  // STORAGE
+  // ======================================================================
+  function loadAnswers() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+    catch { return {}; }
+  }
+
+  function saveAnswers(obj) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(obj));
+  }
+
+  function collectAnswers() {
+    const out = {};
+    QUESTIONS.forEach(q => {
+      const meaning = ($(`#${q.qid}-meaning`)?.value || '').trim();
+      const syn = Array.from($$(`input[name="${q.qid}-syn"]:checked`)).map(x => x.value).sort();
+      const hl = Array.from(highlightedWords[q.qid] || []);
+      out[q.qid] = {
+        word: q.word,
+        meaning,
+        syn_choices: syn,
+        options: q.options || {},
+        highlighted_words: hl
+      };
+    });
+    return out;
+  }
+
+  function restore() {
+    const ans = loadAnswers();
+    QUESTIONS.forEach(q => {
+      const m = $(`#${q.qid}-meaning`);
+      if (m && ans[q.qid]?.meaning) m.value = ans[q.qid].meaning;
+
+      const picks = new Set(ans[q.qid]?.syn_choices || []);
+      $$(`input[name="${q.qid}-syn"]`).forEach(chk => { chk.checked = picks.has(chk.value); });
+
+      const savedHL = ans[q.qid]?.highlighted_words || [];
+      savedHL.forEach(word => {
+        highlightedWords[q.qid].add(word);
+        document.querySelectorAll(`.hw[data-qid="${q.qid}"][data-word="${word}"]`).forEach(s => {
+          s.classList.add('highlighted');
+        });
+      });
+      updateHighlightPanel(q.qid);
+    });
+    updateHighlightStat();
+    updateProgress();
+    setSaved(true);
+  }
+
+  // ======================================================================
+  // PROGRESS & UX
+  // ======================================================================
+  function setSaved(ok) {
+    const dot = $('#saveDot');
+    const txt = $('#saveText');
+    if (ok) { dot.classList.add('ok'); txt.textContent = '저장됨'; }
+    else { dot.classList.remove('ok'); txt.textContent = '수정 중…'; }
+  }
+
+  function updateProgress() {
+    const ans = collectAnswers();
+    const total = QUESTIONS.length;
+    let mDone = 0, sDone = 0;
+    const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
+    
+    QUESTIONS.forEach(q => {
+      if ((ans[q.qid]?.meaning || '').length > 0) mDone++;
+      if (q.options && Object.keys(q.options).length > 0) {
+        if ((ans[q.qid]?.syn_choices || []).length > 0) sDone++;
+      }
+    });
+    
+    const totalTasks = total + synQCount;
+    const doneTasks = mDone + sDone;
+    const pct = totalTasks > 0 ? (doneTasks / totalTasks) * 100 : 0;
+    
+    $('#progText').textContent = `Progress: ${Math.round(pct)}%`;
+    $('#progDetail').textContent = `뜻 ${mDone}/${total} · 동의어 ${sDone}/${synQCount}`;
+    $('#progBar').style.width = `${pct}%`;
+  }
+
+  let saveTimeout = null;
+  function scheduleSave() {
+    setSaved(false);
+    if (saveTimeout) clearTimeout(saveTimeout);
+    saveTimeout = setTimeout(() => {
+      saveAnswers(collectAnswers());
+      updateProgress();
+      setSaved(true);
+    }, 300);
+  }
+
+  // ======================================================================
+  // GRADING
+  // ======================================================================
+  function gradeExam() {
+    if (isGraded) return;
+    isGraded = true;
+
+    const ans = collectAnswers();
+    correctCount = 0; partialCount = 0; incorrectCount = 0;
+    currentStreak = 0; bestStreak = 0;
+
+    QUESTIONS.forEach(q => {
+      const hasSynQ = q.options && Object.keys(q.options).length > 0;
+      const userSyn = new Set(ans[q.qid]?.syn_choices || []);
+      const correctSet = new Set(q.correct || []);
+
+      let synCorrectPicks = 0;
+      let synWrongPicks = 0;
+      let synMissed = 0;
+
+      if (hasSynQ) {
+        Object.keys(q.options).forEach(letter => {
+          const optEl = $(`#opt-${q.qid}-${letter}`);
+          if (!optEl) return;
+          
+          const isCorrect = correctSet.has(letter);
+          const isPicked = userSyn.has(letter);
+
+          optEl.classList.add('disabled');
+          const input = optEl.querySelector('input');
+          if (input) input.disabled = true;
+
+          if (isCorrect && isPicked) { optEl.classList.add('opt-correct'); synCorrectPicks++; }
+          else if (!isCorrect && isPicked) { optEl.classList.add('opt-incorrect'); synWrongPicks++; }
+          else if (isCorrect && !isPicked) { optEl.classList.add('opt-missed'); synMissed++; }
+        });
+      }
+
+      const ta = $(`#${q.qid}-meaning`);
+      if (ta) ta.disabled = true;
+
+      const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
+      const badge = $(`#badge-${q.qid}`);
+      const revealMeaning = $(`#reveal-meaning-${q.qid}`);
+      const revealSyn = $(`#reveal-syn-${q.qid}`);
+
+      if (revealMeaning) revealMeaning.classList.add('show');
+      if (revealSyn) revealSyn.classList.add('show');
+
+      // Determine result
+      let result;
+      if (!hasSynQ) {
+        // Meaning only - always show as correct reveal
+        result = 'meaning-only';
+        if (revealMeaning) revealMeaning.classList.add('correct-reveal');
+      } else if (synWrongPicks === 0 && synMissed === 0 && synCorrectPicks > 0) {
+        result = 'correct';
+        correctCount++;
+        currentStreak++;
+        bestStreak = Math.max(bestStreak, currentStreak);
+      } else if (synCorrectPicks > 0 && synWrongPicks === 0) {
+        result = 'partial';
+        partialCount++;
+        currentStreak = 0;
+      } else {
+        result = 'incorrect';
+        incorrectCount++;
+        currentStreak = 0;
+      }
+
+      if (card && badge) {
+        if (result === 'correct') {
+          card.classList.add('correct');
+          badge.classList.add('show', 'badge-correct');
+          badge.textContent = '✓ CORRECT';
+          if (revealMeaning) revealMeaning.classList.add('correct-reveal');
+          if (revealSyn) revealSyn.classList.add('correct-reveal');
+        } else if (result === 'partial') {
+          card.classList.add('partial');
+          badge.classList.add('show', 'badge-partial');
+          badge.textContent = '△ PARTIAL';
+          if (revealMeaning) revealMeaning.classList.add('correct-reveal');
+          if (revealSyn) revealSyn.classList.add('incorrect-reveal');
+        } else if (result === 'incorrect') {
+          card.classList.add('incorrect');
+          badge.classList.add('show', 'badge-incorrect');
+          badge.textContent = '✗ WRONG';
+          if (revealMeaning) revealMeaning.classList.add('incorrect-reveal');
+          if (revealSyn) revealSyn.classList.add('incorrect-reveal');
+        }
+      }
+    });
+
+    const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
+    const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
+    $('#statScore').innerHTML = `${score} <span class="unit">점</span>`;
+    $('#statStreak').innerHTML = `${bestStreak} <span class="unit">🔥</span>`;
+
+    $('#gradeBtn').disabled = true;
+    $('#gradeBtn').textContent = '✓ 채점 완료';
+    
+    // Save graded state
+    const payload = collectAnswers();
+    payload._meta = {
+      wordlist: WORDLIST_NUMBER,
+      graded: true,
+      score,
+      correct: correctCount,
+      partial: partialCount,
+      incorrect: incorrectCount,
+      bestStreak,
+      timestamp: new Date().toISOString(),
+    };
+    saveAnswers(payload);
+  }
+
+  // ======================================================================
+  // EXPORT
+  // ======================================================================
+  function exportJson() {
+    const payload = collectAnswers();
+
+    if (isGraded) {
+      const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
+      const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
+      payload._meta = {
+        wordlist: WORDLIST_NUMBER,
+        graded: true,
+        score,
+        correct: correctCount,
+        partial: partialCount,
+        incorrect: incorrectCount,
+        bestStreak,
+        timestamp: new Date().toISOString(),
+      };
+    }
+
+    const allHighlighted = [];
+    QUESTIONS.forEach(q => {
+      const hl = Array.from(highlightedWords[q.qid] || []);
+      if (hl.length > 0) {
+        allHighlighted.push({ from_question: q.word, words: hl });
+      }
+    });
+    if (allHighlighted.length > 0) {
+      payload._highlighted_summary = allHighlighted;
+    }
+
+    saveAnswers(payload);
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `gre_wl${WORDLIST_NUMBER}_answers.json`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+  }
+
+  function clearAll() {
+    if (!confirm('정말 모든 답안을 지우시겠습니까?')) return;
+
+    isGraded = false;
+    correctCount = 0; partialCount = 0; incorrectCount = 0;
+    currentStreak = 0; bestStreak = 0;
+
+    QUESTIONS.forEach(q => {
+      const ta = $(`#${q.qid}-meaning`);
+      if (ta) { ta.value = ''; ta.disabled = false; }
+
+      $$(`input[name="${q.qid}-syn"]`).forEach(chk => {
+        chk.checked = false;
+        chk.disabled = false;
+      });
+
+      $$(`#${q.qid}-opts .opt`).forEach(opt => {
+        opt.classList.remove('opt-correct', 'opt-incorrect', 'opt-missed', 'disabled');
+      });
+
+      const revealM = $(`#reveal-meaning-${q.qid}`);
+      if (revealM) revealM.classList.remove('show', 'correct-reveal', 'incorrect-reveal');
+      const revealS = $(`#reveal-syn-${q.qid}`);
+      if (revealS) revealS.classList.remove('show', 'correct-reveal', 'incorrect-reveal');
+
+      const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
+      if (card) card.classList.remove('correct', 'partial', 'incorrect');
+      const badge = $(`#badge-${q.qid}`);
+      if (badge) badge.classList.remove('show', 'badge-correct', 'badge-partial', 'badge-incorrect');
+
+      highlightedWords[q.qid] = new Set();
+      document.querySelectorAll(`.hw[data-qid="${q.qid}"]`).forEach(s => {
+        s.classList.remove('highlighted');
+      });
+      updateHighlightPanel(q.qid);
+    });
+
+    const gradeBtn = $('#gradeBtn');
+    if (gradeBtn) { gradeBtn.disabled = false; gradeBtn.textContent = '채점'; }
+
+    $('#statScore').innerHTML = '—';
+    $('#statStreak').innerHTML = '0 <span class="unit">🔥</span>';
+    updateHighlightStat();
+    updateProgress();
+
+    localStorage.removeItem(STORAGE_KEY);
+    setSaved(true);
+  }
+
+  // ======================================================================
+  // AUTOSAVE & EVENTS
+  // ======================================================================
+  function attachAutosave() {
+    QUESTIONS.forEach(q => {
+      const m = $(`#${q.qid}-meaning`);
+      if (m) m.addEventListener('input', scheduleSave);
+      $$(`input[name="${q.qid}-syn"]`).forEach(chk => {
+        chk.addEventListener('change', scheduleSave);
+      });
+    });
+  }
+
+  document.addEventListener('keydown', e => {
+    if ((e.ctrlKey || e.metaKey) && e.key === 's') { e.preventDefault(); saveAnswers(collectAnswers()); updateProgress(); setSaved(true); }
+    if ((e.ctrlKey || e.metaKey) && e.key === 'g') { e.preventDefault(); gradeExam(); }
+  });
+
+  // ======================================================================
+  // INIT
+  // ======================================================================
+  async function init() {
+    setTitles();
+    
+    const data = await loadWordlistData();
+    
+    if (!data) {
+      showError(`Word List ${WORDLIST_NUMBER}의 데이터 파일을 찾을 수 없습니다.`);
+      return;
+    }
+    
+    QUESTIONS = data;
+    
+    render();
+    restore();
+    attachAutosave();
+    
+    $('#saveBtn').addEventListener('click', () => { saveAnswers(collectAnswers()); updateProgress(); setSaved(true); });
+    $('#gradeBtn').addEventListener('click', gradeExam);
+    $('#exportBtn').addEventListener('click', exportJson);
+    $('#clearBtn').addEventListener('click', clearAll);
+  }
+  
+  init();
+</script>
+</body>
+</html>
