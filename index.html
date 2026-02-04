@@ -198,28 +198,30 @@
     }
     
     .random-btn {
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      border: none;
+      background: var(--card);
+      border: 2px solid var(--blue);
       border-radius: 12px;
-      padding: 20px;
-      color: white;
-      font-size: 18px;
+      padding: 18px;
+      color: var(--blue);
+      font-size: 17px;
       font-weight: 700;
       cursor: pointer;
-      transition: all 0.3s ease;
+      transition: all 0.2s ease;
       margin-bottom: 32px;
       width: 100%;
       text-align: center;
-      box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+      box-shadow: var(--shadow);
     }
 
     .random-btn:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+      background: var(--blue);
+      color: white;
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.15);
     }
 
     .random-btn:active {
-      transform: scale(0.98);
+      transform: translateY(0);
     }
 
     .modal-overlay {
