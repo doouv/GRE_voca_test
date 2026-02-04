@@ -11,7 +11,7 @@
   },
   {
     "id": "002",
-    "word": "misguided1",
+    "word": "misguided",
     "pos": "",
     "head_meanings": [
       "잘못 인식시키다"
@@ -20,7 +20,7 @@
   },
   {
     "id": "003",
-    "word": "mishap1",
+    "word": "mishap",
     "pos": "",
     "head_meanings": [
       "재난",
@@ -47,7 +47,7 @@
   },
   {
     "id": "005",
-    "word": "misnomer1",
+    "word": "misnomer",
     "pos": "",
     "head_meanings": [
       "잘못된 명칭",
@@ -65,7 +65,7 @@
   },
   {
     "id": "006",
-    "word": "maverick1",
+    "word": "maverick",
     "pos": "",
     "head_meanings": [
       "어느 파에도 속하지 않는",
@@ -83,7 +83,7 @@
   },
   {
     "id": "007",
-    "word": "mawkish1",
+    "word": "mawkish",
     "pos": "",
     "head_meanings": [
       "동시 감상적인",
@@ -106,7 +106,7 @@
   },
   {
     "id": "008",
-    "word": "mawkishness1",
+    "word": "mawkishness",
     "pos": "",
     "head_meanings": [
       "감상적임",
@@ -117,7 +117,7 @@
   },
   {
     "id": "009",
-    "word": "maze1",
+    "word": "maze",
     "pos": "",
     "head_meanings": [
       "미로",
@@ -187,7 +187,7 @@
   },
   {
     "id": "013",
-    "word": "measured1",
+    "word": "measured",
     "pos": "",
     "head_meanings": [
       "정확히 잰",
@@ -200,7 +200,7 @@
   },
   {
     "id": "014",
-    "word": "meddlesome1",
+    "word": "meddlesome",
     "pos": "",
     "head_meanings": [
       "쓸데없이 참견하기 좋아하는"
@@ -214,7 +214,7 @@
   },
   {
     "id": "015",
-    "word": "meddle1",
+    "word": "meddle",
     "pos": "v.",
     "head_meanings": [
       "남의 일에 쓸데없이 참견하다",
@@ -240,7 +240,7 @@
   },
   {
     "id": "017",
-    "word": "mediocre1",
+    "word": "mediocre",
     "pos": "",
     "head_meanings": [
       "보통의",
@@ -347,7 +347,7 @@
   },
   {
     "id": "025",
-    "word": "meld1",
+    "word": "meld",
     "pos": "",
     "head_meanings": [
       "혼합하다"
@@ -385,7 +385,7 @@
   },
   {
     "id": "028",
-    "word": "melodramatic1",
+    "word": "melodramatic",
     "pos": "",
     "head_meanings": [
       "멜로드라마의",
@@ -406,7 +406,7 @@
   },
   {
     "id": "029",
-    "word": "melodrama1",
+    "word": "melodrama",
     "pos": "",
     "head_meanings": [
       "멜로드라마",
@@ -416,7 +416,7 @@
   },
   {
     "id": "030",
-    "word": "memoir1",
+    "word": "memoir",
     "pos": "",
     "head_meanings": [
       "회고록",
@@ -442,7 +442,7 @@
   },
   {
     "id": "032",
-    "word": "mendacious1",
+    "word": "mendacious",
     "pos": "",
     "head_meanings": [
       "거짓말하는",
@@ -471,7 +471,7 @@
   },
   {
     "id": "033",
-    "word": "mendacity1",
+    "word": "mendacity",
     "pos": "n.",
     "head_meanings": [
       "거짓말하는 버릇",
@@ -482,7 +482,7 @@
   },
   {
     "id": "034",
-    "word": "disinformation1",
+    "word": "disinformation",
     "pos": "",
     "head_meanings": [
       "거짓 정보"
@@ -511,7 +511,7 @@
   },
   {
     "id": "036",
-    "word": "menial1",
+    "word": "menial",
     "pos": "",
     "head_meanings": [
       "시시한",
@@ -557,7 +557,7 @@
   },
   {
     "id": "038",
-    "word": "mercantilism1",
+    "word": "mercantilism",
     "pos": "",
     "head_meanings": [
       "상업주의",
@@ -568,7 +568,7 @@
   },
   {
     "id": "039",
-    "word": "mercenary1",
+    "word": "mercenary",
     "pos": "",
     "head_meanings": [
       "돈만 바라는",
@@ -583,7 +583,7 @@
   },
   {
     "id": "040",
-    "word": "mercurial1",
+    "word": "mercurial",
     "pos": "",
     "head_meanings": [
       "변덕스러운",
@@ -633,7 +633,7 @@
   },
   {
     "id": "042",
-    "word": "metaphor1",
+    "word": "metaphor",
     "pos": "",
     "head_meanings": [
       "은유",
@@ -662,7 +662,7 @@
   },
   {
     "id": "044",
-    "word": "metaphysical1",
+    "word": "metaphysical",
     "pos": "",
     "head_meanings": [
       "형이상학의",
@@ -701,7 +701,7 @@
   },
   {
     "id": "046",
-    "word": "methodical1",
+    "word": "methodical",
     "pos": "",
     "head_meanings": [
       "정연한",
@@ -720,7 +720,7 @@
   },
   {
     "id": "047",
-    "word": "meticulous1",
+    "word": "meticulous",
     "pos": "",
     "head_meanings": [
       "꼼꼼한",
@@ -752,7 +752,7 @@
   },
   {
     "id": "048",
-    "word": "meticulousness1",
+    "word": "meticulousness",
     "pos": "n.",
     "head_meanings": [
       "정확성",
@@ -764,7 +764,7 @@
   },
   {
     "id": "049",
-    "word": "meticulously1",
+    "word": "meticulously",
     "pos": "adv.",
     "head_meanings": [
       "꼼꼼하게",
@@ -795,7 +795,7 @@
   },
   {
     "id": "051",
-    "word": "microcosm1",
+    "word": "microcosm",
     "pos": "",
     "head_meanings": [
       "소우주",
@@ -809,7 +809,7 @@
   },
   {
     "id": "052",
-    "word": "midst1",
+    "word": "midst",
     "pos": "",
     "head_meanings": [
       "한복판",
@@ -905,7 +905,7 @@
   },
   {
     "id": "058",
-    "word": "mimetic1",
+    "word": "mimetic",
     "pos": "",
     "head_meanings": [
       "모방의",
@@ -921,7 +921,7 @@
   },
   {
     "id": "059",
-    "word": "mimicry1",
+    "word": "mimicry",
     "pos": "",
     "head_meanings": [
       "흉내",
@@ -933,7 +933,7 @@
   },
   {
     "id": "060",
-    "word": "mimic1",
+    "word": "mimic",
     "pos": "v.",
     "head_meanings": [
       "흉내내다",
@@ -965,7 +965,7 @@
   },
   {
     "id": "063",
-    "word": "minimize1",
+    "word": "minimize",
     "pos": "",
     "head_meanings": [
       "최소한도로 하다",
@@ -993,7 +993,7 @@
   },
   {
     "id": "064",
-    "word": "minion1",
+    "word": "minion",
     "pos": "",
     "head_meanings": [
       "앞잡이",
@@ -1024,7 +1024,7 @@
   },
   {
     "id": "066",
-    "word": "minute1",
+    "word": "minute",
     "pos": "",
     "head_meanings": [
       "미세한",
@@ -1084,7 +1084,7 @@
   },
   {
     "id": "069",
-    "word": "mirthful1",
+    "word": "mirthful",
     "pos": "",
     "head_meanings": [
       "즐거운",
@@ -1124,7 +1124,7 @@
   },
   {
     "id": "071",
-    "word": "miscalculation1",
+    "word": "miscalculation",
     "pos": "",
     "head_meanings": [
       "계산 착오",
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "074",
-    "word": "misconstrue1",
+    "word": "misconstrue",
     "pos": "",
     "head_meanings": [
       "뜻을 잘못 짚다",
@@ -1195,7 +1195,7 @@
   },
   {
     "id": "075",
-    "word": "miscreant1",
+    "word": "miscreant",
     "pos": "",
     "head_meanings": [
       "악한",
@@ -1245,7 +1245,7 @@
   },
   {
     "id": "078",
-    "word": "misgivings1",
+    "word": "misgivings",
     "pos": "",
     "head_meanings": [
       "의심",
