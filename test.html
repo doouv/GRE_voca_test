@@ -791,7 +791,7 @@
     // If no synonyms, return with empty options (meaning-only question)
     if (synonyms.length === 0) {
       return {
-        qid: item.id,
+        qid: 'q' + item.id,
         word: item.word,
         pos: item.pos,
         meanings: item.head_meanings || [],
@@ -855,7 +855,7 @@
     });
 
     return {
-      qid: item.id,
+      qid: 'q' + item.id,
       word: item.word,
       pos: item.pos,
       meanings: item.head_meanings || [],
