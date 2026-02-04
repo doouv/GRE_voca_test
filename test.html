@@ -913,7 +913,7 @@
         <div class="section-label">
           <span class="lbl">A. Meaning</span>
         </div>`;
-      const ta = el('textarea', { id: `${q.qid}-meaning`, placeholder: 'Enter meaning...' });
+      const ta = el('textarea', { id: `${q.qid}-meaning`});
       secA.appendChild(ta);
 
       const revealA = el('div', { class: 'answer-reveal', id: `reveal-meaning-${q.qid}` });
@@ -1136,12 +1136,18 @@
   // GRADING
   // ======================================================================
   function gradeExam() {
-    if (isGraded) return;
-    isGraded = true;
+    try {
+      console.log('Grade button clicked, starting grading...');
+      if (isGraded) {
+        console.log('Already graded, returning');
+        return;
+      }
+      isGraded = true;
 
-    const ans = collectAnswers();
-    correctCount = 0; partialCount = 0; incorrectCount = 0;
-    currentStreak = 0; bestStreak = 0;
+      const ans = collectAnswers();
+      console.log('Collected answers:', ans);
+      correctCount = 0; partialCount = 0; incorrectCount = 0;
+      currentStreak = 0; bestStreak = 0;
 
     QUESTIONS.forEach(q => {
       const hasSynQ = q.options && Object.keys(q.options).length > 0;
@@ -1230,33 +1236,11 @@
     $('#statScore').innerHTML = `${score}`;
     $('#statStreak').innerHTML = `${bestStreak} <span class="unit">🔥</span>`;
 
-    $('#gradeBtn').disabled = true;
-    $('#gradeBtn').textContent = '✓ Graded';
-    
-    // Save graded state
-    const payload = collectAnswers();
-    payload._meta = {
-      wordlist: WORDLIST_NUMBER,
-      graded: true,
-      score,
-      correct: correctCount,
-      partial: partialCount,
-      incorrect: incorrectCount,
-      bestStreak,
-      timestamp: new Date().toISOString(),
-    };
-    saveAnswers(payload);
-  }
+      $('#gradeBtn').disabled = true;
+      $('#gradeBtn').textContent = '✓ Graded';
 
-  // ======================================================================
-  // EXPORT
-  // ======================================================================
-  function exportJson() {
-    const payload = collectAnswers();
-
-    if (isGraded) {
-      const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
-      const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
+      // Save graded state
+      const payload = collectAnswers();
       payload._meta = {
         wordlist: WORDLIST_NUMBER,
         graded: true,
@@ -1267,29 +1251,70 @@
         bestStreak,
         timestamp: new Date().toISOString(),
       };
+      saveAnswers(payload);
+      console.log('Grading completed successfully');
+      alert(`Grading completed!\nScore: ${score}\nCorrect: ${correctCount}, Partial: ${partialCount}, Incorrect: ${incorrectCount}`);
+    } catch (error) {
+      console.error('Error during grading:', error);
+      alert(`Error during grading: ${error.message}`);
+      isGraded = false;
     }
+  }
 
-    const allHighlighted = [];
-    QUESTIONS.forEach(q => {
-      const hl = Array.from(highlightedWords[q.qid] || []);
-      if (hl.length > 0) {
-        allHighlighted.push({ from_question: q.word, words: hl });
+  // ======================================================================
+  // EXPORT
+  // ======================================================================
+  function exportJson() {
+    try {
+      console.log('Export button clicked, starting export...');
+      const payload = collectAnswers();
+      console.log('Payload collected:', payload);
+
+      if (isGraded) {
+        const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
+        const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
+        payload._meta = {
+          wordlist: WORDLIST_NUMBER,
+          graded: true,
+          score,
+          correct: correctCount,
+          partial: partialCount,
+          incorrect: incorrectCount,
+          bestStreak,
+          timestamp: new Date().toISOString(),
+        };
+        console.log('Added meta info:', payload._meta);
       }
-    });
-    if (allHighlighted.length > 0) {
-      payload._highlighted_summary = allHighlighted;
-    }
 
-    saveAnswers(payload);
-    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = `gre_wl${WORDLIST_NUMBER}_answers.json`;
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
-    URL.revokeObjectURL(url);
+      const allHighlighted = [];
+      QUESTIONS.forEach(q => {
+        const hl = Array.from(highlightedWords[q.qid] || []);
+        if (hl.length > 0) {
+          allHighlighted.push({ from_question: q.word, words: hl });
+        }
+      });
+      if (allHighlighted.length > 0) {
+        payload._highlighted_summary = allHighlighted;
+      }
+
+      saveAnswers(payload);
+      console.log('Creating blob...');
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `gre_wl${WORDLIST_NUMBER}_answers.json`;
+      console.log('Triggering download:', a.download);
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+      console.log('Export completed successfully');
+      alert('Export completed! Check your downloads folder.');
+    } catch (error) {
+      console.error('Error during export:', error);
+      alert(`Error during export: ${error.message}`);
+    }
   }
 
   function clearAll() {
