@@ -34,7 +34,7 @@
     html,body{ height:100%; }
     body{
       margin:0;
-      font-family: -apple-system, BlinkMacSystemFont, 'Inter', system-ui, Segoe UI, Roboto, sans-serif;
+      font-family: 'Georgia', 'Times New Roman', serif, -apple-system, BlinkMacSystemFont, system-ui;
       background: var(--bg);
       color: var(--text);
       -webkit-font-smoothing: antialiased;
@@ -314,7 +314,7 @@
       min-width: 26px;
     }
     .word-text{
-      font-size: 18px;
+      font-size: 20px;
       font-weight: 800;
       letter-spacing: -.2px;
     }
@@ -340,7 +340,7 @@
       margin-bottom: 10px;
     }
     .section-label .lbl{
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 700;
       color: #4B5563;
     }
@@ -355,7 +355,7 @@
       border: 1px solid var(--border);
       border-radius: 10px;
       padding: 12px 14px;
-      font-size: 16px; /* MOBILE: prevent zoom on focus */
+      font-size: 17px; /* MOBILE: prevent zoom on focus */
       font-family: inherit;
       resize: vertical;
       outline: none;
@@ -414,7 +414,7 @@
       min-width: 18px;
     }
     .opt-text{
-      font-size: 15px;
+      font-size: 16px;
       font-weight: 500;
       flex: 1;
     }
@@ -444,7 +444,7 @@
       margin-top: 10px;
       padding: 12px 14px;
       border-radius: 10px;
-      font-size: 14px;
+      font-size: 15px;
       font-weight: 600;
       line-height: 1.5;
     }
@@ -637,10 +637,10 @@
           <span class="dot" id="saveDot"></span>
           <span id="saveText">Not saved</span>
         </div>
-        <button class="btn" id="saveBtn" type="button">저장</button>
-        <button class="btn grade-btn" id="gradeBtn" type="button">채점</button>
-        <button class="btn primary" id="exportBtn" type="button">Export</button>
-        <button class="btn" id="clearBtn" type="button">초기화</button>
+        <button class="btn" id="saveBtn" type="button">Save</button>
+        <button class="btn grade-btn" id="gradeBtn" type="button">Grade</button>
+        <button class="btn primary" id="exportBtn" type="button">Export Answers</button>
+        <button class="btn" id="clearBtn" type="button">Reset</button>
       </div>
     </div>
   </div>
@@ -650,29 +650,29 @@
       <div class="hero-left">
         <h2 id="titleHero">Word List Practice</h2>
         <p id="descHero">
-          각 단어의 뜻을 적고, 해당하는 모든 동의어를 선택하세요.
+          Enter the meaning and choose all matching synonyms for each word.
         </p>
       </div>
       <div class="hero-right">
         <div class="progress">
           <div class="row">
             <span id="progText">Progress: 0/0</span>
-            <span id="progDetail">뜻 0 · 동의어 0</span>
+            <span id="progDetail">Meaning 0 · Synonyms 0</span>
           </div>
           <div class="bar"><div id="progBar"></div></div>
         </div>
         <div class="stats-bar">
           <div class="stat-card">
-            <div class="stat-label">점수</div>
+            <div class="stat-label">Score</div>
             <div class="stat-value" id="statScore">—</div>
           </div>
           <div class="stat-card">
-            <div class="stat-label">연속</div>
+            <div class="stat-label">Streak</div>
             <div class="stat-value" id="statStreak">0 <span class="unit">🔥</span></div>
           </div>
           <div class="stat-card">
-            <div class="stat-label">하이라이트</div>
-            <div class="stat-value" id="statHighlight">0 <span class="unit">개</span></div>
+            <div class="stat-label">Highlight</div>
+            <div class="stat-value" id="statHighlight">0</div>
           </div>
         </div>
       </div>
@@ -681,12 +681,12 @@
     <div class="questions" id="questions">
       <div class="loading">
         <div class="loading-spinner"></div>
-        <div>데이터 불러오는 중...</div>
+        <div>Loading...</div>
       </div>
     </div>
 
     <div class="footer">
-      GRE Vocabulary Practice · 진행 상황 자동 저장
+      GRE Vocabulary Practice · Progress auto-saved
     </div>
   </div>
 
@@ -877,7 +877,7 @@
     const t = `Word List ${WORDLIST_NUMBER} Practice`;
     $('#titleHero').textContent = t;
     $('#titleTop').textContent = "GRE Vocabulary Test";
-    $('#subtitleTop').textContent = `Word List ${WORDLIST_NUMBER} · 모든 동의어 선택`;
+    $('#subtitleTop').textContent = `Word List ${WORDLIST_NUMBER} · Choose all synonyms`;
   }
 
   // ======================================================================
@@ -907,13 +907,13 @@
       const secA = el('div', { class: 'section', id: `sec-meaning-${q.qid}` });
       secA.innerHTML = `
         <div class="section-label">
-          <span class="lbl">A. 뜻을 적으세요</span>
+          <span class="lbl">A. Meaning</span>
         </div>`;
-      const ta = el('textarea', { id: `${q.qid}-meaning`, placeholder: '뜻을 적으세요...' });
+      const ta = el('textarea', { id: `${q.qid}-meaning`, placeholder: 'Enter meaning...' });
       secA.appendChild(ta);
 
       const revealA = el('div', { class: 'answer-reveal', id: `reveal-meaning-${q.qid}` });
-      revealA.innerHTML = `<div class="answer-label">정답</div>${q.meanings.join(', ')}`;
+      revealA.innerHTML = `<div class="answer-label">Answer</div>${q.meanings.join(', ')}`;
       secA.appendChild(revealA);
       card.appendChild(secA);
 
@@ -922,7 +922,7 @@
         const secB = el('div', { class: 'section', id: `sec-syn-${q.qid}` });
         secB.innerHTML = `
           <div class="section-label">
-            <span class="lbl">B. 동의어 모두 선택</span>
+            <span class="lbl">B. Synonyms (Choose multiple options)</span>
           </div>`;
         const optsDiv = el('div', { class: 'options', id: `${q.qid}-opts` });
 
@@ -960,7 +960,7 @@
 
         const revealB = el('div', { class: 'answer-reveal', id: `reveal-syn-${q.qid}` });
         const correctTexts = q.correct.map(l => `${l}) ${q.options[l]}`).join(', ');
-        revealB.innerHTML = `<div class="answer-label">정답</div>${correctTexts}`;
+        revealB.innerHTML = `<div class="answer-label">Answer</div>${correctTexts}`;
         secB.appendChild(revealB);
         card.appendChild(secB);
       }
@@ -968,9 +968,9 @@
       // Highlight panel
       const hlPanel = el('div', { class: 'highlight-panel', id: `hl-panel-${q.qid}` });
       hlPanel.innerHTML = `
-        <div class="highlight-panel-title">⭐ 하이라이트</div>
+        <div class="highlight-panel-title">⭐ Highlighted</div>
         <div class="hl-chips" id="hl-chips-${q.qid}"></div>
-        <div class="hl-tip">채점 후 Export에 포함됩니다</div>`;
+        <div class="hl-tip">Included in export after grading</div>`;
       card.appendChild(hlPanel);
 
       root.appendChild(card);
@@ -1091,8 +1091,8 @@
   function setSaved(ok) {
     const dot = $('#saveDot');
     const txt = $('#saveText');
-    if (ok) { dot.classList.add('ok'); txt.textContent = '저장됨'; }
-    else { dot.classList.remove('ok'); txt.textContent = '수정 중…'; }
+    if (ok) { dot.classList.add('ok'); txt.textContent = 'Saved'; }
+    else { dot.classList.remove('ok'); txt.textContent = 'Editing...'; }
   }
 
   function updateProgress() {
@@ -1113,7 +1113,7 @@
     const pct = totalTasks > 0 ? (doneTasks / totalTasks) * 100 : 0;
     
     $('#progText').textContent = `Progress: ${Math.round(pct)}%`;
-    $('#progDetail').textContent = `뜻 ${mDone}/${total} · 동의어 ${sDone}/${synQCount}`;
+    $('#progDetail').textContent = `Meaning ${mDone}/${total} · Synonyms ${sDone}/${synQCount}`;
     $('#progBar').style.width = `${pct}%`;
   }
 
@@ -1223,11 +1223,11 @@
 
     const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
     const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
-    $('#statScore').innerHTML = `${score} <span class="unit">점</span>`;
+    $('#statScore').innerHTML = `${score}`;
     $('#statStreak').innerHTML = `${bestStreak} <span class="unit">🔥</span>`;
 
     $('#gradeBtn').disabled = true;
-    $('#gradeBtn').textContent = '✓ 채점 완료';
+    $('#gradeBtn').textContent = '✓ Graded';
     
     // Save graded state
     const payload = collectAnswers();
@@ -1326,7 +1326,7 @@
     });
 
     const gradeBtn = $('#gradeBtn');
-    if (gradeBtn) { gradeBtn.disabled = false; gradeBtn.textContent = '채점'; }
+    if (gradeBtn) { gradeBtn.disabled = false; gradeBtn.textContent = 'Grade'; }
 
     $('#statScore').innerHTML = '—';
     $('#statStreak').innerHTML = '0 <span class="unit">🔥</span>';
