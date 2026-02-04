@@ -18,12 +18,13 @@ GRE 단어 시험 연습 사이트 (GitHub Pages용)
 
 ```
 gre-vocab-practice/
-├── index.html          # 메인 페이지 (Word List 선택)
-├── test.html           # 시험 페이지 (동적 JSON 로딩)
+├── index.html              # 메인 페이지 (Word List 선택)
+├── test.html               # 시험 페이지 (동적 JSON 로딩)
 ├── data/
-│   ├── wordlist1.json  # Word List 1 데이터
-│   ├── wordlist28.json # Word List 28 데이터
-│   └── ...             # 추가 Word List
+│   ├── GRE_wordlist28.json # Word List 28 데이터
+│   ├── GRE_wordlist29.json # Word List 29 데이터
+│   ├── GRE_wordlist30.json # Word List 30 데이터
+│   └── ...                 # 최대 50개까지 추가 가능
 └── README.md
 ```
 
@@ -31,50 +32,58 @@ gre-vocab-practice/
 
 ### 1. JSON 파일 형식
 
-`data/wordlist{N}.json` 파일 생성:
+`data/GRE_wordlist{N}.json` 파일 생성 (N은 1-50 사이):
 
 ```json
 [
   {
-    "qid": "q001",
+    "id": "001",
     "word": "languid",
     "pos": "adj.",
-    "meanings": ["나른한", "활기 없는"],
-    "correct": ["A", "C"],
-    "options": { "A": "listless", "B": "energetic", "C": "lethargic", "D": "vigorous" }
+    "head_meanings": ["나른한", "활기 없는"],
+    "synonyms_from_image": ["listless", "lethargic", "sluggish"]
   },
   {
-    "qid": "q002",
+    "id": "002",
     "word": "ubiquitous",
     "pos": "adj.",
-    "meanings": ["어디에나 있는"],
-    "correct": ["B"],
-    "options": { "A": "rare", "B": "omnipresent", "C": "scarce", "D": "uncommon" }
+    "head_meanings": ["어디에나 있는"],
+    "synonyms_from_image": ["omnipresent", "pervasive"]
   }
 ]
 ```
 
-### 2. 동의어 문제가 없는 단어 (뜻만)
+**필드 설명:**
+- `id`: 3자리 숫자 (예: "001", "002")
+- `word`: GRE 단어
+- `pos`: 품사 (n., v., adj., adv. 등)
+- `head_meanings`: 단어의 뜻 (배열)
+- `synonyms_from_image`: 동의어 목록 (배열) - 모두 정답으로 처리됨
+
+### 2. 동의어가 없는 단어 (뜻만 표시)
 
 ```json
 {
-  "qid": "q003",
+  "id": "003",
   "word": "serendipity",
   "pos": "n.",
-  "meanings": ["우연한 행운", "뜻밖의 발견"],
-  "correct": [],
-  "options": {}
+  "head_meanings": ["우연한 행운", "뜻밖의 발견"],
+  "synonyms_from_image": []
 }
 ```
-→ `options`가 비어있으면 동의어 문제 없이 뜻만 나옴
+→ `synonyms_from_image`가 빈 배열이면 동의어 문제 없이 뜻만 표시됨
 
 ### 3. index.html에서 활성화
 
-`index.html`의 JavaScript에서 `AVAILABLE_WORDLISTS` 배열 수정:
+새 Word List를 추가한 후, `index.html`의 JavaScript에서 `AVAILABLE_WORDLISTS` 배열을 수정하세요:
 
 ```javascript
-const AVAILABLE_WORDLISTS = [1, 28, 29, 30]; // 추가한 번호 포함
+const AVAILABLE_WORDLISTS = [1, 50]; // 현재: 1번과 50번 사용 가능
+// 또는 범위로 지정하려면 직접 배열 생성:
+// const AVAILABLE_WORDLISTS = Array.from({length: 50}, (_, i) => i + 1); // 1-50 전체
 ```
+
+**참고:** 현재 프로젝트에는 Word List 28-33이 포함되어 있습니다.
 
 ## 📱 모바일 지원
 
@@ -96,7 +105,8 @@ const AVAILABLE_WORDLISTS = [1, 28, 29, 30]; // 추가한 번호 포함
 ### Word List 총 개수 변경
 `index.html`에서:
 ```javascript
-const TOTAL_WORDLISTS = 30; // 원하는 개수로 변경
+const TOTAL_WORDLISTS = 50; // 최대 50개까지 표시 (현재 설정)
+// 더 많이 표시하려면 이 숫자를 늘리세요
 ```
 
 ### 스타일 변경

@@ -742,11 +742,35 @@
         throw new Error(`GRE_wordlist${WORDLIST_NUMBER}.json not found`);
       }
       const data = await response.json();
-      return data;
+      // Transform data to expected format
+      return data.map(item => transformWordData(item));
     } catch (error) {
       console.error('Failed to load wordlist:', error);
       return null;
     }
+  }
+
+  // Transform JSON data to internal format
+  function transformWordData(item) {
+    const synonyms = item.synonyms_from_image || [];
+    const options = {};
+    const correct = [];
+
+    // Convert synonyms array to options object (A, B, C, D...)
+    synonyms.forEach((syn, idx) => {
+      const letter = String.fromCharCode(65 + idx); // A, B, C, D...
+      options[letter] = syn;
+      correct.push(letter);
+    });
+
+    return {
+      qid: item.id,
+      word: item.word,
+      pos: item.pos,
+      meanings: item.head_meanings || [],
+      correct: correct,
+      options: options
+    };
   }
 
   function showError(message) {
