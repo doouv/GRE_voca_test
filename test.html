@@ -700,8 +700,12 @@
   // URL PARAMETER & DATA LOADING
   // ======================================================================
   const urlParams = new URLSearchParams(window.location.search);
+  const MODE = urlParams.get('mode') || 'single';
   const WORDLIST_NUMBER = urlParams.get('list') || '1';
-  
+  const RANDOM_FROM = parseInt(urlParams.get('from')) || 1;
+  const RANDOM_TO = parseInt(urlParams.get('to')) || 1;
+  const RANDOM_COUNT = parseInt(urlParams.get('count')) || 50;
+
   let QUESTIONS = [];
   let isGraded = false;
   let correctCount = 0;
@@ -711,7 +715,9 @@
   let bestStreak = 0;
   let highlightedWords = {};
 
-  const STORAGE_KEY = `gre_vocab_answers_wordlist_${WORDLIST_NUMBER}`;
+  const STORAGE_KEY = MODE === 'random'
+    ? `gre_vocab_answers_random_${RANDOM_FROM}_${RANDOM_TO}_${RANDOM_COUNT}`
+    : `gre_vocab_answers_wordlist_${WORDLIST_NUMBER}`;
 
   // ======================================================================
   // HELPERS
@@ -752,6 +758,43 @@
       return data.map((item, index) => transformWordData(item, index, data));
     } catch (error) {
       console.error('Failed to load wordlist:', error);
+      return null;
+    }
+  }
+
+  async function loadRandomWordlistData(from, to, count) {
+    try {
+      const allWords = [];
+
+      // Load all wordlists in the range
+      for (let i = from; i <= to; i++) {
+        try {
+          const response = await fetch(`data/GRE_wordlist${i}.json`);
+          if (response.ok) {
+            const data = await response.json();
+            allWords.push(...data);
+          } else {
+            console.warn(`GRE_wordlist${i}.json not found, skipping...`);
+          }
+        } catch (error) {
+          console.warn(`Failed to load wordlist ${i}:`, error);
+        }
+      }
+
+      if (allWords.length === 0) {
+        throw new Error('No wordlists could be loaded');
+      }
+
+      // Shuffle all words
+      const shuffled = shuffleArray(allWords, Date.now());
+
+      // Take the requested number of questions
+      const selected = shuffled.slice(0, Math.min(count, allWords.length));
+
+      // Transform data to expected format
+      return selected.map((item, index) => transformWordData(item, index, selected));
+    } catch (error) {
+      console.error('Failed to load random wordlist:', error);
       return null;
     }
   }
@@ -879,10 +922,17 @@
   // TITLES
   // ======================================================================
   function setTitles() {
-    const t = `Word List ${WORDLIST_NUMBER} Practice`;
-    $('#titleHero').textContent = t;
-    $('#titleTop').textContent = "GRE Vocabulary Test";
-    $('#subtitleTop').textContent = `Word List ${WORDLIST_NUMBER} · Choose all synonyms`;
+    if (MODE === 'random') {
+      const t = `Random Test (Lists ${RANDOM_FROM}-${RANDOM_TO})`;
+      $('#titleHero').textContent = t;
+      $('#titleTop').textContent = "GRE Vocabulary Test";
+      $('#subtitleTop').textContent = `${RANDOM_COUNT} Random Questions · Choose all synonyms`;
+    } else {
+      const t = `Word List ${WORDLIST_NUMBER} Practice`;
+      $('#titleHero').textContent = t;
+      $('#titleTop').textContent = "GRE Vocabulary Test";
+      $('#subtitleTop').textContent = `Word List ${WORDLIST_NUMBER} · Choose all synonyms`;
+    }
   }
 
   // ======================================================================
@@ -1242,7 +1292,18 @@
 
       // Save graded state
       const payload = collectAnswers();
-      payload._meta = {
+      payload._meta = MODE === 'random' ? {
+        mode: 'random',
+        wordlists: `${RANDOM_FROM}-${RANDOM_TO}`,
+        questionCount: RANDOM_COUNT,
+        graded: true,
+        score,
+        correct: correctCount,
+        partial: partialCount,
+        incorrect: incorrectCount,
+        bestStreak,
+        timestamp: new Date().toISOString(),
+      } : {
         wordlist: WORDLIST_NUMBER,
         graded: true,
         score,
@@ -1274,7 +1335,18 @@
       if (isGraded) {
         const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
         const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
-        payload._meta = {
+        payload._meta = MODE === 'random' ? {
+          mode: 'random',
+          wordlists: `${RANDOM_FROM}-${RANDOM_TO}`,
+          questionCount: RANDOM_COUNT,
+          graded: true,
+          score,
+          correct: correctCount,
+          partial: partialCount,
+          incorrect: incorrectCount,
+          bestStreak,
+          timestamp: new Date().toISOString(),
+        } : {
           wordlist: WORDLIST_NUMBER,
           graded: true,
           score,
@@ -1304,7 +1376,9 @@
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');
       a.href = url;
-      a.download = `gre_wl${WORDLIST_NUMBER}_answers.json`;
+      a.download = MODE === 'random'
+        ? `gre_random_${RANDOM_FROM}-${RANDOM_TO}_${RANDOM_COUNT}q_answers.json`
+        : `gre_wl${WORDLIST_NUMBER}_answers.json`;
       console.log('Triggering download:', a.download);
       document.body.appendChild(a);
       a.click();
@@ -1390,20 +1464,30 @@
   // ======================================================================
   async function init() {
     setTitles();
-    
-    const data = await loadWordlistData();
-    
-    if (!data) {
-      showError(`Word List ${WORDLIST_NUMBER}의 데이터 파일을 찾을 수 없습니다.`);
-      return;
+
+    let data;
+    if (MODE === 'random') {
+      data = await loadRandomWordlistData(RANDOM_FROM, RANDOM_TO, RANDOM_COUNT);
+
+      if (!data) {
+        showError(`Word Lists ${RANDOM_FROM}-${RANDOM_TO}의 데이터 파일을 찾을 수 없습니다.`);
+        return;
+      }
+    } else {
+      data = await loadWordlistData();
+
+      if (!data) {
+        showError(`Word List ${WORDLIST_NUMBER}의 데이터 파일을 찾을 수 없습니다.`);
+        return;
+      }
     }
-    
+
     QUESTIONS = data;
-    
+
     render();
     restore();
     attachAutosave();
-    
+
     $('#saveBtn').addEventListener('click', () => { saveAnswers(collectAnswers()); updateProgress(); setSaved(true); });
     $('#gradeBtn').addEventListener('click', gradeExam);
     $('#exportBtn').addEventListener('click', exportJson);
