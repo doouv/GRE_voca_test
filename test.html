@@ -751,17 +751,36 @@
     }
   }
 
-  // Utility: Shuffle array
-  function shuffleArray(array) {
+  // Seeded random number generator for consistent results
+  function seededRandom(seed) {
+    let x = Math.sin(seed) * 10000;
+    return x - Math.floor(x);
+  }
+
+  // Shuffle array with seed for consistent ordering
+  function shuffleArray(array, seed) {
     const arr = [...array];
+    let currentSeed = seed;
+
     for (let i = arr.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
+      currentSeed++;
+      const j = Math.floor(seededRandom(currentSeed) * (i + 1));
       [arr[i], arr[j]] = [arr[j], arr[i]];
     }
     return arr;
   }
 
-  // Transform JSON data to internal format with randomized distractors
+  // Generate seed from string (question ID)
+  function generateSeed(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+      hash = ((hash << 5) - hash) + str.charCodeAt(i);
+      hash = hash & hash; // Convert to 32bit integer
+    }
+    return Math.abs(hash);
+  }
+
+  // Transform JSON data to internal format with deterministic distractors
   function transformWordData(item, currentIndex, allData) {
     const synonyms = item.synonyms_from_image || [];
 
@@ -777,8 +796,11 @@
       };
     }
 
-    // Select up to 4 random synonyms as correct answers
-    const shuffledSynonyms = shuffleArray(synonyms);
+    // Generate seed from question ID for consistent results
+    const seed = generateSeed(item.id);
+
+    // Select up to 4 synonyms as correct answers (deterministic)
+    const shuffledSynonyms = shuffleArray(synonyms, seed);
     const correctSynonyms = shuffledSynonyms.slice(0, Math.min(4, synonyms.length));
 
     // Collect all synonyms from other words (excluding current word's synonyms)
@@ -798,8 +820,8 @@
     // Calculate how many distractors we need to make exactly 6 options
     const numDistractorsNeeded = 6 - correctSynonyms.length;
 
-    // Select random distractors
-    const shuffledDistractors = shuffleArray(allOtherSynonyms);
+    // Select distractors (deterministic with offset seed)
+    const shuffledDistractors = shuffleArray(allOtherSynonyms, seed + 100);
     const selectedDistractors = shuffledDistractors.slice(0, numDistractorsNeeded);
 
     // If we don't have enough distractors, fill with placeholders
@@ -807,9 +829,9 @@
       selectedDistractors.push(`[option ${selectedDistractors.length + 1}]`);
     }
 
-    // Combine correct answers and distractors, then shuffle
+    // Combine correct answers and distractors, then shuffle (deterministic with offset seed)
     const allOptions = [...correctSynonyms, ...selectedDistractors];
-    const shuffledOptions = shuffleArray(allOptions);
+    const shuffledOptions = shuffleArray(allOptions, seed + 200);
 
     // Ensure we have exactly 6 options
     while (shuffledOptions.length < 6) {
