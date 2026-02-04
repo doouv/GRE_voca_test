@@ -742,25 +742,77 @@
         throw new Error(`GRE_wordlist${WORDLIST_NUMBER}.json not found`);
       }
       const data = await response.json();
+
       // Transform data to expected format
-      return data.map(item => transformWordData(item));
+      return data.map((item, index) => transformWordData(item, index, data));
     } catch (error) {
       console.error('Failed to load wordlist:', error);
       return null;
     }
   }
 
-  // Transform JSON data to internal format
-  function transformWordData(item) {
+  // Utility: Shuffle array
+  function shuffleArray(array) {
+    const arr = [...array];
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  // Transform JSON data to internal format with randomized distractors
+  function transformWordData(item, currentIndex, allData) {
     const synonyms = item.synonyms_from_image || [];
+
+    // If no synonyms, return with empty options (meaning-only question)
+    if (synonyms.length === 0) {
+      return {
+        qid: item.id,
+        word: item.word,
+        pos: item.pos,
+        meanings: item.head_meanings || [],
+        correct: [],
+        options: {}
+      };
+    }
+
+    // Select 2 random synonyms as correct answers
+    const shuffledSynonyms = shuffleArray(synonyms);
+    const correctSynonyms = shuffledSynonyms.slice(0, Math.min(2, synonyms.length));
+
+    // Collect all synonyms from other words (excluding current word's synonyms)
+    const allOtherSynonyms = [];
+    for (let i = 0; i < allData.length; i++) {
+      if (i === currentIndex) continue; // Skip current word
+
+      const otherSyns = allData[i].synonyms_from_image || [];
+      otherSyns.forEach(syn => {
+        // Don't add if it's already in correct answers or already added
+        if (!correctSynonyms.includes(syn) && !allOtherSynonyms.includes(syn)) {
+          allOtherSynonyms.push(syn);
+        }
+      });
+    }
+
+    // Select 3 random distractors from all other synonyms
+    const shuffledDistractors = shuffleArray(allOtherSynonyms);
+    const selectedDistractors = shuffledDistractors.slice(0, 3);
+
+    // Combine correct answers and distractors, then shuffle
+    const allOptions = [...correctSynonyms, ...selectedDistractors];
+    const shuffledOptions = shuffleArray(allOptions);
+
+    // Create options object (A-E) and track correct answers
     const options = {};
     const correct = [];
 
-    // Convert synonyms array to options object (A, B, C, D...)
-    synonyms.forEach((syn, idx) => {
-      const letter = String.fromCharCode(65 + idx); // A, B, C, D...
-      options[letter] = syn;
-      correct.push(letter);
+    shuffledOptions.forEach((word, idx) => {
+      const letter = String.fromCharCode(65 + idx); // A, B, C, D, E
+      options[letter] = word;
+      if (correctSynonyms.includes(word)) {
+        correct.push(letter);
+      }
     });
 
     return {
