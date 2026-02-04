@@ -189,6 +189,12 @@
       max-width: 520px;
       line-height: 1.5;
     }
+    .test-date{
+      font-size: 12px;
+      color: var(--muted);
+      margin: 4px auto 8px !important;
+      font-weight: 500;
+    }
     .hero-right{
       display: flex;
       flex-direction: column;
@@ -654,6 +660,7 @@
     <div class="hero">
       <div class="hero-left">
         <h2 id="titleHero">Word List Practice</h2>
+        <p class="test-date" id="testDate"></p>
         <p id="descHero">
           Enter the meaning and choose all matching synonyms for each word.
         </p>
@@ -933,6 +940,19 @@
       $('#titleTop').textContent = "GRE Vocabulary Test";
       $('#subtitleTop').textContent = `Word List ${WORDLIST_NUMBER} · Choose all synonyms`;
     }
+
+    // Set test date and time
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = now.getMonth() + 1;
+    const day = now.getDate();
+    const hours = now.getHours();
+    const minutes = now.getMinutes();
+    const period = hours >= 12 ? '오후' : '오전';
+    const displayHours = hours > 12 ? hours - 12 : (hours === 0 ? 12 : hours);
+    const displayMinutes = minutes.toString().padStart(2, '0');
+
+    $('#testDate').textContent = `${year}년 ${month}월 ${day}일 ${period} ${displayHours}:${displayMinutes}`;
   }
 
   // ======================================================================
