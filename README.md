@@ -1,6 +1,6 @@
 # GRE Vocabulary Practice
 
-GRE 단어 시험 연습 사이트 (GitHub Pages용)
+그냥 빠르게 만든 단어 시험지... (GRE 이진세 선생님 단어장)
 
 ## 🚀 빠른 시작
 

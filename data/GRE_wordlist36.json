@@ -1,0 +1,1928 @@
+[
+  {
+    "id": "001",
+    "word": "philanthropist",
+    "pos": "n.",
+    "head_meanings": [
+      "박애주의자"
+    ],
+    "synonyms_from_image": [
+      "altruist",
+      "giver",
+      "subscriber",
+      "contributor",
+      "donor"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "philippic",
+    "pos": "n.",
+    "head_meanings": [
+      "맹렬한 공격 연설"
+    ],
+    "synonyms_from_image": [
+      "tirade",
+      "diatribe",
+      "harangue",
+      "denunciation",
+      "rant",
+      "polemic",
+      "fulmination",
+      "condemnation",
+      "criticism",
+      "censure"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "philistine",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "교양 없는 사람",
+      "속물적인"
+    ],
+    "synonyms_from_image": [
+      "uncultured",
+      "lowbrow",
+      "anti-intellectual",
+      "uncultivated",
+      "uncivilized",
+      "uneducated",
+      "unenlightened",
+      "commercial",
+      "materialist",
+      "bourgeois"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "phlegmatic",
+    "pos": "adj.",
+    "head_meanings": [
+      "침착한",
+      "냉정한"
+    ],
+    "synonyms_from_image": [
+      "calm",
+      "cool",
+      "composed",
+      "controlled",
+      "serene",
+      "tranquil",
+      "placid",
+      "impassive",
+      "stolid",
+      "imperturbable",
+      "unruffled",
+      "dispassionate",
+      "unflappable",
+      "apathetic",
+      "incurious",
+      "inert",
+      "languid",
+      "aloof"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "phobia",
+    "pos": "n.",
+    "head_meanings": [
+      "병적인 공포증"
+    ],
+    "synonyms_from_image": [
+      "dread",
+      "apprehension",
+      "overwhelming anxiety",
+      "horror",
+      "terror"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "physiological",
+    "pos": "adj.",
+    "head_meanings": [
+      "생리학의"
+    ],
+    "synonyms_from_image": [
+      "organic",
+      "animate",
+      "living",
+      "biological",
+      "biotic"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "piebald",
+    "pos": "adj.",
+    "head_meanings": [
+      "얼룩덜룩한",
+      "잡색의"
+    ],
+    "synonyms_from_image": [
+      "dappled",
+      "calico",
+      "variegated",
+      "motley",
+      "many-hued"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "pied",
+    "pos": "adj.",
+    "head_meanings": [
+      "얼룩덜룩한",
+      "잡색의"
+    ],
+    "synonyms_from_image": [
+      "mottled",
+      "motley",
+      "dappled",
+      "piebald",
+      "calico",
+      "spotted",
+      "speckled",
+      "flecked"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "piety",
+    "pos": "n.",
+    "head_meanings": [
+      "(종교적인) 경건",
+      "(부모 등에 대한) 경외",
+      "효심"
+    ],
+    "synonyms_from_image": [
+      "godliness",
+      "holiness",
+      "piousness",
+      "religiousness",
+      "devotion",
+      "reverence",
+      "respect",
+      "loyalty"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "pilfer",
+    "pos": "v.",
+    "head_meanings": [
+      "좀도둑질하다"
+    ],
+    "synonyms_from_image": [
+      "appropriation",
+      "steal",
+      "thieve",
+      "purloin",
+      "loot",
+      "snatch"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "pilferage",
+    "pos": "n.",
+    "head_meanings": [
+      "좀도둑질",
+      "좀도절취"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "012",
+    "word": "pillage",
+    "pos": "v.",
+    "head_meanings": [
+      "약탈하다",
+      "강탈하다"
+    ],
+    "synonyms_from_image": [
+      "seize",
+      "depredate",
+      "sack",
+      "raid",
+      "ravage",
+      "despoil",
+      "rob",
+      "violate"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "pillory",
+    "pos": "v./n.",
+    "head_meanings": [
+      "(죄인에게) 형틀(칼)을 씌우다",
+      "웃음거리로 만들다",
+      "형틀",
+      "칼",
+      "오명",
+      "조롱"
+    ],
+    "synonyms_from_image": [
+      "disgrace",
+      "chasten",
+      "ridicule",
+      "stigmatize",
+      "castigate"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "pine",
+    "pos": "v.",
+    "head_meanings": [
+      "애태우다",
+      "그리워하다",
+      "연모하다",
+      "(슬픔·병 등으로) 쇠약해지다"
+    ],
+    "synonyms_from_image": [
+      "languish",
+      "decline",
+      "weaken",
+      "waste away",
+      "wilt",
+      "wither",
+      "fade",
+      "sicken",
+      "droop",
+      "yearn",
+      "long",
+      "miss",
+      "mourn",
+      "lament",
+      "grieve over",
+      "bemoan",
+      "rue"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "pinnacle",
+    "pos": "n.",
+    "head_meanings": [
+      "높은 산봉우리",
+      "꼭대기",
+      "정점",
+      "(작은) 뾰족탑"
+    ],
+    "synonyms_from_image": [
+      "height",
+      "cap",
+      "culmination",
+      "summit",
+      "acme",
+      "climax"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "pinpoint",
+    "pos": "v./adj./n.",
+    "head_meanings": [
+      "~의 위치를 정확하게 나타내다",
+      "정확하게 지적하다",
+      "정밀 폭격하다",
+      "정확한 목표를 정하다",
+      "정확한",
+      "핀 끝",
+      "하찮은 것"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "017",
+    "word": "pioneering",
+    "pos": "adj.",
+    "head_meanings": [
+      "선구적인",
+      "선도적인",
+      "최초의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "018",
+    "word": "pious",
+    "pos": "adj.",
+    "head_meanings": [
+      "경건한",
+      "신앙심 깊은"
+    ],
+    "synonyms_from_image": [
+      "dedicated",
+      "faithful",
+      "reverent",
+      "worshipful",
+      "religious"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "piquant",
+    "pos": "adj.",
+    "head_meanings": [
+      "매운",
+      "자극적인",
+      "신랄한"
+    ],
+    "synonyms_from_image": [
+      "peppery",
+      "spicy",
+      "exciting",
+      "interesting",
+      "pungent",
+      "snappy"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "pique",
+    "pos": "n./v.",
+    "head_meanings": [
+      "격노",
+      "불쾌",
+      "불평",
+      "기분 안 좋음",
+      "감정을 상하게 하다",
+      "분개하게 하다",
+      "흥분시키다",
+      "(호기심·흥미를) 돋우다"
+    ],
+    "synonyms_from_image": [
+      "irritation",
+      "annoyance",
+      "resentment",
+      "anger",
+      "indignation",
+      "provocation",
+      "displeasure",
+      "petulance",
+      "vexation",
+      "exasperation",
+      "disgruntlement",
+      "discontent",
+      "offence",
+      "umbrage",
+      "irritate",
+      "annoy",
+      "bother",
+      "vex",
+      "displease",
+      "upset",
+      "offend",
+      "affront",
+      "exasperate",
+      "infuriate",
+      "gall",
+      "irk",
+      "nettle",
+      "peeve",
+      "aggravate",
+      "ire",
+      "stimulate",
+      "arouse",
+      "rouse",
+      "provoke",
+      "whet",
+      "awaken",
+      "excite",
+      "kindle",
+      "stir",
+      "galvanize"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "pitfall",
+    "pos": "n.",
+    "head_meanings": [
+      "함정",
+      "유혹",
+      "(숨겨진) 위험",
+      "마수(魔手)"
+    ],
+    "synonyms_from_image": [
+      "hazard",
+      "danger",
+      "risk",
+      "peril"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "pithy",
+    "pos": "adj.",
+    "head_meanings": [
+      "간결한",
+      "힘찬",
+      "활기 있는",
+      "요점만 담은"
+    ],
+    "synonyms_from_image": [
+      "terse",
+      "succinct",
+      "expressive",
+      "meaningful",
+      "significant"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "pittance",
+    "pos": "n.",
+    "head_meanings": [
+      "얼마 안 되는 수당",
+      "임금",
+      "소량"
+    ],
+    "synonyms_from_image": [
+      "small amount",
+      "dribble",
+      "modicum",
+      "minimum",
+      "insufficiency",
+      "trifling sum",
+      "minimal wage"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "pivotal",
+    "pos": "adj.",
+    "head_meanings": [
+      "중추적인",
+      "요긴한",
+      "중요한"
+    ],
+    "synonyms_from_image": [
+      "fundamental",
+      "focal",
+      "decisive",
+      "crucial",
+      "vital",
+      "determining"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "placate",
+    "pos": "v.",
+    "head_meanings": [
+      "위로하다",
+      "진정시키다"
+    ],
+    "synonyms_from_image": [
+      "appease",
+      "mollify",
+      "calm",
+      "propitiate",
+      "sweeten"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "placebo",
+    "pos": "n.",
+    "head_meanings": [
+      "(의학) 위약(정신적 효과를 얻기 위해 환자에게 주는 약리 효과가 없는 약)",
+      "일시적 위안의 말",
+      "아첨"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "027",
+    "word": "placid",
+    "pos": "adj.",
+    "head_meanings": [
+      "평온한",
+      "조용한",
+      "차분한",
+      "잠잠한"
+    ],
+    "synonyms_from_image": [
+      "composed",
+      "quiescent",
+      "still"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "placidity",
+    "pos": "n.",
+    "head_meanings": [
+      "조용함",
+      "평온",
+      "온화",
+      "차분함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "029",
+    "word": "plagiarize",
+    "pos": "v.",
+    "head_meanings": [
+      "(남의 사상·논문·문장 따위를) 표절하다",
+      "도용하다"
+    ],
+    "synonyms_from_image": [
+      "imitate",
+      "copy",
+      "duplicate",
+      "repeat",
+      "counterfeit"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "plagiarism",
+    "pos": "n.",
+    "head_meanings": [
+      "표절"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "031",
+    "word": "plague",
+    "pos": "v./n.",
+    "head_meanings": [
+      "괴롭히다",
+      "귀찮게 하다",
+      "역병에 걸리게 하다",
+      "재앙을 일으키다",
+      "역병",
+      "전염병",
+      "천재",
+      "재앙",
+      "불행",
+      "성가신 것"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "032",
+    "word": "plainly",
+    "pos": "adv.",
+    "head_meanings": [
+      "명백히",
+      "분명하게",
+      "솔직하게",
+      "소박하게",
+      "검소하게"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "033",
+    "word": "plaintive",
+    "pos": "adj.",
+    "head_meanings": [
+      "구슬픈",
+      "애처로운",
+      "구슬프게 우는 듯한"
+    ],
+    "synonyms_from_image": [
+      "sorrowful",
+      "lamenting",
+      "moaning",
+      "melancholy",
+      "doleful",
+      "pitiful"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "plastic",
+    "pos": "adj.",
+    "head_meanings": [
+      "(성격 등이) 유연한",
+      "(인공적인)",
+      "가소성 있는"
+    ],
+    "synonyms_from_image": [
+      "pliant",
+      "pliable",
+      "malleable",
+      "mouldable",
+      "ductile",
+      "flexible",
+      "bendable",
+      "impressionable",
+      "receptive",
+      "compliant",
+      "tractable",
+      "persuadable",
+      "susceptible",
+      "artificial",
+      "fake",
+      "superficial",
+      "pseudo",
+      "bogus",
+      "unnatural",
+      "insincere",
+      "phoney",
+      "pretended"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "plasticity",
+    "pos": "n.",
+    "head_meanings": [
+      "가소성",
+      "성형력",
+      "적응성",
+      "유연성"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "036",
+    "word": "platitude",
+    "pos": "n.",
+    "head_meanings": [
+      "단조로움",
+      "평범",
+      "진부",
+      "진부한 문구",
+      "평범한 의견",
+      "상투어"
+    ],
+    "synonyms_from_image": [
+      "cliché",
+      "truism",
+      "commonplace",
+      "banality",
+      "bromide",
+      "hackneyed saying"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "platitudinous",
+    "pos": "adj.",
+    "head_meanings": [
+      "진부평범한 말을 잘 하는",
+      "평범한",
+      "단조로운",
+      "하찮은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "038",
+    "word": "platonic",
+    "pos": "adj.",
+    "head_meanings": [
+      "(순수) 정신적인",
+      "관념적인"
+    ],
+    "synonyms_from_image": [
+      "mental",
+      "cerebral",
+      "psychic",
+      "moral",
+      "unworldly",
+      "unfleshly"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "plauditory",
+    "pos": "adj.",
+    "head_meanings": [
+      "박수 갈채하는",
+      "칭찬[찬미]의"
+    ],
+    "synonyms_from_image": [
+      "praising",
+      "complimentary",
+      "favorable",
+      "eulogistic",
+      "glorifying",
+      "honorable",
+      "laudatory"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "plausible",
+    "pos": "adj.",
+    "head_meanings": [
+      "(구실 따위가) 그럴싸한",
+      "진실 같은",
+      "말재주 있는",
+      "그럴듯하게 말하는"
+    ],
+    "synonyms_from_image": [
+      "believable",
+      "probable",
+      "valid",
+      "credible",
+      "likely",
+      "persuasive",
+      "reasonable",
+      "logical",
+      "sound"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "plead",
+    "pos": "v.",
+    "head_meanings": [
+      "탄원[간청]하다",
+      "(~에 대하여) 주장[변]하다",
+      "변론하다"
+    ],
+    "synonyms_from_image": [
+      "beseech",
+      "implore",
+      "entreat",
+      "importune",
+      "supplicate",
+      "state",
+      "assert",
+      "argue",
+      "claim",
+      "allege"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "plebeian",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "보통의",
+      "평범한",
+      "속된",
+      "평민의",
+      "하층 계급의"
+    ],
+    "synonyms_from_image": [
+      "vulgar",
+      "baseborn",
+      "ordinary",
+      "humble",
+      "low",
+      "mean"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "plebs",
+    "pos": "n.",
+    "head_meanings": [
+      "(집합적으로) 평민",
+      "서민"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "044",
+    "word": "pledge",
+    "pos": "v./n.",
+    "head_meanings": [
+      "맹세(하다)",
+      "서약(하다)",
+      "보증인이 되다",
+      "담보",
+      "저당",
+      "보증(표시)"
+    ],
+    "synonyms_from_image": [
+      "promise",
+      "oath",
+      "deposit",
+      "token"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "plenary",
+    "pos": "adj.",
+    "head_meanings": [
+      "완전한",
+      "전적인",
+      "절대적인",
+      "정식의",
+      "전원 출석한"
+    ],
+    "synonyms_from_image": [
+      "absolute",
+      "perfect",
+      "thorough",
+      "unrestricted",
+      "replete"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "plenitude",
+    "pos": "n.",
+    "head_meanings": [
+      "풍부",
+      "충분",
+      "완전",
+      "충실"
+    ],
+    "synonyms_from_image": [
+      "sufficiency",
+      "surplus",
+      "repletion",
+      "wholeness",
+      "glut",
+      "quantities",
+      "profusion",
+      "plethora"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "plentitude",
+    "pos": "n.",
+    "head_meanings": [
+      "풍부"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "048",
+    "word": "plethora",
+    "pos": "n.",
+    "head_meanings": [
+      "과다",
+      "과도",
+      "과잉",
+      "적혈구 과다증",
+      "다중",
+      "다혈증"
+    ],
+    "synonyms_from_image": [
+      "surfeit",
+      "excess",
+      "abundance",
+      "surplus",
+      "glut",
+      "superfluity",
+      "profusion",
+      "too many/much",
+      "oversupply",
+      "overfullness",
+      "plenty",
+      "overplus"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "pliable",
+    "pos": "adj.",
+    "head_meanings": [
+      "휘기 쉬운",
+      "유연한",
+      "나긋나긋한",
+      "유순한",
+      "말을 잘 듣는",
+      "순응적인"
+    ],
+    "synonyms_from_image": [
+      "pliant",
+      "plastic",
+      "flexible",
+      "bendable",
+      "elastic",
+      "supple",
+      "malleable",
+      "ductile",
+      "compliant",
+      "tractable",
+      "amenable",
+      "receptive"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "pliant",
+    "pos": "adj.",
+    "head_meanings": [
+      "나긋나긋한",
+      "유연한",
+      "유순한",
+      "말을 잘 듣는"
+    ],
+    "synonyms_from_image": [
+      "plastic",
+      "pliable",
+      "adaptable",
+      "ductile",
+      "supple"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "plot",
+    "pos": "n.",
+    "head_meanings": [
+      "계략",
+      "은밀한 계획",
+      "책략",
+      "(극·소설 등) 줄거리",
+      "구상"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "052",
+    "word": "ploy",
+    "pos": "n.",
+    "head_meanings": [
+      "꾀",
+      "책략",
+      "일(job)"
+    ],
+    "synonyms_from_image": [
+      "ruse",
+      "tactic",
+      "device",
+      "stratagem",
+      "scheme",
+      "gambit"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "pluck",
+    "pos": "n./v.",
+    "head_meanings": [
+      "용기",
+      "담력",
+      "확 당기기",
+      "쥐어뜯기"
+    ],
+    "synonyms_from_image": [
+      "fortitude",
+      "spirit",
+      "mettle",
+      "boldness",
+      "daring",
+      "spunk"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "plumb",
+    "pos": "adj./v./n.",
+    "head_meanings": [
+      "수직의",
+      "똑바른",
+      "꿰뚫어 보다",
+      "알아내다"
+    ],
+    "synonyms_from_image": [
+      "perpendicular",
+      "90-degree",
+      "straight up and down"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "plump",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "포동포동한",
+      "토실토실한",
+      "충분한",
+      "불룩하게 만들다",
+      "살찌게 하다",
+      "털썩 떨어지다",
+      "강력하게 지지하다",
+      "선언하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "056",
+    "word": "plummet",
+    "pos": "v.",
+    "head_meanings": [
+      "수직으로(똑바로) 떨어지다",
+      "폭락하다",
+      "급강하하다"
+    ],
+    "synonyms_from_image": [
+      "dip",
+      "drop",
+      "fall",
+      "decrease",
+      "sink",
+      "descend",
+      "tumble"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "plunder",
+    "pos": "v.",
+    "head_meanings": [
+      "약탈하다",
+      "강탈하다",
+      "훔치다",
+      "불법 점유(횡령)하다"
+    ],
+    "synonyms_from_image": [
+      "pillage",
+      "despoil",
+      "spoil",
+      "loot",
+      "booty"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "plutocracy",
+    "pos": "n.",
+    "head_meanings": [
+      "금권(재벌) 정치"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "059",
+    "word": "poignancy",
+    "pos": "n.",
+    "head_meanings": [
+      "통렬함",
+      "통절함",
+      "신랄함"
+    ],
+    "synonyms_from_image": [
+      "pathos",
+      "poignance",
+      "bathos",
+      "sensitivity",
+      "painfulness"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "poignant",
+    "pos": "adj.",
+    "head_meanings": [
+      "마음 아픈",
+      "통렬한",
+      "마음에 사무치는",
+      "실감나는",
+      "(설명 따위가) 정곡을 찌르는",
+      "매우 적절한",
+      "(냄새·맛이) 쏘는",
+      "매운"
+    ],
+    "synonyms_from_image": [
+      "touching",
+      "moving",
+      "affecting",
+      "pitiful",
+      "piteous",
+      "pathetic",
+      "sorrowful",
+      "mournful",
+      "miserable",
+      "distressing",
+      "plaintive"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "pointless",
+    "pos": "adj.",
+    "head_meanings": [
+      "힘 없는",
+      "무의미한",
+      "적절치 못한",
+      "요령부득의",
+      "무두절의",
+      "뾰족한 끝이 없는",
+      "끝이 무딘"
+    ],
+    "synonyms_from_image": [
+      "futile",
+      "hopeless",
+      "fruitless",
+      "in vain",
+      "useless",
+      "ineffectual",
+      "ineffective",
+      "inefficacious",
+      "of no use",
+      "worthless",
+      "unavailing",
+      "unsuccessful",
+      "failed",
+      "thwarted",
+      "unproductive",
+      "empty",
+      "forlorn",
+      "idle",
+      "bootless",
+      "frivolous",
+      "aimless",
+      "valueless",
+      "absurd",
+      "insane",
+      "stupid",
+      "silly",
+      "foolish"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "pointlessness",
+    "pos": "n.",
+    "head_meanings": [
+      "무의미함",
+      "무가치함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "063",
+    "word": "poised",
+    "pos": "adj.",
+    "head_meanings": [
+      "침착한",
+      "태연한",
+      "공중에 뜬"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "064",
+    "word": "polarity",
+    "pos": "n.",
+    "head_meanings": [
+      "양(음) 극성",
+      "(정반대) 양극(대조)성"
+    ],
+    "synonyms_from_image": [
+      "polarization",
+      "division",
+      "split",
+      "schism",
+      "divergence"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "polarize",
+    "pos": "v.",
+    "head_meanings": [
+      "(전기) ~에 극성을 부여하다",
+      "(사고·사상 등을) 분극화시키다",
+      "분열시키다",
+      "편가르기시키다"
+    ],
+    "synonyms_from_image": [
+      "oppose",
+      "confront",
+      "subtend",
+      "contrast"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "polarizing",
+    "pos": "adj.",
+    "head_meanings": [
+      "분열을 일으키는",
+      "양극화시키는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "067",
+    "word": "polarization",
+    "pos": "n.",
+    "head_meanings": [
+      "(그룹·사상·세력 등의) 분열",
+      "둘로 갈라지기",
+      "대립화",
+      "분극화",
+      "단절",
+      "편향",
+      "극성이 생기기"
+    ],
+    "synonyms_from_image": [
+      "polarity",
+      "division",
+      "split",
+      "schism",
+      "divergence"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "polemic",
+    "pos": "n.",
+    "head_meanings": [
+      "논쟁",
+      "반론",
+      "논거",
+      "논쟁문"
+    ],
+    "synonyms_from_image": [
+      "altercation",
+      "argumentation",
+      "conflict",
+      "quarrel",
+      "dispute"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "polemical",
+    "pos": "adj.",
+    "head_meanings": [
+      "논의/논쟁의",
+      "반론하는",
+      "이론[반론]을 좋아하는",
+      "격론의",
+      "논쟁적인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "070",
+    "word": "polymath",
+    "pos": "n.",
+    "head_meanings": [
+      "대학자",
+      "박식가"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "071",
+    "word": "polymathic",
+    "pos": "adj.",
+    "head_meanings": [
+      "박식가의"
+    ],
+    "synonyms_from_image": [
+      "encyclopedic",
+      "polymathic"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "politic",
+    "pos": "adj.",
+    "head_meanings": [
+      "사려 깊은",
+      "분별 있는",
+      "슬기로운",
+      "현명한",
+      "교활한",
+      "정책적인",
+      "적절한",
+      "시기에 잘 맞는"
+    ],
+    "synonyms_from_image": [
+      "cautious",
+      "wise",
+      "prudent",
+      "sensible",
+      "cunning",
+      "artful",
+      "judicious",
+      "political"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "impolitic",
+    "pos": "adj.",
+    "head_meanings": [
+      "어리석은",
+      "분별없는",
+      "지각없는",
+      "졸렬한",
+      "미련한"
+    ],
+    "synonyms_from_image": [
+      "tactless"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "pomposity",
+    "pos": "n.",
+    "head_meanings": [
+      "거만함",
+      "젠체함",
+      "거만한 태도",
+      "호화장",
+      "호화",
+      "장려"
+    ],
+    "synonyms_from_image": [
+      "swagger",
+      "arrogance",
+      "vanity",
+      "haughtiness",
+      "imperiousness",
+      "superciliousness"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "pompous",
+    "pos": "adj.",
+    "head_meanings": [
+      "잘난 체하는",
+      "거드름 피우는",
+      "오만한",
+      "뽐내는",
+      "허풍떠는",
+      "진지체하는",
+      "과시하는",
+      "화려한",
+      "장대한",
+      "의리의리한"
+    ],
+    "synonyms_from_image": [
+      "self-important",
+      "presumptuous",
+      "pretentious",
+      "affected",
+      "arrogant",
+      "vain",
+      "haughty",
+      "conceited",
+      "egoistic",
+      "imperious",
+      "overbearing",
+      "supercilious",
+      "condescending",
+      "patronizing",
+      "domineering",
+      "pontifical",
+      "grandiose"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "ponder",
+    "pos": "v.",
+    "head_meanings": [
+      "잘 생각하다",
+      "숙고(심사)하다"
+    ],
+    "synonyms_from_image": [
+      "contemplate",
+      "muse",
+      "brood over"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "ponderous",
+    "pos": "adj.",
+    "head_meanings": [
+      "(대단히) 무거운",
+      "(크고) 묵직한",
+      "육중한",
+      "다루기 힘든",
+      "지루한",
+      "장황한"
+    ],
+    "synonyms_from_image": [
+      "clumsy",
+      "heavy",
+      "awkward",
+      "lumbering",
+      "cumbersome",
+      "ungainly",
+      "graceless",
+      "blundering",
+      "labored",
+      "laborious",
+      "dull",
+      "tedious",
+      "monotonous",
+      "heavy",
+      "massive",
+      "enormous",
+      "dull",
+      "boring",
+      "sluggish",
+      "longwinded",
+      "tedious"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "pontificate",
+    "pos": "v.",
+    "head_meanings": [
+      "오만한 태도를 보이다",
+      "거드름 피우며 이야기하다"
+    ],
+    "synonyms_from_image": [
+      "be dogmatic",
+      "be officious",
+      "preach",
+      "hold forth"
+    ]
+  },
+  {
+    "id": "079",
+    "word": "porcelain",
+    "pos": "n.",
+    "head_meanings": [
+      "자기",
+      "자기 제품"
+    ],
+    "synonyms_from_image": [
+      "china(ware)",
+      "ceramic",
+      "pottery"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "pore",
+    "pos": "v.",
+    "head_meanings": [
+      "열심히 독서하다",
+      "응시하다"
+    ],
+    "synonyms_from_image": [
+      "read",
+      "examine",
+      "search",
+      "probe",
+      "consider",
+      "weigh",
+      "see",
+      "stare"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "porous",
+    "pos": "adj.",
+    "head_meanings": [
+      "구멍이 많은",
+      "(물·공기 등이) 스며드는",
+      "침투성의"
+    ],
+    "synonyms_from_image": [
+      "absorbent",
+      "penetrable",
+      "pervious",
+      "porous",
+      "permeable"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "portend",
+    "pos": "v.",
+    "head_meanings": [
+      "~의 전조가 되다",
+      "예고하다"
+    ],
+    "synonyms_from_image": [
+      "presage",
+      "predict",
+      "foretell",
+      "prophesy",
+      "forebode",
+      "forewarn",
+      "predict",
+      "augur",
+      "betoken",
+      "herald",
+      "signal",
+      "bode",
+      "be an omen",
+      "signify",
+      "spell",
+      "denote"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "portent",
+    "pos": "n.",
+    "head_meanings": [
+      "조짐",
+      "전조",
+      "기미"
+    ],
+    "synonyms_from_image": [
+      "token",
+      "presage",
+      "bodement",
+      "augury",
+      "symptom"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "portentous",
+    "pos": "adj.",
+    "head_meanings": [
+      "전조의",
+      "중대한",
+      "불길한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "085",
+    "word": "poseur",
+    "pos": "n.",
+    "head_meanings": [
+      "체하는 사람",
+      "허세가"
+    ],
+    "synonyms_from_image": [
+      "poser"
+    ]
+  },
+  {
+    "id": "086",
+    "word": "posit",
+    "pos": "v.",
+    "head_meanings": [
+      "긍정적으로 가정하다",
+      "단정하다"
+    ],
+    "synonyms_from_image": [
+      "postulate",
+      "hypothesize",
+      "conjecture",
+      "conceive",
+      "speculate",
+      "propound",
+      "propose",
+      "assert",
+      "advance",
+      "submit",
+      "put forward"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "positing",
+    "pos": "n.",
+    "head_meanings": [
+      "긍정",
+      "설치되어 있는 것"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "088",
+    "word": "posterity",
+    "pos": "n.",
+    "head_meanings": [
+      "자손",
+      "후예",
+      "후세"
+    ],
+    "synonyms_from_image": [
+      "offspring",
+      "progeny",
+      "successor",
+      "descendants",
+      "heirs"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "posthumous",
+    "pos": "adj.",
+    "head_meanings": [
+      "사후의",
+      "사후에 출판된"
+    ],
+    "synonyms_from_image": [
+      "postmortem",
+      "postmortal",
+      "post-obit",
+      "late"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "postulate",
+    "pos": "n./v.",
+    "head_meanings": [
+      "자명한 원리",
+      "기초(설전) 조건",
+      "가정하다"
+    ],
+    "synonyms_from_image": [
+      "axiom",
+      "fact",
+      "proof",
+      "premise",
+      "presupposition",
+      "assumption"
+    ]
+  },
+  {
+    "id": "091",
+    "word": "posture",
+    "pos": "v./n.",
+    "head_meanings": [
+      "(어떤) 자세를 취하다",
+      "태세를 갖추다",
+      "뻐내는 몸을 놀리다",
+      "과태를 부리다",
+      "몸짓",
+      "마음가짐",
+      "태도"
+    ],
+    "synonyms_from_image": [
+      "pose",
+      "act selfconsciously",
+      "act affectedly",
+      "show off",
+      "give oneself airs"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "potable",
+    "pos": "adj.",
+    "head_meanings": [
+      "마시기에 알맞은"
+    ],
+    "synonyms_from_image": [
+      "drinkable"
+    ]
+  },
+  {
+    "id": "093",
+    "word": "potent",
+    "pos": "adj.",
+    "head_meanings": [
+      "강력한",
+      "유력한",
+      "효력 있는",
+      "효험 있는",
+      "납득시키는"
+    ],
+    "synonyms_from_image": [
+      "strong",
+      "mighty",
+      "forceful",
+      "convincing",
+      "operative"
+    ]
+  },
+  {
+    "id": "094",
+    "word": "potentate",
+    "pos": "n.",
+    "head_meanings": [
+      "유력자",
+      "주권자",
+      "군주",
+      "세력가"
+    ],
+    "synonyms_from_image": [
+      "ruler",
+      "prince",
+      "crowned head"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "potential",
+    "pos": "adj.",
+    "head_meanings": [
+      "가능한",
+      "잠재적인",
+      "가능성 있는"
+    ],
+    "synonyms_from_image": [
+      "possible",
+      "lurking",
+      "hidden",
+      "underlying",
+      "probable"
+    ]
+  },
+  {
+    "id": "096",
+    "word": "practicable",
+    "pos": "adj.",
+    "head_meanings": [
+      "실행할 수 있는",
+      "실제적인"
+    ],
+    "synonyms_from_image": [
+      "feasible",
+      "achievable",
+      "possible",
+      "workable",
+      "practical"
+    ]
+  },
+  {
+    "id": "097",
+    "word": "practical",
+    "pos": "adj.",
+    "head_meanings": [
+      "실제적인",
+      "실용적인",
+      "경험에 근거한"
+    ],
+    "synonyms_from_image": [
+      "pragmatic",
+      "businesslike",
+      "operative",
+      "pragmatic",
+      "efficient",
+      "functional"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "pragmatic",
+    "pos": "adj.",
+    "head_meanings": [
+      "실제적인",
+      "실용주의적인",
+      "현실적인"
+    ],
+    "synonyms_from_image": [
+      "practical",
+      "expedient",
+      "down-to-earth",
+      "sensible",
+      "useful",
+      "utilitarian"
+    ]
+  },
+  {
+    "id": "099",
+    "word": "pragmatist",
+    "pos": "n.",
+    "head_meanings": [
+      "실용주의자",
+      "실리주의자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "100",
+    "word": "pragmatism",
+    "pos": "n.",
+    "head_meanings": [
+      "실용주의",
+      "현실주의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "101",
+    "word": "prate",
+    "pos": "v.",
+    "head_meanings": [
+      "재잘재잘거리다",
+      "쓸데없는 소리를 하다",
+      "한가히 수다를 늘어놓다"
+    ],
+    "synonyms_from_image": [
+      "chatter",
+      "prattle",
+      "yak",
+      "twaddle",
+      "piffle",
+      "chat"
+    ]
+  },
+  {
+    "id": "102",
+    "word": "prattle",
+    "pos": "v.",
+    "head_meanings": [
+      "수다떨다",
+      "어린아이처럼 말하다"
+    ],
+    "synonyms_from_image": [
+      "blabber",
+      "chatter",
+      "blather",
+      "twaddle"
+    ]
+  },
+  {
+    "id": "103",
+    "word": "preachy",
+    "pos": "adj.",
+    "head_meanings": [
+      "설교하기 좋아하는",
+      "설교조의"
+    ],
+    "synonyms_from_image": [
+      "sanctimonious"
+    ]
+  },
+  {
+    "id": "104",
+    "word": "precarious",
+    "pos": "adj.",
+    "head_meanings": [
+      "불확실한",
+      "위험한"
+    ],
+    "synonyms_from_image": [
+      "perilous",
+      "uncertain",
+      "insecure",
+      "unpredictable",
+      "risky",
+      "parlous",
+      "hazardous",
+      "dangerous",
+      "unsafe",
+      "unsettled",
+      "unreliable",
+      "unsteady",
+      "shaky",
+      "unstable",
+      "doubtful"
+    ]
+  },
+  {
+    "id": "105",
+    "word": "precedent",
+    "pos": "n.",
+    "head_meanings": [
+      "선례",
+      "전례",
+      "관례"
+    ],
+    "synonyms_from_image": [
+      "custom",
+      "usage",
+      "convention",
+      "practice"
+    ]
+  },
+  {
+    "id": "106",
+    "word": "precedent",
+    "pos": "adj.",
+    "head_meanings": [
+      "(시간·서열이) 앞서는",
+      "이전의"
+    ],
+    "synonyms_from_image": [
+      "previous",
+      "earlier",
+      "prior",
+      "foregoing",
+      "antecedent"
+    ]
+  },
+  {
+    "id": "107",
+    "word": "precede",
+    "pos": "v.",
+    "head_meanings": [
+      "선행하다",
+      "앞서다",
+      "먼저 일어나다",
+      "우선하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "108",
+    "word": "preceding",
+    "pos": "adj.",
+    "head_meanings": [
+      "앞의",
+      "이전의"
+    ],
+    "synonyms_from_image": []
+  }
+]
