@@ -117,10 +117,12 @@
       -webkit-tap-highlight-color: transparent;
     }
     .btn:hover{ background: #F9FAFB; box-shadow: var(--shadow-sm); }
-    .btn:active{ 
-      transform: scale(.97); 
+    .btn:active{
+      transform: scale(.97);
       background: #F3F4F6;
     }
+    .btn-text-short{ display: none; }
+    .btn-text-full{ display: inline; }
     .btn.primary{
       background: var(--text);
       color: #fff;
@@ -864,16 +866,19 @@
       .controls {
         width: 100%;
         justify-content: space-between;
-        gap: 4px;
+        gap: 6px;
       }
       .controls .pill { display: none; } /* Hide save pill on mobile */
       .btn {
         flex: 1;
-        padding: 10px 6px;
-        font-size: 11px;
+        padding: 11px 8px;
+        font-size: 13px;
         text-align: center;
         white-space: nowrap;
+        min-width: 0;
       }
+      .btn-text-full { display: none; }
+      .btn-text-short { display: inline; }
       .brand { min-width: auto; }
       .brand > div { display: none; } /* Hide brand text on mobile */
     }
@@ -915,10 +920,10 @@
           <span class="dot" id="saveDot"></span>
           <span id="saveText">Not saved</span>
         </div>
-        <button class="btn" id="saveBtn" type="button">Save</button>
-        <button class="btn grade-btn" id="gradeBtn" type="button">Grade</button>
-        <button class="btn primary" id="exportBtn" type="button">Export Answers</button>
-        <button class="btn" id="clearBtn" type="button">Reset</button>
+        <button class="btn" id="saveBtn" type="button"><span class="btn-text-full">Save</span><span class="btn-text-short">Save</span></button>
+        <button class="btn grade-btn" id="gradeBtn" type="button"><span class="btn-text-full">Grade</span><span class="btn-text-short">Grade</span></button>
+        <button class="btn primary" id="exportBtn" type="button"><span class="btn-text-full">Export Answers</span><span class="btn-text-short">Export</span></button>
+        <button class="btn" id="clearBtn" type="button"><span class="btn-text-full">Reset</span><span class="btn-text-short">Reset</span></button>
       </div>
     </div>
   </div>
