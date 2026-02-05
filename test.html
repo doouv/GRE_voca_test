@@ -178,6 +178,19 @@
       padding: 16px;
       margin-bottom: 24px;
       box-shadow: var(--shadow-sm);
+      transition: padding .3s ease;
+    }
+    .progress-dots-panel.collapsed{
+      padding: 12px 16px;
+    }
+    .progress-dots-header{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+    .progress-dots-panel.collapsed .progress-dots-header{
+      margin-bottom: 0;
     }
     .progress-dots-title{
       font-size: 11px;
@@ -185,13 +198,39 @@
       text-transform: uppercase;
       letter-spacing: .5px;
       color: var(--muted);
-      margin-bottom: 12px;
+    }
+    .progress-dots-toggle{
+      width: 24px;
+      height: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: none;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      border-radius: 6px;
+      transition: all .2s ease;
+      font-size: 14px;
+      padding: 0;
+    }
+    .progress-dots-toggle:hover{
+      background: #F3F4F6;
+      color: var(--text);
     }
     .progress-dots{
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
       justify-content: center;
+      max-height: 500px;
+      overflow: hidden;
+      transition: max-height .3s ease, opacity .3s ease;
+      opacity: 1;
+    }
+    .progress-dots-panel.collapsed .progress-dots{
+      max-height: 0;
+      opacity: 0;
     }
     .progress-dot{
       width: 10px;
@@ -986,7 +1025,10 @@
     </div>
 
     <div class="progress-dots-panel" id="progressDotsPanel" style="display: none;">
-      <div class="progress-dots-title">Question Progress</div>
+      <div class="progress-dots-header">
+        <div class="progress-dots-title">Question Progress</div>
+        <button class="progress-dots-toggle" id="progressDotsToggle" type="button" aria-label="Toggle progress dots">▲</button>
+      </div>
       <div class="progress-dots" id="progressDots"></div>
     </div>
 
@@ -1568,7 +1610,32 @@
     });
 
     panel.style.display = 'block';
+
+    // Setup toggle button
+    const toggleBtn = $('#progressDotsToggle');
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', toggleProgressDots);
+    }
+
+    // Restore collapsed state
+    const isCollapsed = localStorage.getItem('progress_dots_collapsed') === 'true';
+    if (isCollapsed) {
+      panel.classList.add('collapsed');
+      if (toggleBtn) toggleBtn.textContent = '▼';
+    }
+
     updateAllDots();
+  }
+
+  function toggleProgressDots() {
+    const panel = $('#progressDotsPanel');
+    const toggleBtn = $('#progressDotsToggle');
+
+    if (!panel || !toggleBtn) return;
+
+    const isCollapsed = panel.classList.toggle('collapsed');
+    toggleBtn.textContent = isCollapsed ? '▼' : '▲';
+    localStorage.setItem('progress_dots_collapsed', isCollapsed);
   }
 
   function updateDotState(qid) {
