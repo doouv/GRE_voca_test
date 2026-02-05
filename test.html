@@ -291,36 +291,40 @@
     /* Stats bar */
     .stats-bar{
       display: flex;
-      gap: 12px;
+      justify-content: center;
       margin-bottom: 24px;
-      flex-wrap: wrap;
     }
     .stat-card{
-      flex:1;
-      min-width: 90px;
-      padding: 14px 12px;
-      border: 1px solid var(--border);
-      border-radius: 12px;
+      padding: 20px 40px;
+      border: 2px solid var(--border);
+      border-radius: 16px;
       text-align: center;
       background: #fff;
+      box-shadow: var(--shadow);
+    }
+    .stat-card.score-card{
+      border-color: var(--blue);
+      background: linear-gradient(135deg, #FFFFFF 0%, #EFF6FF 100%);
     }
     .stat-card .stat-label{
-      font-size: 10px;
+      font-size: 11px;
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: .5px;
       color: var(--muted);
-      margin-bottom: 4px;
+      margin-bottom: 8px;
     }
     .stat-card .stat-value{
-      font-size: 20px;
+      font-size: 48px;
       font-weight: 800;
-      letter-spacing: -.5px;
+      letter-spacing: -1px;
+      color: var(--blue);
     }
-    .stat-card .stat-value .unit{
-      font-size: 12px;
+    .stat-card .stat-detail{
+      font-size: 13px;
       font-weight: 600;
       color: var(--muted);
+      margin-top: 8px;
     }
 
     /* Question cards - single column on mobile */
@@ -769,18 +773,11 @@
           </div>
           <div class="bar"><div id="progBar"></div></div>
         </div>
-        <div class="stats-bar">
-          <div class="stat-card">
-            <div class="stat-label">Score</div>
+        <div class="stats-bar" id="statsBar" style="display: none;">
+          <div class="stat-card score-card">
+            <div class="stat-label">Final Score</div>
             <div class="stat-value" id="statScore">—</div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-label">Streak</div>
-            <div class="stat-value" id="statStreak">0 <span class="unit">🔥</span></div>
-          </div>
-          <div class="stat-card">
-            <div class="stat-label">Highlight</div>
-            <div class="stat-value" id="statHighlight">0</div>
+            <div class="stat-detail" id="statDetail"></div>
           </div>
         </div>
       </div>
@@ -1178,7 +1175,6 @@
       });
     }
     updateHighlightPanel(qid);
-    updateHighlightStat();
     scheduleSave();
   }
 
@@ -1271,7 +1267,6 @@
         checkCircle.classList.add('checked');
       }
     });
-    updateHighlightStat();
     updateProgress();
     updateAllDots();
     setSaved(true);
@@ -1510,8 +1505,14 @@
 
     const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
     const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
-    $('#statScore').innerHTML = `${score}`;
-    $('#statStreak').innerHTML = `${bestStreak} <span class="unit">🔥</span>`;
+
+    // Show score card with animation
+    const statsBar = $('#statsBar');
+    if (statsBar) {
+      statsBar.style.display = 'flex';
+      $('#statScore').textContent = score;
+      $('#statDetail').textContent = `${correctCount} correct · ${partialCount} partial · ${incorrectCount} incorrect`;
+    }
 
       $('#gradeBtn').disabled = true;
       $('#gradeBtn').textContent = '✓ Graded';
@@ -1665,9 +1666,14 @@
     const gradeBtn = $('#gradeBtn');
     if (gradeBtn) { gradeBtn.disabled = false; gradeBtn.textContent = 'Grade'; }
 
-    $('#statScore').innerHTML = '—';
-    $('#statStreak').innerHTML = '0 <span class="unit">🔥</span>';
-    updateHighlightStat();
+    // Hide score card
+    const statsBar = $('#statsBar');
+    if (statsBar) {
+      statsBar.style.display = 'none';
+      $('#statScore').textContent = '—';
+      $('#statDetail').textContent = '';
+    }
+
     updateProgress();
     updateAllDots();
 
