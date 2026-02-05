@@ -33,7 +33,7 @@
       --highlight-border:#F59E0B;
     }
     *{ box-sizing:border-box; }
-    html,body{ height:100%; }
+    html,body{ min-height:100vh; }
     body{
       margin:0;
       font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
@@ -215,8 +215,8 @@
       border-color: var(--text);
     }
     .progress-dot.checked{
-      background: var(--green);
-      border-color: var(--green);
+      background: var(--text);
+      border-color: var(--text);
       color: white;
       font-weight: 800;
     }
@@ -372,8 +372,8 @@
       transform: scale(1.1);
     }
     .check-circle.checked{
-      background: var(--green);
-      border-color: var(--green);
+      background: var(--text);
+      border-color: var(--text);
       color: white;
     }
     .check-circle.checked::after{
