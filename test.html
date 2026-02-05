@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <title>GRE Vocabulary Test</title>
   <style>
     :root{
@@ -36,7 +36,7 @@
     html,body{ min-height:100vh; }
     body{
       margin:0;
-      font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
       background: var(--bg);
       color: var(--text);
       -webkit-font-smoothing: antialiased;
@@ -228,97 +228,224 @@
       border-color: var(--blue);
       box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
     }
-    .hero{
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 20px;
-      margin-bottom: 28px;
-    }
-    .hero-left{
+
+    /* ============================================ */
+    /* HERO CARD (from cert_card_prototype)        */
+    /* ============================================ */
+    .hero-card {
       width: 100%;
-      text-align: center;
-      position: relative;
-    }
-    .hero-left h2{
-      font-size: 28px;
-      font-weight: 800;
-      margin: 0 0 8px;
-      letter-spacing: -.3px;
-      color: var(--blue);
-      display: inline-block;
-    }
-    .score-badge{
-      display: none;
-      width: 64px;
-      height: 64px;
-      border-radius: 50%;
-      background: linear-gradient(135deg, var(--blue), #1E40AF);
-      color: white;
-      font-size: 20px;
-      font-weight: 800;
-      align-items: center;
-      justify-content: center;
-      position: absolute;
-      top: -8px;
-      right: 16px;
-      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
-      border: 3px solid white;
-    }
-    .score-badge.show{
-      display: flex;
-    }
-    @media (max-width: 600px){
-      .score-badge{
-        width: 56px;
-        height: 56px;
-        font-size: 18px;
-        right: 8px;
-      }
-    }
-    .hero-left p{
-      color: var(--muted);
-      font-size: 14px;
-      margin: 0 auto;
-      max-width: 520px;
-      line-height: 1.5;
-    }
-    .test-date{
-      font-size: 12px;
-      color: var(--muted);
-      margin: 4px auto 8px !important;
-      font-weight: 500;
-    }
-    .hero-right{
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      width: 100%;
-      max-width: 560px;
-    }
-    .progress{ width: 100%; }
-    .progress .row{
-      display: flex;
-      justify-content: space-between;
-      font-size: 13px;
-      font-weight: 600;
-      margin-bottom: 6px;
-    }
-    .bar{
-      height: 6px;
-      border-radius: 99px;
-      background: #F3F4F6;
+      max-width: 1120px;
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      background: var(--card);
       overflow: hidden;
-    }
-    .bar > div{
-      height: 100%;
-      border-radius: 99px;
-      background: linear-gradient(90deg, var(--text), #374151);
-      width: 0%;
-      transition: width .4s ease;
+      box-shadow: 0 1px 3px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.06);
+      position: relative;
+      margin-bottom: 24px;
     }
 
-    /* Stats bar - DEPRECATED, using score badge instead */
+    .hero-card::before {
+      content: '';
+      display: block;
+      height: 3px;
+      background: linear-gradient(90deg, var(--text) 0%, var(--text) 100%);
+      transition: background .8s ease;
+    }
+    .hero-card.graded::before {
+      background: linear-gradient(90deg, #6B7280 0%, #374151 100%);
+    }
+
+    .hero-inner {
+      padding: 32px 36px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .hero-title-block { flex: 1; min-width: 0; }
+
+    .hero-overline {
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .hero-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 28px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      line-height: 1.2;
+      margin-bottom: 8px;
+    }
+
+    .hero-subtitle {
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 500;
+      line-height: 1.5;
+    }
+
+    .hero-status {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+      flex-shrink: 0;
+    }
+
+    /* Pre-grade counter */
+    .status-pre { text-align: center; }
+
+    .status-pre .count-big {
+      font-family: 'Outfit', sans-serif;
+      font-size: 36px;
+      font-weight: 700;
+      letter-spacing: -1px;
+      line-height: 1;
+    }
+
+    .status-pre .count-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-top: 4px;
+    }
+
+    /* Post-grade score ring */
+    .status-post {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      gap: 4px;
+      animation: scoreReveal .8s cubic-bezier(.22,1,.36,1) forwards;
+    }
+
+    @keyframes scoreReveal {
+      0% { opacity: 0; transform: scale(.7) rotate(-10deg); }
+      100% { opacity: 1; transform: scale(1) rotate(0); }
+    }
+
+    .score-ring-wrap {
+      position: relative;
+      width: 88px;
+      height: 88px;
+    }
+
+    .score-ring-wrap svg {
+      width: 100%;
+      height: 100%;
+      transform: rotate(-90deg);
+    }
+
+    .ring-bg { fill: none; stroke: #F3F4F6; stroke-width: 6; }
+
+    .ring-fg {
+      fill: none;
+      stroke: #6B7280;
+      stroke-width: 6;
+      stroke-linecap: round;
+      stroke-dasharray: 245;
+      stroke-dashoffset: 245;
+      transition: stroke-dashoffset 1.2s cubic-bezier(.22,1,.36,1) .3s;
+    }
+
+    .score-number {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: 'Outfit', sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -1px;
+    }
+
+    .score-number .pct {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--muted);
+    }
+
+    .score-verdict {
+      font-size: 11px;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      padding: 3px 10px;
+      border-radius: 999px;
+      background: rgba(107,114,128,.08);
+      color: #374151;
+    }
+
+    /* Bar area: progress before grade, stacked ratio after grade */
+    .hero-bar-area {
+      padding: 0 36px 24px;
+    }
+
+    .bar-row {
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      margin-bottom: 6px;
+    }
+
+    .bar-legend {
+      display: none;
+      gap: 12px;
+      align-items: center;
+      margin-top: 8px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .legend-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 2px;
+      flex-shrink: 0;
+    }
+
+    .legend-dot.g { background: var(--green); }
+    .legend-dot.a { background: var(--amber); }
+    .legend-dot.r { background: var(--red); }
+
+    /* Stacked bar */
+    .stacked-bar {
+      height: 6px;
+      border-radius: 99px;
+      background: #EFEFEC;
+      overflow: hidden;
+      display: flex;
+    }
+
+    .stacked-bar .seg {
+      height: 100%;
+      transition: width .8s cubic-bezier(.22,1,.36,1);
+      width: 0%;
+    }
+
+    .stacked-bar .seg.green { background: var(--green); }
+    .stacked-bar .seg.amber { background: var(--amber); }
+    .stacked-bar .seg.red { background: var(--red); }
+    .stacked-bar .seg.dark { background: var(--text); }
+
+    /* Stats bar - DEPRECATED */
     .stats-bar{
       display: none !important;
     }
@@ -751,6 +878,17 @@
       .brand > div { display: none; } /* Hide brand text on mobile */
     }
 
+    /* Hero card mobile */
+    @media (max-width: 600px) {
+      .hero-inner {
+        flex-direction: column;
+        text-align: center;
+        padding: 24px 20px 20px;
+      }
+      .hero-title { font-size: 24px; }
+      .hero-bar-area { padding: 0 20px 20px; }
+    }
+
     /* Print */
     @media print{
       .topbar{ position: static; }
@@ -786,29 +924,49 @@
   </div>
 
   <div class="wrap">
-    <div class="hero">
-      <div class="hero-left">
-        <h2 id="titleHero">Word List Practice</h2>
-        <div class="score-badge" id="scoreBadge"></div>
-        <p class="test-date" id="testDate"></p>
-        <p id="descHero">
-          Enter the meaning and choose all matching synonyms for each word.
-        </p>
-      </div>
-      <div class="hero-right">
-        <div class="progress">
-          <div class="row">
-            <span id="progText">Progress: 0/0</span>
-            <span id="progDetail">Meaning 0 · Synonyms 0</span>
-          </div>
-          <div class="bar"><div id="progBar"></div></div>
+    <div class="hero-card" id="heroCard">
+      <div class="hero-inner">
+        <div class="hero-title-block">
+          <div class="hero-overline">GRE Vocabulary</div>
+          <div class="hero-title" id="titleHero">Word List Practice</div>
+          <div class="hero-subtitle" id="heroSub">Enter the meaning and choose all matching synonyms for each word.</div>
         </div>
-        <div class="stats-bar" id="statsBar" style="display: none;">
-          <div class="stat-card score-card">
-            <div class="stat-label">Final Score</div>
-            <div class="stat-value" id="statScore">—</div>
-            <div class="stat-detail" id="statDetail"></div>
+        <div class="hero-status">
+          <div class="status-pre" id="statusPre">
+            <div class="count-big" id="countBig">0</div>
+            <div class="count-label">Words</div>
           </div>
+          <div class="status-post" id="statusPost">
+            <div class="score-ring-wrap">
+              <svg viewBox="0 0 88 88">
+                <circle class="ring-bg" cx="44" cy="44" r="39"/>
+                <circle class="ring-fg" id="ringFg" cx="44" cy="44" r="39"/>
+              </svg>
+              <div class="score-number">
+                <span id="scoreNum">0</span><span class="pct">%</span>
+              </div>
+            </div>
+            <div class="score-verdict" id="verdict">EXCELLENT</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Bar area: progress before grade, stacked ratio after grade -->
+      <div class="hero-bar-area">
+        <div class="bar-row">
+          <span id="barLeft">Progress: 0 / 0</span>
+          <span id="barRight">Meaning 0 · Synonym 0</span>
+        </div>
+        <div class="stacked-bar" id="stackedBar">
+          <div class="seg dark" id="segProgress" style="width:0%"></div>
+          <div class="seg green" id="segCorrect" style="width:0%"></div>
+          <div class="seg amber" id="segPartial" style="width:0%"></div>
+          <div class="seg red" id="segWrong" style="width:0%"></div>
+        </div>
+        <div class="bar-legend" id="barLegend">
+          <span class="legend-item"><span class="legend-dot g"></span>Correct</span>
+          <span class="legend-item"><span class="legend-dot a"></span>Partial</span>
+          <span class="legend-item"><span class="legend-dot r"></span>Wrong</span>
         </div>
       </div>
     </div>
@@ -1064,25 +1222,11 @@
       $('#titleTop').textContent = "GRE Vocabulary Test";
       $('#subtitleTop').textContent = `${RANDOM_COUNT} Random Questions · Choose all synonyms`;
     } else {
-      const t = `Word List ${WORDLIST_NUMBER} Practice`;
+      const t = `Word List ${WORDLIST_NUMBER}`;
       $('#titleHero').textContent = t;
       $('#titleTop').textContent = "GRE Vocabulary Test";
       $('#subtitleTop').textContent = `Word List ${WORDLIST_NUMBER} · Choose all synonyms`;
     }
-
-    // Set test date and time
-    const now = new Date();
-    const options = {
-      month: 'long',
-      day: 'numeric',
-      year: 'numeric',
-      hour: 'numeric',
-      minute: '2-digit',
-      hour12: true
-    };
-    const dateStr = now.toLocaleString('en-US', options);
-
-    $('#testDate').textContent = dateStr;
   }
 
   // ======================================================================
@@ -1242,6 +1386,20 @@
   }
 
   // ======================================================================
+  // ANIMATION HELPERS
+  // ======================================================================
+  function animateNumber(el, from, to, duration) {
+    const start = performance.now();
+    function tick(now) {
+      const p = Math.min((now - start) / duration, 1);
+      const eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = Math.round(from + (to - from) * eased);
+      if (p < 1) requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+  }
+
+  // ======================================================================
   // STORAGE
   // ======================================================================
   function loadAnswers() {
@@ -1317,21 +1475,21 @@
     const total = QUESTIONS.length;
     let mDone = 0, sDone = 0;
     const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
-    
+
     QUESTIONS.forEach(q => {
       if ((ans[q.qid]?.meaning || '').length > 0) mDone++;
       if (q.options && Object.keys(q.options).length > 0) {
         if ((ans[q.qid]?.syn_choices || []).length > 0) sDone++;
       }
     });
-    
+
     const totalTasks = total + synQCount;
     const doneTasks = mDone + sDone;
     const pct = totalTasks > 0 ? (doneTasks / totalTasks) * 100 : 0;
-    
-    $('#progText').textContent = `Progress: ${Math.round(pct)}%`;
-    $('#progDetail').textContent = `Meaning ${mDone}/${total} · Synonyms ${sDone}/${synQCount}`;
-    $('#progBar').style.width = `${pct}%`;
+
+    $('#barLeft').textContent = `Progress: ${doneTasks} / ${totalTasks}`;
+    $('#barRight').textContent = `Meaning ${mDone} · Synonym ${sDone}`;
+    $('#segProgress').style.width = `${pct}%`;
   }
 
   let saveTimeout = null;
@@ -1536,12 +1694,60 @@
     const synQCount = QUESTIONS.filter(q => q.options && Object.keys(q.options).length > 0).length;
     const score = synQCount > 0 ? Math.round(((correctCount + partialCount * 0.5) / synQCount) * 100) : 100;
 
-    // Show score badge
-    const scoreBadge = $('#scoreBadge');
-    if (scoreBadge) {
-      scoreBadge.textContent = score;
-      scoreBadge.classList.add('show');
+    // Show score ring
+    const heroCard = $('#heroCard');
+    const statusPre = $('#statusPre');
+    const statusPost = $('#statusPost');
+    const ringFg = $('#ringFg');
+    const scoreNum = $('#scoreNum');
+    const verdict = $('#verdict');
+    const heroSub = $('#heroSub');
+    const barLeft = $('#barLeft');
+    const barRight = $('#barRight');
+    const barLegend = $('#barLegend');
+    const segProgress = $('#segProgress');
+    const segCorrect = $('#segCorrect');
+    const segPartial = $('#segPartial');
+    const segWrong = $('#segWrong');
+
+    const circumference = 2 * Math.PI * 39;
+    const tier = score >= 80 ? 'high' : score >= 50 ? 'mid' : 'low';
+    const verdicts = { high: 'EXCELLENT', mid: 'KEEP GOING', low: 'NEED REVIEW' };
+
+    if (heroCard) heroCard.classList.add('graded');
+    if (statusPre) statusPre.style.display = 'none';
+    if (statusPost) {
+      statusPost.style.display = 'flex';
+      statusPost.style.animation = 'none';
+      statusPost.offsetHeight;
+      statusPost.style.animation = '';
     }
+
+    // Animate ring
+    if (ringFg) {
+      ringFg.style.strokeDashoffset = circumference;
+      requestAnimationFrame(() => {
+        ringFg.style.strokeDashoffset = circumference - (score / 100) * circumference;
+      });
+    }
+
+    // Animate score number
+    if (scoreNum) animateNumber(scoreNum, 0, score, 1000);
+    if (verdict) verdict.textContent = verdicts[tier];
+    if (heroSub) heroSub.textContent = `Graded · ${new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}`;
+
+    // Update stacked bar
+    const total = correctCount + partialCount + incorrectCount;
+    if (barLeft) barLeft.textContent = `${total} / ${total} graded`;
+    if (barRight) barRight.textContent = `✓ ${correctCount}  △ ${partialCount}  ✗ ${incorrectCount}`;
+    if (barLegend) barLegend.style.display = 'flex';
+
+    if (segProgress) segProgress.style.width = '0%';
+    setTimeout(() => {
+      if (segCorrect) segCorrect.style.width = total > 0 ? `${(correctCount / total) * 100}%` : '0%';
+      if (segPartial) segPartial.style.width = total > 0 ? `${(partialCount / total) * 100}%` : '0%';
+      if (segWrong) segWrong.style.width = total > 0 ? `${(incorrectCount / total) * 100}%` : '0%';
+    }, 100);
 
       $('#gradeBtn').disabled = true;
       $('#gradeBtn').textContent = '✓ Graded';
@@ -1695,11 +1901,30 @@
     const gradeBtn = $('#gradeBtn');
     if (gradeBtn) { gradeBtn.disabled = false; gradeBtn.textContent = 'Grade'; }
 
-    // Hide score badge
-    const scoreBadge = $('#scoreBadge');
-    if (scoreBadge) {
-      scoreBadge.classList.remove('show');
-      scoreBadge.textContent = '';
+    // Reset hero card to pre-grade state
+    const heroCard = $('#heroCard');
+    const statusPre = $('#statusPre');
+    const statusPost = $('#statusPost');
+    const heroSub = $('#heroSub');
+    const barLegend = $('#barLegend');
+    const segProgress = $('#segProgress');
+    const segCorrect = $('#segCorrect');
+    const segPartial = $('#segPartial');
+    const segWrong = $('#segWrong');
+    const ringFg = $('#ringFg');
+
+    if (heroCard) heroCard.classList.remove('graded');
+    if (statusPre) statusPre.style.display = 'block';
+    if (statusPost) statusPost.style.display = 'none';
+    if (heroSub) heroSub.textContent = 'Enter the meaning and choose all matching synonyms for each word.';
+    if (barLegend) barLegend.style.display = 'none';
+    if (segProgress) segProgress.style.width = '0%';
+    if (segCorrect) segCorrect.style.width = '0%';
+    if (segPartial) segPartial.style.width = '0%';
+    if (segWrong) segWrong.style.width = '0%';
+    if (ringFg) {
+      const circumference = 2 * Math.PI * 39;
+      ringFg.style.strokeDashoffset = circumference;
     }
 
     updateProgress();
@@ -1758,6 +1983,11 @@
     QUESTIONS = data;
 
     render();
+
+    // Set word count
+    const countBig = $('#countBig');
+    if (countBig) countBig.textContent = QUESTIONS.length;
+
     restore();
     createProgressDots();
     attachAutosave();
