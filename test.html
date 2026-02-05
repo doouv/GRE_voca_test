@@ -254,7 +254,7 @@
       transition: background .8s ease;
     }
     .hero-card.graded::before {
-      background: linear-gradient(90deg, #6B7280 0%, #374151 100%);
+      background: linear-gradient(90deg, var(--blue) 0%, #1E40AF 100%);
     }
 
     .hero-inner {
@@ -350,7 +350,7 @@
 
     .ring-fg {
       fill: none;
-      stroke: #6B7280;
+      stroke: var(--blue);
       stroke-width: 6;
       stroke-linecap: round;
       stroke-dasharray: 245;
@@ -367,12 +367,14 @@
       font-size: 24px;
       font-weight: 700;
       letter-spacing: -1px;
+      color: var(--blue);
     }
 
     .score-number .pct {
       font-size: 13px;
       font-weight: 600;
-      color: var(--muted);
+      color: var(--blue);
+      opacity: 0.7;
     }
 
     .score-verdict {
@@ -382,8 +384,8 @@
       letter-spacing: 1.5px;
       padding: 3px 10px;
       border-radius: 999px;
-      background: rgba(107,114,128,.08);
-      color: #374151;
+      background: var(--blue-bg);
+      color: var(--blue);
     }
 
     /* Bar area: progress before grade, stacked ratio after grade */
@@ -423,7 +425,7 @@
       flex-shrink: 0;
     }
 
-    .legend-dot.g { background: var(--green); }
+    .legend-dot.b { background: var(--blue); }
     .legend-dot.a { background: var(--amber); }
     .legend-dot.r { background: var(--red); }
 
@@ -442,7 +444,7 @@
       width: 0%;
     }
 
-    .stacked-bar .seg.green { background: var(--green); }
+    .stacked-bar .seg.blue { background: var(--blue); }
     .stacked-bar .seg.amber { background: var(--amber); }
     .stacked-bar .seg.red { background: var(--red); }
     .stacked-bar .seg.dark { background: var(--text); }
@@ -506,7 +508,7 @@
       transition: border-color .3s, box-shadow .3s;
       box-shadow: var(--shadow-sm);
     }
-    .qcard.correct{ border-color: var(--green-border); box-shadow: 0 0 0 1px var(--green-border); }
+    .qcard.correct{ border-color: var(--blue-border); box-shadow: 0 0 0 1px var(--blue-border); }
     .qcard.partial{ border-color: var(--amber-border); box-shadow: 0 0 0 1px var(--amber-border); }
     .qcard.incorrect{ border-color: var(--red-border); box-shadow: 0 0 0 1px var(--red-border); }
 
@@ -555,7 +557,7 @@
       z-index: 5;
     }
     .result-badge.show{ display: inline-block; }
-    .result-badge.badge-correct{ background: var(--green-bg); color: var(--green); border: 1px solid var(--green-border); }
+    .result-badge.badge-correct{ background: var(--blue-bg); color: var(--blue); border: 1px solid var(--blue-border); }
     .result-badge.badge-partial{ background: var(--amber-bg); color: var(--amber); border: 1px solid var(--amber-border); }
     .result-badge.badge-incorrect{ background: var(--red-bg); color: var(--red); border: 1px solid var(--red-border); }
 
@@ -689,10 +691,10 @@
 
     /* Graded option states */
     .opt.opt-correct{
-      background: var(--green-bg);
-      border-color: var(--green-border);
+      background: var(--blue-bg);
+      border-color: var(--blue-border);
     }
-    .opt.opt-correct .opt-letter{ color: var(--green); }
+    .opt.opt-correct .opt-letter{ color: var(--blue); }
     .opt.opt-incorrect{
       background: var(--red-bg);
       border-color: var(--red-border);
@@ -725,11 +727,11 @@
       margin-bottom: 4px;
     }
     .answer-reveal.correct-reveal{
-      background: var(--green-bg);
-      border: 1px solid var(--green-border);
-      color: var(--green);
+      background: var(--blue-bg);
+      border: 1px solid var(--blue-border);
+      color: var(--blue);
     }
-    .answer-reveal.correct-reveal .answer-label{ color: var(--green); }
+    .answer-reveal.correct-reveal .answer-label{ color: var(--blue); }
     .answer-reveal.incorrect-reveal{
       background: var(--red-bg);
       border: 1px solid var(--red-border);
@@ -971,12 +973,12 @@
         </div>
         <div class="stacked-bar" id="stackedBar">
           <div class="seg dark" id="segProgress" style="width:0%"></div>
-          <div class="seg green" id="segCorrect" style="width:0%"></div>
+          <div class="seg blue" id="segCorrect" style="width:0%"></div>
           <div class="seg amber" id="segPartial" style="width:0%"></div>
           <div class="seg red" id="segWrong" style="width:0%"></div>
         </div>
         <div class="bar-legend" id="barLegend">
-          <span class="legend-item"><span class="legend-dot g"></span>Correct</span>
+          <span class="legend-item"><span class="legend-dot b"></span>Correct</span>
           <span class="legend-item"><span class="legend-dot a"></span>Partial</span>
           <span class="legend-item"><span class="legend-dot r"></span>Wrong</span>
         </div>
