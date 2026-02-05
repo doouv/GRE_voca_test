@@ -862,25 +862,32 @@
 
     /* Mobile button bar at bottom */
     @media (max-width: 700px) {
-      .topbar-inner { padding: 10px 12px; }
+      .topbar-inner {
+        padding: 10px 12px;
+        flex-wrap: nowrap;
+      }
       .controls {
-        width: 100%;
-        justify-content: space-between;
-        gap: 6px;
+        flex: 1;
+        justify-content: flex-end;
+        gap: 4px;
       }
       .controls .pill { display: none; } /* Hide save pill on mobile */
       .btn {
-        flex: 1;
-        padding: 11px 8px;
-        font-size: 13px;
+        padding: 10px 6px;
+        font-size: 12px;
         text-align: center;
         white-space: nowrap;
         min-width: 0;
       }
       .btn-text-full { display: none; }
       .btn-text-short { display: inline; }
-      .brand { min-width: auto; }
+      .brand { min-width: auto; flex-shrink: 0; }
       .brand > div { display: none; } /* Hide brand text on mobile */
+      .back-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 18px;
+      }
     }
 
     /* Hero card mobile */
