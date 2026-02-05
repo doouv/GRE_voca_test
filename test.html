@@ -164,6 +164,55 @@
       margin: 0 auto;
       padding: 24px 16px 80px;
     }
+
+    /* Progress Dots Panel */
+    .progress-dots-panel{
+      position: sticky;
+      top: 72px;
+      z-index: 40;
+      background: #FFFFFF;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow-sm);
+    }
+    .progress-dots-title{
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      color: var(--muted);
+      margin-bottom: 12px;
+    }
+    .progress-dots{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+    .progress-dot{
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #FFFFFF;
+      border: 2px solid var(--border);
+      cursor: pointer;
+      transition: all .2s ease;
+      flex-shrink: 0;
+    }
+    .progress-dot:hover{
+      border-color: var(--blue);
+      transform: scale(1.2);
+    }
+    .progress-dot.filled{
+      background: var(--text);
+      border-color: var(--text);
+    }
+    .progress-dot.current{
+      border-color: var(--blue);
+      box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.2);
+    }
     .hero{
       display: flex;
       flex-direction: column;
@@ -690,6 +739,11 @@
       </div>
     </div>
 
+    <div class="progress-dots-panel" id="progressDotsPanel" style="display: none;">
+      <div class="progress-dots-title">Question Progress</div>
+      <div class="progress-dots" id="progressDots"></div>
+    </div>
+
     <div class="questions" id="questions">
       <div class="loading">
         <div class="loading-spinner"></div>
@@ -1008,24 +1062,18 @@
           const letterSpan = el('span', { class: 'opt-letter', html: letter });
 
           const textSpan = el('span', { class: 'opt-text' });
-          const words = text.split(/\s+/);
-          words.forEach((word, wIdx) => {
-            const hw = el('span', {
-              class: 'hw',
-              'data-qid': q.qid,
-              'data-word': word.toLowerCase(),
-              html: esc(word)
-            });
-            hw.addEventListener('click', (e) => {
-              e.preventDefault();
-              e.stopPropagation();
-              toggleHighlight(q.qid, word.toLowerCase(), hw);
-            });
-            textSpan.appendChild(hw);
-            if (wIdx < words.length - 1) {
-              textSpan.appendChild(document.createTextNode(' '));
-            }
+          const hw = el('span', {
+            class: 'hw',
+            'data-qid': q.qid,
+            'data-text': text.toLowerCase(),
+            html: esc(text)
           });
+          hw.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            toggleHighlight(q.qid, text.toLowerCase(), hw);
+          });
+          textSpan.appendChild(hw);
 
           label.appendChild(input);
           label.appendChild(letterSpan);
@@ -1056,18 +1104,18 @@
   // ======================================================================
   // HIGHLIGHT LOGIC
   // ======================================================================
-  function toggleHighlight(qid, word, spanEl) {
+  function toggleHighlight(qid, text, spanEl) {
     if (isGraded) return;
 
     const set = highlightedWords[qid];
-    if (set.has(word)) {
-      set.delete(word);
-      document.querySelectorAll(`.hw[data-qid="${qid}"][data-word="${word}"]`).forEach(s => {
+    if (set.has(text)) {
+      set.delete(text);
+      document.querySelectorAll(`.hw[data-qid="${qid}"][data-text="${text}"]`).forEach(s => {
         s.classList.remove('highlighted');
       });
     } else {
-      set.add(word);
-      document.querySelectorAll(`.hw[data-qid="${qid}"][data-word="${word}"]`).forEach(s => {
+      set.add(text);
+      document.querySelectorAll(`.hw[data-qid="${qid}"][data-text="${text}"]`).forEach(s => {
         s.classList.add('highlighted');
       });
     }
@@ -1148,9 +1196,9 @@
       $$(`input[name="${q.qid}-syn"]`).forEach(chk => { chk.checked = picks.has(chk.value); });
 
       const savedHL = ans[q.qid]?.highlighted_words || [];
-      savedHL.forEach(word => {
-        highlightedWords[q.qid].add(word);
-        document.querySelectorAll(`.hw[data-qid="${q.qid}"][data-word="${word}"]`).forEach(s => {
+      savedHL.forEach(text => {
+        highlightedWords[q.qid].add(text);
+        document.querySelectorAll(`.hw[data-qid="${q.qid}"][data-text="${text}"]`).forEach(s => {
           s.classList.add('highlighted');
         });
       });
@@ -1202,6 +1250,70 @@
       updateProgress();
       setSaved(true);
     }, 300);
+  }
+
+  // ======================================================================
+  // PROGRESS DOTS
+  // ======================================================================
+  function createProgressDots() {
+    const dotsContainer = $('#progressDots');
+    const panel = $('#progressDotsPanel');
+
+    if (!dotsContainer || !panel) return;
+
+    dotsContainer.innerHTML = '';
+
+    QUESTIONS.forEach((q, idx) => {
+      const dot = el('div', {
+        class: 'progress-dot',
+        'data-qid': q.qid,
+        'data-index': idx
+      });
+
+      dot.addEventListener('click', () => {
+        const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
+        if (card) {
+          card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          updateCurrentDot(idx);
+        }
+      });
+
+      dotsContainer.appendChild(dot);
+    });
+
+    panel.style.display = 'block';
+    updateAllDots();
+  }
+
+  function updateDotState(qid) {
+    const dot = document.querySelector(`.progress-dot[data-qid="${qid}"]`);
+    if (!dot) return;
+
+    const meaningInput = $(`#${qid}-meaning`);
+    const hasMeaning = meaningInput && meaningInput.value.trim().length > 0;
+
+    if (hasMeaning) {
+      dot.classList.add('filled');
+    } else {
+      dot.classList.remove('filled');
+    }
+  }
+
+  function updateAllDots() {
+    QUESTIONS.forEach(q => {
+      updateDotState(q.qid);
+    });
+  }
+
+  function updateCurrentDot(index) {
+    $$('.progress-dot').forEach(dot => {
+      dot.classList.remove('current');
+    });
+
+    const currentDot = $(`.progress-dot[data-index="${index}"]`);
+    if (currentDot) {
+      currentDot.classList.add('current');
+    }
   }
 
   // ======================================================================
@@ -1457,6 +1569,7 @@
     $('#statStreak').innerHTML = '0 <span class="unit">🔥</span>';
     updateHighlightStat();
     updateProgress();
+    updateAllDots();
 
     localStorage.removeItem(STORAGE_KEY);
     setSaved(true);
@@ -1468,7 +1581,12 @@
   function attachAutosave() {
     QUESTIONS.forEach(q => {
       const m = $(`#${q.qid}-meaning`);
-      if (m) m.addEventListener('input', scheduleSave);
+      if (m) {
+        m.addEventListener('input', () => {
+          scheduleSave();
+          updateDotState(q.qid);
+        });
+      }
       $$(`input[name="${q.qid}-syn"]`).forEach(chk => {
         chk.addEventListener('change', scheduleSave);
       });
@@ -1507,6 +1625,7 @@
 
     render();
     restore();
+    createProgressDots();
     attachAutosave();
 
     $('#saveBtn').addEventListener('click', () => { saveAnswers(collectAnswers()); updateProgress(); setSaved(true); });
