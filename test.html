@@ -200,6 +200,11 @@
       cursor: pointer;
       transition: all .2s ease;
       flex-shrink: 0;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 8px;
     }
     .progress-dot:hover{
       border-color: var(--blue);
@@ -208,6 +213,16 @@
     .progress-dot.filled{
       background: var(--text);
       border-color: var(--text);
+    }
+    .progress-dot.checked{
+      background: var(--green);
+      border-color: var(--green);
+      color: white;
+      font-weight: 800;
+    }
+    .progress-dot.checked::after{
+      content: '✓';
+      font-size: 9px;
     }
     .progress-dot.current{
       border-color: var(--blue);
@@ -334,11 +349,43 @@
     .qcard.partial{ border-color: var(--amber-border); box-shadow: 0 0 0 1px var(--amber-border); }
     .qcard.incorrect{ border-color: var(--red-border); box-shadow: 0 0 0 1px var(--red-border); }
 
+    /* Manual check circle */
+    .check-circle{
+      position: absolute;
+      top: 12px; right: 12px;
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      border: 2px solid var(--border);
+      background: #FFFFFF;
+      cursor: pointer;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      transition: all .2s ease;
+      touch-action: manipulation;
+    }
+    .check-circle:hover{
+      border-color: var(--green);
+      transform: scale(1.1);
+    }
+    .check-circle.checked{
+      background: var(--green);
+      border-color: var(--green);
+      color: white;
+    }
+    .check-circle.checked::after{
+      content: '✓';
+      font-weight: 800;
+    }
+
     /* Result badge */
     .result-badge{
       display: none;
       position: absolute;
-      top: 14px; right: 14px;
+      top: 14px; right: 40px;
       padding: 5px 12px;
       border-radius: 999px;
       font-size: 11px;
@@ -775,6 +822,7 @@
   let currentStreak = 0;
   let bestStreak = 0;
   let highlightedWords = {};
+  let manualChecks = {}; // Track manual check state for each question
 
   const STORAGE_KEY = MODE === 'random'
     ? `gre_vocab_answers_random_${RANDOM_FROM}_${RANDOM_TO}_${RANDOM_COUNT}`
@@ -1019,8 +1067,18 @@
 
     QUESTIONS.forEach((q, idx) => {
       if (!highlightedWords[q.qid]) highlightedWords[q.qid] = new Set();
+      if (manualChecks[q.qid] === undefined) manualChecks[q.qid] = false;
 
       const card = el('div', { class: 'qcard', 'data-qid': q.qid });
+
+      // Check circle
+      const checkCircle = el('div', { class: 'check-circle', id: `check-${q.qid}`, 'data-qid': q.qid });
+      checkCircle.addEventListener('click', (e) => {
+        e.stopPropagation();
+        toggleManualCheck(q.qid);
+      });
+      card.appendChild(checkCircle);
+
       const badge = el('div', { class: 'result-badge', id: `badge-${q.qid}` });
       card.appendChild(badge);
 
@@ -1180,7 +1238,8 @@
         meaning,
         syn_choices: syn,
         options: q.options || {},
-        highlighted_words: hl
+        highlighted_words: hl,
+        manual_check: manualChecks[q.qid] || false
       };
     });
     return out;
@@ -1203,9 +1262,18 @@
         });
       });
       updateHighlightPanel(q.qid);
+
+      // Restore manual check state
+      const isChecked = ans[q.qid]?.manual_check || false;
+      manualChecks[q.qid] = isChecked;
+      const checkCircle = $(`#check-${q.qid}`);
+      if (checkCircle && isChecked) {
+        checkCircle.classList.add('checked');
+      }
     });
     updateHighlightStat();
     updateProgress();
+    updateAllDots();
     setSaved(true);
   }
 
@@ -1253,6 +1321,27 @@
   }
 
   // ======================================================================
+  // MANUAL CHECK TOGGLE
+  // ======================================================================
+  function toggleManualCheck(qid) {
+    if (isGraded) return;
+
+    manualChecks[qid] = !manualChecks[qid];
+
+    const checkCircle = $(`#check-${qid}`);
+    if (checkCircle) {
+      if (manualChecks[qid]) {
+        checkCircle.classList.add('checked');
+      } else {
+        checkCircle.classList.remove('checked');
+      }
+    }
+
+    updateDotState(qid);
+    scheduleSave();
+  }
+
+  // ======================================================================
   // PROGRESS DOTS
   // ======================================================================
   function createProgressDots() {
@@ -1291,11 +1380,15 @@
 
     const meaningInput = $(`#${qid}-meaning`);
     const hasMeaning = meaningInput && meaningInput.value.trim().length > 0;
+    const isManuallyChecked = manualChecks[qid] === true;
 
-    if (hasMeaning) {
+    // Remove all state classes first
+    dot.classList.remove('filled', 'checked');
+
+    if (isManuallyChecked) {
+      dot.classList.add('checked');
+    } else if (hasMeaning) {
       dot.classList.add('filled');
-    } else {
-      dot.classList.remove('filled');
     }
   }
 
@@ -1560,6 +1653,13 @@
         s.classList.remove('highlighted');
       });
       updateHighlightPanel(q.qid);
+
+      // Reset manual check
+      manualChecks[q.qid] = false;
+      const checkCircle = $(`#check-${q.qid}`);
+      if (checkCircle) {
+        checkCircle.classList.remove('checked');
+      }
     });
 
     const gradeBtn = $('#gradeBtn');
