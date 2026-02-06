@@ -1,0 +1,2144 @@
+[
+  {
+    "id": "001",
+    "word": "precept",
+    "pos": "n.",
+    "head_meanings": [
+      "교훈",
+      "훈시",
+      "계율",
+      "격언",
+      "원리",
+      "지침"
+    ],
+    "synonyms_from_image": [
+      "principle",
+      "teaching",
+      "maxim",
+      "axiom",
+      "order",
+      "rule",
+      "instruction",
+      "prescription"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "precipice",
+    "pos": "n.",
+    "head_meanings": [
+      "절벽",
+      "벼랑"
+    ],
+    "synonyms_from_image": [
+      "ledge",
+      "escarpment",
+      "bluff",
+      "headland",
+      "palisade"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "precipitate",
+    "pos": "adj.",
+    "head_meanings": [
+      "경솔한",
+      "무모한",
+      "다급한",
+      "속단하는",
+      "덤비는",
+      "급한"
+    ],
+    "synonyms_from_image": [
+      "fast",
+      "hasty",
+      "impulsive",
+      "reckless"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "precipitate",
+    "pos": "v.",
+    "head_meanings": [
+      "던져 버리다",
+      "재촉하다",
+      "촉진시키다"
+    ],
+    "synonyms_from_image": [
+      "bring on",
+      "quicken",
+      "expedite",
+      "accelerate",
+      "speed up"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "precipitor",
+    "pos": "n.",
+    "head_meanings": [
+      "촉진하는 물건(사람)",
+      "[화학] 침전제"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "006",
+    "word": "precipitous",
+    "pos": "adj.",
+    "head_meanings": [
+      "가파르다",
+      "절벽을 이룬"
+    ],
+    "synonyms_from_image": [
+      "perpendicular",
+      "abrupt",
+      "sheer"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "precise",
+    "pos": "adj.",
+    "head_meanings": [
+      "명확한",
+      "정확한",
+      "꼼꼼한",
+      "엄격한",
+      "세심한"
+    ],
+    "synonyms_from_image": [
+      "strict",
+      "accurate",
+      "careful",
+      "painstaking",
+      "meticulous"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "precision",
+    "pos": "n.",
+    "head_meanings": [
+      "정확",
+      "정밀",
+      "꼼꼼함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "009",
+    "word": "preclude",
+    "pos": "v.",
+    "head_meanings": [
+      "일어나지 않게 하다",
+      "불가능하게 하다",
+      "방해하다",
+      "막다",
+      "배제하다"
+    ],
+    "synonyms_from_image": [
+      "prevent",
+      "hamper",
+      "hinder",
+      "inhibit",
+      "forestall",
+      "make it impossible for",
+      "rule out",
+      "stop",
+      "prohibit",
+      "bar",
+      "impede",
+      "exclude"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "precocious",
+    "pos": "adj.",
+    "head_meanings": [
+      "조숙한",
+      "발달이 빠른",
+      "일찍 꽃피는",
+      "시기적으로 빠른"
+    ],
+    "synonyms_from_image": [
+      "mature",
+      "premature",
+      "quick",
+      "apt"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "precocity",
+    "pos": "n.",
+    "head_meanings": [
+      "조숙",
+      "속성",
+      "발달이 빠름",
+      "시기적으로 빠름"
+    ],
+    "synonyms_from_image": [
+      "precociousness",
+      "advanced for one's age",
+      "forward",
+      "mature"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "preconception",
+    "pos": "n.",
+    "head_meanings": [
+      "선입견",
+      "편견",
+      "예상"
+    ],
+    "synonyms_from_image": [
+      "preconceived idea/notion",
+      "presupposition",
+      "assumption",
+      "presumption",
+      "prejudgement",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "precursor",
+    "pos": "n.",
+    "head_meanings": [
+      "전조자",
+      "선봉",
+      "선임자",
+      "선배",
+      "선조"
+    ],
+    "synonyms_from_image": [
+      "forerunner"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "predate",
+    "pos": "v.",
+    "head_meanings": [
+      "~보다 먼저(앞서) 오다"
+    ],
+    "synonyms_from_image": [
+      "antedate"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "predatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "약탈하는",
+      "약탈을 목적으로 한",
+      "육식하는"
+    ],
+    "synonyms_from_image": [
+      "plunderous",
+      "rapacious",
+      "looting",
+      "carnivorous"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "predator",
+    "pos": "n.",
+    "head_meanings": [
+      "포식자",
+      "약탈자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "017",
+    "word": "predecessor",
+    "pos": "n.",
+    "head_meanings": [
+      "전임자",
+      "선배",
+      "전의 것",
+      "앞서 있었던 것",
+      "선조"
+    ],
+    "synonyms_from_image": [
+      "ancestor",
+      "progenitor",
+      "forerunner",
+      "antecedent",
+      "precursor"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "predetermined",
+    "pos": "adj.",
+    "head_meanings": [
+      "미리 결정된",
+      "운명 지어진"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "019",
+    "word": "predicament",
+    "pos": "n.",
+    "head_meanings": [
+      "곤경",
+      "궁지",
+      "(논리적, 철학적 단정의) 종류",
+      "단정된 것",
+      "범주"
+    ],
+    "synonyms_from_image": [
+      "plight",
+      "quandary",
+      "dilemma",
+      "scrape"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "predictable",
+    "pos": "adj.",
+    "head_meanings": [
+      "예언(예보)",
+      "예측 가능한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "021",
+    "word": "predilection",
+    "pos": "n.",
+    "head_meanings": [
+      "편애",
+      "선입적 애호",
+      "두둔",
+      "역성"
+    ],
+    "synonyms_from_image": [
+      "proclivity"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "predominant",
+    "pos": "adj.",
+    "head_meanings": [
+      "우월한",
+      "우수한",
+      "(...에 대해서) 권력을 가진",
+      "영향력 있는",
+      "우세한",
+      "지배적인"
+    ],
+    "synonyms_from_image": [
+      "controlling",
+      "ascendant",
+      "ruling",
+      "leading",
+      "principal",
+      "chief"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "predominate",
+    "pos": "v.",
+    "head_meanings": [
+      "우세하다",
+      "주권을 장악하다",
+      "지배력을 갖다",
+      "탁월하다",
+      "두드러지다",
+      "지배하다"
+    ],
+    "synonyms_from_image": [
+      "be in the majority",
+      "preponderate",
+      "prevail",
+      "be most prominent",
+      "override",
+      "outweigh"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "preeminent",
+    "pos": "adj.",
+    "head_meanings": [
+      "걸출한",
+      "뛰어난",
+      "탁월한",
+      "두드러진",
+      "현저한"
+    ],
+    "synonyms_from_image": [
+      "superior to",
+      "notable above all others",
+      "outstanding",
+      "foremost",
+      "paramount",
+      "greatest",
+      "distinguished",
+      "peerless"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "preempt",
+    "pos": "v.",
+    "head_meanings": [
+      "선매권에 의하여 획득하다",
+      "선취하다",
+      "남보다 먼저 손에 넣다(점유하다)"
+    ],
+    "synonyms_from_image": [
+      "adopt",
+      "assume",
+      "usurp",
+      "take over",
+      "claim"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "preemptive",
+    "pos": "adj.",
+    "head_meanings": [
+      "선매권의",
+      "선매권이 있는",
+      "선제(공격)의",
+      "우선권이 있는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "027",
+    "word": "preen",
+    "pos": "v.",
+    "head_meanings": [
+      "[새가] 깃털을 다듬다",
+      "정성껏 몸치장을 하다",
+      "[사람이] 뽐내다",
+      "우쭐대다",
+      "의기양양해하다",
+      "기뻐하다"
+    ],
+    "synonyms_from_image": [
+      "clean",
+      "arrange",
+      "groom",
+      "plume",
+      "admire oneself",
+      "primp oneself",
+      "groom oneself",
+      "spruce oneself up",
+      "be proud of oneself",
+      "feel self-satisfied",
+      "brag",
+      "pride"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "prefigure",
+    "pos": "v.",
+    "head_meanings": [
+      "예시(예표)하다",
+      "예상하다",
+      "~의 형상을 미리 나타내다"
+    ],
+    "synonyms_from_image": [
+      "anticipate"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "prehensile",
+    "pos": "adj.",
+    "head_meanings": [
+      "[발, 꼬리 등이] 물건을 잡기에 적합한",
+      "쥐는 힘이 있는",
+      "[사람이] 이해력이 있는",
+      "파악력이 있는"
+    ],
+    "synonyms_from_image": [
+      "knowing",
+      "cognizant",
+      "conscious",
+      "aware",
+      "understanding",
+      "comprehensive"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "premeditate",
+    "pos": "v.",
+    "head_meanings": [
+      "~을 미리 고려(계획)하다"
+    ],
+    "synonyms_from_image": [
+      "prearrange",
+      "plot",
+      "predetermine",
+      "purpose",
+      "deliberate"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "premeditated",
+    "pos": "adj.",
+    "head_meanings": [
+      "미리 계획된",
+      "사전 모의한",
+      "계획적인"
+    ],
+    "synonyms_from_image": [
+      "planned",
+      "intentional",
+      "deliberate",
+      "pre-planned",
+      "calculated"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "premiership",
+    "pos": "n.",
+    "head_meanings": [
+      "수상의 임기(지위)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "033",
+    "word": "premise",
+    "pos": "n.",
+    "head_meanings": [
+      "(논리) 전제",
+      "[pl.] 토지",
+      "부동산",
+      "[pl.] 건물이딸린 토지",
+      "구내",
+      "건물",
+      "점포(내)",
+      "사업장"
+    ],
+    "synonyms_from_image": [
+      "presumption",
+      "presupposition",
+      "supposition",
+      "property",
+      "site"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "premonition",
+    "pos": "n.",
+    "head_meanings": [
+      "예고",
+      "징조",
+      "전조",
+      "예감"
+    ],
+    "synonyms_from_image": [
+      "foreboding",
+      "omen",
+      "portent",
+      "prediction"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "premonitory",
+    "pos": "adj.",
+    "head_meanings": [
+      "예고하는",
+      "전조의",
+      "미리 경고하는"
+    ],
+    "synonyms_from_image": [
+      "augural",
+      "forewarning",
+      "predictive",
+      "foreseeing"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "preoccupation",
+    "pos": "n.",
+    "head_meanings": [
+      "선점(先取)",
+      "열중",
+      "(...의) 몰두(with ...)"
+    ],
+    "synonyms_from_image": [
+      "pensiveness",
+      "concentration",
+      "engrossment",
+      "absorption",
+      "musing",
+      "distraction",
+      "forgetfulness",
+      "obsession",
+      "concern",
+      "enthusiasm"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "preoccupied",
+    "pos": "adj.",
+    "head_meanings": [
+      "몰두한",
+      "여념이 없는",
+      "정신이 팔린",
+      "선점된",
+      "이미 사용된"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "038",
+    "word": "preponderate",
+    "pos": "v.",
+    "head_meanings": [
+      "무게(힘, 영향력, 수량 등)에서 (...)을 능가하다",
+      "...보다 중요하다",
+      "<저울의 접시가 한쪽으로 기울다, 쏠리다>",
+      "우위를 차지하다",
+      "영향력이 있다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "039",
+    "word": "preponderance",
+    "pos": "n.",
+    "head_meanings": [
+      "(중량에 있어서) 우월함",
+      "우세",
+      "우위"
+    ],
+    "synonyms_from_image": [
+      "ascendancy",
+      "influence",
+      "majority",
+      "predominance",
+      "dominance"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "prepossessing",
+    "pos": "adj.",
+    "head_meanings": [
+      "좋은 인상을 주는",
+      "인상이 좋은",
+      "호감을 가지게 하는"
+    ],
+    "synonyms_from_image": [
+      "attractive",
+      "beautiful",
+      "good-looking",
+      "enchanting",
+      "captivating"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "preposterous",
+    "pos": "adj.",
+    "head_meanings": [
+      "터무니 없는",
+      "비정상의",
+      "부자연스러운",
+      "불합리한",
+      "어리석은"
+    ],
+    "synonyms_from_image": [
+      "outrageous",
+      "ludicrous",
+      "fatuous",
+      "foolish",
+      "silly"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "prerequisite",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "사전에 필요한",
+      "(...에) 빼놓을 수 없는",
+      "사전에 필요한 것",
+      "(...의) 필요(전제)조건"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "043",
+    "word": "prerogative",
+    "pos": "n.",
+    "head_meanings": [
+      "특권",
+      "특전",
+      "대리"
+    ],
+    "synonyms_from_image": [
+      "claim",
+      "interest",
+      "authority",
+      "warrant"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "presage",
+    "pos": "v.",
+    "head_meanings": [
+      "전조가 되다",
+      "예언하다",
+      "예고하다",
+      "육감이 들다",
+      "예감이 들다"
+    ],
+    "synonyms_from_image": [
+      "portend",
+      "portend",
+      "predict",
+      "augur",
+      "foretell",
+      "foreshow",
+      "foreshadow",
+      "prophesy",
+      "foresee",
+      "forecast",
+      "be an omen of",
+      "herald",
+      "be the harbinger of",
+      "warn of",
+      "signal",
+      "bode",
+      "betoken",
+      "omen",
+      "sign",
+      "indication",
+      "portent",
+      "warning",
+      "forewarning",
+      "harbinger",
+      "augury",
+      "prophecy",
+      "foretoken"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "prescience",
+    "pos": "n.",
+    "head_meanings": [
+      "예지",
+      "통찰",
+      "선견지명"
+    ],
+    "synonyms_from_image": [
+      "foreknowledge",
+      "foresight",
+      "foreboding"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "prescient",
+    "pos": "adj.",
+    "head_meanings": [
+      "예지의",
+      "선견지명이 있는",
+      "미리 아는",
+      "통찰력이 있는"
+    ],
+    "synonyms_from_image": [
+      "prophetic",
+      "predictive",
+      "visionary",
+      "psychic",
+      "clairvoyant",
+      "far-sighted",
+      "prognostic",
+      "insightful",
+      "intuitive",
+      "perceptive",
+      "percipient"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "prescribe",
+    "pos": "v.",
+    "head_meanings": [
+      "정하다",
+      "명(령)하다",
+      "규정하다",
+      "지시하다",
+      "처방하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "048",
+    "word": "prescription",
+    "pos": "n.",
+    "head_meanings": [
+      "처방",
+      "처방전",
+      "처방약",
+      "규정",
+      "지시",
+      "명령"
+    ],
+    "synonyms_from_image": [
+      "recipe",
+      "remedy",
+      "treatment"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "presentiment",
+    "pos": "n.",
+    "head_meanings": [
+      "예감",
+      "육감",
+      "전조",
+      "조짐"
+    ],
+    "synonyms_from_image": [
+      "prescience",
+      "omen",
+      "forewarning"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "preservative",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "방부제",
+      "보존하는",
+      "방부의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "051",
+    "word": "pressing",
+    "pos": "adj.",
+    "head_meanings": [
+      "급무",
+      "문제 따위가 긴급한",
+      "(urgent) 절박한",
+      "감장하는",
+      "귀찮게 조르는",
+      "필요한"
+    ],
+    "synonyms_from_image": [
+      "exigent"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "prestige",
+    "pos": "n.",
+    "head_meanings": [
+      "명성",
+      "신망",
+      "위신",
+      "세력"
+    ],
+    "synonyms_from_image": [
+      "authority",
+      "influence",
+      "notability",
+      "reputation",
+      "respect"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "prestigious",
+    "pos": "adj.",
+    "head_meanings": [
+      "유명한",
+      "일류의",
+      "신망이 있는",
+      "이름난",
+      "세상에 알려진"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "054",
+    "word": "presume",
+    "pos": "v.",
+    "head_meanings": [
+      "추정(가정)하다",
+      "간주하다"
+    ],
+    "synonyms_from_image": [
+      "presuppose",
+      "assume",
+      "suppose",
+      "conjecture",
+      "speculate",
+      "postulate",
+      "venture",
+      "dare",
+      "be so bold as"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "presumption",
+    "pos": "n.",
+    "head_meanings": [
+      "추정",
+      "가정",
+      "(dare) 감히 ~하다",
+      "주제넘게 나서다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "056",
+    "word": "presumptuous",
+    "pos": "adj.",
+    "head_meanings": [
+      "뻔뻔스러운",
+      "주제넘은",
+      "건방진",
+      "염치 없는"
+    ],
+    "synonyms_from_image": [
+      "brazen",
+      "arrogant",
+      "bold",
+      "audacious",
+      "forward",
+      "impertinent",
+      "insolent",
+      "impudent",
+      "dictatorial",
+      "haughty",
+      "snobbish",
+      "supercilious",
+      "rude",
+      "impolite",
+      "uncivil",
+      "bumptious",
+      "sassy",
+      "saucy"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "pretend",
+    "pos": "v.",
+    "head_meanings": [
+      "~인 체하다",
+      "가장하다",
+      "사칭하다",
+      "속이다",
+      "(거짓으로) 주장하다",
+      "(부당하게) 요구하다"
+    ],
+    "synonyms_from_image": [
+      "make as if",
+      "profess",
+      "affect",
+      "dissimulate",
+      "dissemble",
+      "sham",
+      "fake",
+      "feign",
+      "counterfeit",
+      "claim",
+      "lay claim to",
+      "purport to have",
+      "profess to have"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "pretentious",
+    "pos": "adj.",
+    "head_meanings": [
+      "[사람이] 자만하는",
+      "자부하는",
+      "[태도, 이야기 따위가] 젠체하는",
+      "건방진",
+      "허세부리는",
+      "거드름 피우는",
+      "거짓의"
+    ],
+    "synonyms_from_image": [
+      "affected",
+      "ostentatious",
+      "showy",
+      "boastful",
+      "grandiloquent",
+      "magniloquent",
+      "pompous",
+      "artificial",
+      "inflated",
+      "flowery",
+      "grandiose",
+      "elaborate",
+      "flamboyant",
+      "ornate"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "pretentiousness",
+    "pos": "n.",
+    "head_meanings": [
+      "허세",
+      "젠체함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "060",
+    "word": "preternatural",
+    "pos": "adj.",
+    "head_meanings": [
+      "이상한",
+      "불가사의한",
+      "초자연적인"
+    ],
+    "synonyms_from_image": [
+      "supernatural",
+      "unusual",
+      "superhuman",
+      "occult",
+      "mystical"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "pretext",
+    "pos": "n.",
+    "head_meanings": [
+      "구실",
+      "그럴싸한 핑계",
+      "변명",
+      "해명"
+    ],
+    "synonyms_from_image": [
+      "alleged reason",
+      "professed purpose",
+      "basis",
+      "pretense"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "prevail",
+    "pos": "v.",
+    "head_meanings": [
+      "만연되다",
+      "우세하다",
+      "이기다",
+      "극복하다",
+      "압도하다",
+      "지배적이다",
+      "능가하다",
+      "승리하다",
+      "성공하다",
+      "설득하다",
+      "잘 유도하다(권유하다)"
+    ],
+    "synonyms_from_image": [
+      "triumph",
+      "be prevalent",
+      "abound",
+      "reign",
+      "win",
+      "succeed",
+      "conquer",
+      "overcome",
+      "rule",
+      "reign"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "prevailing",
+    "pos": "adj.",
+    "head_meanings": [
+      "(의견이) 널리 퍼진",
+      "일반적인",
+      "유명한",
+      "우세한",
+      "지배적인",
+      "유력한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "064",
+    "word": "prevalent",
+    "pos": "adj.",
+    "head_meanings": [
+      "널리 퍼진",
+      "유행하고 있는",
+      "일반적인",
+      "우세한",
+      "주된"
+    ],
+    "synonyms_from_image": [
+      "widespread",
+      "extensive",
+      "numerous",
+      "common",
+      "general",
+      "abundant",
+      "rampant",
+      "normal"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "prevalence",
+    "pos": "n.",
+    "head_meanings": [
+      "널리 퍼짐",
+      "유행",
+      "우세",
+      "주된"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "066",
+    "word": "prevaricate",
+    "pos": "v.",
+    "head_meanings": [
+      "어물어물 넘기다",
+      "얼버무리다",
+      "발뺌하다",
+      "속이다",
+      "거짓말을 하다"
+    ],
+    "synonyms_from_image": [
+      "be evasive",
+      "hedge",
+      "dodge (the issue)",
+      "equivocate",
+      "palter",
+      "tergiversate",
+      "dissemble",
+      "perjure",
+      "deceive",
+      "falsify"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "prevarication",
+    "pos": "n.",
+    "head_meanings": [
+      "거짓말",
+      "발뺌"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "068",
+    "word": "preventative",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "예방적인",
+      "방지적인",
+      "막는",
+      "방어하는",
+      "예방(법)",
+      "방지책",
+      "방해물",
+      "피임약"
+    ],
+    "synonyms_from_image": [
+      "prophylactic",
+      "preventative"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "primeval",
+    "pos": "adj.",
+    "head_meanings": [
+      "원시(시대)의",
+      "고대의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "070",
+    "word": "primitive",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "원시의",
+      "초기의",
+      "태고의",
+      "미개한",
+      "미발달의",
+      "자연의",
+      "발달과정의 초기",
+      "원시적인",
+      "구식의",
+      "근본의",
+      "기본의"
+    ],
+    "synonyms_from_image": [
+      "rudimentary"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "primordial",
+    "pos": "adj.",
+    "head_meanings": [
+      "최초의",
+      "초기의",
+      "원시의",
+      "근본적인"
+    ],
+    "synonyms_from_image": [
+      "primitive",
+      "primeval",
+      "prehistoric",
+      "original",
+      "elementary"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "principled",
+    "pos": "adj.",
+    "head_meanings": [
+      "(...의) 주의를 가진",
+      "절조 있는",
+      "원칙(도)에 의거한",
+      "규율(윤리)적인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "073",
+    "word": "pristine",
+    "pos": "adj.",
+    "head_meanings": [
+      "본래의",
+      "초기의",
+      "원시대의",
+      "원래의",
+      "소박한",
+      "오염되지 않은",
+      "자연 그대로의",
+      "신선한"
+    ],
+    "synonyms_from_image": [
+      "unblemished",
+      "flawless",
+      "perfect",
+      "pure",
+      "unsullied",
+      "untouched",
+      "untarnished",
+      "unpolluted",
+      "incipient",
+      "initial",
+      "natural",
+      "simple",
+      "undamaged",
+      "immaculate",
+      "as new",
+      "unspoiled",
+      "unspoilt",
+      "spotless",
+      "unused"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "privation",
+    "pos": "n.",
+    "head_meanings": [
+      "(사는 데 중요한 것의) 박탈",
+      "결핍",
+      "상실",
+      "(생활 필수품 등의) 결핍",
+      "궁핍",
+      "부족",
+      "고난",
+      "성질 결여",
+      "결실"
+    ],
+    "synonyms_from_image": [
+      "poverty",
+      "impoverishment",
+      "need",
+      "lack",
+      "destitution"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "privilege",
+    "pos": "n.",
+    "head_meanings": [
+      "특권",
+      "특전",
+      "명예",
+      "특권",
+      "기본적 권리"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "076",
+    "word": "prize",
+    "pos": "v./n.",
+    "head_meanings": [
+      "~을 소중히 하다",
+      "귀중히 여기다",
+      "기다",
+      "평가하다",
+      "상"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "077",
+    "word": "probe",
+    "pos": "v./n.",
+    "head_meanings": [
+      "면밀히(정밀) 조사하다",
+      "탐색하다",
+      "(상처 등을) 탐침으로 살피다(조사하다)",
+      "엄밀히 검사하다",
+      "(외과용) 탐침",
+      "우주 탐사기"
+    ],
+    "synonyms_from_image": [
+      "investigate",
+      "scrutinize",
+      "look into",
+      "inspect",
+      "pry into",
+      "study",
+      "examine",
+      "test",
+      "look for",
+      "seek",
+      "search",
+      "feel out"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "probity",
+    "pos": "n.",
+    "head_meanings": [
+      "고결",
+      "청렴(결백)",
+      "성실"
+    ],
+    "synonyms_from_image": [
+      "honesty",
+      "integrity",
+      "rectitude",
+      "decency",
+      "morality",
+      "virtue"
+    ]
+  },
+  {
+    "id": "079",
+    "word": "problematic",
+    "pos": "adj.",
+    "head_meanings": [
+      "문제의",
+      "의문의",
+      "의심스러운",
+      "결정하기 어려운",
+      "미정의"
+    ],
+    "synonyms_from_image": [
+      "dubious",
+      "uncertain",
+      "doubtful",
+      "indeterminate",
+      "undecided"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "proclaim",
+    "pos": "v.",
+    "head_meanings": [
+      "선언하다",
+      "공표(선포)하다",
+      "분명히 나타내다",
+      "증명하다"
+    ],
+    "synonyms_from_image": [
+      "profess"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "proclivity",
+    "pos": "n.",
+    "head_meanings": [
+      "성향",
+      "성벽",
+      "기질",
+      "경향",
+      "기호"
+    ],
+    "synonyms_from_image": [
+      "predilection",
+      "propensity",
+      "predisposition",
+      "bent",
+      "penchant",
+      "disposition",
+      "inclination",
+      "prejudice",
+      "bias",
+      "leaning",
+      "liking",
+      "preference",
+      "fondness"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "procrastinate",
+    "pos": "v.",
+    "head_meanings": [
+      "꾸물거리다",
+      "질질 끌다",
+      "연기하다"
+    ],
+    "synonyms_from_image": [
+      "stall",
+      "prolong",
+      "defer",
+      "hold back"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "procurement",
+    "pos": "n.",
+    "head_meanings": [
+      "입수",
+      "획득",
+      "달성",
+      "처리",
+      "주선"
+    ],
+    "synonyms_from_image": [
+      "obtainment",
+      "gain",
+      "achievement",
+      "attainment"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "prod",
+    "pos": "v./n.",
+    "head_meanings": [
+      "찌르다",
+      "쑤시다",
+      "자극하다",
+      "일깨우다",
+      "쑤시기",
+      "찌르기",
+      "(가축을 몰기 위한) 막대"
+    ],
+    "synonyms_from_image": [
+      "jab",
+      "prick",
+      "needle",
+      "stir up",
+      "urge",
+      "stimulate",
+      "impel",
+      "incite",
+      "prompt"
+    ]
+  },
+  {
+    "id": "085",
+    "word": "prodigal",
+    "pos": "adj.",
+    "head_meanings": [
+      "낭비하는",
+      "방탕한",
+      "아까운 줄 모르는"
+    ],
+    "synonyms_from_image": [
+      "extravagant",
+      "intemperate",
+      "lavish"
+    ]
+  },
+  {
+    "id": "086",
+    "word": "prodigious",
+    "pos": "adj.",
+    "head_meanings": [
+      "거대한",
+      "막대한",
+      "엄청난",
+      "경이적인",
+      "비상한"
+    ],
+    "synonyms_from_image": [
+      "huge",
+      "large",
+      "vast",
+      "extraordinary",
+      "wonderful",
+      "supernatural"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "prodigy",
+    "pos": "n.",
+    "head_meanings": [
+      "천재",
+      "신동",
+      "놀라운 일",
+      "기이한 현상",
+      "괴이한 것"
+    ],
+    "synonyms_from_image": [
+      "great talent",
+      "child genius",
+      "wonder",
+      "sensation",
+      "phenomenon"
+    ]
+  },
+  {
+    "id": "088",
+    "word": "productivity",
+    "pos": "n.",
+    "head_meanings": [
+      "생산력",
+      "생산성",
+      "다산",
+      "비옥",
+      "풍요",
+      "다작"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "089",
+    "word": "profane",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "(신성을) 더럽히다",
+      "모독하다",
+      "오용하다",
+      "비속한",
+      "세속적인",
+      "이단의"
+    ],
+    "synonyms_from_image": [
+      "debase",
+      "abuse",
+      "defile",
+      "desecrate",
+      "misuse"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "profess",
+    "pos": "v.",
+    "head_meanings": [
+      "공언하다",
+      "단언하다",
+      "분명히 말하다",
+      "~을 믿음을 고백하다",
+      "~인 체하다",
+      "~라고 자칭하다",
+      "가장하다",
+      "교수하다",
+      "직업으로 하다"
+    ],
+    "synonyms_from_image": [
+      "proclaim"
+    ]
+  },
+  {
+    "id": "091",
+    "word": "proffer",
+    "pos": "v.",
+    "head_meanings": [
+      "~을 내놓다",
+      "제의하다",
+      "제공하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "092",
+    "word": "proficient",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "숙달한",
+      "숙련된",
+      "능숙한",
+      "숙달자",
+      "명인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "093",
+    "word": "profit-monger",
+    "pos": "n.",
+    "head_meanings": [
+      "돈을 버는 것에 정신 팔린 사람",
+      "돈 쫓는 사람"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "094",
+    "word": "profligate",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "방탕한",
+      "난봉꾼",
+      "낭비하는",
+      "탕진하는",
+      "방탕자"
+    ],
+    "synonyms_from_image": [
+      "wasteful",
+      "extravagant",
+      "spendthrift",
+      "improvident",
+      "prodigal"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "profound",
+    "pos": "adj.",
+    "head_meanings": [
+      "깊은",
+      "심오한",
+      "난해한",
+      "충심의",
+      "완전한",
+      "순전한"
+    ],
+    "synonyms_from_image": [
+      "discerning",
+      "penetrating",
+      "perceptive",
+      "astute",
+      "insightful",
+      "perspicacious",
+      "sapient",
+      "thoughtful",
+      "philosophical",
+      "deep",
+      "serious",
+      "wise",
+      "difficult",
+      "complex",
+      "abstract",
+      "abstruse",
+      "recondite",
+      "esoteric",
+      "heartfelt",
+      "keen",
+      "intense",
+      "sincere",
+      "earnest",
+      "thoroughgoing",
+      "far-reaching",
+      "radical",
+      "extensive",
+      "sweeping",
+      "exhaustive"
+    ]
+  },
+  {
+    "id": "096",
+    "word": "profusion",
+    "pos": "n.",
+    "head_meanings": [
+      "풍부",
+      "낭비",
+      "사치",
+      "풍부한 상태"
+    ],
+    "synonyms_from_image": [
+      "wealth",
+      "profligacy",
+      "excess",
+      "waste",
+      "prodigality",
+      "extravagance",
+      "copiousness",
+      "surplus"
+    ]
+  },
+  {
+    "id": "097",
+    "word": "progenitor",
+    "pos": "n.",
+    "head_meanings": [
+      "조상",
+      "선조",
+      "창시자",
+      "선구자"
+    ],
+    "synonyms_from_image": [
+      "forefather",
+      "antecedents",
+      "forebears",
+      "originator",
+      "predecessor",
+      "precursor"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "progeny",
+    "pos": "n.",
+    "head_meanings": [
+      "자손",
+      "자식",
+      "결과",
+      "소산"
+    ],
+    "synonyms_from_image": [
+      "posterity",
+      "descendants",
+      "result",
+      "outcome"
+    ]
+  },
+  {
+    "id": "099",
+    "word": "prognosis",
+    "pos": "n.",
+    "head_meanings": [
+      "(의학) 예후",
+      "예지",
+      "예측"
+    ],
+    "synonyms_from_image": [
+      "diagnosis",
+      "foretelling",
+      "foreboding",
+      "prophecy",
+      "forecast",
+      "foreknowledge",
+      "presupposition"
+    ]
+  },
+  {
+    "id": "100",
+    "word": "prognosticate",
+    "pos": "v.",
+    "head_meanings": [
+      "미리 알다",
+      "예언하다",
+      "~을 징후로 보이다"
+    ],
+    "synonyms_from_image": [
+      "foresee",
+      "foretell",
+      "soothsay",
+      "forecast",
+      "project"
+    ]
+  },
+  {
+    "id": "101",
+    "word": "prohibitive",
+    "pos": "adj.",
+    "head_meanings": [
+      "금지의",
+      "못하게 하는",
+      "(값이) 터무니없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "102",
+    "word": "projectile",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "투사물",
+      "사출물",
+      "투사체",
+      "투사하는",
+      "발사하는"
+    ],
+    "synonyms_from_image": [
+      "weapon",
+      "rocket",
+      "torpedo",
+      "fuel",
+      "propeller",
+      "shell",
+      "object or weapon that is thrown or shot"
+    ]
+  },
+  {
+    "id": "103",
+    "word": "proliferate",
+    "pos": "v.",
+    "head_meanings": [
+      "증식(하다)",
+      "만연(하다)",
+      "확산(하다)"
+    ],
+    "synonyms_from_image": [
+      "abound",
+      "increase rapidly",
+      "multiply",
+      "rocket",
+      "mushroom",
+      "burgeon"
+    ]
+  },
+  {
+    "id": "104",
+    "word": "proliferating",
+    "pos": "adj.",
+    "head_meanings": [],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "105",
+    "word": "proliferation",
+    "pos": "n.",
+    "head_meanings": [],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "106",
+    "word": "prolific",
+    "pos": "adj.",
+    "head_meanings": [
+      "다산의",
+      "열매를 많이 맺는",
+      "(토지가) 비옥한",
+      "기름진",
+      "풍부한",
+      "(작가 등이) 다작의"
+    ],
+    "synonyms_from_image": [
+      "fecund",
+      "abundant",
+      "productive",
+      "teeming",
+      "fruitful",
+      "bountiful",
+      "profuse",
+      "copious",
+      "luxuriant",
+      "lush",
+      "fertile",
+      "rich",
+      "creative",
+      "inventive"
+    ]
+  },
+  {
+    "id": "107",
+    "word": "prolix",
+    "pos": "adj.",
+    "head_meanings": [
+      "장황한",
+      "지루한",
+      "장황하게 이야기하는(쓰는)"
+    ],
+    "synonyms_from_image": [
+      "verbose",
+      "long-winded",
+      "long-winded",
+      "verbose",
+      "discursive",
+      "rambling",
+      "lengthy",
+      "diffuse",
+      "superfluous",
+      "talkative",
+      "tedious",
+      "wordy",
+      "protracted",
+      "pleonastic"
+    ]
+  },
+  {
+    "id": "108",
+    "word": "prominent",
+    "pos": "adj.",
+    "head_meanings": [
+      "돌출한",
+      "눈에 띄는",
+      "두드러진",
+      "주요한",
+      "유명한"
+    ],
+    "synonyms_from_image": [
+      "salience",
+      "prominence"
+    ]
+  },
+  {
+    "id": "109",
+    "word": "prominence",
+    "pos": "n.",
+    "head_meanings": [],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "110",
+    "word": "promising",
+    "pos": "adj.",
+    "head_meanings": [
+      "장래성 있는",
+      "전도 유망한",
+      "(hopeful)",
+      "[날씨가] 좋아질 것 같은",
+      "가망이 있는",
+      "쾌유 되어 가는"
+    ],
+    "synonyms_from_image": [
+      "good",
+      "encouraging",
+      "hopeful",
+      "auspicious",
+      "propitious",
+      "rosy",
+      "with potential",
+      "rising",
+      "coming"
+    ]
+  },
+  {
+    "id": "111",
+    "word": "prompt",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "자극하다",
+      "재촉하다",
+      "(행동·생각·감정을 불러 일으키다)",
+      "유발하다",
+      "즉석의",
+      "즉각적인",
+      "신속한",
+      "시간을 지키는"
+    ],
+    "synonyms_from_image": [
+      "stimulate",
+      "urge",
+      "spur",
+      "instigate",
+      "impel",
+      "occasion",
+      "suggest",
+      "incite"
+    ]
+  },
+  {
+    "id": "112",
+    "word": "promulgate",
+    "pos": "v.",
+    "head_meanings": [
+      "발표하다",
+      "공표하다",
+      "널리 퍼뜨리다",
+      "선전하다",
+      "보급하다"
+    ],
+    "synonyms_from_image": [
+      "declare",
+      "announce",
+      "set forth",
+      "issue",
+      "proclaim",
+      "publish",
+      "herald",
+      "teach publicly",
+      "advocate"
+    ]
+  },
+  {
+    "id": "113",
+    "word": "prone",
+    "pos": "adj.",
+    "head_meanings": [
+      "(...의) 경향이 있는",
+      "~하기 쉬운",
+      "엎드린",
+      "가파른",
+      "경사진"
+    ],
+    "synonyms_from_image": [
+      "disposed",
+      "liable",
+      "minded",
+      "reclining",
+      "recumbent",
+      "sloping"
+    ]
+  },
+  {
+    "id": "114",
+    "word": "proofread",
+    "pos": "v.",
+    "head_meanings": [
+      "교정하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "115",
+    "word": "propaganda",
+    "pos": "n.",
+    "head_meanings": [
+      "선전",
+      "선동",
+      "방법(조직)",
+      "운동",
+      "선전하는 주의(주장)",
+      "선전 단체"
+    ],
+    "synonyms_from_image": [
+      "information",
+      "promotion",
+      "advertising",
+      "publicity",
+      "info",
+      "hype"
+    ]
+  },
+  {
+    "id": "116",
+    "word": "propagate",
+    "pos": "v.",
+    "head_meanings": [
+      "번식하다",
+      "증식하다",
+      "전달하다"
+    ],
+    "synonyms_from_image": [
+      "procreate",
+      "breed",
+      "disperse",
+      "publish",
+      "promulgate"
+    ]
+  },
+  {
+    "id": "117",
+    "word": "propensity",
+    "pos": "n.",
+    "head_meanings": [
+      "경향",
+      "성질",
+      "성향",
+      "성벽(to, for)"
+    ],
+    "synonyms_from_image": [
+      "aptitude",
+      "tendency",
+      "penchant",
+      "preference"
+    ]
+  },
+  {
+    "id": "118",
+    "word": "proper",
+    "pos": "adj.",
+    "head_meanings": [
+      "적합한",
+      "알맞은",
+      "바람직한",
+      "(예의) 바른",
+      "고상한",
+      "타당한",
+      "상응한",
+      "지당한",
+      "고유의",
+      "특유한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "119",
+    "word": "property",
+    "pos": "n.",
+    "head_meanings": [
+      "재산",
+      "부동산",
+      "소유(권)",
+      "고유성",
+      "특성",
+      "속성"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "120",
+    "word": "prophetic",
+    "pos": "adj.",
+    "head_meanings": [
+      "예언의",
+      "예언하는",
+      "전조가 되는"
+    ],
+    "synonyms_from_image": [
+      "prescient",
+      "predictive",
+      "presageful",
+      "ominous",
+      "foreboding"
+    ]
+  }
+]
