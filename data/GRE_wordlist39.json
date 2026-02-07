@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "001",
+    "word": "quash",
+    "pos": "v.",
+    "head_meanings": [
+      "(완전히) 누르다, 진압하다, 진정시키다"
+    ],
+    "synonyms_from_image": [
+      "suppress",
+      "quell",
+      "overcome",
+      "overthrow",
+      "vanquish"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "queasy",
+    "pos": "adj.",
+    "head_meanings": [
+      "메스꺼운, 욕지기나게 하는, 구역질나는, 역겨운, 불쾌한"
+    ],
+    "synonyms_from_image": [
+      "qualmish",
+      "sickish",
+      "nauseous",
+      "giddy",
+      "disposed to vomit",
+      "uncomfortable",
+      "upset",
+      "troubled"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "quell",
+    "pos": "v.",
+    "head_meanings": [
+      "가라앉히다, 진압하다, 억누르다"
+    ],
+    "synonyms_from_image": [
+      "calm",
+      "conquer",
+      "destroy",
+      "subdue",
+      "suppress"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "quench",
+    "pos": "v.",
+    "head_meanings": [
+      "(갈증 등) 가시게 하다(=allay)",
+      "(불빛 등) 끄다(extinguish)",
+      "물 속에 넣어 식히다",
+      "(희망, 욕구, 동작을) 죽이다, 억누르다"
+    ],
+    "synonyms_from_image": [
+      "satisfy",
+      "slake",
+      "sate",
+      "satiate",
+      "gratify",
+      "relieve",
+      "assuage",
+      "lessen",
+      "reduce",
+      "diminish",
+      "suppress",
+      "check",
+      "extinguish",
+      "put out",
+      "snuff out"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "querulous",
+    "pos": "adj.",
+    "head_meanings": [
+      "불평을 하는, 흠(트)집잡는, 투덜거리는, 성 잘내는"
+    ],
+    "synonyms_from_image": [
+      "discontented",
+      "complaining",
+      "faultfinding",
+      "peevish",
+      "petulant"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "query",
+    "pos": "",
+    "head_meanings": [
+      "의문, 질문, 의심, 의혹, 물의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "007",
+    "word": "questionable",
+    "pos": "adj.",
+    "head_meanings": [
+      "(정직한, 예의, 보통 등이) 문제인, 의심스러운"
+    ],
+    "synonyms_from_image": [
+      "dubious"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "questioned",
+    "pos": "adj.",
+    "head_meanings": [
+      "수상한",
+      "불확실한",
+      "모호한"
+    ],
+    "synonyms_from_image": [
+      "doubtful",
+      "uncertain"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "quibble",
+    "pos": "v.",
+    "head_meanings": [
+      "트집(핑계)잡다, 모호한 말을 하다, 억살 부리다, 샅드질을 잡다"
+    ],
+    "synonyms_from_image": [
+      "carp",
+      "cavil",
+      "bicker",
+      "haggle"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "quiescent",
+    "pos": "adj.",
+    "head_meanings": [
+      "정지한, 무활동의, 조용한, 침묵의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "011",
+    "word": "quiescence",
+    "pos": "n.",
+    "head_meanings": [
+      "정지, 무활동, 침묵, 정적"
+    ],
+    "synonyms_from_image": [
+      "calm"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "quietude",
+    "pos": "",
+    "head_meanings": [
+      "고요, 평온, 정적"
+    ],
+    "synonyms_from_image": [
+      "composure",
+      "stillness",
+      "calmness",
+      "peace",
+      "silence",
+      "taciturnity"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "quintessence",
+    "pos": "",
+    "head_meanings": [
+      "본질, 정수, 본체"
+    ],
+    "synonyms_from_image": [
+      "exemplar",
+      "distillation",
+      "substance",
+      "pith",
+      "bottom",
+      "essence",
+      "elixir",
+      "heart",
+      "core",
+      "soul",
+      "gist",
+      "marrow"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "quip",
+    "pos": "n./v.",
+    "head_meanings": [
+      "재치 있는 말, 농구(??)"
+    ],
+    "synonyms_from_image": [
+      "drollness",
+      "witty remark",
+      "witticism",
+      "joke",
+      "jest",
+      "sally",
+      "gibe",
+      "quibble"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "quirk",
+    "pos": "",
+    "head_meanings": [
+      "변덕, 변질, 궤변, 핑계, 경구, 재담"
+    ],
+    "synonyms_from_image": [
+      "mannerism",
+      "peculiarity",
+      "vagary",
+      "quip"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "quirky",
+    "pos": "adj.",
+    "head_meanings": [
+      "변덕스러운, 핑계가 많은, 기발한, 구불구불한, 괴짜같은"
+    ],
+    "synonyms_from_image": [
+      "eccentric",
+      "idiosyncratic",
+      "unconventional",
+      "unorthodox",
+      "unusual",
+      "bizarre",
+      "peculiar",
+      "odd",
+      "outlandish",
+      "zany",
+      "freaky",
+      "offbeat"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "quixotic",
+    "pos": "adj.",
+    "head_meanings": [
+      "돈키호테 식의(=주책없는 기사도를 발휘하는); 공상적인, 공상에 미친, 비현실적인, 터무니 없는"
+    ],
+    "synonyms_from_image": [
+      "idealistic",
+      "unrealistic",
+      "romantic",
+      "visionary",
+      "impracticable",
+      "Utopian",
+      "extravagant",
+      "unworldly",
+      "unworkable",
+      "impossible",
+      "fanciful",
+      "fantastic",
+      "chimerical",
+      "extravagantly",
+      "chivalrous"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "quotidian",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "매일의, 매일 일어나는(일); 평범한, 흔해 빠진(일); 시시한(trivial)"
+    ],
+    "synonyms_from_image": [
+      "daily",
+      "everyday",
+      "diurnal",
+      "ordinary",
+      "average",
+      "run-of-the-mill",
+      "everyday",
+      "typical",
+      "common",
+      "conventional",
+      "unexceptional",
+      "mundane",
+      "commonplace"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "rabid",
+    "pos": "adj.",
+    "head_meanings": [
+      "맹렬한, 미친듯한, 열렬한, 광포한; (개가) 공수병(rabies)에 걸린, 광견병의"
+    ],
+    "synonyms_from_image": [
+      "demented",
+      "delirious",
+      "mad",
+      "frantic",
+      "crazy",
+      "raging"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "radical",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "근원적인, 기본(근본적인)(basic, fundamental); 기반(근제)을 이루는; 철저한, 완전한, 극단적인; 급진적인, 과격한, 혁명적인; → n. 반동주의자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "021",
+    "word": "ragged",
+    "pos": "adj.",
+    "head_meanings": [
+      "<옷 등이> 해진(tattered); 거친, 조잡한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "022",
+    "word": "rail",
+    "pos": "v.",
+    "head_meanings": [
+      "욕하다, 악담하다, 비웃다"
+    ],
+    "synonyms_from_image": [
+      "invective",
+      "claim",
+      "swear"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "rally (around)",
+    "pos": "v.",
+    "head_meanings": [
+      "집합해서 모이다, (…에) 쫓호?",
+      "(to, around)(공동의 목적을 위해) 불러 모으다, 규합하다; 을 모아 다시 조직[편성]하다, 새로 결집하다; (일기, 체력 등)이 되돌아오다, 회복하다(revive)"
+    ],
+    "synonyms_from_image": [
+      "get together",
+      "band together",
+      "assemble",
+      "unite",
+      "ally",
+      "cooperate",
+      "muster",
+      "mobilize",
+      "call up",
+      "conscript",
+      "gather",
+      "draft",
+      "recover",
+      "improve",
+      "revive",
+      "bounce back"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "ramble",
+    "pos": "v.",
+    "head_meanings": [
+      "산책하다, 어슬렁거리다, 두서없이 이야기하다"
+    ],
+    "synonyms_from_image": [
+      "stroll",
+      "saunter",
+      "amble",
+      "stray",
+      "straggle",
+      "roam",
+      "range",
+      "rove",
+      "drift"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "rambling",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "(말, 글 등이) 산만한, 두서없는, 종잡을 수 없는; (집, 거리 등)이 꾸불꾸불한, 무질서하게 뻗어 있는; (식물) 덩굴지 는; 어슬렁거리는, 한가로이 걷는"
+    ],
+    "synonyms_from_image": [
+      "long-winded",
+      "verbose",
+      "wordy",
+      "prolix",
+      "digressive",
+      "maundering",
+      "roundabout",
+      "circuitous",
+      "circumlocutory",
+      "disconnected",
+      "disjointed",
+      "incoherent",
+      "winding",
+      "twisting",
+      "twisty",
+      "labyrinthine",
+      "sprawling",
+      "trailing",
+      "creeping",
+      "climbing",
+      "vining"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "ramification",
+    "pos": "",
+    "head_meanings": [
+      "분파, 갈래, 소구분; 결과, 추이"
+    ],
+    "synonyms_from_image": [
+      "branch",
+      "offshoot",
+      "section",
+      "outgrowth",
+      "consequence"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "ramify",
+    "pos": "v.",
+    "head_meanings": [
+      "가지로 퍼다, 갈라지다, 분화하다"
+    ],
+    "synonyms_from_image": [
+      "bisect",
+      "branch",
+      "part",
+      "separate",
+      "split",
+      "subdivide"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "rampant",
+    "pos": "adj.",
+    "head_meanings": [
+      "마구 퍼지는, 만연하는, 유행하는; 무성한, 우거진, 분방한; 맹렬한, 사나운, 광포한, 과격한"
+    ],
+    "synonyms_from_image": [
+      "luxuriant",
+      "excessive",
+      "unrestrained",
+      "uncontrollable",
+      "immoderate",
+      "rank",
+      "furious"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "ramshackle",
+    "pos": "adj.",
+    "head_meanings": [
+      "덜커덩거리는, 흔들흔들하는, 무너질 듯한"
+    ],
+    "synonyms_from_image": [
+      "decrepit",
+      "crumbling",
+      "shaky"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "rancor",
+    "pos": "n.",
+    "head_meanings": [
+      "적의, 악의, 앙심, 증오, 원한, 유감, 신랄함"
+    ],
+    "synonyms_from_image": [
+      "venom",
+      "vituperation",
+      "enmity",
+      "animus",
+      "animosity",
+      "hostility",
+      "virulence",
+      "spite",
+      "venom"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "rancour",
+    "pos": "n.",
+    "head_meanings": [
+      "원한, 유감, 신랄함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "032",
+    "word": "rant",
+    "pos": "v./n.",
+    "head_meanings": [
+      "고함치다, 폭언하다, 호언장담하다, 열광적으로 설교하다, 호통치다; n. 고함, 호통, 폭언, 장담, 노호, 야단침"
+    ],
+    "synonyms_from_image": [
+      "diatribe",
+      "harangue",
+      "scold",
+      "bluster",
+      "jaw",
+      "berate",
+      "preach noisily"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "rapacious",
+    "pos": "adj.",
+    "head_meanings": [
+      "강탈하는, 욕심 많은(greedy), 게걸스러운, 탐욕스러운(for), 결손들(?)"
+    ],
+    "synonyms_from_image": [
+      "avaricious",
+      "fierce",
+      "ravening",
+      "predatory",
+      "gluttonous",
+      "insatiable",
+      "greedy",
+      "predacious"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "rapprochement",
+    "pos": "",
+    "head_meanings": [
+      "(국가간의) 친교 관계의 확립[회복], 화해, 친선"
+    ],
+    "synonyms_from_image": [
+      "reconciliation"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "rarefied",
+    "pos": "adj.",
+    "head_meanings": [
+      "희박한, 순환된, 정화한"
+    ],
+    "synonyms_from_image": [
+      "thin",
+      "subtle",
+      "tenuous",
+      "attenuate"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "rash",
+    "pos": "adj.",
+    "head_meanings": [
+      "무모(경솔)한, 무분별한, 신중하지 못한(reckless), 성급한(imprudent)"
+    ],
+    "synonyms_from_image": [
+      "impulsive",
+      "reckless",
+      "hasty",
+      "audacious",
+      "thoughtless",
+      "careless",
+      "incautious",
+      "imprudent"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "raspy",
+    "pos": "adj.",
+    "head_meanings": [
+      "거친, 목소리의, 귀에 거슬리는"
+    ],
+    "synonyms_from_image": [
+      "irritable",
+      "fractious",
+      "peevish",
+      "snappish",
+      "waspish",
+      "petulant"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "ratify",
+    "pos": "v.",
+    "head_meanings": [
+      "(조약 따위를) 비준하다, 재가하다, 확인하다"
+    ],
+    "synonyms_from_image": [
+      "settle firmly",
+      "certify",
+      "confirm",
+      "validate",
+      "substantiate",
+      "establish"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "rationale (for)",
+    "pos": "n.",
+    "head_meanings": [
+      "근본적 이유, 원리, 본의; 논리적 근거; 이유 붙이기, 정당화; 이론적 해석(근거, 설명)"
+    ],
+    "synonyms_from_image": [
+      "reasoning",
+      "logic grounds",
+      "principle",
+      "theory",
+      "argument",
+      "motivation",
+      "explanation",
+      "justification",
+      "excuse"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "rationality",
+    "pos": "",
+    "head_meanings": [
+      "합리성, 순리성, 도리를 앎"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "041",
+    "word": "rationalization",
+    "pos": "",
+    "head_meanings": [
+      "합리화, 합리적 상태"
+    ],
+    "synonyms_from_image": [
+      "justification",
+      "logic",
+      "reasonableness"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "rationalize",
+    "pos": "v.",
+    "head_meanings": [
+      "합리화하다, 합리적으로 생각하다/설명하다"
+    ],
+    "synonyms_from_image": [
+      "explain",
+      "account for",
+      "make allowance for"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "raucous",
+    "pos": "adj.",
+    "head_meanings": [
+      "쉰 목소리의, 귀에 거슬리는; 소란한"
+    ],
+    "synonyms_from_image": [
+      "harsh",
+      "strident",
+      "piercing",
+      "shrill",
+      "grating",
+      "discordant",
+      "dissonant",
+      "noisy",
+      "loud",
+      "cacophonous",
+      "dry",
+      "gruff",
+      "hoarse",
+      "boisterous"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "ravage",
+    "pos": "v./n.",
+    "head_meanings": [
+      "약탈하다, 황폐시키다; → n. 황폐, 손해, 참상"
+    ],
+    "synonyms_from_image": [
+      "demolish",
+      "crush",
+      "devastate",
+      "pillage",
+      "sack"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "rave",
+    "pos": "v.",
+    "head_meanings": [
+      "중얼거릴 수 없는 말을 하다(사람에게)(미치광처럼)",
+      "쳐대다(talk wildly); 바람, 바다, 폭풍 등이 사납게 몰다",
+      "(rage), 노호하다(roar); (…에 대해) 열변을 토하다, (…을) 격찬하다"
+    ],
+    "synonyms_from_image": [
+      "talk wildly",
+      "babble",
+      "jabber",
+      "talk incoherently",
+      "rant",
+      "rage",
+      "lose one's temper",
+      "fulminate",
+      "shout",
+      "roar",
+      "thunder",
+      "bellow",
+      "praise enthusiastically",
+      "go into raptures about/over",
+      "rhapsodize over",
+      "enthuse about/over",
+      "acclaim",
+      "eulogize",
+      "extol",
+      "ballyhoo",
+      "panegyrize"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "ravel",
+    "pos": "v.",
+    "head_meanings": [
+      "엉키게 하다, 얽히게 하다, 분규시키다, 혼란케 하다; (편물, 밧줄을) 풀다; (의문을) 명백히 하다"
+    ],
+    "synonyms_from_image": [
+      "entangle",
+      "tangle",
+      "involve",
+      "confuse",
+      "perplex",
+      "complicate"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "ravening",
+    "pos": "adj.",
+    "head_meanings": [
+      "먹이를 찾아다니는, 탐욕스러운"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "048",
+    "word": "ravenous",
+    "pos": "adj.",
+    "head_meanings": [
+      "게걸스럽게 먹는(for), 결손?",
+      "(extremely hungry)"
+    ],
+    "synonyms_from_image": [
+      "greedy",
+      "famished",
+      "devouring",
+      "voracious",
+      "starved",
+      "edacious",
+      "rapacious"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "raze",
+    "pos": "v.",
+    "head_meanings": [
+      "완전히 파괴하다, 무너뜨리다; (기억 따위를) 지우다, 없애다"
+    ],
+    "synonyms_from_image": [
+      "ruin",
+      "wreck",
+      "unmake",
+      "tear down"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "reactionary",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "반동의, 반발하는, 반동적인, 되돌아가는, 복고주의의; → n. 반동주의자"
+    ],
+    "synonyms_from_image": [
+      "repulsive",
+      "repelling",
+      "reverse",
+      "counterrevolutionary",
+      "rightist"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "realm",
+    "pos": "n.",
+    "head_meanings": [
+      "왕국, 국토, 범위, 영역"
+    ],
+    "synonyms_from_image": [
+      "royal domain",
+      "region"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "reaper",
+    "pos": "",
+    "head_meanings": [
+      "수확기; 수확자"
+    ],
+    "synonyms_from_image": [
+      "reaping machine",
+      "harvester"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "reasonable",
+    "pos": "adj.",
+    "head_meanings": [
+      "(rational); 정당한, 공평한; (가격에 대하여) 합당한, 비싸지 않은(moderate); 이해 있는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "054",
+    "word": "reassure",
+    "pos": "v.",
+    "head_meanings": [
+      "(…에게) 기운 나게 하다, (…을) 안심시키다, 다시 자신감을 갖게 하다; (…을) 재보증하다, 확인, 재확인하다"
+    ],
+    "synonyms_from_image": [
+      "put someone's mind at rest/ease",
+      "encourage",
+      "inspirit",
+      "hearten",
+      "buoy up",
+      "cheer up",
+      "comfort",
+      "soothe"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "rebel",
+    "pos": "n./v./adj.",
+    "head_meanings": [
+      "반역자; (권력, 지배, 전통 등에 대한) 반항자; 반항하는, 반역의"
+    ],
+    "synonyms_from_image": [
+      "revolutionist",
+      "insurrectionist",
+      "insurgent",
+      "traitor",
+      "revolter",
+      "anarchist",
+      "nonconformist",
+      "maverick",
+      "dissident",
+      "dissenter",
+      "iconoclast",
+      "revolt",
+      "mutiny",
+      "riot",
+      "recoil",
+      "defy",
+      "disobey",
+      "resist",
+      "insurgent",
+      "revolutionary",
+      "mutinous",
+      "rebellious",
+      "disobedient",
+      "defiant",
+      "insubordinate",
+      "subversive",
+      "resistant",
+      "recalcitrant"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "rebellion",
+    "pos": "",
+    "head_meanings": [
+      "반역, 반란, 모반, 역모, 폭동(revolt); 반항"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "057",
+    "word": "rebuff",
+    "pos": "v.",
+    "head_meanings": [
+      "…을 저지하다, 격퇴하다; …을 잘절시키다, 퇴짜 놓다, 거절하다"
+    ],
+    "synonyms_from_image": [
+      "reject",
+      "ignore",
+      "refuse",
+      "deny",
+      "decline",
+      "repel"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "rebuke",
+    "pos": "v.",
+    "head_meanings": [
+      "호되게 비난하다, 질책하다"
+    ],
+    "synonyms_from_image": [
+      "reprimand",
+      "reproach",
+      "reprove",
+      "scold",
+      "admonish",
+      "chastise",
+      "upbraid",
+      "berate",
+      "censure",
+      "criticize",
+      "castigate"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "rebut",
+    "pos": "v.",
+    "head_meanings": [
+      "반박(변박)하다; …의 반증을 들다; 물리치다, 거절하다"
+    ],
+    "synonyms_from_image": [
+      "refute",
+      "deny",
+      "disprove",
+      "invalidate",
+      "negate",
+      "contradict",
+      "controvert",
+      "counter",
+      "discredit",
+      "confute"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "rebuttal",
+    "pos": "n.",
+    "head_meanings": [
+      "반박, 논박, 항변"
+    ],
+    "synonyms_from_image": [
+      "contradiction",
+      "disapproval",
+      "disagreement",
+      "denial",
+      "retort"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "recalcitrant",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "반항(저항)하는, 반대하는, 고집센; → n. 반항자, 고집쟁이"
+    ],
+    "synonyms_from_image": [
+      "restive",
+      "disobedient",
+      "resistant",
+      "fractious",
+      "indomitable",
+      "wild",
+      "unruly",
+      "opposed",
+      "refractory"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "recant",
+    "pos": "v.",
+    "head_meanings": [
+      "[신앙, 주장 등을] (공식으로) 고치다, 취소하다, 철회하다; 부인하다, 부정하다"
+    ],
+    "synonyms_from_image": [
+      "repudiate",
+      "renounce",
+      "disavow",
+      "deny",
+      "forswear",
+      "abjure",
+      "take back",
+      "unsay",
+      "retract",
+      "recall",
+      "rescind"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "recapitulate",
+    "pos": "v.",
+    "head_meanings": [
+      "요약하다, 요점만 다시 한번 설명하다"
+    ],
+    "synonyms_from_image": [
+      "repeat",
+      "shorten",
+      "sum up"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "recapitulation",
+    "pos": "",
+    "head_meanings": [
+      "요약"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "065",
+    "word": "recede",
+    "pos": "v.",
+    "head_meanings": [
+      "물러가다, 멀어지다; 희미해지다; 감퇴(감소)하다; (가치,품질) 떨어지다; 음푹 들어가다; 철회하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "066",
+    "word": "receptive",
+    "pos": "adj.",
+    "head_meanings": [
+      "(잘) 받아들이는, 감수성 예민한, 이해가 빠른"
+    ],
+    "synonyms_from_image": [
+      "openminded",
+      "accessible",
+      "interested",
+      "responsive",
+      "hospitable"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "recess",
+    "pos": "n.",
+    "head_meanings": [
+      "쉼, 휴식, 휴회, 휴정; 우묵 들어간 곳(alcove); 벽감; 깊숙한 곳; 마음 속"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "068",
+    "word": "recession",
+    "pos": "n.",
+    "head_meanings": [
+      "퇴거, 후퇴, 철수; (벽-건물의) 쑥 들어간 부분"
+    ],
+    "synonyms_from_image": [
+      "regression",
+      "surrender",
+      "retrocession",
+      "niche"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "recipe",
+    "pos": "n.",
+    "head_meanings": [
+      "요리법, (요리의) 조리법; (약 등의) 처방(전); 방법, 비결, 비책"
+    ],
+    "synonyms_from_image": [
+      "prescription",
+      "method",
+      "formula",
+      "recipe",
+      "formula",
+      "blueprint"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "recipient",
+    "pos": "",
+    "head_meanings": [
+      "받는 사람, 수령인; 용기, 그릇"
+    ],
+    "synonyms_from_image": [
+      "taker",
+      "consignee",
+      "accepter"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "reciprocal",
+    "pos": "adj.",
+    "head_meanings": [
+      "상호의, 서로간의; 호혜적인"
+    ],
+    "synonyms_from_image": [
+      "coordinate",
+      "interdependent",
+      "equivalent",
+      "give-and-take",
+      "corresponding",
+      "linked"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "reciprocate",
+    "pos": "v.",
+    "head_meanings": [
+      "보답하다, 응수하다; 교환하다, 왕복운동 하다"
+    ],
+    "synonyms_from_image": [
+      "requite",
+      "recompense",
+      "exchange",
+      "interchange"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "reckless",
+    "pos": "adj.",
+    "head_meanings": [
+      "앞뒤를 가리지 않는, 무모한"
+    ],
+    "synonyms_from_image": [
+      "rash",
+      "careless",
+      "thoughtless",
+      "incautious",
+      "heedless",
+      "inattentive",
+      "imprudent",
+      "indiscreet",
+      "mindless",
+      "impetuous",
+      "precipitate",
+      "precipitous",
+      "foolhardy",
+      "injudicious"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "recklessness",
+    "pos": "n.",
+    "head_meanings": [
+      "앞뒤를 가리지 않는, 무모함; (예) 신경을 쓰지 않는, 개의치 않는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "075",
+    "word": "reclaim",
+    "pos": "v.",
+    "head_meanings": [
+      "을 개간하다; <스펀지를> 매립하다; <땅 등을>(바다를 막아) 간척하다; 개심(갱생)시키다, 교화(교정, 개선)하다; 을 재생 이용하다"
+    ],
+    "synonyms_from_image": [
+      "recover",
+      "regain",
+      "get back"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "recluse",
+    "pos": "n.",
+    "head_meanings": [
+      "은둔자, 속세를 떠난 사람"
+    ],
+    "synonyms_from_image": [
+      "anchorite",
+      "eremite",
+      "cenobite",
+      "solitudinarian",
+      "solitary"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "recoil (from)",
+    "pos": "v.",
+    "head_meanings": [
+      "후퇴하다, 퇴걸음치다; 주춤하다, 뒤로 물러나다, 반동하다; (행위가)(자신에게) 되튀다, 되돌아오다"
+    ],
+    "synonyms_from_image": [
+      "shrink (from)",
+      "pull back",
+      "draw back",
+      "shrink from",
+      "baulk at",
+      "rebound on",
+      "backfire",
+      "affect badly",
+      "boomerang"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "recommence",
+    "pos": "v.",
+    "head_meanings": [
+      "다시 시작(시)하다, 재개하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "079",
+    "word": "reconcile",
+    "pos": "v.",
+    "head_meanings": [
+      "화해시키다, 융화시키다; [분쟁 등을] 조정하다, 중재하다; 해결하다; 일치시키다; 조화시키다(harmonize); [oneself 또는 수동형으로] 에 만족하게 하다, 스스로 체념/납득하게 하다"
+    ],
+    "synonyms_from_image": [
+      "make compatible",
+      "harmonize",
+      "make congruent",
+      "resolve",
+      "settle",
+      "remedy",
+      "rectify",
+      "reunite",
+      "make peace between",
+      "bring together",
+      "pacify",
+      "appease",
+      "placate",
+      "propitiate",
+      "mollify",
+      "conciliate",
+      "(come to) accept",
+      "resign oneself to"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "reconciliation",
+    "pos": "n.",
+    "head_meanings": [
+      "화해, 조정, 조화, 일치, 복종, 체념"
+    ],
+    "synonyms_from_image": [
+      "rapprochement"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "recondite",
+    "pos": "adj.",
+    "head_meanings": [
+      "심오한, 난해한; 알기 어려운; 보이지 않는; 막연한, 숨겨진"
+    ],
+    "synonyms_from_image": [
+      "esoteric",
+      "obscure",
+      "abstruse",
+      "arcane",
+      "profound",
+      "difficult",
+      "unfathomable",
+      "impenetrable",
+      "cryptic",
+      "opaque",
+      "cabalistic"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "redeem",
+    "pos": "v.",
+    "head_meanings": [
+      "되로 찾다",
+      "(뜻) <외상값, 채무, 채권을> 갚다, 상환(변제)하다(저당 등)에서 도로 찾다",
+      "<명예, 권리, 지위 등을> (노력하여) 회복(만회)하다",
+      "<맹세, 의무 등을> 이행하다(fulfill)",
+      "<잘못, 결점 등을> 메우다, 벌충하다(compensate, counterbalance)",
+      "<예수, 하나님이> <사람을> (죄로부터) 구하다, 속죄하다"
+    ],
+    "synonyms_from_image": [
+      "reclaim",
+      "regain",
+      "retrieve",
+      "make up for",
+      "compensate for",
+      "atone for",
+      "offset",
+      "redress",
+      "outweigh"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "redemption",
+    "pos": "n.",
+    "head_meanings": [
+      "다시 사들이기, 되찾기; (약속의) 이행; (저당 등의) 변제, 상환; 구조, 구출, 몸값을 주고 빼내기; (범죄에 대한) 대가, 대상; (예수의 희생에 따른) 죄의 씻음, 속죄, 구원; C 벌충하는 것"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "084",
+    "word": "redeploy",
+    "pos": "v.",
+    "head_meanings": [
+      "[부대, 공장 시설/자본/노동자 등을] 이동(전환)시키다(하다)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "085",
+    "word": "recount",
+    "pos": "v.",
+    "head_meanings": [
+      "자세히 말하다, 상술하다; 하나씩 세다, 열거하다"
+    ],
+    "synonyms_from_image": [
+      "relate",
+      "repeat",
+      "detail",
+      "give an account of",
+      "recite",
+      "specify",
+      "cite",
+      "describe",
+      "enumerate",
+      "numerate"
+    ]
+  },
+  {
+    "id": "086",
+    "word": "recourse",
+    "pos": "n.",
+    "head_meanings": [
+      "의지, 의뢰, 의지할 되는 것",
+      "(사람), 호소"
+    ],
+    "synonyms_from_image": [
+      "resort to",
+      "refuge",
+      "support",
+      "assistance",
+      "dependence",
+      "reliance",
+      "protection"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "recourse to",
+    "pos": "",
+    "head_meanings": [
+      "without recourse to = …에 의지하지 않고"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "088",
+    "word": "recrudescent",
+    "pos": "adj.",
+    "head_meanings": [
+      "재발하는, 도지는"
+    ],
+    "synonyms_from_image": [
+      "resurgent"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "recrudesce",
+    "pos": "v.",
+    "head_meanings": [
+      "<상처, 병, 불평, 아픔 등이> 재발(재연)하다, 도지다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "090",
+    "word": "recrudescence",
+    "pos": "n.",
+    "head_meanings": [
+      "(아픔, 병 등의) 재발, 재연, 터지기; reopening of a wound or sore"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "091",
+    "word": "rectify",
+    "pos": "v.",
+    "head_meanings": [
+      "교정하다, 고치다; 개정(수정, 조정)하다; [알코올 등을] 정류하다"
+    ],
+    "synonyms_from_image": [
+      "mend",
+      "amend",
+      "repair",
+      "rebuild",
+      "ameliorate",
+      "remedy",
+      "resolve"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "rectitude",
+    "pos": "n.",
+    "head_meanings": [
+      "정직, 방정, 정확, 똑바름(uprightness)"
+    ],
+    "synonyms_from_image": [
+      "virtue",
+      "honesty",
+      "goodness",
+      "straightness",
+      "morality",
+      "correctness"
+    ]
+  },
+  {
+    "id": "093",
+    "word": "recumbent",
+    "pos": "adj.",
+    "head_meanings": [
+      "드러누운, 기댄; 축 늘어진; 활발치 못한"
+    ],
+    "synonyms_from_image": [
+      "flat",
+      "supine",
+      "prone",
+      "reclining",
+      "prostrate",
+      "low",
+      "inactive"
+    ]
+  },
+  {
+    "id": "094",
+    "word": "recuperate",
+    "pos": "v.",
+    "head_meanings": [
+      "회복하다, (건강 등을) 다시 찾다"
+    ],
+    "synonyms_from_image": [
+      "gain",
+      "get well",
+      "improve",
+      "convalesce",
+      "heal",
+      "mend"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "recurrent",
+    "pos": "adj.",
+    "head_meanings": [
+      "재발하는, 정기적으로 일어나는",
+      "(occurring again and again)"
+    ],
+    "synonyms_from_image": [
+      "repeated",
+      "intermittent",
+      "periodic",
+      "alternate",
+      "isochronal",
+      "repetitive",
+      "reappearing"
+    ]
+  },
+  {
+    "id": "096",
+    "word": "recursive",
+    "pos": "adj.",
+    "head_meanings": [
+      "순환의; 되풀이 되는; 재귀하는"
+    ],
+    "synonyms_from_image": []
+  }
+]

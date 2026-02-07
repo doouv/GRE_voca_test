@@ -2140,5 +2140,19 @@
       "ominous",
       "foreboding"
     ]
+  },
+  {
+    "id": "121",
+    "word": "propinquity",
+    "pos": "n.",
+    "head_meanings": ["가까움", "근처", "근친관계"],
+    "synonyms_from_image": ["closeness", "vicinity", "neighborhood", "proximity", "affinity"]
+  },
+  {
+    "id": "122",
+    "word": "propitiate",
+    "pos": "v.",
+    "head_meanings": ["달래다", "비위를 맞추다", "화해시키다"],
+    "synonyms_from_image": ["atone", "pacify", "mollify", "conciliate", "assuage", "soothe"]
   }
 ]
