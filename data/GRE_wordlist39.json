@@ -201,7 +201,7 @@
     "word": "quip",
     "pos": "n./v.",
     "head_meanings": [
-      "재치 있는 말, 농구(??)"
+      "재치 있는 말, 경구"
     ],
     "synonyms_from_image": [
       "drollness",
@@ -334,7 +334,7 @@
   },
   {
     "id": "022",
-    "word": "rail",
+    "word": "rail (against)",
     "pos": "v.",
     "head_meanings": [
       "욕하다, 악담하다, 비웃다"
@@ -350,8 +350,7 @@
     "word": "rally (around)",
     "pos": "v.",
     "head_meanings": [
-      "집합해서 모이다, (…에) 쫓호?",
-      "(to, around)(공동의 목적을 위해) 불러 모으다, 규합하다; 을 모아 다시 조직[편성]하다, 새로 결집하다; (일기, 체력 등)이 되돌아오다, 회복하다(revive)"
+      "1) (to, around) 지원하러 모이다, 도우러 모이다; 2) 조직을 재편성하다, 새로 결집하다; 3) (원기, 체력)을 최복하다; 4) [야구] 반격하다, 끝까지 해보다"
     ],
     "synonyms_from_image": [
       "get together",
@@ -533,7 +532,7 @@
     "word": "rapacious",
     "pos": "adj.",
     "head_meanings": [
-      "강탈하는, 욕심 많은(greedy), 게걸스러운, 탐욕스러운(for), 결손들(?)"
+      "강탈하는, 욕심 많은(greedy), 게걸스러운, 탐욕스러운(for), 육식성의, 만족할 줄 모르는"
     ],
     "synonyms_from_image": [
       "avaricious",
@@ -777,7 +776,7 @@
     "word": "ravenous",
     "pos": "adj.",
     "head_meanings": [
-      "게걸스럽게 먹는(for), 결손?",
+      "게걸스럽게 먹는(for), 탐욕스러운",
       "(extremely hungry)"
     ],
     "synonyms_from_image": [
@@ -1223,7 +1222,7 @@
     "word": "recoil (from)",
     "pos": "v.",
     "head_meanings": [
-      "후퇴하다, 퇴걸음치다; 주춤하다, 뒤로 물러나다, 반동하다; (행위가)(자신에게) 되튀다, 되돌아오다"
+      "후퇴하다, 퇴걸음치다; 주춤하다, 뒤로 물러나다, 반동하다; (행위가 자신에게) 되튀다, 되돌아오다"
     ],
     "synonyms_from_image": [
       "shrink (from)",
@@ -1248,19 +1247,33 @@
   },
   {
     "id": "079",
-    "word": "reconcile",
+    "word": "reconcile (*three meanings)",
     "pos": "v.",
     "head_meanings": [
-      "화해시키다, 융화시키다; [분쟁 등을] 조정하다, 중재하다; 해결하다; 일치시키다; 조화시키다(harmonize); [oneself 또는 수동형으로] 에 만족하게 하다, 스스로 체념/납득하게 하다"
+      "1) [사람/집단을] 화해시키다, 융화시키다; [분쟁 등을] 조정하다 2) [모순, 차이] 일치시키다; 조화시키다(harmonize); 중재하다; 해결하다; 3) ~에 만족하게 하다, 스스로 체념/납득하게 하다"
+    ],
+    "synonyms_from_image": []
+  },
+    {
+    "id": "079-1",
+    "word": "reconcile (oneself) to",
+    "pos": "v.",
+    "head_meanings": [
+      "마지못해 받아들이다, 자신을 (어떤 상황이나 사실에 대해) 수용하게 하다, 체념하게 하다"
     ],
     "synonyms_from_image": [
-      "make compatible",
-      "harmonize",
-      "make congruent",
-      "resolve",
-      "settle",
-      "remedy",
-      "rectify",
+      "(come to) accept",
+      "resign oneself to"
+    ]
+  },
+    {
+    "id": "079-2",
+    "word": "reconcile A and B",
+    "pos": "v.",
+    "head_meanings": [
+      "화해시키다, 융화시키다; [분쟁 등을] 조정하다, 중재하다"
+    ],
+    "synonyms_from_image": [
       "reunite",
       "make peace between",
       "bring together",
@@ -1269,9 +1282,24 @@
       "placate",
       "propitiate",
       "mollify",
-      "conciliate",
-      "(come to) accept",
-      "resign oneself to"
+      "conciliate"
+    ]
+  },
+      {
+    "id": "079-3",
+    "word": "reconcile A with B",
+    "pos": "v.",
+    "head_meanings": [
+      "(사실/주장/행동 등) 양립시키다, 조화시키다, 일치시키다; (불일치 문제를) 해결하다"
+    ],
+    "synonyms_from_image": [
+    "make compatible",
+    "harmonize",
+    "make congruent",
+    "resolve",
+    "settle",
+    "remedy",
+    "rectify"
     ]
   },
   {
@@ -1388,10 +1416,10 @@
   },
   {
     "id": "087",
-    "word": "recourse to",
+    "word": "without recourse to",
     "pos": "",
     "head_meanings": [
-      "without recourse to = …에 의지하지 않고"
+      "…에 의지하지 않고"
     ],
     "synonyms_from_image": []
   },
