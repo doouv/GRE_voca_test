@@ -445,19 +445,58 @@
   },
   {
     "id": "033",
-    "word": "reservation",
+    "word": "reservatio (4 meanings)",
     "pos": "n.",
     "head_meanings": [
       "제한, 조건; 단서; (입 밖에 내지 않는) 마음의 걱정, 의혹; 비밀; 논박; (인디언) 보호구; 거주지; 자연보호 구역; 예약(booking); 보류 유보"
     ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "033-1",
+    "word": "without reservation",
+    "pos": "n.",
+    "head_meanings": [
+      "전적으로, 기꺼이, 조건 없이 (*reservation: 조건, 단서)"
+    ],
     "synonyms_from_image": [
+      "wholeheartedly",
+      "unreservedly",
+      "without qualification",
+      "totally",
+      "unconditionally",
+      "fully",
+      "wholly",
+      "entierly"
+    ]
+  },
+  {
+    "id": "033-2",
+    "word": "grave reservation",
+    "pos": "n.",
+    "head_meanings": [
+      "심각한 의혹, 큰 걱정 (*reservation: 우려, 의심, 걱정)"
+    ],
+    "synonyms_from_image": [
+      "doubt",
+      "concern",
+      "qualm",
       "unease",
-      "misgivings",
+      "misgivings"
+    ]
+  },
+  {
+    "id": "033-3",
+    "word": "Indian reservation",
+    "pos": "n.",
+    "head_meanings": [
+      "인디언 보호구역; 인디언 거주지 (*reservation: 보호구역, 거주지)"
+    ],
+    "synonyms_from_image": [
       "reserve",
       "enclave",
       "sanctuary",
-      "territory",
-      "booking"
+      "territory"
     ]
   },
   {
@@ -483,7 +522,7 @@
     "word": "reserved",
     "pos": "adj.",
     "head_meanings": [
-      "1. 삼가는; 수줍은; 2. 언행이 조심스러운, 주저하는, 말이 없는, 말수가 적은; 3. 제한된; 4. 보류한, 예비의; 5. 지정의, 전체존...; 4. 운명 지어진?"
+      "1. 삼가는; 수줍은; 2. 언행이 조심스러운, 주저하는, 말이 없는, 말수가 적은; 3. 제한된; 4. 보류한, 예비의; 5. 지정의, 전체존...; 4. 운명 지어진"
     ],
     "synonyms_from_image": [
       "taciturn",
@@ -540,7 +579,7 @@
     "word": "resignation",
     "pos": "n.",
     "head_meanings": [
-      "① 단념, (…에 대한) 복종, 감수; ② (권리 등의) 포기, 단념, 체념; letter of resignation (사직서); ③ 사임(직), 사직(서), 사임"
+      "1. 단념, (…에 대한) 복종, 감수; (권리 등의) 포기; 2. 사임, 사직(서) (letter of resignation=사직서)"
     ],
     "synonyms_from_image": [
       "passivity",

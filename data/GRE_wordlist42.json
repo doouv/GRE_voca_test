@@ -1,0 +1,1735 @@
+[
+  {
+    "id": "001",
+    "word": "safeguarding",
+    "pos": "",
+    "head_meanings": [
+      "보호하는, 호호하는"
+    ],
+    "synonyms_from_image": [
+      "preserving"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "saga",
+    "pos": "",
+    "head_meanings": [
+      "북유럽의 신화, 무용담, 모험담"
+    ],
+    "synonyms_from_image": [
+      "heroic tale",
+      "story",
+      "narrative",
+      "tale",
+      "epic",
+      "history"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "sagacious",
+    "pos": "",
+    "head_meanings": [
+      "현명(명리)한; 슬기로운, 기민한, 예민한"
+    ],
+    "synonyms_from_image": [
+      "insightful",
+      "wise",
+      "clever",
+      "intelligent",
+      "knowledgeable",
+      "sensible",
+      "sage",
+      "discerning",
+      "judicious",
+      "canny",
+      "perceptive",
+      "astute",
+      "shrewd",
+      "prudent",
+      "thoughtful",
+      "perspicacious",
+      "sapient"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "sagacity",
+    "pos": "",
+    "head_meanings": [
+      "현명, 총명, 기민"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "005",
+    "word": "sage",
+    "pos": "",
+    "head_meanings": [
+      "매우 현명한 사람, 현인, 철인"
+    ],
+    "synonyms_from_image": [
+      "wise man",
+      "philosopher"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "salacious",
+    "pos": "",
+    "head_meanings": [
+      "호색의, 색골의; 추잡한, 음란한, 외설스러운, 음탕한, 저질"
+    ],
+    "synonyms_from_image": [
+      "obscene",
+      "indecent",
+      "crude",
+      "vulgar",
+      "dirty",
+      "filthy",
+      "ribald",
+      "libidinous",
+      "lecherous",
+      "wanton",
+      "lewd",
+      "sensual",
+      "immoral",
+      "debauched",
+      "lascivious",
+      "unchaste",
+      "degenerate",
+      "depraved",
+      "promiscuous"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "salient",
+    "pos": "",
+    "head_meanings": [
+      "현저한, 두드러진, 눈에 띄는, 돌출한"
+    ],
+    "synonyms_from_image": [
+      "visible"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "salience",
+    "pos": "",
+    "head_meanings": [
+      "두드러짐, 현저함, 탁월, 돌출"
+    ],
+    "synonyms_from_image": [
+      "prominence",
+      "salience",
+      "visible",
+      "marked",
+      "obvious",
+      "striking",
+      "impressive",
+      "important",
+      "notable"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "saline",
+    "pos": "",
+    "head_meanings": [
+      "염분을 함유한, 소금기 있는"
+    ],
+    "synonyms_from_image": [
+      "briny",
+      "brackish",
+      "saliferous"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "sallow",
+    "pos": "",
+    "head_meanings": [
+      "누르스름한, 창백한, 혈색이 나쁜"
+    ],
+    "synonyms_from_image": [
+      "wan",
+      "pale"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "sally",
+    "pos": "",
+    "head_meanings": [
+      "1. (공격군에 대한) 반격, 출격(sortie); 돌진, 맹공격, 돌격",
+      "2. (노여움, 기쁨 등의) 충동",
+      "3. 소풍, 짧은 여행",
+      "4. (재치 있는) 말(위사), 반어, 경구 등"
+    ],
+    "synonyms_from_image": [
+      "sortie",
+      "charge",
+      "foray",
+      "thrust",
+      "attack",
+      "assault",
+      "raid",
+      "incursion",
+      "invasion",
+      "onslaught",
+      "onset",
+      "expedition",
+      "excursion",
+      "trip",
+      "outing",
+      "jaunt",
+      "visit",
+      "witticism",
+      "smart remark",
+      "quip",
+      "barb",
+      "joke",
+      "jest",
+      "retort"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "salubrious",
+    "pos": "",
+    "head_meanings": [
+      "(기후,토지 따위가) 건강에 좋은"
+    ],
+    "synonyms_from_image": [
+      "good for one",
+      "bracing",
+      "hygienic",
+      "wholesome",
+      "salutary"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "salutary",
+    "pos": "",
+    "head_meanings": [
+      "건강에 좋은, 유익한, 건전한"
+    ],
+    "synonyms_from_image": [
+      "health-promoting",
+      "healthful",
+      "salubrious",
+      "helpful",
+      "useful",
+      "sound"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "salvage",
+    "pos": "",
+    "head_meanings": [
+      "구조하다, 구출하다",
+      "n. 구조, 구제"
+    ],
+    "synonyms_from_image": [
+      "save",
+      "ransom",
+      "redeem",
+      "deliver",
+      "retrieve"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "salvation",
+    "pos": "",
+    "head_meanings": [
+      "(손해, 위험, 파괴 등으로부터의) 구제, 구출, 보호, 구제",
+      "[보호해 주는 것/사람]; (죄, ..)와 별로부터의 구원"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "016",
+    "word": "sanctimonious",
+    "pos": "",
+    "head_meanings": [
+      "독실한(신성한) 체하는, 신앙 깊은 체하는, 독실한 신앙자인 체하는; 경건한 체하는"
+    ],
+    "synonyms_from_image": [
+      "preachy",
+      "affectedly holy",
+      "belligerently pious",
+      "pietistic",
+      "prudish",
+      "pretentious",
+      "self-righteous",
+      "hypocritical",
+      "insincere",
+      "pietistic",
+      "moralizing"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "sanction",
+    "pos": "",
+    "head_meanings": [
+      "① ~을 인가(재가)하다, 찬성하다, 승인하다, ~을 확인하다.",
+      "② (법령 등에) 제재 규정을 설정하다",
+      "③ (approvation): 인가, 승인, 허용, 찬성",
+      "④ (법령, 규칙 위반에 대한) 제재, 처벌; (국제법 위반국에 대하여 보통 여러 나라가 공동으로 가하는) 제재(조치); 제재 규약"
+    ],
+    "synonyms_from_image": [
+      "endorse",
+      "allow",
+      "permit",
+      "endorse",
+      "authorize",
+      "confirm",
+      "punish"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "sanctuary",
+    "pos": "",
+    "head_meanings": [
+      "1. 신성한 장소, 신전, 성역, 안식처(haven)",
+      "2. (교회 등) 외진 바호교, 성역권, 피난처(refuge, asylum)",
+      "3. (수렵) 금렵기(구), 야생 보호 지역, 조수 보호 구역"
+    ],
+    "synonyms_from_image": [
+      "holy place",
+      "shrine",
+      "church",
+      "temple",
+      "altar",
+      "sanctum",
+      "refuge",
+      "haven",
+      "shelter",
+      "retreat",
+      "hiding place"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "sanctum",
+    "pos": "",
+    "head_meanings": [
+      "1. 신성한 장소, 성소",
+      "2. (누구의) 간섭도 받지 않는 사적(비)실(제소), 서재, 피난처"
+    ],
+    "synonyms_from_image": [
+      "holy place",
+      "shrine",
+      "sanctuary",
+      "refuge",
+      "retreat",
+      "hideout",
+      "hideaway",
+      "den"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "sangfroid",
+    "pos": "",
+    "head_meanings": [
+      "태연자약, 냉정, 침착"
+    ],
+    "synonyms_from_image": [
+      "composure",
+      "equanimity",
+      "self-possession",
+      "equilibrium",
+      "poise",
+      "calm",
+      "unflappability",
+      "imperturbability",
+      "aplomb"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "sanguinary",
+    "pos": "",
+    "head_meanings": [
+      "피비린내 나는, 잔인한, 살벌한, 피투성이의"
+    ],
+    "synonyms_from_image": [
+      "gory",
+      "murderous",
+      "savage",
+      "fell",
+      "homicidal",
+      "bloodthirsty"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "sanguine",
+    "pos": "",
+    "head_meanings": [
+      "[기질이] 명랑한(cheerful), 낙천적인(optimistic), 자신만만한(confident)",
+      "(confident), 쾌활한, 낙관하는; 혈색이 좋은; 다혈질의; (문어) 붉은"
+    ],
+    "synonyms_from_image": [
+      "optimistic",
+      "hopeful",
+      "buoyant",
+      "positive",
+      "confident",
+      "cheerful",
+      "upbeat",
+      "assured",
+      "undoubtful",
+      "self-confident",
+      "reddish"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "sanguinity",
+    "pos": "",
+    "head_meanings": [
+      "명랑함, 낙천적인(optimistic) 자신만만함(confident)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "024",
+    "word": "sanguine about",
+    "pos": "",
+    "head_meanings": [
+      "~에 대하여 낙관하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "025",
+    "word": "sanity",
+    "pos": "",
+    "head_meanings": [
+      "제정신, 정신이 온전함; (사상 등의) 건전, 온건; (육체적인) 건강"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "026",
+    "word": "sap",
+    "pos": "",
+    "head_meanings": [
+      "1. (도덕, 믿음 파서) 무너뜨리다, (체력, 체력을) 차차 약화시키다[파괴하다]; (적진에) 호를 파고 접근하다",
+      "2. 수액(樹液); (생물) 유기; 생명력, 활기; 젊은 피",
+      "3. 활기, 생기, 활력, 정력"
+    ],
+    "synonyms_from_image": [
+      "erode",
+      "wear away/down",
+      "deplete",
+      "reduce",
+      "lessen",
+      "attenuate",
+      "undermine",
+      "exhaust",
+      "drain",
+      "juice",
+      "secretion",
+      "fluid",
+      "liquid",
+      "vigor",
+      "energy",
+      "drive",
+      "dynamism",
+      "spirit",
+      "liveliness",
+      "verve",
+      "ebullience",
+      "enthusiasm",
+      "gusto",
+      "vitality",
+      "vivacity",
+      "zest",
+      "zeal",
+      "exuberance",
+      "vim"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "sapient",
+    "pos": "",
+    "head_meanings": [
+      "슬기로운, 지혜로운(wise); 아는 체하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "028",
+    "word": "sarcasm",
+    "pos": "",
+    "head_meanings": [
+      "비꼼, 풍자, 야유, 비웃음"
+    ],
+    "synonyms_from_image": [
+      "ridicule",
+      "irony",
+      "derision",
+      "contempt",
+      "scorn",
+      "mockery"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "sardonic",
+    "pos": "",
+    "head_meanings": [
+      "냉소하는, 조롱하는, 비웃는"
+    ],
+    "synonyms_from_image": [
+      "ironic",
+      "caustic",
+      "satiric",
+      "scornful",
+      "sneering",
+      "mocking",
+      "contemptuous",
+      "derisive",
+      "disparaging",
+      "biting"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "sartorial",
+    "pos": "",
+    "head_meanings": [
+      "재봉(사의); 옷의; 바느질의"
+    ],
+    "synonyms_from_image": [
+      "vestmental",
+      "tailored",
+      "readymade"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "sate",
+    "pos": "",
+    "head_meanings": [
+      "물리게 하다, 배부르게 먹이다; 배부르게 하다"
+    ],
+    "synonyms_from_image": [
+      "glut",
+      "gorge",
+      "(over)fill",
+      "satiate",
+      "stuff",
+      "surfeit"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "satiate",
+    "pos": "",
+    "head_meanings": [
+      "1. 충분히 만족시키다 (satisfy);",
+      "2. 물리게 하다, 싫증나게 하다(sate)"
+    ],
+    "synonyms_from_image": [
+      "fill",
+      "satisfy",
+      "sate",
+      "slake",
+      "quench",
+      "gorge",
+      "(over)stuff",
+      "surfeit",
+      "glut",
+      "cloy",
+      "nauseate"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "satiety",
+    "pos": "",
+    "head_meanings": [
+      "포만, 물림(of)"
+    ],
+    "synonyms_from_image": [
+      "overfullness",
+      "plenty",
+      "satiation",
+      "glut",
+      "surfeit",
+      "sufficiency"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "satire",
+    "pos": "",
+    "head_meanings": [
+      "풍자, 비꼼, 비평; (문학) 풍자문, 풍자문학"
+    ],
+    "synonyms_from_image": [
+      "humor",
+      "ridicule",
+      "sarcasm",
+      "parody",
+      "burlesque",
+      "caricature",
+      "travesty",
+      "lampoon"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "satirical",
+    "pos": "",
+    "head_meanings": [
+      "풍자적인, 비평적인"
+    ],
+    "synonyms_from_image": [
+      "derisive",
+      "sneering",
+      "sardonic",
+      "ironical",
+      "sarcastic",
+      "mordant",
+      "taunting"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "saturate",
+    "pos": "",
+    "head_meanings": [
+      "담그다, 흠뻑 적시다, 적어버리다 하다"
+    ],
+    "synonyms_from_image": [
+      "wet",
+      "drench",
+      "souse",
+      "bathe",
+      "moisten",
+      "steep",
+      "douse"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "saturnine",
+    "pos": "",
+    "head_meanings": [
+      "우울한, 무뚝뚝한, 침울한; (토성의 영향을 받고 태어난) 그래서 성미가 까다로운, 침착한, 남의"
+    ],
+    "synonyms_from_image": [
+      "dark",
+      "sullen",
+      "morose",
+      "sulky",
+      "reserved",
+      "taciturn"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "saunter",
+    "pos": "",
+    "head_meanings": [
+      "산책하다; 빈둥거리다; 어슬렁거리다"
+    ],
+    "synonyms_from_image": [
+      "walk",
+      "amble",
+      "wander",
+      "ambulate",
+      "traipse",
+      "ramble"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "savant",
+    "pos": "",
+    "head_meanings": [
+      "학자, 석학"
+    ],
+    "synonyms_from_image": [
+      "wise man",
+      "scientist",
+      "specialist",
+      "expert"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "savor",
+    "pos": "",
+    "head_meanings": [
+      "~하는 기미가 있다, ~의 느낌이 든다; 맛이 나다",
+      "n. 맛, 풍미, 흥취, 재미"
+    ],
+    "synonyms_from_image": [
+      "like",
+      "take pleasure in",
+      "delight in",
+      "feel",
+      "feature",
+      "taste",
+      "flavor",
+      "spice",
+      "smack",
+      "season",
+      "gusto"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "savory",
+    "pos": "",
+    "head_meanings": [
+      "맛좋은; 향기로운; 마음에 드는, 기분이 좋은, 유쾌한, 평판이 좋은"
+    ],
+    "synonyms_from_image": [
+      "appetizing",
+      "fragrant",
+      "wholesome",
+      "respectable",
+      "reputable"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "scale",
+    "pos": "",
+    "head_meanings": [
+      "오르다, 올라가다",
+      "(여류, 파충류 등의) 비늘",
+      "저울; 척도, 기준; 음계"
+    ],
+    "synonyms_from_image": [
+      "clamber",
+      "surmount",
+      "rise",
+      "escalade",
+      "progress upward",
+      "work upward"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "scandalous",
+    "pos": "",
+    "head_meanings": [
+      "1. 수치스러운, 창피한(disgraceful);",
+      "2. <문장 등이>"
+    ],
+    "synonyms_from_image": [
+      "disgraceful",
+      "outrageous",
+      "criminal",
+      "wicked",
+      "shameful",
+      "deplorable",
+      "reprehensible",
+      "inexcusable",
+      "intolerable",
+      "unforgivable"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "scant",
+    "pos": "",
+    "head_meanings": [
+      "1. (양, 정도)가 충분하지 않는; 부족한; 빼뚤한, 모자라는 듯한 (scanty, deficient); (크기, 양이) 한정된, 얼마 안 되는; 빈약한",
+      "2. 인색한; 알뜰한"
+    ],
+    "synonyms_from_image": [
+      "limited",
+      "little",
+      "minimal",
+      "limited",
+      "negligible",
+      "meager",
+      "insufficient",
+      "inadequate",
+      "deficient",
+      "exiguous"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "scanty",
+    "pos": "",
+    "head_meanings": [
+      "근소한, 모자라는, 불충분한"
+    ],
+    "synonyms_from_image": [
+      "inadequate",
+      "deficient",
+      "thin",
+      "slender",
+      "stunted",
+      "sparse"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "scarce",
+    "pos": "",
+    "head_meanings": [
+      "(식량, 금전, 생활 필수품이) 부족한, 적은, 모자라는; 드문, 진귀한(rare)"
+    ],
+    "synonyms_from_image": [
+      "scant",
+      "scanty",
+      "meagre",
+      "sparse",
+      "deficient",
+      "paltry",
+      "negligible",
+      "rare",
+      "unusual"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "scarcely",
+    "pos": "",
+    "head_meanings": [
+      "거의 ~없다; 분명히 ~아닌"
+    ],
+    "synonyms_from_image": [
+      "hardly",
+      "rarely"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "scarceness",
+    "pos": "",
+    "head_meanings": [
+      "(식량, 금전, 생활 필수품이) 부족함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "049",
+    "word": "scarcity",
+    "pos": "",
+    "head_meanings": [
+      "(식량, 금전, 생활 필수품이) 부족함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "050",
+    "word": "scaremonger",
+    "pos": "",
+    "head_meanings": [
+      "세상을 떠들썩하게 하는 사람, (재해 등에 대하여) 헛소문을 퍼뜨리는 사람"
+    ],
+    "synonyms_from_image": [
+      "alarmist"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "scathing",
+    "pos": "",
+    "head_meanings": [
+      "[비평, 조소 등이] 냉혹한, 가차없는; (말투 등이) 용서 없는, 통렬한; 상처를 입히는, 해치는"
+    ],
+    "synonyms_from_image": [
+      "withering",
+      "blistering",
+      "searing",
+      "devastating",
+      "fierce",
+      "ferocious",
+      "savage",
+      "severe",
+      "cutting",
+      "mordant",
+      "trenchant",
+      "virulent",
+      "caustic",
+      "vitriolic",
+      "scornful",
+      "sharp",
+      "bitter",
+      "harsh",
+      "unsparing"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "scatter",
+    "pos": "",
+    "head_meanings": [
+      "흩뿌리다, 흩어버리다 (disperse); 낭비하다, 재산을 탕진낭비하다 (squander); (빛, 입자 등을) 확산[산재]시키다; 빻벌이[사방으로] 흩어지다"
+    ],
+    "synonyms_from_image": [
+      "throw",
+      "strew",
+      "spread",
+      "distribute",
+      "disseminate",
+      "disperse",
+      "separate"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "scheme",
+    "pos": "",
+    "head_meanings": [
+      "계획(하다); 음모(를 꾸미다); 계략, 모의(책동)하다; 조직, 도식; 개요, 요강"
+    ],
+    "synonyms_from_image": [
+      "plan",
+      "project",
+      "strategy",
+      "intrigue",
+      "plot",
+      "conspiracy",
+      "ruse",
+      "ploy",
+      "machinations",
+      "arrangement",
+      "configuration"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "schism",
+    "pos": "",
+    "head_meanings": [
+      "(단체의) 분리, 분열, 분파; (특히 교회의) 분파, 분립"
+    ],
+    "synonyms_from_image": [
+      "factiousness",
+      "split",
+      "divergence",
+      "breach",
+      "division",
+      "rift",
+      "rupture",
+      "break",
+      "separation",
+      "severance",
+      "chasm",
+      "gulf",
+      "discord",
+      "disagreement",
+      "dissension"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "scintilla",
+    "pos": "",
+    "head_meanings": [
+      "조금, 근소(양), 약간; 불꽃, 섬광"
+    ],
+    "synonyms_from_image": [
+      "jot",
+      "iota",
+      "trace",
+      "particle",
+      "spark",
+      "morsel",
+      "fragment"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "scintillate",
+    "pos": "",
+    "head_meanings": [
+      "불꽃을 내다; 번쩍이다 (sparkle, twinkle); (재치 따위가) 번뜩이다"
+    ],
+    "synonyms_from_image": [
+      "sparkle",
+      "gleam",
+      "shimmer",
+      "coruscate",
+      "glisten",
+      "flicker",
+      "twinkle",
+      "dazzle",
+      "shine",
+      "glitter"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "scintillating",
+    "pos": "",
+    "head_meanings": [
+      "1. 번쩍이는, 눈부시게 아름다운",
+      "2. (재치, 기지가) 번뜩이는, 생기 발랄한, 활발한"
+    ],
+    "synonyms_from_image": [
+      "sparkling",
+      "shining",
+      "brilliant",
+      "gleaming",
+      "glittering",
+      "twinkling",
+      "shimmering",
+      "brilliant",
+      "dazzling",
+      "exciting",
+      "exhilarating",
+      "stimulating",
+      "sparkling",
+      "lively",
+      "vivacious",
+      "vibrant",
+      "animated",
+      "ebullient",
+      "effervescent",
+      "witty",
+      "clever"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "scoff",
+    "pos": "",
+    "head_meanings": [
+      "~을 비웃다, 조소하다, 흘리다"
+    ],
+    "synonyms_from_image": [
+      "deride",
+      "poke fun at",
+      "belittle",
+      "jeer",
+      "jibe",
+      "gibe",
+      "laugh at",
+      "taunt",
+      "ridicule",
+      "sneer",
+      "scorn"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "score",
+    "pos": "",
+    "head_meanings": [
+      "득점하다; 편곡[작곡]하다; 새김눈[흠]을 내다, 선을 긋다; 심하게 비난하다; 점수; 표시(mark); 20(명(개))개; 다수, 많음"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "060",
+    "word": "scornful",
+    "pos": "",
+    "head_meanings": [
+      "경멸하는, 조소적인; 업신여기는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "061",
+    "word": "scorn",
+    "pos": "",
+    "head_meanings": [
+      "경멸하다, 멸시하다; 거절하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "062",
+    "word": "scotch",
+    "pos": "",
+    "head_meanings": [
+      "~을 눌러 부수다, 밟아 없애다, 억누르다, 탄압하다"
+    ],
+    "synonyms_from_image": [
+      "suppress",
+      "crush",
+      "confound"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "screed",
+    "pos": "",
+    "head_meanings": [
+      "길게 늘어놓는(지루한) 이야기; 긴 연설",
+      "[편지]: 비공식 기사"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "064",
+    "word": "scribble",
+    "pos": "",
+    "head_meanings": [
+      "휘갈겨 쓰다, 낙서하다; (알아보기 어려운) 글씨를 쓰다"
+    ],
+    "synonyms_from_image": [
+      "scrawl",
+      "write hurriedly",
+      "jot(down)",
+      "doodle",
+      "doodling",
+      "cacography"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "scrupulous",
+    "pos": "",
+    "head_meanings": [
+      "① 양심적인, 성실한; 꼼꼼한, 세심한, 신중한; 정확한, 철저한, 응의주도한; 조심성 있는"
+    ],
+    "synonyms_from_image": [
+      "honest",
+      "upright",
+      "moral",
+      "ethical",
+      "principled",
+      "careful",
+      "meticulous",
+      "painstaking",
+      "thorough",
+      "assiduous",
+      "studious",
+      "attentive",
+      "conscientious",
+      "punctilious",
+      "rigorous",
+      "strict",
+      "just",
+      "exact",
+      "honest",
+      "careful",
+      "upright",
+      "honorable"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "scrutinize",
+    "pos": "",
+    "head_meanings": [
+      "정밀하게 조사하다(probe), 속속들이 알아보기, 꼬치꼬치 따지기(close investigation); 똑똑히 쳐다보다; 면밀히 검사하다"
+    ],
+    "synonyms_from_image": [
+      "observe",
+      "peruse",
+      "probe",
+      "scan",
+      "look at closely",
+      "inquire into",
+      "investigate",
+      "study",
+      "search"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "scrutiny",
+    "pos": "",
+    "head_meanings": [
+      "정밀한 조사(검사), 속속들이 알아보기, 꼬치꼬치 따지기(close investigation); 투표(재)검사, 검사, 감독(surveillance); (closeness)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "068",
+    "word": "scurrilous",
+    "pos": "",
+    "head_meanings": [
+      "상스러운, 비열한, 무례한, 입이 더러운, 입버릇이 사나운"
+    ],
+    "synonyms_from_image": [
+      "foul",
+      "abusive",
+      "outrageous",
+      "contumelious",
+      "derisive"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "scurvy",
+    "pos": "",
+    "head_meanings": [
+      "치사한, 야비한, 천박한; 괴혈병에 걸린; n. 괴혈병"
+    ],
+    "synonyms_from_image": [
+      "mean",
+      "contemptible"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "seamy",
+    "pos": "",
+    "head_meanings": [
+      "도덕적으로 낮은, 치사한, 천한, 싫은, 기분 나쁜; 보기 흉한; 흉이(이음매가 있는)"
+    ],
+    "synonyms_from_image": [
+      "vulgar",
+      "coarse",
+      "mean",
+      "unpleasant",
+      "disagreeable",
+      "nasty"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "seasoned",
+    "pos": "",
+    "head_meanings": [
+      "경험을 쌓은, 숙련된; 풍미를 가한"
+    ],
+    "synonyms_from_image": [
+      "skilled",
+      "trained",
+      "practiced",
+      "old",
+      "flavored",
+      "spiced"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "secession",
+    "pos": "",
+    "head_meanings": [
+      "탈퇴, 분리"
+    ],
+    "synonyms_from_image": [
+      "defection",
+      "apostasy",
+      "desertion",
+      "dissent",
+      "separation"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "seclusion",
+    "pos": "",
+    "head_meanings": [
+      "격리, 차단; 은퇴, 은둔"
+    ],
+    "synonyms_from_image": [
+      "hiding",
+      "retirement",
+      "exile",
+      "quarantine",
+      "sequestration"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "secondhand",
+    "pos": "",
+    "head_meanings": [
+      "간접의, 전해 들은; 중고의, 고물의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "075",
+    "word": "secrete",
+    "pos": "",
+    "head_meanings": [
+      "숨기다, 비밀로 하다; 분비하다"
+    ],
+    "synonyms_from_image": [
+      "conceal",
+      "cover",
+      "shroud",
+      "keep under wraps",
+      "keep secret"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "secretive",
+    "pos": "",
+    "head_meanings": [
+      "1. 숨기는, 입다물고 있는(reticent); 터놓지 않는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "077",
+    "word": "sectarian",
+    "pos": "",
+    "head_meanings": [
+      "편협한, 군사적인; 종파당파성의 강한, 파벌적인"
+    ],
+    "synonyms_from_image": [
+      "bigoted",
+      "provincial",
+      "conservative",
+      "prejudiced"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "secular",
+    "pos": "",
+    "head_meanings": [
+      "속인의, 세속의; 현세의; 비종교적인"
+    ],
+    "synonyms_from_image": [
+      "profane",
+      "mundane",
+      "nonsacred",
+      "non-religious",
+      "lay",
+      "temporal",
+      "worldly",
+      "earthly"
+    ]
+  },
+  {
+    "id": "079",
+    "word": "secure",
+    "pos": "",
+    "head_meanings": [
+      "v. 확보(획득)하다; 안전하게 지키다; 확실하게 하다, 보증하다; 고정하다; 감금하다;",
+      "a. 안전한, 튼튼한, 단단하게"
+    ],
+    "synonyms_from_image": [
+      "capture",
+      "fix",
+      "fasten",
+      "moor",
+      "anchor",
+      "protect",
+      "fortify",
+      "assure",
+      "ensure",
+      "obtain",
+      "acquire",
+      "gain"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "sedate",
+    "pos": "",
+    "head_meanings": [
+      "잠긴, 안정된, 보장된; 침착한, 조용한, 진지한"
+    ],
+    "synonyms_from_image": [
+      "safe",
+      "stable",
+      "fastened",
+      "assured",
+      "calm",
+      "quiet",
+      "serene",
+      "staid",
+      "serious",
+      "collected",
+      "unperturbed",
+      "self-possessed"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "sedentary",
+    "pos": "",
+    "head_meanings": [
+      "앉아 있는; 정주인; 앉아서 일하는"
+    ],
+    "synonyms_from_image": [
+      "settled",
+      "stationary",
+      "seated",
+      "inactive",
+      "unmoving",
+      "inert"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "sedition",
+    "pos": "",
+    "head_meanings": [
+      "소란, 폭동, 동란, 선동; 폭동교사, 치안방해(죄)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "083",
+    "word": "seditious",
+    "pos": "",
+    "head_meanings": [
+      "a. sedition 반란적인, 선동적인"
+    ],
+    "synonyms_from_image": [
+      "treason",
+      "disobedience",
+      "mutiny",
+      "revolt",
+      "insurrection"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "sedulous",
+    "pos": "",
+    "head_meanings": [
+      "부지런한, 근면한, 부지런히 일하는, 용의 주도한; 공들인"
+    ],
+    "synonyms_from_image": [
+      "assiduous",
+      "constant",
+      "busy",
+      "active",
+      "operose",
+      "industrious"
+    ]
+  },
+  {
+    "id": "085",
+    "word": "seedy",
+    "pos": "",
+    "head_meanings": [
+      "1. <사람이나> 초라한; 못차림의, 보기 흉한(shabby); <옷 등이> 허름한;",
+      "2. 지저분한; 기분이 언짢은; 평판이 고지 않은, 품위가 없는; 씨가 많은"
+    ],
+    "synonyms_from_image": [
+      "sordid",
+      "disreputable",
+      "seamy",
+      "squalid",
+      "unwholesome",
+      "unsavory",
+      "dilapidated",
+      "ramshackle",
+      "decrepit",
+      "shabby",
+      "insalubrious",
+      "squalid",
+      "uncomfortable",
+      "inconvenient",
+      "unhandy",
+      "under the weather",
+      "degraded"
+    ]
+  },
+  {
+    "id": "086",
+    "word": "seemingly",
+    "pos": "",
+    "head_meanings": [
+      "겉으로는, 표면적인(상)의, 겉으로 보이게는, 여르닐"
+    ],
+    "synonyms_from_image": [
+      "superficially",
+      "apparently",
+      "outwardly",
+      "supposedly"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "seemly",
+    "pos": "",
+    "head_meanings": [
+      "(becoming) 예절에 맞는, 품위가 있는",
+      "적절한, 알맞은, 적당한; A. 기(거절한)"
+    ],
+    "synonyms_from_image": [
+      "decent",
+      "decorous",
+      "right",
+      "suitable",
+      "meet",
+      "fitting",
+      "decent",
+      "appropriate",
+      "apposite",
+      "genteel",
+      "polite"
+    ]
+  },
+  {
+    "id": "088",
+    "word": "seep",
+    "pos": "",
+    "head_meanings": [
+      "스며 나오다, 배어 나오다"
+    ],
+    "synonyms_from_image": [
+      "leak",
+      "dribble",
+      "drip",
+      "suffuse",
+      "diffuse",
+      "soak"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "seethe",
+    "pos": "",
+    "head_meanings": [
+      "끓다, 비등하다; 삶다; 소용돌이치다; 소란해지다; (부드럽게 하기 위해 짐승 가죽 등을) 물에 담그다, 적시다"
+    ],
+    "synonyms_from_image": [
+      "be agitated",
+      "be upset",
+      "simmer"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "seismic",
+    "pos": "",
+    "head_meanings": [
+      "지진의, 지진에 의한"
+    ],
+    "synonyms_from_image": [
+      "seismal"
+    ]
+  },
+  {
+    "id": "091",
+    "word": "selective",
+    "pos": "",
+    "head_meanings": [
+      "선택하는, 정선하는, 선택안(쾌)이 있는; 선택적인, 가리는(선택도태)의"
+    ],
+    "synonyms_from_image": [
+      "discerning",
+      "discriminating",
+      "discriminatory",
+      "critical",
+      "exacting"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "self-effacing",
+    "pos": "",
+    "head_meanings": [
+      "표면에 나서지 않는, 자기를 내세우지 않는"
+    ],
+    "synonyms_from_image": [
+      "indiscriminate"
+    ]
+  },
+  {
+    "id": "093",
+    "word": "self-interest",
+    "pos": "",
+    "head_meanings": [
+      "이기심, 이기주의; 사리(추구); 사욕"
+    ],
+    "synonyms_from_image": [
+      "opportunism",
+      "expedience/expediency"
+    ]
+  },
+  {
+    "id": "094",
+    "word": "self-perpetuating",
+    "pos": "",
+    "head_meanings": [
+      "영속할 수 있는; 무제한 계속할 수 있는; (입) 등이 지나는 동안) 유익하는(할 수 있는)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "095",
+    "word": "self-serving",
+    "pos": "",
+    "head_meanings": [
+      "자기의 이익만을 도모하는, 이기적인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "096",
+    "word": "semblance",
+    "pos": "",
+    "head_meanings": [
+      "유사, 비슷한 외형, 외관"
+    ],
+    "synonyms_from_image": [
+      "front",
+      "aspect",
+      "mien",
+      "exterior",
+      "air"
+    ]
+  },
+  {
+    "id": "097",
+    "word": "seminal",
+    "pos": "",
+    "head_meanings": [
+      "독창적인; 생산적인; 중요한; 발생의, 생식의, 정액의; 종자; 근원의, 발단가능성이 있는; 잠재성이 있는"
+    ],
+    "synonyms_from_image": [
+      "original",
+      "primary",
+      "germinative",
+      "formative",
+      "generative"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "senescence",
+    "pos": "",
+    "head_meanings": [
+      "노화, 노쇠, 노령"
+    ],
+    "synonyms_from_image": [
+      "decrepitude"
+    ]
+  },
+  {
+    "id": "099",
+    "word": "senility",
+    "pos": "",
+    "head_meanings": [
+      "노쇠, 노령, 노망"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "100",
+    "word": "senile",
+    "pos": "",
+    "head_meanings": [
+      "[old age; feeble-mindedness of old age]"
+    ],
+    "synonyms_from_image": [
+      "caducity",
+      "decrepitude",
+      "elderliness"
+    ]
+  },
+  {
+    "id": "101",
+    "word": "sensual",
+    "pos": "",
+    "head_meanings": [
+      "관능적인, 음란한, 감각론의; 육감적인"
+    ],
+    "synonyms_from_image": [
+      "earthy",
+      "lush",
+      "sensuous",
+      "lewd",
+      "erotic",
+      "lecherous",
+      "sexy"
+    ]
+  },
+  {
+    "id": "102",
+    "word": "sensuous",
+    "pos": "",
+    "head_meanings": [
+      "감각에 호소하는, 감각적인; 심미적인, 민감한"
+    ],
+    "synonyms_from_image": [
+      "sensory",
+      "receptive",
+      "gratifying",
+      "the senses",
+      "appealing"
+    ]
+  },
+  {
+    "id": "103",
+    "word": "sententious",
+    "pos": "",
+    "head_meanings": [
+      "설교투의, 과장적인; 도덕적인, 잘난 체하는; 금언적인; 간결한, 간결하고 매서운, 금언 같은"
+    ],
+    "synonyms_from_image": [
+      "preachy",
+      "sanctimonious",
+      "didactic",
+      "pedantic"
+    ]
+  },
+  {
+    "id": "104",
+    "word": "sentimental",
+    "pos": "",
+    "head_meanings": [
+      "감상적인, 정에 약한, 정에 호소하는; (이성, 사고보다는) 감정에 바탕을 둔, 감정적인, 정서적인"
+    ],
+    "synonyms_from_image": [
+      "nostalgic",
+      "tender",
+      "emotional",
+      "affectionate",
+      "mawkish",
+      "overemotional",
+      "cloying",
+      "sickly",
+      "saccharine",
+      "sugary",
+      "romantic",
+      "touching",
+      "weepy"
+    ]
+  },
+  {
+    "id": "105",
+    "word": "septic",
+    "pos": "",
+    "head_meanings": [
+      "부패시키는, 부패에 의한, 썩은"
+    ],
+    "synonyms_from_image": [
+      "spoiled",
+      "rotten",
+      "decomposing",
+      "decaying",
+      "purulent",
+      "putrefactive"
+    ]
+  },
+  {
+    "id": "106",
+    "word": "sequent",
+    "pos": "",
+    "head_meanings": [
+      "잇따라 일어나는, 다음의, 연속적인; (결과로서) 필연적인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "107",
+    "word": "sequential",
+    "pos": "",
+    "head_meanings": [
+      "연속하여 일어나는, 순차적인, 계속적인(serial); 잇따라"
+    ],
+    "synonyms_from_image": []
+  }
+]
