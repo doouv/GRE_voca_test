@@ -1,0 +1,2743 @@
+[
+  {
+    "id": "001",
+    "word": "somber",
+    "pos": "adj.",
+    "head_meanings": [
+      "어두컴컴한, 흐린",
+      "우울한, 침울한, 음산한"
+    ],
+    "synonyms_from_image": [
+      "gray",
+      "grim",
+      "grave",
+      "melancholy",
+      "solemn",
+      "sober",
+      "gloomy",
+      "dismal",
+      "dull",
+      "dull and dark in color",
+      "dark"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "somnolent",
+    "pos": "adj.",
+    "head_meanings": [
+      "졸린, 졸리게 하는, 최면의"
+    ],
+    "synonyms_from_image": [
+      "lethargic",
+      "languid",
+      "enervated",
+      "sluggish",
+      "tired",
+      "sleepy",
+      "dozy",
+      "somniferous",
+      "drowsy",
+      "sleeping",
+      "slumberous"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "sonorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "울려 퍼지는, 우렁찬, 낭랑한"
+    ],
+    "synonyms_from_image": [
+      "noisy",
+      "rotund",
+      "clattering"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "soothe",
+    "pos": "v.",
+    "head_meanings": [
+      "달래다, 어르다, 위로하다",
+      "(고통 등을) 덜어주다",
+      "(신경, 감정 등을) 진정시키다"
+    ],
+    "synonyms_from_image": [
+      "calm down",
+      "pacify",
+      "settle",
+      "lull",
+      "tranquilize",
+      "mollify",
+      "ease",
+      "alleviate",
+      "assuage",
+      "moderate",
+      "temper",
+      "soften"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "soothing",
+    "pos": "adj.",
+    "head_meanings": [
+      "달래는, 위로하는, 누그러뜨리는, 진정하는"
+    ],
+    "synonyms_from_image": [
+      "relaxing",
+      "restful",
+      "calm",
+      "calming",
+      "tranquil",
+      "peaceful",
+      "reposeful",
+      "tranquilizing",
+      "soporific",
+      "palliative",
+      "mild"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "sophism",
+    "pos": "n.",
+    "head_meanings": [
+      "궤변, 아전인수, 억지 이론",
+      "(남을 속키는) 논리, 잘못된 이론"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "007",
+    "word": "sophist",
+    "pos": "n.",
+    "head_meanings": [
+      "궤변가, 억지론가",
+      "(고대 그리스의) 철학자/수사학 교사, 학자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "008",
+    "word": "sophisticated",
+    "pos": "adj.",
+    "head_meanings": [
+      "세련된, 교양 있는",
+      "정교한, 복잡한",
+      "세상에 밝은, 박식한, 교양 있는"
+    ],
+    "synonyms_from_image": [
+      "suave",
+      "urbane",
+      "cultured",
+      "cultivated",
+      "polished",
+      "refined",
+      "elegant",
+      "stylish",
+      "advanced",
+      "complicated",
+      "elaborate",
+      "complex",
+      "intricate",
+      "worldly",
+      "worldly-wise",
+      "experienced",
+      "enlightened",
+      "knowledgeable",
+      "civilized"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "sophistication",
+    "pos": "n.",
+    "head_meanings": [
+      "궤변 부리기, 궤변, 억지 이론",
+      "세련, 정교, 교묘",
+      "(세상 물정에) 익숙함"
+    ],
+    "synonyms_from_image": [
+      "sophistry",
+      "fallacious argument"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "sophistry",
+    "pos": "n.",
+    "head_meanings": [
+      "궤변, 궤변법"
+    ],
+    "synonyms_from_image": [
+      "sophism",
+      "false argument"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "sophomoric",
+    "pos": "adj.",
+    "head_meanings": [
+      "미숙한, 아는 체하는, 건방진",
+      "2년생 다운"
+    ],
+    "synonyms_from_image": [
+      "juvenile",
+      "childish",
+      "infantile",
+      "arrogant",
+      "haughty",
+      "proud"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "soporific",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "잠오게 하는, 최면의, 졸리는",
+      "(n.) 최면제, 수면제"
+    ],
+    "synonyms_from_image": [
+      "sedative",
+      "sleepy",
+      "drowsy",
+      "opiate",
+      "hypnotic"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "sordid",
+    "pos": "adj.",
+    "head_meanings": [
+      "(환경 등이) 더러운, 지저분한, 불결한",
+      "(동기/행위/인물 등이) 더러운, 탐욕스러운",
+      "(방법 등이) 야비한, 치사한, 인색한"
+    ],
+    "synonyms_from_image": [
+      "sleazy",
+      "squalid",
+      "dirty",
+      "putrid",
+      "rotten",
+      "wicked",
+      "vulgar"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "sovereignty",
+    "pos": "n.",
+    "head_meanings": [
+      "주권, 통치권",
+      "독립국/자치 공동체",
+      "(권력 등의) 최고, 최상"
+    ],
+    "synonyms_from_image": [
+      "jurisdiction",
+      "rule",
+      "supremacy",
+      "dominion",
+      "power",
+      "ascendancy",
+      "hegemony",
+      "domination",
+      "authority",
+      "autonomy",
+      "independence",
+      "self-government",
+      "self-rule",
+      "freedom"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "spare",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "<비용·노력 등을> 아끼다, 절약하다",
+      "<말·행동 등을> 삼가다",
+      "용서하다, 목숨을 살려주다",
+      "할애하다/떼어주다, 없이 지내다(do without)",
+      "예비의; 여분의; 검소한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "016",
+    "word": "sparing",
+    "pos": "adj.",
+    "head_meanings": [
+      "아끼며 사용하는, 절약하는",
+      "인색한(절약하는)",
+      "여분의, 예비의"
+    ],
+    "synonyms_from_image": [
+      "thrifty",
+      "economical",
+      "frugal",
+      "canny",
+      "careful",
+      "prudent",
+      "cautious",
+      "mean",
+      "miserly",
+      "niggardly",
+      "parsimonious",
+      "close-fisted",
+      "penny-pinching",
+      "ungenerous",
+      "stingy",
+      "tight-fisted",
+      "extra",
+      "supplementary",
+      "reserve",
+      "superfluous"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "sparingly",
+    "pos": "adv.",
+    "head_meanings": [
+      "절약하여, 검소하게",
+      "(양이) 조금, 드물게"
+    ],
+    "synonyms_from_image": [
+      "judiciously",
+      "carefully",
+      "cautiously",
+      "thinly",
+      "in moderation",
+      "scarcely"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "sparkly",
+    "pos": "adj./adv.",
+    "head_meanings": [
+      "불꽃 튀기는",
+      "반짝이는(glittery)",
+      "활기 있게(lively, vivaciously, effervescently)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "019",
+    "word": "sparse",
+    "pos": "adj.",
+    "head_meanings": [
+      "(인구 등이) 드문, 희박한",
+      "(동식물 등이) 산재하는",
+      "(물건이) 부족한"
+    ],
+    "synonyms_from_image": [
+      "scant",
+      "scanty",
+      "scattered",
+      "scarce",
+      "infrequent",
+      "meager",
+      "paltry",
+      "skimpy",
+      "limited"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "spartan",
+    "pos": "adj.",
+    "head_meanings": [
+      "적은, 빈약한(scanty)",
+      "엄격하고 간소한(절제하는)",
+      "간소한, 검소한"
+    ],
+    "synonyms_from_image": [
+      "austere",
+      "frugal",
+      "harsh",
+      "stringent",
+      "rigorous",
+      "strict",
+      "stern",
+      "severe",
+      "ascetic",
+      "abstemious"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "spasmodic",
+    "pos": "adj.",
+    "head_meanings": [
+      "경련성의, 발작성의",
+      "변덕스러운, 불규칙한"
+    ],
+    "synonyms_from_image": [
+      "catchy",
+      "spotty",
+      "sporadic",
+      "desultory",
+      "inconstant"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "spate",
+    "pos": "n.",
+    "head_meanings": [
+      "홍수, 소나기, 호우",
+      "(사물의) 많은 양"
+    ],
+    "synonyms_from_image": [
+      "inundation",
+      "flow",
+      "overflowing",
+      "rainstorm",
+      "heavy rain",
+      "flood"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "spawn",
+    "pos": "v.",
+    "head_meanings": [
+      "알을 낳다",
+      "생기게 하다, 일어나게 하다"
+    ],
+    "synonyms_from_image": [
+      "make",
+      "hatch",
+      "create",
+      "generate",
+      "produce",
+      "give birth to",
+      "engender",
+      "propagate",
+      "beget"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "specious",
+    "pos": "adj.",
+    "head_meanings": [
+      "외양만 좋은, 외양뿐인",
+      "그럴듯한(겉보기만 그럴싸한)"
+    ],
+    "synonyms_from_image": [
+      "spurious",
+      "misleading",
+      "false",
+      "fallacious",
+      "unsound",
+      "vain",
+      "empty",
+      "seeming",
+      "apparent",
+      "plausible"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "spectrum",
+    "pos": "n.",
+    "head_meanings": [
+      "스펙트럼, 분광",
+      "(망막에 남는) 잔상"
+    ],
+    "synonyms_from_image": [
+      "color system"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "speculate",
+    "pos": "v.",
+    "head_meanings": [
+      "심사숙고하다, 사색하다",
+      "추측(추론)하다",
+      "(주식/토지 등에) 투기하다"
+    ],
+    "synonyms_from_image": [
+      "conjecture"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "speculation",
+    "pos": "n.",
+    "head_meanings": [
+      "심사숙고, 사색, 성찰, 고찰",
+      "추측(억측), 추론",
+      "(사색에 의한) 결론/견해/의견",
+      "투기"
+    ],
+    "synonyms_from_image": [
+      "conjecture"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "speculative",
+    "pos": "adj.",
+    "head_meanings": [
+      "사색적인, 명상적인, 이론적인",
+      "사변적인, 추론적인",
+      "투기적인; 위험한(risky); 확신치 않은"
+    ],
+    "synonyms_from_image": [
+      "conjectural"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "spellbinding",
+    "pos": "adj.",
+    "head_meanings": [
+      "매료시키는, 매혹적인, 시선을 사로잡는"
+    ],
+    "synonyms_from_image": [
+      "fascinating",
+      "enthralling",
+      "entrancing",
+      "captivating",
+      "riveting",
+      "engrossing",
+      "absorbing",
+      "compelling"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "spendthrift",
+    "pos": "n.",
+    "head_meanings": [
+      "낭비가, 돈을 헤프게 쓰는 사람",
+      "방탕자"
+    ],
+    "synonyms_from_image": [
+      "prodigal",
+      "waster",
+      "profligate",
+      "spend-all",
+      "squanderer"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "spew",
+    "pos": "v.",
+    "head_meanings": [
+      "토하다, 게우다(vomit)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "032",
+    "word": "spiral",
+    "pos": "n./v.",
+    "head_meanings": [
+      "소용돌이 모양의",
+      "나선형의",
+      "나선형으로 돌다/움직이다"
+    ],
+    "synonyms_from_image": [
+      "churning"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "spirited",
+    "pos": "adj.",
+    "head_meanings": [
+      "힘찬, 생기 있는, 활기/용기 넘치는",
+      "(눈/공격 등이) 활발한/맹렬한",
+      "정신이 있는; 기분이 ~인"
+    ],
+    "synonyms_from_image": [
+      "lively",
+      "vivacious",
+      "buoyant",
+      "cheerful",
+      "joyful",
+      "exuberant",
+      "ebullient",
+      "jaunty",
+      "vibrant",
+      "vital",
+      "zestful",
+      "sparkling",
+      "sprightly",
+      "energetic",
+      "vigorous",
+      "enthusiastic",
+      "passionate",
+      "resolute"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "spiteful",
+    "pos": "adj.",
+    "head_meanings": [
+      "짓궂은, 악의의 찬",
+      "앙심을 품은"
+    ],
+    "synonyms_from_image": [
+      "malicious",
+      "malevolent",
+      "malign",
+      "mean",
+      "nasty",
+      "hurtful",
+      "mischievous",
+      "cruel",
+      "maleficent"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "spleen",
+    "pos": "n.",
+    "head_meanings": [
+      "불쾌, 울화",
+      "악의, 앙심(grudge)",
+      "우울, 의기 소침",
+      "비장, 지라"
+    ],
+    "synonyms_from_image": [
+      "bad-temper",
+      "ill temper",
+      "ill humor",
+      "anger",
+      "wrath",
+      "vexation",
+      "annoyance",
+      "irritation",
+      "displeasure",
+      "resentment",
+      "rancor",
+      "spite",
+      "malice",
+      "maliciousness",
+      "bitterness",
+      "animosity",
+      "antipathy",
+      "hostility",
+      "malevolence",
+      "venom",
+      "gall",
+      "malignance",
+      "malignity",
+      "acrimony",
+      "bile",
+      "hatred"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "splice",
+    "pos": "v.",
+    "head_meanings": [
+      "(밧줄을) 가닥을 맞추어 잇다",
+      "붙이다, 접합시키다"
+    ],
+    "synonyms_from_image": [
+      "join",
+      "gather",
+      "braid together",
+      "interweave",
+      "knit",
+      "plait"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "splurge",
+    "pos": "v./n.",
+    "head_meanings": [
+      "사치를 하다, 낭비하다",
+      "(on~) 과시하다, 자랑하다",
+      "과시, 호사"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "038",
+    "word": "spoil",
+    "pos": "v./n.",
+    "head_meanings": [
+      "상하게 하다, 망치다, 못쓰게 하다",
+      "(음식물 등을) 썩히다",
+      "(성격을) 버리다; 응석 받다; 버릇없게 만들다",
+      "(pl.) 전리품, 약탈품"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "039",
+    "word": "spontaneity",
+    "pos": "n.",
+    "head_meanings": [
+      "자발성, 자발적 행위",
+      "자연 발생적임"
+    ],
+    "synonyms_from_image": [
+      "voluntariness",
+      "intention",
+      "nature",
+      "free will"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "spontaneous",
+    "pos": "adj.",
+    "head_meanings": [
+      "자연히 일어나는, 자연 발생적인",
+      "무의식적인, 자발적인",
+      "충동적인",
+      "(식물/과실) 야생의, 자생의, 천연의",
+      "자연스러운"
+    ],
+    "synonyms_from_image": [
+      "unplanned",
+      "unpremeditated",
+      "unrehearsed",
+      "impulsive",
+      "impetuous",
+      "unstudied",
+      "impromptu",
+      "extemporaneous",
+      "voluntary",
+      "off-the-cuff",
+      "unconscious",
+      "instinctive",
+      "instinctual",
+      "automatic",
+      "mechanical",
+      "natural",
+      "unthinking",
+      "involuntary",
+      "reflex",
+      "uninhibited",
+      "relaxed",
+      "unaffected",
+      "genuine"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "sporadic",
+    "pos": "adj.",
+    "head_meanings": [
+      "때때로 일어나는, 가끔의",
+      "산발적인, 드문드문 있는"
+    ],
+    "synonyms_from_image": [
+      "infrequent",
+      "occasional",
+      "irregular",
+      "periodic",
+      "scattered",
+      "patchy",
+      "isolated",
+      "intermittent",
+      "spasmodic",
+      "erratic",
+      "sparse",
+      "unpredictable"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "sporadically",
+    "pos": "adv.",
+    "head_meanings": [
+      "때때로, 드물게, 산발적으로"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "043",
+    "word": "spore",
+    "pos": "n.",
+    "head_meanings": [
+      "홀씨, 포자, 생식 세포, 종자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "044",
+    "word": "sprawl",
+    "pos": "v.",
+    "head_meanings": [
+      "(도시/교외 등이) 불규칙하게 퍼지다",
+      "(덩굴 등이) 일기설기 퍼지다",
+      "기어가다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "045",
+    "word": "sprawling",
+    "pos": "adj.",
+    "head_meanings": [
+      "(도시/가로 등이) 불규칙하게 넓어지는/펼쳐진"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "046",
+    "word": "spruce",
+    "pos": "adj.",
+    "head_meanings": [
+      "깔끔한, 몸차림이 말끔한, 말쑥한"
+    ],
+    "synonyms_from_image": [
+      "tidy",
+      "smart",
+      "sharp",
+      "dapper",
+      "spick-and-span",
+      "shipshape"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "spur",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(말 등에) 박차",
+      "자극, 자극제",
+      "자극하다, 박차를 가하다"
+    ],
+    "synonyms_from_image": [
+      "stimulate",
+      "encourage",
+      "prompt",
+      "propel",
+      "prod",
+      "induce",
+      "impel",
+      "motivate",
+      "galvanize",
+      "inspire",
+      "incentivize",
+      "urge",
+      "egg on",
+      "stir",
+      "incite",
+      "goad",
+      "provoke",
+      "stimulus",
+      "incentive",
+      "encouragement",
+      "inducement",
+      "impetus",
+      "motivation",
+      "inspiration",
+      "projection",
+      "spike"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "spur to",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "자극하다, (하도록) 다그치다"
+    ],
+    "synonyms_from_image": [
+      "stimulate",
+      "encourage",
+      "prompt",
+      "propel",
+      "prod",
+      "induce",
+      "impel",
+      "motivate",
+      "galvanize",
+      "inspire",
+      "incentivize",
+      "urge",
+      "egg on",
+      "stir",
+      "incite",
+      "goad",
+      "provoke"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "spurring",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(=) fostering"
+    ],
+    "synonyms_from_image": [
+      "fostering"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "spurious",
+    "pos": "adj.",
+    "head_meanings": [
+      "가짜의, 위조의",
+      "그럴듯한(눈속임의)",
+      "(생물) 의사(僞似)의, 가(假)의"
+    ],
+    "synonyms_from_image": [
+      "artificial",
+      "specious",
+      "mendacious",
+      "forged",
+      "fake",
+      "bogus",
+      "phony",
+      "assumed",
+      "unauthentic",
+      "feigned",
+      "sham",
+      "counterfeit",
+      "fraudulent",
+      "deceptive",
+      "misleading"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "spuriousness",
+    "pos": "n.",
+    "head_meanings": [
+      "가짜, 위조, 그럴싸함, 겉치레"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "052",
+    "word": "spurn",
+    "pos": "v.",
+    "head_meanings": [
+      "거절하다, 퇴짜 놓다",
+      "경멸하다, 모욕하다"
+    ],
+    "synonyms_from_image": [
+      "reject",
+      "rebuff",
+      "scorn",
+      "turn down",
+      "repulse",
+      "repel",
+      "dismiss",
+      "disdain",
+      "despise",
+      "repudiate",
+      "snub",
+      "slight",
+      "jilt"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "squabble",
+    "pos": "n./v.",
+    "head_meanings": [
+      "쓸데없는 말싸움, 언쟁"
+    ],
+    "synonyms_from_image": [
+      "fight",
+      "feud",
+      "conflict",
+      "struggle",
+      "wrangle",
+      "clash",
+      "dispute"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "squalid",
+    "pos": "adj.",
+    "head_meanings": [
+      "누추한, 더러운",
+      "천한, 비열한"
+    ],
+    "synonyms_from_image": [
+      "ignoble",
+      "unclean",
+      "nasty",
+      "disheveled",
+      "scrubby",
+      "miserable",
+      "poverty-stricken"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "squalor",
+    "pos": "n.",
+    "head_meanings": [
+      "더러움, 누추함, 지저분함",
+      "천함, 비열함, 치사함"
+    ],
+    "synonyms_from_image": [
+      "filth",
+      "dirt",
+      "foulness",
+      "vileness",
+      "wretchedness",
+      "meanness",
+      "seediness",
+      "shabbiness",
+      "sordidness",
+      "insalubrity"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "squander",
+    "pos": "v.",
+    "head_meanings": [
+      "낭비하다, 탕진하다, 함부로 쓰다",
+      "흩뜨리다",
+      "(기회 등을) 놓치다"
+    ],
+    "synonyms_from_image": [
+      "waste",
+      "spend recklessly",
+      "splurge",
+      "blow",
+      "consume",
+      "fritter",
+      "dissipate",
+      "scatter",
+      "use up"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "square with",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "일치하다, 조화되다, 부합하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "058",
+    "word": "squash",
+    "pos": "v.",
+    "head_meanings": [
+      "짓누르다, 찌그러뜨리다",
+      "압박하다",
+      "진압하다, 억누르다",
+      "(소문 등을) 없애다, 말소하다"
+    ],
+    "synonyms_from_image": [
+      "crush",
+      "squeeze",
+      "smash",
+      "force",
+      "thrust",
+      "push",
+      "reject",
+      "block",
+      "scotch",
+      "thwart",
+      "suppress"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "squeamish",
+    "pos": "adj.",
+    "head_meanings": [
+      "잘 토하는, 메스꺼운",
+      "쉽게 충격받는/혐오하는",
+      "지나치게 까다로운(fastidious)",
+      "지나치게 결벽한/양심적인(scrupulous)"
+    ],
+    "synonyms_from_image": [
+      "easily nauseated",
+      "nauseated",
+      "easily shocked",
+      "disgusted",
+      "fastidious",
+      "scrupulous",
+      "principled",
+      "punctilious",
+      "right-minded",
+      "moral",
+      "ethical"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "squelch",
+    "pos": "v.",
+    "head_meanings": [
+      "짓누르다, 찌그러뜨리다",
+      "진압하다, 억압하다",
+      "철벅철벅 소리를 내다"
+    ],
+    "synonyms_from_image": [
+      "squash"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "staggering",
+    "pos": "adj.",
+    "head_meanings": [
+      "비틀거리는, 휘청거리는",
+      "엄청난, 놀랄 만큼 큰/놀라운"
+    ],
+    "synonyms_from_image": [
+      "overwhelming",
+      "astounding"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "stagger",
+    "pos": "v.",
+    "head_meanings": [
+      "비틀거리다, 휘청거리다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "063",
+    "word": "stagnate",
+    "pos": "v.",
+    "head_meanings": [
+      "정체하다, 흐르지 않다, 괴다",
+      "(사업 등이) 침체하다, 부진하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "064",
+    "word": "stagnation",
+    "pos": "n.",
+    "head_meanings": [
+      "정체, 침체",
+      "부진, 불황, 불경기"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "065",
+    "word": "stagnant",
+    "pos": "adj.",
+    "head_meanings": [
+      "흐르지 않는, 고여 있는",
+      "침체한, 불경기의"
+    ],
+    "synonyms_from_image": [
+      "not running",
+      "inert",
+      "stationary",
+      "unstirring"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "staid",
+    "pos": "adj.",
+    "head_meanings": [
+      "침착한, 착실한, 차분한",
+      "성실한, 안정된, 변덕없는"
+    ],
+    "synonyms_from_image": [
+      "weighty",
+      "earnest",
+      "composed",
+      "grave",
+      "proper",
+      "serious",
+      "solemn",
+      "settled"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "stain",
+    "pos": "v./n.",
+    "head_meanings": [
+      "얼룩, 때, 오점, 흠, 오염",
+      "얼룩지게 하다, 더럽히다",
+      "(명성 등을) 손상시키다",
+      "(색을) 입히다/염색하다"
+    ],
+    "synonyms_from_image": [
+      "discolor",
+      "blemish",
+      "soil",
+      "mark",
+      "spot",
+      "smear",
+      "damage",
+      "injure",
+      "dishonor",
+      "sully",
+      "harm",
+      "blacken",
+      "tarnish",
+      "taint",
+      "besmirch",
+      "color",
+      "tint",
+      "dye",
+      "tinge",
+      "pigment"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "stale",
+    "pos": "adj.",
+    "head_meanings": [
+      "(음식 등이) 신선하지 않은",
+      "(생각/표현 등이) 진부한(trite), 생기 없는"
+    ],
+    "synonyms_from_image": [
+      "insipid",
+      "hackneyed",
+      "banal",
+      "trite",
+      "cliché",
+      "platitudinous",
+      "outdated"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "staleness",
+    "pos": "n.",
+    "head_meanings": [
+      "진부함",
+      "부패"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "070",
+    "word": "stalemate",
+    "pos": "n.",
+    "head_meanings": [
+      "교착 상태, 막다른 골목",
+      "승부가 결정되지 못함(무승부)"
+    ],
+    "synonyms_from_image": [
+      "deadlock",
+      "standstill",
+      "impasse",
+      "deadline",
+      "stand-off",
+      "tie",
+      "draw"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "stalwart",
+    "pos": "adj.",
+    "head_meanings": [
+      "튼튼한",
+      "용감하고 씩씩한",
+      "강하고 충실한, 불굴의"
+    ],
+    "synonyms_from_image": [
+      "muscular",
+      "courageous",
+      "robust",
+      "sturdy",
+      "valiant",
+      "unwavering",
+      "resolute",
+      "intrepid"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "stamina",
+    "pos": "n.",
+    "head_meanings": [
+      "체력, 정력",
+      "끈기, 지구력"
+    ],
+    "synonyms_from_image": [
+      "endurance",
+      "health",
+      "tolerance",
+      "stoutness",
+      "energy"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "stamp",
+    "pos": "v.",
+    "head_meanings": [
+      "짓밟다, 밟아 찌그러뜨리다",
+      "(도장 등) 찍다; 새겨 넣다",
+      "낙인을 찍다; 특징짓다"
+    ],
+    "synonyms_from_image": [
+      "trample",
+      "tread",
+      "tramp",
+      "crush",
+      "squash",
+      "imprint",
+      "impress",
+      "fix",
+      "carve",
+      "identify",
+      "characterize",
+      "brand"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "stanch",
+    "pos": "v.",
+    "head_meanings": [
+      "(상처를) 지혈시키다",
+      "(출혈을) 멈추게 하다",
+      "억제하다, 억누르다"
+    ],
+    "synonyms_from_image": [
+      "check",
+      "stem",
+      "stop",
+      "suppress",
+      "obstruct",
+      "choke",
+      "withstand",
+      "thwart",
+      "stall",
+      "halt"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "stand offish",
+    "pos": "adj.",
+    "head_meanings": [
+      "쌀쌀한, 냉담한, 삼가는(reserved)",
+      "무뚝뚝한, 서먹한"
+    ],
+    "synonyms_from_image": [
+      "aloof",
+      "reserved",
+      "distant",
+      "remote",
+      "detached",
+      "withdrawn",
+      "uncommunicative",
+      "unresponsive",
+      "unfriendly",
+      "unsociable",
+      "introverted"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "standoffish",
+    "pos": "adj.",
+    "head_meanings": [
+      "쌀쌀한, 냉담한, 삼가는(reserved)",
+      "무뚝뚝한, 서먹한"
+    ],
+    "synonyms_from_image": [
+      "aloof",
+      "reserved",
+      "distant",
+      "remote",
+      "detached",
+      "withdrawn",
+      "uncommunicative",
+      "unresponsive",
+      "unfriendly",
+      "unsociable",
+      "introverted"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "stark",
+    "pos": "adj./adv.",
+    "head_meanings": [
+      "(경치 등이) 황량한, 황폐한",
+      "적나라한; 분명한, 뚜렷한",
+      "매우 간소한, 수수한"
+    ],
+    "synonyms_from_image": [
+      "desolate",
+      "barren",
+      "bare",
+      "arid",
+      "vacant",
+      "empty",
+      "forsaken",
+      "bleak",
+      "dreary",
+      "somber",
+      "cheerless",
+      "joyless",
+      "sharp",
+      "sharply defined",
+      "distinct",
+      "obvious",
+      "evident",
+      "clear",
+      "clear-cut",
+      "striking",
+      "austere",
+      "severe",
+      "plain",
+      "simple",
+      "unadorned",
+      "unembellished",
+      "undecorated",
+      "sheer",
+      "utter",
+      "complete",
+      "absolute",
+      "total",
+      "downright",
+      "thorough",
+      "consummate",
+      "unqualified",
+      "unalloyed",
+      "blunt",
+      "bald",
+      "basic",
+      "unvarnished",
+      "harsh",
+      "completely",
+      "totally",
+      "utterly",
+      "absolutely",
+      "wholly"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "starkly",
+    "pos": "adv.",
+    "head_meanings": [
+      "황량하게",
+      "적나라하게",
+      "뚜렷이"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "079",
+    "word": "stasis",
+    "pos": "n.",
+    "head_meanings": [
+      "균형/정지 상태",
+      "(체액·가스·혈류 등의) 정지"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "080",
+    "word": "static",
+    "pos": "adj.",
+    "head_meanings": [
+      "정지하고 있는, 변화하지 않는",
+      "정적인"
+    ],
+    "synonyms_from_image": [
+      "inactive",
+      "stagnant",
+      "inert",
+      "still",
+      "suspended",
+      "changeless"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "status quo",
+    "pos": "n.",
+    "head_meanings": [
+      "그대로의 상태",
+      "현상 유지"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "082",
+    "word": "statute",
+    "pos": "n.",
+    "head_meanings": [
+      "성문법, 법령",
+      "규칙"
+    ],
+    "synonyms_from_image": [
+      "rule",
+      "precept",
+      "act",
+      "ordinance",
+      "edict",
+      "canon",
+      "bylaw",
+      "bill"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "statutory",
+    "pos": "adj.",
+    "head_meanings": [
+      "법정의, 법령의",
+      "법에 걸리는"
+    ],
+    "synonyms_from_image": [
+      "legal",
+      "prescriptive",
+      "lawful",
+      "judicial",
+      "authorized"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "staunch",
+    "pos": "",
+    "head_meanings": [],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "085",
+    "word": "stave off",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "(위험/파멸 등을) 저지하다, 피하다",
+      "연기하다, 미루다"
+    ],
+    "synonyms_from_image": [
+      "forestall"
+    ]
+  },
+  {
+    "id": "086",
+    "word": "steadfast",
+    "pos": "adj.",
+    "head_meanings": [
+      "확고한, 부동의",
+      "튼튼한, 굳건한"
+    ],
+    "synonyms_from_image": [
+      "undeviating",
+      "steady",
+      "fixed",
+      "resolute",
+      "indomitable",
+      "undaunted",
+      "intransigent"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "stealth",
+    "pos": "n.",
+    "head_meanings": [
+      "은밀한 수법"
+    ],
+    "synonyms_from_image": [
+      "clandestineness"
+    ]
+  },
+  {
+    "id": "088",
+    "word": "steep",
+    "pos": "v.",
+    "head_meanings": [
+      "적시다, 물에 담가 불리다",
+      "흠뻑 적시다"
+    ],
+    "synonyms_from_image": [
+      "macerate",
+      "drench",
+      "imbue",
+      "infuse",
+      "permeate"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "stellar",
+    "pos": "adj.",
+    "head_meanings": [
+      "별의, 별이 많은",
+      "주요한, 일류의"
+    ],
+    "synonyms_from_image": [
+      "starry",
+      "dominant",
+      "gleaming",
+      "lustrous"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "stem",
+    "pos": "v.",
+    "head_meanings": [
+      "저지하다, 막다, 멈추게 하다"
+    ],
+    "synonyms_from_image": [
+      "checking",
+      "stemming",
+      "stop",
+      "restrain",
+      "prevent",
+      "resist",
+      "halt",
+      "hinder",
+      "obstruct"
+    ]
+  },
+  {
+    "id": "091",
+    "word": "stemming",
+    "pos": "",
+    "head_meanings": [],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "092",
+    "word": "stem from",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "일어나다, 생기다, 시작되다",
+      "유래하다"
+    ],
+    "synonyms_from_image": [
+      "originate",
+      "rise",
+      "dawn",
+      "result",
+      "appear",
+      "emerge"
+    ]
+  },
+  {
+    "id": "093",
+    "word": "stench",
+    "pos": "n.",
+    "head_meanings": [
+      "고약한/불쾌한 냄새, 악취"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "094",
+    "word": "stentorian",
+    "pos": "adj.",
+    "head_meanings": [
+      "목소리가 큰"
+    ],
+    "synonyms_from_image": [
+      "blare",
+      "vociferous",
+      "roar"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "stereotyped",
+    "pos": "adj.",
+    "head_meanings": [
+      "판에 박은, 진부한",
+      "틀에 박힌"
+    ],
+    "synonyms_from_image": [
+      "dull",
+      "habitual",
+      "indistinctive",
+      "routine",
+      "trite",
+      "hackneyed",
+      "lifeless",
+      "stale",
+      "worn"
+    ]
+  },
+  {
+    "id": "096",
+    "word": "stereotype",
+    "pos": "n.",
+    "head_meanings": [
+      "정형, 고정관념, 상투적 문구",
+      "연판(인쇄)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "097",
+    "word": "sterling",
+    "pos": "adj.",
+    "head_meanings": [
+      "믿음직한, 권위 있는",
+      "훌륭한, 진정한, 순수한"
+    ],
+    "synonyms_from_image": [
+      "excellent",
+      "outstanding",
+      "first-rate",
+      "exceptional",
+      "laudable",
+      "commendable",
+      "admirable",
+      "valuable",
+      "deserving"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "stickler",
+    "pos": "n.",
+    "head_meanings": [
+      "까다로운 사람, 깐깐한 사람",
+      "(비유) 어려운 문제"
+    ],
+    "synonyms_from_image": [
+      "martinet",
+      "knotty point",
+      "dilemma",
+      "Gordian knot"
+    ]
+  },
+  {
+    "id": "099",
+    "word": "stiff",
+    "pos": "adj.",
+    "head_meanings": [
+      "뻣뻣한",
+      "(근육 등이) 뻐근한",
+      "거센",
+      "(태도 등이) 딱딱한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "100",
+    "word": "stiffness",
+    "pos": "n.",
+    "head_meanings": [
+      "뻣뻣함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "101",
+    "word": "stifle",
+    "pos": "v.",
+    "head_meanings": [
+      "숨을 막다, 질식시키다",
+      "(감정 등을) 억누르다, 억제하다",
+      "(반란 등을) 진압하다",
+      "(소리 등을) 억누르다"
+    ],
+    "synonyms_from_image": [
+      "shackle",
+      "suffocate",
+      "choke",
+      "smother",
+      "asphyxiate",
+      "suppress",
+      "restrain",
+      "check",
+      "curb",
+      "constrain",
+      "hinder",
+      "hamper",
+      "impede",
+      "prevent",
+      "inhibit"
+    ]
+  },
+  {
+    "id": "102",
+    "word": "stigma",
+    "pos": "n.",
+    "head_meanings": [
+      "오명, 치욕, 낙인"
+    ],
+    "synonyms_from_image": [
+      "blemish",
+      "disrepute",
+      "shame",
+      "dishonor",
+      "stain",
+      "reproach"
+    ]
+  },
+  {
+    "id": "103",
+    "word": "stigmatize",
+    "pos": "v.",
+    "head_meanings": [
+      "오명을 씌우다, 비난하다",
+      "낙인을 찍다"
+    ],
+    "synonyms_from_image": [
+      "blame",
+      "condemn",
+      "censure",
+      "denounce",
+      "vilify"
+    ]
+  },
+  {
+    "id": "104",
+    "word": "still",
+    "pos": "adj.",
+    "head_meanings": [
+      "정지한, 움직이지 않는, 가만히 있는",
+      "(장소 등이) 조용한, 고요한",
+      "(마음이) 평정한",
+      "(소리/목소리 등이) 나지막한, 작은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "105",
+    "word": "stilted",
+    "pos": "adj.",
+    "head_meanings": [
+      "거드름 피우는, 으스대는, 딱딱한",
+      "과장된, 부자연스러운"
+    ],
+    "synonyms_from_image": [
+      "formal",
+      "grandiloquent",
+      "inelegant",
+      "unnatural",
+      "contrived"
+    ]
+  },
+  {
+    "id": "106",
+    "word": "stingy",
+    "pos": "adj.",
+    "head_meanings": [
+      "인색한, 너무 아끼는",
+      "적은, 부족한, 근소한"
+    ],
+    "synonyms_from_image": [
+      "mean",
+      "miserly",
+      "niggardly",
+      "close-fisted",
+      "parsimonious",
+      "penny-pinching",
+      "tight-fisted",
+      "cheap",
+      "penurious",
+      "Scrooge-like"
+    ]
+  },
+  {
+    "id": "107",
+    "word": "stint",
+    "pos": "v.",
+    "head_meanings": [
+      "절약하다, 아끼다",
+      "제한하다"
+    ],
+    "synonyms_from_image": [
+      "be frugal",
+      "save",
+      "limit",
+      "restrict",
+      "confine",
+      "restrain"
+    ]
+  },
+  {
+    "id": "108",
+    "word": "stint",
+    "pos": "n.",
+    "head_meanings": [
+      "규정된 양, 할당",
+      "제한, 한정"
+    ],
+    "synonyms_from_image": [
+      "share",
+      "allotment",
+      "restraint",
+      "constraint"
+    ]
+  },
+  {
+    "id": "109",
+    "word": "stipulate",
+    "pos": "v.",
+    "head_meanings": [
+      "(계약/약정서 조항에) 명기하다, 규정하다",
+      "~을 조건으로 요구하다"
+    ],
+    "synonyms_from_image": [
+      "set forth",
+      "insist upon",
+      "state",
+      "designate",
+      "promise",
+      "pledge",
+      "guarantee",
+      "insure",
+      "grant"
+    ]
+  },
+  {
+    "id": "110",
+    "word": "stodgy",
+    "pos": "adj.",
+    "head_meanings": [
+      "(책/문체 등이) 흥미 없는, 답답한(dull), 진부한",
+      "(사람/소설 등이) 재미없는, 지루한",
+      "(음식이) 기름지고 소화가 잘 안 되는",
+      "(사람/생각이) 딱딱한, 구식의, 지나치게 격식을 차리는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "111",
+    "word": "stoic",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "스토아 철학자",
+      "극기/금욕의",
+      "태연한, 냉철한(감정을 드러내지 않는)"
+    ],
+    "synonyms_from_image": [
+      "patient man",
+      "man of iron",
+      "man of stone",
+      "uncomplaining",
+      "patient",
+      "forbearing",
+      "tolerant",
+      "phlegmatic",
+      "accepting",
+      "philosophical"
+    ]
+  },
+  {
+    "id": "112",
+    "word": "stoicism",
+    "pos": "n.",
+    "head_meanings": [
+      "(스토아학파의) 극기, 금욕",
+      "냉정, 무관심"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "113",
+    "word": "stoke",
+    "pos": "v.",
+    "head_meanings": [
+      "불을 피우다",
+      "연료를 보급하다",
+      "부채질하다"
+    ],
+    "synonyms_from_image": [
+      "burn",
+      "fuel",
+      "heat",
+      "poke"
+    ]
+  },
+  {
+    "id": "114",
+    "word": "stolid",
+    "pos": "adj.",
+    "head_meanings": [
+      "둔감한(dull), 무신경의",
+      "무감동의"
+    ],
+    "synonyms_from_image": [
+      "impassive",
+      "phlegmatic",
+      "unemotional",
+      "cool",
+      "calm",
+      "placid",
+      "unexcitable",
+      "unimaginative",
+      "dull"
+    ]
+  },
+  {
+    "id": "115",
+    "word": "stolidity",
+    "pos": "n.",
+    "head_meanings": [
+      "둔감, 무신경"
+    ],
+    "synonyms_from_image": [
+      "indifference",
+      "unresponsiveness",
+      "unconcern",
+      "coolness"
+    ]
+  },
+  {
+    "id": "116",
+    "word": "stoop (to)",
+    "pos": "v.",
+    "head_meanings": [
+      "(…까지) 하다(자신을 비하하다)",
+      "(…에) 굽히다/숙이다",
+      "(…에) 몸을 굽히다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "117",
+    "word": "stout",
+    "pos": "adj.",
+    "head_meanings": [
+      "용감한; 단호한, 완강한",
+      "튼튼한, 견고한",
+      "통통한",
+      "(술 등이) 독한"
+    ],
+    "synonyms_from_image": [
+      "determined",
+      "vigorous",
+      "forceful",
+      "spirited",
+      "staunch",
+      "steadfast",
+      "stalwart",
+      "firm",
+      "resolute",
+      "unyielding",
+      "dogged",
+      "brave",
+      "bold",
+      "courageous",
+      "valiant",
+      "valorous",
+      "gallant",
+      "fearless",
+      "doughty",
+      "intrepid",
+      "strong",
+      "sturdy",
+      "solid",
+      "robust",
+      "tough",
+      "durable",
+      "fat",
+      "plump",
+      "portly",
+      "pudgy",
+      "rotund",
+      "burly",
+      "bulky",
+      "hefty",
+      "solidly built"
+    ]
+  },
+  {
+    "id": "118",
+    "word": "straddle",
+    "pos": "v.",
+    "head_meanings": [
+      "두 발로 벌리고(버티고) 서다",
+      "(말 등에) 걸터앉다",
+      "양다리를 걸치다",
+      "(경계 등에) 걸치다"
+    ],
+    "synonyms_from_image": [
+      "lie on both sides of"
+    ]
+  },
+  {
+    "id": "119",
+    "word": "straddling",
+    "pos": "v.",
+    "head_meanings": [
+      "찬반을 분명히 하지 않다, 기… (이미지에서 일부만 선명)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "120",
+    "word": "straightforward",
+    "pos": "adj./adv.",
+    "head_meanings": [
+      "똑바른, 정확한, 솔직한, 부정이 없는; 직설의",
+      "(일 등이) 수월한, 간단한",
+      "adv.(또는 straightforwards) 똑바로; 직접으로; 솔직히; 정직하게"
+    ],
+    "synonyms_from_image": [
+      "honest",
+      "frank",
+      "candid",
+      "trustful",
+      "sincere",
+      "forthright",
+      "direct",
+      "unambiguous",
+      "uncomplicated",
+      "simple",
+      "easy",
+      "undemanding"
+    ]
+  },
+  {
+    "id": "121",
+    "word": "stratagem",
+    "pos": "n.",
+    "head_meanings": [
+      "전략, 계략, 책략"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "122",
+    "word": "stratify",
+    "pos": "v.",
+    "head_meanings": [
+      "층으로 배열하다, 계층화하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "123",
+    "word": "stratified",
+    "pos": "adj.",
+    "head_meanings": [
+      "층을 이룬, 계층화된"
+    ],
+    "synonyms_from_image": [
+      "hierarchical"
+    ]
+  },
+  {
+    "id": "124",
+    "word": "stratification",
+    "pos": "n.",
+    "head_meanings": [],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "125",
+    "word": "stratum",
+    "pos": "n.",
+    "head_meanings": [
+      "층; 지층; 계급"
+    ],
+    "synonyms_from_image": [
+      "bed",
+      "story",
+      "level",
+      "zone",
+      "plate",
+      "leaf",
+      "ply",
+      "scale"
+    ]
+  },
+  {
+    "id": "126",
+    "word": "stray",
+    "pos": "v.",
+    "head_meanings": [
+      "길을 잃다, 옆길로 벗어나다",
+      "방황하다(wander)",
+      "(생각, 논의 등이) 탈선하다, 빗나가다"
+    ],
+    "synonyms_from_image": [
+      "wander off",
+      "go astray",
+      "get lost",
+      "digress",
+      "deviate",
+      "wander",
+      "get off the subject",
+      "sin",
+      "transgress",
+      "err",
+      "trespass",
+      "roam",
+      "rove",
+      "drift"
+    ]
+  },
+  {
+    "id": "127",
+    "word": "streamline",
+    "pos": "n./adj./v.",
+    "head_meanings": [
+      "유선, 유선형(의)",
+      "간소화된, 능률적인; 현대적인, 신식의",
+      "유선형으로 하다",
+      "(일, 과정, 계획 등을) 능률적으로 하다, 합리화(간소화)하다, 현대적으로 하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "128",
+    "word": "stricture",
+    "pos": "n.",
+    "head_meanings": [
+      "비난, 혹평, 탄핵(on,upon)",
+      "압박, 구속"
+    ],
+    "synonyms_from_image": [
+      "slam",
+      "blame",
+      "obloquy",
+      "aspersion",
+      "rebuke",
+      "limitation",
+      "restriction",
+      "cramp"
+    ]
+  },
+  {
+    "id": "129",
+    "word": "strident",
+    "pos": "adj.",
+    "head_meanings": [
+      "귀에 거슬리는, 크고 거친"
+    ],
+    "synonyms_from_image": [
+      "blatant",
+      "clamorous",
+      "boisterous",
+      "creaking",
+      "grating"
+    ]
+  },
+  {
+    "id": "130",
+    "word": "stringent",
+    "pos": "adj.",
+    "head_meanings": [
+      "[규칙 등이] 엄중한, 엄격한; 강제적인",
+      "[사태 등이] 긴박한",
+      "[금융계가] 자금이 빡빡한",
+      "(확실히) 설득력이 있는"
+    ],
+    "synonyms_from_image": [
+      "harsh",
+      "unsparing",
+      "veracious",
+      "strict",
+      "convincing",
+      "forcible",
+      "firm",
+      "rigid",
+      "rigorous",
+      "severe",
+      "tight",
+      "exacting",
+      "demanding",
+      "inflexible"
+    ]
+  },
+  {
+    "id": "131",
+    "word": "strip",
+    "pos": "v.",
+    "head_meanings": [
+      "겉질을 벗기다",
+      "폭로하다",
+      "제거하다, 없애다; 해체하다",
+      "빼앗다, 벗기다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "132",
+    "word": "strip away",
+    "pos": "v.",
+    "head_meanings": [
+      "벗기다, 벗겨내다, 제거하다"
+    ],
+    "synonyms_from_image": [
+      "peel",
+      "remove",
+      "take away from",
+      "dispossess",
+      "deprive",
+      "confiscate",
+      "divest",
+      "dismantle",
+      "disassemble",
+      "empty",
+      "clear",
+      "plunder",
+      "rob",
+      "burgle",
+      "loot",
+      "pillage",
+      "ransack",
+      "despoil",
+      "sack",
+      "undress",
+      "unclothe",
+      "disrobe",
+      "strip naked"
+    ]
+  },
+  {
+    "id": "133",
+    "word": "strive",
+    "pos": "v.",
+    "head_meanings": [
+      "노력하다, 애쓰다",
+      "(남과) 싸우다, 겨루다, 경쟁하다"
+    ],
+    "synonyms_from_image": [
+      "try (hard)",
+      "attempt",
+      "endeavor",
+      "aim",
+      "venture",
+      "make an effort",
+      "struggle",
+      "fight",
+      "battle",
+      "combat",
+      "campaign",
+      "crusade"
+    ]
+  },
+  {
+    "id": "134",
+    "word": "stroke",
+    "pos": "n./v.",
+    "head_meanings": [
+      "동사: 쓰다듬다, 어루만지다",
+      "(남을) 달래다, 어르다, 구슬리다",
+      "(듣기 좋은 말을 하여) 남의 자존심을 만족시키다",
+      "명사: (무기 등으로) 치기, 타격, 일격",
+      "(손놀림/붓놀림)",
+      "(반복 운동의) 한 번 움직임; (수영 등) 한 번 젓기",
+      "(작품 등의) 특징 있는 필치, 효과적인 마무리"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "135",
+    "word": "strut",
+    "pos": "v.",
+    "head_meanings": [
+      "점잖 빼며 걷기, 활보; 거만하게 걷다"
+    ],
+    "synonyms_from_image": [
+      "swagger",
+      "parade",
+      "promenade",
+      "stride"
+    ]
+  },
+  {
+    "id": "136",
+    "word": "strut",
+    "pos": "n.",
+    "head_meanings": [
+      "지주, 버팀목"
+    ],
+    "synonyms_from_image": [
+      "brace",
+      "post",
+      "support",
+      "bracket",
+      "prop"
+    ]
+  },
+  {
+    "id": "137",
+    "word": "stubborn",
+    "pos": "adj.",
+    "head_meanings": [
+      "완고한, 고집 센"
+    ],
+    "synonyms_from_image": [
+      "intractable",
+      "obstinate",
+      "headstrong",
+      "obdurate",
+      "perverse",
+      "recalcitrant",
+      "inflexible",
+      "uncompromising",
+      "pertinacious",
+      "refractory",
+      "contumacious",
+      "persistent",
+      "tenacious",
+      "resistant"
+    ]
+  },
+  {
+    "id": "138",
+    "word": "studied",
+    "pos": "adj.",
+    "head_meanings": [
+      "고의의, 부자연스러운, 일부러 꾸민, 가장한, 심사숙고한"
+    ],
+    "synonyms_from_image": [
+      "intentional",
+      "deliberate",
+      "premeditated",
+      "considered",
+      "elaborate"
+    ]
+  },
+  {
+    "id": "139",
+    "word": "stultify",
+    "pos": "v.",
+    "head_meanings": [
+      "바보로 보이게 하다",
+      "무의미하게 하다, 소용없게 만들다"
+    ],
+    "synonyms_from_image": [
+      "render futile",
+      "make useless",
+      "vitiate",
+      "cripple",
+      "nullify"
+    ]
+  },
+  {
+    "id": "140",
+    "word": "stun",
+    "pos": "v.",
+    "head_meanings": [
+      "놀라게 하다, 아연하게 하다",
+      "실신케 하다, 멍하게 하다"
+    ],
+    "synonyms_from_image": [
+      "astonish",
+      "astound",
+      "startle",
+      "stagger",
+      "bewilder",
+      "daze",
+      "shock",
+      "stupefy",
+      "amaze",
+      "dumbfound"
+    ]
+  },
+  {
+    "id": "141",
+    "word": "stunned",
+    "pos": "adj.",
+    "head_meanings": [
+      "기절시킨, 실신케 한",
+      "(놀람/기쁨으로) 어리벙벙한, 얼떨떨한",
+      "대경실색하게 된"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "142",
+    "word": "stunning",
+    "pos": "adj.",
+    "head_meanings": [
+      "기절시키는, 놀라게 하는, 아연하게 하는",
+      "놀랄 만큼 아름다운/멋진; 제1급의"
+    ],
+    "synonyms_from_image": [
+      "remarkable",
+      "extraordinary",
+      "staggering",
+      "incredible",
+      "outstanding",
+      "amazing",
+      "astonishing",
+      "marvelous",
+      "phenomenal",
+      "splendid",
+      "fabulous",
+      "fantastic",
+      "tremendous"
+    ]
+  },
+  {
+    "id": "143",
+    "word": "stupefy",
+    "pos": "v.",
+    "head_meanings": [
+      "지각을 마비시키다",
+      "무감각 상태로 만들다",
+      "멍하게 하다",
+      "깜짝 놀라게 하다"
+    ],
+    "synonyms_from_image": [
+      "shock",
+      "put into a stupor",
+      "astound",
+      "astonish",
+      "amaze"
+    ]
+  },
+  {
+    "id": "144",
+    "word": "stupefaction",
+    "pos": "n.",
+    "head_meanings": [],
+    "synonyms_from_image": [
+      "stunned condition",
+      "torpor",
+      "inertness",
+      "coma",
+      "numbness",
+      "paralysis"
+    ]
+  },
+  {
+    "id": "145",
+    "word": "stupor",
+    "pos": "n.",
+    "head_meanings": [
+      "무감각, 마비, 혼수, 무감각한 상태"
+    ],
+    "synonyms_from_image": [
+      "stupefaction",
+      "stunned condition",
+      "torpor",
+      "inertness",
+      "coma",
+      "numbness",
+      "paralysis"
+    ]
+  },
+  {
+    "id": "146",
+    "word": "sturdy",
+    "pos": "adj.",
+    "head_meanings": [
+      "강건한, 튼튼한"
+    ],
+    "synonyms_from_image": [
+      "well built",
+      "muscular",
+      "strong",
+      "hefty",
+      "brawny",
+      "solid",
+      "burly",
+      "robust"
+    ]
+  },
+  {
+    "id": "147",
+    "word": "stymie",
+    "pos": "v./n.",
+    "head_meanings": [
+      "방해하다, 곤란케 하다, 난처하게 하다"
+    ],
+    "synonyms_from_image": [
+      "hinder",
+      "block",
+      "thwart",
+      "mystify",
+      "confound",
+      "puzzle",
+      "bewilder",
+      "dismay",
+      "frustrate"
+    ]
+  },
+  {
+    "id": "148",
+    "word": "suave",
+    "pos": "adj.",
+    "head_meanings": [
+      "(사람, 태도, 말투 등) 온화한, 상냥한, 점잖은, 세련된",
+      "(바람 등) 기분 좋은",
+      "(술 등) 맛이 순한"
+    ],
+    "synonyms_from_image": [
+      "urbane",
+      "debonair",
+      "polished",
+      "refined",
+      "civilized",
+      "dignified",
+      "gallant",
+      "smooth",
+      "polite",
+      "well mannered",
+      "civil",
+      "courteous",
+      "affable",
+      "charming",
+      "sophisticated",
+      "tactful",
+      "diplomatic"
+    ]
+  },
+  {
+    "id": "149",
+    "word": "suavity",
+    "pos": "n.",
+    "head_meanings": [
+      "정중한 태도, 공손한 응답, 예의, 유창, 온화"
+    ],
+    "synonyms_from_image": [
+      "culture",
+      "refinement",
+      "elegance",
+      "good manners",
+      "gentility",
+      "amenities"
+    ]
+  },
+  {
+    "id": "150",
+    "word": "subdue",
+    "pos": "v.",
+    "head_meanings": [
+      "(적국 등을) 정복하다, 진압하다, 복종시키다",
+      "(감정 등을) 억누르다, 억제하다",
+      "(빛, 소리, 태도, 동작 등을) 누그러지게 하다, 완화하다"
+    ],
+    "synonyms_from_image": [
+      "conquer",
+      "defeat",
+      "vanquish",
+      "overcome",
+      "overwhelm",
+      "crush",
+      "squash",
+      "beat",
+      "trounce",
+      "subjugate",
+      "suppress",
+      "thrash",
+      "hammer",
+      "curb",
+      "restrain",
+      "hold back",
+      "constrain",
+      "contain",
+      "repress",
+      "suppress",
+      "stifle",
+      "smother",
+      "keep in check",
+      "rein in",
+      "control",
+      "quell"
+    ]
+  },
+  {
+    "id": "151",
+    "word": "subdued",
+    "pos": "adj.",
+    "head_meanings": [
+      "(무력으로) 정복된; 억제된",
+      "(사람, 성질, 태도 등이) 조용한, 가라앉은, 차분한",
+      "완화된, 낮아진, 약해진"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "152",
+    "word": "subjective",
+    "pos": "adj.",
+    "head_meanings": [
+      "주관의, 개인 주관의, 주체의",
+      "마음의",
+      "자기 본위의"
+    ],
+    "synonyms_from_image": [
+      "intrinsic",
+      "individual",
+      "personal",
+      "emotional",
+      "mental"
+    ]
+  },
+  {
+    "id": "153",
+    "word": "subject to",
+    "pos": "phr.",
+    "head_meanings": [
+      "영향을 받는/받기 쉬운, 의존하는",
+      "~에 걸린, 당하는",
+      "(동의/허가/승인 등의) 조건부로"
+    ],
+    "synonyms_from_image": [
+      "conditional on",
+      "contingent on",
+      "dependent on",
+      "susceptible to",
+      "liable to",
+      "prone to",
+      "vulnerable to",
+      "predisposed to",
+      "at risk of",
+      "bound by",
+      "constrained by",
+      "accountable to"
+    ]
+  },
+  {
+    "id": "154",
+    "word": "subjugate",
+    "pos": "v.",
+    "head_meanings": [
+      "정복하다, 복종시키다",
+      "(적정 따위를) 가라앉히다"
+    ],
+    "synonyms_from_image": [
+      "crush",
+      "squash",
+      "defeat",
+      "suppress",
+      "subdue",
+      "vanquish",
+      "reduce to submission"
+    ]
+  },
+  {
+    "id": "155",
+    "word": "sublime",
+    "pos": "adj.",
+    "head_meanings": [
+      "장엄한, 고귀한, 엄청난, 최고의, 경외할만한"
+    ],
+    "synonyms_from_image": [
+      "majestic",
+      "august",
+      "lofty",
+      "grand",
+      "superb",
+      "excellent",
+      "marvelous"
+    ]
+  }
+]
