@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
   <title>GRE Vocabulary Test</title>
   <style>
     :root{
@@ -36,7 +37,7 @@
     html,body{ min-height:100vh; }
     body{
       margin:0;
-      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      font-family: 'Pretendard Variable', 'Outfit', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
       background: var(--bg);
       color: var(--text);
       -webkit-font-smoothing: antialiased;
@@ -316,7 +317,7 @@
     }
 
     .hero-title {
-      font-family: 'Outfit', sans-serif;
+      font-family: 'Pretendard Variable', 'Outfit', sans-serif;
       font-size: 28px;
       font-weight: 800;
       letter-spacing: -0.5px;
@@ -343,7 +344,7 @@
     .status-pre { text-align: center; }
 
     .status-pre .count-big {
-      font-family: 'Outfit', sans-serif;
+      font-family: 'Pretendard Variable', 'Outfit', sans-serif;
       font-size: 36px;
       font-weight: 700;
       letter-spacing: -1px;
@@ -402,7 +403,7 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      font-family: 'Outfit', sans-serif;
+      font-family: 'Pretendard Variable', 'Outfit', sans-serif;
       font-size: 24px;
       font-weight: 700;
       letter-spacing: -1px;
@@ -624,7 +625,7 @@
       font-size: 24px;
       font-weight: 700;
       letter-spacing: -.2px;
-      font-family: 'Outfit', sans-serif;
+      font-family: 'Pretendard Variable', 'Outfit', sans-serif;
     }
     .pos-tag{
       font-size: 11px;
@@ -725,7 +726,7 @@
       font-size: 18px;
       font-weight: 500;
       flex: 1;
-      font-family: 'Outfit', sans-serif;
+      font-family: 'Pretendard Variable', 'Outfit', sans-serif;
     }
 
     /* Graded option states */
@@ -849,6 +850,280 @@
       font-weight: 500;
     }
 
+    /* ========================================= */
+    /* CARD MODE TOGGLE SWITCH                  */
+    /* ========================================= */
+    .mode-toggle-wrap{
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      background: #fff;
+      min-height: 44px;
+      user-select: none;
+    }
+    .mode-toggle-label{
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--muted);
+      white-space: nowrap;
+      letter-spacing: .3px;
+    }
+    .mode-toggle-label.active-label{ color: var(--text); }
+    .toggle-track{
+      width: 40px;
+      height: 22px;
+      border-radius: 12px;
+      background: #E5E7EB;
+      position: relative;
+      cursor: pointer;
+      transition: background .25s ease;
+      flex-shrink: 0;
+    }
+    .toggle-track.on{ background: var(--blue); }
+    .toggle-knob{
+      position: absolute;
+      top: 2px;
+      left: 2px;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      background: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,.2);
+      transition: transform .25s ease;
+    }
+    .toggle-track.on .toggle-knob{ transform: translateX(18px); }
+
+    /* ========================================= */
+    /* CARD MODE LAYOUT                         */
+    /* ========================================= */
+    body.card-mode .hero-card,
+    body.card-mode .progress-dots-panel{ display: none !important; }
+    body.card-mode .questions{
+      column-count: 1 !important;
+      max-width: 640px;
+      margin: 0 auto;
+    }
+    body.card-mode .qcard{ display: none; }
+    body.card-mode .qcard.card-active{
+      display: block;
+      animation: cardSlideIn .3s ease;
+    }
+    @keyframes cardSlideIn {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Card mode nav bar */
+    .card-nav{
+      display: none;
+      max-width: 640px;
+      margin: 0 auto 24px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 16px 20px;
+      box-shadow: var(--shadow-sm);
+    }
+    body.card-mode .card-nav{ display: block; }
+
+    .card-nav-top{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+    .card-nav-counter{
+      font-size: 22px;
+      font-weight: 800;
+      letter-spacing: -.3px;
+    }
+    .card-nav-counter .cn-of{
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--muted);
+    }
+    .card-nav-score{
+      display: flex;
+      gap: 12px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    .card-nav-score .cns-item{ display: flex; align-items: center; gap: 4px; }
+    .card-nav-score .cns-dot{
+      width: 8px; height: 8px; border-radius: 50%;
+    }
+    .card-nav-score .cns-dot.g{ background: var(--green); }
+    .card-nav-score .cns-dot.a{ background: var(--amber); }
+    .card-nav-score .cns-dot.r{ background: var(--red); }
+
+    .card-nav-bar{
+      height: 5px;
+      border-radius: 99px;
+      background: #F3F4F6;
+      overflow: hidden;
+      margin-bottom: 14px;
+    }
+    .card-nav-bar > div{
+      height: 100%;
+      border-radius: 99px;
+      background: linear-gradient(90deg, var(--text), #374151);
+      transition: width .4s ease;
+    }
+
+    .card-nav-btns{
+      display: flex;
+      gap: 8px;
+    }
+    .card-nav-btns .btn{ flex: 1; text-align: center; }
+
+    /* Card mode: also hide grade / export from topbar since we grade per-card */
+    body.card-mode #gradeBtn{ display: none; }
+
+    /* Card mode: instant grade — hide checkboxes, make options clickable buttons */
+    body.card-mode .opt input[type="checkbox"]{ display: none; }
+    body.card-mode .opt{
+      transition: all .2s ease;
+      cursor: pointer;
+    }
+    body.card-mode .opt.ig-locked{
+      pointer-events: none;
+      cursor: default;
+    }
+    body.card-mode .opt.ig-correct{
+      background: var(--green-bg) !important;
+      border-color: var(--green) !important;
+    }
+    body.card-mode .opt.ig-correct .opt-letter{
+      background: var(--green);
+      color: #fff;
+    }
+    body.card-mode .opt.ig-wrong{
+      background: var(--red-bg) !important;
+      border-color: var(--red) !important;
+    }
+    body.card-mode .opt.ig-wrong .opt-letter{
+      background: var(--red);
+      color: #fff;
+    }
+    body.card-mode .opt.ig-wrong .opt-text{
+      text-decoration: line-through;
+      color: var(--red);
+    }
+    body.card-mode .opt.ig-missed{
+      background: var(--amber-bg) !important;
+      border-color: var(--amber-border) !important;
+    }
+    body.card-mode .opt.ig-missed .opt-letter{
+      background: var(--amber);
+      color: #fff;
+    }
+
+    /* Inline "다음" button inside card */
+    .card-inline-next{
+      display: none;
+      text-align: center;
+      padding: 16px 18px 4px;
+    }
+    .card-inline-next.show{ display: block; animation: cardSlideIn .25s ease; }
+    .card-inline-next .btn{
+      min-width: 200px;
+      padding: 14px 28px;
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    /* Card mode: score flash animation */
+    @keyframes igFlash {
+      0%{ transform: scale(1); }
+      50%{ transform: scale(1.15); }
+      100%{ transform: scale(1); }
+    }
+    .ig-flash{ animation: igFlash .3s ease; }
+
+    /* Card mode: hide highlight click in card mode (conflicts with instant grade) */
+    body.card-mode .opt .hw{
+      pointer-events: none;
+    }
+
+    /* Card mode: meaning section — compact in card mode */
+    body.card-mode .section textarea{
+      min-height: 44px;
+    }
+
+    /* Card mode result summary overlay */
+    .card-results{
+      display: none;
+      max-width: 640px;
+      margin: 0 auto;
+      text-align: center;
+      animation: cardSlideIn .4s ease;
+    }
+    body.card-mode .card-results.show{ display: block; }
+    .card-results-inner{
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 40px 28px;
+      box-shadow: var(--shadow);
+    }
+    .cr-title{
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 4px;
+    }
+    .cr-sub{ color: var(--muted); font-size: 14px; margin-bottom: 24px; }
+    .cr-score{
+      font-size: 56px;
+      font-weight: 800;
+      letter-spacing: -2px;
+      margin-bottom: 4px;
+    }
+    .cr-score.high{ color: var(--green); }
+    .cr-score.mid{ color: var(--amber); }
+    .cr-score.low{ color: var(--red); }
+    .cr-score-label{
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: .5px;
+      margin-bottom: 24px;
+    }
+    .cr-stats{
+      display: flex;
+      gap: 12px;
+      justify-content: center;
+      margin-bottom: 28px;
+    }
+    .cr-stat{
+      flex: 1;
+      max-width: 120px;
+      padding: 14px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+    }
+    .cr-stat-val{ font-size: 24px; font-weight: 800; }
+    .cr-stat-lbl{ font-size: 11px; color: var(--muted); margin-top: 2px; font-weight: 600; }
+    .cr-btns{
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+    }
+    .cr-btns .btn{ min-width: 140px; }
+
+    /* Mobile tweaks for card mode */
+    @media (max-width: 700px){
+      .mode-toggle-wrap{
+        padding: 4px 8px;
+        min-height: 36px;
+      }
+      .mode-toggle-label{ font-size: 11px; }
+      body.card-mode .wrap{ padding: 16px 12px 80px; }
+    }
+
     /* Loading state */
     .loading {
       display: flex;
@@ -964,11 +1239,17 @@
       </div>
 
       <div class="controls">
-        <div class="pill" id="saveState">
+        <div class="mode-toggle-wrap" id="modeToggleWrap">
+          <span class="mode-toggle-label active-label" id="lblTest">시험지</span>
+          <div class="toggle-track" id="modeToggle">
+            <div class="toggle-knob"></div>
+          </div>
+          <span class="mode-toggle-label" id="lblCard">카드</span>
+        </div>
+        <div class="pill" id="saveState" style="display:none">
           <span class="dot" id="saveDot"></span>
           <span id="saveText">Not saved</span>
         </div>
-        <button class="btn" id="saveBtn" type="button"><span class="btn-text-full">Save</span><span class="btn-text-short">Save</span></button>
         <button class="btn grade-btn" id="gradeBtn" type="button"><span class="btn-text-full">Grade</span><span class="btn-text-short">Grade</span></button>
         <button class="btn primary" id="exportBtn" type="button"><span class="btn-text-full">Export Answers</span><span class="btn-text-short">Export</span></button>
         <button class="btn" id="clearBtn" type="button"><span class="btn-text-full">Reset</span><span class="btn-text-short">Reset</span></button>
@@ -1032,6 +1313,40 @@
       <div class="progress-dots" id="progressDots"></div>
     </div>
 
+    <div class="card-nav" id="cardNav">
+      <div class="card-nav-top">
+        <div class="card-nav-counter"><span id="cardCurrent">1</span> <span class="cn-of">/ <span id="cardTotal">0</span></span></div>
+        <div class="card-nav-score">
+          <div class="cns-item"><span class="cns-dot g"></span><span id="cardCorrect">0</span></div>
+          <div class="cns-item"><span class="cns-dot a"></span><span id="cardPartial">0</span></div>
+          <div class="cns-item"><span class="cns-dot r"></span><span id="cardWrong">0</span></div>
+        </div>
+      </div>
+      <div class="card-nav-bar"><div id="cardBarFill" style="width:0%"></div></div>
+      <div class="card-nav-btns">
+        <button class="btn" id="cardPrevBtn" type="button" disabled>← 이전</button>
+        <button class="btn primary" id="cardNextBtn" type="button">다음 →</button>
+      </div>
+    </div>
+
+    <div class="card-results" id="cardResults">
+      <div class="card-results-inner">
+        <div class="cr-title">퀴즈 완료!</div>
+        <div class="cr-sub" id="crSub">Word List</div>
+        <div class="cr-score" id="crScore">0%</div>
+        <div class="cr-score-label">SCORE</div>
+        <div class="cr-stats">
+          <div class="cr-stat"><div class="cr-stat-val" id="crCorrect" style="color:var(--green)">0</div><div class="cr-stat-lbl">Correct</div></div>
+          <div class="cr-stat"><div class="cr-stat-val" id="crPartial" style="color:var(--amber)">0</div><div class="cr-stat-lbl">Partial</div></div>
+          <div class="cr-stat"><div class="cr-stat-val" id="crWrong" style="color:var(--red)">0</div><div class="cr-stat-lbl">Wrong</div></div>
+        </div>
+        <div class="cr-btns">
+          <button class="btn" id="crRetryWrong" type="button">틀린 것만 다시</button>
+          <button class="btn primary" id="crRetryAll" type="button">전체 다시 풀기</button>
+        </div>
+      </div>
+    </div>
+
     <div class="questions" id="questions">
       <div class="loading">
         <div class="loading-spinner"></div>
@@ -1054,6 +1369,7 @@
   const RANDOM_FROM = parseInt(urlParams.get('from')) || 1;
   const RANDOM_TO = parseInt(urlParams.get('to')) || 1;
   const RANDOM_COUNT = parseInt(urlParams.get('count')) || 50;
+
 
   let QUESTIONS = [];
   let isGraded = false;
@@ -1103,8 +1419,6 @@
         throw new Error(`GRE_wordlist${WORDLIST_NUMBER}.json not found`);
       }
       const data = await response.json();
-
-      // Transform data to expected format
       return data.map((item, index) => transformWordData(item, index, data));
     } catch (error) {
       console.error('Failed to load wordlist:', error);
@@ -1381,6 +1695,11 @@
         <div class="hl-chips" id="hl-chips-${q.qid}"></div>
         <div class="hl-tip">Included in export after grading</div>`;
       card.appendChild(hlPanel);
+
+      // Inline next button (card mode only, shown after instant grade)
+      const inlineNext = el('div', { class: 'card-inline-next', id: `card-next-${q.qid}` });
+      inlineNext.innerHTML = `<button class="btn primary" onclick="cardNext()">다음 →</button>`;
+      card.appendChild(inlineNext);
 
       root.appendChild(card);
     });
@@ -2011,6 +2330,25 @@
     updateProgress();
     updateAllDots();
 
+    // Reset card mode state too
+    cardGradedSet = new Set();
+    cardCorrectCount = 0;
+    cardPartialCount = 0;
+    cardIncorrectCount = 0;
+    cardIGState = {};
+    if (isCardMode) {
+      // Also reset inline next buttons and ig classes
+      QUESTIONS.forEach(q => {
+        const inlineNext = $(`#card-next-${q.qid}`);
+        if (inlineNext) inlineNext.classList.remove('show');
+        $$(`#${q.qid}-opts .opt`).forEach(opt => {
+          opt.classList.remove('ig-correct', 'ig-wrong', 'ig-missed', 'ig-locked');
+        });
+      });
+      $('#cardResults').classList.remove('show');
+      showCard(0);
+    }
+
     localStorage.removeItem(STORAGE_KEY);
     setSaved(true);
   }
@@ -2073,11 +2411,417 @@
     createProgressDots();
     attachAutosave();
 
-    $('#saveBtn').addEventListener('click', () => { saveAnswers(collectAnswers()); updateProgress(); setSaved(true); });
     $('#gradeBtn').addEventListener('click', gradeExam);
     $('#exportBtn').addEventListener('click', exportJson);
     $('#clearBtn').addEventListener('click', clearAll);
+    initCardModeEvents();
   }
+  // ======================================================================
+  // CARD MODE (Instant Grading)
+  // ======================================================================
+  let isCardMode = false;
+  let cardIdx = 0;
+  let cardGradedSet = new Set();
+  let cardCorrectCount = 0;
+  let cardPartialCount = 0;
+  let cardIncorrectCount = 0;
+  let cardIGState = {}; // per-card instant grade state: { qid: { found: Set, wrong: bool } }
+
+  function toggleCardMode() {
+    isCardMode = !isCardMode;
+    const track = $('#modeToggle');
+    const lblTest = $('#lblTest');
+    const lblCard = $('#lblCard');
+
+    if (isCardMode) {
+      document.body.classList.add('card-mode');
+      track.classList.add('on');
+      lblTest.classList.remove('active-label');
+      lblCard.classList.add('active-label');
+      enterCardMode();
+    } else {
+      document.body.classList.remove('card-mode');
+      track.classList.remove('on');
+      lblTest.classList.add('active-label');
+      lblCard.classList.remove('active-label');
+      exitCardMode();
+    }
+    localStorage.setItem('gre_card_mode', isCardMode ? '1' : '0');
+  }
+
+  function enterCardMode() {
+    cardIdx = 0;
+    cardGradedSet = new Set();
+    cardCorrectCount = 0;
+    cardPartialCount = 0;
+    cardIncorrectCount = 0;
+    cardIGState = {};
+
+    if (!isGraded) {
+      QUESTIONS.forEach(q => {
+        const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
+        if (card) card.classList.remove('correct', 'partial', 'incorrect');
+        const badge = $(`#badge-${q.qid}`);
+        if (badge) badge.classList.remove('show', 'badge-correct', 'badge-partial', 'badge-incorrect');
+        const revealM = $(`#reveal-meaning-${q.qid}`);
+        if (revealM) revealM.classList.remove('show', 'correct-reveal', 'incorrect-reveal');
+        const revealS = $(`#reveal-syn-${q.qid}`);
+        if (revealS) revealS.classList.remove('show', 'correct-reveal', 'incorrect-reveal');
+        const inlineNext = $(`#card-next-${q.qid}`);
+        if (inlineNext) inlineNext.classList.remove('show');
+
+        const ta = $(`#${q.qid}-meaning`);
+        if (ta) ta.disabled = false;
+        $$(`input[name="${q.qid}-syn"]`).forEach(chk => { chk.checked = false; chk.disabled = false; });
+        $$(`#${q.qid}-opts .opt`).forEach(opt => {
+          opt.classList.remove('opt-correct', 'opt-incorrect', 'opt-missed', 'disabled',
+                               'ig-correct', 'ig-wrong', 'ig-missed', 'ig-locked');
+        });
+      });
+    }
+
+    attachInstantGradeListeners();
+    $('#cardResults').classList.remove('show');
+    showCard(cardIdx);
+  }
+
+  function exitCardMode() {
+    $$('.qcard').forEach(c => c.classList.remove('card-active'));
+    $('#cardResults').classList.remove('show');
+  }
+
+  // Attach click listeners for instant grading (once, using delegation)
+  function attachInstantGradeListeners() {
+    const qRoot = $('#questions');
+    // Remove old listener if any
+    qRoot.removeEventListener('click', handleInstantGradeClick, true);
+    // Add capturing listener
+    qRoot.addEventListener('click', handleInstantGradeClick, true);
+  }
+
+  function handleInstantGradeClick(e) {
+    if (!isCardMode) return;
+
+    // Find the .opt label that was clicked
+    const optEl = e.target.closest('.opt');
+    if (!optEl) return;
+
+    // Get the qid from the card
+    const card = optEl.closest('.qcard');
+    if (!card) return;
+    const qid = card.dataset.qid;
+
+    // If already fully graded, ignore
+    if (cardGradedSet.has(qid)) return;
+
+    // Prevent default checkbox toggle
+    e.preventDefault();
+    e.stopPropagation();
+
+    // Get the letter
+    const input = optEl.querySelector('input[type="checkbox"]');
+    if (!input) return;
+    const letter = input.value;
+
+    // Find the question
+    const q = QUESTIONS.find(x => x.qid === qid);
+    if (!q) return;
+
+    const correctSet = new Set(q.correct || []);
+    const hasSynQ = q.options && Object.keys(q.options).length > 0;
+    if (!hasSynQ) return;
+
+    // Initialize instant grade state for this card
+    if (!cardIGState[qid]) {
+      cardIGState[qid] = { found: new Set(), wrong: false, wrongCount: 0 };
+    }
+    const state = cardIGState[qid];
+
+    // Already clicked this option?
+    if (optEl.classList.contains('ig-correct') || optEl.classList.contains('ig-wrong')) return;
+
+    const isCorrect = correctSet.has(letter);
+
+    if (isCorrect) {
+      // Correct pick!
+      optEl.classList.add('ig-correct', 'ig-locked');
+      input.checked = true;
+      state.found.add(letter);
+
+      // Check if all correct answers found
+      if (state.found.size === correctSet.size) {
+        // Perfect or partial (no wrong picks)
+        finishCardGrade(q, state);
+      }
+    } else {
+      // Wrong pick!
+      optEl.classList.add('ig-wrong', 'ig-locked');
+      state.wrong = true;
+      state.wrongCount++;
+
+      // Reveal all remaining answers
+      finishCardGrade(q, state);
+    }
+  }
+
+  function finishCardGrade(q, state) {
+    const qid = q.qid;
+    if (cardGradedSet.has(qid)) return;
+    cardGradedSet.add(qid);
+
+    const correctSet = new Set(q.correct || []);
+
+    // Lock all options and reveal
+    Object.keys(q.options).forEach(letter => {
+      const optEl = $(`#opt-${qid}-${letter}`);
+      if (!optEl) return;
+      const input = optEl.querySelector('input');
+      if (input) input.disabled = true;
+      optEl.classList.add('ig-locked');
+
+      const isCorrect = correctSet.has(letter);
+      const wasFound = state.found.has(letter);
+
+      if (isCorrect && !wasFound) {
+        // Missed correct answer
+        optEl.classList.add('ig-missed');
+      } else if (isCorrect && wasFound) {
+        optEl.classList.add('ig-correct');
+      }
+      // wrong ones already marked
+    });
+
+    // Disable meaning textarea and show answer
+    const ta = $(`#${qid}-meaning`);
+    if (ta) ta.disabled = true;
+    const revealM = $(`#reveal-meaning-${qid}`);
+    if (revealM) { revealM.classList.add('show', 'correct-reveal'); }
+    const revealS = $(`#reveal-syn-${qid}`);
+    if (revealS) { revealS.classList.add('show'); }
+
+    // Determine result
+    const allFound = state.found.size === correctSet.size;
+    const noWrong = !state.wrong;
+
+    const card = document.querySelector(`.qcard[data-qid="${qid}"]`);
+    const badge = $(`#badge-${qid}`);
+
+    let result;
+    if (allFound && noWrong) {
+      result = 'correct';
+      cardCorrectCount++;
+      if (card) card.classList.add('correct');
+      if (badge) { badge.classList.add('show', 'badge-correct'); badge.textContent = '✓ CORRECT'; }
+      if (revealS) revealS.classList.add('correct-reveal');
+    } else if (state.found.size > 0 && noWrong) {
+      result = 'partial';
+      cardPartialCount++;
+      if (card) card.classList.add('partial');
+      if (badge) { badge.classList.add('show', 'badge-partial'); badge.textContent = '△ PARTIAL'; }
+      if (revealS) revealS.classList.add('incorrect-reveal');
+    } else {
+      result = 'incorrect';
+      cardIncorrectCount++;
+      if (card) card.classList.add('incorrect');
+      if (badge) { badge.classList.add('show', 'badge-incorrect'); badge.textContent = '✗ WRONG'; }
+      if (revealS) revealS.classList.add('incorrect-reveal');
+    }
+
+    // Update score in nav with flash
+    updateCardNav();
+    const scoreEl = result === 'correct' ? $('#cardCorrect') : result === 'partial' ? $('#cardPartial') : $('#cardWrong');
+    if (scoreEl) { scoreEl.classList.remove('ig-flash'); void scoreEl.offsetWidth; scoreEl.classList.add('ig-flash'); }
+
+    // Show inline next button
+    const inlineNext = $(`#card-next-${qid}`);
+    if (inlineNext) inlineNext.classList.add('show');
+
+    scheduleSave();
+  }
+
+  function updateCardNav() {
+    $('#cardCorrect').textContent = cardCorrectCount;
+    $('#cardPartial').textContent = cardPartialCount;
+    $('#cardWrong').textContent = cardIncorrectCount;
+    const graded = cardGradedSet.size;
+    const pct = QUESTIONS.length > 0 ? (graded / QUESTIONS.length) * 100 : 0;
+    $('#cardBarFill').style.width = pct + '%';
+  }
+
+  function showCard(idx) {
+    if (idx < 0 || idx >= QUESTIONS.length) return;
+    cardIdx = idx;
+
+    $$('.qcard').forEach(c => c.classList.remove('card-active'));
+    const q = QUESTIONS[idx];
+    const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
+    if (card) {
+      card.classList.add('card-active');
+      card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    $('#cardCurrent').textContent = idx + 1;
+    $('#cardTotal').textContent = QUESTIONS.length;
+    $('#cardPrevBtn').disabled = idx === 0;
+
+    const nextBtn = $('#cardNextBtn');
+    if (idx === QUESTIONS.length - 1) {
+      nextBtn.textContent = '결과 보기';
+    } else {
+      nextBtn.textContent = '다음 →';
+    }
+
+    updateCardNav();
+  }
+
+  function cardNext() {
+    if (cardIdx < QUESTIONS.length - 1) {
+      showCard(cardIdx + 1);
+    } else {
+      showCardResults();
+    }
+  }
+
+  function cardPrev() {
+    if (cardIdx > 0) showCard(cardIdx - 1);
+  }
+
+  function showCardResults() {
+    $$('.qcard').forEach(c => c.classList.remove('card-active'));
+    const resultsDiv = $('#cardResults');
+    resultsDiv.classList.add('show');
+
+    const total = cardCorrectCount + cardPartialCount + cardIncorrectCount;
+    const score = total > 0 ? Math.round(((cardCorrectCount + cardPartialCount * 0.5) / total) * 100) : 0;
+    const tier = score >= 80 ? 'high' : score >= 50 ? 'mid' : 'low';
+
+    $('#crSub').textContent = MODE === 'random'
+      ? `Random Test (Lists ${RANDOM_FROM}-${RANDOM_TO}) · ${QUESTIONS.length} words`
+      : `Word List ${WORDLIST_NUMBER} · ${QUESTIONS.length} words`;
+    const crScoreEl = $('#crScore');
+    crScoreEl.textContent = score + '%';
+    crScoreEl.className = 'cr-score ' + tier;
+    $('#crCorrect').textContent = cardCorrectCount;
+    $('#crPartial').textContent = cardPartialCount;
+    $('#crWrong').textContent = cardIncorrectCount;
+
+    $('#cardBarFill').style.width = '100%';
+
+    const retryWrongBtn = $('#crRetryWrong');
+    if (cardIncorrectCount + cardPartialCount === 0) {
+      retryWrongBtn.disabled = true;
+      retryWrongBtn.style.opacity = '0.5';
+    } else {
+      retryWrongBtn.disabled = false;
+      retryWrongBtn.style.opacity = '1';
+    }
+  }
+
+  function cardRetryWrong() {
+    const wrongQids = [];
+    QUESTIONS.forEach(q => {
+      const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
+      if (card && (card.classList.contains('incorrect') || card.classList.contains('partial'))) {
+        wrongQids.push(q.qid);
+        resetCardVisuals(q.qid);
+        cardGradedSet.delete(q.qid);
+        delete cardIGState[q.qid];
+      }
+    });
+
+    cardCorrectCount = 0;
+    cardPartialCount = 0;
+    cardIncorrectCount = 0;
+    QUESTIONS.forEach(q => {
+      if (cardGradedSet.has(q.qid)) {
+        const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
+        if (card) {
+          if (card.classList.contains('correct')) cardCorrectCount++;
+          else if (card.classList.contains('partial')) cardPartialCount++;
+          else if (card.classList.contains('incorrect')) cardIncorrectCount++;
+        }
+      }
+    });
+
+    if (wrongQids.length > 0) {
+      const firstIdx = QUESTIONS.findIndex(q => q.qid === wrongQids[0]);
+      if (firstIdx >= 0) {
+        $('#cardResults').classList.remove('show');
+        showCard(firstIdx);
+      }
+    }
+  }
+
+  function cardRetryAll() {
+    cardGradedSet = new Set();
+    cardCorrectCount = 0;
+    cardPartialCount = 0;
+    cardIncorrectCount = 0;
+    cardIGState = {};
+
+    QUESTIONS.forEach(q => resetCardVisuals(q.qid));
+
+    isGraded = false;
+    const gradeBtn = $('#gradeBtn');
+    if (gradeBtn) { gradeBtn.disabled = false; gradeBtn.textContent = 'Grade'; }
+
+    $('#cardResults').classList.remove('show');
+    showCard(0);
+  }
+
+  function resetCardVisuals(qid) {
+    const card = document.querySelector(`.qcard[data-qid="${qid}"]`);
+    if (card) card.classList.remove('correct', 'partial', 'incorrect');
+    const badge = $(`#badge-${qid}`);
+    if (badge) badge.classList.remove('show', 'badge-correct', 'badge-partial', 'badge-incorrect');
+    const revealM = $(`#reveal-meaning-${qid}`);
+    if (revealM) revealM.classList.remove('show', 'correct-reveal', 'incorrect-reveal');
+    const revealS = $(`#reveal-syn-${qid}`);
+    if (revealS) revealS.classList.remove('show', 'correct-reveal', 'incorrect-reveal');
+    const inlineNext = $(`#card-next-${qid}`);
+    if (inlineNext) inlineNext.classList.remove('show');
+
+    const ta = $(`#${qid}-meaning`);
+    if (ta) { ta.disabled = false; ta.value = ''; }
+    $$(`input[name="${qid}-syn"]`).forEach(chk => { chk.checked = false; chk.disabled = false; });
+    $$(`#${qid}-opts .opt`).forEach(opt => {
+      opt.classList.remove('opt-correct', 'opt-incorrect', 'opt-missed', 'disabled',
+                           'ig-correct', 'ig-wrong', 'ig-missed', 'ig-locked');
+    });
+  }
+
+  function initCardModeEvents() {
+    $('#modeToggle').addEventListener('click', toggleCardMode);
+    $('#modeToggleWrap').addEventListener('click', (e) => {
+      if (e.target.id !== 'modeToggle' && !e.target.classList.contains('toggle-knob')) {
+        toggleCardMode();
+      }
+    });
+    $('#cardPrevBtn').addEventListener('click', cardPrev);
+    $('#cardNextBtn').addEventListener('click', cardNext);
+    $('#crRetryWrong').addEventListener('click', cardRetryWrong);
+    $('#crRetryAll').addEventListener('click', cardRetryAll);
+
+    document.addEventListener('keydown', e => {
+      if (!isCardMode) return;
+      if (e.target.tagName === 'TEXTAREA') return;
+
+      if (e.key === 'ArrowRight' || e.key === 'n') { e.preventDefault(); cardNext(); }
+      if (e.key === 'ArrowLeft' || e.key === 'p') { e.preventDefault(); cardPrev(); }
+      if (e.key === 'Enter' && !e.ctrlKey && !e.metaKey) {
+        e.preventDefault();
+        const q = QUESTIONS[cardIdx];
+        if (cardGradedSet.has(q.qid) || isGraded) {
+          cardNext();
+        }
+      }
+    });
+
+    if (localStorage.getItem('gre_card_mode') === '1') {
+      setTimeout(() => toggleCardMode(), 100);
+    }
+  }
+
   
   init();
 </script>

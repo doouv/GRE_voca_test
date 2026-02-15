@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "001",
+    "word": "tantrum",
+    "pos": "n.",
+    "head_meanings": [
+      "기분 언짢음/짜증",
+      "화, 울화",
+      "변덕(아이의 심통)"
+    ],
+    "synonyms_from_image": [
+      "rage",
+      "paroxysm",
+      "frustration",
+      "wax",
+      "outburst",
+      "explosion",
+      "conniption"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "tarnish",
+    "pos": "v.",
+    "head_meanings": [
+      "(표면을) 흐리게 하다",
+      "변색시키다",
+      "(명성 등을) 더럽히다, 손상시키다"
+    ],
+    "synonyms_from_image": [
+      "taint",
+      "stain",
+      "blot",
+      "blemish",
+      "smear",
+      "smudge",
+      "discolor",
+      "dull"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "taunt",
+    "pos": "v.",
+    "head_meanings": [
+      "조롱하다",
+      "비아냥거리다",
+      "놀리다",
+      "조롱/비난하다"
+    ],
+    "synonyms_from_image": [
+      "jeer",
+      "sneer",
+      "gibe",
+      "insult",
+      "tease"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "taut",
+    "pos": "adj.",
+    "head_meanings": [
+      "팽팽한",
+      "(신경 등이) 긴장한",
+      "엄격한",
+      "(배 등이) 정비된",
+      "(문장 등이) 정연한, 알찬"
+    ],
+    "synonyms_from_image": [
+      "close",
+      "tense",
+      "shipshape",
+      "stretched",
+      "severe",
+      "strict"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "tawdry",
+    "pos": "adj.",
+    "head_meanings": [
+      "야한",
+      "번지르한",
+      "값싼",
+      "천한"
+    ],
+    "synonyms_from_image": [
+      "loud",
+      "showy",
+      "flashy",
+      "garish",
+      "flamboyant",
+      "vulgar"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "taxing",
+    "pos": "adj.",
+    "head_meanings": [
+      "(일 등이) 부담스러운",
+      "고생스러운",
+      "귀찮은"
+    ],
+    "synonyms_from_image": [
+      "onerous",
+      "demanding",
+      "exacting",
+      "challenging",
+      "burdensome",
+      "arduous",
+      "laborious",
+      "strenuous",
+      "rigorous",
+      "difficult",
+      "tiring",
+      "exhausting",
+      "enervating",
+      "wearing",
+      "stressful"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "taxonomist",
+    "pos": "n.",
+    "head_meanings": [
+      "분류학자"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "008",
+    "word": "tedious",
+    "pos": "adj.",
+    "head_meanings": [
+      "지루한",
+      "지겨운",
+      "진저리나는",
+      "따분한",
+      "장황한"
+    ],
+    "synonyms_from_image": [
+      "boring",
+      "dull",
+      "monotonous",
+      "insipid",
+      "uninteresting",
+      "flat",
+      "bland",
+      "stale",
+      "wearying",
+      "routine",
+      "lackluster",
+      "humdrum",
+      "mundane",
+      "tiresome",
+      "tiring",
+      "irksome"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "tediousness",
+    "pos": "n.",
+    "head_meanings": [
+      "지루함",
+      "지겨움",
+      "따분함",
+      "장황함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "010",
+    "word": "tedium",
+    "pos": "n.",
+    "head_meanings": [
+      "싫증남",
+      "지루함",
+      "번거로움"
+    ],
+    "synonyms_from_image": [
+      "ennui",
+      "irksomeness",
+      "dullness",
+      "tediousness",
+      "rut"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "teem",
+    "pos": "v.",
+    "head_meanings": [
+      "<장소가> 가득 차다",
+      "많이 있다",
+      "풍부하다"
+    ],
+    "synonyms_from_image": [
+      "swarm",
+      "abound"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "teem with",
+    "pos": "v.",
+    "head_meanings": [
+      "(…로) 가득하다",
+      "풍부하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "013",
+    "word": "temerity",
+    "pos": "n.",
+    "head_meanings": [
+      "무모",
+      "만용",
+      "뻔뻔스러움"
+    ],
+    "synonyms_from_image": [
+      "assurance",
+      "heedlessness",
+      "nerve",
+      "audacity",
+      "insolence",
+      "effrontery",
+      "impudence"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "temper",
+    "pos": "v./n.",
+    "head_meanings": [
+      "(강철/유리 등을) 강화·경화하다, 단금질하다",
+      "완화하다, 누그러뜨리다, 진정시키다",
+      "알맞게 섞다, 조절하다",
+      "(일시적인) 기분/성미/짜증/화",
+      "평정, 냉정, 침착",
+      "중용",
+      "타협"
+    ],
+    "synonyms_from_image": [
+      "moderate",
+      "restrain",
+      "blend",
+      "qualify",
+      "adjust",
+      "allay",
+      "appease"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "tempered",
+    "pos": "adj.",
+    "head_meanings": [
+      "<강철> 달구어 단련한",
+      "불린",
+      "조절된",
+      "완화된",
+      "(~한) 기질의(복합물을 이루어)"
+    ],
+    "synonyms_from_image": [
+      "annealed"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "temperance",
+    "pos": "n.",
+    "head_meanings": [
+      "(행동·말의) 중용, 절도, 자제",
+      "절제",
+      "절주, 금주"
+    ],
+    "synonyms_from_image": [
+      "teetotalism",
+      "abstinence",
+      "abstention",
+      "sobriety",
+      "self-restraint",
+      "prohibition"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "temperate",
+    "pos": "adj.",
+    "head_meanings": [
+      "절도 있는",
+      "도를 넘지 않는"
+    ],
+    "synonyms_from_image": [
+      "moderate",
+      "sober",
+      "continent",
+      "unimpassioned",
+      "composed"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "temporal",
+    "pos": "adj.",
+    "head_meanings": [
+      "시간의",
+      "일시적인, 잠시의",
+      "현세의, 속세의",
+      "세속적인"
+    ],
+    "synonyms_from_image": [
+      "earthy",
+      "sensual",
+      "worldly",
+      "terrestrial",
+      "transitory",
+      "temporary",
+      "passing",
+      "fleeting",
+      "chronological"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "temporize",
+    "pos": "v.",
+    "head_meanings": [
+      "결단을 내리지 않고 꾸물거리다",
+      "임시변통하다",
+      "미봉책을 쓰다",
+      "타협하다"
+    ],
+    "synonyms_from_image": [
+      "postpone",
+      "procrastinate",
+      "protract",
+      "change one's mind"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "tenable",
+    "pos": "adj.",
+    "head_meanings": [
+      "(요새 등이) 공격에 견딜 수 있는, 방어할 수 있는",
+      "(이론/학설 등이) 지지·변호할 수 있는, 주장할 수 있는",
+      "(지위/관직 등을) 지속·유지·보유할 수 있는"
+    ],
+    "synonyms_from_image": [
+      "sustainable",
+      "defensible",
+      "justifiable",
+      "rational",
+      "sound",
+      "viable",
+      "plausible",
+      "believable",
+      "conceivable",
+      "reasonable"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "tenacious",
+    "pos": "adj.",
+    "head_meanings": [
+      "고집하는",
+      "집요한",
+      "완강한"
+    ],
+    "synonyms_from_image": [
+      "strong",
+      "persevering",
+      "clinging",
+      "stubborn",
+      "inexorable",
+      "dogged",
+      "opinionated",
+      "persistent",
+      "resolute",
+      "obstinate"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "tenacity",
+    "pos": "n.",
+    "head_meanings": [
+      "끈질기고 놓지 않음, 집착",
+      "끈질김/끈기",
+      "고집"
+    ],
+    "synonyms_from_image": [
+      "resolve",
+      "persistence",
+      "courage",
+      "resolution",
+      "perseverance"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "tendentious",
+    "pos": "adj.",
+    "head_meanings": [
+      "불공평한, 편향적인",
+      "(논설/발언 등이) 특정 입장을 옹호하는 경향이 있는",
+      "목적성 있는",
+      "선전적인"
+    ],
+    "synonyms_from_image": [
+      "prejudiced",
+      "partial",
+      "partisan",
+      "colored",
+      "intended",
+      "controversial"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "tendentiousness",
+    "pos": "n.",
+    "head_meanings": [
+      "편향성",
+      "편파성",
+      "선전성(문서/발언의)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "025",
+    "word": "tenet",
+    "pos": "n.",
+    "head_meanings": [
+      "(종교·정치·철학 등의) 주의",
+      "교리",
+      "신조",
+      "견해"
+    ],
+    "synonyms_from_image": [
+      "ism",
+      "canon",
+      "precept",
+      "principle",
+      "belief",
+      "position",
+      "credo",
+      "conviction",
+      "maxim",
+      "rule"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "tensile",
+    "pos": "adj.",
+    "head_meanings": [
+      "잡아 늘일 수 있는"
+    ],
+    "synonyms_from_image": [
+      "ductile",
+      "malleable",
+      "flexible",
+      "pliable",
+      "elastic"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "tentative",
+    "pos": "adj.",
+    "head_meanings": [
+      "일시적인",
+      "시험 삼아 하는",
+      "시험적인"
+    ],
+    "synonyms_from_image": [
+      "trial",
+      "unconfirmed",
+      "unsettled",
+      "speculative",
+      "indefinite"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "tenuous",
+    "pos": "adj.",
+    "head_meanings": [
+      "얇은, 가는",
+      "(공기 등이) 희박한",
+      "중요치 않은, 보잘것없는",
+      "미약한, 극도로 허약한(그래서 쉽게 부러지는)"
+    ],
+    "synonyms_from_image": [
+      "trivial",
+      "slender",
+      "attenuated",
+      "meager",
+      "flimsy",
+      "rarefied"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "tenure",
+    "pos": "n.",
+    "head_meanings": [
+      "보유기간",
+      "보유권",
+      "재직권",
+      "종신재직권(교수)"
+    ],
+    "synonyms_from_image": [
+      "possession",
+      "retention",
+      "maintenance"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "tepid",
+    "pos": "adj.",
+    "head_meanings": [
+      "미지근한",
+      "열성 없는",
+      "미온적인"
+    ],
+    "synonyms_from_image": [
+      "temperate",
+      "lackadaisical",
+      "indifferent",
+      "mild",
+      "warmish"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "tergiversate",
+    "pos": "v.",
+    "head_meanings": [
+      "핑계 대다",
+      "얼버무리다",
+      "변절하다",
+      "신앙을 버리다, 배교하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "032",
+    "word": "tergiversation",
+    "pos": "n.",
+    "head_meanings": [
+      "변절",
+      "(태도/입장) 회피, 얼버무림",
+      "변덕(=fickleness)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "033",
+    "word": "terse",
+    "pos": "adj.",
+    "head_meanings": [
+      "간결한",
+      "요점 있는"
+    ],
+    "synonyms_from_image": [
+      "laconic",
+      "brief",
+      "compact",
+      "succinct",
+      "short",
+      "neat",
+      "curt"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "testimony",
+    "pos": "n.",
+    "head_meanings": [
+      "(법정에서의)(선서) 증언, 증거",
+      "증명, 입증",
+      "(신앙 등의) 고백, 선언"
+    ],
+    "synonyms_from_image": [
+      "evidence",
+      "sworn statement",
+      "attestation",
+      "affidavit",
+      "declaration",
+      "assertion",
+      "affirmation",
+      "allegation",
+      "claim",
+      "deposition",
+      "testament",
+      "proof",
+      "witness",
+      "confirmation",
+      "corroboration",
+      "demonstration",
+      "indication"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "testy",
+    "pos": "adj.",
+    "head_meanings": [
+      "성미 급한",
+      "성 잘 내는",
+      "퉁명스러운"
+    ],
+    "synonyms_from_image": [
+      "cranky",
+      "tetchy",
+      "choleric",
+      "irascible",
+      "cantankerous"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "tether",
+    "pos": "v./n.",
+    "head_meanings": [
+      "(밧줄·사슬로) 매다",
+      "구속하다",
+      "(동물을 매는) 밧줄/사슬",
+      "한계, 범위"
+    ],
+    "synonyms_from_image": [
+      "tie",
+      "bind",
+      "rope",
+      "chain",
+      "fasten"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "theoretical",
+    "pos": "adj.",
+    "head_meanings": [
+      "이론에 관한",
+      "이론상의",
+      "이론을 좋아하는/이론적",
+      "사색적인",
+      "가공의, 가정적인"
+    ],
+    "synonyms_from_image": [
+      "conceptual",
+      "hypothetical",
+      "conjectural",
+      "suppositional",
+      "speculative",
+      "postulatory",
+      "assumed",
+      "presumed",
+      "unproven",
+      "unsubstantiated"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "thrall",
+    "pos": "n.",
+    "head_meanings": [
+      "노예 신세",
+      "속박"
+    ],
+    "synonyms_from_image": [
+      "yoke",
+      "helotry",
+      "servitude",
+      "thralldom",
+      "bondsman",
+      "serf"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "thrifty",
+    "pos": "adj.",
+    "head_meanings": [
+      "절약하는",
+      "알뜰한"
+    ],
+    "synonyms_from_image": [
+      "economizing",
+      "closefisted",
+      "tightfisted",
+      "frugal",
+      "sparing",
+      "saving"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "thrive",
+    "pos": "v.",
+    "head_meanings": [
+      "번영하다",
+      "번성하다",
+      "성공하다",
+      "무럭무럭 성장하다",
+      "무성하게 자라다"
+    ],
+    "synonyms_from_image": [
+      "advance",
+      "succeed",
+      "get on",
+      "wax",
+      "bloom",
+      "fatten"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "thriving",
+    "pos": "adj.",
+    "head_meanings": [
+      "번영하는",
+      "번성하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "042",
+    "word": "toady",
+    "pos": "n.",
+    "head_meanings": [
+      "아첨꾼",
+      "알랑쇠"
+    ],
+    "synonyms_from_image": [
+      "fawner",
+      "flatterer",
+      "sycophant",
+      "grovel(l)er",
+      "myrmidon",
+      "spaniel",
+      "lackey",
+      "flunky",
+      "parasite",
+      "brownnose"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "tolerate",
+    "pos": "v.",
+    "head_meanings": [
+      "참다",
+      "견디다",
+      "너그럽게 보아주다, 묵인하다",
+      "[약에] 내성이 있다"
+    ],
+    "synonyms_from_image": [
+      "brook"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "tome",
+    "pos": "n.",
+    "head_meanings": [
+      "(내용이) 방대한 책의 한 권",
+      "큰 책"
+    ],
+    "synonyms_from_image": [
+      "book",
+      "roll of paper",
+      "treatise",
+      "tract",
+      "monograph",
+      "quarto",
+      "folio",
+      "one book of a series"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "throng",
+    "pos": "n.",
+    "head_meanings": [
+      "군중",
+      "인파"
+    ],
+    "synonyms_from_image": [
+      "press",
+      "crush",
+      "mob",
+      "rout",
+      "horde",
+      "mass",
+      "swarm",
+      "flock"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "throttle",
+    "pos": "v.",
+    "head_meanings": [
+      "억누르다",
+      "(목을) 조르다",
+      "저해하다",
+      "억압하다"
+    ],
+    "synonyms_from_image": [
+      "choke",
+      "garrote",
+      "seize",
+      "suppress",
+      "block",
+      "smother",
+      "suffocate"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "thwart",
+    "pos": "v.",
+    "head_meanings": [
+      "방해하다",
+      "훼방하다",
+      "망쳐 놓다",
+      "좌절시키다"
+    ],
+    "synonyms_from_image": [
+      "frustrate",
+      "balk",
+      "arrest",
+      "checkmate",
+      "dash",
+      "hinder",
+      "inhibit"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "tilt",
+    "pos": "",
+    "head_meanings": [
+      "기울이다, 기울다(slant)",
+      "(…쪽으로) 기우뚱하다(tip)",
+      "(창으로) 찌르다(thrust)",
+      "습격/공격하다",
+      "공격하다, 비난하다, 항의하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "049",
+    "word": "timbre",
+    "pos": "n.",
+    "head_meanings": [
+      "음색",
+      "음질"
+    ],
+    "synonyms_from_image": [
+      "tone",
+      "sound quality",
+      "pitch",
+      "resonance"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "timely",
+    "pos": "adj.",
+    "head_meanings": [
+      "적시의",
+      "시기에 알맞은"
+    ],
+    "synonyms_from_image": [
+      "opportune"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "timid",
+    "pos": "adj.",
+    "head_meanings": [
+      "겁(많은)",
+      "소심한"
+    ],
+    "synonyms_from_image": [
+      "diffident"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "timidity",
+    "pos": "n.",
+    "head_meanings": [
+      "겁",
+      "소심함"
+    ],
+    "synonyms_from_image": [
+      "cowardice",
+      "fearfulness",
+      "shyness",
+      "fear",
+      "weakness"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "timorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "겁 많은",
+      "주춤여 하는",
+      "소심한"
+    ],
+    "synonyms_from_image": [
+      "faint-hearted",
+      "spineless",
+      "shy",
+      "timid",
+      "cowardly"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "tinker (with)",
+    "pos": "v.",
+    "head_meanings": [
+      "(…을) 어설프게 고치다/만지작거리다",
+      "주물럭거리며 시간을 보내다"
+    ],
+    "synonyms_from_image": [
+      "fiddle",
+      "fidget",
+      "trifle",
+      "mess",
+      "play"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "tirade",
+    "pos": "n.",
+    "head_meanings": [
+      "장광설",
+      "격론",
+      "장시간의 공격 연설",
+      "긴 탄핵 연설",
+      "열변/신랄한 비난"
+    ],
+    "synonyms_from_image": [
+      "long vehement speech",
+      "rant",
+      "harangue",
+      "condemnation"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "tiresome",
+    "pos": "adj.",
+    "head_meanings": [
+      "귀찮은",
+      "성가신",
+      "지루한",
+      "따분한",
+      "진저리나는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "057",
+    "word": "titanic",
+    "pos": "adj.",
+    "head_meanings": [
+      "거대한",
+      "힘이 장사인"
+    ],
+    "synonyms_from_image": [
+      "enormous",
+      "colossal",
+      "mighty",
+      "cyclopean",
+      "stout",
+      "herculean"
+    ]
+  }
+]
