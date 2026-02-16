@@ -635,6 +635,15 @@
       padding: 2px 8px;
       border-radius: 5px;
     }
+    .list-tag{
+      font-size: 10px;
+      font-weight: 600;
+      color: var(--blue);
+      background: var(--blue-bg);
+      padding: 2px 7px;
+      border-radius: 5px;
+      letter-spacing: .02em;
+    }
 
     .section{
       padding: 14px 16px;
@@ -1052,6 +1061,15 @@
     body.card-mode .section textarea{
       min-height: 44px;
     }
+    .enter-hint{
+      display: none;
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 6px;
+      text-align: right;
+    }
+    body.card-mode .enter-hint{ display: block; }
+    body.card-mode .enter-hint.hidden{ display: none; }
 
     /* Card mode result summary overlay */
     .card-results{
@@ -1436,6 +1454,7 @@
           const response = await fetch(`data/GRE_wordlist${i}.json`);
           if (response.ok) {
             const data = await response.json();
+            data.forEach(w => w._listNum = i);
             allWords.push(...data);
           } else {
             console.warn(`GRE_wordlist${i}.json not found, skipping...`);
@@ -1504,7 +1523,8 @@
         pos: item.pos,
         meanings: item.head_meanings || [],
         correct: [],
-        options: {}
+        options: {},
+        listNum: item._listNum || null
       };
     }
 
@@ -1568,7 +1588,8 @@
       pos: item.pos,
       meanings: item.head_meanings || [],
       correct: correct,
-      options: options
+      options: options,
+      listNum: item._listNum || null
     };
   }
 
@@ -1629,6 +1650,7 @@
       headLeft.appendChild(el('span', { class: 'q-number', html: `${String(idx + 1).padStart(2, '0')}` }));
       headLeft.appendChild(el('span', { class: 'word-text', html: esc(q.word) }));
       if (q.pos) headLeft.appendChild(el('span', { class: 'pos-tag', html: esc(q.pos) }));
+      if (q.listNum) headLeft.appendChild(el('span', { class: 'list-tag', html: `List ${q.listNum}` }));
       head.appendChild(headLeft);
       card.appendChild(head);
 
@@ -1644,6 +1666,14 @@
       const revealA = el('div', { class: 'answer-reveal', id: `reveal-meaning-${q.qid}` });
       revealA.innerHTML = `<div class="answer-label">Answer</div>${q.meanings.join(', ')}`;
       secA.appendChild(revealA);
+
+      // "Enter to reveal" hint for meaning-only questions in card mode
+      const hasSyn = q.options && Object.keys(q.options).length > 0;
+      if (!hasSyn) {
+        const hint = el('div', { class: 'enter-hint', id: `enter-hint-${q.qid}`, html: 'Press Enter to reveal answer' });
+        secA.appendChild(hint);
+      }
+
       card.appendChild(secA);
 
       // Section B: Synonyms (only if options exist)
@@ -2481,6 +2511,7 @@
     }
 
     attachInstantGradeListeners();
+    attachMeaningOnlyEnterListeners();
     $('#cardResults').classList.remove('show');
     showCard(cardIdx);
   }
@@ -2639,6 +2670,64 @@
     scheduleSave();
   }
 
+  // Enter key to reveal answer for meaning-only questions in card mode
+  function attachMeaningOnlyEnterListeners() {
+    const qRoot = $('#questions');
+    qRoot.removeEventListener('keydown', handleMeaningOnlyEnter);
+    qRoot.addEventListener('keydown', handleMeaningOnlyEnter);
+  }
+
+  function handleMeaningOnlyEnter(e) {
+    if (!isCardMode) return;
+    if (e.key !== 'Enter' || e.shiftKey) return;
+
+    const ta = e.target;
+    if (ta.tagName !== 'TEXTAREA') return;
+
+    const card = ta.closest('.qcard');
+    if (!card) return;
+    const qid = card.dataset.qid;
+
+    const q = QUESTIONS.find(x => x.qid === qid);
+    if (!q) return;
+
+    // Only for meaning-only questions (no synonym options)
+    const hasSyn = q.options && Object.keys(q.options).length > 0;
+    if (hasSyn) return;
+
+    // Already revealed
+    if (cardGradedSet.has(qid)) return;
+
+    e.preventDefault();
+    revealMeaningOnly(q);
+  }
+
+  function revealMeaningOnly(q) {
+    const qid = q.qid;
+    if (cardGradedSet.has(qid)) return;
+    cardGradedSet.add(qid);
+
+    // Disable textarea
+    const ta = $(`#${qid}-meaning`);
+    if (ta) ta.disabled = true;
+
+    // Show meaning answer
+    const revealM = $(`#reveal-meaning-${qid}`);
+    if (revealM) revealM.classList.add('show', 'correct-reveal');
+
+    // Hide enter hint
+    const hint = $(`#enter-hint-${qid}`);
+    if (hint) hint.classList.add('hidden');
+
+    // Show inline next button
+    const inlineNext = $(`#card-next-${qid}`);
+    if (inlineNext) inlineNext.classList.add('show');
+
+    // Update progress (count as manual review, not scored)
+    updateCardNav();
+    scheduleSave();
+  }
+
   function updateCardNav() {
     $('#cardCorrect').textContent = cardCorrectCount;
     $('#cardPartial').textContent = cardPartialCount;
@@ -2783,6 +2872,8 @@
 
     const ta = $(`#${qid}-meaning`);
     if (ta) { ta.disabled = false; ta.value = ''; }
+    const hint = $(`#enter-hint-${qid}`);
+    if (hint) hint.classList.remove('hidden');
     $$(`input[name="${qid}-syn"]`).forEach(chk => { chk.checked = false; chk.disabled = false; });
     $$(`#${qid}-opts .opt`).forEach(opt => {
       opt.classList.remove('opt-correct', 'opt-incorrect', 'opt-missed', 'disabled',
