@@ -2830,19 +2830,10 @@
   function setOptFocus(qid, idx) {
     clearOptFocus();
     const opts = $$(`#${qid}-opts .opt`);
-    if (!opts.length) return;
-    // Skip locked options
-    let target = idx;
-    const len = opts.length;
-    let tries = 0;
-    while (tries < len && opts[target] && opts[target].classList.contains('ig-locked')) {
-      target = (target + 1) % len;
-      tries++;
-    }
-    if (tries >= len) return; // all locked
-    cardOptFocus = target;
-    opts[target].classList.add('opt-focus');
-    opts[target].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    if (!opts.length || idx < 0 || idx >= opts.length) return;
+    cardOptFocus = idx;
+    opts[idx].classList.add('opt-focus');
+    opts[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   }
 
   function clearOptFocus() {
@@ -2855,14 +2846,8 @@
   function moveOptFocus(qid, step) {
     const opts = $$(`#${qid}-opts .opt`);
     if (!opts.length) return;
-    const len = opts.length;
-    const dir = step > 0 ? 1 : -1;
     let next = cardOptFocus + step;
-    // Skip over locked options in the same direction
-    while (next >= 0 && next < len && opts[next].classList.contains('ig-locked')) {
-      next += dir;
-    }
-    if (next < 0 || next >= len) return;
+    if (next < 0 || next >= opts.length) return;
     setOptFocus(qid, next);
   }
 
