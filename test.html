@@ -1468,11 +1468,23 @@
         throw new Error('No wordlists could be loaded');
       }
 
+      // Deduplicate by word (keep first occurrence)
+      const seen = new Set();
+      const unique = allWords.filter(w => {
+        const key = w.word.toLowerCase().trim();
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+
+      // Make IDs unique across wordlists
+      unique.forEach(w => { w.id = `${w._listNum}-${w.id}`; });
+
       // Shuffle all words
-      const shuffled = shuffleArray(allWords, Date.now());
+      const shuffled = shuffleArray(unique, Date.now());
 
       // Take the requested number of questions
-      const selected = shuffled.slice(0, Math.min(count, allWords.length));
+      const selected = shuffled.slice(0, Math.min(count, unique.length));
 
       // Transform data to expected format
       return selected.map((item, index) => transformWordData(item, index, selected));
