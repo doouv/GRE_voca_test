@@ -3074,14 +3074,14 @@
       const q = QUESTIONS[cardIdx];
       if (!q) return;
 
-      // Option navigation mode (Arrow Up/Down + Enter)
+      // Option navigation mode (Arrow keys + Enter)
       if (cardOptFocus >= 0) {
-        if (e.key === 'ArrowDown') {
+        if (e.key === 'ArrowDown' || e.key === 'ArrowRight') {
           e.preventDefault();
           moveOptFocus(q.qid, 1);
           return;
         }
-        if (e.key === 'ArrowUp') {
+        if (e.key === 'ArrowUp' || e.key === 'ArrowLeft') {
           e.preventDefault();
           moveOptFocus(q.qid, -1);
           return;
@@ -3121,9 +3121,7 @@
         }
       }
 
-      // Navigation
-      if (e.key === 'ArrowRight' || e.key === 'n') { e.preventDefault(); cardNext(); }
-      if (e.key === 'ArrowLeft' || e.key === 'p') { e.preventDefault(); cardPrev(); }
+      // Navigation (Enter only - use mouse for prev/next)
       if (e.key === 'Enter' && !e.ctrlKey && !e.metaKey) {
         e.preventDefault();
         if (cardGradedSet.has(q.qid) || isGraded) {
