@@ -1071,6 +1071,63 @@
     body.card-mode .enter-hint{ display: block; }
     body.card-mode .enter-hint.hidden{ display: none; }
 
+    /* Self-grade panel for meaning-only questions */
+    .self-grade-panel{
+      display: none;
+      gap: 8px;
+      margin-top: 10px;
+      justify-content: center;
+    }
+    body.card-mode .self-grade-panel.show{ display: flex; }
+    .sg-btn{
+      flex: 1;
+      max-width: 160px;
+      padding: 10px 16px;
+      border-radius: 10px;
+      border: 1.5px solid var(--border);
+      background: var(--card);
+      font-family: 'Outfit', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all .15s ease;
+    }
+    .sg-btn:hover{ transform: translateY(-1px); }
+    .sg-btn.sg-correct{
+      color: var(--blue);
+      border-color: var(--blue-border);
+    }
+    .sg-btn.sg-correct:hover{
+      background: var(--blue-bg);
+    }
+    .sg-btn.sg-wrong{
+      color: var(--red);
+      border-color: var(--red-border);
+    }
+    .sg-btn.sg-wrong:hover{
+      background: var(--red-bg);
+    }
+    .sg-key{
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 700;
+      background: #ECEEF1;
+      padding: 1px 5px;
+      border-radius: 4px;
+      margin-right: 4px;
+      vertical-align: middle;
+    }
+
+    /* Keyboard hint for synonym options */
+    .kbd-hint{
+      display: none;
+      font-size: 11px;
+      color: var(--muted);
+      margin-top: 8px;
+      text-align: right;
+    }
+    body.card-mode .kbd-hint{ display: block; }
+
     /* Card mode result summary overlay */
     .card-results{
       display: none;
@@ -1679,11 +1736,17 @@
       revealA.innerHTML = `<div class="answer-label">Answer</div>${q.meanings.join(', ')}`;
       secA.appendChild(revealA);
 
-      // "Enter to reveal" hint for meaning-only questions in card mode
+      // "Enter to reveal" hint + self-grade panel for meaning-only questions
       const hasSyn = q.options && Object.keys(q.options).length > 0;
       if (!hasSyn) {
         const hint = el('div', { class: 'enter-hint', id: `enter-hint-${q.qid}`, html: 'Press Enter to reveal answer' });
         secA.appendChild(hint);
+
+        const sgPanel = el('div', { class: 'self-grade-panel', id: `sg-panel-${q.qid}` });
+        sgPanel.innerHTML = `
+          <button class="sg-btn sg-correct" onclick="selfGradeMeaningOnly('${q.qid}', true)"><span class="sg-key">O</span> Correct</button>
+          <button class="sg-btn sg-wrong" onclick="selfGradeMeaningOnly('${q.qid}', false)"><span class="sg-key">X</span> Wrong</button>`;
+        secA.appendChild(sgPanel);
       }
 
       card.appendChild(secA);
@@ -1722,6 +1785,9 @@
           optsDiv.appendChild(label);
         });
         secB.appendChild(optsDiv);
+
+        const kbdHint = el('div', { class: 'kbd-hint', html: 'A\u2013F to select' });
+        secB.appendChild(kbdHint);
 
         const revealB = el('div', { class: 'answer-reveal', id: `reveal-syn-${q.qid}` });
         const correctTexts = q.correct.map(l => `${l}) ${q.options[l]}`).join(', ');
@@ -2717,26 +2783,58 @@
   function revealMeaningOnly(q) {
     const qid = q.qid;
     if (cardGradedSet.has(qid)) return;
-    cardGradedSet.add(qid);
 
     // Disable textarea
     const ta = $(`#${qid}-meaning`);
-    if (ta) ta.disabled = true;
+    if (ta) { ta.disabled = true; ta.blur(); }
 
     // Show meaning answer
     const revealM = $(`#reveal-meaning-${qid}`);
     if (revealM) revealM.classList.add('show', 'correct-reveal');
 
-    // Hide enter hint
+    // Hide enter hint, show self-grade panel
     const hint = $(`#enter-hint-${qid}`);
     if (hint) hint.classList.add('hidden');
+    const sgPanel = $(`#sg-panel-${qid}`);
+    if (sgPanel) sgPanel.classList.add('show');
+  }
+
+  function selfGradeMeaningOnly(qid, isCorrect) {
+    if (cardGradedSet.has(qid)) return;
+    cardGradedSet.add(qid);
+
+    // Hide self-grade panel
+    const sgPanel = $(`#sg-panel-${qid}`);
+    if (sgPanel) sgPanel.classList.remove('show');
+
+    const card = document.querySelector(`.qcard[data-qid="${qid}"]`);
+    const badge = $(`#badge-${qid}`);
+    const revealM = $(`#reveal-meaning-${qid}`);
+
+    let result;
+    if (isCorrect) {
+      result = 'correct';
+      cardCorrectCount++;
+      if (card) card.classList.add('correct');
+      if (badge) { badge.classList.add('show', 'badge-correct'); badge.textContent = '✓ CORRECT'; }
+      if (revealM) { revealM.classList.add('correct-reveal'); revealM.classList.remove('incorrect-reveal'); }
+    } else {
+      result = 'incorrect';
+      cardIncorrectCount++;
+      if (card) card.classList.add('incorrect');
+      if (badge) { badge.classList.add('show', 'badge-incorrect'); badge.textContent = '✗ WRONG'; }
+      if (revealM) { revealM.classList.add('incorrect-reveal'); revealM.classList.remove('correct-reveal'); }
+    }
+
+    // Flash score
+    updateCardNav();
+    const scoreEl = result === 'correct' ? $('#cardCorrect') : $('#cardWrong');
+    if (scoreEl) { scoreEl.classList.remove('ig-flash'); void scoreEl.offsetWidth; scoreEl.classList.add('ig-flash'); }
 
     // Show inline next button
     const inlineNext = $(`#card-next-${qid}`);
     if (inlineNext) inlineNext.classList.add('show');
 
-    // Update progress (count as manual review, not scored)
-    updateCardNav();
     scheduleSave();
   }
 
@@ -2773,6 +2871,13 @@
     }
 
     updateCardNav();
+
+    // Auto-focus textarea for meaning-only questions
+    const hasSyn = q.options && Object.keys(q.options).length > 0;
+    if (!hasSyn && !cardGradedSet.has(q.qid)) {
+      const ta = $(`#${q.qid}-meaning`);
+      if (ta && !ta.disabled) setTimeout(() => ta.focus(), 100);
+    }
   }
 
   function cardNext() {
@@ -2886,6 +2991,8 @@
     if (ta) { ta.disabled = false; ta.value = ''; }
     const hint = $(`#enter-hint-${qid}`);
     if (hint) hint.classList.remove('hidden');
+    const sgPanel = $(`#sg-panel-${qid}`);
+    if (sgPanel) sgPanel.classList.remove('show');
     $$(`input[name="${qid}-syn"]`).forEach(chk => { chk.checked = false; chk.disabled = false; });
     $$(`#${qid}-opts .opt`).forEach(opt => {
       opt.classList.remove('opt-correct', 'opt-incorrect', 'opt-missed', 'disabled',
@@ -2916,6 +3023,36 @@
         const q = QUESTIONS[cardIdx];
         if (cardGradedSet.has(q.qid) || isGraded) {
           cardNext();
+        }
+      }
+
+      const q = QUESTIONS[cardIdx];
+      if (!q) return;
+
+      // A-F keys to select synonym options
+      const key = e.key.toUpperCase();
+      if ('ABCDEF'.includes(key) && q.options && q.options[key]) {
+        if (cardGradedSet.has(q.qid)) return;
+        e.preventDefault();
+        const optEl = $(`#opt-${q.qid}-${key}`);
+        if (optEl && !optEl.classList.contains('ig-locked')) {
+          optEl.click();
+        }
+      }
+
+      // O/X keys to self-grade meaning-only questions
+      if (e.key === 'o' || e.key === 'O') {
+        const sgPanel = $(`#sg-panel-${q.qid}`);
+        if (sgPanel && sgPanel.classList.contains('show')) {
+          e.preventDefault();
+          selfGradeMeaningOnly(q.qid, true);
+        }
+      }
+      if (e.key === 'x' || e.key === 'X') {
+        const sgPanel = $(`#sg-panel-${q.qid}`);
+        if (sgPanel && sgPanel.classList.contains('show')) {
+          e.preventDefault();
+          selfGradeMeaningOnly(q.qid, false);
         }
       }
     });
