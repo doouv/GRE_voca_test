@@ -1,0 +1,2999 @@
+[
+  {
+    "id": "001",
+    "word": "ultimate",
+    "pos": "",
+    "head_meanings": [
+      "최후의",
+      "궁극적인",
+      "근본[기본]적인",
+      "가장 먼"
+    ],
+    "synonyms_from_image": [
+      "last",
+      "finishing",
+      "absolute",
+      "basic"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "umbrage",
+    "pos": "",
+    "head_meanings": [
+      "불쾌",
+      "노여움"
+    ],
+    "synonyms_from_image": [
+      "enragement",
+      "incensement",
+      "offense",
+      "pique",
+      "grudge"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "unabridged",
+    "pos": "",
+    "head_meanings": [
+      "<특히 책, 본문, 연설 등이> 생략[삭제]되지 않은",
+      "완전한"
+    ],
+    "synonyms_from_image": [
+      "complete",
+      "whole",
+      "intact",
+      "uncut",
+      "unshortened",
+      "unexpurgated"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "unadulterated",
+    "pos": "",
+    "head_meanings": [
+      "<음식이> 다른 것을 섞지 않은",
+      "순수한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "005",
+    "word": "unalloyed",
+    "pos": "",
+    "head_meanings": [
+      "<금속이> 합금이 아닌, 순수한(pure)",
+      "<기쁨·행복·성공 등이> 완전한, 진실한"
+    ],
+    "synonyms_from_image": [
+      "unmixed",
+      "genuine",
+      "순수한"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "unambiguous",
+    "pos": "",
+    "head_meanings": [
+      "모호(애매)하지 않은",
+      "의심적이지 않은",
+      "명백한"
+    ],
+    "synonyms_from_image": [
+      "clear"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "unambiguously",
+    "pos": "",
+    "head_meanings": [
+      "애매하지 않게",
+      "정직, 명백하게"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "008",
+    "word": "unanimity",
+    "pos": "",
+    "head_meanings": [
+      "만장일치",
+      "(전원) 합의",
+      "전원(의) 없음"
+    ],
+    "synonyms_from_image": [
+      "accord",
+      "consensus",
+      "unison",
+      "concert",
+      "meeting of minds"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "unanimous",
+    "pos": "",
+    "head_meanings": [
+      "전원[만장] 일치의",
+      "전원이 의견이 일치한",
+      "만장일치인"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "010",
+    "word": "unassuaged",
+    "pos": "",
+    "head_meanings": [
+      "불만족한",
+      "진정되지 않은",
+      "완화되지 않은"
+    ],
+    "synonyms_from_image": [
+      "unsatisfactory",
+      "dissatisfied",
+      "discontented",
+      "displeased"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "unassuming",
+    "pos": "",
+    "head_meanings": [
+      "주제넘지 않은",
+      "겸손한"
+    ],
+    "synonyms_from_image": [
+      "self-deprecating",
+      "unostentatious",
+      "humble",
+      "unpretentious",
+      "shy",
+      "lowly"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "unattractive",
+    "pos": "",
+    "head_meanings": [
+      "남의 이목을 끌지 못하는",
+      "매력 없는",
+      "예쁘지 않은"
+    ],
+    "synonyms_from_image": [
+      "unprepossessing"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "unavoidable",
+    "pos": "",
+    "head_meanings": [
+      "피할 수 없는",
+      "불가피한"
+    ],
+    "synonyms_from_image": [
+      "inevitable"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "unbounded",
+    "pos": "",
+    "head_meanings": [
+      "한정되지 않은",
+      "끝없는",
+      "무한의",
+      "억제할 수 없는",
+      "속박이 없는"
+    ],
+    "synonyms_from_image": [
+      "unchecked"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "unbridle",
+    "pos": "",
+    "head_meanings": [
+      "~을 구속에서 풀다",
+      "자유롭게 해주다",
+      "(말, 노새 등에) 고삐를 풀다"
+    ],
+    "synonyms_from_image": [
+      "free",
+      "loose",
+      "licentious",
+      "dissolute"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "uncanny",
+    "pos": "",
+    "head_meanings": [
+      "신비스러운",
+      "무시무시한",
+      "초인간적인",
+      "기분 나쁜"
+    ],
+    "synonyms_from_image": [
+      "curious",
+      "unearthly",
+      "creepy",
+      "weird",
+      "odd",
+      "eerie"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "unchecked",
+    "pos": "",
+    "head_meanings": [
+      "억제되지 않은",
+      "검사[점검] 받지 않은"
+    ],
+    "synonyms_from_image": [
+      "unlimited",
+      "boundless",
+      "limitless",
+      "unrestrained",
+      "unrestricted",
+      "uncontrolled",
+      "unbridled",
+      "immeasurable",
+      "endless",
+      "interminable",
+      "infinite",
+      "inexhaustible"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "uncompromising",
+    "pos": "",
+    "head_meanings": [
+      "타협하지 않는",
+      "양보하지 않는",
+      "단호한",
+      "완고한",
+      "강경한"
+    ],
+    "synonyms_from_image": [
+      "intransigent"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "unconceivable",
+    "pos": "",
+    "head_meanings": [
+      "상상할 수도 없는",
+      "생각조차 할 수 없는",
+      "믿을 수 없는"
+    ],
+    "synonyms_from_image": [
+      "unimaginable"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "uncontroversial",
+    "pos": "",
+    "head_meanings": [
+      "토론[논쟁]이 안 되는",
+      "토론[논쟁]을 좋아하지 않는"
+    ],
+    "synonyms_from_image": [
+      "engendering no controversy"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "uncouth",
+    "pos": "",
+    "head_meanings": [
+      "<사람, 언행 등이> 어색한, 꼴불견의, 무례한, 거친",
+      "<장소가> 인적이 드문, 촌티나는, 괴상하고 꼴사나운, 별난, 기묘한"
+    ],
+    "synonyms_from_image": [
+      "indecorous",
+      "crass",
+      "uncivilized",
+      "uncultured",
+      "uncultivated",
+      "unrefined",
+      "unpolished",
+      "unsophisticated",
+      "low",
+      "crude",
+      "rude",
+      "coarse",
+      "uncivil",
+      "loutish",
+      "boorish",
+      "oafish",
+      "churlish",
+      "impolite",
+      "discourteous",
+      "disrespectful",
+      "unmannerly"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "unction",
+    "pos": "",
+    "head_meanings": [
+      "달래는[누그러지게 하는] 것",
+      "위안이 되는 것",
+      "(치료용) 유약(연고)을 바르기",
+      "성유(축유)",
+      "도유(종교적 축성)",
+      "달래는 것",
+      "열중"
+    ],
+    "synonyms_from_image": [
+      "oiling",
+      "lubrication",
+      "anointing"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "unctuous",
+    "pos": "",
+    "head_meanings": [
+      "기름 같은",
+      "매끄러운",
+      "상냥한",
+      "감동을 가장한",
+      "겉으로만 감동한",
+      "지나치게 경건을 나타내는",
+      "지나치게 거드름피우는",
+      "지나치게 상냥한",
+      "말주변이 좋은",
+      "간살부리는"
+    ],
+    "synonyms_from_image": [
+      "sycophantic",
+      "grovelling",
+      "obsequious",
+      "ingratiating",
+      "fawning",
+      "servile",
+      "subservient",
+      "humble",
+      "glib",
+      "smooth",
+      "slick",
+      "slippery",
+      "oily",
+      "greasy",
+      "fatty",
+      "soapy"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "undaunted",
+    "pos": "",
+    "head_meanings": [
+      "(곤란, 위험, 실패 등을) 두려워하지 않는",
+      "(…에) 기세가 꺾이지 않는",
+      "풀 죽지 않는",
+      "대담한",
+      "용감한"
+    ],
+    "synonyms_from_image": [
+      "unafraid",
+      "undismayed",
+      "unflinching",
+      "unshrinking",
+      "unabashed",
+      "fearless",
+      "dauntless",
+      "intrepid",
+      "bold",
+      "valiant",
+      "brave",
+      "courageous",
+      "plucky",
+      "mettlesome",
+      "indomitable",
+      "confident",
+      "audacious",
+      "daring",
+      "gusty"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "undeniable",
+    "pos": "",
+    "head_meanings": [
+      "부정할 수 없는",
+      "논의할 여지가 없는",
+      "틀림없는"
+    ],
+    "synonyms_from_image": [
+      "indisputable",
+      "indubitable",
+      "unquestionable",
+      "undebatable",
+      "incontrovertible",
+      "irrefutable",
+      "certain",
+      "sure",
+      "definite",
+      "obvious",
+      "unmistakable",
+      "self-evident",
+      "patent",
+      "emphatic",
+      "unequivocal"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "undercut",
+    "pos": "",
+    "head_meanings": [
+      "~의 효과(공적, 지위)를 약화시키다",
+      "밑을 잘라내다",
+      "(…의) 하부를 깎아내다(…보다) 싸게 팔다",
+      "싼 임금으로 일하다"
+    ],
+    "synonyms_from_image": [
+      "undermine",
+      "qualify",
+      "weaken",
+      "impair",
+      "sap",
+      "threaten",
+      "subvert",
+      "sabotage",
+      "ruin",
+      "destabilize",
+      "wreck"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "underestimate",
+    "pos": "",
+    "head_meanings": [
+      "지나치게 싸게 여기[견적]하다",
+      "과소평가하다"
+    ],
+    "synonyms_from_image": [
+      "underrate",
+      "undervalue",
+      "play down",
+      "understate",
+      "underemphasize",
+      "diminish",
+      "downgrade",
+      "gloss over",
+      "miscalculate",
+      "misjudge",
+      "misconstrue",
+      "misread"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "undergird",
+    "pos": "",
+    "head_meanings": [
+      "밑을 단단하게 묶다",
+      "뒷받침하다"
+    ],
+    "synonyms_from_image": [
+      "support"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "underlying",
+    "pos": "",
+    "head_meanings": [
+      "기초를 이루는",
+      "기본적인",
+      "잠재적인",
+      "밑에 있는"
+    ],
+    "synonyms_from_image": [
+      "basic",
+      "fundamental",
+      "primary",
+      "prime",
+      "elementary",
+      "latent",
+      "lurking",
+      "concealed",
+      "hidden",
+      "veiled"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "undermine",
+    "pos": "",
+    "head_meanings": [
+      "~의 기초를 위태롭게 하다",
+      "(남의 건강·평판 따위)를 밑에서 해치다[손상시키다]",
+      "~의 밑을 파다(침식 작용으로)",
+      "~의 뿌리(토대)를 침식하다"
+    ],
+    "synonyms_from_image": [
+      "subvert",
+      "undercut",
+      "qualify",
+      "enfeeble",
+      "debilitate",
+      "cripple",
+      "disable"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "underplay",
+    "pos": "",
+    "head_meanings": [
+      "<배역, 장면 등을> 실력 이하로(소극적으로) 연기하다",
+      "<꽃수가 높은 패를 가지고 있으면서> 꽃수가 낮은 패를 낸다"
+    ],
+    "synonyms_from_image": [
+      "downplay",
+      "play down"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "underrate",
+    "pos": "",
+    "head_meanings": [
+      "~을 지나치게 싸게 여기다",
+      "과소평가하다"
+    ],
+    "synonyms_from_image": [
+      "undervalue",
+      "underestimate",
+      "play down",
+      "understate",
+      "diminish",
+      "downgrade",
+      "trivialize"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "underscore",
+    "pos": "",
+    "head_meanings": [
+      "강조하다",
+      "~에 밑줄 긋다"
+    ],
+    "synonyms_from_image": [
+      "emphasize",
+      "accentuate",
+      "stress",
+      "highlight"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "understate",
+    "pos": "",
+    "head_meanings": [
+      "(수, 양, 정도 등을) 적게(약하게, 줄잡아) 말하다"
+    ],
+    "synonyms_from_image": [
+      "downplay",
+      "play down",
+      "underrate",
+      "underplay",
+      "deemphasize",
+      "trivialize",
+      "diminish",
+      "downgrade",
+      "gloss over"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "undeserved",
+    "pos": "",
+    "head_meanings": [
+      "서비스가 충분하지 못한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "036",
+    "word": "undetected",
+    "pos": "",
+    "head_meanings": [
+      "발견되지 않은",
+      "들키지 않은",
+      "간파되지 않은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "037",
+    "word": "undeferred",
+    "pos": "",
+    "head_meanings": [
+      "저지되지 않은",
+      "말리지 못한",
+      "금하지 않은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "038",
+    "word": "undetermined",
+    "pos": "",
+    "head_meanings": [
+      "미결의",
+      "미확인의",
+      "결단을 못내리는",
+      "[뜻이] 분명치 않은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "039",
+    "word": "undisclosed",
+    "pos": "",
+    "head_meanings": [
+      "나타나지 않은",
+      "폭로[발표]되지 않은",
+      "비밀에 붙여진"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "040",
+    "word": "undiscriminating",
+    "pos": "",
+    "head_meanings": [
+      "식별[구별]하지 않는",
+      "무차별의",
+      "(식별감각) 없는",
+      "민감하지 않은"
+    ],
+    "synonyms_from_image": [
+      "lacking sensitivity",
+      "taste",
+      "or judgment",
+      "indiscriminate"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "undue",
+    "pos": "",
+    "head_meanings": [
+      "과도한",
+      "심한",
+      "부당한",
+      "부적당한",
+      "들어맞지 않는"
+    ],
+    "synonyms_from_image": [
+      "excessive",
+      "inordinate",
+      "immoderate",
+      "intemperate",
+      "unwarranted",
+      "unjustified",
+      "unreasonable",
+      "inappropriate"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "undulate",
+    "pos": "",
+    "head_meanings": [
+      "물결치다",
+      "파동치다",
+      "기복하다",
+      "진동시키다"
+    ],
+    "synonyms_from_image": [
+      "roll",
+      "sway",
+      "swing",
+      "quiver",
+      "tremble",
+      "fluctuate",
+      "waver"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "unearth",
+    "pos": "",
+    "head_meanings": [
+      "발굴하다",
+      "파내다",
+      "발견하다"
+    ],
+    "synonyms_from_image": [
+      "exhume",
+      "excavate",
+      "find"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "unearthly",
+    "pos": "",
+    "head_meanings": [
+      "초자연적인",
+      "섬뜩한"
+    ],
+    "synonyms_from_image": [
+      "awesome",
+      "uncanny",
+      "mysterious",
+      "eerie",
+      "weird"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "unencumbered",
+    "pos": "",
+    "head_meanings": [
+      "방해가 없는",
+      "장애 받지 않는",
+      "얽매인 데가 없는",
+      "부동산이 (저당, 부채 등에) 물려 있지 않은",
+      "부담이 없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "046",
+    "word": "unequivocal",
+    "pos": "",
+    "head_meanings": [
+      "애매하지 않은",
+      "명백한",
+      "솔직한"
+    ],
+    "synonyms_from_image": [
+      "clear",
+      "direct",
+      "certain",
+      "apparent",
+      "explicit"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "unerring",
+    "pos": "",
+    "head_meanings": [
+      "틀림없는",
+      "잘못이 없는",
+      "과오를 범하지 않는",
+      "바른 길[궤]에서 벗어나지 않는"
+    ],
+    "synonyms_from_image": [
+      "unfailing",
+      "infallible",
+      "perfect",
+      "flawless",
+      "faultless",
+      "impeccable",
+      "unimpeachable",
+      "sure",
+      "true",
+      "assured"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "unerringly",
+    "pos": "",
+    "head_meanings": [
+      "틀림없이",
+      "기준을 벗어나지 않게",
+      "정확히",
+      "확실하게"
+    ],
+    "synonyms_from_image": [
+      "inerrably",
+      "correctly",
+      "exactly",
+      "accurately",
+      "precisely"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "unethical",
+    "pos": "",
+    "head_meanings": [
+      "비윤리적인",
+      "도리에 어긋나는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "050",
+    "word": "unexciting",
+    "pos": "",
+    "head_meanings": [
+      "흥분시키지 않는",
+      "평범한",
+      "재미 없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "051",
+    "word": "unexceptionable",
+    "pos": "",
+    "head_meanings": [
+      "나무랄 데 없는",
+      "비판의 여지가 없는",
+      "훌륭한",
+      "더할 나위 없는"
+    ],
+    "synonyms_from_image": [
+      "unobjectionable",
+      "irreproachable"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "unexplored",
+    "pos": "",
+    "head_meanings": [
+      "아직 탐험[답사, 탐구]되지 않은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "053",
+    "word": "unfailing",
+    "pos": "",
+    "head_meanings": [
+      "절대 확실한",
+      "틀림 없는",
+      "신뢰할 수 있는",
+      "끝없이 이어지지 않는?",
+      "확실한"
+    ],
+    "synonyms_from_image": [
+      "constant",
+      "reliable",
+      "dependable",
+      "steadfast",
+      "steady",
+      "endless",
+      "undying",
+      "unfading",
+      "inexhaustible",
+      "ceaseless",
+      "boundless"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "unfaltering",
+    "pos": "",
+    "head_meanings": [
+      "확고한",
+      "굳굳한",
+      "담담한",
+      "망설이지 않는"
+    ],
+    "synonyms_from_image": [
+      "enduring",
+      "steady",
+      "unfailing",
+      "obstinate",
+      "firm",
+      "resolute",
+      "sure"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "unfathomable",
+    "pos": "",
+    "head_meanings": [
+      "잴 수 없는",
+      "깊이를 헤아릴 수 없는",
+      "심오한",
+      "불가해한"
+    ],
+    "synonyms_from_image": [
+      "inscrutable",
+      "incomprehensible",
+      "enigmatic",
+      "indecipherable",
+      "obscure",
+      "esoteric",
+      "mysterious",
+      "deep",
+      "profound",
+      "immeasurable",
+      "unplumbed",
+      "bottomless"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "unfathomed",
+    "pos": "",
+    "head_meanings": [
+      "<바다 등이> 깊이를 알 수 없는",
+      "문제 등이 이해[해결]할 수 없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "057",
+    "word": "unfazed",
+    "pos": "",
+    "head_meanings": [
+      "마음이 동요하지 않은",
+      "당황하지 않은"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "058",
+    "word": "unfeeling",
+    "pos": "",
+    "head_meanings": [
+      "느낌 없는",
+      "무감각의",
+      "무정한",
+      "냉혹",
+      "잔혹한"
+    ],
+    "synonyms_from_image": [
+      "unsympathetic",
+      "unemotional",
+      "uncharitable"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "unfeigned",
+    "pos": "",
+    "head_meanings": [
+      "거짓 없는",
+      "진실한",
+      "성실한",
+      "꾸밈 없는"
+    ],
+    "synonyms_from_image": [
+      "open",
+      "true",
+      "hearty",
+      "sincere"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "unfetter",
+    "pos": "",
+    "head_meanings": [
+      "~의 족쇄를 풀다",
+      "속박을 풀다",
+      "해방하다"
+    ],
+    "synonyms_from_image": [
+      "release",
+      "free",
+      "disengage",
+      "emancipate",
+      "deliver"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "unflappable",
+    "pos": "",
+    "head_meanings": [
+      "쉽사리 흥분[동요]하지 않는",
+      "침착한"
+    ],
+    "synonyms_from_image": [
+      "imperturbable",
+      "unexcitable",
+      "cool",
+      "calm",
+      "self-controlled",
+      "cool-headed",
+      "level-headed"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "unfledged",
+    "pos": "",
+    "head_meanings": [
+      "미숙한",
+      "어린",
+      "젖내나는"
+    ],
+    "synonyms_from_image": [
+      "undeveloped",
+      "green",
+      "childish",
+      "puerile",
+      "callow"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "unflinching",
+    "pos": "",
+    "head_meanings": [
+      "움츠리지 않는",
+      "물러서지 않는",
+      "굽히지 않는",
+      "단호한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "064",
+    "word": "unfounded",
+    "pos": "",
+    "head_meanings": [
+      "근거 없는",
+      "사실무근의",
+      "이유 없는"
+    ],
+    "synonyms_from_image": [
+      "unjustified"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "unfrock",
+    "pos": "",
+    "head_meanings": [
+      "성직을 박탈하다",
+      "제명하다",
+      "제의를 벗기다",
+      "특권을 박탈하다"
+    ],
+    "synonyms_from_image": [
+      "oust",
+      "expel",
+      "dismiss"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "ungainly",
+    "pos": "",
+    "head_meanings": [
+      "보기흉한",
+      "볼품없는",
+      "물매가 나쁜",
+      "서투른"
+    ],
+    "synonyms_from_image": [
+      "awkward",
+      "clumsy",
+      "maladroit",
+      "lumbering"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "unglamorous",
+    "pos": "",
+    "head_meanings": [
+      "매력이 없는",
+      "흥미 없는",
+      "평범한",
+      "보통의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "068",
+    "word": "uniformity",
+    "pos": "",
+    "head_meanings": [
+      "동일(성)",
+      "균일(성)",
+      "획일(성)",
+      "일관(성)"
+    ],
+    "synonyms_from_image": [
+      "similarity",
+      "equality",
+      "analogy",
+      "equivalence",
+      "parallel"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "unilateral",
+    "pos": "",
+    "head_meanings": [
+      "일방적인",
+      "한쪽으로만 치우친"
+    ],
+    "synonyms_from_image": [
+      "lopsided",
+      "flanked"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "unimaginable",
+    "pos": "",
+    "head_meanings": [
+      "상상할 수 없는",
+      "생각조차 못하는",
+      "기상천외의"
+    ],
+    "synonyms_from_image": [
+      "unconceivable"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "unimpeachable",
+    "pos": "",
+    "head_meanings": [
+      "비난할 수 없는",
+      "나무랄데 없는",
+      "탄핵할 수 없는"
+    ],
+    "synonyms_from_image": [
+      "blameless",
+      "impeccable",
+      "irreproachable",
+      "unassailable",
+      "faultless"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "uninhibited",
+    "pos": "",
+    "head_meanings": [
+      "억압되지 않은",
+      "(행동 따위가) 구속되지 않은",
+      "자유로운"
+    ],
+    "synonyms_from_image": [
+      "free",
+      "unrestricted",
+      "unrestrained",
+      "liberal",
+      "unconstrained"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "uninitiated",
+    "pos": "",
+    "head_meanings": [
+      "충분한 경험/지식이 없는",
+      "풋내기",
+      "미경험자",
+      "초심자"
+    ],
+    "synonyms_from_image": [
+      "not knowledgeable or skilled",
+      "inexperienced"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "uninspiring",
+    "pos": "",
+    "head_meanings": [
+      "영감을 주지 않는",
+      "상상력을 불러일으키지 않는"
+    ],
+    "synonyms_from_image": [
+      "boring",
+      "dull",
+      "dreary",
+      "unexciting",
+      "unstimulating",
+      "bland",
+      "lackluster",
+      "tedious",
+      "humdrum",
+      "run-of-the-mill"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "unintelligible",
+    "pos": "",
+    "head_meanings": [
+      "이해할 수 없는",
+      "알기 힘든",
+      "난해한"
+    ],
+    "synonyms_from_image": [
+      "incomprehensible",
+      "indiscernible",
+      "indistinct",
+      "mumbled",
+      "unclear",
+      "slurred",
+      "inarticulate",
+      "incoherent",
+      "garbled"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "unique",
+    "pos": "",
+    "head_meanings": [
+      "단 하나뿐인",
+      "독특한",
+      "유일한",
+      "비길데 없는"
+    ],
+    "synonyms_from_image": [
+      "singular",
+      "distinctive",
+      "unequaled",
+      "matchless",
+      "peculiar",
+      "peerless"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "unison",
+    "pos": "",
+    "head_meanings": [
+      "조화",
+      "화합",
+      "제창",
+      "화음",
+      "(음)피치 완전한 일치"
+    ],
+    "synonyms_from_image": [
+      "agreement",
+      "harmony",
+      "simultaneity",
+      "unanimity",
+      "coincidence"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "universal",
+    "pos": "",
+    "head_meanings": [
+      "전체의",
+      "일반적인",
+      "모든 것에 영향이 있는",
+      "보편적인",
+      "도처에 존재하는"
+    ],
+    "synonyms_from_image": [
+      "whole",
+      "general",
+      "affecting",
+      "involving",
+      "international"
+    ]
+  },
+  {
+    "id": "079",
+    "word": "unjustified",
+    "pos": "",
+    "head_meanings": [
+      "정당하지 않은",
+      "근거가 없는"
+    ],
+    "synonyms_from_image": [
+      "unfounded",
+      "groundless",
+      "unwarranted",
+      "baseless"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "unjustifiable",
+    "pos": "",
+    "head_meanings": [
+      "조리가 닿지 않는",
+      "이치에 맞지 않는",
+      "변명할 여지가 없는"
+    ],
+    "synonyms_from_image": [
+      "groundless",
+      "unwarranted",
+      "baseless"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "unkempt",
+    "pos": "",
+    "head_meanings": [
+      "빗지 않은",
+      "덥수룩한",
+      "난잡한",
+      "세련되지 않은",
+      "단정치 못한"
+    ],
+    "synonyms_from_image": [
+      "uncombed",
+      "tousled",
+      "untidy",
+      "unrefined",
+      "messy",
+      "sloppy"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "unlikely",
+    "pos": "",
+    "head_meanings": [
+      "…(하는 것이) 있을 법하지 않은",
+      "정말 같지 않은",
+      "일어날 것 같지 않은",
+      "의심스러운",
+      "생각할 수 없는",
+      "생각지도도 할"
+    ],
+    "synonyms_from_image": [
+      "implausible"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "unlock",
+    "pos": "",
+    "head_meanings": [
+      "…을 밝히다",
+      "<비밀 등을> 열어놓다"
+    ],
+    "synonyms_from_image": [
+      "unbolt",
+      "unlatch",
+      "unbar",
+      "unfasten",
+      "open"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "unlocked",
+    "pos": "",
+    "head_meanings": [
+      "<문, 창 등> 자물쇠를 (특히 열쇠로) 열다",
+      "<잠긴 것을> 열다",
+      "속박에서 해방되다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "085",
+    "word": "unnerve",
+    "pos": "",
+    "head_meanings": [
+      "<남의> 용기/력을 잃게 하다",
+      "~을 무기력하게 하다",
+      "당황하게 만들다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "086",
+    "word": "unmistakable",
+    "pos": "",
+    "head_meanings": [
+      "틀림[오해]의 여지가 없는",
+      "명백한",
+      "분명한"
+    ],
+    "synonyms_from_image": [
+      "distinctive",
+      "distinct",
+      "telltale",
+      "indisputable",
+      "indubitable",
+      "undoubted",
+      "plain",
+      "clear",
+      "obvious",
+      "evident",
+      "self-evident",
+      "manifest",
+      "patent",
+      "unambiguous",
+      "unequivocal"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "unmitigated",
+    "pos": "",
+    "head_meanings": [
+      "누그러지지 않은",
+      "좋지 않은",
+      "완전한",
+      "전적인",
+      "순전한",
+      "깊은"
+    ],
+    "synonyms_from_image": [
+      "absolute",
+      "unqualified",
+      "mere",
+      "pure"
+    ]
+  },
+  {
+    "id": "088",
+    "word": "unobtrusive",
+    "pos": "",
+    "head_meanings": [
+      "신중한",
+      "삼가는",
+      "주제넘게 나서지 않는",
+      "눈에 띄지 않는"
+    ],
+    "synonyms_from_image": [
+      "shy",
+      "considered",
+      "deliberate",
+      "prudent"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "unostentatious",
+    "pos": "",
+    "head_meanings": [
+      "거만떨지 않는",
+      "젠체하지 않는",
+      "점잖빼지 않는",
+      "순박한"
+    ],
+    "synonyms_from_image": [
+      "modest"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "unprecedented",
+    "pos": "",
+    "head_meanings": [
+      "전례가 없는",
+      "참신한",
+      "새로운"
+    ],
+    "synonyms_from_image": [
+      "novel",
+      "abnormal",
+      "recent",
+      "unheard-of",
+      "unexampled",
+      "extraordinary"
+    ]
+  },
+  {
+    "id": "091",
+    "word": "unprepossessing",
+    "pos": "",
+    "head_meanings": [
+      "매력 없는",
+      "호감을 주지 않는",
+      "애교 없는"
+    ],
+    "synonyms_from_image": [
+      "unattractive",
+      "unremarkable"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "unravel",
+    "pos": "",
+    "head_meanings": [
+      "(엉클어진 것, 실, 매듭 등을) 풀다",
+      "해명하다",
+      "해결하다",
+      "흐트러지기 시작하다"
+    ],
+    "synonyms_from_image": [
+      "unwind",
+      "untwist",
+      "solve",
+      "resolve",
+      "clear up",
+      "clarify",
+      "make clear",
+      "puzzle out",
+      "fall apart",
+      "fail",
+      "collapse",
+      "go wrong"
+    ]
+  },
+  {
+    "id": "093",
+    "word": "unrelenting",
+    "pos": "",
+    "head_meanings": [
+      "말을 듣지 않는",
+      "<의견, 이상이> 확고 부동한",
+      "불굴의",
+      "엄한",
+      "가차없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "094",
+    "word": "unremarkable",
+    "pos": "",
+    "head_meanings": [
+      "남의 주의[흥미]를 끌지 않는",
+      "평범한"
+    ],
+    "synonyms_from_image": [
+      "ordinary"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "unremitting",
+    "pos": "",
+    "head_meanings": [
+      "끊임없는",
+      "약화되지 않는",
+      "쉼 새 없는",
+      "끈기 있는"
+    ],
+    "synonyms_from_image": [
+      "unceasing",
+      "incessant"
+    ]
+  },
+  {
+    "id": "096",
+    "word": "unremunerative",
+    "pos": "",
+    "head_meanings": [
+      "보수(=) 이익이 없는",
+      "벌이가 되지 않는",
+      "수지 안 맞는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "097",
+    "word": "unrestrained",
+    "pos": "",
+    "head_meanings": [
+      "억제되지 않은",
+      "제어되지 않은",
+      "거리낌 없는",
+      "삼가지 않는"
+    ],
+    "synonyms_from_image": [
+      "unchecked",
+      "uncontrolled",
+      "unconstrained",
+      "unrestricted",
+      "unbridled",
+      "unlimited",
+      "unfettered",
+      "uninhibited",
+      "unbounded",
+      "undisciplined"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "unrivaled",
+    "pos": "",
+    "head_meanings": [
+      "경쟁 상대가 없는",
+      "무적의",
+      "무쌍의",
+      "최상의"
+    ],
+    "synonyms_from_image": [
+      "incomparable"
+    ]
+  },
+  {
+    "id": "099",
+    "word": "unruffled",
+    "pos": "",
+    "head_meanings": [
+      "조용한",
+      "평온한",
+      "침착한",
+      "<마음, 수면 등이> 물결이 일지 않은",
+      "파문이 일지 않은",
+      "혼란되지 않은",
+      "<옷이> 구김살 없는"
+    ],
+    "synonyms_from_image": [
+      "calm",
+      "composed",
+      "self-controlled",
+      "untroubled",
+      "unperturbed",
+      "at ease",
+      "relaxed",
+      "serene",
+      "cool",
+      "cool-headed",
+      "unemotional",
+      "equanimous",
+      "equable",
+      "stoical",
+      "unfazed",
+      "tranquil",
+      "smooth"
+    ]
+  },
+  {
+    "id": "100",
+    "word": "unruly",
+    "pos": "",
+    "head_meanings": [
+      "무법의",
+      "제어하기 힘든",
+      "고분고분하지 않은",
+      "제멋대로의",
+      "다루기 힘든"
+    ],
+    "synonyms_from_image": [
+      "refractory",
+      "unlawful",
+      "undisciplined",
+      "obstreperous"
+    ]
+  },
+  {
+    "id": "101",
+    "word": "unsanitary",
+    "pos": "",
+    "head_meanings": [
+      "비위생적인",
+      "보건상 나쁜",
+      "건강에 좋지 않은"
+    ],
+    "synonyms_from_image": [
+      "unhygienic",
+      "insanitary",
+      "insalubrious",
+      "dirty",
+      "filthy",
+      "unclean",
+      "contaminated",
+      "unhealthy",
+      "infested",
+      "polluted"
+    ]
+  },
+  {
+    "id": "102",
+    "word": "unsavory",
+    "pos": "",
+    "head_meanings": [
+      "맛없는",
+      "불쾌한",
+      "재미없는",
+      "도덕적으로 불미한"
+    ],
+    "synonyms_from_image": [
+      "tasteless",
+      "unpleasant",
+      "unpalatable",
+      "flavorless",
+      "nasty"
+    ]
+  },
+  {
+    "id": "103",
+    "word": "unscathed",
+    "pos": "",
+    "head_meanings": [
+      "상처[해]를 입지 않은",
+      "흠이 없는"
+    ],
+    "synonyms_from_image": [
+      "unhurt",
+      "uninjured",
+      "whole",
+      "entire",
+      "perfect",
+      "unscratched"
+    ]
+  },
+  {
+    "id": "104",
+    "word": "unseemly",
+    "pos": "",
+    "head_meanings": [
+      "보기흉한",
+      "꼴 사나운",
+      "어울리지 않는",
+      "부적당한"
+    ],
+    "synonyms_from_image": [
+      "improper",
+      "unsuitable",
+      "vulgar",
+      "disreputable",
+      "gross",
+      "undignified",
+      "indecorous"
+    ]
+  },
+  {
+    "id": "105",
+    "word": "unsettling",
+    "pos": "",
+    "head_meanings": [
+      "동요시키는",
+      "심란하게 하는"
+    ],
+    "synonyms_from_image": [
+      "unsettle",
+      "discompose",
+      "unnerve",
+      "upset",
+      "disturb",
+      "disquiet",
+      "perturb",
+      "discomfit",
+      "disconcert"
+    ]
+  },
+  {
+    "id": "106",
+    "word": "unsteady",
+    "pos": "",
+    "head_meanings": [
+      "불안정한",
+      "불규칙한",
+      "일정하지 않은",
+      "변하기 쉬운",
+      "동요하는"
+    ],
+    "synonyms_from_image": [
+      "unstable",
+      "shaky",
+      "insecure",
+      "irregular",
+      "uneven",
+      "varying",
+      "variable",
+      "changing",
+      "fluctuating",
+      "inconstant",
+      "intermittent"
+    ]
+  },
+  {
+    "id": "107",
+    "word": "unsullied",
+    "pos": "",
+    "head_meanings": [
+      "더럽혀지지 않은",
+      "오점이 없는"
+    ],
+    "synonyms_from_image": [
+      "unsoiled",
+      "clean",
+      "spotless",
+      "unpolluted",
+      "untainted"
+    ]
+  },
+  {
+    "id": "108",
+    "word": "unsustainable",
+    "pos": "",
+    "head_meanings": [
+      "떠받칠 수 없는",
+      "지지[옹호, 지속]할 수 없는",
+      "입증할 수 없는"
+    ],
+    "synonyms_from_image": [
+      "untenable",
+      "baseless"
+    ]
+  },
+  {
+    "id": "109",
+    "word": "unsympathetic",
+    "pos": "",
+    "head_meanings": [
+      "동정심 없는",
+      "무정한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "110",
+    "word": "untainted",
+    "pos": "",
+    "head_meanings": [
+      "더럽혀지지 않은",
+      "오점 없는",
+      "흠 없는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "111",
+    "word": "untenable",
+    "pos": "",
+    "head_meanings": [
+      "[이론, 입장 등이] 지지[주장]할 수 없는",
+      "이치가 맞지 않는",
+      "지킬 수 없는",
+      "유지[지탱]할 수 없는",
+      "공격에 견딜 수 없는",
+      "<드물게> 거주할 수 없는"
+    ],
+    "synonyms_from_image": [
+      "baseless",
+      "unacceptable",
+      "unmaintainable",
+      "indefensible",
+      "undefendable",
+      "insupportable",
+      "unjustifiable",
+      "helpless",
+      "flimsy",
+      "weak",
+      "shaky"
+    ]
+  },
+  {
+    "id": "112",
+    "word": "untoward",
+    "pos": "",
+    "head_meanings": [
+      "운수 나쁜",
+      "고집 센",
+      "반대방향의",
+      "다루기 힘든",
+      "온당치 못한",
+      "불리한",
+      "형편이 나쁜",
+      "주제 넘은",
+      "꼴사나운"
+    ],
+    "synonyms_from_image": [
+      "hapless",
+      "unlucky",
+      "indocile",
+      "recalcitrant",
+      "rough",
+      "unseemly"
+    ]
+  },
+  {
+    "id": "113",
+    "word": "unvaried",
+    "pos": "",
+    "head_meanings": [
+      "변화가 없는(적인)",
+      "단조로운"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "114",
+    "word": "unveil",
+    "pos": "",
+    "head_meanings": [
+      "<비밀을> 밝히다",
+      "정체를 드러내다",
+      "(베일[덮개]를) 벗기다"
+    ],
+    "synonyms_from_image": [
+      "reveal",
+      "disclose",
+      "divulge",
+      "make public",
+      "show"
+    ]
+  },
+  {
+    "id": "115",
+    "word": "unwarranted",
+    "pos": "",
+    "head_meanings": [
+      "보증이 없는",
+      "보증되지 않은",
+      "근거 없는",
+      "정당화되지 않은",
+      "부당한"
+    ],
+    "synonyms_from_image": [
+      "groundless",
+      "unfounded",
+      "unjustified"
+    ]
+  },
+  {
+    "id": "116",
+    "word": "unwieldy",
+    "pos": "",
+    "head_meanings": [
+      "다루기 어려운",
+      "움직이기 힘든",
+      "꼴사나운",
+      "보기 흉한"
+    ],
+    "synonyms_from_image": [
+      "cumbersome",
+      "ungainly",
+      "bulky",
+      "clumsy"
+    ]
+  },
+  {
+    "id": "117",
+    "word": "unwitting",
+    "pos": "",
+    "head_meanings": [
+      "의식하지 않은",
+      "부지중의",
+      "생각하지 않는"
+    ],
+    "synonyms_from_image": [
+      "unaware",
+      "unthinking",
+      "unmeant",
+      "unplanned",
+      "unexpected",
+      "accidental"
+    ]
+  },
+  {
+    "id": "118",
+    "word": "unwonted",
+    "pos": "",
+    "head_meanings": [
+      "익숙하지 않은",
+      "평소에 없는",
+      "보통이 아닌",
+      "드문",
+      "비상한"
+    ],
+    "synonyms_from_image": [
+      "unfamiliar",
+      "rare",
+      "atypical",
+      "extraordinary",
+      "uncommon"
+    ]
+  },
+  {
+    "id": "119",
+    "word": "upbeat",
+    "pos": "",
+    "head_meanings": [
+      "즐거운",
+      "명랑한(cheerful)",
+      "낙관적인(optimistic)",
+      "상승 경향",
+      "상향의 움직임",
+      "향상",
+      "진보"
+    ],
+    "synonyms_from_image": [
+      "optimistic",
+      "cheerful",
+      "hopeful",
+      "sanguine",
+      "buoyant"
+    ]
+  },
+  {
+    "id": "120",
+    "word": "upbraid",
+    "pos": "",
+    "head_meanings": [
+      "꾸짖다",
+      "나무라다",
+      "비난하다"
+    ],
+    "synonyms_from_image": [
+      "berate",
+      "chew out",
+      "rebuke",
+      "censure",
+      "reprove"
+    ]
+  },
+  {
+    "id": "121",
+    "word": "upend",
+    "pos": "",
+    "head_meanings": [
+      "(위아래를) 거꾸로 놓다[하다]",
+      "뒤집다",
+      "패배시키다",
+      "충격을 가하다",
+      "(동·등을) 세우다"
+    ],
+    "synonyms_from_image": [
+      "overthrow"
+    ]
+  },
+  {
+    "id": "122",
+    "word": "upheaval",
+    "pos": "",
+    "head_meanings": [
+      "격변",
+      "동란",
+      "대변동"
+    ],
+    "synonyms_from_image": [
+      "disruption",
+      "disturbance",
+      "trouble",
+      "turbulence",
+      "disorder",
+      "turmoil",
+      "chaos",
+      "cataclysm",
+      "revolution",
+      "change"
+    ]
+  },
+  {
+    "id": "123",
+    "word": "uphold",
+    "pos": "",
+    "head_meanings": [
+      "옹호하다",
+      "지지하다",
+      "수호하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "124",
+    "word": "upshot",
+    "pos": "",
+    "head_meanings": [
+      "결론",
+      "(최후의) 결과"
+    ],
+    "synonyms_from_image": [
+      "result",
+      "final",
+      "issue",
+      "consequence",
+      "effect",
+      "outcome"
+    ]
+  },
+  {
+    "id": "125",
+    "word": "urbane",
+    "pos": "",
+    "head_meanings": [
+      "도회적 풍의",
+      "우아한",
+      "세련된",
+      "점잖은",
+      "예절 바른",
+      "교양 있는"
+    ],
+    "synonyms_from_image": [
+      "smooth",
+      "affable",
+      "civilized",
+      "polite",
+      "diplomatic"
+    ]
+  },
+  {
+    "id": "126",
+    "word": "valid",
+    "pos": "",
+    "head_meanings": [
+      "정당한",
+      "타당한",
+      "설득력 있는",
+      "강력한",
+      "권위 있는"
+    ],
+    "synonyms_from_image": [
+      "just",
+      "well-founded",
+      "substantial",
+      "cogent",
+      "authoritative"
+    ]
+  },
+  {
+    "id": "127",
+    "word": "validate",
+    "pos": "",
+    "head_meanings": [
+      "정당성을 입증하다",
+      "유효하게 하다",
+      "실증하다",
+      "(문서 등을) 허가(인가)하다"
+    ],
+    "synonyms_from_image": [
+      "approve",
+      "legalize",
+      "corroborate",
+      "sanction"
+    ]
+  },
+  {
+    "id": "128",
+    "word": "validity",
+    "pos": "",
+    "head_meanings": [
+      "정당함",
+      "타당성",
+      "확실(성)",
+      "효력",
+      "유효성",
+      "합법성"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "129",
+    "word": "valor",
+    "pos": "",
+    "head_meanings": [
+      "용기",
+      "대담",
+      "용감",
+      "용맹"
+    ],
+    "synonyms_from_image": [
+      "gallantry",
+      "courage",
+      "mettle",
+      "prowess",
+      "intrepidity",
+      "spirit"
+    ]
+  },
+  {
+    "id": "130",
+    "word": "valorize",
+    "pos": "",
+    "head_meanings": [
+      "(가치의 뜻에서(특히 정부가 가격을 정하다, 물가를 안정시키다)) 가치, 질 등을 높이다(올리다/강화하다)"
+    ],
+    "synonyms_from_image": [
+      "exalt"
+    ]
+  },
+  {
+    "id": "131",
+    "word": "valorous",
+    "pos": "",
+    "head_meanings": [
+      "용기 있는",
+      "용감한",
+      "(행동 등이) 씩씩한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "132",
+    "word": "vanguard",
+    "pos": "",
+    "head_meanings": [
+      "전위대",
+      "선봉",
+      "선구자",
+      "선도자"
+    ],
+    "synonyms_from_image": [
+      "forefront",
+      "guard",
+      "precursor",
+      "leader",
+      "van"
+    ]
+  },
+  {
+    "id": "133",
+    "word": "vanity",
+    "pos": "",
+    "head_meanings": [
+      "자만심",
+      "허영심",
+      "공허(함)",
+      "덧없음",
+      "헛됨",
+      "자랑거리",
+      "자만하는 것",
+      "허황한 것",
+      "무가치",
+      "허참음",
+      "실질(알맹이)이 없음"
+    ],
+    "synonyms_from_image": [
+      "conceit",
+      "narcissism",
+      "self-love",
+      "self-regard",
+      "egotism",
+      "pride",
+      "arrogance",
+      "boastfulness",
+      "swagger",
+      "vainglory",
+      "futility",
+      "uselessness",
+      "fruitlessness"
+    ]
+  },
+  {
+    "id": "134",
+    "word": "vanquish",
+    "pos": "",
+    "head_meanings": [
+      "정복하다",
+      "항복시키다",
+      "무찌르다",
+      "(경기, 토론 등에서) 상대를 논파하다",
+      "패배시키다",
+      "(감정, 유혹 등을) 이기다",
+      "극복하다",
+      "억제하다"
+    ],
+    "synonyms_from_image": [
+      "triumph over",
+      "conquer",
+      "defeat",
+      "beat",
+      "trounce",
+      "rout",
+      "overcome",
+      "subdue",
+      "subjugate",
+      "quell",
+      "quash",
+      "crush",
+      "thrash"
+    ]
+  },
+  {
+    "id": "135",
+    "word": "vantage",
+    "pos": "",
+    "head_meanings": [
+      "유리한 지점",
+      "우월",
+      "유리"
+    ],
+    "synonyms_from_image": [
+      "superiority",
+      "sphere of influence",
+      "advantage"
+    ]
+  },
+  {
+    "id": "136",
+    "word": "vapid",
+    "pos": "",
+    "head_meanings": [
+      "김 빠진",
+      "맛 없는",
+      "지루한",
+      "무미건조한",
+      "(말, 문장이) 생기를 잃은",
+      "활기 없는",
+      "흥미 없는",
+      "지리한"
+    ],
+    "synonyms_from_image": [
+      "jejune",
+      "insipid",
+      "uninspired",
+      "uninteresting",
+      "dull",
+      "boring",
+      "tedious",
+      "unexciting",
+      "uninspiring",
+      "unimaginative",
+      "lifeless",
+      "tame",
+      "vacuous",
+      "bland",
+      "trite",
+      "tasteless",
+      "flat",
+      "banal"
+    ]
+  },
+  {
+    "id": "137",
+    "word": "vacuous",
+    "pos": "",
+    "head_meanings": [
+      "텅 빈",
+      "공허한",
+      "할 일 없는",
+      "무의미한",
+      "멍청한",
+      "생각이 없는",
+      "어리석은"
+    ],
+    "synonyms_from_image": [
+      "paucity",
+      "vacuousness",
+      "vacant",
+      "superficial",
+      "bare"
+    ]
+  },
+  {
+    "id": "138",
+    "word": "vacuum",
+    "pos": "",
+    "head_meanings": [
+      "진공상태",
+      "텅 빈 상태"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "139",
+    "word": "vagabond",
+    "pos": "",
+    "head_meanings": [
+      "방랑자",
+      "유랑자",
+      "정처없이 떠도는 사람"
+    ],
+    "synonyms_from_image": [
+      "vagrant",
+      "hobo",
+      "rambler",
+      "loafer"
+    ]
+  },
+  {
+    "id": "140",
+    "word": "vagarious",
+    "pos": "",
+    "head_meanings": [
+      "상궤를 벗어난",
+      "기발한",
+      "엉뚱한",
+      "변덕스러운",
+      "방랑하는",
+      "유랑의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "141",
+    "word": "vagary",
+    "pos": "",
+    "head_meanings": [
+      "기발한 행동",
+      "변덕",
+      "일시적인 기분",
+      "엉뚱한 짓"
+    ],
+    "synonyms_from_image": [
+      "crotchet",
+      "impulse",
+      "kink",
+      "notion",
+      "whimsy",
+      "fancy",
+      "eccentricity"
+    ]
+  },
+  {
+    "id": "142",
+    "word": "vagrant",
+    "pos": "",
+    "head_meanings": [
+      "부랑 생활을 하는",
+      "유랑자의",
+      "변하기 쉬운",
+      "변덕스러운"
+    ],
+    "synonyms_from_image": [
+      "itinerant",
+      "ambulant",
+      "peripatetic",
+      "capricious",
+      "random"
+    ]
+  },
+  {
+    "id": "143",
+    "word": "vagrant",
+    "pos": "",
+    "head_meanings": [
+      "부랑자",
+      "무숙자",
+      "방랑자",
+      "유랑인"
+    ],
+    "synonyms_from_image": [
+      "vagabond",
+      "tramp",
+      "rover",
+      "person with no permanent address",
+      "floater",
+      "roamer"
+    ]
+  },
+  {
+    "id": "144",
+    "word": "vague",
+    "pos": "",
+    "head_meanings": [
+      "흐릿한",
+      "모호한",
+      "희미한",
+      "막연한",
+      "애매한"
+    ],
+    "synonyms_from_image": [
+      "nebulous"
+    ]
+  },
+  {
+    "id": "145",
+    "word": "vain",
+    "pos": "",
+    "head_meanings": [
+      "헛된",
+      "무익한",
+      "자만심이 강한",
+      "허영적인",
+      "뽐내는",
+      "하잘없는",
+      "시시한",
+      "공허한"
+    ],
+    "synonyms_from_image": [
+      "conceited",
+      "narcissistic",
+      "self-loving",
+      "egotistic",
+      "proud",
+      "arrogant",
+      "boastful",
+      "swaggering",
+      "futile",
+      "useless",
+      "ineffective",
+      "inefficacious",
+      "impotent",
+      "fruitless",
+      "unproductive",
+      "abortive",
+      "thwarted",
+      "frustrated",
+      "foiled",
+      "bootless"
+    ]
+  },
+  {
+    "id": "146",
+    "word": "vainglorious",
+    "pos": "",
+    "head_meanings": [
+      "자만심이 강한",
+      "허영심이 강한"
+    ],
+    "synonyms_from_image": [
+      "proud",
+      "vain",
+      "haughty",
+      "disdainful",
+      "insolent",
+      "impertinent"
+    ]
+  },
+  {
+    "id": "147",
+    "word": "valedictory",
+    "pos": "",
+    "head_meanings": [
+      "작별(사)의",
+      "고별의",
+      "작별 인사"
+    ],
+    "synonyms_from_image": [
+      "parting",
+      "departing",
+      "leaving"
+    ]
+  },
+  {
+    "id": "148",
+    "word": "valediction",
+    "pos": "",
+    "head_meanings": [
+      "작별[고별](인사)"
+    ],
+    "synonyms_from_image": [
+      "farewell"
+    ]
+  },
+  {
+    "id": "149",
+    "word": "valiant",
+    "pos": "",
+    "head_meanings": [
+      "(사람, 행위가) 용감한",
+      "씩씩한",
+      "용맹한",
+      "영웅적인",
+      "가치 있는",
+      "훌륭한",
+      "멋진",
+      "우수한",
+      "용감한 사람"
+    ],
+    "synonyms_from_image": [
+      "brave",
+      "courageous",
+      "plucky",
+      "valorous",
+      "intrepid",
+      "heroic",
+      "gallant",
+      "lionhearted",
+      "fearless",
+      "daring",
+      "audacious",
+      "unflinching",
+      "unshrinking",
+      "unafraid",
+      "dauntless",
+      "undaunted",
+      "doughty",
+      "indomitable",
+      "mettlesome",
+      "stout-hearted",
+      "spirited",
+      "gutsy"
+    ]
+  },
+  {
+    "id": "150",
+    "word": "usurp",
+    "pos": "",
+    "head_meanings": [
+      "(권력·지위를) 빼앗다",
+      "횡령하다",
+      "(권력 따위를) 침해하다",
+      "권한 없이 사용하다",
+      "강탈하다"
+    ],
+    "synonyms_from_image": [
+      "arrogate",
+      "appropriate",
+      "confiscate",
+      "take unlawfully",
+      "encroach"
+    ]
+  },
+  {
+    "id": "151",
+    "word": "usurpation",
+    "pos": "",
+    "head_meanings": [
+      "탈취",
+      "횡령",
+      "강탈",
+      "(왕위)의 찬탈"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "152",
+    "word": "usury",
+    "pos": "",
+    "head_meanings": [
+      "고리 대금",
+      "이자",
+      "엄청난 고리(로리)"
+    ],
+    "synonyms_from_image": [
+      "interest",
+      "loan at high interest",
+      "overcharge",
+      "illicit profit",
+      "premium"
+    ]
+  },
+  {
+    "id": "153",
+    "word": "utilitarian",
+    "pos": "",
+    "head_meanings": [
+      "공리적인",
+      "실리주의의",
+      "실용(주의)의"
+    ],
+    "synonyms_from_image": [
+      "functional"
+    ]
+  },
+  {
+    "id": "154",
+    "word": "utilitarianism",
+    "pos": "",
+    "head_meanings": [
+      "공리주의",
+      "실용주의",
+      "[철학] 공리설[주의]"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "155",
+    "word": "utopia",
+    "pos": "",
+    "head_meanings": [
+      "유토피아",
+      "이상향",
+      "이상적인 정치 체제"
+    ],
+    "synonyms_from_image": [
+      "dreamland",
+      "heaven",
+      "arcadia",
+      "wonderland",
+      "paradise"
+    ]
+  },
+  {
+    "id": "156",
+    "word": "utter",
+    "pos": "",
+    "head_meanings": [
+      "전적인",
+      "완전한",
+      "무조건의",
+      "절대적인",
+      "단호한",
+      "말 밖에",
+      "말하다",
+      "발음하다",
+      "퍼뜨리다",
+      "누설하다"
+    ],
+    "synonyms_from_image": [
+      "absolute",
+      "complete",
+      "total",
+      "thorough",
+      "downright",
+      "sheer",
+      "unconditional"
+    ]
+  },
+  {
+    "id": "157",
+    "word": "uxorious",
+    "pos": "",
+    "head_meanings": [
+      "아내에게 무른",
+      "아내를 너무 사랑하는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "158",
+    "word": "vacant",
+    "pos": "",
+    "head_meanings": [
+      "빈",
+      "공허한",
+      "비어 있는",
+      "빈자리의",
+      "얼빠진",
+      "멍청한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "159",
+    "word": "vacillate",
+    "pos": "",
+    "head_meanings": [
+      "(마음, 생각이) (의 사이에서) 흔들리다",
+      "동요하다",
+      "결단력이 없다",
+      "정하지 못하다",
+      "망설이다",
+      "(물건이) 흔들(겔뚝)거리다",
+      "흔들리다",
+      "동요하다",
+      "비틀거리다",
+      "진동하다",
+      "변동하다"
+    ],
+    "synonyms_from_image": [
+      "be indecisive",
+      "waver",
+      "hesitate",
+      "dither",
+      "shilly-shally",
+      "dilly-dally"
+    ]
+  },
+  {
+    "id": "160",
+    "word": "vacillation",
+    "pos": "",
+    "head_meanings": [
+      "갈팡질팡함",
+      "우유부단함"
+    ],
+    "synonyms_from_image": [
+      "wavering",
+      "fluctuation",
+      "irresolution",
+      "hesitancy",
+      "doubt",
+      "dallying",
+      "indecision"
+    ]
+  },
+  {
+    "id": "161",
+    "word": "vacillating",
+    "pos": "",
+    "head_meanings": [
+      "변덕스러움",
+      "변동"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "162",
+    "word": "vapidity",
+    "pos": "",
+    "head_meanings": [
+      "맛 없음",
+      "생기[활기] 없음",
+      "지루함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "163",
+    "word": "variable",
+    "pos": "",
+    "head_meanings": [
+      "변화하기 쉬운",
+      "일정하지 않은",
+      "변덕스러운",
+      "변경할 수 있는",
+      "가변(可變)의",
+      "변화가 풍부한",
+      "다양한",
+      "(종, 성질)이 변이하는",
+      "변이성의",
+      "변수의"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "164",
+    "word": "variance",
+    "pos": "",
+    "head_meanings": [
+      "차이",
+      "불일치",
+      "격차",
+      "불화",
+      "의견충돌",
+      "다름",
+      "가변성",
+      "다양성",
+      "변동"
+    ],
+    "synonyms_from_image": [
+      "disparity",
+      "variation",
+      "difference",
+      "discrepancy",
+      "dissimilarity",
+      "disagreement",
+      "conflict",
+      "divergence",
+      "deviation",
+      "contradiction",
+      "incongruity",
+      "inconsistence"
+    ]
+  },
+  {
+    "id": "165",
+    "word": "variegated",
+    "pos": "",
+    "head_meanings": [
+      "잡색의",
+      "변화가 풍부한",
+      "얼룩무늬의",
+      "다채로운"
+    ],
+    "synonyms_from_image": [
+      "different",
+      "checkered",
+      "diversified",
+      "varied",
+      "diverse"
+    ]
+  },
+  {
+    "id": "166",
+    "word": "varnish",
+    "pos": "",
+    "head_meanings": [
+      "칠레",
+      "속임수",
+      "니스(칠하기)",
+      "천연 바니시",
+      "(바니시 비슷한) 도료",
+      "유약"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "167",
+    "word": "vassal",
+    "pos": "",
+    "head_meanings": [
+      "봉신",
+      "가신",
+      "종속자",
+      "노예"
+    ],
+    "synonyms_from_image": [
+      "helot",
+      "tenant",
+      "bondman",
+      "dependent",
+      "servant"
+    ]
+  },
+  {
+    "id": "168",
+    "word": "vault",
+    "pos": "",
+    "head_meanings": [
+      "아치형 천장(지붕)",
+      "둥근 천장",
+      "(식량, 술의) 지하 저장실",
+      "(강철을 입힌) 보관실",
+      "금고실",
+      "(교회, 묘소의) 지하 납골소",
+      "매장실"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "169",
+    "word": "vaunt",
+    "pos": "",
+    "head_meanings": [
+      "자랑하다",
+      "뽐내다",
+      "(자기의 장점[좋은 점]을) 치켜세우다",
+      "자랑",
+      "호언 장담"
+    ],
+    "synonyms_from_image": [
+      "boost",
+      "show off",
+      "brag",
+      "flaunt",
+      "acclaim",
+      "praise",
+      "extol",
+      "celebrate",
+      "laud"
+    ]
+  },
+  {
+    "id": "170",
+    "word": "vaunted",
+    "pos": "",
+    "head_meanings": [
+      "자랑거리인",
+      "자랑하는",
+      "떠벌린",
+      "허풍을 떤"
+    ],
+    "synonyms_from_image": [
+      "boasted",
+      "bragged"
+    ]
+  },
+  {
+    "id": "171",
+    "word": "veer",
+    "pos": "",
+    "head_meanings": [
+      "방향이 바뀌다",
+      "변심[전향]하다",
+      "(의견 등을) 바꾸다"
+    ],
+    "synonyms_from_image": [
+      "wheel",
+      "turn",
+      "defect",
+      "deviate",
+      "swerve"
+    ]
+  },
+  {
+    "id": "172",
+    "word": "vehement",
+    "pos": "",
+    "head_meanings": [
+      "격렬한",
+      "열렬한",
+      "열정적인",
+      "맹렬한"
+    ],
+    "synonyms_from_image": [
+      "impassioned",
+      "fiery",
+      "fervid",
+      "acrimonious",
+      "violent",
+      "intense",
+      "passionate",
+      "zealous",
+      "ardent"
+    ]
+  }
+]

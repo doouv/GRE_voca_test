@@ -1,0 +1,1404 @@
+[
+  {
+    "id": "001",
+    "word": "tonic",
+    "pos": "",
+    "head_meanings": [
+      "(약 등이) (육체를) 강화케 하는",
+      "(육체적·정신적으로) 기운을 돋우는",
+      "강장제"
+    ],
+    "synonyms_from_image": [
+      "restorative"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "topography",
+    "pos": "",
+    "head_meanings": [
+      "지형학",
+      "지지",
+      "지형",
+      "지세",
+      "(사회·경제·문화 등의) 구조적 특성"
+    ],
+    "synonyms_from_image": [
+      "terrain",
+      "map",
+      "geography"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "topsy-turvy",
+    "pos": "",
+    "head_meanings": [
+      "거꾸로",
+      "역으로/반대로",
+      "뒤죽박죽(으로)",
+      "혼란한",
+      "엉망이 된"
+    ],
+    "synonyms_from_image": [
+      "helter-skelter",
+      "haphazard",
+      "pell-mell",
+      "in a mess",
+      "chaotic",
+      "disorganized",
+      "higgledy-piggledy",
+      "headlong",
+      "upside down",
+      "inverted"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "torpid",
+    "pos": "",
+    "head_meanings": [
+      "(마음·신체가) 둔한/무감각한",
+      "활동하지 않는",
+      "활발하지 못한",
+      "휴면(동면)하는"
+    ],
+    "synonyms_from_image": [
+      "lethargic",
+      "sluggish",
+      "phlegmatic",
+      "inert",
+      "inactive",
+      "slow",
+      "lifeless",
+      "languid",
+      "listless",
+      "lazy",
+      "idle",
+      "indolent",
+      "slothful",
+      "supine",
+      "passive",
+      "apathetic",
+      "somnolent",
+      "sleepy",
+      "weary",
+      "tired"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "torpor",
+    "pos": "",
+    "head_meanings": [
+      "나태",
+      "무기력",
+      "활동 불능",
+      "마비",
+      "무감각",
+      "휴면"
+    ],
+    "synonyms_from_image": [
+      "stupor",
+      "languor",
+      "lassitude"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "torrent",
+    "pos": "",
+    "head_meanings": [
+      "격류",
+      "급류",
+      "(역수 같은) 비",
+      "(감정의) 폭발",
+      "분출"
+    ],
+    "synonyms_from_image": [
+      "violent stream of water",
+      "unceasing stream",
+      "downpour",
+      "heavy rain",
+      "deluge",
+      "cascade"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "torrid",
+    "pos": "",
+    "head_meanings": [
+      "타는 듯이 뜨거운",
+      "불볕의/작열하는",
+      "(대기가) 건조한",
+      "(연애 편지 등이) 열렬한"
+    ],
+    "synonyms_from_image": [
+      "hot",
+      "dry",
+      "scorching",
+      "searing",
+      "blazing",
+      "blistering",
+      "sweltering",
+      "burning",
+      "baking",
+      "sizzling",
+      "passionate",
+      "ardent",
+      "lustful",
+      "amorous"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "tortuous",
+    "pos": "",
+    "head_meanings": [
+      "비틀린",
+      "구불구불한",
+      "곡선으로 가득찬",
+      "복잡한",
+      "솔직하지 않은"
+    ],
+    "synonyms_from_image": [
+      "convoluted",
+      "serpentine",
+      "snaky",
+      "sinuous",
+      "flexuous"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "totalitarian",
+    "pos": "",
+    "head_meanings": [
+      "전체주의의",
+      "전체주의자"
+    ],
+    "synonyms_from_image": [
+      "autocratic",
+      "undemocratic",
+      "one-party dictatorial",
+      "tyrannical",
+      "despotic",
+      "fascist",
+      "oppressive",
+      "repressive",
+      "authoritarian",
+      "absolute"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "totemic",
+    "pos": "",
+    "head_meanings": [
+      "토템(씨족·가족의 상징이라고 여기는 자연물)의",
+      "토템(신앙)의"
+    ],
+    "synonyms_from_image": [
+      "emblematic"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "touchy",
+    "pos": "",
+    "head_meanings": [
+      "민감한",
+      "다루기 힘든",
+      "성질 내는",
+      "위험한"
+    ],
+    "synonyms_from_image": [
+      "cross",
+      "cranky",
+      "crabby",
+      "unsafe",
+      "harmful",
+      "precarious",
+      "risky"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "tout",
+    "pos": "",
+    "head_meanings": [
+      "칭찬·선전하다",
+      "과대 선전(추천)하다",
+      "성가시게 권유하다",
+      "강매하다"
+    ],
+    "synonyms_from_image": [
+      "advertise",
+      "ballyhoo",
+      "vaunt",
+      "brag about",
+      "celebrate",
+      "acclaim"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "toxic",
+    "pos": "",
+    "head_meanings": [
+      "독이 있는",
+      "유독한",
+      "독성의"
+    ],
+    "synonyms_from_image": [
+      "harmful",
+      "mephitic",
+      "venomous",
+      "virulent",
+      "deadly"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "tract",
+    "pos": "",
+    "head_meanings": [
+      "넓은 면적/지역",
+      "소책자",
+      "선전 책자"
+    ],
+    "synonyms_from_image": [
+      "essay",
+      "leaflet",
+      "disquisition",
+      "terrain",
+      "zone",
+      "lot",
+      "parcel",
+      "district",
+      "territory"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "tractable",
+    "pos": "",
+    "head_meanings": [
+      "다루기 쉬운",
+      "(성격 등이) 순종하는/유순한/온순한",
+      "(재료 등이) 처리(성형)하기 쉬운"
+    ],
+    "synonyms_from_image": [
+      "compliant",
+      "biddable",
+      "manageable",
+      "pliable",
+      "amenable",
+      "willing"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "traduce",
+    "pos": "",
+    "head_meanings": [
+      "비방하다",
+      "헐뜯다",
+      "훼손하다"
+    ],
+    "synonyms_from_image": [
+      "libel",
+      "asperse",
+      "slander",
+      "calumniate",
+      "defame",
+      "vilify",
+      "denigrate",
+      "disparage",
+      "slur",
+      "smear",
+      "besmirch"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "trail",
+    "pos": "",
+    "head_meanings": [
+      "(질질) 끌다",
+      "(사람·동물 등을) 추적하다",
+      "미행하다",
+      "뒤에 붙어서 가다",
+      "오솔길"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "018",
+    "word": "trajectory",
+    "pos": "",
+    "head_meanings": [
+      "탄도",
+      "(혜성·행성 따위의) 궤도"
+    ],
+    "synonyms_from_image": [
+      "line of fire",
+      "path of a missile"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "trample",
+    "pos": "",
+    "head_meanings": [
+      "쿵쿵거리며 걷다",
+      "짓밟다",
+      "밟아 뭉개다",
+      "(감정·권리 등을) 짓밟다/무시하다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "020",
+    "word": "tranquil",
+    "pos": "",
+    "head_meanings": [
+      "(장소·환경이) 고요한/평온한",
+      "(마음·태도가) 차분한/조용한",
+      "안정된"
+    ],
+    "synonyms_from_image": [
+      "peaceful",
+      "calm",
+      "restful",
+      "relaxing",
+      "undisturbed",
+      "serene",
+      "unruffled",
+      "unperturbed",
+      "unflustered",
+      "composed",
+      "equable",
+      "even-tempered",
+      "placid",
+      "phlegmatic",
+      "unflappable"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "tranquility",
+    "pos": "",
+    "head_meanings": [
+      "고요",
+      "평온",
+      "침착"
+    ],
+    "synonyms_from_image": [
+      "quiescence",
+      "silence",
+      "composure",
+      "moderation"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "transcend",
+    "pos": "",
+    "head_meanings": [
+      "초월하다",
+      "능가하다"
+    ],
+    "synonyms_from_image": [
+      "outshine",
+      "outstrip",
+      "better",
+      "excel",
+      "rise above",
+      "outdo",
+      "surmount",
+      "overstep",
+      "overleap",
+      "outdistance",
+      "outrank"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "transcribe",
+    "pos": "",
+    "head_meanings": [
+      "베끼다",
+      "복사하다",
+      "재생하다",
+      "녹음하다"
+    ],
+    "synonyms_from_image": [
+      "write",
+      "record",
+      "translate",
+      "transliterate",
+      "clone",
+      "Xerox",
+      "duplicate"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "transgression",
+    "pos": "",
+    "head_meanings": [
+      "위법",
+      "위반",
+      "범죄"
+    ],
+    "synonyms_from_image": [
+      "disobedience",
+      "lawbreaking",
+      "misdeed",
+      "overstepping"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "transient",
+    "pos": "",
+    "head_meanings": [
+      "일시적인",
+      "순간적인",
+      "덧없는",
+      "일시 머무르는"
+    ],
+    "synonyms_from_image": [
+      "transitory",
+      "ephemeral",
+      "evanescent",
+      "impermanent",
+      "fugitive"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "transience",
+    "pos": "",
+    "head_meanings": [
+      "일시성",
+      "덧없음"
+    ],
+    "synonyms_from_image": [
+      "moment",
+      "fleetingness",
+      "transience",
+      "ephemeron"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "transition",
+    "pos": "",
+    "head_meanings": [
+      "변이",
+      "변전",
+      "과도기"
+    ],
+    "synonyms_from_image": [
+      "progress",
+      "evolution",
+      "shift",
+      "change",
+      "growth"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "transitoriness",
+    "pos": "",
+    "head_meanings": [
+      "일시",
+      "순간",
+      "덧없음"
+    ],
+    "synonyms_from_image": [
+      "moment",
+      "fleetingness",
+      "transience",
+      "ephemeron"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "transitory",
+    "pos": "",
+    "head_meanings": [
+      "일시적인",
+      "오래가지 않는",
+      "잠시동안의",
+      "순식간의",
+      "덧없는"
+    ],
+    "synonyms_from_image": [
+      "transient",
+      "ephemeral",
+      "momentary",
+      "temporary",
+      "short-lived",
+      "impermanent",
+      "fleeting",
+      "fugitive",
+      "evanescent"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "translucent",
+    "pos": "",
+    "head_meanings": [
+      "반투명의",
+      "(알기 쉬운) 명백한"
+    ],
+    "synonyms_from_image": [
+      "semi-transparent",
+      "pellucid",
+      "limpid",
+      "clear",
+      "diaphanous",
+      "gossamer",
+      "sheer",
+      "obvious",
+      "apparent",
+      "lucid"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "transmute",
+    "pos": "",
+    "head_meanings": [
+      "바꾸다",
+      "(외형이나 성질을) 변경하다"
+    ],
+    "synonyms_from_image": [
+      "alter",
+      "denature",
+      "mutate",
+      "commute",
+      "transform"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "transparent",
+    "pos": "",
+    "head_meanings": [
+      "투명한",
+      "비쳐 보이는",
+      "(문제가) 명확한/평이한",
+      "(구실·의도가) 뻔히 들여다보이는",
+      "솔직한"
+    ],
+    "synonyms_from_image": [
+      "clear",
+      "plain",
+      "pellucid",
+      "flimsy",
+      "diaphanous",
+      "translucent",
+      "obvious",
+      "unambiguous",
+      "unequivocal",
+      "apparent",
+      "manifest",
+      "patent",
+      "evident"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "transparency",
+    "pos": "",
+    "head_meanings": [
+      "투명함",
+      "명백함",
+      "솔직함"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "034",
+    "word": "transpire",
+    "pos": "",
+    "head_meanings": [
+      "(비밀이) 새어나가다/누설하다",
+      "(일이) 발생하다"
+    ],
+    "synonyms_from_image": [
+      "disclose",
+      "develop",
+      "divulge",
+      "occur",
+      "befall"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "transplant",
+    "pos": "",
+    "head_meanings": [
+      "(식물·기관·조직 등을) 옮겨 심다/이식하다",
+      "…을 옮기다",
+      "이동시키다",
+      "(남을) 이주시키다"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "036",
+    "word": "transport",
+    "pos": "",
+    "head_meanings": [
+      "열중",
+      "도취",
+      "황홀",
+      "기뻐 어쩔 줄 모름"
+    ],
+    "synonyms_from_image": [
+      "ecstasy",
+      "bliss",
+      "happiness",
+      "rapture"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "trappings",
+    "pos": "",
+    "head_meanings": [
+      "장식",
+      "액세서리",
+      "부속물",
+      "(권력·지위의) 상징물",
+      "예복/정장",
+      "마구(馬具)"
+    ],
+    "synonyms_from_image": [
+      "appurtenances",
+      "ornamentation",
+      "adornment",
+      "decoration",
+      "apparatus",
+      "equipment",
+      "accoutrements",
+      "formal dress"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "traumatic",
+    "pos": "",
+    "head_meanings": [
+      "외상의",
+      "상처에 관련된",
+      "충격적인",
+      "잊지 못할"
+    ],
+    "synonyms_from_image": [
+      "wounded",
+      "shocking"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "travail",
+    "pos": "",
+    "head_meanings": [
+      "진통",
+      "수고",
+      "노고",
+      "애씀"
+    ],
+    "synonyms_from_image": [
+      "toil",
+      "drudgery",
+      "hard work",
+      "exertion",
+      "burdensome work"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "traverse",
+    "pos": "",
+    "head_meanings": [
+      "가로지르다",
+      "가로질러 가다",
+      "횡단하다"
+    ],
+    "synonyms_from_image": [
+      "cross",
+      "move over",
+      "move along",
+      "travel over",
+      "cut across",
+      "pass through"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "travesty",
+    "pos": "",
+    "head_meanings": [
+      "우스꽝스럽게 고친 것",
+      "서투른 모방"
+    ],
+    "synonyms_from_image": [
+      "ridicule",
+      "debased imitation",
+      "burlesque",
+      "spoof",
+      "caricature",
+      "lampoon",
+      "mockery",
+      "broad satire"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "treacherous",
+    "pos": "",
+    "head_meanings": [
+      "배반(배신)하는",
+      "믿을 수 없는",
+      "불안정한",
+      "위험한"
+    ],
+    "synonyms_from_image": [
+      "traitorous",
+      "disloyal",
+      "faithless",
+      "unfaithful",
+      "deceitful",
+      "false-hearted"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "treatise",
+    "pos": "",
+    "head_meanings": [
+      "(학술) 논문",
+      "논설"
+    ],
+    "synonyms_from_image": [
+      "memoirs",
+      "monograph",
+      "thesis",
+      "systematic work",
+      "discourse",
+      "essay",
+      "dissertation",
+      "study"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "tremor",
+    "pos": "",
+    "head_meanings": [
+      "전율",
+      "겁",
+      "떨림"
+    ],
+    "synonyms_from_image": [
+      "quaver",
+      "shudder",
+      "quake",
+      "dither",
+      "shiver",
+      "oscillation"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "tremulous",
+    "pos": "",
+    "head_meanings": [
+      "떠는",
+      "전율하는",
+      "겁 많은"
+    ],
+    "synonyms_from_image": [
+      "aquiver",
+      "tremble",
+      "aguish",
+      "afraid",
+      "timid",
+      "fearful"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "trenchant",
+    "pos": "",
+    "head_meanings": [
+      "통렬한",
+      "신랄한",
+      "날카로운",
+      "강력한",
+      "설득력 있는",
+      "(윤곽 등이) 뚜렷한"
+    ],
+    "synonyms_from_image": [
+      "profound",
+      "incisive",
+      "keen",
+      "acute",
+      "shrewd",
+      "penetrating",
+      "mordant",
+      "cutting",
+      "biting",
+      "caustic",
+      "sarcastic",
+      "pungent",
+      "sharp",
+      "vigorous",
+      "forceful",
+      "strong",
+      "telling",
+      "forthright"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "trepidation",
+    "pos": "",
+    "head_meanings": [
+      "전율",
+      "공포",
+      "두려움",
+      "당황",
+      "(마음의) 동요",
+      "낭패",
+      "혼란",
+      "떨림"
+    ],
+    "synonyms_from_image": [
+      "apprehension",
+      "fear",
+      "dread",
+      "agitation",
+      "anxiety",
+      "nervousness",
+      "misgivings",
+      "unease"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "trespass",
+    "pos": "",
+    "head_meanings": [
+      "침입하다",
+      "침해하다",
+      "폐를 끼치다",
+      "위법 행위를 하다/죄를 범하다",
+      "불법 침해(침입)",
+      "죄",
+      "위반",
+      "부정"
+    ],
+    "synonyms_from_image": [
+      "intrude on",
+      "encroach on",
+      "enter without permission",
+      "invade",
+      "sin",
+      "transgression",
+      "offend",
+      "unlawful entry",
+      "intrusion",
+      "invasion",
+      "encroachment"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "tribute",
+    "pos": "",
+    "head_meanings": [
+      "감사(칭찬·존경)의 표시",
+      "찬사",
+      "진상품/공물",
+      "지대/세금",
+      "배당"
+    ],
+    "synonyms_from_image": [
+      "encomium",
+      "levy",
+      "toll",
+      "impost",
+      "duty",
+      "appreciation",
+      "eulogy",
+      "compliment",
+      "laudatio",
+      "panegyric"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "tried-and-true",
+    "pos": "",
+    "head_meanings": [
+      "유효성이 증명된",
+      "신뢰할 수 있는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "051",
+    "word": "trifle",
+    "pos": "",
+    "head_meanings": [
+      "시시한 것(일)",
+      "소량",
+      "조금"
+    ],
+    "synonyms_from_image": [
+      "unimportant thing",
+      "trivial thing",
+      "triviality",
+      "trivia",
+      "minutiae",
+      "pittance",
+      "bauble",
+      "trinket",
+      "gewgaw"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "trifling",
+    "pos": "",
+    "head_meanings": [
+      "하찮은",
+      "시시한",
+      "(양·금액 등이) 적은",
+      "근소한"
+    ],
+    "synonyms_from_image": [
+      "minimal",
+      "petty",
+      "trivial",
+      "unimportant",
+      "insignificant",
+      "inconsequential",
+      "shallow",
+      "superficial",
+      "frivolous",
+      "silly",
+      "foolish",
+      "valueless",
+      "tiny",
+      "negligible",
+      "paltry",
+      "small"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "trigger",
+    "pos": "",
+    "head_meanings": [
+      "(일을) 일으키다/시작하게 하다",
+      "유발하다",
+      "(방아쇠를 당겨) 쏘다/발사하다",
+      "방아쇠",
+      "계기",
+      "자극"
+    ],
+    "synonyms_from_image": [
+      "precipitate",
+      "prompt",
+      "provoke",
+      "stir up",
+      "cause",
+      "give rise to",
+      "lead to",
+      "bring about",
+      "generate",
+      "engender",
+      "begin",
+      "initiate",
+      "enkindle",
+      "activate"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "trinket",
+    "pos": "",
+    "head_meanings": [
+      "(큰 값어치 없는) 작은 장신구",
+      "방울",
+      "하찮은 물건"
+    ],
+    "synonyms_from_image": [
+      "gewgaw",
+      "trifle",
+      "toy",
+      "charm",
+      "small ornament"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "trite",
+    "pos": "",
+    "head_meanings": [
+      "흔해빠진",
+      "진부한",
+      "평범한",
+      "케케묵은"
+    ],
+    "synonyms_from_image": [
+      "stale",
+      "common",
+      "ordinary",
+      "commonplace",
+      "hackneyed",
+      "banal",
+      "bromide",
+      "cliché",
+      "platitude"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "trivia",
+    "pos": "",
+    "head_meanings": [
+      "하찮은/사소한 일(것)"
+    ],
+    "synonyms_from_image": [
+      "trinket",
+      "bauble",
+      "gimcrack",
+      "bagatelle",
+      "odds and ends"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "trivial",
+    "pos": "",
+    "head_meanings": [
+      "사소한",
+      "하찮은",
+      "변변찮은",
+      "대수롭지 않은",
+      "보통의/평범한"
+    ],
+    "synonyms_from_image": [
+      "inconsequential"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "triviality",
+    "pos": "",
+    "head_meanings": [
+      "사소함",
+      "하찮음",
+      "사소한 일"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "059",
+    "word": "trope",
+    "pos": "",
+    "head_meanings": [
+      "문채(文彩)",
+      "비유(적 용법)",
+      "수사(修辭)(어구)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "060",
+    "word": "truculence",
+    "pos": "",
+    "head_meanings": [
+      "야만",
+      "잔인",
+      "흉포함",
+      "신랄함"
+    ],
+    "synonyms_from_image": [
+      "rudeness",
+      "cruelty",
+      "roughness",
+      "savagery"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "truculent",
+    "pos": "",
+    "head_meanings": [
+      "거친",
+      "통렬한",
+      "(사람이) 공격적인/호전적인",
+      "반항적인",
+      "흉포한",
+      "잔인한"
+    ],
+    "synonyms_from_image": [
+      "pugnacious",
+      "quarrelsome",
+      "defiant",
+      "aggressive",
+      "antagonistic",
+      "belligerent",
+      "confrontational",
+      "obstreperous",
+      "argumentative",
+      "bad-tempered",
+      "short-tempered",
+      "cross"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "truism",
+    "pos": "",
+    "head_meanings": [
+      "자명한 이치",
+      "공리",
+      "판에 박은 진부한 문구"
+    ],
+    "synonyms_from_image": [
+      "rule",
+      "axiom",
+      "cliché",
+      "platitude"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "truncate",
+    "pos": "",
+    "head_meanings": [
+      "(상부/끝을) 자르다",
+      "(문장·설명 등을) 줄이다"
+    ],
+    "synonyms_from_image": [
+      "cut short",
+      "lop",
+      "clip"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "tumid",
+    "pos": "",
+    "head_meanings": [
+      "부어 오른",
+      "과장된",
+      "허풍 떠는"
+    ],
+    "synonyms_from_image": [
+      "turgid",
+      "inflated",
+      "distended",
+      "swollen",
+      "pompous",
+      "bombastic"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "tumult",
+    "pos": "",
+    "head_meanings": [
+      "큰 소동",
+      "소란",
+      "떠들썩함",
+      "폭동"
+    ],
+    "synonyms_from_image": [
+      "disorder",
+      "confusion",
+      "disturbance",
+      "bustle"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "tumultuous",
+    "pos": "",
+    "head_meanings": [
+      "떠들썩한",
+      "소란스런",
+      "거친",
+      "사나운",
+      "무질서한",
+      "격앙된"
+    ],
+    "synonyms_from_image": [
+      "disorderly",
+      "unruly",
+      "rowdy",
+      "turbulent",
+      "boisterous",
+      "excited",
+      "agitated",
+      "restless",
+      "wild",
+      "riotous",
+      "frenzied",
+      "loud",
+      "deafening",
+      "thunderous",
+      "uproarious",
+      "noisy",
+      "clamorous",
+      "vociferous"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "turbid",
+    "pos": "",
+    "head_meanings": [
+      "탁한",
+      "자욱한",
+      "혼란한"
+    ],
+    "synonyms_from_image": [
+      "dense",
+      "thick",
+      "dark",
+      "smoky",
+      "obscure",
+      "cloudy"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "turbulence",
+    "pos": "",
+    "head_meanings": [
+      "떠들썩함",
+      "(바람·파도 등의) 사나움",
+      "(사회적) 혼란/소란/교란/동란"
+    ],
+    "synonyms_from_image": [
+      "instability",
+      "flap",
+      "babel",
+      "dither",
+      "unruliness"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "turbulent",
+    "pos": "",
+    "head_meanings": [
+      "(날씨·풍파 등이) 사나운",
+      "험한",
+      "폭풍우의",
+      "(세태 등이) 동요한",
+      "불안정한",
+      "(사람·군중이) 난폭한/무도한"
+    ],
+    "synonyms_from_image": [
+      "tumultuous",
+      "tempestuous",
+      "stormy",
+      "unstable",
+      "unsettled",
+      "chaotic",
+      "violent",
+      "anarchic",
+      "lawless",
+      "rough",
+      "agitated",
+      "boisterous"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "turgid",
+    "pos": "",
+    "head_meanings": [
+      "부어 오른",
+      "과장된"
+    ],
+    "synonyms_from_image": [
+      "puffed up",
+      "puffy"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "turmoil",
+    "pos": "",
+    "head_meanings": [
+      "(마음의) 혼란",
+      "동요",
+      "소란",
+      "소동"
+    ],
+    "synonyms_from_image": [
+      "disturbance",
+      "chaos",
+      "disorder",
+      "tumult"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "turncoat",
+    "pos": "",
+    "head_meanings": [
+      "배신자",
+      "변절자"
+    ],
+    "synonyms_from_image": [
+      "renegade",
+      "betrayer",
+      "apostate"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "turpitude",
+    "pos": "",
+    "head_meanings": [
+      "비열",
+      "타락"
+    ],
+    "synonyms_from_image": [
+      "baseness",
+      "degeneracy",
+      "corruption",
+      "decadence"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "tussle",
+    "pos": "",
+    "head_meanings": [
+      "격렬하게 싸우다",
+      "격투(하다)",
+      "난투(하다)",
+      "고전/분투(하다)"
+    ],
+    "synonyms_from_image": []
+  }
+]
