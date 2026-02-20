@@ -264,19 +264,13 @@
     "head_meanings": [
       "(폭풍 따위의) 잠잠함; (대화 따위의) 일시적인 중단; 소강상태; 달래다; 어르다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [
+      "respite",
+      "relief"
+    ]
   },
   {
     "id": "021",
-    "word": "relief",
-    "pos": "n.",
-    "head_meanings": [
-      "(고통, 고민 등의) 완화, 경감, 제거(시켜 주는 것); (고통 등이 사라진 후의) 안도, 안심; 기본전환; 잠시의 휴식; 구제, 구조, 구원; 임시 증편; 교체, 교대"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "022",
     "word": "resplendent",
     "pos": "adj.",
     "head_meanings": [
@@ -292,7 +286,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "022",
     "word": "responsiveness",
     "pos": "n.",
     "head_meanings": [
@@ -305,7 +299,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "023",
     "word": "restitution",
     "pos": "n.",
     "head_meanings": [
@@ -320,7 +314,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "024",
     "word": "restive",
     "pos": "adj.",
     "head_meanings": [
@@ -337,20 +331,12 @@
       "ornery",
       "fidget",
       "nervous",
-      "unquiet"
+      "unquiet",
+      "fractious"
     ]
   },
   {
-    "id": "026",
-    "word": "fractious",
-    "pos": "adj.",
-    "head_meanings": [
-      "다루기 어려운; 성질 내는; 성마른; 흥미 까다로운; 뾰로통한"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "027",
+    "id": "025",
     "word": "restorative",
     "pos": "adj.",
     "head_meanings": [
@@ -359,7 +345,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "028",
+    "id": "026",
     "word": "tonic",
     "pos": "n./adj.",
     "head_meanings": [
@@ -370,7 +356,7 @@
     ]
   },
   {
-    "id": "029",
+    "id": "027",
     "word": "restrain",
     "pos": "v.",
     "head_meanings": [
@@ -401,7 +387,7 @@
     ]
   },
   {
-    "id": "030",
+    "id": "028",
     "word": "rescind",
     "pos": "v.",
     "head_meanings": [
@@ -417,7 +403,7 @@
     ]
   },
   {
-    "id": "031",
+    "id": "029",
     "word": "resemble",
     "pos": "v.",
     "head_meanings": [
@@ -426,7 +412,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "032",
+    "id": "030",
     "word": "resent",
     "pos": "v.",
     "head_meanings": [
@@ -444,8 +430,8 @@
     ]
   },
   {
-    "id": "033",
-    "word": "reservatio (4 meanings)",
+    "id": "031",
+    "word": "reservation (4 meanings)",
     "pos": "n.",
     "head_meanings": [
       "제한, 조건; 단서; (입 밖에 내지 않는) 마음의 걱정, 의혹; 비밀; 논박; (인디언) 보호구; 거주지; 자연보호 구역; 예약(booking); 보류 유보"
@@ -453,7 +439,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "033-1",
+    "id": "032",
     "word": "without reservation",
     "pos": "n.",
     "head_meanings": [
@@ -471,7 +457,7 @@
     ]
   },
   {
-    "id": "033-2",
+    "id": "033",
     "word": "grave reservation",
     "pos": "n.",
     "head_meanings": [
@@ -486,7 +472,7 @@
     ]
   },
   {
-    "id": "033-3",
+    "id": "034",
     "word": "Indian reservation",
     "pos": "n.",
     "head_meanings": [
@@ -500,7 +486,7 @@
     ]
   },
   {
-    "id": "034",
+    "id": "035",
     "word": "reserve",
     "pos": "n./v.",
     "head_meanings": [
@@ -518,7 +504,7 @@
     ]
   },
   {
-    "id": "035",
+    "id": "036",
     "word": "reserved",
     "pos": "adj.",
     "head_meanings": [
@@ -548,7 +534,7 @@
     ]
   },
   {
-    "id": "036",
+    "id": "037",
     "word": "reside",
     "pos": "v.",
     "head_meanings": [
@@ -557,7 +543,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "037",
+    "id": "038",
     "word": "residue",
     "pos": "n.",
     "head_meanings": [
@@ -575,7 +561,7 @@
     ]
   },
   {
-    "id": "038",
+    "id": "039",
     "word": "resignation",
     "pos": "n.",
     "head_meanings": [
@@ -594,7 +580,7 @@
     ]
   },
   {
-    "id": "039",
+    "id": "040",
     "word": "resigned",
     "pos": "adj.",
     "head_meanings": [
@@ -615,7 +601,7 @@
     ]
   },
   {
-    "id": "040",
+    "id": "041",
     "word": "resign",
     "pos": "v.",
     "head_meanings": [
@@ -624,7 +610,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "041",
+    "id": "042",
     "word": "resilient",
     "pos": "adj.",
     "head_meanings": [
@@ -640,7 +626,7 @@
     ]
   },
   {
-    "id": "042",
+    "id": "043",
     "word": "resilience",
     "pos": "n.",
     "head_meanings": [
@@ -649,7 +635,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "043",
+    "id": "044",
     "word": "resiliency",
     "pos": "n.",
     "head_meanings": [
@@ -658,7 +644,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "044",
+    "id": "045",
     "word": "resist",
     "pos": "v.",
     "head_meanings": [
@@ -687,7 +673,7 @@
     ]
   },
   {
-    "id": "045",
+    "id": "046",
     "word": "resolution",
     "pos": "n.",
     "head_meanings": [
@@ -696,7 +682,6 @@
     "synonyms_from_image": [
       "resoluteness",
       "persistence",
-      "stability",
       "fortitude",
       "constancy",
       "resolve",
@@ -704,7 +689,7 @@
     ]
   },
   {
-    "id": "046",
+    "id": "047",
     "word": "resolute",
     "pos": "adj.",
     "head_meanings": [
@@ -713,7 +698,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "047",
+    "id": "048",
     "word": "resolve",
     "pos": "v.",
     "head_meanings": [
@@ -722,7 +707,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "048",
+    "id": "049",
     "word": "tenacity",
     "pos": "n.",
     "head_meanings": [
@@ -731,7 +716,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "049",
+    "id": "050",
     "word": "resonant",
     "pos": "adj.",
     "head_meanings": [
@@ -740,7 +725,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "050",
+    "id": "051",
     "word": "resonate",
     "pos": "v.",
     "head_meanings": [
@@ -755,7 +740,7 @@
     ]
   },
   {
-    "id": "051",
+    "id": "052",
     "word": "resort",
     "pos": "v.",
     "head_meanings": [
@@ -770,7 +755,7 @@
     ]
   },
   {
-    "id": "052",
+    "id": "053",
     "word": "retrograde",
     "pos": "v.",
     "head_meanings": [
@@ -786,7 +771,7 @@
     ]
   },
   {
-    "id": "053",
+    "id": "054",
     "word": "retrospective",
     "pos": "adj.",
     "head_meanings": [
@@ -799,7 +784,7 @@
     ]
   },
   {
-    "id": "054",
+    "id": "055",
     "word": "revamp",
     "pos": "v.",
     "head_meanings": [
@@ -818,7 +803,7 @@
     ]
   },
   {
-    "id": "055",
+    "id": "056",
     "word": "reveal",
     "pos": "v.",
     "head_meanings": [
@@ -844,7 +829,7 @@
     ]
   },
   {
-    "id": "056",
+    "id": "057",
     "word": "manifest",
     "pos": "adj./v.",
     "head_meanings": [
@@ -853,7 +838,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "057",
+    "id": "058",
     "word": "revel",
     "pos": "v.",
     "head_meanings": [
@@ -862,7 +847,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "058",
+    "id": "059",
     "word": "rejoice",
     "pos": "v.",
     "head_meanings": [
@@ -871,7 +856,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "059",
+    "id": "060",
     "word": "revelatory",
     "pos": "adj.",
     "head_meanings": [
@@ -880,7 +865,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "060",
+    "id": "061",
     "word": "revelation",
     "pos": "n.",
     "head_meanings": [
@@ -889,7 +874,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "061",
+    "id": "062",
     "word": "revelry",
     "pos": "n.",
     "head_meanings": [
@@ -905,7 +890,7 @@
     ]
   },
   {
-    "id": "062",
+    "id": "063",
     "word": "reverberate",
     "pos": "v.",
     "head_meanings": [
@@ -922,7 +907,7 @@
     ]
   },
   {
-    "id": "063",
+    "id": "064",
     "word": "reverence",
     "pos": "n.",
     "head_meanings": [
@@ -937,7 +922,7 @@
     ]
   },
   {
-    "id": "064",
+    "id": "065",
     "word": "revere",
     "pos": "v.",
     "head_meanings": [
@@ -946,7 +931,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "065",
+    "id": "066",
     "word": "reverent",
     "pos": "adj.",
     "head_meanings": [
@@ -959,7 +944,7 @@
     ]
   },
   {
-    "id": "066",
+    "id": "067",
     "word": "reversible",
     "pos": "adj.",
     "head_meanings": [
@@ -968,7 +953,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "067",
+    "id": "068",
     "word": "revert",
     "pos": "v.",
     "head_meanings": [
@@ -977,7 +962,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "068",
+    "id": "069",
     "word": "revile",
     "pos": "v.",
     "head_meanings": [
@@ -993,7 +978,7 @@
     ]
   },
   {
-    "id": "069",
+    "id": "070",
     "word": "revisionist",
     "pos": "n./adj.",
     "head_meanings": [
@@ -1002,7 +987,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "070",
+    "id": "071",
     "word": "revisional",
     "pos": "adj.",
     "head_meanings": [
@@ -1011,7 +996,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "071",
+    "id": "072",
     "word": "visionary",
     "pos": "adj./n.",
     "head_meanings": [
@@ -1020,7 +1005,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "072",
+    "id": "073",
     "word": "revitalize",
     "pos": "v.",
     "head_meanings": [
@@ -1036,7 +1021,7 @@
     ]
   },
   {
-    "id": "073",
+    "id": "074",
     "word": "revoke",
     "pos": "v.",
     "head_meanings": [
@@ -1059,7 +1044,7 @@
     ]
   },
   {
-    "id": "074",
+    "id": "075",
     "word": "revolt",
     "pos": "v./n.",
     "head_meanings": [
@@ -1080,7 +1065,7 @@
     ]
   },
   {
-    "id": "075",
+    "id": "076",
     "word": "revulsion",
     "pos": "n.",
     "head_meanings": [
@@ -1095,7 +1080,7 @@
     ]
   },
   {
-    "id": "076",
+    "id": "077",
     "word": "rhapsodize",
     "pos": "v.",
     "head_meanings": [
@@ -1107,7 +1092,7 @@
     ]
   },
   {
-    "id": "077",
+    "id": "078",
     "word": "rhapsody",
     "pos": "n.",
     "head_meanings": [
@@ -1119,7 +1104,7 @@
     ]
   },
   {
-    "id": "078",
+    "id": "079",
     "word": "reticence",
     "pos": "n.",
     "head_meanings": [
@@ -1138,7 +1123,7 @@
     ]
   },
   {
-    "id": "079",
+    "id": "080",
     "word": "reticent",
     "pos": "adj.",
     "head_meanings": [
@@ -1164,7 +1149,7 @@
     ]
   },
   {
-    "id": "080",
+    "id": "081",
     "word": "retiring",
     "pos": "adj.",
     "head_meanings": [
@@ -1179,7 +1164,7 @@
     ]
   },
   {
-    "id": "081",
+    "id": "082",
     "word": "retort",
     "pos": "n./v.",
     "head_meanings": [
@@ -1193,7 +1178,7 @@
     ]
   },
   {
-    "id": "082",
+    "id": "083",
     "word": "retraction",
     "pos": "n.",
     "head_meanings": [
@@ -1208,7 +1193,7 @@
     ]
   },
   {
-    "id": "083",
+    "id": "084",
     "word": "retreat",
     "pos": "n./v.",
     "head_meanings": [
@@ -1217,7 +1202,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "084",
+    "id": "085",
     "word": "retrench",
     "pos": "v.",
     "head_meanings": [
@@ -1232,7 +1217,7 @@
     ]
   },
   {
-    "id": "085",
+    "id": "086",
     "word": "retribution",
     "pos": "n.",
     "head_meanings": [
@@ -1248,7 +1233,7 @@
     ]
   },
   {
-    "id": "086",
+    "id": "087",
     "word": "retrieve",
     "pos": "v.",
     "head_meanings": [
@@ -1265,7 +1250,7 @@
     ]
   },
   {
-    "id": "087",
+    "id": "088",
     "word": "retroactive",
     "pos": "adj.",
     "head_meanings": [
@@ -1280,7 +1265,7 @@
     ]
   },
   {
-    "id": "088",
+    "id": "089",
     "word": "retroactively",
     "pos": "adv.",
     "head_meanings": [
@@ -1289,7 +1274,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "089",
+    "id": "090",
     "word": "rhetoric",
     "pos": "n.",
     "head_meanings": [
@@ -1303,7 +1288,7 @@
     ]
   },
   {
-    "id": "090",
+    "id": "091",
     "word": "rhetorical",
     "pos": "adj.",
     "head_meanings": [
@@ -1317,7 +1302,7 @@
     ]
   },
   {
-    "id": "091",
+    "id": "092",
     "word": "ribald",
     "pos": "adj.",
     "head_meanings": [
@@ -1332,7 +1317,7 @@
     ]
   },
   {
-    "id": "092",
+    "id": "093",
     "word": "ridicule",
     "pos": "n./v.",
     "head_meanings": [
@@ -1375,22 +1360,15 @@
     ]
   },
   {
-    "id": "093",
+    "id": "094",
     "word": "riddle",
     "pos": "n./v.",
     "head_meanings": [
-      "수수께끼(같은 이야기), 알아맞히기; 난문, 난제; 이해할 수 없는 일/것/사람; <자갈, 곡물 등을> 체질하다; <사람, 이론을(사실을 가지고)> 곤혹/궁짝 못하게 하다"
+      "수수께끼(같은 이야기), 알아맞히기; 난문, 난제; 이해할 수 없는 일/것/사람; <자갈, 곡물 등을> 체질하다; <사람, 이론을(사실을 가지고)> 꼼짝 못하게 하다"
     ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "094",
-    "word": "conundrum",
-    "pos": "n.",
-    "head_meanings": [
-      "(익살스러운 말장난으로 대답하는) 수수께끼(riddle), 재치 문답; 수수께끼 같은 문제(사람, 사물)"
-    ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [
+      "conundrum"
+    ]
   },
   {
     "id": "095",
@@ -1409,25 +1387,7 @@
   },
   {
     "id": "096",
-    "word": "insufficient",
-    "pos": "adj.",
-    "head_meanings": [
-      "불충분한"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "097",
-    "word": "meager",
-    "pos": "adj.",
-    "head_meanings": [
-      "빈약한, 부족한"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "098",
-    "word": "riff",
+    "word": "rift",
     "pos": "n.",
     "head_meanings": [
       "갈라진 틈, 끊어진 틈; 균열, 불화, 의견의 차이"
@@ -1446,7 +1406,7 @@
     ]
   },
   {
-    "id": "099",
+    "id": "097",
     "word": "rig",
     "pos": "v./n.",
     "head_meanings": [
@@ -1464,7 +1424,7 @@
     ]
   },
   {
-    "id": "100",
+    "id": "098",
     "word": "rigid",
     "pos": "adj.",
     "head_meanings": [
@@ -1473,7 +1433,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "101",
+    "id": "099",
     "word": "rigor",
     "pos": "n.",
     "head_meanings": [
@@ -1490,25 +1450,7 @@
     ]
   },
   {
-    "id": "102",
-    "word": "strictness",
-    "pos": "n.",
-    "head_meanings": [
-      "엄격함"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "103",
-    "word": "rigorous",
-    "pos": "adj.",
-    "head_meanings": [
-      "엄한, 엄격한"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "104",
+    "id": "100",
     "word": "rile",
     "pos": "v.",
     "head_meanings": [
@@ -1521,7 +1463,7 @@
     ]
   },
   {
-    "id": "105",
+    "id": "101",
     "word": "rip",
     "pos": "v.",
     "head_meanings": [
@@ -1530,7 +1472,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "106",
+    "id": "102",
     "word": "ripen",
     "pos": "v.",
     "head_meanings": [
@@ -1539,7 +1481,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "107",
+    "id": "103",
     "word": "rite",
     "pos": "n.",
     "head_meanings": [
@@ -1548,25 +1490,25 @@
     "synonyms_from_image": []
   },
   {
-    "id": "108",
+    "id": "104",
     "word": "rive",
     "pos": "v.",
     "head_meanings": [
-      "쪼개다, 찢다"
+      "쪼개다, 찢다, 찢어 뜯다; 아프게 하다"
     ],
     "synonyms_from_image": []
   },
   {
-    "id": "109",
+    "id": "105",
     "word": "riven with",
     "pos": "phr.",
     "head_meanings": [
-      "찢어 뜯다; 아프게 하다"
+      "찢어진"
     ],
     "synonyms_from_image": []
   },
   {
-    "id": "110",
+    "id": "106",
     "word": "riveting",
     "pos": "adj.",
     "head_meanings": [
@@ -1581,7 +1523,7 @@
     ]
   },
   {
-    "id": "111",
+    "id": "107",
     "word": "robust",
     "pos": "adj.",
     "head_meanings": [
@@ -1595,16 +1537,7 @@
     ]
   },
   {
-    "id": "112",
-    "word": "strong",
-    "pos": "adj.",
-    "head_meanings": [
-      "강한"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "113",
+    "id": "108",
     "word": "feeble",
     "pos": "adj.",
     "head_meanings": [
@@ -1613,7 +1546,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "114",
+    "id": "109",
     "word": "rococo",
     "pos": "adj.",
     "head_meanings": [
@@ -1628,7 +1561,7 @@
     ]
   },
   {
-    "id": "115",
+    "id": "110",
     "word": "rogue",
     "pos": "n.",
     "head_meanings": [
@@ -1643,7 +1576,7 @@
     ]
   },
   {
-    "id": "116",
+    "id": "111",
     "word": "roil",
     "pos": "v.",
     "head_meanings": [
@@ -1660,11 +1593,11 @@
     ]
   },
   {
-    "id": "117",
+    "id": "112",
     "word": "roister",
     "pos": "v.",
     "head_meanings": [
-      "(사람이) 으스대다, 야단스레기?; 즐겁게/법석을 떨다"
+      "(사람이) 으스대다, 야단스럽게 뽐내다; (술 마시며) 즐겁게/법석을 떨다"
     ],
     "synonyms_from_image": [
       "enjoy oneself",
@@ -1676,7 +1609,7 @@
     ]
   },
   {
-    "id": "118",
+    "id": "113",
     "word": "roisterer",
     "pos": "n.",
     "head_meanings": [
@@ -1685,7 +1618,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "119",
+    "id": "114",
     "word": "roseate",
     "pos": "adj.",
     "head_meanings": [
@@ -1701,7 +1634,7 @@
     ]
   },
   {
-    "id": "120",
+    "id": "115",
     "word": "rosy",
     "pos": "adj.",
     "head_meanings": [
@@ -1710,7 +1643,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "121",
+    "id": "116",
     "word": "rote",
     "pos": "n./adj.",
     "head_meanings": [
@@ -1718,14 +1651,14 @@
     ],
     "synonyms_from_image": [
       "repeat",
-      "refelling",
+      "retelling",
       "recapitulation",
       "restatement",
       "iteration"
     ]
   },
   {
-    "id": "122",
+    "id": "117",
     "word": "rotundity",
     "pos": "n.",
     "head_meanings": [
@@ -1737,21 +1670,7 @@
     ]
   },
   {
-    "id": "124",
-    "word": "rougher",
-    "pos": "",
-    "head_meanings": [],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "125",
-    "word": "rough",
-    "pos": "adj.",
-    "head_meanings": [],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "126",
+    "id": "118",
     "word": "roundabout",
     "pos": "adj.",
     "head_meanings": [
@@ -1773,7 +1692,7 @@
     ]
   },
   {
-    "id": "127",
+    "id": "119",
     "word": "wandering",
     "pos": "adj.",
     "head_meanings": [
@@ -1782,7 +1701,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "128",
+    "id": "120",
     "word": "routine",
     "pos": "n./adj.",
     "head_meanings": [
@@ -1812,7 +1731,7 @@
     ]
   },
   {
-    "id": "129",
+    "id": "121",
     "word": "routinely",
     "pos": "adv.",
     "head_meanings": [
@@ -1821,7 +1740,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "130",
+    "id": "122",
     "word": "rowdy",
     "pos": "adj./n.",
     "head_meanings": [
@@ -1840,7 +1759,7 @@
     ]
   },
   {
-    "id": "131",
+    "id": "123",
     "word": "rubble",
     "pos": "n.",
     "head_meanings": [
@@ -1856,7 +1775,7 @@
     ]
   },
   {
-    "id": "132",
+    "id": "124",
     "word": "rudimentary",
     "pos": "adj.",
     "head_meanings": [
@@ -1881,7 +1800,7 @@
     ]
   },
   {
-    "id": "133",
+    "id": "125",
     "word": "primitive",
     "pos": "adj.",
     "head_meanings": [
@@ -1890,7 +1809,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "134",
+    "id": "126",
     "word": "inchoate",
     "pos": "adj.",
     "head_meanings": [
@@ -1899,7 +1818,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "135",
+    "id": "127",
     "word": "sketchy",
     "pos": "adj.",
     "head_meanings": [
@@ -1908,7 +1827,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "136",
+    "id": "128",
     "word": "embryonic",
     "pos": "adj.",
     "head_meanings": [
@@ -1917,7 +1836,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "137",
+    "id": "129",
     "word": "rueful",
     "pos": "adj.",
     "head_meanings": [
@@ -1933,7 +1852,7 @@
     ]
   },
   {
-    "id": "138",
+    "id": "130",
     "word": "ruffian",
     "pos": "n.",
     "head_meanings": [
@@ -1948,7 +1867,7 @@
     ]
   },
   {
-    "id": "139",
+    "id": "131",
     "word": "ruffle",
     "pos": "v.",
     "head_meanings": [
@@ -1985,7 +1904,7 @@
     ]
   },
   {
-    "id": "140",
+    "id": "132",
     "word": "ruminant",
     "pos": "n.&adj.",
     "head_meanings": [
@@ -1995,7 +1914,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "141",
+    "id": "133",
     "word": "ruminate",
     "pos": "v.",
     "head_meanings": [
@@ -2012,7 +1931,7 @@
     ]
   },
   {
-    "id": "142",
+    "id": "134",
     "word": "rummage",
     "pos": "v.",
     "head_meanings": [
@@ -2029,7 +1948,7 @@
     ]
   },
   {
-    "id": "143",
+    "id": "135",
     "word": "runic",
     "pos": "adj.",
     "head_meanings": [
@@ -2043,7 +1962,7 @@
     ]
   },
   {
-    "id": "144",
+    "id": "136",
     "word": "ruse",
     "pos": "n.",
     "head_meanings": [
@@ -2064,7 +1983,7 @@
     ]
   },
   {
-    "id": "145",
+    "id": "137",
     "word": "rustic",
     "pos": "adj.",
     "head_meanings": [
@@ -2083,7 +2002,7 @@
     ]
   },
   {
-    "id": "146",
+    "id": "138",
     "word": "ruthless",
     "pos": "adj.",
     "head_meanings": [
@@ -2098,7 +2017,7 @@
     ]
   },
   {
-    "id": "147",
+    "id": "139",
     "word": "sabotage",
     "pos": "n.&v.",
     "head_meanings": [
@@ -2107,7 +2026,7 @@
     "synonyms_from_image": []
   },
   {
-    "id": "148",
+    "id": "140",
     "word": "saccharine",
     "pos": "adj.",
     "head_meanings": [
@@ -2126,7 +2045,7 @@
     ]
   },
   {
-    "id": "149",
+    "id": "141",
     "word": "sacrifice",
     "pos": "n.",
     "head_meanings": [
@@ -2140,7 +2059,7 @@
     ]
   },
   {
-    "id": "150",
+    "id": "142",
     "word": "sacrilegious",
     "pos": "adj.",
     "head_meanings": [
@@ -2153,7 +2072,7 @@
     ]
   },
   {
-    "id": "151",
+    "id": "143",
     "word": "sacrosanct",
     "pos": "adj.",
     "head_meanings": [

@@ -965,7 +965,6 @@
       width: 8px; height: 8px; border-radius: 50%;
     }
     .card-nav-score .cns-dot.g{ background: var(--green); }
-    .card-nav-score .cns-dot.a{ background: var(--amber); }
     .card-nav-score .cns-dot.r{ background: var(--red); }
 
     .card-nav-bar{
@@ -1397,7 +1396,6 @@
         <div class="card-nav-counter"><span id="cardCurrent">1</span> <span class="cn-of">/ <span id="cardTotal">0</span></span></div>
         <div class="card-nav-score">
           <div class="cns-item"><span class="cns-dot g"></span><span id="cardCorrect">0</span></div>
-          <div class="cns-item"><span class="cns-dot a"></span><span id="cardPartial">0</span></div>
           <div class="cns-item"><span class="cns-dot r"></span><span id="cardWrong">0</span></div>
         </div>
       </div>
@@ -1412,11 +1410,12 @@
       <div class="card-results-inner">
         <div class="cr-title">퀴즈 완료!</div>
         <div class="cr-sub" id="crSub">Word List</div>
+        <div class="cr-datetime" id="crDatetime" style="font-size:13px;color:var(--muted);margin-top:4px;"></div>
         <div class="cr-score" id="crScore">0%</div>
         <div class="cr-score-label">SCORE</div>
         <div class="cr-stats">
           <div class="cr-stat"><div class="cr-stat-val" id="crCorrect" style="color:var(--green)">0</div><div class="cr-stat-lbl">Correct</div></div>
-          <div class="cr-stat"><div class="cr-stat-val" id="crPartial" style="color:var(--amber)">0</div><div class="cr-stat-lbl">Partial</div></div>
+          <div class="cr-stat"><div class="cr-stat-val" id="crConfused" style="color:var(--amber)">0</div><div class="cr-stat-lbl">Confused</div></div>
           <div class="cr-stat"><div class="cr-stat-val" id="crWrong" style="color:var(--red)">0</div><div class="cr-stat-lbl">Wrong</div></div>
         </div>
         <div class="cr-btns">
@@ -2445,7 +2444,6 @@
     // Reset card mode state too
     cardGradedSet = new Set();
     cardCorrectCount = 0;
-    cardPartialCount = 0;
     cardIncorrectCount = 0;
     cardIGState = {};
     if (isCardMode) {
@@ -2535,7 +2533,6 @@
   let cardIdx = 0;
   let cardGradedSet = new Set();
   let cardCorrectCount = 0;
-  let cardPartialCount = 0;
   let cardIncorrectCount = 0;
   let cardIGState = {}; // per-card instant grade state: { qid: { found: Set, wrong: bool } }
   let cardOptFocus = -1; // currently focused option index in card mode (-1 = not in option nav)
@@ -2566,7 +2563,6 @@
     cardIdx = 0;
     cardGradedSet = new Set();
     cardCorrectCount = 0;
-    cardPartialCount = 0;
     cardIncorrectCount = 0;
     cardIGState = {};
 
@@ -2732,23 +2728,18 @@
     // Determine result
     const allFound = state.found.size === correctSet.size;
     const noWrong = !state.wrong;
+    const meaningEmpty = ta && ta.value.trim() === '';
 
     const card = document.querySelector(`.qcard[data-qid="${qid}"]`);
     const badge = $(`#badge-${qid}`);
 
     let result;
-    if (allFound && noWrong) {
+    if (allFound && noWrong && !meaningEmpty) {
       result = 'correct';
       cardCorrectCount++;
       if (card) card.classList.add('correct');
       if (badge) { badge.classList.add('show', 'badge-correct'); badge.textContent = '✓ CORRECT'; }
       if (revealS) revealS.classList.add('correct-reveal');
-    } else if (state.found.size > 0 && noWrong) {
-      result = 'partial';
-      cardPartialCount++;
-      if (card) card.classList.add('partial');
-      if (badge) { badge.classList.add('show', 'badge-partial'); badge.textContent = '△ PARTIAL'; }
-      if (revealS) revealS.classList.add('incorrect-reveal');
     } else {
       result = 'incorrect';
       cardIncorrectCount++;
@@ -2759,7 +2750,7 @@
 
     // Update score in nav with flash
     updateCardNav();
-    const scoreEl = result === 'correct' ? $('#cardCorrect') : result === 'partial' ? $('#cardPartial') : $('#cardWrong');
+    const scoreEl = result === 'correct' ? $('#cardCorrect') : $('#cardWrong');
     if (scoreEl) { scoreEl.classList.remove('ig-flash'); void scoreEl.offsetWidth; scoreEl.classList.add('ig-flash'); }
 
     // Show inline next button
@@ -2819,9 +2810,17 @@
     const revealM = $(`#reveal-meaning-${qid}`);
     if (revealM) revealM.classList.add('show', 'correct-reveal');
 
-    // Hide enter hint, show self-grade panel
+    // Hide enter hint
     const hint = $(`#enter-hint-${qid}`);
     if (hint) hint.classList.add('hidden');
+
+    // If meaning is empty, auto-grade as wrong
+    if (ta && ta.value.trim() === '') {
+      selfGradeMeaningOnly(qid, false);
+      return;
+    }
+
+    // Show self-grade panel (O/X)
     const sgPanel = $(`#sg-panel-${qid}`);
     if (sgPanel) sgPanel.classList.add('show');
   }
@@ -2891,7 +2890,6 @@
 
   function updateCardNav() {
     $('#cardCorrect').textContent = cardCorrectCount;
-    $('#cardPartial').textContent = cardPartialCount;
     $('#cardWrong').textContent = cardIncorrectCount;
     const graded = cardGradedSet.size;
     const pct = QUESTIONS.length > 0 ? (graded / QUESTIONS.length) * 100 : 0;
@@ -2948,24 +2946,34 @@
     const resultsDiv = $('#cardResults');
     resultsDiv.classList.add('show');
 
-    const total = cardCorrectCount + cardPartialCount + cardIncorrectCount;
-    const score = total > 0 ? Math.round(((cardCorrectCount + cardPartialCount * 0.5) / total) * 100) : 0;
+    // Count confused (checked) cards
+    let confusedCount = 0;
+    QUESTIONS.forEach(q => { if (manualChecks[q.qid]) confusedCount++; });
+
+    const total = cardCorrectCount + cardIncorrectCount;
+    const score = total > 0 ? Math.round((cardCorrectCount / total) * 100) : 0;
     const tier = score >= 80 ? 'high' : score >= 50 ? 'mid' : 'low';
 
     $('#crSub').textContent = MODE === 'random'
       ? `Random Test (Lists ${RANDOM_FROM}-${RANDOM_TO}) · ${QUESTIONS.length} words`
       : `Word List ${WORDLIST_NUMBER} · ${QUESTIONS.length} words`;
+
+    // Show date and time
+    const now = new Date();
+    const pad = n => String(n).padStart(2, '0');
+    $('#crDatetime').textContent = `${now.getFullYear()}.${pad(now.getMonth()+1)}.${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}`;
+
     const crScoreEl = $('#crScore');
     crScoreEl.textContent = score + '%';
     crScoreEl.className = 'cr-score ' + tier;
     $('#crCorrect').textContent = cardCorrectCount;
-    $('#crPartial').textContent = cardPartialCount;
+    $('#crConfused').textContent = confusedCount;
     $('#crWrong').textContent = cardIncorrectCount;
 
     $('#cardBarFill').style.width = '100%';
 
     const retryWrongBtn = $('#crRetryWrong');
-    if (cardIncorrectCount + cardPartialCount === 0) {
+    if (cardIncorrectCount + confusedCount === 0) {
       retryWrongBtn.disabled = true;
       retryWrongBtn.style.opacity = '0.5';
     } else {
@@ -2978,23 +2986,26 @@
     const wrongQids = [];
     QUESTIONS.forEach(q => {
       const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
-      if (card && (card.classList.contains('incorrect') || card.classList.contains('partial'))) {
+      const isWrong = card && card.classList.contains('incorrect');
+      const isConfused = manualChecks[q.qid] === true;
+      if (isWrong || isConfused) {
         wrongQids.push(q.qid);
         resetCardVisuals(q.qid);
         cardGradedSet.delete(q.qid);
         delete cardIGState[q.qid];
+        manualChecks[q.qid] = false;
+        const checkCircle = $(`#check-${q.qid}`);
+        if (checkCircle) checkCircle.classList.remove('checked');
       }
     });
 
     cardCorrectCount = 0;
-    cardPartialCount = 0;
     cardIncorrectCount = 0;
     QUESTIONS.forEach(q => {
       if (cardGradedSet.has(q.qid)) {
         const card = document.querySelector(`.qcard[data-qid="${q.qid}"]`);
         if (card) {
           if (card.classList.contains('correct')) cardCorrectCount++;
-          else if (card.classList.contains('partial')) cardPartialCount++;
           else if (card.classList.contains('incorrect')) cardIncorrectCount++;
         }
       }
@@ -3012,7 +3023,6 @@
   function cardRetryAll() {
     cardGradedSet = new Set();
     cardCorrectCount = 0;
-    cardPartialCount = 0;
     cardIncorrectCount = 0;
     cardIGState = {};
 
