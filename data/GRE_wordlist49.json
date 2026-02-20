@@ -1,0 +1,1485 @@
+[
+  {
+    "id": "001",
+    "word": "veiled",
+    "pos": "",
+    "head_meanings": [
+      "숨겨진, 감추어진",
+      "분명치 않은",
+      "베일로 덮인(가린)"
+    ],
+    "synonyms_from_image": [
+      "disguised",
+      "camouflaged",
+      "masked",
+      "covert",
+      "hidden",
+      "concealed",
+      "underlying",
+      "implicit",
+      "implied",
+      "indirect",
+      "oblique"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "velocity",
+    "pos": "",
+    "head_meanings": [
+      "빠르기",
+      "속력",
+      "빠름"
+    ],
+    "synonyms_from_image": [
+      "swiftness",
+      "fleetness",
+      "celerity",
+      "pace",
+      "alacrity",
+      "rapidity"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "venal",
+    "pos": "",
+    "head_meanings": [
+      "돈으로 좌우되는",
+      "돈 위주의",
+      "매수할 수 있는",
+      "타락한",
+      "부패한"
+    ],
+    "synonyms_from_image": [
+      "bribbable",
+      "corruptible",
+      "mercenary"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "venerable",
+    "pos": "",
+    "head_meanings": [
+      "(인격·지위·나이로 보아) 존경할 만한, 공경할 만한, 덕망 있는",
+      "(토지·건물 등이) 고색 창연하여 숭엄한",
+      "예스러운, 존귀한, 존엄한",
+      "오래된, 케케묵은"
+    ],
+    "synonyms_from_image": [
+      "revered",
+      "respected",
+      "esteemed",
+      "hallowed",
+      "majestic",
+      "dignified",
+      "reputable",
+      "noble"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "venerate",
+    "pos": "",
+    "head_meanings": [
+      "존경하다",
+      "공경하다",
+      "받들어 모시다",
+      "숭배하다"
+    ],
+    "synonyms_from_image": [
+      "respect",
+      "revere",
+      "worship",
+      "regard",
+      "honor",
+      "esteem",
+      "adore",
+      "exalt"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "veneration",
+    "pos": "n.",
+    "head_meanings": [
+      "존경",
+      "공경",
+      "숭배"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "007",
+    "word": "venial",
+    "pos": "",
+    "head_meanings": [
+      "용서할 수 있는",
+      "사면할 만한",
+      "사소한",
+      "죄가 가벼운"
+    ],
+    "synonyms_from_image": [
+      "justifiable",
+      "defensible",
+      "excusable",
+      "warrantable"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "venom",
+    "pos": "",
+    "head_meanings": [
+      "독(액)",
+      "악의(spite)",
+      "원한",
+      "앙심"
+    ],
+    "synonyms_from_image": [
+      "rancor",
+      "vituperation",
+      "malevolence",
+      "vitriol",
+      "spite",
+      "vindictiveness",
+      "malice",
+      "animus",
+      "maliciousness",
+      "animosity",
+      "antagonism",
+      "hostility",
+      "bile",
+      "hatred",
+      "poison",
+      "toxin",
+      "bane"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "venomous",
+    "pos": "",
+    "head_meanings": [
+      "(동물 등이) 독액을 분비하는",
+      "독이 있는",
+      "악의에 찬",
+      "원한을 품은",
+      "해로운"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "010",
+    "word": "vent",
+    "pos": "n.",
+    "head_meanings": [
+      "구멍",
+      "배출구",
+      "통풍구(=vent)",
+      "발로"
+    ],
+    "synonyms_from_image": [
+      "escape",
+      "hole",
+      "aperture"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "vent",
+    "pos": "v.",
+    "head_meanings": [
+      "말하다",
+      "표현하다",
+      "누설하다"
+    ],
+    "synonyms_from_image": [
+      "divulge",
+      "reveal"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "venture",
+    "pos": "",
+    "head_meanings": [
+      "위험을 무릅쓰고 ~하다/나서다",
+      "과감히 하다",
+      "모험하다(risk)",
+      "대담하게도 ~하다",
+      "(생명·재산 등을) 위험에 내맡기다",
+      "감히 나아가다",
+      "위험을 무릅쓰고 가다",
+      "모험(경험)",
+      "모험·투기적 사업"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "013",
+    "word": "venturesome",
+    "pos": "",
+    "head_meanings": [
+      "대담한",
+      "무모한",
+      "모험을 좋아하는"
+    ],
+    "synonyms_from_image": [
+      "adventurous",
+      "daring",
+      "rash",
+      "reckless",
+      "foolhardy"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "venue",
+    "pos": "",
+    "head_meanings": [
+      "행위의 현장",
+      "현장",
+      "재판지",
+      "소송원인 발생지",
+      "(논쟁에서의) 입장, 의견"
+    ],
+    "synonyms_from_image": [
+      "spot",
+      "scene of a crime"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "veracious",
+    "pos": "",
+    "head_meanings": [
+      "진실을 이야기하는",
+      "정직한",
+      "확실한",
+      "정말의"
+    ],
+    "synonyms_from_image": [
+      "actual",
+      "authenticated",
+      "accurate",
+      "upright",
+      "unfalse"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "veracity",
+    "pos": "",
+    "head_meanings": [
+      "진실을 말함",
+      "성실",
+      "정직",
+      "정확성",
+      "진실(성)"
+    ],
+    "synonyms_from_image": [
+      "reliability"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "verbiage",
+    "pos": "",
+    "head_meanings": [
+      "군말이 많음",
+      "말이 많음",
+      "용장",
+      "말씨"
+    ],
+    "synonyms_from_image": [
+      "diction",
+      "wordiness",
+      "verbosity",
+      "circumlocution"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "verbose",
+    "pos": "",
+    "head_meanings": [
+      "말수가 많은",
+      "다변의",
+      "장황한"
+    ],
+    "synonyms_from_image": [
+      "prolix",
+      "loquacious",
+      "garrulous",
+      "voluble",
+      "talkative",
+      "long-winded",
+      "lengthy",
+      "grandiloquent",
+      "tedious",
+      "tautological",
+      "pleonastic",
+      "periphrastic",
+      "circumlocutory",
+      "circuitous",
+      "discursive",
+      "digressive",
+      "rambling"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "verdant",
+    "pos": "",
+    "head_meanings": [
+      "초록의",
+      "푸릇푸릇한",
+      "신록의",
+      "미숙한"
+    ],
+    "synonyms_from_image": [
+      "verdurous",
+      "inexperienced"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "verdigris",
+    "pos": "",
+    "head_meanings": [
+      "녹청",
+      "고색 창연함"
+    ],
+    "synonyms_from_image": [
+      "aerugo"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "verge",
+    "pos": "",
+    "head_meanings": [
+      "가장자리",
+      "경계",
+      "한계",
+      "범위"
+    ],
+    "synonyms_from_image": [
+      "rim",
+      "brink",
+      "margin",
+      "limit"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "verifiable",
+    "pos": "",
+    "head_meanings": [
+      "증명할 수 있는",
+      "입증(검증)할 수 있는"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "023",
+    "word": "verify",
+    "pos": "",
+    "head_meanings": [
+      "증명(입증)하다",
+      "증거를 대다",
+      "확증하다",
+      "확인하다",
+      "실증하다",
+      "검증하다"
+    ],
+    "synonyms_from_image": [
+      "confirm",
+      "substantiate",
+      "prove",
+      "testify to",
+      "validate",
+      "authenticate",
+      "endorse",
+      "ratify",
+      "corroborate",
+      "back up",
+      "justify",
+      "uphold",
+      "attest to"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "verisimilitude",
+    "pos": "",
+    "head_meanings": [
+      "사실 같음",
+      "사실처럼 보이는"
+    ],
+    "synonyms_from_image": [
+      "realism"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "veritable",
+    "pos": "",
+    "head_meanings": [
+      "실제의",
+      "정말의",
+      "진실의",
+      "틀림없는"
+    ],
+    "synonyms_from_image": [
+      "being truly so called",
+      "real",
+      "genuine"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "verity",
+    "pos": "",
+    "head_meanings": [
+      "참",
+      "진실",
+      "사실",
+      "진리"
+    ],
+    "synonyms_from_image": [
+      "honesty",
+      "trustworthiness",
+      "reliability",
+      "unfalseness",
+      "actuality"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "vernacular",
+    "pos": "",
+    "head_meanings": [
+      "지방 사투리",
+      "방언",
+      "전문어",
+      "평이한 일상어"
+    ],
+    "synonyms_from_image": [
+      "dialect",
+      "vernacularism",
+      "common speech",
+      "everyday language",
+      "slang",
+      "colloquial speech",
+      "informal speech"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "vernal",
+    "pos": "",
+    "head_meanings": [
+      "봄의",
+      "봄 같은",
+      "젊음이 넘치는"
+    ],
+    "synonyms_from_image": [
+      "green",
+      "immature",
+      "new",
+      "youthful",
+      "springlike"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "versatile",
+    "pos": "",
+    "head_meanings": [
+      "다재다능한",
+      "여러 분야의 일을 할 능력이 있는",
+      "변덕스러운",
+      "다방면의"
+    ],
+    "synonyms_from_image": [
+      "protean",
+      "ambidextrous",
+      "all-round",
+      "handy",
+      "available",
+      "adaptable",
+      "flexible",
+      "multifaceted",
+      "ingenious",
+      "clever",
+      "adjustable"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "versed",
+    "pos": "",
+    "head_meanings": [
+      "(경험·연구·연습 등으로) ~에 정통한",
+      "숙달한",
+      "익숙한"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "031",
+    "word": "vertex",
+    "pos": "",
+    "head_meanings": [
+      "최고점",
+      "절정",
+      "정상",
+      "천정"
+    ],
+    "synonyms_from_image": [
+      "peak",
+      "extremity",
+      "apex",
+      "tiptop"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "vertigo",
+    "pos": "",
+    "head_meanings": [
+      "현기증"
+    ],
+    "synonyms_from_image": [
+      "giddiness"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "verve",
+    "pos": "",
+    "head_meanings": [
+      "(예술 작품의) 활력",
+      "힘",
+      "열",
+      "(일반적으로) 정기",
+      "기력"
+    ],
+    "synonyms_from_image": [
+      "vigor",
+      "zip",
+      "vim",
+      "dash",
+      "spirit",
+      "punch",
+      "animation"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "vestige",
+    "pos": "",
+    "head_meanings": [
+      "자취",
+      "흔적",
+      "퇴화기관의 흔적",
+      "발자국/냄새 자취",
+      "유적/유물",
+      "아주 조금의 …"
+    ],
+    "synonyms_from_image": [
+      "relic",
+      "clue",
+      "mark",
+      "token",
+      "remnant",
+      "sign",
+      "evidence"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "veto",
+    "pos": "",
+    "head_meanings": [
+      "거부권을 행사하다",
+      "거부하다",
+      "(행위 등을) 금지하다, 엄금하다",
+      "반대하다",
+      "금지(권)",
+      "금제(권)"
+    ],
+    "synonyms_from_image": [
+      "reject",
+      "turn down",
+      "dismiss",
+      "prohibit",
+      "forbid",
+      "interdict",
+      "proscribe",
+      "disallow",
+      "embargo",
+      "ban",
+      "rejection",
+      "dismissal",
+      "prohibition",
+      "proscription"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "vex",
+    "pos": "",
+    "head_meanings": [
+      "~을 초조하게/성가시게 하다",
+      "난처하게 하다"
+    ],
+    "synonyms_from_image": [
+      "annoy",
+      "bother",
+      "irritate",
+      "exasperate",
+      "provoke",
+      "nettle",
+      "pique"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "vexation",
+    "pos": "",
+    "head_meanings": [
+      "초조하게/성가시게 괴롭게 함",
+      "속상함",
+      "분함",
+      "원통함",
+      "괴로움(번뇌)의 원인",
+      "뜻대로 되지 않은 일"
+    ],
+    "synonyms_from_image": [
+      "annoyance",
+      "irritation",
+      "exasperation",
+      "indignation",
+      "anger",
+      "pique",
+      "disgruntlement",
+      "aggravation"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "vexatious",
+    "pos": "",
+    "head_meanings": [
+      "성가신",
+      "안달나는",
+      "악오르는(annoying)",
+      "혼돈스러운",
+      "(상대를 괴롭히려) ~을 남용하는"
+    ],
+    "synonyms_from_image": [
+      "annoying",
+      "irritating",
+      "infuriating",
+      "exasperating",
+      "tiresome",
+      "troublesome",
+      "bothersome",
+      "irksome",
+      "vexing",
+      "galling"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "viable",
+    "pos": "",
+    "head_meanings": [
+      "생존력 있는",
+      "실현할 수 있는",
+      "성장(발달)할 수 있는"
+    ],
+    "synonyms_from_image": [
+      "doable",
+      "feasible",
+      "possible",
+      "workable"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "vicarious",
+    "pos": "",
+    "head_meanings": [
+      "대리의",
+      "대리를 하는",
+      "대신하는"
+    ],
+    "synonyms_from_image": [
+      "substitute",
+      "alternate"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "vicious",
+    "pos": "",
+    "head_meanings": [
+      "부도덕한",
+      "타락한",
+      "품행 나쁜",
+      "비난할 만한",
+      "심술궂은",
+      "잔혹한",
+      "(날씨 등) 지독한"
+    ],
+    "synonyms_from_image": [
+      "ferocious",
+      "fierce",
+      "inhuman",
+      "brutal"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "vicissitude",
+    "pos": "",
+    "head_meanings": [
+      "변화",
+      "변천",
+      "(인생·운명의) 변천"
+    ],
+    "synonyms_from_image": [
+      "change",
+      "fluctuation",
+      "ups and downs",
+      "variation"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "via",
+    "pos": "",
+    "head_meanings": [
+      "~을 매개로 하여",
+      "~을 통해(by means of)",
+      "~을 경유하여(by way of)"
+    ],
+    "synonyms_from_image": [
+      "by way of",
+      "by means of"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "vie",
+    "pos": "",
+    "head_meanings": [
+      "우열을 겨루다",
+      "경쟁하다"
+    ],
+    "synonyms_from_image": [
+      "match",
+      "strive",
+      "be comparable",
+      "contest",
+      "struggle"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "vigilance",
+    "pos": "",
+    "head_meanings": [
+      "경계",
+      "조심",
+      "불침번 서기"
+    ],
+    "synonyms_from_image": [
+      "warnings",
+      "lookout",
+      "guard",
+      "vigil"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "vigilant",
+    "pos": "",
+    "head_meanings": [
+      "방심 않는",
+      "경계를 늦추지 않는",
+      "조심성 있는",
+      "자지 않고 지키는"
+    ],
+    "synonyms_from_image": [
+      "watchful",
+      "observant",
+      "sharp-eyed",
+      "attentive",
+      "alert",
+      "awake",
+      "wary",
+      "careful",
+      "cautious",
+      "circumspect",
+      "heedful",
+      "mindful",
+      "eagle-eyed",
+      "hawk-eyed"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "vigor",
+    "pos": "",
+    "head_meanings": [
+      "(육체적·정신적) 정력",
+      "활동력",
+      "활력",
+      "건강한 체력(정신)",
+      "원기",
+      "생기",
+      "활기",
+      "정신력",
+      "힘참",
+      "구속력",
+      "법적효력"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "048",
+    "word": "vigorous",
+    "pos": "",
+    "head_meanings": [
+      "정력적인",
+      "강건한",
+      "원기 왕성한",
+      "(행동·말 등이) 있는, 거칠고",
+      "(작용·효과 등이) 강력한",
+      "(식물 등이) 잘 자라는"
+    ],
+    "synonyms_from_image": [
+      "spirited",
+      "robust",
+      "hale and hearty",
+      "sturdy",
+      "energetic",
+      "lively",
+      "vibrant",
+      "zestful",
+      "strenuous",
+      "powerful",
+      "mettlesome",
+      "zealous",
+      "ardent",
+      "fervent",
+      "vehement",
+      "passionate"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "vile",
+    "pos": "",
+    "head_meanings": [
+      "사악한",
+      "(행위 등이) 비열한, 타락한",
+      "추잡스러운",
+      "상스러운",
+      "혐오의",
+      "역겨운",
+      "미천한",
+      "몹시 나쁜",
+      "지독한",
+      "매우"
+    ],
+    "synonyms_from_image": [
+      "foul",
+      "nasty",
+      "unpleasant",
+      "horrid",
+      "horrible",
+      "dreadful",
+      "abominable",
+      "atrocious",
+      "offensive",
+      "obnoxious",
+      "odious",
+      "repulsive",
+      "disgusting",
+      "distasteful",
+      "loathsome",
+      "nauseating",
+      "sickening",
+      "shabby",
+      "shameful",
+      "execrable",
+      "heinous",
+      "abhorrent",
+      "wicked",
+      "evil",
+      "iniquitous",
+      "depraved",
+      "debased",
+      "contemptible",
+      "despicable",
+      "reprehensible",
+      "scurvy"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "vilify",
+    "pos": "",
+    "head_meanings": [
+      "~을 헐뜯다",
+      "비방하다",
+      "훼손하다",
+      "중상하다"
+    ],
+    "synonyms_from_image": [
+      "censure",
+      "berate",
+      "blaspheme",
+      "curse",
+      "revile",
+      "stigmatize",
+      "defame"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "vim",
+    "pos": "",
+    "head_meanings": [
+      "정력",
+      "활력",
+      "원기",
+      "열의"
+    ],
+    "synonyms_from_image": [
+      "ebullient vitality and energy",
+      "vigor"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "vindicate",
+    "pos": "",
+    "head_meanings": [
+      "정당(결백·무죄·진실)함을 입증하다",
+      "(권리·주의 등을) 주장/지지/옹호하다",
+      "해방하다"
+    ],
+    "synonyms_from_image": [
+      "attest",
+      "acquit",
+      "absolve",
+      "exonerate",
+      "discharge",
+      "liberate",
+      "free",
+      "redeem",
+      "exculpate",
+      "justify",
+      "warrant",
+      "substantiate",
+      "ratify",
+      "authenticate",
+      "verify",
+      "confirm",
+      "corroborate",
+      "prove",
+      "defend",
+      "support",
+      "evidence",
+      "endorse"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "vindication",
+    "pos": "",
+    "head_meanings": [
+      "(명예·요구 등의) 옹호, 변호, 지지",
+      "(정당함을 밝히는) 입증, 증명",
+      "(비난·오명·혐의·의혹을 푸는) 해명"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "054",
+    "word": "vindictive",
+    "pos": "",
+    "head_meanings": [
+      "복수심이 있는",
+      "앙심을 품은"
+    ],
+    "synonyms_from_image": [
+      "vengeful",
+      "implacable",
+      "spiteful",
+      "malign"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "virtual",
+    "pos": "",
+    "head_meanings": [
+      "사실상의",
+      "실질적인",
+      "실재의",
+      "실효성 있는",
+      "효과적인",
+      "가상의",
+      "허상의"
+    ],
+    "synonyms_from_image": [
+      "essential",
+      "substantial",
+      "practical",
+      "effective"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "virtue",
+    "pos": "",
+    "head_meanings": [
+      "미덕",
+      "도덕적 미점",
+      "덕목",
+      "덕",
+      "선",
+      "덕행",
+      "정직",
+      "도덕적 훌륭함",
+      "선함",
+      "장점",
+      "가치",
+      "좋은 점",
+      "순결",
+      "정절"
+    ],
+    "synonyms_from_image": [
+      "righteousness",
+      "probity",
+      "integrity",
+      "uprightness"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "virtuosity",
+    "pos": "",
+    "head_meanings": [
+      "(예술상의) 기교",
+      "(특히 음악가의) 묘기",
+      "대가적 기교",
+      "(집합적) 예술 애호"
+    ],
+    "synonyms_from_image": [
+      "prowess",
+      "skill(fullness)",
+      "mastery",
+      "expertise",
+      "proficiency",
+      "aptitude",
+      "brilliance",
+      "talent",
+      "genius",
+      "artistry",
+      "flair",
+      "panache",
+      "finesse",
+      "wizardry"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "virtuoso",
+    "pos": "",
+    "head_meanings": [
+      "(예술의) 명장",
+      "대가",
+      "미술품 애호가(감정가)"
+    ],
+    "synonyms_from_image": [
+      "artist",
+      "expert",
+      "dabster",
+      "authority"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "virulent",
+    "pos": "",
+    "head_meanings": [
+      "유독한",
+      "독성의",
+      "독기 있는",
+      "악의 있는"
+    ],
+    "synonyms_from_image": [
+      "viral",
+      "venomous",
+      "vicious",
+      "deadly",
+      "hateful",
+      "noxious"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "virus",
+    "pos": "",
+    "head_meanings": [
+      "병독",
+      "해독",
+      "바이러스",
+      "병균"
+    ],
+    "synonyms_from_image": [
+      "bane",
+      "venom",
+      "poison",
+      "contagion",
+      "infection"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "visage",
+    "pos": "",
+    "head_meanings": [
+      "얼굴",
+      "용모",
+      "생김새"
+    ],
+    "synonyms_from_image": [
+      "countenance",
+      "expression",
+      "mug",
+      "kisser",
+      "physiognomy"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "visceral",
+    "pos": "",
+    "head_meanings": [
+      "내장의",
+      "(병이) 내장을 침범하는",
+      "뱃속으로부터의",
+      "감정적인",
+      "비이성적인",
+      "본능적인",
+      "마음속에서 느끼는"
+    ],
+    "synonyms_from_image": [
+      "emotional",
+      "instinctive",
+      "impulsive",
+      "intuitive",
+      "deep-seated",
+      "spontaneous",
+      "involuntary",
+      "sentimental",
+      "intestinal",
+      "gut"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "viscid",
+    "pos": "",
+    "head_meanings": [
+      "끈적끈적한",
+      "점착성의",
+      "흐름이 느린"
+    ],
+    "synonyms_from_image": [
+      "ropy",
+      "gummy",
+      "viscous"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "viscous",
+    "pos": "",
+    "head_meanings": [
+      "끈적거리는",
+      "끈기 있는",
+      "점착성의"
+    ],
+    "synonyms_from_image": [
+      "sizy",
+      "slimy",
+      "glutinous",
+      "tacky",
+      "tenacious",
+      "syrupy"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "visionary",
+    "pos": "",
+    "head_meanings": [
+      "환영의",
+      "공상적인",
+      "환상적인",
+      "꿈 같은"
+    ],
+    "synonyms_from_image": [
+      "illusory",
+      "impractical",
+      "quixotic",
+      "dreamy",
+      "chimerical",
+      "imaginative"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "vital",
+    "pos": "",
+    "head_meanings": [
+      "생명의",
+      "활기 있는",
+      "원기 왕성한",
+      "필수적인",
+      "중요한",
+      "긴요한"
+    ],
+    "synonyms_from_image": [
+      "animated",
+      "chief",
+      "important",
+      "indispensable",
+      "essential"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "vitiate",
+    "pos": "",
+    "head_meanings": [
+      "손상하다",
+      "타락시키다",
+      "무효로 하다"
+    ],
+    "synonyms_from_image": [
+      "impair",
+      "abolish",
+      "invalidate",
+      "damage",
+      "corrupt",
+      "mar"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "vitriol",
+    "pos": "",
+    "head_meanings": [
+      "통렬한 비평",
+      "신랄한 반박",
+      "(황)산"
+    ],
+    "synonyms_from_image": [
+      "opprobrium"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "vitriolic",
+    "pos": "",
+    "head_meanings": [
+      "신랄한",
+      "통렬한",
+      "(황)산의"
+    ],
+    "synonyms_from_image": [
+      "acrimonious",
+      "bitter",
+      "acid"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "vituperate",
+    "pos": "",
+    "head_meanings": [
+      "~을 헐뜯다",
+      "비난하다",
+      "매도하다",
+      "~에게 악담을 퍼붓다",
+      "호통치다",
+      "욕설하다",
+      "혹평하다"
+    ],
+    "synonyms_from_image": [
+      "rebuke",
+      "criticize harshly",
+      "berate",
+      "scold",
+      "use harshly abusive language",
+      "rail",
+      "revile",
+      "criticize",
+      "censure",
+      "condemn",
+      "inveigh",
+      "lambaste",
+      "denounce",
+      "slander",
+      "libel",
+      "malign",
+      "vilify",
+      "besmirch",
+      "abuse",
+      "pan",
+      "crucify",
+      "slate",
+      "pummel",
+      "calumniate",
+      "excoriate"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "vituperative",
+    "pos": "",
+    "head_meanings": [
+      "독지거리하는",
+      "악박하는",
+      "독설을 퍼붓는"
+    ],
+    "synonyms_from_image": [
+      "critical",
+      "invective",
+      "defamatory"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "vivacious",
+    "pos": "",
+    "head_meanings": [
+      "활기 있는",
+      "활발한",
+      "명랑한"
+    ],
+    "synonyms_from_image": [
+      "breezy",
+      "exuberant",
+      "brisk"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "vivacity",
+    "pos": "",
+    "head_meanings": [
+      "생기",
+      "활기",
+      "활발",
+      "쾌활",
+      "발랄",
+      "까불기",
+      "장난",
+      "(보통 pl.) 쾌활한 행위(말)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "074",
+    "word": "vivify",
+    "pos": "",
+    "head_meanings": [
+      "~에게 생명[활기]를 주다",
+      "~을 기운차리게 하다",
+      "활발하게/생생하게 하다",
+      "선명하게 하다"
+    ],
+    "synonyms_from_image": [
+      "give or bring life to",
+      "animate",
+      "make more lively",
+      "make more intense",
+      "make more striking",
+      "enliven"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "vociferous",
+    "pos": "",
+    "head_meanings": [
+      "고함치는",
+      "시끄러운",
+      "큰소리의"
+    ],
+    "synonyms_from_image": [
+      "blatant",
+      "boisterous",
+      "shrill",
+      "loud",
+      "crying loudly"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "vogue",
+    "pos": "",
+    "head_meanings": [
+      "유행",
+      "성행",
+      "인기",
+      "호평"
+    ],
+    "synonyms_from_image": [
+      "craze",
+      "trend",
+      "mode",
+      "furore"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "void",
+    "pos": "",
+    "head_meanings": [
+      "빈, 공허한",
+      "무의한/효과 없는/쓸모 없는",
+      "(계약 등이) 무효의, 법적 구속력 없는",
+      "(지위·자리 등이) 공석의",
+      "허공/공간/진공/빈 곳(틈)/공백",
+      "무효로 하다/취소하다(nullify)",
+      "(내용물을) 비우다/제거하다",
+      "(변을) 배설하다(evacuate)"
+    ],
+    "synonyms_from_image": []
+  },
+  {
+    "id": "078",
+    "word": "void of",
+    "pos": "",
+    "head_meanings": [
+      "~이 없는",
+      "결여된"
+    ],
+    "synonyms_from_image": []
+  }
+]
