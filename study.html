@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <title>GRE Vocabulary Study</title>
+  <style>
+    :root {
+      --bg: #FAFAFA;
+      --card: #FFFFFF;
+      --border: #E5E7EB;
+      --text: #111827;
+      --muted: #9CA3AF;
+      --green: #16A34A;
+      --green-bg: #F0FDF4;
+      --red: #DC2626;
+      --red-bg: #FEF2F2;
+      --blue: #2563EB;
+      --blue-bg: #EFF6FF;
+      --amber: #D97706;
+      --amber-bg: #FFFBEB;
+      --shadow: 0 1px 3px rgba(0,0,0,.04), 0 6px 16px rgba(0,0,0,.06);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Outfit', 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    /* Top Bar */
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(255,255,255,0.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .topbar-inner {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .back-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: var(--card);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      color: var(--text);
+      font-size: 18px;
+      transition: all 0.15s;
+    }
+
+    .back-btn:hover { background: var(--bg); }
+
+    .brand h1 {
+      font-size: 18px;
+      font-weight: 800;
+      letter-spacing: -0.3px;
+    }
+
+    .brand .sub {
+      font-size: 13px;
+      color: var(--muted);
+      font-weight: 500;
+    }
+
+    .wrap {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 24px 20px 80px;
+    }
+
+    /* Hero Card */
+    .hero-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 28px;
+      margin-bottom: 24px;
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+
+    .hero-card h2 {
+      font-size: 22px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+
+    .hero-card p {
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.5;
+    }
+
+    .hero-stats {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      margin-top: 16px;
+    }
+
+    .hero-stat {
+      text-align: center;
+    }
+
+    .hero-stat .val {
+      font-size: 24px;
+      font-weight: 800;
+    }
+
+    .hero-stat .lbl {
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Group Grid */
+    .group-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 12px;
+    }
+
+    .group-btn {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 16px;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      box-shadow: var(--shadow);
+      font-family: inherit;
+    }
+
+    .group-btn:hover {
+      border-color: var(--blue);
+      transform: translateY(-1px);
+    }
+
+    .group-btn:active { transform: translateY(0); }
+
+    .group-btn .group-num {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--blue);
+      margin-bottom: 4px;
+    }
+
+    .group-btn .group-range {
+      font-size: 18px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+
+    .group-btn .group-status {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 999px;
+      display: inline-block;
+    }
+
+    .group-btn .group-status.done {
+      background: var(--green-bg);
+      color: var(--green);
+    }
+
+    .group-btn .group-status.not-done {
+      background: #F3F4F6;
+      color: var(--muted);
+    }
+
+    /* Study Card */
+    .study-progress {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+
+    .study-progress .counter {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .progress-bar {
+      flex: 1;
+      height: 4px;
+      background: var(--border);
+      border-radius: 2px;
+      margin-left: 12px;
+      overflow: hidden;
+    }
+
+    .progress-bar .fill {
+      height: 100%;
+      background: var(--blue);
+      border-radius: 2px;
+      transition: width 0.3s ease;
+    }
+
+    .study-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 32px 28px;
+      box-shadow: var(--shadow);
+      text-align: center;
+      animation: cardIn 0.25s ease;
+      min-height: 280px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    @keyframes cardIn {
+      from { opacity: 0; transform: translateX(20px); }
+      to { opacity: 1; transform: translateX(0); }
+    }
+
+    .study-card .word {
+      font-size: 32px;
+      font-weight: 800;
+      margin-bottom: 8px;
+      letter-spacing: -0.5px;
+    }
+
+    .study-card .pos {
+      display: inline-block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--blue);
+      background: var(--blue-bg);
+      padding: 2px 10px;
+      border-radius: 999px;
+      margin-bottom: 20px;
+    }
+
+    .study-card .meanings {
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 20px;
+      line-height: 1.6;
+      font-family: 'Pretendard Variable', sans-serif;
+    }
+
+    .study-card .syn-label {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 10px;
+    }
+
+    .syn-chips {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .syn-chip {
+      background: var(--blue-bg);
+      color: var(--blue);
+      font-size: 13px;
+      font-weight: 600;
+      padding: 4px 12px;
+      border-radius: 999px;
+    }
+
+    .study-controls {
+      display: flex;
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .study-controls button {
+      flex: 1;
+      padding: 14px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: var(--card);
+      font-size: 15px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+      color: var(--text);
+    }
+
+    .study-controls button:hover {
+      border-color: var(--blue);
+      color: var(--blue);
+    }
+
+    .study-controls button:disabled {
+      opacity: 0.3;
+      cursor: not-allowed;
+    }
+
+    .study-controls button.primary {
+      background: var(--blue);
+      color: white;
+      border-color: var(--blue);
+    }
+
+    .study-controls button.primary:hover {
+      background: #1d4ed8;
+    }
+
+    /* Quiz */
+    .quiz-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 16px;
+    }
+
+    .quiz-header .counter {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .quiz-header .score {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--green);
+    }
+
+    .quiz-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 32px 28px;
+      box-shadow: var(--shadow);
+      animation: cardIn 0.25s ease;
+    }
+
+    .quiz-type-badge {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 4px 12px;
+      border-radius: 999px;
+      margin-bottom: 16px;
+    }
+
+    .quiz-type-badge.synonym {
+      background: #F3E8FF;
+      color: #7C3AED;
+    }
+
+    .quiz-type-badge.meaning {
+      background: var(--blue-bg);
+      color: var(--blue);
+    }
+
+    .quiz-word {
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 8px;
+      text-align: center;
+    }
+
+    .quiz-pos {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .quiz-pos span {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--muted);
+    }
+
+    .quiz-prompt {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--muted);
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .quiz-options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .quiz-opt {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px 16px;
+      border: 2px solid var(--border);
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.15s;
+      background: var(--card);
+      font-family: inherit;
+      font-size: 15px;
+      text-align: left;
+      width: 100%;
+    }
+
+    .quiz-opt:hover:not(.answered) {
+      border-color: var(--blue);
+      background: var(--blue-bg);
+    }
+
+    .quiz-opt .opt-num {
+      width: 28px;
+      height: 28px;
+      border-radius: 8px;
+      background: var(--bg);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--muted);
+      flex-shrink: 0;
+    }
+
+    .quiz-opt .opt-text {
+      font-weight: 600;
+      flex: 1;
+      font-family: 'Pretendard Variable', 'Outfit', sans-serif;
+    }
+
+    .quiz-opt.correct {
+      border-color: var(--green);
+      background: var(--green-bg);
+    }
+
+    .quiz-opt.correct .opt-num {
+      background: var(--green);
+      color: white;
+    }
+
+    .quiz-opt.wrong {
+      border-color: var(--red);
+      background: var(--red-bg);
+    }
+
+    .quiz-opt.wrong .opt-num {
+      background: var(--red);
+      color: white;
+    }
+
+    .quiz-opt.answered {
+      cursor: default;
+    }
+
+    .quiz-opt.missed {
+      border-color: var(--green);
+      border-style: dashed;
+    }
+
+    .quiz-next-wrap {
+      margin-top: 16px;
+      text-align: center;
+    }
+
+    .quiz-next-btn {
+      padding: 14px 40px;
+      border: none;
+      border-radius: 10px;
+      background: var(--blue);
+      color: white;
+      font-size: 15px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .quiz-next-btn:hover { background: #1d4ed8; }
+
+    /* Results */
+    .results-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 32px 28px;
+      box-shadow: var(--shadow);
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .score-ring {
+      width: 120px;
+      height: 120px;
+      margin: 0 auto 20px;
+      position: relative;
+    }
+
+    .score-ring svg {
+      width: 100%;
+      height: 100%;
+      transform: rotate(-90deg);
+    }
+
+    .score-ring .bg {
+      fill: none;
+      stroke: var(--border);
+      stroke-width: 8;
+    }
+
+    .score-ring .fill-ring {
+      fill: none;
+      stroke-width: 8;
+      stroke-linecap: round;
+      transition: stroke-dashoffset 1s ease;
+    }
+
+    .score-ring .score-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 28px;
+      font-weight: 800;
+    }
+
+    .verdict {
+      font-size: 18px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+
+    .verdict.excellent { color: var(--green); }
+    .verdict.good { color: var(--amber); }
+    .verdict.review { color: var(--red); }
+
+    .results-detail {
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 24px;
+    }
+
+    .wrong-list {
+      text-align: left;
+      margin-bottom: 24px;
+    }
+
+    .wrong-list h3 {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--red);
+      margin-bottom: 12px;
+    }
+
+    .wrong-item {
+      background: var(--red-bg);
+      border: 1px solid #FECACA;
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 8px;
+    }
+
+    .wrong-item .wi-word {
+      font-weight: 800;
+      font-size: 15px;
+      margin-bottom: 4px;
+    }
+
+    .wrong-item .wi-answer {
+      font-size: 13px;
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    .wrong-item .wi-picked {
+      font-size: 13px;
+      color: var(--red);
+      font-weight: 600;
+    }
+
+    .results-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .results-actions button {
+      width: 100%;
+      padding: 14px;
+      border-radius: 10px;
+      font-size: 15px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.15s;
+      border: 1px solid var(--border);
+      background: var(--card);
+      color: var(--text);
+    }
+
+    .results-actions button:hover {
+      border-color: var(--blue);
+      color: var(--blue);
+    }
+
+    .results-actions button.primary {
+      background: var(--blue);
+      color: white;
+      border-color: var(--blue);
+    }
+
+    .results-actions button.primary:hover { background: #1d4ed8; }
+
+    .hidden { display: none !important; }
+
+    @media (max-width: 600px) {
+      .wrap { padding: 16px 14px 80px; }
+      .study-card { padding: 24px 20px; }
+      .study-card .word { font-size: 26px; }
+      .study-card .meanings { font-size: 16px; }
+      .quiz-card { padding: 24px 20px; }
+      .quiz-word { font-size: 24px; }
+      .group-grid { grid-template-columns: repeat(3, 1fr); gap: 8px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <a href="index.html" class="back-btn">&larr;</a>
+        <div>
+          <h1>학습 모드</h1>
+          <div class="sub" id="subtitleTop">Word List</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <!-- Screen 1: Group Selection -->
+    <div id="groupScreen">
+      <div class="hero-card">
+        <h2 id="heroTitle">그룹을 선택하세요</h2>
+        <p id="heroDesc">10개씩 나눠서 단어를 학습한 후 퀴즈를 풀어보세요</p>
+        <div class="hero-stats">
+          <div class="hero-stat">
+            <div class="val" id="totalWords">0</div>
+            <div class="lbl">전체 단어</div>
+          </div>
+          <div class="hero-stat">
+            <div class="val" id="totalGroups">0</div>
+            <div class="lbl">그룹 수</div>
+          </div>
+          <div class="hero-stat">
+            <div class="val" id="completedGroups">0</div>
+            <div class="lbl">완료</div>
+          </div>
+        </div>
+      </div>
+      <div class="group-grid" id="groupGrid"></div>
+    </div>
+
+    <!-- Screen 2: Study Phase -->
+    <div id="studyScreen" class="hidden">
+      <div class="study-progress">
+        <span class="counter" id="studyCounter">1 / 10</span>
+        <div class="progress-bar"><div class="fill" id="studyFill"></div></div>
+      </div>
+      <div class="study-card" id="studyCard"></div>
+      <div class="study-controls">
+        <button id="studyPrev" disabled>&larr; 이전</button>
+        <button id="studyNext">다음 &rarr;</button>
+        <button id="startQuizBtn" class="primary hidden">퀴즈 시작</button>
+      </div>
+    </div>
+
+    <!-- Screen 3: Quiz Phase -->
+    <div id="quizScreen" class="hidden">
+      <div class="quiz-header">
+        <span class="counter" id="quizCounter">1 / 10</span>
+        <span class="score" id="quizScore"></span>
+      </div>
+      <div id="quizCard"></div>
+      <div class="quiz-next-wrap hidden" id="quizNextWrap">
+        <button class="quiz-next-btn" id="quizNextBtn">다음 &rarr;</button>
+      </div>
+    </div>
+
+    <!-- Screen 4: Results -->
+    <div id="resultsScreen" class="hidden"></div>
+  </div>
+
+  <script>
+    // ── Config ──
+    const urlParams = new URLSearchParams(window.location.search);
+    const WORDLIST_NUMBER = urlParams.get('list') || '28';
+    const STORAGE_KEY = `gre_study_progress_wordlist_${WORDLIST_NUMBER}`;
+
+    let ALL_WORDS = [];
+    let GROUPS = [];
+    let currentGroup = -1;
+    let currentStudyIndex = 0;
+    let quizQuestions = [];
+    let currentQuizIndex = 0;
+    let quizCorrect = 0;
+    let quizAnswered = [];
+
+    // ── Init ──
+    document.getElementById('subtitleTop').textContent = `Word List ${WORDLIST_NUMBER}`;
+
+    async function init() {
+      try {
+        const res = await fetch(`data/GRE_wordlist${WORDLIST_NUMBER}.json`);
+        if (!res.ok) throw new Error('Not found');
+        ALL_WORDS = await res.json();
+      } catch (e) {
+        document.getElementById('heroTitle').textContent = '데이터를 불러올 수 없습니다';
+        document.getElementById('heroDesc').textContent = `Word List ${WORDLIST_NUMBER}이(가) 존재하지 않습니다.`;
+        return;
+      }
+
+      // Divide into groups of 10
+      GROUPS = [];
+      for (let i = 0; i < ALL_WORDS.length; i += 10) {
+        GROUPS.push(ALL_WORDS.slice(i, i + 10));
+      }
+
+      document.getElementById('totalWords').textContent = ALL_WORDS.length;
+      document.getElementById('totalGroups').textContent = GROUPS.length;
+      renderGroupSelector();
+    }
+
+    // ── Progress persistence ──
+    function loadProgress() {
+      try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); }
+      catch { return {}; }
+    }
+
+    function saveGroupDone(groupIdx, score, total) {
+      const p = loadProgress();
+      if (!p.groups) p.groups = {};
+      p.groups[groupIdx] = { completed: true, score, total, lastAttempt: new Date().toISOString() };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(p));
+    }
+
+    // ── Screen 1: Group Selector ──
+    function renderGroupSelector() {
+      const progress = loadProgress();
+      const grid = document.getElementById('groupGrid');
+      grid.innerHTML = '';
+
+      let done = 0;
+      GROUPS.forEach((group, idx) => {
+        const start = idx * 10 + 1;
+        const end = idx * 10 + group.length;
+        const gp = progress.groups?.[idx];
+        if (gp?.completed) done++;
+
+        const btn = document.createElement('button');
+        btn.className = 'group-btn';
+        btn.innerHTML = `
+          <div class="group-num">그룹 ${idx + 1}</div>
+          <div class="group-range">${start} – ${end}</div>
+          <div class="group-status ${gp?.completed ? 'done' : 'not-done'}">
+            ${gp?.completed ? `✓ ${gp.score}/${gp.total}` : '미완료'}
+          </div>
+        `;
+        btn.addEventListener('click', () => selectGroup(idx));
+        grid.appendChild(btn);
+      });
+
+      document.getElementById('completedGroups').textContent = done;
+    }
+
+    function showScreen(id) {
+      ['groupScreen', 'studyScreen', 'quizScreen', 'resultsScreen'].forEach(s => {
+        document.getElementById(s).classList.toggle('hidden', s !== id);
+      });
+    }
+
+    // ── Screen 2: Study Phase ──
+    function selectGroup(idx) {
+      currentGroup = idx;
+      currentStudyIndex = 0;
+      showScreen('studyScreen');
+      renderStudyCard();
+    }
+
+    function renderStudyCard() {
+      const group = GROUPS[currentGroup];
+      const word = group[currentStudyIndex];
+      const card = document.getElementById('studyCard');
+
+      const posHtml = word.pos ? `<div class="pos">${word.pos}</div>` : '';
+      const meanings = word.head_meanings.join(', ');
+      const syns = word.synonyms_from_image || [];
+
+      let synHtml = '';
+      if (syns.length > 0) {
+        synHtml = `
+          <div class="syn-label">Synonyms</div>
+          <div class="syn-chips">
+            ${syns.map(s => `<span class="syn-chip">${s}</span>`).join('')}
+          </div>
+        `;
+      }
+
+      card.innerHTML = `
+        <div class="word">${word.word}</div>
+        ${posHtml}
+        <div class="meanings">${meanings}</div>
+        ${synHtml}
+      `;
+      card.style.animation = 'none';
+      card.offsetHeight; // reflow
+      card.style.animation = 'cardIn 0.25s ease';
+
+      // Update counter & progress
+      const total = group.length;
+      document.getElementById('studyCounter').textContent = `${currentStudyIndex + 1} / ${total}`;
+      document.getElementById('studyFill').style.width = `${((currentStudyIndex + 1) / total) * 100}%`;
+
+      // Button states
+      document.getElementById('studyPrev').disabled = currentStudyIndex === 0;
+      const isLast = currentStudyIndex === total - 1;
+      document.getElementById('studyNext').classList.toggle('hidden', isLast);
+      document.getElementById('startQuizBtn').classList.toggle('hidden', !isLast);
+    }
+
+    document.getElementById('studyPrev').addEventListener('click', () => {
+      if (currentStudyIndex > 0) { currentStudyIndex--; renderStudyCard(); }
+    });
+
+    document.getElementById('studyNext').addEventListener('click', () => {
+      const group = GROUPS[currentGroup];
+      if (currentStudyIndex < group.length - 1) { currentStudyIndex++; renderStudyCard(); }
+    });
+
+    document.getElementById('startQuizBtn').addEventListener('click', startQuiz);
+
+    // ── Screen 3: Quiz ──
+    function shuffle(arr) {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    function generateQuiz() {
+      const group = GROUPS[currentGroup];
+      const questions = [];
+
+      for (const word of group) {
+        const hasSyn = word.synonyms_from_image && word.synonyms_from_image.length > 0;
+        const qType = hasSyn ? (Math.random() < 0.5 ? 'synonym' : 'meaning') : 'meaning';
+
+        let correct, distractors, prompt;
+
+        if (qType === 'synonym') {
+          // Pick one random synonym as the correct answer
+          const syns = word.synonyms_from_image;
+          correct = syns[Math.floor(Math.random() * syns.length)];
+          prompt = '다음 단어의 동의어를 고르세요';
+
+          // Collect distractors from other words' synonyms
+          const pool = [];
+          for (const other of ALL_WORDS) {
+            if (other.id === word.id) continue;
+            for (const s of (other.synonyms_from_image || [])) {
+              if (s !== correct && !word.synonyms_from_image.includes(s) && !pool.includes(s)) {
+                pool.push(s);
+              }
+            }
+          }
+          distractors = shuffle(pool).slice(0, 3);
+        } else {
+          // Meaning quiz
+          correct = word.head_meanings.join(', ');
+          prompt = '다음 단어의 뜻을 고르세요';
+
+          const pool = [];
+          for (const other of ALL_WORDS) {
+            if (other.id === word.id) continue;
+            const m = other.head_meanings.join(', ');
+            if (m !== correct && !pool.includes(m)) {
+              pool.push(m);
+            }
+          }
+          distractors = shuffle(pool).slice(0, 3);
+        }
+
+        // If not enough distractors, pad
+        while (distractors.length < 3) {
+          distractors.push(`[보기 ${distractors.length + 2}]`);
+        }
+
+        const options = shuffle([correct, ...distractors]);
+
+        questions.push({
+          word: word.word,
+          pos: word.pos,
+          type: qType,
+          prompt,
+          options,
+          correctIndex: options.indexOf(correct),
+          correctAnswer: correct,
+          meanings: word.head_meanings.join(', '),
+          synonyms: (word.synonyms_from_image || []).join(', ')
+        });
+      }
+
+      return shuffle(questions);
+    }
+
+    function startQuiz() {
+      quizQuestions = generateQuiz();
+      currentQuizIndex = 0;
+      quizCorrect = 0;
+      quizAnswered = new Array(quizQuestions.length).fill(false);
+      showScreen('quizScreen');
+      renderQuizQuestion();
+    }
+
+    function renderQuizQuestion() {
+      const q = quizQuestions[currentQuizIndex];
+      const total = quizQuestions.length;
+
+      document.getElementById('quizCounter').textContent = `${currentQuizIndex + 1} / ${total}`;
+      document.getElementById('quizScore').textContent = `${quizCorrect}점`;
+      document.getElementById('quizNextWrap').classList.add('hidden');
+
+      const labels = ['A', 'B', 'C', 'D'];
+      const posHtml = q.pos ? `<span>${q.pos}</span>` : '';
+
+      const card = document.getElementById('quizCard');
+      card.innerHTML = `
+        <div class="quiz-card">
+          <div style="text-align:center">
+            <span class="quiz-type-badge ${q.type === 'synonym' ? 'synonym' : 'meaning'}">
+              ${q.type === 'synonym' ? '동의어 고르기' : '뜻 고르기'}
+            </span>
+          </div>
+          <div class="quiz-word">${q.word}</div>
+          <div class="quiz-pos">${posHtml}</div>
+          <div class="quiz-prompt">${q.prompt}</div>
+          <div class="quiz-options" id="quizOptions">
+            ${q.options.map((opt, i) => `
+              <button class="quiz-opt" data-idx="${i}">
+                <span class="opt-num">${labels[i]}</span>
+                <span class="opt-text">${opt}</span>
+              </button>
+            `).join('')}
+          </div>
+        </div>
+      `;
+
+      // Attach click handlers
+      card.querySelectorAll('.quiz-opt').forEach(btn => {
+        btn.addEventListener('click', () => selectAnswer(parseInt(btn.dataset.idx)));
+      });
+    }
+
+    function selectAnswer(idx) {
+      if (quizAnswered[currentQuizIndex]) return;
+      quizAnswered[currentQuizIndex] = true;
+
+      const q = quizQuestions[currentQuizIndex];
+      q._userPicked = idx;
+      q._userCorrect = idx === q.correctIndex;
+
+      const isCorrect = idx === q.correctIndex;
+      if (isCorrect) quizCorrect++;
+
+      const opts = document.querySelectorAll('#quizOptions .quiz-opt');
+      opts.forEach(o => o.classList.add('answered'));
+      opts[q.correctIndex].classList.add('correct');
+      if (!isCorrect) opts[idx].classList.add('wrong');
+
+      document.getElementById('quizNextWrap').classList.remove('hidden');
+      document.getElementById('quizScore').textContent = `${quizCorrect}점`;
+    }
+
+    document.getElementById('quizNextBtn').addEventListener('click', () => {
+      if (currentQuizIndex < quizQuestions.length - 1) {
+        currentQuizIndex++;
+        renderQuizQuestion();
+      } else {
+        showResults();
+      }
+    });
+
+    // Keyboard support for quiz
+    document.addEventListener('keydown', (e) => {
+      if (document.getElementById('quizScreen').classList.contains('hidden')) return;
+
+      const key = e.key;
+      if (['1', '2', '3', '4'].includes(key)) {
+        const idx = parseInt(key) - 1;
+        if (idx < quizQuestions[currentQuizIndex]?.options.length) {
+          selectAnswer(idx);
+        }
+      } else if (key === 'Enter' && quizAnswered[currentQuizIndex]) {
+        document.getElementById('quizNextBtn').click();
+      }
+    });
+
+    // ── Screen 4: Results ──
+    function showResults() {
+      const total = quizQuestions.length;
+      const pct = Math.round((quizCorrect / total) * 100);
+
+      // Save progress
+      saveGroupDone(currentGroup, quizCorrect, total);
+
+      let verdictClass, verdictText;
+      if (pct >= 80) { verdictClass = 'excellent'; verdictText = 'EXCELLENT!'; }
+      else if (pct >= 50) { verdictClass = 'good'; verdictText = 'KEEP GOING'; }
+      else { verdictClass = 'review'; verdictText = 'NEED REVIEW'; }
+
+      // Build wrong list
+      let wrongHtml = '';
+      const wrongItems = quizQuestions.filter(q => q._userCorrect === false);
+      if (wrongItems.length > 0) {
+        wrongHtml = `
+          <div class="wrong-list">
+            <h3>틀린 문제 (${wrongItems.length})</h3>
+            ${wrongItems.map(q => `
+              <div class="wrong-item">
+                <div class="wi-word">${q.word}</div>
+                <div class="wi-answer">정답: ${q.correctAnswer}</div>
+                ${q._userPicked !== undefined ? `<div class="wi-picked">선택: ${q.options[q._userPicked]}</div>` : ''}
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      // SVG ring
+      const r = 48;
+      const c = 2 * Math.PI * r;
+      const offset = c - (pct / 100) * c;
+      const strokeColor = pct >= 80 ? 'var(--green)' : pct >= 50 ? 'var(--amber)' : 'var(--red)';
+
+      const hasNextGroup = currentGroup < GROUPS.length - 1;
+
+      const container = document.getElementById('resultsScreen');
+      container.innerHTML = `
+        <div class="results-card">
+          <div class="score-ring">
+            <svg viewBox="0 0 112 112">
+              <circle class="bg" cx="56" cy="56" r="${r}"/>
+              <circle class="fill-ring" cx="56" cy="56" r="${r}"
+                stroke="${strokeColor}"
+                stroke-dasharray="${c}"
+                stroke-dashoffset="${c}"
+                id="scoreRing"/>
+            </svg>
+            <div class="score-text">${quizCorrect}/${total}</div>
+          </div>
+          <div class="verdict ${verdictClass}">${verdictText}</div>
+          <div class="results-detail">${pct}% 정답</div>
+          ${wrongHtml}
+          <div class="results-actions">
+            <button class="primary" id="retryBtn">다시 풀기</button>
+            ${hasNextGroup ? `<button id="nextGroupBtn">다음 그룹 &rarr;</button>` : ''}
+            <button id="backToGroupsBtn">그룹 선택으로</button>
+          </div>
+        </div>
+      `;
+
+      showScreen('resultsScreen');
+
+      // Animate ring
+      requestAnimationFrame(() => {
+        document.getElementById('scoreRing').style.strokeDashoffset = offset;
+      });
+
+      // Button handlers
+      document.getElementById('retryBtn').addEventListener('click', () => {
+        startQuiz();
+      });
+
+      if (hasNextGroup) {
+        document.getElementById('nextGroupBtn').addEventListener('click', () => {
+          selectGroup(currentGroup + 1);
+        });
+      }
+
+      document.getElementById('backToGroupsBtn').addEventListener('click', () => {
+        showScreen('groupScreen');
+        renderGroupSelector();
+      });
+    }
+
+    // Start
+    init();
+  </script>
+</body>
+</html>
