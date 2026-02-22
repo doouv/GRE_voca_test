@@ -235,44 +235,45 @@
       background: var(--card);
       border: 1px solid var(--border);
       border-radius: 16px;
-      padding: 36px 32px;
+      padding: 40px 32px 36px;
       box-shadow: var(--shadow);
       text-align: center;
       animation: cardIn 0.25s ease;
-      min-height: 300px;
+      min-height: 280px;
       display: flex;
       flex-direction: column;
+      align-items: center;
       justify-content: center;
     }
 
     @keyframes cardIn {
-      from { opacity: 0; transform: translateX(20px); }
-      to { opacity: 1; transform: translateX(0); }
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
     }
 
     .study-card .word {
-      font-size: 36px;
+      font-size: 38px;
       font-weight: 800;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
       letter-spacing: -0.5px;
     }
 
     .study-card .pos {
       display: inline-block;
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 600;
       color: var(--blue);
       background: var(--blue-bg);
       padding: 3px 14px;
       border-radius: 999px;
-      margin-bottom: 20px;
+      margin-bottom: 24px;
     }
 
     .study-card .meanings {
-      font-size: 20px;
+      font-size: 21px;
       font-weight: 600;
       color: var(--text);
-      margin-bottom: 24px;
+      margin-bottom: 0;
       line-height: 1.7;
       font-family: 'Pretendard Variable', sans-serif;
     }
@@ -282,11 +283,11 @@
       height: 3px;
       background: var(--border);
       border-radius: 2px;
-      margin: 0 auto 20px;
+      margin: 24px auto 16px;
     }
 
     .study-card .syn-label {
-      font-size: 12px;
+      font-size: 11px;
       font-weight: 700;
       color: var(--muted);
       text-transform: uppercase;
@@ -310,27 +311,57 @@
       border-radius: 999px;
     }
 
-    .tips-box {
+    /* Speech bubble tips */
+    .tips-bubble {
+      position: relative;
       text-align: left;
-      background: var(--amber-bg);
-      border: 1px solid #FDE68A;
-      border-radius: 12px;
-      padding: 16px 18px;
+      background: #1e293b;
+      color: #f1f5f9;
+      border-radius: 16px;
+      padding: 16px 20px;
+      margin-top: 24px;
+      width: 100%;
+      box-sizing: border-box;
     }
 
-    .tips-box .tip-item {
+    .tips-bubble::before {
+      content: '';
+      position: absolute;
+      top: -8px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 0; height: 0;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 8px solid #1e293b;
+    }
+
+    .tips-bubble .tip-label {
+      font-size: 11px;
+      font-weight: 700;
+      color: #94a3b8;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .tips-bubble .tip-item {
       font-size: 15px;
-      color: #92400E;
+      color: #e2e8f0;
       line-height: 1.8;
       font-family: 'Pretendard Variable', sans-serif;
-      margin-bottom: 6px;
+      margin-bottom: 4px;
     }
 
-    .tips-box .tip-item:last-child { margin-bottom: 0; }
+    .tips-bubble .tip-item:last-child { margin-bottom: 0; }
 
-    .tips-box .tip-item code {
-      background: rgba(0,0,0,0.06);
-      padding: 1px 6px;
+    .tips-bubble .tip-item code {
+      background: rgba(255,255,255,0.12);
+      color: #7dd3fc;
+      padding: 1px 7px;
       border-radius: 4px;
       font-size: 14px;
       font-family: 'Outfit', monospace;
@@ -686,7 +717,8 @@
       .study-card { padding: 28px 20px; }
       .study-card .word { font-size: 30px; }
       .study-card .meanings { font-size: 18px; }
-      .tips-box .tip-item { font-size: 14px; }
+      .tips-bubble { padding: 14px 16px; }
+      .tips-bubble .tip-item { font-size: 14px; }
       .quiz-card { padding: 24px 20px; }
       .quiz-word { font-size: 24px; }
       .group-grid { grid-template-columns: repeat(3, 1fr); gap: 8px; }
@@ -882,9 +914,8 @@
             t.replace(/`([^`]+)`/g, '<code>$1</code>')
           );
           extraHtml = `
-            <div class="section-divider"></div>
-            <div class="syn-label">Tips</div>
-            <div class="tips-box">
+            <div class="tips-bubble">
+              <div class="tip-label">💡 Tip</div>
               ${formattedTips.map(t => `<div class="tip-item">${t}</div>`).join('')}
             </div>
           `;

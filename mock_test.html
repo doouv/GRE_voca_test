@@ -341,15 +341,37 @@
     }
 
     // ── Render ──
+    function inflectPattern(word) {
+      // Build regex pattern for a single English word that matches inflected forms
+      const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const suffixes = '(?:s|es|ed|d|ing|ment|ments|ly|er|ers|est|tion|tions|ness|ous|ive|al|ful|able|ible)?';
+      const base = escaped;
+      const baseNoE = base.endsWith('e') ? base.slice(0, -1) : null;
+      if (baseNoE) {
+        return `(?:${base}${suffixes}|${baseNoE}(?:ing|ed|er|ers|est|ation|ations))`;
+      }
+      const lastChar = base.slice(-1);
+      const isConsonant = /[bcdfghjklmnpqrstvwxyz]/i.test(lastChar);
+      if (isConsonant) {
+        return `${base}(?:${lastChar}(?:ing|ed|er|ers|est))?${suffixes}`;
+      }
+      return `${base}${suffixes}`;
+    }
+
     function highlightWordsInSource(source, words) {
       let html = source;
-      // Sort words by length (longest first) to avoid partial replacements
       const sorted = [...words].sort((a, b) => b.word.length - a.word.length);
       for (const w of sorted) {
-        // Escape special regex chars
-        const escaped = w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        const re = new RegExp(`\\b${escaped}\\b`, 'gi');
-        html = html.replace(re, `<em>${w.word}</em>`);
+        const rawParts = w.word.split(/\s+/);
+        let pattern;
+        if (rawParts.length > 1) {
+          // Multi-word: apply inflection to each word in the phrase
+          pattern = rawParts.map(p => inflectPattern(p)).join('\\s+');
+        } else {
+          pattern = inflectPattern(w.word);
+        }
+        const re = new RegExp(`\\b${pattern}\\b`, 'gi');
+        html = html.replace(re, (match) => `<em>${match}</em>`);
       }
       return html;
     }
