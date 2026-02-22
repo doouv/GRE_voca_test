@@ -220,6 +220,94 @@
     .verdict.good { color: var(--amber); }
     .verdict.review { color: var(--red); }
 
+    /* Show Results Button */
+    .show-results-bar {
+      display: none;
+      position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-top: 1px solid var(--border);
+      padding: 14px 20px;
+      text-align: center;
+      animation: slideUp .3s ease;
+    }
+    .show-results-bar.show { display: block; }
+    @keyframes slideUp {
+      from { transform: translateY(100%); }
+      to { transform: translateY(0); }
+    }
+    .show-results-bar button {
+      padding: 14px 48px; border: none; border-radius: 12px;
+      background: var(--blue); color: white;
+      font-size: 16px; font-weight: 800; font-family: inherit;
+      cursor: pointer; transition: all 0.15s;
+      box-shadow: 0 4px 12px rgba(37,99,235,0.3);
+    }
+    .show-results-bar button:hover { background: #1d4ed8; }
+    .show-results-bar .bar-hint {
+      font-size: 12px; color: var(--muted); margin-bottom: 6px;
+    }
+
+    /* Final Results Overlay */
+    .final-results-overlay {
+      display: none; position: fixed; inset: 0; z-index: 300;
+      background: rgba(0,0,0,0.5);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      overflow-y: auto;
+      padding: 40px 20px;
+    }
+    .final-results-overlay.show { display: flex; align-items: center; justify-content: center; }
+    .final-results-card {
+      background: var(--card); border-radius: 20px;
+      padding: 40px 32px; max-width: 480px; width: 100%;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.15);
+      text-align: center; position: relative;
+      animation: cardSlideIn .4s ease;
+    }
+    .final-results-card .cert-badge {
+      display: inline-block; font-size: 11px; font-weight: 700;
+      text-transform: uppercase; letter-spacing: 1px;
+      color: var(--muted); border: 1px solid var(--border);
+      padding: 4px 14px; border-radius: 999px; margin-bottom: 20px;
+    }
+    .final-results-card .cert-title {
+      font-size: 22px; font-weight: 800; margin-bottom: 4px;
+    }
+    .final-results-card .cert-date {
+      font-size: 13px; color: var(--muted); margin-bottom: 24px;
+    }
+    .final-results-card .cert-stats {
+      display: flex; justify-content: center; gap: 24px;
+      margin: 20px 0 24px;
+    }
+    .final-results-card .cert-stat .val {
+      font-size: 28px; font-weight: 800;
+    }
+    .final-results-card .cert-stat .val.green { color: var(--green); }
+    .final-results-card .cert-stat .val.red { color: var(--red); }
+    .final-results-card .cert-stat .lbl {
+      font-size: 11px; font-weight: 600; color: var(--muted);
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .final-results-card .cert-actions {
+      display: flex; flex-direction: column; gap: 10px; margin-top: 24px;
+    }
+    .final-results-card .cert-actions button {
+      width: 100%; padding: 14px; border-radius: 10px;
+      font-size: 15px; font-weight: 700; font-family: inherit;
+      cursor: pointer; transition: all 0.15s;
+      border: 1px solid var(--border); background: var(--card); color: var(--text);
+    }
+    .final-results-card .cert-actions button:hover {
+      border-color: var(--blue); color: var(--blue);
+    }
+    .final-results-card .cert-actions button.primary {
+      background: var(--blue); color: white; border-color: var(--blue);
+    }
+    .final-results-card .cert-actions button.primary:hover { background: #1d4ed8; }
+
     /* Self-grade buttons */
     .self-grade-row {
       display: none; margin-top: 10px;
@@ -451,6 +539,52 @@
     </div>
   </div>
 
+  <!-- Show Results Bar (fixed bottom) -->
+  <div class="show-results-bar" id="showResultsBar">
+    <div class="bar-hint">모든 단어의 자기 채점이 완료되었습니다</div>
+    <button id="showResultsBtn">결과 보기</button>
+  </div>
+
+  <!-- Final Results Overlay -->
+  <div class="final-results-overlay" id="finalResultsOverlay">
+    <div class="final-results-card">
+      <div class="cert-badge">Mock Test Certificate</div>
+      <div class="cert-title" id="certTitle">Magoosh 1</div>
+      <div class="cert-date" id="certDate"></div>
+      <div class="score-ring">
+        <svg viewBox="0 0 112 112">
+          <circle class="bg" cx="56" cy="56" r="48"/>
+          <circle class="fill-ring" cx="56" cy="56" r="48"
+            stroke="var(--green)"
+            stroke-dasharray="301.59"
+            stroke-dashoffset="301.59"
+            id="finalScoreRing"/>
+        </svg>
+        <div class="score-text" id="finalScoreText">0/0</div>
+      </div>
+      <div class="verdict" id="finalVerdict">EXCELLENT!</div>
+      <div class="cert-stats">
+        <div class="cert-stat">
+          <div class="val green" id="finalCorrectCount">0</div>
+          <div class="lbl">정답</div>
+        </div>
+        <div class="cert-stat">
+          <div class="val red" id="finalWrongCount">0</div>
+          <div class="lbl">오답</div>
+        </div>
+        <div class="cert-stat">
+          <div class="val" id="finalTotalCount">0</div>
+          <div class="lbl">전체</div>
+        </div>
+      </div>
+      <div class="cert-actions">
+        <button id="closeResultsBtn">돌아가기</button>
+        <button onclick="localStorage.removeItem(STORAGE_KEY); location.reload();">다시 풀기</button>
+        <button class="primary" onclick="location.href='index.html'">홈으로</button>
+      </div>
+    </div>
+  </div>
+
   <script>
     // ── Config ──
     const urlParams = new URLSearchParams(window.location.search);
@@ -602,6 +736,7 @@
             if (b.dataset.val === val) b.classList.add('selected');
           });
           debounceSave();
+          checkAllGraded();
         });
       });
     }
@@ -727,6 +862,9 @@
       setupCardModeGradeTracking();
 
       if (!savedData) saveAnswers();
+
+      // Check if all already graded (restore case)
+      checkAllGraded();
     }
 
     // ── Reset ──
@@ -869,6 +1007,91 @@
         cardPrev();
       }
     });
+
+    // ── Check all graded → show results bar ──
+    function checkAllGraded() {
+      if (!isGraded) return;
+      const allGraded = ALL_WORDS.every(w => {
+        const row = document.getElementById(`grade-row-${w.id}`);
+        return row && row.querySelector('.self-grade-btn.selected');
+      });
+      const bar = document.getElementById('showResultsBar');
+      if (allGraded) {
+        bar.classList.add('show');
+      } else {
+        bar.classList.remove('show');
+      }
+    }
+
+    document.getElementById('showResultsBtn').addEventListener('click', showFinalResults);
+    document.getElementById('closeResultsBtn').addEventListener('click', () => {
+      document.getElementById('finalResultsOverlay').classList.remove('show');
+    });
+    document.getElementById('finalResultsOverlay').addEventListener('click', (e) => {
+      if (e.target === document.getElementById('finalResultsOverlay')) {
+        document.getElementById('finalResultsOverlay').classList.remove('show');
+      }
+    });
+
+    function showFinalResults() {
+      let correct = 0;
+      let wrong = 0;
+      ALL_WORDS.forEach(w => {
+        const row = document.getElementById(`grade-row-${w.id}`);
+        const sel = row?.querySelector('.self-grade-btn.selected');
+        if (sel && sel.dataset.val === 'o') correct++;
+        else wrong++;
+      });
+
+      const total = ALL_WORDS.length;
+      const pct = Math.round((correct / total) * 100);
+
+      // Score ring
+      const r = 48;
+      const c = 2 * Math.PI * r;
+      const offset = c - (pct / 100) * c;
+      const strokeColor = pct >= 80 ? 'var(--green)' : pct >= 50 ? 'var(--amber)' : 'var(--red)';
+
+      const ring = document.getElementById('finalScoreRing');
+      ring.setAttribute('stroke', strokeColor);
+      ring.style.strokeDashoffset = c;
+
+      document.getElementById('finalScoreText').textContent = `${correct}/${total}`;
+      document.getElementById('finalCorrectCount').textContent = correct;
+      document.getElementById('finalWrongCount').textContent = wrong;
+      document.getElementById('finalTotalCount').textContent = total;
+
+      let verdictClass, verdictText;
+      if (pct >= 80) { verdictClass = 'excellent'; verdictText = 'EXCELLENT!'; }
+      else if (pct >= 50) { verdictClass = 'good'; verdictText = 'KEEP GOING'; }
+      else { verdictClass = 'review'; verdictText = 'NEED REVIEW'; }
+
+      const verdict = document.getElementById('finalVerdict');
+      verdict.className = `verdict ${verdictClass}`;
+      verdict.textContent = verdictText;
+
+      document.getElementById('certTitle').textContent = displayName;
+      const now = new Date();
+      document.getElementById('certDate').textContent =
+        `${now.getFullYear()}. ${now.getMonth() + 1}. ${now.getDate()}. ${String(now.getHours()).padStart(2, '0')}:${String(now.getMinutes()).padStart(2, '0')}`;
+
+      document.getElementById('finalResultsOverlay').classList.add('show');
+
+      // Animate ring after overlay visible
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          ring.style.strokeDashoffset = offset;
+        });
+      });
+
+      // Save score to meta
+      const data = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+      data._meta = data._meta || {};
+      data._meta.score = correct;
+      data._meta.total = total;
+      data._meta.completedAt = now.toISOString();
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    }
 
     // When self-grade buttons are clicked in card mode, track card-level score
     function setupCardModeGradeTracking() {
