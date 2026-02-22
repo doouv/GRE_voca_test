@@ -728,8 +728,12 @@
   <script>
     // ── Config ──
     const urlParams = new URLSearchParams(window.location.search);
-    const WORDLIST_NUMBER = urlParams.get('list') || '28';
-    const STORAGE_KEY = `gre_study_progress_wordlist_${WORDLIST_NUMBER}`;
+    const WORDLIST_NUMBER = urlParams.get('list');
+    const MOCK_ID = urlParams.get('mock');
+    const IS_MOCK = !!MOCK_ID;
+    const STORAGE_KEY = IS_MOCK
+      ? `gre_study_progress_mock_${MOCK_ID}`
+      : `gre_study_progress_wordlist_${WORDLIST_NUMBER}`;
 
     let ALL_WORDS = [];
     let GROUPS = [];
@@ -741,16 +745,22 @@
     let quizAnswered = [];
 
     // ── Init ──
-    document.getElementById('subtitleTop').textContent = `Word List ${WORDLIST_NUMBER}`;
+    const displayName = IS_MOCK
+      ? MOCK_ID.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+      : `Word List ${WORDLIST_NUMBER}`;
+    document.getElementById('subtitleTop').textContent = displayName;
 
     async function init() {
       try {
-        const res = await fetch(`data/GRE_wordlist${WORDLIST_NUMBER}.json`);
+        const url = IS_MOCK
+          ? `data/Mock_${MOCK_ID}.json`
+          : `data/GRE_wordlist${WORDLIST_NUMBER}.json`;
+        const res = await fetch(url);
         if (!res.ok) throw new Error('Not found');
         ALL_WORDS = await res.json();
       } catch (e) {
         document.getElementById('heroTitle').textContent = '데이터를 불러올 수 없습니다';
-        document.getElementById('heroDesc').textContent = `Word List ${WORDLIST_NUMBER}이(가) 존재하지 않습니다.`;
+        document.getElementById('heroDesc').textContent = `${displayName}이(가) 존재하지 않습니다.`;
         return;
       }
 
@@ -828,23 +838,35 @@
 
       const posHtml = word.pos ? `<div class="pos">${word.pos}</div>` : '';
       const meanings = word.head_meanings.join(', ');
-      const syns = word.synonyms_from_image || [];
 
-      let synHtml = '';
-      if (syns.length > 0) {
-        synHtml = `
-          <div class="syn-label">Synonyms</div>
-          <div class="syn-chips">
-            ${syns.map(s => `<span class="syn-chip">${s}</span>`).join('')}
-          </div>
-        `;
+      let extraHtml = '';
+      if (IS_MOCK) {
+        const tips = word.tips || [];
+        if (tips.length > 0) {
+          extraHtml = `
+            <div class="syn-label">Tips</div>
+            <div style="text-align:left; font-size:13px; color:var(--muted); line-height:1.7; font-family:'Pretendard Variable',sans-serif;">
+              ${tips.map(t => `<div style="margin-bottom:4px;">${t}</div>`).join('')}
+            </div>
+          `;
+        }
+      } else {
+        const syns = word.synonyms_from_image || [];
+        if (syns.length > 0) {
+          extraHtml = `
+            <div class="syn-label">Synonyms</div>
+            <div class="syn-chips">
+              ${syns.map(s => `<span class="syn-chip">${s}</span>`).join('')}
+            </div>
+          `;
+        }
       }
 
       card.innerHTML = `
         <div class="word">${word.word}</div>
         ${posHtml}
         <div class="meanings">${meanings}</div>
-        ${synHtml}
+        ${extraHtml}
       `;
       card.style.animation = 'none';
       card.offsetHeight; // reflow
@@ -888,7 +910,7 @@
       const questions = [];
 
       for (const word of group) {
-        const hasSyn = word.synonyms_from_image && word.synonyms_from_image.length > 0;
+        const hasSyn = !IS_MOCK && word.synonyms_from_image && word.synonyms_from_image.length > 0;
         const qType = hasSyn ? (Math.random() < 0.5 ? 'synonym' : 'meaning') : 'meaning';
 
         let correct, distractors, prompt;

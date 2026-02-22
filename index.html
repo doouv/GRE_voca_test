@@ -395,7 +395,14 @@
     <div class="wordlist-grid" id="wordlistGrid">
       <!-- Dynamically populated -->
     </div>
-    
+
+    <hr style="border: none; border-top: 1px solid var(--border); margin: 40px 0;">
+
+    <div class="section-title">📝 Mock Tests</div>
+    <div class="wordlist-grid" id="mockGrid">
+      <!-- Dynamically populated -->
+    </div>
+
     <div class="footer">
       GRE Vocabulary Practice · 데이터는 브라우저에 저장됩니다<br>
       Made by 두두
@@ -485,7 +492,7 @@
           const listNum = i;
           card.addEventListener('click', (e) => {
             e.preventDefault();
-            openModeModal(listNum);
+            openModeModal(listNum, null);
           });
         }
         
@@ -520,22 +527,57 @@
     
     renderWordlists();
 
+    // Mock Tests
+    const AVAILABLE_MOCKS = [
+      { id: 'magoosh_1', label: 'Magoosh 1' }
+    ];
+
+    function renderMocks() {
+      const grid = document.getElementById('mockGrid');
+      grid.innerHTML = '';
+      AVAILABLE_MOCKS.forEach(mock => {
+        const card = document.createElement('a');
+        card.className = 'wordlist-card';
+        card.href = '#';
+        card.addEventListener('click', (e) => {
+          e.preventDefault();
+          openModeModal(mock.label, mock.id);
+        });
+        card.innerHTML = `
+          <div style="font-size:11px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:2px;">Mock</div>
+          <div class="number" style="font-size:16px;">${mock.label}</div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+    renderMocks();
+
     // Mode Selection Modal Logic
     let selectedListNum = null;
+    let selectedMockId = null;
     const modeModal = document.getElementById('modeModalOverlay');
 
-    function openModeModal(listNum) {
-      selectedListNum = listNum;
-      document.getElementById('modeModalTitle').textContent = `Word List ${listNum}`;
+    function openModeModal(title, mockId) {
+      selectedMockId = mockId || null;
+      selectedListNum = mockId ? null : title;
+      document.getElementById('modeModalTitle').textContent = mockId ? title : `Word List ${title}`;
       modeModal.classList.add('active');
     }
 
     document.getElementById('modeStudyBtn').addEventListener('click', () => {
-      window.location.href = `study.html?list=${selectedListNum}`;
+      if (selectedMockId) {
+        window.location.href = `study.html?mock=${selectedMockId}`;
+      } else {
+        window.location.href = `study.html?list=${selectedListNum}`;
+      }
     });
 
     document.getElementById('modeTestBtn').addEventListener('click', () => {
-      window.location.href = `test.html?list=${selectedListNum}`;
+      if (selectedMockId) {
+        window.location.href = `mock_test.html?mock=${selectedMockId}`;
+      } else {
+        window.location.href = `test.html?list=${selectedListNum}`;
+      }
     });
 
     document.getElementById('modeCancelBtn').addEventListener('click', () => {

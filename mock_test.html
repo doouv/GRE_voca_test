@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <title>Mock Test</title>
+  <style>
+    :root {
+      --bg: #FAFAFA;
+      --card: #FFFFFF;
+      --border: #E5E7EB;
+      --text: #111827;
+      --muted: #9CA3AF;
+      --green: #16A34A;
+      --green-bg: #F0FDF4;
+      --red: #DC2626;
+      --red-bg: #FEF2F2;
+      --blue: #2563EB;
+      --blue-bg: #EFF6FF;
+      --amber: #D97706;
+      --amber-bg: #FFFBEB;
+      --shadow: 0 1px 3px rgba(0,0,0,.04), 0 6px 16px rgba(0,0,0,.06);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Outfit', 'Pretendard Variable', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    /* Top Bar */
+    .topbar {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(255,255,255,0.85);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+    }
+    .topbar-inner {
+      max-width: 800px; margin: 0 auto;
+      padding: 14px 20px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .brand { display: flex; align-items: center; gap: 12px; }
+    .back-btn {
+      width: 36px; height: 36px; border-radius: 8px;
+      border: 1px solid var(--border); background: var(--card);
+      display: flex; align-items: center; justify-content: center;
+      text-decoration: none; color: var(--text); font-size: 18px;
+      transition: all 0.15s;
+    }
+    .back-btn:hover { background: var(--bg); }
+    .brand h1 { font-size: 18px; font-weight: 800; letter-spacing: -0.3px; }
+    .brand .sub { font-size: 13px; color: var(--muted); font-weight: 500; }
+    .topbar-actions { display: flex; gap: 8px; }
+    .top-btn {
+      padding: 8px 16px; border-radius: 8px; border: 1px solid var(--border);
+      background: var(--card); font-size: 13px; font-weight: 700;
+      font-family: inherit; cursor: pointer; transition: all 0.15s;
+      color: var(--text);
+    }
+    .top-btn:hover { border-color: var(--blue); color: var(--blue); }
+    .top-btn.primary { background: var(--blue); color: white; border-color: var(--blue); }
+    .top-btn.primary:hover { background: #1d4ed8; }
+
+    .wrap { max-width: 800px; margin: 0 auto; padding: 24px 20px 80px; }
+
+    /* Hero */
+    .hero-card {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 16px; padding: 28px; margin-bottom: 24px;
+      box-shadow: var(--shadow); text-align: center;
+    }
+    .hero-card h2 { font-size: 22px; font-weight: 800; margin-bottom: 8px; }
+    .hero-card p { color: var(--muted); font-size: 14px; line-height: 1.5; }
+    .hero-stats {
+      display: flex; justify-content: center; gap: 24px; margin-top: 16px;
+    }
+    .hero-stat { text-align: center; }
+    .hero-stat .val { font-size: 24px; font-weight: 800; }
+    .hero-stat .lbl {
+      font-size: 11px; color: var(--muted); font-weight: 600;
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+
+    /* Source Block */
+    .source-block {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 16px; padding: 24px; margin-bottom: 20px;
+      box-shadow: var(--shadow);
+    }
+    .source-header {
+      display: flex; align-items: center; gap: 10px; margin-bottom: 16px;
+    }
+    .source-num {
+      width: 32px; height: 32px; border-radius: 8px;
+      background: var(--blue); color: white;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 14px; font-weight: 800; flex-shrink: 0;
+    }
+    .source-label {
+      font-size: 13px; font-weight: 700; color: var(--muted);
+      text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .source-passage {
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: 10px; padding: 16px 18px;
+      font-size: 14px; line-height: 1.8; color: var(--text);
+      margin-bottom: 20px;
+      font-family: 'Georgia', 'Times New Roman', serif;
+    }
+    .source-passage em {
+      font-style: normal; text-decoration: underline;
+      text-decoration-color: var(--blue); text-underline-offset: 3px;
+    }
+
+    /* Word Sub-question */
+    .word-sub {
+      padding: 14px 0;
+      border-top: 1px solid var(--border);
+    }
+    .word-sub:first-child { border-top: none; }
+    .word-sub-header {
+      display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
+      flex-wrap: wrap;
+    }
+    .word-sub-num {
+      font-size: 12px; font-weight: 700; color: var(--muted);
+    }
+    .word-sub-word {
+      font-size: 16px; font-weight: 800;
+    }
+    .word-sub-pos {
+      font-size: 12px; font-weight: 600; color: var(--blue);
+      background: var(--blue-bg); padding: 1px 8px; border-radius: 999px;
+    }
+    .word-sub textarea {
+      width: 100%; min-height: 40px; padding: 10px 12px;
+      border: 1px solid var(--border); border-radius: 8px;
+      font-size: 14px; font-family: 'Pretendard Variable', sans-serif;
+      resize: vertical; transition: border-color 0.2s;
+      background: var(--card);
+    }
+    .word-sub textarea:focus {
+      outline: none; border-color: var(--blue);
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+    }
+    .word-sub textarea:disabled {
+      background: var(--bg);
+    }
+    .answer-reveal {
+      display: none; margin-top: 8px; padding: 10px 12px;
+      border-radius: 8px; font-size: 13px; line-height: 1.6;
+      font-family: 'Pretendard Variable', sans-serif;
+    }
+    .answer-reveal.show { display: block; }
+    .answer-reveal.correct {
+      background: var(--green-bg); color: var(--green); border: 1px solid #BBF7D0;
+    }
+    .answer-reveal.wrong {
+      background: var(--red-bg); color: var(--red); border: 1px solid #FECACA;
+    }
+    .answer-reveal .ans-label {
+      font-weight: 700; margin-bottom: 2px;
+    }
+    .answer-reveal .ans-tips {
+      margin-top: 6px; color: var(--muted); font-size: 12px;
+    }
+
+    /* Result badge on source block */
+    .source-block .result-badge {
+      display: none; float: right; font-size: 12px; font-weight: 700;
+      padding: 3px 10px; border-radius: 999px;
+    }
+    .source-block .result-badge.show { display: inline-block; }
+
+    /* Score Ring */
+    .score-ring {
+      width: 120px; height: 120px; margin: 0 auto 20px; position: relative;
+    }
+    .score-ring svg { width: 100%; height: 100%; transform: rotate(-90deg); }
+    .score-ring .bg { fill: none; stroke: var(--border); stroke-width: 8; }
+    .score-ring .fill-ring {
+      fill: none; stroke-width: 8; stroke-linecap: round;
+      transition: stroke-dashoffset 1s ease;
+    }
+    .score-ring .score-text {
+      position: absolute; top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 28px; font-weight: 800;
+    }
+    .verdict { font-size: 18px; font-weight: 800; margin-bottom: 8px; }
+    .verdict.excellent { color: var(--green); }
+    .verdict.good { color: var(--amber); }
+    .verdict.review { color: var(--red); }
+
+    /* Self-grade buttons */
+    .self-grade-row {
+      display: none; margin-top: 8px;
+      gap: 8px;
+    }
+    .self-grade-row.show { display: flex; }
+    .self-grade-btn {
+      flex: 1; padding: 8px; border-radius: 8px; border: 1px solid var(--border);
+      font-size: 14px; font-weight: 700; font-family: inherit;
+      cursor: pointer; transition: all 0.15s; background: var(--card);
+    }
+    .self-grade-btn.o { color: var(--green); }
+    .self-grade-btn.o:hover { background: var(--green-bg); border-color: var(--green); }
+    .self-grade-btn.x { color: var(--red); }
+    .self-grade-btn.x:hover { background: var(--red-bg); border-color: var(--red); }
+    .self-grade-btn.selected { pointer-events: none; }
+    .self-grade-btn.o.selected { background: var(--green-bg); border-color: var(--green); }
+    .self-grade-btn.x.selected { background: var(--red-bg); border-color: var(--red); }
+    .self-grade-btn:not(.selected) { opacity: 0.3; }
+    .self-grade-btn.pending { opacity: 1; }
+
+    .hidden { display: none !important; }
+
+    @media (max-width: 600px) {
+      .wrap { padding: 16px 14px 80px; }
+      .source-block { padding: 18px 16px; }
+      .source-passage { font-size: 13px; padding: 14px; }
+      .topbar-inner { padding: 12px 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <a href="index.html" class="back-btn">&larr;</a>
+        <div>
+          <h1 id="titleTop">Mock Test</h1>
+          <div class="sub" id="subtitleTop"></div>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <button class="top-btn" id="saveBtn">Save</button>
+        <button class="top-btn primary" id="gradeBtn">Grade</button>
+        <button class="top-btn" id="resetBtn" style="display:none;">Reset</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="hero-card" id="heroCard">
+      <h2 id="heroTitle">Mock Test</h2>
+      <p id="heroDesc">Source 지문을 읽고, 각 단어의 뜻을 작성하세요</p>
+      <div class="hero-stats">
+        <div class="hero-stat">
+          <div class="val" id="statWords">0</div>
+          <div class="lbl">단어</div>
+        </div>
+        <div class="hero-stat">
+          <div class="val" id="statSources">0</div>
+          <div class="lbl">지문</div>
+        </div>
+        <div class="hero-stat">
+          <div class="val" id="statProgress">0</div>
+          <div class="lbl">작성</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="questionsArea"></div>
+  </div>
+
+  <script>
+    // ── Config ──
+    const urlParams = new URLSearchParams(window.location.search);
+    const MOCK_ID = urlParams.get('mock') || 'magoosh_1';
+    const STORAGE_KEY = `gre_mock_answers_${MOCK_ID}`;
+    const displayName = MOCK_ID.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+
+    document.getElementById('titleTop').textContent = `Mock Test`;
+    document.getElementById('subtitleTop').textContent = displayName;
+    document.getElementById('heroTitle').textContent = displayName;
+
+    let ALL_WORDS = [];
+    let SOURCE_GROUPS = []; // { source, words[] }
+    let isGraded = false;
+
+    // ── Init ──
+    async function init() {
+      try {
+        const res = await fetch(`data/Mock_${MOCK_ID}.json`);
+        if (!res.ok) throw new Error('Not found');
+        ALL_WORDS = await res.json();
+      } catch (e) {
+        document.getElementById('heroTitle').textContent = '데이터를 불러올 수 없습니다';
+        return;
+      }
+
+      // Group words by source text
+      const sourceMap = new Map();
+      for (const word of ALL_WORDS) {
+        const src = (word.source && word.source[0]) || '(no source)';
+        if (!sourceMap.has(src)) {
+          sourceMap.set(src, []);
+        }
+        sourceMap.get(src).push(word);
+      }
+      SOURCE_GROUPS = Array.from(sourceMap.entries()).map(([source, words]) => ({ source, words }));
+
+      document.getElementById('statWords').textContent = ALL_WORDS.length;
+      document.getElementById('statSources').textContent = SOURCE_GROUPS.length;
+
+      renderQuestions();
+      restoreAnswers();
+      updateProgress();
+    }
+
+    // ── Render ──
+    function highlightWordsInSource(source, words) {
+      let html = source;
+      // Sort words by length (longest first) to avoid partial replacements
+      const sorted = [...words].sort((a, b) => b.word.length - a.word.length);
+      for (const w of sorted) {
+        // Escape special regex chars
+        const escaped = w.word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const re = new RegExp(`\\b${escaped}\\b`, 'gi');
+        html = html.replace(re, `<em>${w.word}</em>`);
+      }
+      return html;
+    }
+
+    function renderQuestions() {
+      const area = document.getElementById('questionsArea');
+      area.innerHTML = '';
+
+      SOURCE_GROUPS.forEach((group, gIdx) => {
+        const block = document.createElement('div');
+        block.className = 'source-block';
+        block.id = `source-${gIdx}`;
+
+        const sourceHtml = highlightWordsInSource(group.source, group.words);
+
+        let wordsHtml = '';
+        group.words.forEach((word, wIdx) => {
+          const globalIdx = ALL_WORDS.indexOf(word);
+          const posHtml = word.pos ? `<span class="word-sub-pos">${word.pos}</span>` : '';
+          wordsHtml += `
+            <div class="word-sub" data-id="${word.id}">
+              <div class="word-sub-header">
+                <span class="word-sub-num">${globalIdx + 1}.</span>
+                <span class="word-sub-word">${word.word}</span>
+                ${posHtml}
+              </div>
+              <textarea id="ans-${word.id}" placeholder="뜻을 입력하세요" rows="1"></textarea>
+              <div class="self-grade-row" id="grade-row-${word.id}">
+                <button class="self-grade-btn o pending" data-id="${word.id}" data-val="o">O 맞음</button>
+                <button class="self-grade-btn x pending" data-id="${word.id}" data-val="x">X 틀림</button>
+              </div>
+              <div class="answer-reveal" id="reveal-${word.id}">
+                <div class="ans-label">정답</div>
+                <div class="ans-text"></div>
+                <div class="ans-tips"></div>
+              </div>
+            </div>
+          `;
+        });
+
+        block.innerHTML = `
+          <div class="source-header">
+            <div class="source-num">${gIdx + 1}</div>
+            <span class="source-label">Source ${gIdx + 1}</span>
+          </div>
+          <div class="source-passage">${sourceHtml}</div>
+          <div class="words-area">${wordsHtml}</div>
+        `;
+
+        area.appendChild(block);
+      });
+
+      // Auto-resize textareas
+      area.querySelectorAll('textarea').forEach(ta => {
+        ta.addEventListener('input', () => {
+          ta.style.height = 'auto';
+          ta.style.height = ta.scrollHeight + 'px';
+          debounceSave();
+          updateProgress();
+        });
+      });
+
+      // Self-grade button handlers
+      area.querySelectorAll('.self-grade-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const id = btn.dataset.id;
+          const val = btn.dataset.val;
+          const row = document.getElementById(`grade-row-${id}`);
+          row.querySelectorAll('.self-grade-btn').forEach(b => {
+            b.classList.remove('pending', 'selected');
+            if (b.dataset.val === val) b.classList.add('selected');
+          });
+          debounceSave();
+        });
+      });
+    }
+
+    // ── Progress ──
+    function updateProgress() {
+      const filled = ALL_WORDS.filter(w => {
+        const ta = document.getElementById(`ans-${w.id}`);
+        return ta && ta.value.trim().length > 0;
+      }).length;
+      document.getElementById('statProgress').textContent = filled;
+    }
+
+    // ── Save / Restore ──
+    let saveTimer = null;
+    function debounceSave() {
+      clearTimeout(saveTimer);
+      saveTimer = setTimeout(saveAnswers, 300);
+    }
+
+    function saveAnswers() {
+      const data = {};
+      ALL_WORDS.forEach(w => {
+        const ta = document.getElementById(`ans-${w.id}`);
+        const gradeRow = document.getElementById(`grade-row-${w.id}`);
+        const selected = gradeRow?.querySelector('.self-grade-btn.selected');
+        data[w.id] = {
+          word: w.word,
+          meaning: ta ? ta.value : '',
+          selfGrade: selected ? selected.dataset.val : null
+        };
+      });
+      data._meta = {
+        mock: MOCK_ID,
+        graded: isGraded,
+        timestamp: new Date().toISOString()
+      };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    }
+
+    function restoreAnswers() {
+      try {
+        const data = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+        if (data._meta?.graded) {
+          isGraded = true;
+          // Restore answers then re-grade
+          ALL_WORDS.forEach(w => {
+            const saved = data[w.id];
+            if (!saved) return;
+            const ta = document.getElementById(`ans-${w.id}`);
+            if (ta) {
+              ta.value = saved.meaning || '';
+              ta.style.height = 'auto';
+              ta.style.height = ta.scrollHeight + 'px';
+            }
+          });
+          gradeExam(data);
+          return;
+        }
+        ALL_WORDS.forEach(w => {
+          const saved = data[w.id];
+          if (!saved) return;
+          const ta = document.getElementById(`ans-${w.id}`);
+          if (ta) {
+            ta.value = saved.meaning || '';
+            ta.style.height = 'auto';
+            ta.style.height = ta.scrollHeight + 'px';
+          }
+        });
+      } catch (e) {}
+    }
+
+    // ── Grade ──
+    document.getElementById('gradeBtn').addEventListener('click', () => {
+      if (isGraded) return;
+      gradeExam();
+    });
+
+    function gradeExam(savedData) {
+      isGraded = true;
+      document.getElementById('gradeBtn').style.display = 'none';
+      document.getElementById('resetBtn').style.display = '';
+
+      // Disable all textareas
+      document.querySelectorAll('.word-sub textarea').forEach(ta => {
+        ta.disabled = true;
+      });
+
+      // Show answer reveals and self-grade buttons
+      ALL_WORDS.forEach(w => {
+        const reveal = document.getElementById(`reveal-${w.id}`);
+        const gradeRow = document.getElementById(`grade-row-${w.id}`);
+        if (!reveal) return;
+
+        const meanings = w.head_meanings.join(' / ');
+        const tips = (w.tips || []).join(' ');
+
+        reveal.querySelector('.ans-text').textContent = meanings;
+        if (tips) {
+          reveal.querySelector('.ans-tips').textContent = tips;
+        }
+        reveal.classList.add('show', 'correct');
+
+        // Show self-grade buttons
+        gradeRow.classList.add('show');
+
+        // Restore self-grade if from saved data
+        if (savedData && savedData[w.id]?.selfGrade) {
+          const val = savedData[w.id].selfGrade;
+          gradeRow.querySelectorAll('.self-grade-btn').forEach(b => {
+            b.classList.remove('pending');
+            if (b.dataset.val === val) b.classList.add('selected');
+          });
+        }
+      });
+
+      // Update hero
+      document.getElementById('heroDesc').textContent = '정답을 확인하고, O/X로 자기 채점하세요';
+
+      if (!savedData) saveAnswers();
+    }
+
+    // ── Reset ──
+    document.getElementById('resetBtn').addEventListener('click', () => {
+      if (!confirm('모든 답안을 초기화하시겠습니까?')) return;
+      localStorage.removeItem(STORAGE_KEY);
+      location.reload();
+    });
+
+    // ── Save button ──
+    document.getElementById('saveBtn').addEventListener('click', saveAnswers);
+
+    // ── Keyboard ──
+    document.addEventListener('keydown', (e) => {
+      if (e.ctrlKey && e.key === 's') {
+        e.preventDefault();
+        saveAnswers();
+      }
+      if (e.ctrlKey && e.key === 'g') {
+        e.preventDefault();
+        document.getElementById('gradeBtn').click();
+      }
+    });
+
+    init();
+  </script>
+</body>
+</html>

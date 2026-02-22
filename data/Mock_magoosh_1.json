@@ -1,0 +1,728 @@
+[
+  {
+    "id": "001",
+    "word": "prolixity",
+    "pos": "n.",
+    "head_meanings": [
+      "장황함, 말이 많고 늘어짐(글/말이 불필요하게 길고 지루함)"
+    ],
+    "tips": [
+      "`prolix writing/speech`는 보통 '장황한 글/말' 이런 느낌으로 많이 써.",
+      "이건 '라틴어 pro-('앞으로') + lixus(흐르다) 계열로 ‘줄줄 흘러나오는’ 느낌'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "For a writer with a reputation for both prolixity and inscrutability, Thompson, in this slim collection of short stories, may finally be intent on making his ideas more ______ to a readership looking for quick edification."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "inscrutability",
+    "pos": "n.",
+    "head_meanings": [
+      "불가해함, 이해하기 어려움(수수께끼 같음)"
+    ],
+    "tips": [
+      "`inscrutable`는 보통 '헤아릴 수 없는, 난해한' 이런 느낌으로 많이 써.",
+      "이건 'scrutinize(면밀히 살피다)와 어근 연관'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "For a writer with a reputation for both prolixity and inscrutability, Thompson, in this slim collection of short stories, may finally be intent on making his ideas more ______ to a readership looking for quick edification."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "edification",
+    "pos": "n.",
+    "head_meanings": [
+      "교화, 계몽; 지적·도덕적 향상(가르침을 통해 얻는 깨달음)"
+    ],
+    "tips": [
+      "`for one’s edification`는 보통 '~의 교양/깨달음을 위해' 이런 느낌으로 많이 써.",
+      "이건 'edify(교화하다, 계몽하다) → edification'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "For a writer with a reputation for both prolixity and inscrutability, Thompson, in this slim collection of short stories, may finally be intent on making his ideas more ______ to a readership looking for quick edification."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "palatable",
+    "pos": "adj.",
+    "head_meanings": [
+      "(맛이) 좋은, 먹기 좋은",
+      "(내용·아이디어가) 받아들이기 쉬운, 무난한"
+    ],
+    "tips": [
+      "`make sth palatable (to sb)`는 보통 '~을 (누구에게) 받아들이기 쉽게 만들다' 이런 느낌으로 많이 써.",
+      "이건 'palate(입천장, 미각)에서 파생'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "For a writer with a reputation for both prolixity and inscrutability, Thompson, in this slim collection of short stories, may finally be intent on making his ideas more ______ to a readership looking for quick edification."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "vituperative",
+    "pos": "adj.",
+    "head_meanings": [
+      "독설의, 심하게 비난하는, 욕설 섞인"
+    ],
+    "tips": [
+      "`vituperative remarks/words`는 보통 '독설, 악담' 이런 느낌으로 많이 써.",
+      "`vituperate`는 보통 '혹독하게 비난하다' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "Refusing to ______ his vituperative words, the ambassador only further ______ members of the multinational committee."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "incensed",
+    "pos": "adj.",
+    "head_meanings": [
+      "격분한, 몹시 화가 난"
+    ],
+    "tips": [
+      "`be incensed at/by/over`는 보통 '~에 격분하다' 이런 느낌으로 많이 써.",
+      "`incense(향)와 동형이지만 의미는 ‘분노시키다’(verb`는 보통 'incense)' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "Refusing to ______ his vituperative words, the ambassador only further ______ members of the multinational committee."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "strife",
+    "pos": "n.",
+    "head_meanings": [
+      "불화, 반목, 갈등; (집단 간) 다툼/투쟁"
+    ],
+    "tips": [
+      "`internal strife`는 보통 '내부 분열/내분' 이런 느낌으로 많이 써.",
+      "`civil strife`는 보통 '내란, 국내 분쟁' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "(i) ____ internal strife within the current regime, the media firm partial to the splinter group eyeing a coup was perhaps a little too (ii) ____ in publishing an editorial critical of the government, which quickly put its house in order, squelched the opposition group, and summarily declared the piece (iii) ____."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "splinter",
+    "pos": "n.",
+    "head_meanings": [
+      "(기존 조직에서) 떨어져 나온 소수 파벌/분파"
+    ],
+    "tips": [
+      "`splinter group`는 보통 '분열된 소수 집단' 이런 느낌으로 많이 써.",
+      "이건 '원래는 ‘(나무) 가시/파편’ → ‘조직의 파편’ 비유'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "(i) ____ internal strife within the current regime, the media firm partial to the splinter group eyeing a coup was perhaps a little too (ii) ____ in publishing an editorial critical of the government, which quickly put its house in order, squelched the opposition group, and summarily declared the piece (iii) ____."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "eye a coup",
+    "pos": "phr.",
+    "head_meanings": [
+      "쿠데타를 노리다/꾀하다(눈독 들이다)"
+    ],
+    "tips": [
+      "이건 'eye = ‘~을 노리다, 탐내다’'처럼 떠올리면 돼.",
+      "`coup d’état`는 보통 '정변, 쿠데타' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "(i) ____ internal strife within the current regime, the media firm partial to the splinter group eyeing a coup was perhaps a little too (ii) ____ in publishing an editorial critical of the government, which quickly put its house in order, squelched the opposition group, and summarily declared the piece (iii) ____."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "squelch",
+    "pos": "v.",
+    "head_meanings": [
+      "(저항·소문·시도 등을) 억누르다, 진압하다, 묵살하다"
+    ],
+    "tips": [
+      "`squelch dissent/opposition`는 보통 '반대/저항을 진압하다' 이런 느낌으로 많이 써.",
+      "이건 '비유적으로 ‘싹을 밟아 뭉개다’ 느낌'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "...the government, which quickly put its house in order, squelched the opposition group, and summarily declared the piece (iii) ____."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "summarily",
+    "pos": "adv.",
+    "head_meanings": [
+      "즉각적으로, 단호하게(절차를 거의 거치지 않고)",
+      "간단히 요약하여"
+    ],
+    "tips": [
+      "`summarily dismiss/reject`는 보통 '단칼에 기각하다/거절하다' 이런 느낌으로 많이 써.",
+      "이건 'summary(요약)와 어근 같음'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "...the government, which quickly put its house in order, squelched the opposition group, and summarily declared the piece (iii) ____."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "probing",
+    "pos": "adj.",
+    "head_meanings": [
+      "날카롭게 파고드는, 철저히 파헤치는(조사하는)"
+    ],
+    "tips": [
+      "`probing questions/investigation`는 보통 '캐묻는 질문/철저한 조사' 이런 느낌으로 많이 써.",
+      "`probe`는 보통 '탐침; (깊이) 조사하다' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "(iii) 선지: A. a probing exposé"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "exposé",
+    "pos": "n.",
+    "head_meanings": [
+      "폭로 기사/책, 비리 폭로물"
+    ],
+    "tips": [
+      "`an exposé on/of`는 보통 '~에 대한 폭로' 이런 느낌으로 많이 써.",
+      "이건 '프랑스어 노출되다(exposer)에서 유래'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "(iii) 선지: A. a probing exposé"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "treason",
+    "pos": "n.",
+    "head_meanings": [
+      "반역, 국가에 대한 배신(반역죄)"
+    ],
+    "tips": [
+      "`an act of treason`는 보통 '반역 행위' 이런 느낌으로 많이 써.",
+      "이건 'traitor(배신자)와 어근 연관'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "(iii) 선지: B. an act of treason"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "scholarship",
+    "pos": "n.",
+    "head_meanings": [
+      "학문적 연구(성과), 학술적 저작/연구",
+      "(상황에 따라) 장학금"
+    ],
+    "tips": [
+      "`scholarship on X`는 보통 'X에 관한 학술 연구' 이런 느낌으로 많이 써.",
+      "이건 '여기서는 ‘헤밍웨이에 대한 학계 연구’ 의미'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "What little scholarship has existed on Ernest Hemingway—considering his stature—has focused on trying to unmask the man behind the bravura."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "stature",
+    "pos": "n.",
+    "head_meanings": [
+      "(사회적) 명성, 위상, 권위",
+      "(사람의) 키(격식)"
+    ],
+    "tips": [
+      "`of great stature`는 보통 '대단한 명성을 가진' 이런 느낌으로 많이 써.",
+      "`stature vs status`는 보통 '둘 다 ‘지위’ 느낌, stature는 ‘명망/명성’ 쪽' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "What little scholarship has existed on Ernest Hemingway—considering his stature—has focused on trying to unmask the man behind the bravura."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "bravura",
+    "pos": "n.",
+    "head_meanings": [
+      "허세 섞인 대담함/과시적 용맹",
+      "(예술에서) 화려한 기교/기교 과시"
+    ],
+    "tips": [
+      "`the bravura of X`는 보통 'X의 과시적 대담함' 이런 느낌으로 많이 써.",
+      "이건 '이 문맥은 ‘헤밍웨이 신화(마초적 용맹) 뒤의 인간’을 뜻함'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "What little scholarship has existed on Ernest Hemingway—considering his stature—has focused on trying to unmask the man behind the bravura."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "live to",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "~까지 살다, (특정 삶/경험을) 살다"
+    ],
+    "tips": [
+      "`live to do`는 보통 '(특정 나이/시점까지) 살아서 ~하다' 이런 느낌으로 많이 써.",
+      "이건 '문장에선 lived to hunt big game = 큰 사냥을 하며 살았다'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "Hemingway lived to hunt big game so should we be surprised at his virility, to not mention that of many of the author’s—chiefly male—protagonists?"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "virility",
+    "pos": "n.",
+    "head_meanings": [
+      "남성다움, 남성적 활력",
+      "(생물학적으로) 남성의 성적 능력/정력"
+    ],
+    "tips": [
+      "이건 'virile(남성적인, 정력적인) → virility'처럼 떠올리면 돼.",
+      "이건 '문맥상 ‘마초적 활력/강인함’'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "Hemingway lived to hunt big game so should we be surprised at his virility, to not mention that of many of the author’s—chiefly male—protagonists?"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "paranoid",
+    "pos": "adj.",
+    "head_meanings": [
+      "편집증적인, 과도하게 의심하는",
+      "(일상) 극도로 경계하는, 피해망상적인"
+    ],
+    "tips": [
+      "`paranoid about`는 보통 '~을 지나치게 의심하는' 이런 느낌으로 많이 써.",
+      "`문장`는 보통 '정부가 자신을 쫓는다고 믿는 상태' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "In the last few years, several biographies have reversed this trend, focusing on Hemingway near the end of his life: isolated and paranoid, the author imagined the government was chasing him (he was not completely wrong on this account)."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "unwittingly",
+    "pos": "adv.",
+    "head_meanings": [
+      "무심코, 자신도 모르게, 의도치 않게"
+    ],
+    "tips": [
+      "`unwittingly reveal/provide`는 보통 '자신도 모르게 드러내다/제공하다' 이런 느낌으로 많이 써.",
+      "이건 'wittingly(고의로) ↔ unwittingly(무심코)'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "...these latest biographers have provided—perhaps unwittingly—the most human portrait of the writer yet."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "at odds with",
+    "pos": "phr.",
+    "head_meanings": [
+      "~와 상충하는, ~와 어긋나는, 불화하는"
+    ],
+    "tips": [
+      "`be at odds with`는 보통 '~와 의견이 다르다/조화되지 않다' 이런 느낌으로 많이 써.",
+      "이건 'odds(불리한 확률)와 무관하게 ‘불일치’ 의미로 굳은 표현'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "It can be inferred from the passage that the author considers the latest Hemingway biographies a departure from traditional biographies in that these latest biographies ______."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "whim",
+    "pos": "n.",
+    "head_meanings": [
+      "변덕, 순간적 기분/충동(갑자기 하고 싶은 마음)"
+    ],
+    "tips": [
+      "`at a whim`는 보통 '변덕으로, 충동적으로' 이런 느낌으로 많이 써.",
+      "`one’s slightest whim`는 보통 '아주 사소한 변덕/요구' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "As soon as his slightest whim was not met, the actor became ____, snapping even at those not involved in the filming of the scene."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "meet (a demand/need)",
+    "pos": "v.",
+    "head_meanings": [
+      "(요구·기대·조건 등을) 충족시키다, 만족시키다"
+    ],
+    "tips": [
+      "`meet requirements/expectations`는 보통 '요건/기대를 충족하다' 이런 느낌으로 많이 써.",
+      "`문장`는 보통 'whim was not met = 변덕(요구)이 충족되지 않자' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "As soon as his slightest whim was not met, the actor became ____, snapping even at those not involved in the filming of the scene."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "querulous",
+    "pos": "adj.",
+    "head_meanings": [
+      "불평이 많은, 짜증 섞여 투덜대는"
+    ],
+    "tips": [
+      "`a querulous tone/complaint`는 보통 '투덜대는 말투/불평' 이런 느낌으로 많이 써.",
+      "이건 'quer- (complain) 계열로 ‘불평’ 느낌'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "As soon as his slightest whim was not met, the actor became ____, snapping even at those not involved in the filming of the scene."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "petulant",
+    "pos": "adj.",
+    "head_meanings": [
+      "(특히 어린아이처럼) 심술궂고 짜증 내는, 성질을 내는"
+    ],
+    "tips": [
+      "`petulant child/behavior`는 보통 '심술부리는 아이/행동' 이런 느낌으로 많이 써.",
+      "이건 'querulous(불평 많은)보다 ‘뾰로통/심술’ 뉘앙스가 강함'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "As soon as his slightest whim was not met, the actor became ____, snapping even at those not involved in the filming of the scene."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "inception",
+    "pos": "n.",
+    "head_meanings": [
+      "시작, 발단, 출범"
+    ],
+    "tips": [
+      "`since its inception`는 보통 '시작 이래로' 이런 느낌으로 많이 써.",
+      "이건 'incept(시작하다)에서 파생(일상에선 inception만 흔함)'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "The computer modeling of weather has, since its inception, been fraught with difficulties, yet the fact that it has only had to improve on what, to some, amounts to nothing more than voodoo science made its __________ all but assured."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "be fraught with",
+    "pos": "phr. (adj.)",
+    "head_meanings": [
+      "(문제·위험·부정적 요소로) 가득하다, ~투성이이다"
+    ],
+    "tips": [
+      "`be fraught with difficulties`는 '문제투성이야' 라고 딱 생각하면 돼.",
+      "뒤에는 보통 `difficulties / problems / risk` 같은 부정적인 것들이 따라붙어."
+    ],
+    "source": [
+      "The computer modeling of weather has, since its inception, been fraught with difficulties, yet the fact that it has only had to improve on what, to some, amounts to nothing more than voodoo science made its __________ all but assured."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "amount to",
+    "pos": "v.",
+    "head_meanings": [
+      "(결과적으로) ~에 이르다, 해당하다, 불과하다"
+    ],
+    "tips": [
+      "`amount to nothing`는 보통 '아무것도 아닌 게 되다' 이런 느낌으로 많이 써.",
+      "`amount to nothing more than`는 보통 '~에 불과하다' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "The computer modeling of weather has, since its inception, been fraught with difficulties, yet the fact that it has only had to improve on what, to some, amounts to nothing more than voodoo science made its __________ all but assured."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "voodoo science",
+    "pos": "n.",
+    "head_meanings": [
+      "사이비 과학, 근거 없는 ‘주술 같은’ 과학(비꼬는 표현)"
+    ],
+    "tips": [
+      "`voodoo + 명사`는 보통 '‘주술 같은/엉터리’의 비유적 비난' 이런 느낌으로 많이 써.",
+      "`문맥`는 보통 '‘별 근거 없는 과학’ 정도로 폄하' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "The computer modeling of weather has, since its inception, been fraught with difficulties, yet the fact that it has only had to improve on what, to some, amounts to nothing more than voodoo science made its __________ all but assured."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "demise",
+    "pos": "n.",
+    "head_meanings": [
+      "죽음, 종말; (조직·제도 등의) 붕괴/몰락"
+    ],
+    "tips": [
+      "`the demise of X`는 보통 'X의 종말/몰락' 이런 느낌으로 많이 써.",
+      "이건 '선지로 쓰일 때 ‘몰락/종말’ 의미가 흔함'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "선지: demise / dismissal / retraction"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "dismissal",
+    "pos": "n.",
+    "head_meanings": [
+      "해고, 해임",
+      "(의견·주장 등을) 일축, 묵살"
+    ],
+    "tips": [
+      "`dismissal of X`는 보통 'X를 일축함' 이런 느낌으로 많이 써.",
+      "이건 '문맥상 ‘일축/묵살’ 뜻이 더 자연스러움'처럼 떠올리면 돼."
+    ],
+    "source": [
+      "선지: demise / dismissal / retraction"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "retraction",
+    "pos": "n.",
+    "head_meanings": [
+      "철회, 취소(말·주장·기사 등을 거둬들임)"
+    ],
+    "tips": [
+      "학술/저널에서 제일 자주 봐: 논문이 오류나 부정 때문에 **철회**될 때 `retraction`이라고 해.",
+      "`retracted paper`면 '철회된 논문'이고, 꽤 심각한 상황인 경우가 많아.",
+      "일반적으로는 `retract a claim/result`처럼 '주장/결과를 철회하다'에도 써.",
+      "참고로 `correction/erratum`은 '정정'이고, `retraction`은 아예 '철회'라 더 강해."
+    ],
+    "source": [
+      "선지: demise / dismissal / retraction"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "a bout of",
+    "pos": "phr. (n. phrase)",
+    "head_meanings": [
+      "(질병·증상·행동 등이) 한 차례/한바탕(짧은 기간 동안 몰아침)"
+    ],
+    "tips": [
+      "`a bout of the flu`는 '독감 한 차례(한바탕)'라고 보면 돼.",
+      "`a bout of coughing`은 '기침이 한바탕 나옴' 이런 뉘앙스야.",
+      "참고로 `bout`이 단독으로 나오면 '시합/한 판' 뜻도 있어(복싱 bout 같은 거)."
+    ],
+    "source": [
+      "After a bout of the flu, Sue was unable to ___ between certain foods, with many flavors taking on a bland note."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "bland",
+    "pos": "adj.",
+    "head_meanings": [
+      "(맛·향이) 싱거운, 담백한",
+      "(사람·말·색 등이) 재미없는, 밋밋한"
+    ],
+    "tips": [
+      "`bland note/flavor`는 보통 '밋밋한(싱거운) 느낌' 이런 느낌으로 많이 써.",
+      "`take on a bland note`는 보통 '맛이 밋밋해지다' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "After a bout of the flu, Sue was unable to ___ between certain foods, with many flavors taking on a bland note."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "note",
+    "pos": "n.",
+    "head_meanings": [
+      "(맛·향·음악 등의) 톤/뉘앙스, 느낌",
+      "쪽지, 메모(일반 의미)"
+    ],
+    "tips": [
+      "`a fruity note / a bitter note`는 보통 '과일향/쓴맛의 뉘앙스' 이런 느낌으로 많이 써.",
+      "`take on a ~ note`는 보통 '~한 느낌을 띠다' 이런 느낌으로 많이 써."
+    ],
+    "source": [
+      "After a bout of the flu, Sue was unable to ___ between certain foods, with many flavors taking on a bland note."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "idiom",
+    "pos": "n.",
+    "head_meanings": [
+      "(특정 분야의) 관용적 표현 방식, 특유의 양식/스타일",
+      "(언어) 관용구, 숙어"
+    ],
+    "tips": [
+      "여기서는 언어 숙어가 아니라, ‘영화의 표현 양식/스타일’ 같은 뜻이야."
+    ],
+    "source": [
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "precipitous",
+    "pos": "adj.",
+    "head_meanings": [
+      "(변화가) 급격한, 가파른",
+      "(지형이) 절벽 같은, 매우 가파른"
+    ],
+    "tips": [
+      "지문에서 `a precipitous decline`는 그냥 '급락'이라고 생각하면 편해."
+    ],
+    "source": [
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "snub",
+    "pos": "v.",
+    "head_meanings": [
+      "(사람을) 푸대접하다, 냉대하다; (제안/초대를) 퇴짜 놓다"
+    ],
+    "tips": [
+      "`snubbed by ~`면 ‘~에게 무시당함/냉대당함’ 느낌이 강해."
+    ],
+    "source": [
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "unseat",
+    "pos": "v.",
+    "head_meanings": [
+      "(권좌·지위에서) 끌어내리다, 실각시키다",
+      "(비유) (기존의 것을) 대체하다"
+    ],
+    "tips": [
+      "정치/권력 문맥에서 자주 나와: ‘자리에서 끌어내리다’."
+    ],
+    "source": [
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "pediatrician",
+    "pos": "n.",
+    "head_meanings": [
+      "소아과 의사"
+    ],
+    "tips": [
+      "`pedi-`가 ‘아이(child)’ 느낌(= pediatric)."
+    ],
+    "source": [
+      "Pediatrician: Child psychologists recommend that mothers of one-year-olds not only"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "vocal contingent",
+    "pos": "phr. (n. phrase)",
+    "head_meanings": [
+      "(집단 내) 목소리가 큰/눈에 띄는 일부(파벌), 강하게 주장하는 소수"
+    ],
+    "tips": [
+      "`contingent`는 ‘(큰 집단의) 일부 집단’이고, `vocal`이 붙으면 ‘목소리 큰/활발히 반대 목소리 내는’ 느낌이야."
+    ],
+    "source": [
+      "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "rally against",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "~에 맞서 결집하다, 반대 운동을 벌이다"
+    ],
+    "tips": [
+      "`rally`가 ‘집결하다/규합하다’니까, `rally against`는 ‘반대편으로 뭉치다’라고 보면 돼."
+    ],
+    "source": [
+      "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "deconstruct",
+    "pos": "v.",
+    "head_meanings": [
+      "(개념·텍스트 등을) 해체하다, 비판적으로 분해해 분석하다"
+    ],
+    "tips": [
+      "지문에서 `deconstructing`은 ‘(계몽주의 이상을) 비판적으로 까서 분석하는’ 뉘앙스."
+    ],
+    "source": [
+      "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "caution against",
+    "pos": "phr.v.",
+    "head_meanings": [
+      "~을 경고하다, ~하지 말라고 주의를 주다"
+    ],
+    "tips": [
+      "`caution`만 보면 ‘조심’인데, `caution against ~`는 ‘~의 위험을 경고하다’로 딱 굳어져서 자주 나와."
+    ],
+    "source": [
+      "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "exalt",
+    "pos": "v.",
+    "head_meanings": [
+      "(사람·사상 등을) 칭송하다, 추켜세우다",
+      "(지위를) 높이다"
+    ],
+    "tips": [
+      "`exalt` = ‘완전 치켜세우다/신격화하다’ 쪽으로 강하게 칭찬하는 느낌."
+    ],
+    "source": [
+      "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "re-usher",
+    "pos": "v.",
+    "head_meanings": [
+      "(어떤 시대/경향을) 다시 불러오다, 재도래하게 하다"
+    ],
+    "tips": [
+      "`usher in`이 ‘~의 시대를 열다’잖아. `re-ushering`이면 ‘그걸 다시 열어온다/부활시킨다’ 느낌이야."
+    ],
+    "source": [
+      "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "unequivocally",
+    "pos": "adv.",
+    "head_meanings": [
+      "명백하게, 분명히(애매함 없이)",
+      "단호하게"
+    ],
+    "tips": [
+      "`unequivocally positive` = ‘누가 봐도/애매함 없이 긍정적인’이라는 뉘앙스."
+    ],
+    "source": [
+      "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  }
+]
