@@ -1,0 +1,604 @@
+[
+  {
+    "id": "001",
+    "word": "seasoned",
+    "pos": "adj.",
+    "head_meanings": ["노련한, 경험이 풍부한"],
+    "tips": [
+      "`season`(양념하다/시즌) + `-ed` → 오랜 시간 '양념'처럼 경험이 배어든 → 노련한. 나무를 건조시키는 것도 seasoning이라 해 → 시간이 지나 단단해진 느낌.",
+      "콜로케이션: `seasoned veteran/professional/traveler/eyes` → 노련한 베테랑/전문가/여행자/눈. experienced와 거의 동의어지만 더 문학적이야.",
+      "이 지문에서는 'seasoned eyes'로 '노련한 눈(=경험 많은 편집자/독자들의 시선)'을 뜻해. 수백 명의 전문가가 최종본을 검토한다는 맥락이야."
+    ],
+    "source": [
+      "The author's name in shining lights—on the book jacket, that is—________ the collective nature of the enterprise: before hundreds of seasoned eyes even pore over a final copy, the author has had many expert readers help fashion the novel from its very inception.\n\nA. undermines\nB. belies\nC. informs\nD. reaffirms\nE. disambiguates"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "fashion",
+    "pos": "v.",
+    "head_meanings": ["만들다, 형성하다, (손으로) 빚다"],
+    "tips": [
+      "GRE 함정 단어! 명사 '패션/유행'이 아니라 동사로 쓰이면 '만들다, 형성하다'야. `fashion A from/out of B` = B로 A를 만들다.",
+      "유의어: `craft`, `shape`, `mold`, `forge`. 단순히 make보다 '정성껏 빚다'는 뉘앙스가 강해.",
+      "이 지문에서는 'help fashion the novel' → 소설을 '만드는 데/빚는 데' 도움을 줬다는 뜻이야. 작가 혼자가 아니라 여러 사람이 함께 작품을 형성했다는 맥락."
+    ],
+    "source": [
+      "The author's name in shining lights—on the book jacket, that is—________ the collective nature of the enterprise: before hundreds of seasoned eyes even pore over a final copy, the author has had many expert readers help fashion the novel from its very inception.\n\nA. undermines\nB. belies\nC. informs\nD. reaffirms\nE. disambiguates"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "contemporaneous",
+    "pos": "adj.",
+    "head_meanings": ["같은 시대의, 동시대에 일어난"],
+    "tips": [
+      "`con-`(함께) + `tempor`(시간, temporal) + `-aneous` → 같은 시간에 함께 있는 → 동시대의. contemporary와 거의 같은 뜻인데 더 격식체야.",
+      "콜로케이션: `contemporaneous with ~` / `contemporaneous works/events/accounts` → ~와 동시대의 작품/사건/기록. contemporary보다 학술적 글에서 많이 써.",
+      "이 지문에서는 같은 시대 다른 아일랜드계 미국인 극작가들의 작품이 사회 문제에 대해 독단적(dogmatic)이었다는 맥락이야."
+    ],
+    "source": [
+      "Amongst Irish-American playwrights of the early 20th Century, her work stood out as a(n) ________, not so much because of its striking originality but because other contemporaneous works tended to be ________ on most social issues. Her plays, by contrast, allowed the audience to come to its own conclusions, a technique that foreshadowed much of 20th century theatre.\n\nBlank (i):\nA. exemplar\nB. precursor\nC. anomaly\n\nBlank (ii):\nA. unyielding\nB. dogmatic\nC. reticent"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "resplendent",
+    "pos": "adj.",
+    "head_meanings": ["눈부시게 화려한, 찬란한"],
+    "tips": [
+      "`re-`(강조) + `splend`(빛나다, splendid와 같은 어근!) + `-ent` → 다시 한번 강하게 빛나는 → 눈부시게 화려한. splendid의 강화 버전이라고 생각하면 돼.",
+      "콜로케이션: `resplendent in ~`(~을 입고 화려한), `resplendent glory/beauty/plumage` → 찬란한 영광/아름다움/깃털. 시각적 화려함을 강조할 때 써.",
+      "이 지문에서는 오답 선지야. 초기 영화가 기껏해야 'resplendent'(화려한)이었다는 건 문맥에 안 맞아 — 실패작이었으니까."
+    ],
+    "source": [
+      "Adaptation presents (i) ________ in all creative media, but text-to-film adaptations are particularly (ii) ________. It should come as little surprise, then, that Rip Van Winkle (1903), one of the earliest known examples of the text-to-film adaptation, was (iii) ________ at best. Nonetheless, the film did serve as a useful exemplar for later adaptations on the numerous pitfalls to be avoided.\n\nBlank (i):\nA. unique opportunities\nB. inherent difficulties\nC. abundant inspiration\n\nBlank (ii):\nA. rewarding\nB. derivative\nC. nettlesome\n\nBlank (iii):\nA. scandalous\nB. resplendent\nC. ambitious"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "personage",
+    "pos": "n.",
+    "head_meanings": ["(중요한/유명한) 인물, 거물"],
+    "tips": [
+      "`person` + `-age`(상태/지위) → 단순한 사람이 아니라 '지위가 있는 인물'. person보다 격이 높고 문학적인 표현이야.",
+      "유의어: `figure`, `dignitary`, `luminary`, `notable`. 반의어 느낌: nobody, nonentity. GRE에서는 '유명인/거물'이란 뜻으로 나와.",
+      "이 지문에서는 Buddy Bolden의 '인물상/존재감'이 거의 신화적 수준이 되었다는 맥락이야. his personage = 그의 인물(됨)."
+    ],
+    "source": [
+      "Buddy Bolden is possibly the most (i) ________ progenitor of American jazz music, his personage having assumed near-mythic quality even before his death in 1931. By all accounts he was a legendary cornetist, yet therein lies the rub: given that he exited public life at a young age and there are no extant recordings of his playing, contemporaneous (ii) ________ must (iii) ________ biography.\n\nBlank (i):\nA. controversial\nB. documented\nC. enigmatic\n\nBlank (ii):\nA. anecdotes\nB. memoranda\nC. compositions\n\nBlank (iii):\nA. yield to\nB. expunge\nC. suffice as"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "cornetist",
+    "pos": "n.",
+    "head_meanings": ["코넷 연주자"],
+    "tips": [
+      "`cornet`(코넷, 트럼펫과 비슷한 금관악기) + `-ist`(~하는 사람) → 코넷 연주자. trumpet보다 작고 둥근 소리를 내는 악기야.",
+      "GRE에서 직접 나올 일은 드물지만, 지문 속 맥락 이해용으로 중요해. 재즈 초창기 핵심 악기가 코넷이었거든.",
+      "이 지문에서는 Buddy Bolden이 전설적인 코넷 연주자였다는 사실을 설명하면서, 동시에 녹음이 없어서 증명할 수 없다는 역설을 보여줘."
+    ],
+    "source": [
+      "Buddy Bolden is possibly the most (i) ________ progenitor of American jazz music, his personage having assumed near-mythic quality even before his death in 1931. By all accounts he was a legendary cornetist, yet therein lies the rub: given that he exited public life at a young age and there are no extant recordings of his playing, contemporaneous (ii) ________ must (iii) ________ biography.\n\nBlank (i):\nA. controversial\nB. documented\nC. enigmatic\n\nBlank (ii):\nA. anecdotes\nB. memoranda\nC. compositions\n\nBlank (iii):\nA. yield to\nB. expunge\nC. suffice as"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "rub",
+    "pos": "n.",
+    "head_meanings": ["문제점, 난점, 걸림돌"],
+    "tips": [
+      "GRE 함정 단어! '문지르다'가 아니라 명사로 '문제점, 난관'이야. 셰익스피어 《햄릿》의 \"Ay, there's the rub\"에서 유래한 표현이야.",
+      "관용표현: `there's the rub` / `therein lies the rub` → 바로 거기에 문제가 있다. 문어체/격식체에서 자주 나와.",
+      "이 지문에서는 Bolden이 전설적 연주자였지만 녹음이 없다 → 'therein lies the rub'(바로 거기에 문제가 있다)로 역설적 상황을 표현해."
+    ],
+    "source": [
+      "Buddy Bolden is possibly the most (i) ________ progenitor of American jazz music, his personage having assumed near-mythic quality even before his death in 1931. By all accounts he was a legendary cornetist, yet therein lies the rub: given that he exited public life at a young age and there are no extant recordings of his playing, contemporaneous (ii) ________ must (iii) ________ biography.\n\nBlank (i):\nA. controversial\nB. documented\nC. enigmatic\n\nBlank (ii):\nA. anecdotes\nB. memoranda\nC. compositions\n\nBlank (iii):\nA. yield to\nB. expunge\nC. suffice as"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "memoranda",
+    "pos": "n.",
+    "head_meanings": ["메모, 비망록, 각서 (memorandum의 복수형)"],
+    "tips": [
+      "`memorandum`의 라틴어 복수형이 `memoranda`야. `memor`(기억하다) → 기억해둘 것 → 메모/비망록. memorandums도 쓰지만 격식체에서는 memoranda가 정석.",
+      "콜로케이션: `internal memoranda`(내부 각서), `memoranda of understanding`(양해각서). 비즈니스·법률·외교 문서에서 자주 나와.",
+      "이 지문에서는 Bolden 시대의 동시대 기록물(memoranda)이 전기(biography) 대신이 될 수밖에 없다는 선지로 나왔어."
+    ],
+    "source": [
+      "Buddy Bolden is possibly the most (i) ________ progenitor of American jazz music, his personage having assumed near-mythic quality even before his death in 1931. By all accounts he was a legendary cornetist, yet therein lies the rub: given that he exited public life at a young age and there are no extant recordings of his playing, contemporaneous (ii) ________ must (iii) ________ biography.\n\nBlank (i):\nA. controversial\nB. documented\nC. enigmatic\n\nBlank (ii):\nA. anecdotes\nB. memoranda\nC. compositions\n\nBlank (iii):\nA. yield to\nB. expunge\nC. suffice as"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "expunge",
+    "pos": "v.",
+    "head_meanings": ["(기록 등을) 완전히 삭제하다, 말소하다"],
+    "tips": [
+      "`ex-`(밖으로) + `pungere`(찌르다, puncture와 같은 어근) → 찔러서 밖으로 빼내다 → 완전히 지워버리다. 단순 delete보다 '흔적도 없이 지운다'는 강한 뉘앙스야.",
+      "콜로케이션: `expunge from the record/memory/history` → 기록/기억/역사에서 말소하다. 법률 용어로 전과기록 삭제할 때도 써.",
+      "이 지문에서는 오답 선지야. 동시대 기록이 전기를 '삭제한다'는 건 문맥에 안 맞거든."
+    ],
+    "source": [
+      "Buddy Bolden is possibly the most (i) ________ progenitor of American jazz music, his personage having assumed near-mythic quality even before his death in 1931. By all accounts he was a legendary cornetist, yet therein lies the rub: given that he exited public life at a young age and there are no extant recordings of his playing, contemporaneous (ii) ________ must (iii) ________ biography.\n\nBlank (i):\nA. controversial\nB. documented\nC. enigmatic\n\nBlank (ii):\nA. anecdotes\nB. memoranda\nC. compositions\n\nBlank (iii):\nA. yield to\nB. expunge\nC. suffice as"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "suffice as",
+    "pos": "phr.v.",
+    "head_meanings": ["~로 충분하다, ~의 역할을 대신하다"],
+    "tips": [
+      "`suffice`는 `suf-`(아래서) + `facere`(만들다) → 아래서 받쳐줄 만큼 충분하다. 형용사 sufficient(충분한)의 동사형이야.",
+      "콜로케이션: `suffice as ~`(~로서 충분하다), `suffice it to say`(~라고 말하면 충분하다 = 간단히 말해). GRE에서 꽤 자주 나와.",
+      "이 지문에서는 동시대 일화(anecdotes)가 전기(biography) '대신으로 충분해야 한다(suffice as)'는 맥락이야 — 녹음이 없으니까."
+    ],
+    "source": [
+      "Buddy Bolden is possibly the most (i) ________ progenitor of American jazz music, his personage having assumed near-mythic quality even before his death in 1931. By all accounts he was a legendary cornetist, yet therein lies the rub: given that he exited public life at a young age and there are no extant recordings of his playing, contemporaneous (ii) ________ must (iii) ________ biography.\n\nBlank (i):\nA. controversial\nB. documented\nC. enigmatic\n\nBlank (ii):\nA. anecdotes\nB. memoranda\nC. compositions\n\nBlank (iii):\nA. yield to\nB. expunge\nC. suffice as"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "archbishop",
+    "pos": "n.",
+    "head_meanings": ["대주교 (주교보다 상위의 고위 성직자)"],
+    "tips": [
+      "`arch-`(으뜸의, 최고의) + `bishop`(주교) → 주교 중의 으뜸 → 대주교. `arch-`는 monarch(군주), architect(건축가)에도 들어가는 '최고/원초'를 뜻하는 접두사야.",
+      "관련어: bishop(주교) < archbishop(대주교). Canterbury 대주교는 영국 성공회의 수장이야. 이 지문의 Thomas Becket이 바로 그 유명한 캔터베리 대주교.",
+      "이 지문에서는 12세기 캔터베리 대주교 토마스 베켓의 전기를 다루는 RC 지문의 배경 설정이야."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "martyr",
+    "pos": "n.",
+    "head_meanings": ["순교자, (신념을 위해) 고통받는 사람"],
+    "tips": [
+      "그리스어 `martys`(증인) → 신앙의 '증인'으로서 목숨을 바친 사람 → 순교자. 현대에는 '어떤 대의를 위해 희생하는 사람' 전반에 쓰여.",
+      "콜로케이션: `make a martyr of oneself`(자기를 순교자처럼 포장하다 = 괜히 희생자 코스프레), `martyr to ~`(~때문에 고통받는 사람). 동사로 쓰이면 '순교시키다'.",
+      "이 지문에서는 Becket을 'future martyr'라고 불러 — 나중에 순교하게 될 인물이라는 뜻. 헨리 2세에 의해 살해당한 역사적 사건을 암시해."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "stately",
+    "pos": "adj.",
+    "head_meanings": ["위엄 있는, 당당한, 장엄한"],
+    "tips": [
+      "`state`(국가/지위) + `-ly` → 국가 수준의 격식과 위엄이 있는. stately home = 영국 대저택(귀족 가문의 저택)이라는 표현도 있어.",
+      "콜로케이션: `stately manner/pace/procession/home` → 위엄 있는 태도/느린 걸음/장엄한 행렬/대저택. 느리고 우아하고 격식 있는 느낌이야.",
+      "이 지문에서는 'stately progress'(장엄한 행차) → 캔터베리로 돌아가는 베켓의 행렬이 예수님의 예루살렘 입성에 비유될 만큼 위엄 있었다는 뜻."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "progress",
+    "pos": "n.",
+    "head_meanings": ["(왕·귀인의) 순행, 행차; 진행, 발전"],
+    "tips": [
+      "GRE 함정 단어! 일상적 '진보/발전'이 아니라, 고어(古語)로 왕이나 귀인이 각지를 순행하는 것을 뜻해. `pro-`(앞으로) + `gradi`(걸어가다).",
+      "이 뜻은 격식체/문학에서 나와: `royal progress`(왕의 순행), `make a progress through ~`(~을 순행하다). GRE RC에서 역사 지문에 나올 수 있어.",
+      "이 지문에서는 'a stately progress'로 베켓의 캔터베리 귀환 행차를 뜻해. 연대기 작가가 이를 예수의 예루살렘 입성에 비유했다는 맥락이야."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "chronicler",
+    "pos": "n.",
+    "head_meanings": ["연대기 작가, 기록자"],
+    "tips": [
+      "`chronicle`(연대기) + `-er`(사람) → 연대기를 쓰는 사람. `chron-`은 시간을 뜻하는 그리스어 어근이야 (chronological, chronic 등).",
+      "유의어: `historian`, `recorder`, `annalist`. historian은 분석적이고, chronicler는 사건을 시간 순서대로 기록하는 사람이라는 차이가 있어.",
+      "이 지문에서는 당시 연대기 작가(chronicler)가 베켓의 행차를 예수의 예루살렘 입성에 비유했다는 역사적 기록을 언급하고 있어."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "lifelong",
+    "pos": "adj.",
+    "head_meanings": ["평생의, 일생에 걸친"],
+    "tips": [
+      "`life`(삶) + `long`(긴) → 삶 내내 지속되는. 단순하지만 GRE RC에서 맥락 이해에 중요한 수식어야.",
+      "콜로케이션: `lifelong commitment/friend/learning/dream` → 평생의 헌신/친구/학습/꿈. 한 번이 아닌 '지속적' 성격을 강조해.",
+      "이 지문에서는 베켓의 소식(절식) 습관이 경건함 때문이 아니라 '평생의(lifelong)' 만성 소화불량 때문이었다는 아이러니를 보여줘."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "debilitating",
+    "pos": "adj.",
+    "head_meanings": ["심하게 쇠약하게 하는, 기력을 빼앗는"],
+    "tips": [
+      "`de-`(아래로) + `bilis`(힘, ability와 같은 어근!) → 힘을 아래로 끌어내리는 → 쇠약하게 하는. debilitate(동사) → debilitating(형용사).",
+      "콜로케이션: `debilitating illness/pain/effect/condition` → 쇠약하게 하는 질병/고통/영향/상태. weakening보다 더 심각한 수준을 나타내.",
+      "이 지문에서는 베켓이 만성적이고 '쇠약하게 하는(debilitating)' 소화불량에 시달렸다는 사실을 드러내."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "indigestion",
+    "pos": "n.",
+    "head_meanings": ["소화불량"],
+    "tips": [
+      "`in-`(부정) + `digestion`(소화) → 소화가 안 되는 상태. `digest`는 `di-`(분리) + `gerere`(운반하다) → 음식을 분해해서 나르는 것 = 소화.",
+      "관련어: digestive(소화의), indigestible(소화 안 되는). GRE 자체 단어라기보단 RC 지문 이해용 어휘야.",
+      "이 지문에서는 성인(聖人) 베켓의 소식이 실은 종교적 이유가 아니라 소화불량(indigestion) 때문이었다는 인간적 약점을 보여주는 대목이야."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "canonization",
+    "pos": "n.",
+    "head_meanings": ["시성(諡聖), 성인(聖人)으로 추대하는 것; (비유적) 공식적 인정/찬양"],
+    "tips": [
+      "`canon`(교회법/정전) + `-ize`(~화하다) + `-ation` → 교회법에 의해 공식적으로 성인으로 인정하는 절차. literary canon(문학 정전)과 같은 어원이야.",
+      "비유적 용법: '어떤 것을 정전/표준으로 공식 인정하다'. canonize a text = 텍스트를 정전으로 편입시키다. GRE에서는 두 의미 모두 나올 수 있어.",
+      "이 지문에서는 베켓의 시성(성인 추대)을 가장 가까운 친구조차 '완전히 터무니없다'고 생각했을 거라는 아이러니를 보여줘."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "hagiography",
+    "pos": "n.",
+    "head_meanings": ["성인전(聖人傳); (비판적) 지나치게 미화된 전기"],
+    "tips": [
+      "`hagio-`(성스러운, 그리스어 hagios) + `-graphy`(기록/글) → 성인(聖人)에 대한 기록 → 성인전. GRE에서는 거의 항상 부정적 의미로 나와: '지나치게 미화된/비판 없는 전기'.",
+      "반의어 느낌: `exposé`(폭로), `warts-and-all biography`(있는 그대로의 전기). hagiography = 결점을 숨기고 장점만 부각하는 글.",
+      "이 지문에서는 '흑백 논리의 확신을 주는 성인전(hagiography)'과 '인간적이고 설득력 있는 묘사(portrayal)'를 대비시켜. 저자는 후자를 더 높이 평가해."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "portrayal",
+    "pos": "n.",
+    "head_meanings": ["묘사, 표현, (인물의) 초상/그림"],
+    "tips": [
+      "`portray`(묘사하다) + `-al`(명사화) → 묘사/표현. `portrait`(초상화)와 같은 어원이야. 글이든 그림이든 연기든 '무언가를 표현한 것'을 뜻해.",
+      "콜로케이션: `portrayal of ~`(~의 묘사), `accurate/vivid/sympathetic portrayal` → 정확한/생생한/호의적 묘사. depiction과 거의 동의어야.",
+      "이 지문에서는 '인간적으로 설득력 있는 묘사(convincingly human portrayal)' → hagiography의 이상화와 대비되는 사실적 전기를 칭찬하는 맥락이야."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "prickly",
+    "pos": "adj.",
+    "head_meanings": ["가시 많은; (성격이) 까칠한, 신경질적인"],
+    "tips": [
+      "`prickle`(가시/따끔거림) + `-y` → 가시가 있는 → (비유적) 성격이 까칠한, 쉽게 기분 나빠하는. 선인장이나 고슴도치처럼 건드리면 찔리는 느낌이야.",
+      "콜로케이션: `prickly personality/issue/relationship` → 까칠한 성격/민감한 문제/불편한 관계. touchy, irritable과 유의어.",
+      "이 지문에서는 베켓을 'as prickly as he was smooth'(부드러운 만큼 까칠한)로 묘사해 — 고슴도치(hedgehog)의 습성을 가진 사람이라는 비유와 연결돼."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "hedgehog",
+    "pos": "n.",
+    "head_meanings": ["고슴도치"],
+    "tips": [
+      "`hedge`(울타리) + `hog`(돼지) → 울타리 밑에 사는 돼지 같은 동물 → 고슴도치. 실제로 울타리(hedge) 아래에서 벌레를 찾아 돼지(hog)처럼 코를 킁킁대서 붙은 이름이야.",
+      "비유적 용법: 'hedgehog vs fox' → Isaiah Berlin의 유명한 에세이에서 나온 개념. 고슴도치=한 가지 큰 원칙을 고수하는 사람, 여우=다양한 전략을 구사하는 사람.",
+      "이 지문에서는 베켓이 '고슴도치의 습성을 가진 사람'으로 묘사돼 — 매끄럽지만 동시에 까칠하고 방어적인 이중적 성격을 비유한 거야."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "apologetic",
+    "pos": "adj.",
+    "head_meanings": ["변명하는, 사과하는; 옹호론의"],
+    "tips": [
+      "GRE 함정 단어! 일상적으로 '미안해하는'이지만, 학술적으로는 `apologia`(변론/옹호)에서 와서 '옹호하는, 변호하는'이란 뜻도 있어. apologetics = 호교론(종교 옹호 학문).",
+      "콜로케이션: `apologetic tone/smile/manner` → 사과하는 어조/미소/태도. GRE RC에서는 저자의 tone으로 나올 때 '방어적으로 변명하는' 뉘앙스일 수 있어.",
+      "이 지문에서는 오답 선지야. 저자의 어조는 사과하는 게 아니라 Guy의 전기를 높이 평가하는(appreciative) 거야."
+    ],
+    "source": [
+      "Both darkly comic and deeply tragic, Guy's biography of the 12th-century archbishop of Canterbury Sir Thomas Becket is a portrait of a saint with plenty of shadows. Does it diminish Becket for us to know that this future martyr in a hair shirt (clothing worn by ascetics) also made sure to keep a fine silk robe handy for his return to Canterbury, a stately progress one chronicler compared to Christ's entry into Jerusalem? That his abstemious diet was partly the result of a lifelong susceptibility to chronic, and debilitating, indigestion? That one of his oldest and closest friends would have found his canonization \"utterly absurd\"? Only if we prefer the black-and-white certainties of hagiography to the convincingly human portrayal of a charismatic, contradictory individual who was, as Guy puts it, \"as prickly as he was smooth . . . a man with the habits of a hedgehog.\"\n\n문제: The author's tone towards Guy's biography of Becket can best be described as\nA. apologetic\nB. neutral\nC. ambivalent\nD. sardonic\nE. appreciative"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "bilaterally",
+    "pos": "adv.",
+    "head_meanings": ["양측으로, 좌우 대칭적으로; 쌍방적으로"],
+    "tips": [
+      "`bi-`(둘) + `lateral`(측면의, 옆의) + `-ly` → 양쪽으로. bilateral agreement = 양자 협정, bilateral symmetry = 좌우 대칭.",
+      "관련어: `unilateral`(일방적), `multilateral`(다자간), `lateral`(옆의). GRE에서는 정치/외교 맥락(양자 협상)이나 과학 맥락(좌우 대칭) 모두 나와.",
+      "이 지문에서는 대뇌 피질이 '좌우 대칭적으로(bilaterally) 대칭'이라는 해부학적 설명에 쓰였어."
+    ],
+    "source": [
+      "The idea that all mental functions are derived from the brain originated with Hippocrates, but it was largely neglected until the late 18th century, when Franz Gall attempted to link psychology and brain science. Gall took advantage of what was already known about the cerebral cortex. He was aware that it was bilaterally symmetrical and subdivided into four lobes. However, he found that these four lobes were, by themselves, inadequate to account for the forty-odd distinct psychological functions that psychologists had characterized by 1790. As a result he began to analyze the heads of hundreds of musicians, actors, etc., relating certain bony elevations or depressions under the scalp to the predominant talent or defects of their owners. Based on his skull palpation, Gall subdivided the cortex into roughly forty regions, each of which served as an organ for a specific mental function.\n\nWhile Gall's theory that all mental processes derive from the brain proved to be correct, his methods for localizing specific functions were deeply flawed because they were not based on what we would now consider valid evidence. Gall did not test his ideas empirically by performing autopsies on the brains of patients and correlating damage to specific regions with defects in mental attributes; he distrusted the diseased brain and did not think it could reveal anything about normal behavior. Instead, he developed the notion that as each mental function is used, the particular area of the brain responsible for that function becomes enlarged. Eventually, a given area may become so bulky that it pushes out against the skull and produces a bump on the head."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "lobe",
+    "pos": "n.",
+    "head_meanings": ["(뇌·폐·간 등의) 엽(葉), 둥근 돌출부; 귓불"],
+    "tips": [
+      "그리스어 `lobos`(둥근 돌출부) → 둥근 모양의 구획/부분. 뇌의 네 엽: frontal(전두엽), parietal(두정엽), temporal(측두엽), occipital(후두엽).",
+      "콜로케이션: `frontal lobe`(전두엽), `ear lobe`(귓불). GRE RC에서 과학 지문 읽을 때 알아두면 좋은 해부학 용어야.",
+      "이 지문에서는 Gall이 대뇌 피질이 4개의 엽(lobes)으로 나뉜다는 사실을 알고 있었다는 배경 설명에 나와."
+    ],
+    "source": [
+      "The idea that all mental functions are derived from the brain originated with Hippocrates, but it was largely neglected until the late 18th century, when Franz Gall attempted to link psychology and brain science. Gall took advantage of what was already known about the cerebral cortex. He was aware that it was bilaterally symmetrical and subdivided into four lobes. However, he found that these four lobes were, by themselves, inadequate to account for the forty-odd distinct psychological functions that psychologists had characterized by 1790. As a result he began to analyze the heads of hundreds of musicians, actors, etc., relating certain bony elevations or depressions under the scalp to the predominant talent or defects of their owners. Based on his skull palpation, Gall subdivided the cortex into roughly forty regions, each of which served as an organ for a specific mental function.\n\nWhile Gall's theory that all mental processes derive from the brain proved to be correct, his methods for localizing specific functions were deeply flawed because they were not based on what we would now consider valid evidence. Gall did not test his ideas empirically by performing autopsies on the brains of patients and correlating damage to specific regions with defects in mental attributes; he distrusted the diseased brain and did not think it could reveal anything about normal behavior. Instead, he developed the notion that as each mental function is used, the particular area of the brain responsible for that function becomes enlarged. Eventually, a given area may become so bulky that it pushes out against the skull and produces a bump on the head."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "bony elevation",
+    "pos": "phr.",
+    "head_meanings": ["뼈의 돌출(부), 골 융기"],
+    "tips": [
+      "`bony`(뼈의) + `elevation`(높아진 곳/융기) → 뼈가 솟아오른 부분. 해부학 용어로 두개골 표면의 울퉁불퉁한 돌출부를 뜻해.",
+      "`elevation`은 GRE에서 '고도/높이'뿐 아니라 '(지위의) 격상, (감정의) 고양, (지형의) 융기' 등 다양한 뜻으로 나와. 맥락에 따라 의미가 달라져.",
+      "이 지문에서는 Gall이 두피 아래의 뼈 돌출부(bony elevations)나 함몰부를 재능/결함과 연관시키려 했다는 골상학(phrenology)의 방법론을 설명해."
+    ],
+    "source": [
+      "The idea that all mental functions are derived from the brain originated with Hippocrates, but it was largely neglected until the late 18th century, when Franz Gall attempted to link psychology and brain science. Gall took advantage of what was already known about the cerebral cortex. He was aware that it was bilaterally symmetrical and subdivided into four lobes. However, he found that these four lobes were, by themselves, inadequate to account for the forty-odd distinct psychological functions that psychologists had characterized by 1790. As a result he began to analyze the heads of hundreds of musicians, actors, etc., relating certain bony elevations or depressions under the scalp to the predominant talent or defects of their owners. Based on his skull palpation, Gall subdivided the cortex into roughly forty regions, each of which served as an organ for a specific mental function.\n\nWhile Gall's theory that all mental processes derive from the brain proved to be correct, his methods for localizing specific functions were deeply flawed because they were not based on what we would now consider valid evidence. Gall did not test his ideas empirically by performing autopsies on the brains of patients and correlating damage to specific regions with defects in mental attributes; he distrusted the diseased brain and did not think it could reveal anything about normal behavior. Instead, he developed the notion that as each mental function is used, the particular area of the brain responsible for that function becomes enlarged. Eventually, a given area may become so bulky that it pushes out against the skull and produces a bump on the head."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "scalp",
+    "pos": "n.",
+    "head_meanings": ["두피, 머리 가죽"],
+    "tips": [
+      "고대 노르드어에서 유래. 머리를 덮는 피부 → 두피. 동사로는 '(표를) 암표 거래하다/되팔다'라는 뜻도 있어 (scalper = 암표상).",
+      "콜로케이션: `dry/itchy scalp`(건조한/가려운 두피), `under the scalp`(두피 아래). 과학/의학 지문에서 해부학 용어로 나와.",
+      "이 지문에서는 Gall이 두피(scalp) 아래의 뼈 돌출부를 만져보고 정신 기능을 판단하려 했다는 골상학적 방법을 설명해."
+    ],
+    "source": [
+      "The idea that all mental functions are derived from the brain originated with Hippocrates, but it was largely neglected until the late 18th century, when Franz Gall attempted to link psychology and brain science. Gall took advantage of what was already known about the cerebral cortex. He was aware that it was bilaterally symmetrical and subdivided into four lobes. However, he found that these four lobes were, by themselves, inadequate to account for the forty-odd distinct psychological functions that psychologists had characterized by 1790. As a result he began to analyze the heads of hundreds of musicians, actors, etc., relating certain bony elevations or depressions under the scalp to the predominant talent or defects of their owners. Based on his skull palpation, Gall subdivided the cortex into roughly forty regions, each of which served as an organ for a specific mental function.\n\nWhile Gall's theory that all mental processes derive from the brain proved to be correct, his methods for localizing specific functions were deeply flawed because they were not based on what we would now consider valid evidence. Gall did not test his ideas empirically by performing autopsies on the brains of patients and correlating damage to specific regions with defects in mental attributes; he distrusted the diseased brain and did not think it could reveal anything about normal behavior. Instead, he developed the notion that as each mental function is used, the particular area of the brain responsible for that function becomes enlarged. Eventually, a given area may become so bulky that it pushes out against the skull and produces a bump on the head."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "palpation",
+    "pos": "n.",
+    "head_meanings": ["촉진(觸診), (손으로) 만져서 진찰하는 것"],
+    "tips": [
+      "`palp-`(만지다, 느끼다) + `-ation` → 손으로 만져서 느끼는 행위 → 촉진. `palpable`(만져서 느낄 수 있는 → 명백한)과 같은 어근이야!",
+      "`palpable`은 GRE 핵심 단어! '만질 수 있을 정도로 뚜렷한/명백한'이란 뜻. palpable tension = 만져질 듯한 긴장감. palpation은 그 의학적 원래 뜻이야.",
+      "이 지문에서는 Gall이 '두개골 촉진(skull palpation)'으로 피질을 40개 영역으로 세분했다는 골상학 방법론을 설명해."
+    ],
+    "source": [
+      "The idea that all mental functions are derived from the brain originated with Hippocrates, but it was largely neglected until the late 18th century, when Franz Gall attempted to link psychology and brain science. Gall took advantage of what was already known about the cerebral cortex. He was aware that it was bilaterally symmetrical and subdivided into four lobes. However, he found that these four lobes were, by themselves, inadequate to account for the forty-odd distinct psychological functions that psychologists had characterized by 1790. As a result he began to analyze the heads of hundreds of musicians, actors, etc., relating certain bony elevations or depressions under the scalp to the predominant talent or defects of their owners. Based on his skull palpation, Gall subdivided the cortex into roughly forty regions, each of which served as an organ for a specific mental function.\n\nWhile Gall's theory that all mental processes derive from the brain proved to be correct, his methods for localizing specific functions were deeply flawed because they were not based on what we would now consider valid evidence. Gall did not test his ideas empirically by performing autopsies on the brains of patients and correlating damage to specific regions with defects in mental attributes; he distrusted the diseased brain and did not think it could reveal anything about normal behavior. Instead, he developed the notion that as each mental function is used, the particular area of the brain responsible for that function becomes enlarged. Eventually, a given area may become so bulky that it pushes out against the skull and produces a bump on the head."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "gregarious",
+    "pos": "adj.",
+    "head_meanings": ["사교적인, 사람 사귀기 좋아하는; (동물이) 군거하는"],
+    "tips": [
+      "`greg-`(무리, flock) + `-arious` → 무리를 좋아하는 → 사교적인. 같은 어근: `congregate`(모이다), `aggregate`(합치다), `segregate`(분리하다) — 다 '무리'와 관련!",
+      "콜로케이션: `gregarious personality/nature` → 사교적 성격. sociable, outgoing과 유의어. 반의어: `reclusive`, `solitary`, `introverted`.",
+      "이 지문에서는 오답 선지야. 매니저가 '사교적'인 게 아니라 '참견을 잘 하는(intrusive/prying)' 사람이라는 맥락이거든."
+    ],
+    "source": [
+      "Not merely curious, the new manager was often ____, and would only cease to needlessly interfere in employees work if one of her superiors was present.\n\nA. evasive\nB. gregarious\nC. intrusive\nD. mettlesome\nE. prying\nF. obstreperous"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "intrusive",
+    "pos": "adj.",
+    "head_meanings": ["침범하는, 참견하는, 거슬리는"],
+    "tips": [
+      "`in-`(안으로) + `trud-`(밀다, thrust) + `-ive` → 안으로 밀고 들어오는 → 침범하는. intrude(침입하다)의 형용사형. 같은 어근: protrude(돌출하다), extrude(밀어내다).",
+      "콜로케이션: `intrusive questions/behavior/thoughts` → 참견하는 질문/행동/침투적 생각. invasive와 비슷하지만 intrusive는 사생활 침해 느낌이 더 강해.",
+      "이 지문에서는 정답 선지 중 하나야. 매니저가 단순히 호기심이 많은 게 아니라 불필요하게 '참견하는(intrusive)' 사람이라는 뜻. prying과 동의어 쌍을 이뤄."
+    ],
+    "source": [
+      "Not merely curious, the new manager was often ____, and would only cease to needlessly interfere in employees work if one of her superiors was present.\n\nA. evasive\nB. gregarious\nC. intrusive\nD. mettlesome\nE. prying\nF. obstreperous"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "mettlesome",
+    "pos": "adj.",
+    "head_meanings": ["기개 있는, 용감한, 활기찬"],
+    "tips": [
+      "`mettle`(기개/용기) + `-some` → 기개가 있는. mettle은 metal(금속)의 변형이야 — 금속처럼 단단한 정신력을 가진. 'show one's mettle' = 진가를 보이다.",
+      "주의: `meddlesome`(참견 좋아하는)과 헷갈리기 쉬워! mettlesome ≠ meddlesome. mettlesome = 용감한, meddlesome = 간섭하는. 철자 하나 차이니 조심해.",
+      "이 지문에서는 오답이야. '용감한'은 문맥에 안 맞거든. 하지만 meddlesome(참견하는)이었으면 정답이 될 수 있었을 거야 — GRE가 노리는 함정!"
+    ],
+    "source": [
+      "Not merely curious, the new manager was often ____, and would only cease to needlessly interfere in employees work if one of her superiors was present.\n\nA. evasive\nB. gregarious\nC. intrusive\nD. mettlesome\nE. prying\nF. obstreperous"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "prying",
+    "pos": "adj.",
+    "head_meanings": ["캐묻는, 지나치게 참견하는, 엿보는"],
+    "tips": [
+      "`pry`(캐묻다/엿보다) + `-ing` → 남의 일을 캐묻는. pry에는 '지렛대로 열다'(pry open)라는 뜻도 있어 → 남의 비밀을 '억지로 열어보는' 느낌.",
+      "콜로케이션: `prying eyes/questions/neighbors` → 엿보는 눈/캐묻는 질문/참견하는 이웃. nosy, snoopy와 유의어.",
+      "이 지문에서는 정답 선지 중 하나야. intrusive와 동의어 쌍 → 둘 다 '불필요하게 참견하는' 뜻으로 SE 문제의 정답이 돼."
+    ],
+    "source": [
+      "Not merely curious, the new manager was often ____, and would only cease to needlessly interfere in employees work if one of her superiors was present.\n\nA. evasive\nB. gregarious\nC. intrusive\nD. mettlesome\nE. prying\nF. obstreperous"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "obstreperous",
+    "pos": "adj.",
+    "head_meanings": ["시끄럽게 떠드는, 다루기 힘든, 소란스러운"],
+    "tips": [
+      "`ob-`(~에 맞서) + `streper`(소리를 내다) + `-ous` → 맞서서 소리를 지르는 → 시끄럽게 반항하는. 단순히 loud가 아니라 '통제하기 어려울 정도로 시끄러운' 느낌이야.",
+      "유의어: `boisterous`, `unruly`, `rowdy`, `clamorous`. 반의어: `docile`, `compliant`, `tractable`. GRE에서 꽤 고급 어휘에 속해.",
+      "이 지문에서는 오답이야. 매니저가 '시끄럽게 떠드는' 게 아니라 '참견하는' 거니까."
+    ],
+    "source": [
+      "Not merely curious, the new manager was often ____, and would only cease to needlessly interfere in employees work if one of her superiors was present.\n\nA. evasive\nB. gregarious\nC. intrusive\nD. mettlesome\nE. prying\nF. obstreperous"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "knack",
+    "pos": "n.",
+    "head_meanings": ["요령, 솜씨, (타고난) 재주"],
+    "tips": [
+      "중세 영어에서 '재빠른 동작/트릭'을 뜻했어. 발음이 '낵'인데, knock(노크)과 비슷한 어원이야 — 딱딱 치듯 능숙하게 해내는 느낌.",
+      "콜로케이션: `have a knack for ~`(~하는 재주가 있다), `knack of doing` → ~하는 요령. talent보다 가볍고 실용적인 뉘앙스야.",
+      "이 지문에서는 'A knack for ____'(~에 대한 재주) → 직설적 발언을 피하게 하는 재주, 즉 prevarication/equivocation의 재주를 뜻해."
+    ],
+    "source": [
+      "A knack for ____, it can be argued, allows one access to a whole range of careers, many of which require one to forsake direct, honest speech.\n\nA. eloquence\nB. prevarication\nC. equivocation\nD. abbreviation\nE. discernment\nF. openness"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "prevarication",
+    "pos": "n.",
+    "head_meanings": ["얼버무림, 회피적 답변, (진실을 피하는) 애매한 말"],
+    "tips": [
+      "`pre-`(앞에) + `varicare`(다리를 벌려 걷다, straddle) → 이쪽저쪽으로 비틀비틀 걷다 → 핵심을 피해 돌려 말하다. 거짓말은 아니지만 의도적으로 진실을 피하는 거야.",
+      "유의어: `equivocation`(이중적 표현), `evasion`(회피). lie(거짓말)보다 약하지만 honesty의 반대편에 있어. 이 문제에서 equivocation과 동의어 쌍!",
+      "이 지문에서는 정답 선지야. '직접적이고 솔직한 말을 버리게 하는' 재주 = 얼버무리는 재주(prevarication)."
+    ],
+    "source": [
+      "A knack for ____, it can be argued, allows one access to a whole range of careers, many of which require one to forsake direct, honest speech.\n\nA. eloquence\nB. prevarication\nC. equivocation\nD. abbreviation\nE. discernment\nF. openness"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "fallen prey to",
+    "pos": "idiom",
+    "head_meanings": ["~의 먹잇감이 되다, ~에 희생되다, ~에 빠지다"],
+    "tips": [
+      "`prey`(먹이) → 'fall prey to ~' = ~의 먹이가 되어 쓰러지다 → 비유적으로 ~에 희생되다/당하다. prey는 라틴어 `praeda`(전리품)에서 왔어.",
+      "콜로케이션: `fall prey to scams/temptation/corruption/disease` → 사기/유혹/부패/질병에 걸려들다. 'fall victim to'와 거의 같은 의미야.",
+      "이 지문에서는 국가의 모든 영역이 부패(corruption)의 '먹잇감이 되었다(fallen prey to)'는 맥락이야."
+    ],
+    "source": [
+      "The nation was marked by ____, which intruded upon every aspect of life: there was little that had not fallen prey to corruption.\n\nA. jingoism\nB. stigmatization\nC. venality\nD. probity\nE. volubility\nF. graft"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "jingoism",
+    "pos": "n.",
+    "head_meanings": ["맹목적 애국주의, 호전적 국수주의"],
+    "tips": [
+      "19세기 영국 음주 노래에서 'by Jingo!'라는 감탄사에서 유래했어. 러시아-터키 전쟁 때 영국의 참전을 지지하는 사람들을 jingoes라고 불렀거든.",
+      "유의어: `chauvinism`(맹목적 애국/편견), `nationalism`(민족주의)의 극단적 형태. patriotism(건전한 애국심)과 구별해야 해 — jingoism은 항상 부정적이야.",
+      "이 지문에서는 오답 선지야. 국가의 문제가 '맹목적 애국주의'가 아니라 '부패(corruption)'에 관한 것이거든."
+    ],
+    "source": [
+      "The nation was marked by ____, which intruded upon every aspect of life: there was little that had not fallen prey to corruption.\n\nA. jingoism\nB. stigmatization\nC. venality\nD. probity\nE. volubility\nF. graft"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "stigmatization",
+    "pos": "n.",
+    "head_meanings": ["낙인찍기, 오명을 씌움"],
+    "tips": [
+      "`stigma`(낙인/오명) + `-ize`(~화하다) + `-ation` → 낙인을 찍는 행위. 그리스어 `stigma`는 원래 몸에 찍는 '문신/낙인'이었어 — 노예나 범죄자에게 찍던 표시.",
+      "콜로케이션: `social stigmatization`, `stigmatization of mental illness` → 사회적 낙인, 정신질환에 대한 낙인. stigma(명사)는 GRE에서 자주 나와.",
+      "이 지문에서는 오답 선지야. corruption과 직접 연결되지 않거든."
+    ],
+    "source": [
+      "The nation was marked by ____, which intruded upon every aspect of life: there was little that had not fallen prey to corruption.\n\nA. jingoism\nB. stigmatization\nC. venality\nD. probity\nE. volubility\nF. graft"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "venality",
+    "pos": "n.",
+    "head_meanings": ["매수되기 쉬움, (뇌물에 의한) 부패, 금전적 부정직"],
+    "tips": [
+      "`venal`(돈으로 매수할 수 있는) + `-ity` → 돈에 팔리는 성질 → 부패. 라틴어 `venalis`(판매용의)에서 왔어. 주의: `venial`(용서할 수 있는)과 헷갈리지 마! venal ≠ venial.",
+      "GRE 핵심 구별: `venal`(부패한, 매수 가능한) vs `venial`(경미한, 용서 가능한 — venial sin = 가벼운 죄). 한 글자 차이지만 뜻이 완전 반대야!",
+      "이 지문에서는 정답 선지 중 하나야. corruption(부패)과 직접 연결 → venality = 부패/매수성. graft와 동의어 쌍을 이뤄."
+    ],
+    "source": [
+      "The nation was marked by ____, which intruded upon every aspect of life: there was little that had not fallen prey to corruption.\n\nA. jingoism\nB. stigmatization\nC. venality\nD. probity\nE. volubility\nF. graft"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "probity",
+    "pos": "n.",
+    "head_meanings": ["청렴, 정직, 고결함"],
+    "tips": [
+      "라틴어 `probus`(좋은, 정직한) → 도덕적으로 올바르고 정직한 품성. `prove`(증명하다)와 같은 어근이야 — '검증된' 도덕성이라는 느낌.",
+      "유의어: `integrity`, `rectitude`, `uprightness`. 반의어: `venality`, `corruption`, `dishonesty`. GRE 고빈출 어휘! 항상 긍정적 맥락에서 나와.",
+      "이 지문에서는 오답 선지야. probity(청렴)는 corruption의 반의어이므로 문맥에 안 맞아. 하지만 GRE 핵심 단어니까 꼭 외워!"
+    ],
+    "source": [
+      "The nation was marked by ____, which intruded upon every aspect of life: there was little that had not fallen prey to corruption.\n\nA. jingoism\nB. stigmatization\nC. venality\nD. probity\nE. volubility\nF. graft"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "volubility",
+    "pos": "n.",
+    "head_meanings": ["말이 많음, 유창함, 다변(多辯)"],
+    "tips": [
+      "`volu-`(구르다, revolve와 같은 어근) + `-bility` → 말이 굴러가듯 술술 나오는 → 유창함/말이 많음. voluble = 말이 많은. 부정적 뉘앙스가 있어 — 너무 말이 많다는 느낌.",
+      "유의어: `loquacity`, `garrulousness`, `verbosity`. 반의어: `taciturnity`, `reticence`. GRE에서 '말이 많은/적은' 계열은 자주 나오니까 묶어서 외워.",
+      "이 지문에서는 오답 선지야. '말이 많음'은 corruption과 관련이 없거든."
+    ],
+    "source": [
+      "The nation was marked by ____, which intruded upon every aspect of life: there was little that had not fallen prey to corruption.\n\nA. jingoism\nB. stigmatization\nC. venality\nD. probity\nE. volubility\nF. graft"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "graft",
+    "pos": "n.",
+    "head_meanings": ["(공직자의) 수뢰, 부정부패; 접붙이기"],
+    "tips": [
+      "GRE 함정 단어! 일상적으로 '접붙이기/이식'(skin graft)이지만, 정치 맥락에서는 '공직을 이용한 부정부패/뇌물수수'를 뜻해. 미국 영어에서 특히 이 뜻으로 자주 써.",
+      "콜로케이션: `political graft`, `graft and corruption` → 정치적 부패, 부정부패. bribery, kickback과 유의어야.",
+      "이 지문에서는 정답 선지 중 하나야. venality(매수성)와 동의어 쌍 → 둘 다 corruption(부패)을 가리켜."
+    ],
+    "source": [
+      "The nation was marked by ____, which intruded upon every aspect of life: there was little that had not fallen prey to corruption.\n\nA. jingoism\nB. stigmatization\nC. venality\nD. probity\nE. volubility\nF. graft"
+    ]
+  }
+]
