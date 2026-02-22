@@ -564,7 +564,7 @@
       "여기서는 언어 숙어가 아니라, ‘영화의 표현 양식/스타일’ 같은 뜻이야."
     ],
     "source": [
-      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric.\n\nA. identified\nB. snubbed\nC. hailed\nD. unseated\nE. lauded\nF. rejected"
     ]
   },
   {
@@ -579,7 +579,7 @@
       "지문에서 `a precipitous decline`는 그냥 '급락'이라고 생각하면 편해."
     ],
     "source": [
-      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric.\n\nA. identified\nB. snubbed\nC. hailed\nD. unseated\nE. lauded\nF. rejected"
     ]
   },
   {
@@ -593,7 +593,7 @@
       "`snubbed by ~`면 ‘~에게 무시당함/냉대당함’ 느낌이 강해."
     ],
     "source": [
-      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric.\n\nA. identified\nB. snubbed\nC. hailed\nD. unseated\nE. lauded\nF. rejected"
     ]
   },
   {
@@ -608,7 +608,7 @@
       "정치/권력 문맥에서 자주 나와: ‘자리에서 끌어내리다’."
     ],
     "source": [
-      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric."
+      "Montreaux, initially ____ as the forerunner to the evolving 20th century cinematic idiom, experienced a decline that was as precipitous as his rise was meteoric.\n\nA. identified\nB. snubbed\nC. hailed\nD. unseated\nE. lauded\nF. rejected"
     ]
   },
   {
@@ -723,6 +723,22 @@
     ],
     "source": [
       "While the Age of the Enlightenment is often heralded as a period of unprecedented progress, there existed a small but vocal contingent of intellectuals and artists who rallied against the unconditional embrace of certain Enlightenment ideals, either during the Enlightenment or in the century that followed. Prominent thinkers such as Friedrich Nietzsche and Fyodor Dostoevsky produced volumes of work deconstructing and cautioning against the endorsement of the universalism and hyper-rationalism championed by other Enlightenment philosophers. In the arts, Francisco Goya, William Blake, and other like-minded Enlightenment-era painters rendered the human individual and the natural world in a state of elevated importance, offering a stark contrast to a Neoclassical school that exalted the Enlightenment as a triumphant re-ushering of Greco-Roman empiricism. The enduring influence of high-profile individuals who opposed certain Enlightenment ideals challenges the prevailing interpretation of the Enlightenment as an unequivocally positive period of change in modern history."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "put one's house in order",
+    "pos": "idiom / phr.",
+    "head_meanings": [
+      "(조직·정부·개인 등이) 내부를 정비하다, 문제를 수습하고 체계를 바로잡다"
+    ],
+    "tips": [
+      "직역은 ‘집을 정리하다’지만, 실제론 ‘내부 문제부터 수습하고 정돈하다’라는 비유 표현이야.",
+      "지문에서는 ‘정부가 혼란을 빨리 수습하고 통제력을 회복했다’로 읽으면 딱 맞아.",
+      "`get/put things in order`, `straighten things out`랑 느낌이 비슷해."
+    ],
+    "source": [
+      "...the government, which quickly put its house in order, squelched the opposition group, and summarily declared the piece (iii) ____."
     ]
   }
 ]

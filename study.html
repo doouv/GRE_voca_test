@@ -235,11 +235,11 @@
       background: var(--card);
       border: 1px solid var(--border);
       border-radius: 16px;
-      padding: 32px 28px;
+      padding: 36px 32px;
       box-shadow: var(--shadow);
       text-align: center;
       animation: cardIn 0.25s ease;
-      min-height: 280px;
+      min-height: 300px;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -251,30 +251,38 @@
     }
 
     .study-card .word {
-      font-size: 32px;
+      font-size: 36px;
       font-weight: 800;
-      margin-bottom: 8px;
+      margin-bottom: 10px;
       letter-spacing: -0.5px;
     }
 
     .study-card .pos {
       display: inline-block;
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 600;
       color: var(--blue);
       background: var(--blue-bg);
-      padding: 2px 10px;
+      padding: 3px 14px;
       border-radius: 999px;
       margin-bottom: 20px;
     }
 
     .study-card .meanings {
-      font-size: 18px;
+      font-size: 20px;
       font-weight: 600;
       color: var(--text);
-      margin-bottom: 20px;
-      line-height: 1.6;
+      margin-bottom: 24px;
+      line-height: 1.7;
       font-family: 'Pretendard Variable', sans-serif;
+    }
+
+    .study-card .section-divider {
+      width: 40px;
+      height: 3px;
+      background: var(--border);
+      border-radius: 2px;
+      margin: 0 auto 20px;
     }
 
     .study-card .syn-label {
@@ -283,7 +291,7 @@
       color: var(--muted);
       text-transform: uppercase;
       letter-spacing: 0.5px;
-      margin-bottom: 10px;
+      margin-bottom: 12px;
     }
 
     .syn-chips {
@@ -296,10 +304,36 @@
     .syn-chip {
       background: var(--blue-bg);
       color: var(--blue);
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 600;
-      padding: 4px 12px;
+      padding: 5px 14px;
       border-radius: 999px;
+    }
+
+    .tips-box {
+      text-align: left;
+      background: var(--amber-bg);
+      border: 1px solid #FDE68A;
+      border-radius: 12px;
+      padding: 16px 18px;
+    }
+
+    .tips-box .tip-item {
+      font-size: 15px;
+      color: #92400E;
+      line-height: 1.8;
+      font-family: 'Pretendard Variable', sans-serif;
+      margin-bottom: 6px;
+    }
+
+    .tips-box .tip-item:last-child { margin-bottom: 0; }
+
+    .tips-box .tip-item code {
+      background: rgba(0,0,0,0.06);
+      padding: 1px 6px;
+      border-radius: 4px;
+      font-size: 14px;
+      font-family: 'Outfit', monospace;
     }
 
     .study-controls {
@@ -649,9 +683,10 @@
 
     @media (max-width: 600px) {
       .wrap { padding: 16px 14px 80px; }
-      .study-card { padding: 24px 20px; }
-      .study-card .word { font-size: 26px; }
-      .study-card .meanings { font-size: 16px; }
+      .study-card { padding: 28px 20px; }
+      .study-card .word { font-size: 30px; }
+      .study-card .meanings { font-size: 18px; }
+      .tips-box .tip-item { font-size: 14px; }
       .quiz-card { padding: 24px 20px; }
       .quiz-word { font-size: 24px; }
       .group-grid { grid-template-columns: repeat(3, 1fr); gap: 8px; }
@@ -843,10 +878,14 @@
       if (IS_MOCK) {
         const tips = word.tips || [];
         if (tips.length > 0) {
+          const formattedTips = tips.map(t =>
+            t.replace(/`([^`]+)`/g, '<code>$1</code>')
+          );
           extraHtml = `
+            <div class="section-divider"></div>
             <div class="syn-label">Tips</div>
-            <div style="text-align:left; font-size:13px; color:var(--muted); line-height:1.7; font-family:'Pretendard Variable',sans-serif;">
-              ${tips.map(t => `<div style="margin-bottom:4px;">${t}</div>`).join('')}
+            <div class="tips-box">
+              ${formattedTips.map(t => `<div class="tip-item">${t}</div>`).join('')}
             </div>
           `;
         }
@@ -854,6 +893,7 @@
         const syns = word.synonyms_from_image || [];
         if (syns.length > 0) {
           extraHtml = `
+            <div class="section-divider"></div>
             <div class="syn-label">Synonyms</div>
             <div class="syn-chips">
               ${syns.map(s => `<span class="syn-chip">${s}</span>`).join('')}
