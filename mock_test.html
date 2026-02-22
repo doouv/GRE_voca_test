@@ -122,8 +122,9 @@
     }
     .source-passage em {
       font-style: normal;
-      background: linear-gradient(to top, rgba(37,99,235,0.15) 40%, transparent 40%);
+      background: linear-gradient(to top, rgba(250,204,21,0.30) 40%, transparent 40%);
       font-weight: 600;
+      color: #92400e;
     }
     .source-passage { white-space: pre-wrap; }
 
@@ -242,6 +243,120 @@
 
     .hidden { display: none !important; }
 
+    /* ── Mode Toggle ── */
+    .mode-toggle-wrap {
+      display: flex; align-items: center; gap: 8px;
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 999px; padding: 5px 14px;
+      font-size: 13px; font-weight: 700;
+    }
+    .mode-toggle-label { color: var(--muted); transition: color 0.2s; }
+    .mode-toggle-label.active-label { color: var(--text); }
+    .toggle-track {
+      width: 40px; height: 22px; border-radius: 11px;
+      background: var(--border); position: relative;
+      cursor: pointer; transition: background 0.2s;
+    }
+    .toggle-track.on { background: var(--blue); }
+    .toggle-knob {
+      width: 18px; height: 18px; border-radius: 50%;
+      background: white; position: absolute; top: 2px; left: 2px;
+      box-shadow: 0 1px 3px rgba(0,0,0,.15);
+      transition: transform 0.2s;
+    }
+    .toggle-track.on .toggle-knob { transform: translateX(18px); }
+
+    /* ── Card Mode ── */
+    body.card-mode .hero-card { display: none; }
+    body.card-mode .source-block { display: none; }
+    body.card-mode .source-block.card-active {
+      display: block;
+      animation: cardSlideIn .3s ease;
+    }
+    @keyframes cardSlideIn {
+      from { opacity: 0; transform: translateY(16px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Card Nav Bar */
+    .card-nav {
+      display: none;
+      position: sticky; top: 60px; z-index: 90;
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      margin: 0 -20px 20px;
+    }
+    body.card-mode .card-nav { display: block; }
+    .card-nav-inner {
+      max-width: 800px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .card-nav-counter {
+      font-size: 14px; font-weight: 700; color: var(--muted);
+    }
+    .card-nav-counter strong { color: var(--text); font-size: 18px; }
+    .card-nav-score {
+      display: flex; gap: 12px; font-size: 13px; font-weight: 700;
+    }
+    .card-nav-score .correct-count { color: var(--green); }
+    .card-nav-score .wrong-count { color: var(--red); }
+    .card-nav-btns {
+      display: flex; gap: 8px;
+    }
+    .card-nav-btns button {
+      padding: 8px 18px; border-radius: 8px; border: 1px solid var(--border);
+      background: var(--card); font-size: 13px; font-weight: 700;
+      font-family: inherit; cursor: pointer; transition: all 0.15s;
+      color: var(--text);
+    }
+    .card-nav-btns button:hover { border-color: var(--blue); color: var(--blue); }
+    .card-nav-btns button:disabled { opacity: 0.3; cursor: not-allowed; }
+    .card-nav-btns button.primary { background: var(--blue); color: white; border-color: var(--blue); }
+    .card-nav-btns button.primary:hover { background: #1d4ed8; }
+    .card-nav-progress {
+      height: 3px; background: var(--border); border-radius: 2px;
+      margin-top: 10px; overflow: hidden;
+    }
+    .card-nav-progress .fill {
+      height: 100%; background: var(--blue); border-radius: 2px;
+      transition: width 0.3s ease;
+    }
+
+    /* Card mode: self-grade highlight */
+    body.card-mode .source-block.graded-correct {
+      border-color: var(--green);
+      box-shadow: 0 0 0 1px var(--green), var(--shadow);
+    }
+    body.card-mode .source-block.graded-wrong {
+      border-color: var(--red);
+      box-shadow: 0 0 0 1px var(--red), var(--shadow);
+    }
+
+    /* Card Results Overlay */
+    .card-results {
+      display: none;
+      animation: cardSlideIn .4s ease;
+    }
+    body.card-mode .card-results.show { display: block; }
+    .card-results-inner {
+      background: var(--card); border: 1px solid var(--border);
+      border-radius: 16px; padding: 36px 28px;
+      box-shadow: var(--shadow); text-align: center;
+    }
+    .card-results .cr-score { font-size: 48px; font-weight: 800; margin-bottom: 8px; }
+    .card-results .cr-label { color: var(--muted); font-size: 14px; margin-bottom: 20px; }
+    .card-results .cr-btns { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
+    .card-results .cr-btns button {
+      padding: 12px 24px; border-radius: 10px; border: 1px solid var(--border);
+      background: var(--card); font-size: 14px; font-weight: 700;
+      font-family: inherit; cursor: pointer; transition: all 0.15s;
+    }
+    .card-results .cr-btns button:hover { border-color: var(--blue); color: var(--blue); }
+    .card-results .cr-btns button.primary { background: var(--blue); color: white; border-color: var(--blue); }
+
     @media (max-width: 600px) {
       .wrap { padding: 16px 14px 80px; }
       .source-block { padding: 20px 18px; }
@@ -251,6 +366,10 @@
       .answer-reveal .ans-text { font-size: 15px; }
       .answer-reveal .ans-tips { font-size: 13px; }
       .topbar-inner { padding: 12px 16px; }
+      .mode-toggle-wrap { padding: 4px 8px; }
+      .mode-toggle-label { font-size: 11px; }
+      .card-nav { padding: 10px 14px; margin: 0 -14px 16px; }
+      body.card-mode .wrap { padding: 16px 14px 80px; }
     }
   </style>
 </head>
@@ -265,6 +384,13 @@
         </div>
       </div>
       <div class="topbar-actions">
+        <div class="mode-toggle-wrap">
+          <span class="mode-toggle-label active-label" id="lblAll">전체</span>
+          <div class="toggle-track" id="modeToggle">
+            <div class="toggle-knob"></div>
+          </div>
+          <span class="mode-toggle-label" id="lblCard">카드</span>
+        </div>
         <button class="top-btn" id="saveBtn">Save</button>
         <button class="top-btn primary" id="gradeBtn">Grade</button>
         <button class="top-btn" id="resetBtn" style="display:none;">Reset</button>
@@ -292,7 +418,37 @@
       </div>
     </div>
 
+    <div class="card-nav" id="cardNav">
+      <div class="card-nav-inner">
+        <div class="card-nav-counter">
+          Source <strong id="cardCurrent">1</strong> / <span id="cardTotal">1</span>
+        </div>
+        <div class="card-nav-score">
+          <span class="correct-count" id="cardCorrect">0</span> O
+          <span class="wrong-count" id="cardWrong">0</span> X
+        </div>
+        <div class="card-nav-btns">
+          <button id="cardPrevBtn" disabled>&larr;</button>
+          <button id="cardNextBtn" class="primary">다음 &rarr;</button>
+        </div>
+      </div>
+      <div class="card-nav-progress">
+        <div class="fill" id="cardBarFill" style="width:0%"></div>
+      </div>
+    </div>
+
     <div id="questionsArea"></div>
+
+    <div class="card-results" id="cardResults">
+      <div class="card-results-inner">
+        <div class="cr-score" id="crScore">0/0</div>
+        <div class="cr-label">자기 채점 결과</div>
+        <div class="cr-btns">
+          <button class="primary" onclick="location.reload()">다시 시작</button>
+          <button onclick="location.href='index.html'">홈으로</button>
+        </div>
+      </div>
+    </div>
   </div>
 
   <script>
@@ -567,6 +723,9 @@
       // Update hero
       document.getElementById('heroDesc').textContent = '정답을 확인하고, O/X로 자기 채점하세요';
 
+      // Setup card mode grade tracking after grade buttons are visible
+      setupCardModeGradeTracking();
+
       if (!savedData) saveAnswers();
     }
 
@@ -591,6 +750,167 @@
         document.getElementById('gradeBtn').click();
       }
     });
+
+    // ── Card Mode ──
+    let isCardMode = false;
+    let cardIdx = 0;
+    let cardGradedCorrect = 0;
+    let cardGradedWrong = 0;
+
+    document.getElementById('modeToggle').addEventListener('click', toggleCardMode);
+
+    function toggleCardMode() {
+      isCardMode = !isCardMode;
+      const track = document.getElementById('modeToggle');
+      const lblAll = document.getElementById('lblAll');
+      const lblCard = document.getElementById('lblCard');
+
+      if (isCardMode) {
+        document.body.classList.add('card-mode');
+        track.classList.add('on');
+        lblAll.classList.remove('active-label');
+        lblCard.classList.add('active-label');
+        enterCardMode();
+      } else {
+        document.body.classList.remove('card-mode');
+        track.classList.remove('on');
+        lblAll.classList.add('active-label');
+        lblCard.classList.remove('active-label');
+        exitCardMode();
+      }
+    }
+
+    function enterCardMode() {
+      cardIdx = 0;
+      cardGradedCorrect = 0;
+      cardGradedWrong = 0;
+      document.getElementById('cardResults').classList.remove('show');
+
+      // Count already-graded source blocks
+      document.querySelectorAll('.source-block').forEach(block => {
+        if (block.classList.contains('graded-correct')) cardGradedCorrect++;
+        if (block.classList.contains('graded-wrong')) cardGradedWrong++;
+      });
+
+      showSourceCard(cardIdx);
+    }
+
+    function exitCardMode() {
+      document.querySelectorAll('.source-block').forEach(b => b.classList.remove('card-active'));
+      document.getElementById('cardResults').classList.remove('show');
+    }
+
+    function showSourceCard(idx) {
+      if (idx < 0 || idx >= SOURCE_GROUPS.length) return;
+      cardIdx = idx;
+
+      document.querySelectorAll('.source-block').forEach(b => b.classList.remove('card-active'));
+      const block = document.getElementById(`source-${idx}`);
+      if (block) {
+        block.classList.add('card-active');
+        block.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+
+      document.getElementById('cardCurrent').textContent = idx + 1;
+      document.getElementById('cardTotal').textContent = SOURCE_GROUPS.length;
+      document.getElementById('cardPrevBtn').disabled = idx === 0;
+
+      const nextBtn = document.getElementById('cardNextBtn');
+      if (idx === SOURCE_GROUPS.length - 1) {
+        nextBtn.textContent = '결과 보기';
+      } else {
+        nextBtn.textContent = '다음 →';
+      }
+
+      updateCardNav();
+    }
+
+    function updateCardNav() {
+      document.getElementById('cardCorrect').textContent = cardGradedCorrect;
+      document.getElementById('cardWrong').textContent = cardGradedWrong;
+      const graded = cardGradedCorrect + cardGradedWrong;
+      const pct = SOURCE_GROUPS.length > 0 ? (graded / SOURCE_GROUPS.length) * 100 : 0;
+      document.getElementById('cardBarFill').style.width = pct + '%';
+    }
+
+    function cardNext() {
+      if (cardIdx < SOURCE_GROUPS.length - 1) {
+        showSourceCard(cardIdx + 1);
+      } else {
+        // Show results
+        showCardResults();
+      }
+    }
+
+    function cardPrev() {
+      if (cardIdx > 0) showSourceCard(cardIdx - 1);
+    }
+
+    function showCardResults() {
+      document.querySelectorAll('.source-block').forEach(b => b.classList.remove('card-active'));
+      const total = SOURCE_GROUPS.length;
+      document.getElementById('crScore').textContent = `${cardGradedCorrect} / ${total}`;
+      document.getElementById('cardResults').classList.add('show');
+    }
+
+    document.getElementById('cardNextBtn').addEventListener('click', cardNext);
+    document.getElementById('cardPrevBtn').addEventListener('click', cardPrev);
+
+    // Keyboard: arrow keys for card navigation
+    document.addEventListener('keydown', (e) => {
+      if (!isCardMode) return;
+      if (e.target.tagName === 'TEXTAREA') return; // don't hijack while typing
+
+      if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+        e.preventDefault();
+        cardNext();
+      } else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+        e.preventDefault();
+        cardPrev();
+      }
+    });
+
+    // When self-grade buttons are clicked in card mode, track card-level score
+    function setupCardModeGradeTracking() {
+      document.querySelectorAll('.self-grade-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          if (!isCardMode) return;
+
+          const wordId = btn.dataset.id;
+          const val = btn.dataset.val;
+
+          // Find which source block this word belongs to
+          const wordSub = btn.closest('.word-sub');
+          const sourceBlock = btn.closest('.source-block');
+          if (!sourceBlock) return;
+
+          // Check if ALL words in this source block have been graded
+          const allGradeRows = sourceBlock.querySelectorAll('.self-grade-row');
+          const allGraded = Array.from(allGradeRows).every(row => {
+            return row.querySelector('.self-grade-btn.selected') !== null;
+          });
+
+          if (allGraded && !sourceBlock.dataset.cardGraded) {
+            sourceBlock.dataset.cardGraded = '1';
+
+            // Check if all are O
+            const allCorrect = Array.from(allGradeRows).every(row => {
+              const selected = row.querySelector('.self-grade-btn.selected');
+              return selected && selected.dataset.val === 'o';
+            });
+
+            if (allCorrect) {
+              sourceBlock.classList.add('graded-correct');
+              cardGradedCorrect++;
+            } else {
+              sourceBlock.classList.add('graded-wrong');
+              cardGradedWrong++;
+            }
+            updateCardNav();
+          }
+        });
+      });
+    }
 
     init();
   </script>
