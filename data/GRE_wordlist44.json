@@ -2602,17 +2602,6 @@
   },
   {
     "id": "122",
-    "word": "stratification",
-    "pos": "n.",
-    "head_meanings": [],
-    "synonyms_from_image": [],
-    "tips": [
-      "`stratify`의 명사형. '계층화, 층상 구조'.",
-      "콜로케이션: `social stratification`, `economic stratification`. GRE 사회 지문 단골!"
-    ]
-  },
-  {
-    "id": "123",
     "word": "stratum",
     "pos": "n.",
     "head_meanings": [
@@ -2634,7 +2623,7 @@
     ]
   },
   {
-    "id": "124",
+    "id": "123",
     "word": "stray",
     "pos": "v.",
     "head_meanings": [
@@ -2664,7 +2653,7 @@
     ]
   },
   {
-    "id": "125",
+    "id": "124",
     "word": "streamline",
     "pos": "n./adj./v.",
     "head_meanings": [
@@ -2679,7 +2668,7 @@
     ]
   },
   {
-    "id": "126",
+    "id": "125",
     "word": "stricture",
     "pos": "n.",
     "head_meanings": [
@@ -2702,7 +2691,7 @@
     ]
   },
   {
-    "id": "127",
+    "id": "126",
     "word": "strident",
     "pos": "adj.",
     "head_meanings": [
@@ -2721,7 +2710,7 @@
     ]
   },
   {
-    "id": "128",
+    "id": "127",
     "word": "stringent",
     "pos": "adj.",
     "head_meanings": [
@@ -2752,7 +2741,7 @@
     ]
   },
   {
-    "id": "129",
+    "id": "128",
     "word": "strip",
     "pos": "v.",
     "head_meanings": [
@@ -2768,7 +2757,7 @@
     ]
   },
   {
-    "id": "130",
+    "id": "129",
     "word": "strip away",
     "pos": "v.",
     "head_meanings": [
@@ -2805,7 +2794,7 @@
     ]
   },
   {
-    "id": "131",
+    "id": "130",
     "word": "strive",
     "pos": "v.",
     "head_meanings": [
@@ -2832,7 +2821,7 @@
     ]
   },
   {
-    "id": "132",
+    "id": "131",
     "word": "stroke",
     "pos": "n./v.",
     "head_meanings": [
@@ -2848,7 +2837,7 @@
     ]
   },
   {
-    "id": "133",
+    "id": "132",
     "word": "strut",
     "pos": "v.",
     "head_meanings": [
@@ -2866,7 +2855,7 @@
     ]
   },
   {
-    "id": "134",
+    "id": "133",
     "word": "strut",
     "pos": "n.",
     "head_meanings": [
@@ -2885,7 +2874,7 @@
     ]
   },
   {
-    "id": "135",
+    "id": "134",
     "word": "stubborn",
     "pos": "adj.",
     "head_meanings": [
@@ -2913,7 +2902,7 @@
     ]
   },
   {
-    "id": "136",
+    "id": "135",
     "word": "studied",
     "pos": "adj.",
     "head_meanings": [
@@ -2932,7 +2921,7 @@
     ]
   },
   {
-    "id": "137",
+    "id": "136",
     "word": "stultify",
     "pos": "v.",
     "head_meanings": [
@@ -2952,7 +2941,7 @@
     ]
   },
   {
-    "id": "138",
+    "id": "137",
     "word": "stun",
     "pos": "v.",
     "head_meanings": [
@@ -2977,7 +2966,7 @@
     ]
   },
   {
-    "id": "139",
+    "id": "138",
     "word": "stunned",
     "pos": "adj.",
     "head_meanings": [
@@ -2992,7 +2981,7 @@
     ]
   },
   {
-    "id": "140",
+    "id": "139",
     "word": "stunning",
     "pos": "adj.",
     "head_meanings": [
@@ -3020,7 +3009,7 @@
     ]
   },
   {
-    "id": "141",
+    "id": "140",
     "word": "stupefy",
     "pos": "v.",
     "head_meanings": [
@@ -3042,25 +3031,7 @@
     ]
   },
   {
-    "id": "142",
-    "word": "stupefaction",
-    "pos": "n.",
-    "head_meanings": [],
-    "synonyms_from_image": [
-      "stunned condition",
-      "torpor",
-      "inertness",
-      "coma",
-      "numbness",
-      "paralysis"
-    ],
-    "tips": [
-      "`stupefy`의 명사형. '무감각 상태, 멍한 상태, 깜짝 놀람'.",
-      "`torpor`(무기력), `stupor`(혼수)와 유의어야."
-    ]
-  },
-  {
-    "id": "143",
+    "id": "141",
     "word": "stupor",
     "pos": "n.",
     "head_meanings": [
@@ -3081,7 +3052,7 @@
     ]
   },
   {
-    "id": "144",
+    "id": "142",
     "word": "sturdy",
     "pos": "adj.",
     "head_meanings": [
@@ -3103,7 +3074,7 @@
     ]
   },
   {
-    "id": "145",
+    "id": "143",
     "word": "stymie",
     "pos": "v./n.",
     "head_meanings": [
@@ -3127,7 +3098,7 @@
     ]
   },
   {
-    "id": "146",
+    "id": "144",
     "word": "suave",
     "pos": "adj.",
     "head_meanings": [
@@ -3160,7 +3131,7 @@
     ]
   },
   {
-    "id": "147",
+    "id": "145",
     "word": "suavity",
     "pos": "n.",
     "head_meanings": [
@@ -3180,7 +3151,7 @@
     ]
   },
   {
-    "id": "148",
+    "id": "146",
     "word": "subdue",
     "pos": "v.",
     "head_meanings": [
@@ -3222,7 +3193,7 @@
     ]
   },
   {
-    "id": "149",
+    "id": "147",
     "word": "subdued",
     "pos": "adj.",
     "head_meanings": [
@@ -3237,7 +3208,7 @@
     ]
   },
   {
-    "id": "150",
+    "id": "148",
     "word": "subjective",
     "pos": "adj.",
     "head_meanings": [
@@ -3258,7 +3229,7 @@
     ]
   },
   {
-    "id": "151",
+    "id": "149",
     "word": "subject to",
     "pos": "phr.",
     "head_meanings": [
@@ -3286,7 +3257,7 @@
     ]
   },
   {
-    "id": "152",
+    "id": "150",
     "word": "subjugate",
     "pos": "v.",
     "head_meanings": [
@@ -3308,7 +3279,7 @@
     ]
   },
   {
-    "id": "153",
+    "id": "151",
     "word": "sublime",
     "pos": "adj.",
     "head_meanings": [
