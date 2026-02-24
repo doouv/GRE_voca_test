@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "001",
     "word": "somber",
@@ -244,8 +244,8 @@
     "word": "soporific",
     "pos": "adj./n.",
     "head_meanings": [
-      "잠오게 하는, 최면의, 졸리는",
-      "(n.) 최면제, 수면제"
+      "adj.) 잠오게 하는, 최면의, 졸리는",
+      "n.) 최면제, 수면제"
     ],
     "synonyms_from_image": [
       "sedative",
@@ -317,11 +317,10 @@
     "word": "spare",
     "pos": "v./adj.",
     "head_meanings": [
-      "<비용·노력 등을> 아끼다, 절약하다",
-      "<말·행동 등을> 삼가다",
-      "용서하다, 목숨을 살려주다",
-      "할애하다/떼어주다, 없이 지내다(do without)",
-      "예비의; 여분의; 검소한"
+      "v.) <비용·노력 등을> 아끼다, 절약하다",
+      "v.) <말·행동 등을> 삼가다; 용서하다, 목숨을 살려주다",
+      "v.) 할애하다/떼어주다, 없이 지내다(do without)",
+      "adj.) 예비의; 여분의; 검소한, 간결한"
     ],
     "synonyms_from_image": [],
     "tips": [
@@ -391,9 +390,8 @@
     "word": "sparkly",
     "pos": "adj./adv.",
     "head_meanings": [
-      "불꽃 튀기는",
-      "반짝이는(glittery)",
-      "활기 있게(lively, vivaciously, effervescently)"
+      "adj.) 불꽃 튀기는, 반짝이는(glittery)",
+      "adv.) 활기 있게(lively, vivaciously, effervescently)"
     ],
     "synonyms_from_image": [],
     "tips": [
@@ -423,7 +421,7 @@
     ],
     "tips": [
       "발음이 '스파스'인데, '스카스(scarce)'와 비슷하다고 기억해! 둘 다 '부족한, 드문'이야.",
-      "콜로케이션: `sparse population/vegetation/data` → 드문 인구/식생/데이터. `scant`(부족한), `meager`(빈약한)와 유의어. 반의어: `dense`, `abundant`."
+      "콜로케이션: `sparse population/vegetation/data` → 드문 인구/식생/데이터. 반의어: `dense`, `abundant`."
     ]
   },
   {
@@ -449,7 +447,7 @@
     ],
     "tips": [
       "스파르타(Sparta)에서 온 단어! 스파르타 전사들은 사치 없이 엄격하고 간소하게 살았잖아. 그래서 → 간소한, 검소한, 엄격한.",
-      "콜로케이션: `spartan conditions/lifestyle/room` → 꾸밈없이 간소한 환경/생활. `austere`(엄격하고 간소한), `ascetic`(금욕적인)과 유의어야."
+      "콜로케이션: `spartan conditions/lifestyle/room` → 꾸밈없이 간소한 환경/생활."
     ]
   },
   {
@@ -514,7 +512,7 @@
     ],
     "tips": [
       "원래 물고기가 '알을 낳다'인데, 비유적으로 '무언가를 탄생시키다/만들어내다'로 확장돼. 보통 부정적인 것을 만들어낼 때 많이 써.",
-      "콜로케이션: `spawn controversy/debate/problems` → 논란/문제를 일으키다. `engender`, `beget`과 유의어. 단순히 '만들다(create)'보다 '번식하듯 생겨나다'는 뉘앙스야."
+      "콜로케이션: `spawn controversy/debate/problems` → 논란/문제를 일으키다. 단순히 '만들다(create)'보다 '번식하듯 생겨나다'는 뉘앙스야."
     ]
   },
   {
@@ -572,7 +570,7 @@
     ],
     "tips": [
       "`speculate`는 핵심이 '확실하지 않은 것에 대해 생각/판단하다'야:\n1) 깊이 생각하다 → 심사숙고하다, 사색하다\n2) 근거 없이 판단하다 → 추측하다\n3) 불확실한 곳에 돈을 넣다 → 투기하다\n전부 '불확실한 것에 마음을 쓰다'라는 공통점이 있어.",
-      "콜로케이션: `speculate about/on/that`. GRE에서는 주로 '추측하다' 의미로 나와. `conjecture`(추측)와 유의어."
+      "콜로케이션: `speculate about/on/that`. GRE에서는 주로 '추측하다' 의미로 나와."
     ]
   },
   {
@@ -629,7 +627,7 @@
     ],
     "tips": [
       "`spell`(주문) + `binding`(묶는) → 주문에 묶인 것처럼 꼼짝 못 하게 매료시키는!",
-      "콜로케이션: `spellbinding performance/story/speaker`. `captivating`, `enthralling`, `riveting`과 유의어. 반의어: `tedious`, `boring`."
+      "콜로케이션: `spellbinding performance/story/speaker`. 반의어: `tedious`, `boring`."
     ]
   },
   {
@@ -649,7 +647,7 @@
     ],
     "tips": [
       "`spend`(쓰다) + `thrift`(절약) → 절약을 '써버리는' 사람 = 낭비가. 이름부터 아이러니한 단어야!",
-      "반의어: `miser`(구두쇠), `penny-pincher`(짠돌이). 유의어: `prodigal`(방탕한), `profligate`(낭비하는). GRE에서 대비 관계로 자주 나와."
+      "반의어: `miser`(구두쇠), `penny-pincher`(짠돌이)."
     ]
   },
   {
@@ -670,9 +668,8 @@
     "word": "spiral",
     "pos": "n./v.",
     "head_meanings": [
-      "소용돌이 모양의",
-      "나선형의",
-      "나선형으로 돌다/움직이다"
+      "n.) 소용돌이, 나선(형)",
+      "v.) 나선형으로 돌다/움직이다; (물가·상황 등이) 급격히 오르다/나빠지다"
     ],
     "synonyms_from_image": [
       "churning"
@@ -809,9 +806,8 @@
     "word": "splurge",
     "pos": "v./n.",
     "head_meanings": [
-      "사치를 하다, 낭비하다",
-      "(on~) 과시하다, 자랑하다",
-      "과시, 호사"
+      "v.) 사치를 하다, 낭비하다; (on~) 과시하다, 자랑하다",
+      "n.) 과시, 호사, 낭비"
     ],
     "synonyms_from_image": [],
     "tips": [
@@ -824,10 +820,9 @@
     "word": "spoil",
     "pos": "v./n.",
     "head_meanings": [
-      "상하게 하다, 망치다, 못쓰게 하다",
-      "(음식물 등을) 썩히다",
-      "(성격을) 버리다; 응석 받다; 버릇없게 만들다",
-      "(pl.) 전리품, 약탈품"
+      "v.) 상하게 하다, 망치다, 못쓰게 하다",
+      "v.) (음식물 등을) 썩히다; (성격을) 버릇없게 만들다",
+      "n.) (pl. spoils) 전리품, 약탈품"
     ],
     "synonyms_from_image": [],
     "tips": [
@@ -919,7 +914,7 @@
     ],
     "tips": [
       "어근 `spor-` = 씨앗(spore). 씨앗이 여기저기 흩뿌려지듯 → 산발적인, 간헐적인.",
-      "콜로케이션: `sporadic violence/outbreaks/protests` → 산발적 폭력/발생/시위. `intermittent`(간간이), `spasmodic`(불규칙한)과 유의어. 반의어: `constant`, `continuous`."
+      "콜로케이션: `sporadic violence/outbreaks/protests` → 산발적 폭력/발생/시위. 반의어: `constant`, `continuous`."
     ]
   },
   {
@@ -1001,9 +996,8 @@
     "word": "spur",
     "pos": "n./v.",
     "head_meanings": [
-      "(말 등에) 박차",
-      "자극, 자극제",
-      "자극하다, 박차를 가하다"
+      "n.) (말 등에) 박차; 자극, 자극제",
+      "v.) 자극하다, 박차를 가하다"
     ],
     "synonyms_from_image": [
       "stimulate",
@@ -1074,7 +1068,8 @@
     "word": "spurring",
     "pos": "n./v.",
     "head_meanings": [
-      "(=) fostering"
+      "n.) 촉진, 자극(= fostering)",
+      "v.) 촉진하는, 자극하는(spur의 현재분사)"
     ],
     "synonyms_from_image": [
       "fostering"
@@ -1153,7 +1148,7 @@
     ],
     "tips": [
       "발음이 `spur`(박차)와 비슷한데, 의미는 정반대 방향이야. 발로 걷어차듯 → 거절하다, 경멸하다. 단순 reject보다 훨씬 강하고 모욕적인 거절이야.",
-      "콜로케이션: `spurn an offer/advance/invitation` → 제안/접근/초대를 냉정히 거절하다. `rebuff`, `scorn`, `disdain`과 유의어."
+      "콜로케이션: `spurn an offer/advance/invitation` → 제안/접근/초대를 냉정히 거절하다."
     ]
   },
   {
@@ -1161,7 +1156,8 @@
     "word": "squabble",
     "pos": "n./v.",
     "head_meanings": [
-      "쓸데없는 말싸움, 언쟁"
+      "n.) 쓸데없는 말싸움, 언쟁",
+      "v.) 말다투다, 옥신각신하다"
     ],
     "synonyms_from_image": [
       "fight",
@@ -1349,7 +1345,7 @@
     ],
     "tips": [
       "`stagger`(비틀거리다)에서 파생. 너무 놀라서 비틀거릴 정도로 → 엄청난, 놀라운.",
-      "콜로케이션: `staggering amount/number/cost` → 어마어마한 양/수/비용. `astounding`, `overwhelming`과 유의어."
+      "콜로케이션: `staggering amount/number/cost` → 어마어마한 양/수/비용."
     ]
   },
   {
@@ -1440,10 +1436,9 @@
     "word": "stain",
     "pos": "v./n.",
     "head_meanings": [
-      "얼룩, 때, 오점, 흠, 오염",
-      "얼룩지게 하다, 더럽히다",
-      "(명성 등을) 손상시키다",
-      "(색을) 입히다/염색하다"
+      "n.) 얼룩, 때, 오점, 흠, 오염",
+      "v.) 얼룩지게 하다, 더럽히다; (명성 등을) 손상시키다",
+      "v.) (색을) 입히다/염색하다"
     ],
     "synonyms_from_image": [
       "discolor",
@@ -1469,7 +1464,7 @@
     ],
     "tips": [
       "`stain`은 핵심이 '(표면에) 흔적을 남기다'야:\n1) 물리적 → 얼룩/때를 남기다\n2) 추상적 → 명예/명성에 오점을 남기다\n3) 의도적 → 색을 입히다, 염색하다\n방향은 달라도 전부 '지워지지 않는 흔적을 남긴다'는 공통점이야.",
-      "콜로케이션: `stain on one's reputation/character` → 명성의 오점. `tarnish`, `blemish`, `sully`와 유의어."
+      "콜로케이션: `stain on one's reputation/character` → 명성의 오점."
     ]
   },
   {
@@ -1527,7 +1522,7 @@
     ],
     "tips": [
       "체스에서 왕이 움직일 수 없지만 체크도 아닌 상태 = `stalemate`. 그래서 → 교착 상태, 아무도 이길 수 없는 상황.",
-      "콜로케이션: `reach/break a stalemate`. `deadlock`, `impasse`와 유의어. GRE 국제정치/협상 지문에서 자주 나와."
+      "콜로케이션: `reach/break a stalemate`. GRE 국제정치/협상 지문에서 자주 나와."
     ]
   },
   {
@@ -1630,7 +1625,7 @@
   },
   {
     "id": "075",
-    "word": "stand offish",
+    "word": "standoffish / stand offish",
     "pos": "adj.",
     "head_meanings": [
       "쌀쌀한, 냉담한, 삼가는(reserved)",
@@ -1650,44 +1645,19 @@
       "introverted"
     ],
     "tips": [
-      "`standoffish`와 같은 단어야. 사람과 '거리를 두고 서있는(stand off)' → 쌀쌀한, 냉담한.",
-      "콜로케이션: `seem/appear standoffish`. `aloof`, `reserved`, `distant`와 유의어. 반의어: `affable`, `gregarious`, `sociable`."
+      "붙여 쓰는 `standoffish`가 표준 스펠링. 사람과 '거리를 두고 서있는(stand off)' → 쌀쌀한, 냉담한.",
+      "`aloof`와 거의 같은 뜻인데, standoffish가 좀 더 '의도적으로 거리를 두는' 느낌이야.",
+      "콜로케이션: `seem/appear standoffish`. 반의어: `affable`, `gregarious`, `sociable`."
     ]
   },
   {
     "id": "076",
-    "word": "standoffish",
-    "pos": "adj.",
-    "head_meanings": [
-      "쌀쌀한, 냉담한, 삼가는(reserved)",
-      "무뚝뚝한, 서먹한"
-    ],
-    "synonyms_from_image": [
-      "aloof",
-      "reserved",
-      "distant",
-      "remote",
-      "detached",
-      "withdrawn",
-      "uncommunicative",
-      "unresponsive",
-      "unfriendly",
-      "unsociable",
-      "introverted"
-    ],
-    "tips": [
-      "위의 `stand offish`와 동일. 붙여 쓰는 게 표준 스펠링이야.",
-      "`aloof`와 거의 같은 뜻인데, standoffish가 좀 더 '의도적으로 거리를 두는' 느낌이야."
-    ]
-  },
-  {
-    "id": "077",
     "word": "stark",
     "pos": "adj./adv.",
     "head_meanings": [
-      "(경치 등이) 황량한, 황폐한",
-      "적나라한; 분명한, 뚜렷한",
-      "매우 간소한, 수수한"
+      "adj.) (경치 등이) 황량한, 황폐한; 적나라한; 분명한, 뚜렷한",
+      "adj.) 매우 간소한, 수수한",
+      "adv.) 완전히, 전적으로(stark naked = 발가벗은)"
     ],
     "synonyms_from_image": [
       "desolate",
@@ -1744,7 +1714,7 @@
     ]
   },
   {
-    "id": "078",
+    "id": "077",
     "word": "starkly",
     "pos": "adv.",
     "head_meanings": [
@@ -1759,7 +1729,7 @@
     ]
   },
   {
-    "id": "079",
+    "id": "078",
     "word": "stasis",
     "pos": "n.",
     "head_meanings": [
@@ -1773,7 +1743,7 @@
     ]
   },
   {
-    "id": "080",
+    "id": "079",
     "word": "static",
     "pos": "adj.",
     "head_meanings": [
@@ -1794,7 +1764,7 @@
     ]
   },
   {
-    "id": "081",
+    "id": "080",
     "word": "status quo",
     "pos": "n.",
     "head_meanings": [
@@ -1808,7 +1778,7 @@
     ]
   },
   {
-    "id": "082",
+    "id": "081",
     "word": "statute",
     "pos": "n.",
     "head_meanings": [
@@ -1831,7 +1801,7 @@
     ]
   },
   {
-    "id": "083",
+    "id": "082",
     "word": "statutory",
     "pos": "adj.",
     "head_meanings": [
@@ -1851,18 +1821,30 @@
     ]
   },
   {
-    "id": "084",
+    "id": "083",
     "word": "staunch",
-    "pos": "",
-    "head_meanings": [],
-    "synonyms_from_image": [],
+    "pos": "adj./v.",
+    "head_meanings": [
+      "adj.) 확고한, 충실한, 흔들리지 않는",
+      "v.) (피·흐름을) 멈추게 하다, 지혈하다(=stanch)"
+    ],
+    "synonyms_from_image": [
+      "steadfast",
+      "stalwart",
+      "unwavering",
+      "loyal",
+      "faithful",
+      "committed",
+      "devoted",
+      "dedicated"
+    ],
     "tips": [
       "`staunch`(형용사) = 확고한, 충실한, 흔들리지 않는. 동사 `stanch`(지혈하다)와 철자 주의!",
-      "콜로케이션: `staunch supporter/defender/ally/critic` → 확고한 지지자/비평가. `steadfast`, `stalwart`, `unwavering`과 유의어."
+      "콜로케이션: `staunch supporter/defender/ally/critic` → 확고한 지지자/비평가."
     ]
   },
   {
-    "id": "085",
+    "id": "084",
     "word": "stave off",
     "pos": "phr.v.",
     "head_meanings": [
@@ -1878,7 +1860,7 @@
     ]
   },
   {
-    "id": "086",
+    "id": "085",
     "word": "steadfast",
     "pos": "adj.",
     "head_meanings": [
@@ -1900,7 +1882,7 @@
     ]
   },
   {
-    "id": "087",
+    "id": "086",
     "word": "stealth",
     "pos": "n.",
     "head_meanings": [
@@ -1915,7 +1897,7 @@
     ]
   },
   {
-    "id": "088",
+    "id": "087",
     "word": "steep",
     "pos": "v.",
     "head_meanings": [
@@ -1931,11 +1913,11 @@
     ],
     "tips": [
       "형용사 steep(가파른)은 다 아는데, 동사 steep는 달라!\n동사: '액체에 담그다, 적시다' → 비유적으로 `steeped in tradition/history` = 전통/역사에 흠뻑 젖은, 깊이 배어있는.\nGRE에서는 이 비유적 용법이 핵심이야!",
-      "콜로케이션: `steeped in culture/history/tradition`. `imbue`, `infuse`, `permeate`와 유의어."
+      "콜로케이션: `steeped in culture/history/tradition`."
     ]
   },
   {
-    "id": "089",
+    "id": "088",
     "word": "stellar",
     "pos": "adj.",
     "head_meanings": [
@@ -1954,7 +1936,7 @@
     ]
   },
   {
-    "id": "090",
+    "id": "089",
     "word": "stem",
     "pos": "v.",
     "head_meanings": [
@@ -1977,18 +1959,7 @@
     ]
   },
   {
-    "id": "091",
-    "word": "stemming",
-    "pos": "",
-    "head_meanings": [],
-    "synonyms_from_image": [],
-    "tips": [
-      "`stem`의 현재분사. 문맥에 따라 '저지하는' 또는 '비롯되는'.",
-      "앞에 from이 있으면 '비롯되는', 없으면 '저지하는'으로 읽으면 돼."
-    ]
-  },
-  {
-    "id": "092",
+    "id": "090",
     "word": "stem from",
     "pos": "phr.v.",
     "head_meanings": [
@@ -2009,7 +1980,7 @@
     ]
   },
   {
-    "id": "093",
+    "id": "091",
     "word": "stench",
     "pos": "n.",
     "head_meanings": [
@@ -2022,7 +1993,7 @@
     ]
   },
   {
-    "id": "094",
+    "id": "092",
     "word": "stentorian",
     "pos": "adj.",
     "head_meanings": [
@@ -2039,7 +2010,7 @@
     ]
   },
   {
-    "id": "095",
+    "id": "093",
     "word": "stereotyped",
     "pos": "adj.",
     "head_meanings": [
@@ -2063,7 +2034,7 @@
     ]
   },
   {
-    "id": "096",
+    "id": "094",
     "word": "stereotype",
     "pos": "n.",
     "head_meanings": [
@@ -2077,7 +2048,7 @@
     ]
   },
   {
-    "id": "097",
+    "id": "095",
     "word": "sterling",
     "pos": "adj.",
     "head_meanings": [
@@ -2101,7 +2072,7 @@
     ]
   },
   {
-    "id": "098",
+    "id": "096",
     "word": "stickler",
     "pos": "n.",
     "head_meanings": [
@@ -2120,7 +2091,7 @@
     ]
   },
   {
-    "id": "099",
+    "id": "097",
     "word": "stiff",
     "pos": "adj.",
     "head_meanings": [
@@ -2136,7 +2107,7 @@
     ]
   },
   {
-    "id": "100",
+    "id": "098",
     "word": "stiffness",
     "pos": "n.",
     "head_meanings": [
@@ -2149,7 +2120,7 @@
     ]
   },
   {
-    "id": "101",
+    "id": "099",
     "word": "stifle",
     "pos": "v.",
     "head_meanings": [
@@ -2181,7 +2152,7 @@
     ]
   },
   {
-    "id": "102",
+    "id": "100",
     "word": "stigma",
     "pos": "n.",
     "head_meanings": [
@@ -2201,7 +2172,7 @@
     ]
   },
   {
-    "id": "103",
+    "id": "101",
     "word": "stigmatize",
     "pos": "v.",
     "head_meanings": [
@@ -2221,7 +2192,7 @@
     ]
   },
   {
-    "id": "104",
+    "id": "102",
     "word": "still",
     "pos": "adj.",
     "head_meanings": [
@@ -2237,7 +2208,7 @@
     ]
   },
   {
-    "id": "105",
+    "id": "103",
     "word": "stilted",
     "pos": "adj.",
     "head_meanings": [
@@ -2257,7 +2228,7 @@
     ]
   },
   {
-    "id": "106",
+    "id": "104",
     "word": "stingy",
     "pos": "adj.",
     "head_meanings": [
@@ -2278,11 +2249,11 @@
     ],
     "tips": [
       "발음 '스틴지'. '찌르다(sting)'에서 왔다는 설이 있어 — 돈 쓸 때마다 가슴이 찌릿한 사람!",
-      "콜로케이션: `stingy with money/praise/compliments`. `miserly`, `parsimonious`, `niggardly`, `penny-pinching`과 유의어. 반의어: `generous`, `lavish`, `munificent`."
+      "콜로케이션: `stingy with money/praise/compliments`. 반의어: `generous`, `lavish`, `munificent`."
     ]
   },
   {
-    "id": "107",
+    "id": "105",
     "word": "stint",
     "pos": "v.",
     "head_meanings": [
@@ -2303,7 +2274,7 @@
     ]
   },
   {
-    "id": "108",
+    "id": "106",
     "word": "stint",
     "pos": "n.",
     "head_meanings": [
@@ -2322,7 +2293,7 @@
     ]
   },
   {
-    "id": "109",
+    "id": "107",
     "word": "stipulate",
     "pos": "v.",
     "head_meanings": [
@@ -2346,7 +2317,7 @@
     ]
   },
   {
-    "id": "110",
+    "id": "108",
     "word": "stodgy",
     "pos": "adj.",
     "head_meanings": [
@@ -2362,13 +2333,12 @@
     ]
   },
   {
-    "id": "111",
+    "id": "109",
     "word": "stoic",
     "pos": "n./adj.",
     "head_meanings": [
-      "스토아 철학자",
-      "극기/금욕의",
-      "태연한, 냉철한(감정을 드러내지 않는)"
+      "n.) 스토아 철학자; 금욕주의자",
+      "adj.) 극기/금욕의; 태연한, 냉철한(감정을 드러내지 않는)"
     ],
     "synonyms_from_image": [
       "patient man",
@@ -2388,7 +2358,7 @@
     ]
   },
   {
-    "id": "112",
+    "id": "110",
     "word": "stoicism",
     "pos": "n.",
     "head_meanings": [
@@ -2402,7 +2372,7 @@
     ]
   },
   {
-    "id": "113",
+    "id": "111",
     "word": "stoke",
     "pos": "v.",
     "head_meanings": [
@@ -2422,7 +2392,7 @@
     ]
   },
   {
-    "id": "114",
+    "id": "112",
     "word": "stolid",
     "pos": "adj.",
     "head_meanings": [
@@ -2446,7 +2416,7 @@
     ]
   },
   {
-    "id": "115",
+    "id": "113",
     "word": "stolidity",
     "pos": "n.",
     "head_meanings": [
@@ -2464,7 +2434,7 @@
     ]
   },
   {
-    "id": "116",
+    "id": "114",
     "word": "stoop (to)",
     "pos": "v.",
     "head_meanings": [
@@ -2479,7 +2449,7 @@
     ]
   },
   {
-    "id": "117",
+    "id": "115",
     "word": "stout",
     "pos": "adj.",
     "head_meanings": [
@@ -2531,7 +2501,7 @@
     ]
   },
   {
-    "id": "118",
+    "id": "116",
     "word": "straddle",
     "pos": "v.",
     "head_meanings": [
@@ -2549,7 +2519,7 @@
     ]
   },
   {
-    "id": "119",
+    "id": "117",
     "word": "straddling",
     "pos": "v.",
     "head_meanings": [
@@ -2562,13 +2532,13 @@
     ]
   },
   {
-    "id": "120",
+    "id": "118",
     "word": "straightforward",
     "pos": "adj./adv.",
     "head_meanings": [
-      "똑바른, 정확한, 솔직한, 부정이 없는; 직설의",
-      "(일 등이) 수월한, 간단한",
-      "adv.(또는 straightforwards) 똑바로; 직접으로; 솔직히; 정직하게"
+      "adj.) 똑바른, 정확한, 솔직한, 부정이 없는; 직설의",
+      "adj.) (일 등이) 수월한, 간단한",
+      "adv.) 똑바로; 직접으로; 솔직히; 정직하게"
     ],
     "synonyms_from_image": [
       "honest",
@@ -2586,11 +2556,11 @@
     ],
     "tips": [
       "말 그대로 '곧장(straight) 앞으로(forward)' → 1) 솔직한, 꾸밈없는 2) (일이) 간단한, 수월한.",
-      "콜로케이션: `straightforward answer/approach/process`. `candid`, `frank`(솔직한) / `uncomplicated`, `simple`(간단한)과 유의어."
+      "콜로케이션: `straightforward answer/approach/process`."
     ]
   },
   {
-    "id": "121",
+    "id": "119",
     "word": "stratagem",
     "pos": "n.",
     "head_meanings": [
@@ -2603,7 +2573,7 @@
     ]
   },
   {
-    "id": "122",
+    "id": "120",
     "word": "stratify",
     "pos": "v.",
     "head_meanings": [
@@ -2616,7 +2586,7 @@
     ]
   },
   {
-    "id": "123",
+    "id": "121",
     "word": "stratified",
     "pos": "adj.",
     "head_meanings": [
@@ -2627,11 +2597,11 @@
     ],
     "tips": [
       "`stratify`의 과거분사/형용사. '층이 나뉜, 계층화된'.",
-      "콜로케이션: `stratified society/rock/sample`. `hierarchical`과 유의어."
+      "콜로케이션: `stratified society/rock/sample`."
     ]
   },
   {
-    "id": "124",
+    "id": "122",
     "word": "stratification",
     "pos": "n.",
     "head_meanings": [],
@@ -2642,7 +2612,7 @@
     ]
   },
   {
-    "id": "125",
+    "id": "123",
     "word": "stratum",
     "pos": "n.",
     "head_meanings": [
@@ -2664,7 +2634,7 @@
     ]
   },
   {
-    "id": "126",
+    "id": "124",
     "word": "stray",
     "pos": "v.",
     "head_meanings": [
@@ -2690,18 +2660,17 @@
     ],
     "tips": [
       "핵심은 '정해진 길에서 벗어나다'야:\n1) 물리적 → 길을 잃다, 방황하다\n2) 논의/생각 → 탈선하다, 빗나가다\n3) 도덕적 → 타락하다, 잘못된 길로 가다\n형용사로는 `stray dog`(떠돌이 개), `stray bullet`(유탄).",
-      "콜로케이션: `stray from the path/topic/norm`. `deviate`, `digress`, `wander`와 유의어."
+      "콜로케이션: `stray from the path/topic/norm`."
     ]
   },
   {
-    "id": "127",
+    "id": "125",
     "word": "streamline",
     "pos": "n./adj./v.",
     "head_meanings": [
-      "유선, 유선형(의)",
-      "간소화된, 능률적인; 현대적인, 신식의",
-      "유선형으로 하다",
-      "(일, 과정, 계획 등을) 능률적으로 하다, 합리화(간소화)하다, 현대적으로 하다"
+      "n.) 유선, 유선형",
+      "adj.) 간소화된, 능률적인; 현대적인, 유선형의",
+      "v.) 유선형으로 하다; (일·과정 등을) 간소화하다, 능률적으로 하다"
     ],
     "synonyms_from_image": [],
     "tips": [
@@ -2710,7 +2679,7 @@
     ]
   },
   {
-    "id": "128",
+    "id": "126",
     "word": "stricture",
     "pos": "n.",
     "head_meanings": [
@@ -2733,7 +2702,7 @@
     ]
   },
   {
-    "id": "129",
+    "id": "127",
     "word": "strident",
     "pos": "adj.",
     "head_meanings": [
@@ -2752,7 +2721,7 @@
     ]
   },
   {
-    "id": "130",
+    "id": "128",
     "word": "stringent",
     "pos": "adj.",
     "head_meanings": [
@@ -2779,11 +2748,11 @@
     ],
     "tips": [
       "`string`(줄) + `-ent`. 줄로 꽉 조이듯 → 엄격한, 빡빡한.\n여러 맥락에서 쓰여:\n1) 규칙/법 → 엄중한 (stringent regulations)\n2) 금융 → 자금이 빡빡한 (stringent market)\n3) 논리 → 설득력 있는 (stringent argument)\n전부 '팽팽하게 조여진' 이미지야.",
-      "콜로케이션: `stringent requirements/standards/measures`. `rigorous`, `strict`, `exacting`과 유의어. 반의어: `lax`, `lenient`."
+      "콜로케이션: `stringent requirements/standards/measures`. 반의어: `lax`, `lenient`."
     ]
   },
   {
-    "id": "131",
+    "id": "129",
     "word": "strip",
     "pos": "v.",
     "head_meanings": [
@@ -2799,7 +2768,7 @@
     ]
   },
   {
-    "id": "132",
+    "id": "130",
     "word": "strip away",
     "pos": "v.",
     "head_meanings": [
@@ -2836,7 +2805,7 @@
     ]
   },
   {
-    "id": "133",
+    "id": "131",
     "word": "strive",
     "pos": "v.",
     "head_meanings": [
@@ -2863,17 +2832,14 @@
     ]
   },
   {
-    "id": "134",
+    "id": "132",
     "word": "stroke",
     "pos": "n./v.",
     "head_meanings": [
-      "동사: 쓰다듬다, 어루만지다",
-      "(남을) 달래다, 어르다, 구슬리다",
-      "(듣기 좋은 말을 하여) 남의 자존심을 만족시키다",
-      "명사: (무기 등으로) 치기, 타격, 일격",
-      "(손놀림/붓놀림)",
-      "(반복 운동의) 한 번 움직임; (수영 등) 한 번 젓기",
-      "(작품 등의) 특징 있는 필치, 효과적인 마무리"
+      "v.) 쓰다듬다, 어루만지다; (남을) 달래다, 구슬리다",
+      "n.) (무기 등으로) 치기, 타격, 일격",
+      "n.) (손놀림/붓놀림); (반복 운동의) 한 번 움직임",
+      "n.) (작품 등의) 특징 있는 필치, 효과적인 마무리"
     ],
     "synonyms_from_image": [],
     "tips": [
@@ -2882,7 +2848,7 @@
     ]
   },
   {
-    "id": "135",
+    "id": "133",
     "word": "strut",
     "pos": "v.",
     "head_meanings": [
@@ -2896,11 +2862,11 @@
     ],
     "tips": [
       "동사: 거만하게 으스대며 걷다. 공작새가 꼬리 펴고 걸어다니는 거 상상해!\n명사: 지주, 버팀목 (건물/비행기의 구조물을 지탱하는 막대).\n두 뜻이 완전 달라서 품사로 구별해야 해.",
-      "콜로케이션: `strut one's stuff`(자신감 있게 과시하다), `structural strut`(구조적 지주). `swagger`, `parade`와 유의어(동사)."
+      "콜로케이션: `strut one's stuff`(자신감 있게 과시하다), `structural strut`(구조적 지주). (동사)."
     ]
   },
   {
-    "id": "136",
+    "id": "134",
     "word": "strut",
     "pos": "n.",
     "head_meanings": [
@@ -2915,11 +2881,11 @@
     ],
     "tips": [
       "동사: 거만하게 으스대며 걷다. 공작새가 꼬리 펴고 걸어다니는 거 상상해!\n명사: 지주, 버팀목 (건물/비행기의 구조물을 지탱하는 막대).\n두 뜻이 완전 달라서 품사로 구별해야 해.",
-      "콜로케이션: `strut one's stuff`(자신감 있게 과시하다), `structural strut`(구조적 지주). `swagger`, `parade`와 유의어(동사)."
+      "콜로케이션: `strut one's stuff`(자신감 있게 과시하다), `structural strut`(구조적 지주). (동사)."
     ]
   },
   {
-    "id": "137",
+    "id": "135",
     "word": "stubborn",
     "pos": "adj.",
     "head_meanings": [
@@ -2947,7 +2913,7 @@
     ]
   },
   {
-    "id": "138",
+    "id": "136",
     "word": "studied",
     "pos": "adj.",
     "head_meanings": [
@@ -2966,7 +2932,7 @@
     ]
   },
   {
-    "id": "139",
+    "id": "137",
     "word": "stultify",
     "pos": "v.",
     "head_meanings": [
@@ -2986,7 +2952,7 @@
     ]
   },
   {
-    "id": "140",
+    "id": "138",
     "word": "stun",
     "pos": "v.",
     "head_meanings": [
@@ -3007,11 +2973,11 @@
     ],
     "tips": [
       "원래 '머리를 쳐서 기절시키다'인데, 비유적으로 '(놀라움으로) 넋을 잃게 하다'. 물리적 충격 → 정신적 충격.",
-      "콜로케이션: `stunned into silence` → 놀라서 말을 잃은. `stagger`, `astound`, `dumbfound`와 유의어."
+      "콜로케이션: `stunned into silence` → 놀라서 말을 잃은."
     ]
   },
   {
-    "id": "141",
+    "id": "139",
     "word": "stunned",
     "pos": "adj.",
     "head_meanings": [
@@ -3026,7 +2992,7 @@
     ]
   },
   {
-    "id": "142",
+    "id": "140",
     "word": "stunning",
     "pos": "adj.",
     "head_meanings": [
@@ -3054,7 +3020,7 @@
     ]
   },
   {
-    "id": "143",
+    "id": "141",
     "word": "stupefy",
     "pos": "v.",
     "head_meanings": [
@@ -3076,7 +3042,7 @@
     ]
   },
   {
-    "id": "144",
+    "id": "142",
     "word": "stupefaction",
     "pos": "n.",
     "head_meanings": [],
@@ -3094,7 +3060,7 @@
     ]
   },
   {
-    "id": "145",
+    "id": "143",
     "word": "stupor",
     "pos": "n.",
     "head_meanings": [
@@ -3115,7 +3081,7 @@
     ]
   },
   {
-    "id": "146",
+    "id": "144",
     "word": "sturdy",
     "pos": "adj.",
     "head_meanings": [
@@ -3137,11 +3103,12 @@
     ]
   },
   {
-    "id": "147",
+    "id": "145",
     "word": "stymie",
     "pos": "v./n.",
     "head_meanings": [
-      "방해하다, 곤란케 하다, 난처하게 하다"
+      "v.) 방해하다, 곤란케 하다, 난처하게 하다",
+      "n.) 곤경, 난관"
     ],
     "synonyms_from_image": [
       "hinder",
@@ -3160,7 +3127,7 @@
     ]
   },
   {
-    "id": "148",
+    "id": "146",
     "word": "suave",
     "pos": "adj.",
     "head_meanings": [
@@ -3189,11 +3156,11 @@
     ],
     "tips": [
       "라틴어 `suavis`(달콤한, 기분 좋은). 사람이 달콤하고 매끄러운 → 세련되고 상냥한. 약간 '너무 매끄러워서 얄미운' 뉘앙스가 있을 수도 있어.",
-      "콜로케이션: `suave manner/charm/diplomat`. `urbane`, `debonair`, `polished`와 유의어. 반의어: `gauche`, `boorish`, `uncouth`."
+      "콜로케이션: `suave manner/charm/diplomat`. 반의어: `gauche`, `boorish`, `uncouth`."
     ]
   },
   {
-    "id": "149",
+    "id": "147",
     "word": "suavity",
     "pos": "n.",
     "head_meanings": [
@@ -3209,11 +3176,11 @@
     ],
     "tips": [
       "`suave`의 명사형. '세련된 태도, 공손함, 우아함'.",
-      "`urbanity`와 거의 같은 뜻. `refinement`, `elegance`와 유의어."
+      "`urbanity`와 거의 같은 뜻."
     ]
   },
   {
-    "id": "150",
+    "id": "148",
     "word": "subdue",
     "pos": "v.",
     "head_meanings": [
@@ -3255,7 +3222,7 @@
     ]
   },
   {
-    "id": "151",
+    "id": "149",
     "word": "subdued",
     "pos": "adj.",
     "head_meanings": [
@@ -3270,7 +3237,7 @@
     ]
   },
   {
-    "id": "152",
+    "id": "150",
     "word": "subjective",
     "pos": "adj.",
     "head_meanings": [
@@ -3291,7 +3258,7 @@
     ]
   },
   {
-    "id": "153",
+    "id": "151",
     "word": "subject to",
     "pos": "phr.",
     "head_meanings": [
@@ -3319,7 +3286,7 @@
     ]
   },
   {
-    "id": "154",
+    "id": "152",
     "word": "subjugate",
     "pos": "v.",
     "head_meanings": [
@@ -3341,7 +3308,7 @@
     ]
   },
   {
-    "id": "155",
+    "id": "153",
     "word": "sublime",
     "pos": "adj.",
     "head_meanings": [
