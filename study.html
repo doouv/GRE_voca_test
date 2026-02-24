@@ -925,8 +925,8 @@
       const meanings = word.head_meanings.join(', ');
 
       let extraHtml = '';
+      const tips = word.tips || [];
       if (IS_MOCK) {
-        const tips = word.tips || [];
         if (tips.length > 0) {
           const formattedTips = tips.map(t =>
             t.replace(/`([^`]+)`/g, '<code>$1</code>')
@@ -944,11 +944,25 @@
       } else {
         const syns = word.synonyms_from_image || [];
         if (syns.length > 0) {
-          extraHtml = `
+          extraHtml += `
             <div class="section-divider"></div>
             <div class="syn-label">Synonyms</div>
             <div class="syn-chips">
               ${syns.map(s => `<span class="syn-chip">${s}</span>`).join('')}
+            </div>
+          `;
+        }
+        if (tips.length > 0) {
+          const formattedTips = tips.map(t =>
+            t.replace(/`([^`]+)`/g, '<code>$1</code>')
+          );
+          extraHtml += `
+            <div class="tips-wrap">
+              <div class="tips-avatar">🧠</div>
+              <div class="tips-bubble">
+                <div class="tip-label">Study Buddy</div>
+                ${formattedTips.map(t => `<div class="tip-item">${t}</div>`).join('')}
+              </div>
             </div>
           `;
         }

@@ -19,6 +19,11 @@
       "dull",
       "dull and dark in color",
       "dark"
+    ],
+    "tips": [
+      "`sombre`(프랑스어) = 그늘진. 하늘이 어두컴컴하면 기분도 침울해지잖아? 물리적 어둠 → 감정적 어둠, 이 연결이 핵심이야.",
+      "콜로케이션: `somber mood/tone/atmosphere/expression` → 침울한 분위기/표정. `solemn`(엄숙한)과 비슷하지만, somber는 '슬픔의 어두움'이 더 강해.",
+      "반의어: `cheerful`, `bright`, `lighthearted`. GRE에서 분위기 묘사 지문에 자주 나와."
     ]
   },
   {
@@ -40,6 +45,10 @@
       "drowsy",
       "sleeping",
       "slumberous"
+    ],
+    "tips": [
+      "어근 `somn-` = 잠(sleep). `insomnia`(불면증)의 그 somn이야! `somnolent` = 잠이 쏟아지는 상태.",
+      "콜로케이션: `somnolent village/afternoon` → 졸린 듯 한가로운 마을/오후. 유의어: `lethargic`, `languid`, `drowsy`. 반의어: `alert`, `wakeful`."
     ]
   },
   {
@@ -53,6 +62,10 @@
       "noisy",
       "rotund",
       "clattering"
+    ],
+    "tips": [
+      "어근 `son-` = 소리(sound). `sonic`(음속의), `resonance`(울림)와 같은 뿌리! 소리가 깊고 풍부하게 울려 퍼지는 느낌이야.",
+      "콜로케이션: `sonorous voice/tone/bell` → 울림이 풍부한 목소리/종소리. 단순히 '시끄러운'(loud)이 아니라 '깊고 풍성하게 울리는' 느낌이야."
     ]
   },
   {
@@ -77,6 +90,10 @@
       "moderate",
       "temper",
       "soften"
+    ],
+    "tips": [
+      "핵심은 '격한 것을 부드럽게 가라앉히는' 거야. 대상이 뭐냐에 따라 갈라져: 사람이면 → 달래다/위로하다, 고통이면 → 덜어주다, 감정이면 → 진정시키다.",
+      "콜로케이션: `soothe fears/nerves/pain/anxiety`. 유의어 비교: `mollify`(화를 누그러뜨리다) vs `soothe`(전반적으로 편안하게 해주다) vs `placate`(불만을 잠재우다)."
     ]
   },
   {
@@ -98,6 +115,10 @@
       "soporific",
       "palliative",
       "mild"
+    ],
+    "tips": [
+      "`soothe`의 형용사형. '~하게 만드는' 느낌이야. 편안하게 해주는, 진정시키는.",
+      "콜로케이션: `soothing voice/music/effect/cream`. `soporific`(잠 오게 하는)과 비교: soothing은 '편안한', soporific은 '졸린'에 가까워."
     ]
   },
   {
@@ -108,7 +129,11 @@
       "궤변, 아전인수, 억지 이론",
       "(남을 속키는) 논리, 잘못된 이론"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "어근 `soph-` = 지혜(wisdom). 그런데 여기선 반어적이야! '지혜로운 척하는 논리' = 궤변. 겉으로는 그럴듯하지만 실제로는 틀린 논리야.",
+      "관련어 체인: `sophism`(궤변) → `sophist`(궤변가) → `sophistry`(궤변법) → `sophisticated`(세련된/복잡한). 전부 `soph-` 가족이야."
+    ]
   },
   {
     "id": "007",
@@ -118,7 +143,11 @@
       "궤변가, 억지론가",
       "(고대 그리스의) 철학자/수사학 교사, 학자"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 그리스에서 `sophist`는 원래 '지혜로운 사람/선생님'이었는데, 플라톤이 이들을 '말로 사기 치는 사람들'로 깠거든. 그래서 부정적 의미가 붙었어.",
+      "GRE에서는 주로 부정적 뉘앙스: '그럴듯한 논리로 남을 속이는 사람'. `demagogue`(선동가)와 함께 자주 나와."
+    ]
   },
   {
     "id": "008",
@@ -149,6 +178,10 @@
       "enlightened",
       "knowledgeable",
       "civilized"
+    ],
+    "tips": [
+      "`sophisticated`는 뜻이 여러 갈래지만 핵심은 하나야: '단순하지 않은, 복잡한 경험을 거친'\n여기서 방향이 세 개로 갈라져:\n1) 사람에게 → 세련된, 교양 있는 (세상 경험이 많아서 우아한)\n2) 기계/시스템에 → 정교한, 복잡한 (기술적으로 고도화된)\n3) 취향/이해력에 → 박식한, 안목 있는 (깊이가 있는)",
+      "콜로케이션: `sophisticated audience/technology/approach`. 반의어: `naive`, `primitive`, `crude`. 어원 주의: `soph-`(지혜) 뿌리지만 '궤변'의 부정적 뉘앙스는 여기 없어."
     ]
   },
   {
@@ -163,6 +196,10 @@
     "synonyms_from_image": [
       "sophistry",
       "fallacious argument"
+    ],
+    "tips": [
+      "이 단어도 `soph-` 가족인데, 뜻의 스펙트럼이 넓어:\n1) 긍정적: 세련, 정교 → a city of great sophistication\n2) 부정적: 궤변, 억지 논리 → the sophistication of his argument (겉만 번지르르한 논리)\n문맥이 긍정이면 '세련', 부정이면 '궤변'으로 읽으면 돼.",
+      "GRE에서는 주로 긍정적 의미(세련/정교)로 나와. `sophistication of technique/taste/understanding`."
     ]
   },
   {
@@ -175,6 +212,10 @@
     "synonyms_from_image": [
       "sophism",
       "false argument"
+    ],
+    "tips": [
+      "`sophism`과 거의 같은 뜻이야. 둘 다 '그럴듯하지만 실은 틀린 논리'. `sophistry`가 좀 더 '궤변을 부리는 행위/방법' 자체를 가리켜.",
+      "콜로케이션: `mere sophistry`, `a piece of sophistry`. GRE 지문에서 누군가의 주장을 깎아내릴 때 자주 써."
     ]
   },
   {
@@ -192,6 +233,10 @@
       "arrogant",
       "haughty",
       "proud"
+    ],
+    "tips": [
+      "`sopho-`(지혜) + `moric`(바보 moron). 말 그대로 '반쯤만 아는 바보' → 좀 배웠다고 아는 체하는, 미숙한. 대학 2학년생(sophomore)도 같은 어원이야!",
+      "콜로케이션: `sophomoric humor/argument/attempt` → 유치한 유머/주장. `puerile`(유치한), `jejune`(유치하고 지루한)과 유의어야."
     ]
   },
   {
@@ -208,6 +253,10 @@
       "drowsy",
       "opiate",
       "hypnotic"
+    ],
+    "tips": [
+      "어근 `sopor-` = 깊은 잠. 형용사로는 '잠 오게 하는', 명사로는 '수면제'야.\n`somnolent`(졸린 상태) vs `soporific`(졸리게 만드는 것) → soporific은 원인, somnolent은 결과!",
+      "콜로케이션: `soporific lecture/effect/drug`. GRE에서 '지루한 강의'를 고급스럽게 표현할 때 딱이야."
     ]
   },
   {
@@ -227,6 +276,10 @@
       "rotten",
       "wicked",
       "vulgar"
+    ],
+    "tips": [
+      "`sordid`의 핵심은 '역겹도록 더러운'인데, 물리적으로도 도덕적으로도 쓰여:\n1) 물리적 환경 → 더럽고 지저분한 (sordid living conditions)\n2) 행위/동기 → 도덕적으로 더러운, 탐욕스러운 (sordid affair/motive)\n3) 방법 → 야비한, 치사한 (sordid means)\n공통점: 보기만 해도 불쾌한, 비위 상하는 느낌.",
+      "유의어 비교: `squalid`(물리적으로 더러운 쪽 강조) vs `sordid`(도덕적 더러움까지 포함). 반의어: `noble`, `honorable`."
     ]
   },
   {
@@ -253,6 +306,10 @@
       "self-government",
       "self-rule",
       "freedom"
+    ],
+    "tips": [
+      "어근 `sover-` ← 라틴어 `superanus`(위에 있는). '최고 위에 있는 권력' = 주권. 핵심은 '누구 위에도 없는 최고 권한'이야.",
+      "콜로케이션: `national sovereignty`, `sovereignty over`, `violation of sovereignty`. GRE 정치/역사 지문 단골이야."
     ]
   },
   {
@@ -266,7 +323,11 @@
       "할애하다/떼어주다, 없이 지내다(do without)",
       "예비의; 여분의; 검소한"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`spare`는 뜻이 정말 많은데, 핵심은 '여분으로 남겨두다/쓰지 않다'야:\n1) 쓰지 않다 → 아끼다, 절약하다 (spare no expense = 돈을 아끼지 않다)\n2) 행동을 안 하다 → 삼가다, 용서하다 (spare someone's life = 목숨을 살려주다)\n3) 남는 것을 주다 → 할애하다 (Can you spare a minute?)\n4) 형용사: 남아 있는 → 예비의, 여분의; 꼭 필요한 것만 → 검소한, 간결한",
+      "GRE 함정 단어! `spare prose/style` = 군더더기 없는 간결한 문체. 이 뜻을 모르면 함정에 빠져. `austere`, `lean`과 유의어야."
+    ]
   },
   {
     "id": "016",
@@ -298,6 +359,10 @@
       "supplementary",
       "reserve",
       "superfluous"
+    ],
+    "tips": [
+      "`spare`에서 파생. '아껴 쓰는' 이 핵심이고, 정도에 따라: 적당히 아끼면 → 절약하는(thrifty), 지나치게 아끼면 → 인색한(stingy).",
+      "콜로케이션: `sparing with/of` → ~을 아끼는. `be sparing of praise` = 칭찬에 인색한. `frugal`(검소한)과 비슷하지만 sparing은 '특정 대상을 아끼는' 느낌이 더 강해."
     ]
   },
   {
@@ -315,6 +380,10 @@
       "thinly",
       "in moderation",
       "scarcely"
+    ],
+    "tips": [
+      "`sparing`의 부사형. '조금씩, 아끼면서'라는 뜻이야.",
+      "콜로케이션: `use sparingly`, `spend sparingly`. 약 복용 설명서에서도 자주 보이는 표현이야."
     ]
   },
   {
@@ -326,7 +395,11 @@
       "반짝이는(glittery)",
       "활기 있게(lively, vivaciously, effervescently)"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`spark`(불꽃) + `-ly`. 불꽃이 튀듯 반짝이는 → 물리적으로 반짝이는 + 성격이 활기찬.",
+      "유의어: `glittery`(반짝이는), `effervescent`(활기찬). 주로 일상 영어에서 쓰이고 GRE에서는 드물어."
+    ]
   },
   {
     "id": "019",
@@ -347,6 +420,10 @@
       "paltry",
       "skimpy",
       "limited"
+    ],
+    "tips": [
+      "발음이 '스파스'인데, '스카스(scarce)'와 비슷하다고 기억해! 둘 다 '부족한, 드문'이야.",
+      "콜로케이션: `sparse population/vegetation/data` → 드문 인구/식생/데이터. `scant`(부족한), `meager`(빈약한)와 유의어. 반의어: `dense`, `abundant`."
     ]
   },
   {
@@ -369,6 +446,10 @@
       "severe",
       "ascetic",
       "abstemious"
+    ],
+    "tips": [
+      "스파르타(Sparta)에서 온 단어! 스파르타 전사들은 사치 없이 엄격하고 간소하게 살았잖아. 그래서 → 간소한, 검소한, 엄격한.",
+      "콜로케이션: `spartan conditions/lifestyle/room` → 꾸밈없이 간소한 환경/생활. `austere`(엄격하고 간소한), `ascetic`(금욕적인)과 유의어야."
     ]
   },
   {
@@ -385,6 +466,10 @@
       "sporadic",
       "desultory",
       "inconstant"
+    ],
+    "tips": [
+      "어근 `spasm`(경련) + `-odic`. 경련처럼 갑자기 일어났다 멈추는 → 1) 의학: 경련성의, 2) 일반: 불규칙한, 간헐적인.",
+      "콜로케이션: `spasmodic efforts/bursts` → 간헐적인 노력/분출. `sporadic`(산발적인), `intermittent`(단속적인)과 유의어. '꾸준하지 않은'이 핵심!"
     ]
   },
   {
@@ -402,6 +487,10 @@
       "rainstorm",
       "heavy rain",
       "flood"
+    ],
+    "tips": [
+      "발음 '스페이트'. 원래 뜻은 '홍수/급류'인데, 비유적으로 '한꺼번에 쏟아지는 것' = a spate of ~.",
+      "콜로케이션: `a spate of robberies/complaints/accidents` → 잇따른 강도/불만/사고. `deluge`, `torrent`와 유의어. GRE에서 비유적 의미로 더 자주 나와."
     ]
   },
   {
@@ -422,6 +511,10 @@
       "engender",
       "propagate",
       "beget"
+    ],
+    "tips": [
+      "원래 물고기가 '알을 낳다'인데, 비유적으로 '무언가를 탄생시키다/만들어내다'로 확장돼. 보통 부정적인 것을 만들어낼 때 많이 써.",
+      "콜로케이션: `spawn controversy/debate/problems` → 논란/문제를 일으키다. `engender`, `beget`과 유의어. 단순히 '만들다(create)'보다 '번식하듯 생겨나다'는 뉘앙스야."
     ]
   },
   {
@@ -443,6 +536,10 @@
       "seeming",
       "apparent",
       "plausible"
+    ],
+    "tips": [
+      "어근 `spec-` = 보다(look). '보기에는' 그럴듯한데 실제로는 틀린 → 겉만 번지르르한. 핵심은 '겉과 속이 다르다'야.",
+      "GRE 빈출! `specious argument/reasoning/claim` → 그럴듯하지만 실은 허점 있는 주장. `spurious`(가짜의)와 자주 비교돼: specious는 '그럴듯해 보이는', spurious는 '아예 가짜인'."
     ]
   },
   {
@@ -455,6 +552,10 @@
     ],
     "synonyms_from_image": [
       "color system"
+    ],
+    "tips": [
+      "어근 `spec-` = 보다. 빛을 분해해서 '보이는' 색의 범위 → 스펙트럼. 비유적으로 '넓은 범위/영역'이라는 뜻으로도 써.",
+      "콜로케이션: `across the spectrum`, `a broad/wide spectrum of` → 폭넓은 범위의. GRE 지문에서 의견이나 관점의 다양성을 표현할 때 자주 나와."
     ]
   },
   {
@@ -468,6 +569,10 @@
     ],
     "synonyms_from_image": [
       "conjecture"
+    ],
+    "tips": [
+      "`speculate`는 핵심이 '확실하지 않은 것에 대해 생각/판단하다'야:\n1) 깊이 생각하다 → 심사숙고하다, 사색하다\n2) 근거 없이 판단하다 → 추측하다\n3) 불확실한 곳에 돈을 넣다 → 투기하다\n전부 '불확실한 것에 마음을 쓰다'라는 공통점이 있어.",
+      "콜로케이션: `speculate about/on/that`. GRE에서는 주로 '추측하다' 의미로 나와. `conjecture`(추측)와 유의어."
     ]
   },
   {
@@ -482,6 +587,10 @@
     ],
     "synonyms_from_image": [
       "conjecture"
+    ],
+    "tips": [
+      "`speculate`의 명사형. 같은 세 갈래: 사색/추측/투기. 문맥에 따라 읽으면 돼.",
+      "콜로케이션: `mere speculation`(단순한 추측), `financial speculation`(금융 투기), `idle speculation`(근거 없는 추측)."
     ]
   },
   {
@@ -495,6 +604,10 @@
     ],
     "synonyms_from_image": [
       "conjectural"
+    ],
+    "tips": [
+      "`speculate`의 형용사형. '확실하지 않은'이 핵심: 사색적인/추론적인/투기적인.",
+      "콜로케이션: `speculative theory/investment/fiction`. `speculative fiction` = 사변 소설(SF, 판타지 등). `conjectural`, `hypothetical`과 유의어."
     ]
   },
   {
@@ -513,6 +626,10 @@
       "engrossing",
       "absorbing",
       "compelling"
+    ],
+    "tips": [
+      "`spell`(주문) + `binding`(묶는) → 주문에 묶인 것처럼 꼼짝 못 하게 매료시키는!",
+      "콜로케이션: `spellbinding performance/story/speaker`. `captivating`, `enthralling`, `riveting`과 유의어. 반의어: `tedious`, `boring`."
     ]
   },
   {
@@ -529,6 +646,10 @@
       "profligate",
       "spend-all",
       "squanderer"
+    ],
+    "tips": [
+      "`spend`(쓰다) + `thrift`(절약) → 절약을 '써버리는' 사람 = 낭비가. 이름부터 아이러니한 단어야!",
+      "반의어: `miser`(구두쇠), `penny-pincher`(짠돌이). 유의어: `prodigal`(방탕한), `profligate`(낭비하는). GRE에서 대비 관계로 자주 나와."
     ]
   },
   {
@@ -538,7 +659,11 @@
     "head_meanings": [
       "토하다, 게우다(vomit)"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "발음 '스퓨'. 입에서 뭔가 세게 뿜어내는 느낌! 토하다가 기본 뜻이고, 비유적으로 '(분노/욕설 등을) 쏟아내다'로도 써.",
+      "콜로케이션: `spew venom/hatred/lava` → 독/증오/용암을 쏟아내다."
+    ]
   },
   {
     "id": "032",
@@ -551,6 +676,10 @@
     ],
     "synonyms_from_image": [
       "churning"
+    ],
+    "tips": [
+      "라틴어 `spira`(코일). 소용돌이처럼 돌면서 위 또는 아래로 움직이는 모양이야.",
+      "콜로케이션: `downward spiral`(악순환, 하향 나선) → GRE에서 비유적으로 '상황이 점점 나빠지는 것'을 표현할 때 자주 써."
     ]
   },
   {
@@ -581,6 +710,10 @@
       "enthusiastic",
       "passionate",
       "resolute"
+    ],
+    "tips": [
+      "`spirit`(정신/기백) + `-ed`. '기백이 넘치는' → 활기찬, 용기 있는, 열정적인.",
+      "콜로케이션: `spirited debate/defense/performance` → 열띤 토론/방어/공연. 반의어: `listless`, `lethargic`, `apathetic`."
     ]
   },
   {
@@ -601,6 +734,10 @@
       "mischievous",
       "cruel",
       "maleficent"
+    ],
+    "tips": [
+      "`spite`(악의, 앙심) + `-ful`. 남을 일부러 괴롭히려는 마음이 가득한.",
+      "콜로케이션: `spiteful remark/behavior`. `malicious`(악의적인)와 유의어인데, spiteful은 좀 더 개인적이고 소소한 앙심의 느낌이야."
     ]
   },
   {
@@ -640,6 +777,10 @@
       "acrimony",
       "bile",
       "hatred"
+    ],
+    "tips": [
+      "`spleen`은 원래 '비장(장기)'인데, 옛날에 비장이 감정(특히 분노와 우울)을 관장한다고 믿었거든!\n그래서 비유적으로: 비장에서 나오는 감정 → 울화, 악의, 우울.\n`vent one's spleen` = 분노를 터뜨리다, 화풀이하다.",
+      "GRE에서는 거의 항상 비유적 의미(분노/악의)로 나와. 장기 뜻은 안 나온다고 봐도 돼."
     ]
   },
   {
@@ -657,6 +798,10 @@
       "interweave",
       "knit",
       "plait"
+    ],
+    "tips": [
+      "발음 '스플라이스'. 두 끝을 맞대고 꼬아서 하나로 잇는 거야. 밧줄, 필름, DNA 등에 다 써.",
+      "콜로케이션: `splice together/into`, `gene splicing`(유전자 접합). 영화 편집에서 필름을 이어 붙이는 것도 splice야."
     ]
   },
   {
@@ -668,7 +813,11 @@
       "(on~) 과시하다, 자랑하다",
       "과시, 호사"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "발음 '스플러지'. `splash`(물 튀김) + `surge`(급증) 느낌! 돈이 물 튀기듯 확 빠져나가는 → 사치하다, 돈을 펑펑 쓰다.",
+      "콜로케이션: `splurge on` → ~에 돈을 왕창 쓰다. `squander`(낭비하다)와 비슷하지만, splurge는 '즐기면서 쓰는' 뉘앙스야."
+    ]
   },
   {
     "id": "038",
@@ -680,7 +829,11 @@
       "(성격을) 버리다; 응석 받다; 버릇없게 만들다",
       "(pl.) 전리품, 약탈품"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`spoil`은 핵심이 '원래 상태를 망가뜨리다'야:\n1) 물건 → 망치다, 못쓰게 하다\n2) 음식 → 상하다, 썩다\n3) 아이 → 버릇없게 만들다 (과하게 좋은 것을 줘서 '망치는' 거야)\n4) 명사 spoils = 전리품 (상대를 '망가뜨려서' 빼앗은 것)",
+      "GRE에서 `spoils`(전리품)는 독립적으로 외워야 해. `the spoils of war/victory` = 전쟁/승리의 전리품."
+    ]
   },
   {
     "id": "039",
@@ -695,6 +848,10 @@
       "intention",
       "nature",
       "free will"
+    ],
+    "tips": [
+      "`spontaneous`의 명사형. '저절로 우러나오는 자연스러움'이 핵심이야.",
+      "콜로케이션: `lack of spontaneity` → 자연스러움이 부족한. GRE에서 '계획되지 않은 자연발생적 행위'라는 맥락에서 나와."
     ]
   },
   {
@@ -732,6 +889,10 @@
       "relaxed",
       "unaffected",
       "genuine"
+    ],
+    "tips": [
+      "어원: 라틴어 `sponte`(자기 의지로). '미리 계획하지 않고 자연스럽게 일어나는'이 핵심이야.\n사람에게 → 충동적인, 즉흥적인\n현상에게 → 자연발생적인\n반응에게 → 무의식적인, 자동적인",
+      "콜로케이션: `spontaneous combustion`(자연 발화), `spontaneous reaction/applause`. 반의어: `deliberate`, `calculated`, `premeditated`."
     ]
   },
   {
@@ -755,6 +916,10 @@
       "erratic",
       "sparse",
       "unpredictable"
+    ],
+    "tips": [
+      "어근 `spor-` = 씨앗(spore). 씨앗이 여기저기 흩뿌려지듯 → 산발적인, 간헐적인.",
+      "콜로케이션: `sporadic violence/outbreaks/protests` → 산발적 폭력/발생/시위. `intermittent`(간간이), `spasmodic`(불규칙한)과 유의어. 반의어: `constant`, `continuous`."
     ]
   },
   {
@@ -764,7 +929,11 @@
     "head_meanings": [
       "때때로, 드물게, 산발적으로"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`sporadic`의 부사형. '드물게, 가끔씩, 불규칙적으로'.",
+      "콜로케이션: `occur/appear sporadically`. `intermittently`, `occasionally`와 유의어."
+    ]
   },
   {
     "id": "043",
@@ -773,7 +942,11 @@
     "head_meanings": [
       "홀씨, 포자, 생식 세포, 종자"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `spora`(씨앗). 균류나 양치식물의 생식 세포야. `sporadic`의 어원도 여기서 왔어!",
+      "GRE에서는 과학 지문에서 나올 수 있어. 기본 뜻만 알면 돼."
+    ]
   },
   {
     "id": "044",
@@ -784,7 +957,11 @@
       "(덩굴 등이) 일기설기 퍼지다",
       "기어가다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "발음 '스프롤'. 팔다리를 쭉 뻗고 늘어지듯 → 불규칙하게 넓게 퍼지다.",
+      "콜로케이션: `urban sprawl` → 도시의 무분별한 확장. GRE 사회/도시 관련 지문에서 자주 나오는 표현이야!"
+    ]
   },
   {
     "id": "045",
@@ -793,7 +970,11 @@
     "head_meanings": [
       "(도시/가로 등이) 불규칙하게 넓어지는/펼쳐진"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`sprawl`의 형용사형. '무질서하게 넓게 펼쳐진'.",
+      "콜로케이션: `sprawling city/mansion/empire` → 끝없이 펼쳐진 도시/저택/제국."
+    ]
   },
   {
     "id": "046",
@@ -809,6 +990,10 @@
       "dapper",
       "spick-and-span",
       "shipshape"
+    ],
+    "tips": [
+      "원래 '가문비나무'인데, 형용사로는 '말끔한, 깔끔한'. Prussian spruce(프러시아 가문비)에서 만든 옷이 세련됐다는 설이 있어!",
+      "콜로케이션: `spruce up` = 말끔하게 차려입다/꾸미다. `dapper`, `natty`와 유의어."
     ]
   },
   {
@@ -847,6 +1032,10 @@
       "inspiration",
       "projection",
       "spike"
+    ],
+    "tips": [
+      "기수가 말에 박차(spur)를 가하면 말이 더 빨리 달리잖아. 그래서 → 자극, 자극하다.\n명사: 박차 / 자극제 / 돌기\n동사: 자극하다, 재촉하다",
+      "콜로케이션: `spur growth/innovation/debate`, `on the spur of the moment`(즉흥적으로). `catalyst`, `impetus`와 유의어."
     ]
   },
   {
@@ -874,6 +1063,10 @@
       "incite",
       "goad",
       "provoke"
+    ],
+    "tips": [
+      "`spur`의 구동사형. `spur someone to action/effort` → 누군가를 행동/노력하도록 자극하다.",
+      "`spur on`도 같은 뜻! `motivate`, `galvanize`와 유의어야."
     ]
   },
   {
@@ -885,6 +1078,10 @@
     ],
     "synonyms_from_image": [
       "fostering"
+    ],
+    "tips": [
+      "`spur`의 현재분사. '자극하는, 촉진하는'이라는 뜻으로 `fostering`과 같은 맥락에서 써.",
+      "문맥 예시: `spurring economic growth` = 경제 성장을 촉진하는."
     ]
   },
   {
@@ -912,6 +1109,10 @@
       "fraudulent",
       "deceptive",
       "misleading"
+    ],
+    "tips": [
+      "어근 `spur-` ← 라틴어 `spurius`(사생아의, 가짜의). '진짜가 아닌, 위조된'이 핵심이야.",
+      "`specious` vs `spurious` 비교가 GRE 핵심이야! `specious` = 겉보기에 그럴듯한(but wrong), `spurious` = 아예 가짜인/위조된. spurious가 더 강해."
     ]
   },
   {
@@ -921,7 +1122,11 @@
     "head_meanings": [
       "가짜, 위조, 그럴싸함, 겉치레"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`spurious`의 명사형. '가짜임, 위조, 겉치레'.",
+      "GRE에서는 `spurious` 형용사형이 훨씬 자주 나오니까 그쪽을 집중해."
+    ]
   },
   {
     "id": "052",
@@ -945,6 +1150,10 @@
       "snub",
       "slight",
       "jilt"
+    ],
+    "tips": [
+      "발음이 `spur`(박차)와 비슷한데, 의미는 정반대 방향이야. 발로 걷어차듯 → 거절하다, 경멸하다. 단순 reject보다 훨씬 강하고 모욕적인 거절이야.",
+      "콜로케이션: `spurn an offer/advance/invitation` → 제안/접근/초대를 냉정히 거절하다. `rebuff`, `scorn`, `disdain`과 유의어."
     ]
   },
   {
@@ -962,6 +1171,10 @@
       "wrangle",
       "clash",
       "dispute"
+    ],
+    "tips": [
+      "발음 '스쿼블'. `squawk`(꽥꽥) + `babble`(재잘재잘) 느낌! 하찮은 것 가지고 시끄럽게 다투는 거야.",
+      "콜로케이션: `squabble over/about` → ~을 두고 옥신각신하다. `bicker`, `quarrel`과 유의어. 심각한 분쟁(dispute)보다 훨씬 가벼운 말다툼이야."
     ]
   },
   {
@@ -980,6 +1193,10 @@
       "scrubby",
       "miserable",
       "poverty-stricken"
+    ],
+    "tips": [
+      "어원: 라틴어 `squalere`(더럽다). 물리적으로 '누추하고 더러운'이 핵심이고, 도덕적 '천함'으로도 확장돼.",
+      "`sordid` vs `squalid`: 둘 다 '더러운'이지만, `squalid`는 물리적 환경(가난하고 지저분한)에 더 집중, `sordid`는 도덕적 더러움에 더 집중해."
     ]
   },
   {
@@ -1001,6 +1218,10 @@
       "shabbiness",
       "sordidness",
       "insalubrity"
+    ],
+    "tips": [
+      "`squalid`의 명사형. '더러움, 누추함' 그 자체.",
+      "콜로케이션: `live in squalor` → 비참하게 살다. GRE 사회 문제 지문에서 빈곤 묘사할 때 나와."
     ]
   },
   {
@@ -1022,6 +1243,10 @@
       "dissipate",
       "scatter",
       "use up"
+    ],
+    "tips": [
+      "발음 '스콴더'. '돈/기회/시간을 함부로 날려버리다'가 핵심이야.",
+      "콜로케이션: `squander money/resources/opportunities/time`. `waste`보다 더 '아깝게 날리는' 느낌. `fritter away`, `dissipate`와 유의어. 반의어: `conserve`, `save`."
     ]
   },
   {
@@ -1031,7 +1256,11 @@
     "head_meanings": [
       "일치하다, 조화되다, 부합하다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "네모(square)처럼 딱 맞아떨어지다 → 일치하다, 부합하다.",
+      "콜로케이션: `square with the facts/evidence` → 사실/증거와 부합하다. `accord with`, `be consistent with`와 유의어. GRE 논리 지문에서 유용해."
+    ]
   },
   {
     "id": "058",
@@ -1055,6 +1284,10 @@
       "scotch",
       "thwart",
       "suppress"
+    ],
+    "tips": [
+      "`squash`의 핵심은 '위에서 강하게 눌러 찌그러뜨리다'야:\n1) 물리적 → 짓누르다, 찌그러뜨리다\n2) 반란/시도 → 진압하다, 억누르다\n3) 소문/제안 → 없애버리다, 묵살하다\n전부 '힘으로 짓눌러서 없애다'라는 공통 이미지야.",
+      "콜로케이션: `squash a rebellion/rumor/idea`. `crush`, `quash`, `suppress`와 유의어."
     ]
   },
   {
@@ -1079,6 +1312,10 @@
       "right-minded",
       "moral",
       "ethical"
+    ],
+    "tips": [
+      "`squeamish`는 핵심이 '민감해서 쉽게 불편해지는'이야:\n1) 신체적으로 → 메스꺼운, 잘 토하는 (피를 보면 ~)\n2) 감정적으로 → 쉽게 충격받는, 혐오하는\n3) 도덕적으로 → 지나치게 까다로운, 결벽한\n전부 '역치가 낮아서 쉽게 불쾌해지는 상태'야.",
+      "콜로케이션: `squeamish about blood/violence`. `fastidious`(까다로운)와 비교: squeamish는 불쾌감이 동반되고, fastidious는 높은 기준을 고집하는 거야."
     ]
   },
   {
@@ -1092,6 +1329,10 @@
     ],
     "synonyms_from_image": [
       "squash"
+    ],
+    "tips": [
+      "발음 '스퀠치'. 진흙탕을 밟을 때 '철벅철벅' 소리가 squelch야. 비유적으로는 '짓눌러 억압하다'.",
+      "`squash`와 거의 같은 뜻으로 쓸 수 있어. `squelch dissent/criticism` → 반대/비판을 억압하다."
     ]
   },
   {
@@ -1105,6 +1346,10 @@
     "synonyms_from_image": [
       "overwhelming",
       "astounding"
+    ],
+    "tips": [
+      "`stagger`(비틀거리다)에서 파생. 너무 놀라서 비틀거릴 정도로 → 엄청난, 놀라운.",
+      "콜로케이션: `staggering amount/number/cost` → 어마어마한 양/수/비용. `astounding`, `overwhelming`과 유의어."
     ]
   },
   {
@@ -1114,7 +1359,11 @@
     "head_meanings": [
       "비틀거리다, 휘청거리다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "물리적으로는 '비틀거리다', 비유적으로는 '충격을 주다'. 또 하나: '시간/일정을 엇갈리게 배치하다'(staggered schedule).",
+      "콜로케이션: `stagger under the weight/news`. `reel`, `totter`와 유의어."
+    ]
   },
   {
     "id": "063",
@@ -1124,7 +1373,11 @@
       "정체하다, 흐르지 않다, 괴다",
       "(사업 등이) 침체하다, 부진하다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "어근 `stagn-` = 고인 물(pool). 물이 고여서 흐르지 않으면 → 정체하다, 침체하다. 경제/성장/발전이 멈춘 상태를 표현할 때 딱이야.",
+      "콜로케이션: `the economy stagnated`, `career stagnation`. 반의어: `flourish`, `thrive`, `progress`."
+    ]
   },
   {
     "id": "064",
@@ -1134,7 +1387,11 @@
       "정체, 침체",
       "부진, 불황, 불경기"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stagnate`의 명사형. '정체, 침체, 불황'.",
+      "콜로케이션: `economic stagnation`, `period of stagnation`. GRE 경제/사회 지문 단골이야."
+    ]
   },
   {
     "id": "065",
@@ -1149,6 +1406,10 @@
       "inert",
       "stationary",
       "unstirring"
+    ],
+    "tips": [
+      "`stagnate`의 형용사형. '고여 있는, 흐르지 않는 → 침체한'.",
+      "콜로케이션: `stagnant water/economy/wages`. 물이 고이면 썩듯, 경제도 정체되면 나빠지는 이미지야."
     ]
   },
   {
@@ -1168,6 +1429,10 @@
       "serious",
       "solemn",
       "settled"
+    ],
+    "tips": [
+      "원래 `stay`의 과거분사였어! '머물러 있는' → 변함없는 → 침착한, 차분한. 하지만 약간 '지나치게 진지한/재미없는' 뉘앙스도 있어.",
+      "콜로케이션: `staid personality/institution`. 반의어: `frivolous`, `flamboyant`, `lively`. `sedate`, `sober`와 유의어."
     ]
   },
   {
@@ -1201,6 +1466,10 @@
       "dye",
       "tinge",
       "pigment"
+    ],
+    "tips": [
+      "`stain`은 핵심이 '(표면에) 흔적을 남기다'야:\n1) 물리적 → 얼룩/때를 남기다\n2) 추상적 → 명예/명성에 오점을 남기다\n3) 의도적 → 색을 입히다, 염색하다\n방향은 달라도 전부 '지워지지 않는 흔적을 남긴다'는 공통점이야.",
+      "콜로케이션: `stain on one's reputation/character` → 명성의 오점. `tarnish`, `blemish`, `sully`와 유의어."
     ]
   },
   {
@@ -1219,6 +1488,10 @@
       "cliché",
       "platitudinous",
       "outdated"
+    ],
+    "tips": [
+      "원래 '맥주가 너무 오래 서서 김 빠진' 뜻이었어. 여기서 → 음식이 신선하지 않은 → 아이디어/표현이 진부한, 생기 없는.",
+      "콜로케이션: `stale bread/joke/idea`. `hackneyed`, `trite`, `banal`, `clichéd`와 유의어. 반의어: `fresh`, `novel`, `original`."
     ]
   },
   {
@@ -1229,7 +1502,11 @@
       "진부함",
       "부패"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stale`의 명사형. '진부함, 신선하지 않음'.",
+      "GRE에서는 `stale` 형용사가 더 자주 나와."
+    ]
   },
   {
     "id": "070",
@@ -1247,6 +1524,10 @@
       "stand-off",
       "tie",
       "draw"
+    ],
+    "tips": [
+      "체스에서 왕이 움직일 수 없지만 체크도 아닌 상태 = `stalemate`. 그래서 → 교착 상태, 아무도 이길 수 없는 상황.",
+      "콜로케이션: `reach/break a stalemate`. `deadlock`, `impasse`와 유의어. GRE 국제정치/협상 지문에서 자주 나와."
     ]
   },
   {
@@ -1267,6 +1548,10 @@
       "unwavering",
       "resolute",
       "intrepid"
+    ],
+    "tips": [
+      "`stal-`(자리/위치) + `wart`(지키는 사람). 자기 자리를 굳건히 지키는 → 튼튼한 + 용감한 + 충실한. 명사로는 '충성스러운 지지자'도 돼.",
+      "콜로케이션: `stalwart supporter/defender/ally` → 확고한 지지자/수호자. `steadfast`, `resolute`, `unwavering`과 유의어."
     ]
   },
   {
@@ -1283,6 +1568,10 @@
       "tolerance",
       "stoutness",
       "energy"
+    ],
+    "tips": [
+      "원래 라틴어로 '실(thread)'이야. 생명의 실이 길면 오래 버틴다 → 체력, 지구력, 끈기.",
+      "콜로케이션: `physical/mental stamina`, `build up stamina`. `endurance`, `fortitude`와 유의어."
     ]
   },
   {
@@ -1307,6 +1596,10 @@
       "identify",
       "characterize",
       "brand"
+    ],
+    "tips": [
+      "`stamp`의 핵심은 '세게 내리찍다'야:\n1) 발로 → 짓밟다\n2) 도구로 → 도장 찍다, 새기다\n3) 비유적 → 낙인찍다, 특징짓다\n`stamp out` = (불/반란을) 짓밟아 끄다.",
+      "콜로케이션: `stamp of approval`(승인 도장), `stamp out corruption`(부패를 근절하다)."
     ]
   },
   {
@@ -1329,6 +1622,10 @@
       "thwart",
       "stall",
       "halt"
+    ],
+    "tips": [
+      "`stanch` vs `staunch` 혼동 주의! `stanch`(동사) = 지혈하다, 흐름을 멈추다. `staunch`(형용사) = 확고한, 충실한. (미국 영어에서는 둘 다 staunch로 쓰기도 해)",
+      "콜로케이션: `stanch the bleeding/flow/tide`. 비유적으로 `stanch the flow of refugees/losses` = 난민/손실의 흐름을 막다."
     ]
   },
   {
@@ -1351,6 +1648,10 @@
       "unfriendly",
       "unsociable",
       "introverted"
+    ],
+    "tips": [
+      "`standoffish`와 같은 단어야. 사람과 '거리를 두고 서있는(stand off)' → 쌀쌀한, 냉담한.",
+      "콜로케이션: `seem/appear standoffish`. `aloof`, `reserved`, `distant`와 유의어. 반의어: `affable`, `gregarious`, `sociable`."
     ]
   },
   {
@@ -1373,6 +1674,10 @@
       "unfriendly",
       "unsociable",
       "introverted"
+    ],
+    "tips": [
+      "위의 `stand offish`와 동일. 붙여 쓰는 게 표준 스펠링이야.",
+      "`aloof`와 거의 같은 뜻인데, standoffish가 좀 더 '의도적으로 거리를 두는' 느낌이야."
     ]
   },
   {
@@ -1432,6 +1737,10 @@
       "utterly",
       "absolutely",
       "wholly"
+    ],
+    "tips": [
+      "`stark`는 핵심이 '아무것도 없이 벌거벗은, 날것의'야:\n1) 경치 → 황량한, 황폐한 (아무것도 없는 벌판)\n2) 사실/대비 → 적나라한, 뚜렷한 (꾸밈 없이 드러나는)\n3) 스타일 → 매우 간소한 (장식이 전혀 없는)\n4) 부사: `stark naked` = 완전히 벌거벗은\n전부 '군더더기가 벗겨진 상태'라는 공통 이미지야.",
+      "콜로케이션: `stark contrast/reality/reminder/choice` → 극명한 대비/현실. GRE에서 `stark contrast`가 특히 자주 나와!"
     ]
   },
   {
@@ -1443,7 +1752,11 @@
       "적나라하게",
       "뚜렷이"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stark`의 부사형. '적나라하게, 뚜렷이, 극명하게'.",
+      "콜로케이션: `starkly different/contrasting`. GRE 비교 지문에서 자주 쓰여."
+    ]
   },
   {
     "id": "079",
@@ -1453,7 +1766,11 @@
       "균형/정지 상태",
       "(체액·가스·혈류 등의) 정지"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `stasis` = 정지, 서 있음. '변화 없이 멈춰 있는 상태'. 의학에서는 '체액이 정체된 상태'.",
+      "콜로케이션: `political/cultural stasis`. `stagnation`과 유의어. 반의어: `flux`, `dynamism`, `change`."
+    ]
   },
   {
     "id": "080",
@@ -1470,6 +1787,10 @@
       "still",
       "suspended",
       "changeless"
+    ],
+    "tips": [
+      "그리스어 `statikos`(서 있는). '움직이지 않는, 변하지 않는'. 물리학의 '정전기(static electricity)'도 여기서 왔어.",
+      "콜로케이션: `static character/population/image`. 반의어: `dynamic`, `fluid`, `changing`. GRE에서 변화/정체 대비 맥락에서 자주 나와."
     ]
   },
   {
@@ -1480,7 +1801,11 @@
       "그대로의 상태",
       "현상 유지"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 그대로! `status`(상태) + `quo`(그것의) = '지금 그대로의 상태'. 변화에 저항하는 맥락에서 자주 써.",
+      "콜로케이션: `maintain/preserve/challenge/change the status quo`. GRE 사회/정치 지문 필수 어휘야."
+    ]
   },
   {
     "id": "082",
@@ -1499,6 +1824,10 @@
       "canon",
       "bylaw",
       "bill"
+    ],
+    "tips": [
+      "어근 `stat-` = 서다(stand). 법이 '세워진' 것 = 성문법, 법령. `statue`(조각상)과 헷갈리지 마!",
+      "콜로케이션: `statute of limitations`(공소시효), `by statute`(법에 의해). `ordinance`, `regulation`과 유의어."
     ]
   },
   {
@@ -1515,6 +1844,10 @@
       "lawful",
       "judicial",
       "authorized"
+    ],
+    "tips": [
+      "`statute`의 형용사형. '법정의, 법에 의한'.",
+      "콜로케이션: `statutory requirement/right/obligation` → 법적 요건/권리/의무."
     ]
   },
   {
@@ -1522,7 +1855,11 @@
     "word": "staunch",
     "pos": "",
     "head_meanings": [],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`staunch`(형용사) = 확고한, 충실한, 흔들리지 않는. 동사 `stanch`(지혈하다)와 철자 주의!",
+      "콜로케이션: `staunch supporter/defender/ally/critic` → 확고한 지지자/비평가. `steadfast`, `stalwart`, `unwavering`과 유의어."
+    ]
   },
   {
     "id": "085",
@@ -1534,6 +1871,10 @@
     ],
     "synonyms_from_image": [
       "forestall"
+    ],
+    "tips": [
+      "`stave`는 원래 통(barrel)의 널빤지야. 널빤지로 막듯 → (위험/나쁜 일을) 물리치다, 저지하다, 미루다.",
+      "콜로케이션: `stave off hunger/disease/bankruptcy/disaster` → 굶주림/질병/파산/재앙을 막아내다. `forestall`, `avert`, `ward off`와 유의어."
     ]
   },
   {
@@ -1552,6 +1893,10 @@
       "indomitable",
       "undaunted",
       "intransigent"
+    ],
+    "tips": [
+      "`stead`(자리) + `fast`(단단히 고정된) = 자리에 단단히 고정된 → 확고부동한, 흔들리지 않는.",
+      "콜로케이션: `steadfast in one's beliefs/commitment/support`. `unwavering`, `resolute`, `staunch`와 유의어. 반의어: `fickle`, `vacillating`."
     ]
   },
   {
@@ -1563,6 +1908,10 @@
     ],
     "synonyms_from_image": [
       "clandestineness"
+    ],
+    "tips": [
+      "영어 `steal`(훔치다)와 같은 어원! 도둑처럼 '몰래, 은밀하게' 행동하는 것.",
+      "콜로케이션: `by stealth` = 몰래. `stealth bomber` = 스텔스 폭격기. `clandestine`, `covert`, `furtive`와 유의어."
     ]
   },
   {
@@ -1579,6 +1928,10 @@
       "imbue",
       "infuse",
       "permeate"
+    ],
+    "tips": [
+      "형용사 steep(가파른)은 다 아는데, 동사 steep는 달라!\n동사: '액체에 담그다, 적시다' → 비유적으로 `steeped in tradition/history` = 전통/역사에 흠뻑 젖은, 깊이 배어있는.\nGRE에서는 이 비유적 용법이 핵심이야!",
+      "콜로케이션: `steeped in culture/history/tradition`. `imbue`, `infuse`, `permeate`와 유의어."
     ]
   },
   {
@@ -1594,6 +1947,10 @@
       "dominant",
       "gleaming",
       "lustrous"
+    ],
+    "tips": [
+      "어근 `stell-` = 별(star). 1) 별의, 별과 관련된 2) 별처럼 빛나는 → 일류의, 뛰어난.",
+      "GRE 함정 단어! 과학 지문에서는 '별의'(stellar evolution), 일반 지문에서는 '뛰어난'(stellar performance)으로 나와. 문맥으로 판단해."
     ]
   },
   {
@@ -1613,6 +1970,10 @@
       "halt",
       "hinder",
       "obstruct"
+    ],
+    "tips": [
+      "명사로는 '줄기'인데, 동사는 두 갈래야:\n1) `stem` = 흐름을 막다, 저지하다 (stem the tide = 조류를 막다)\n2) `stem from` = ~에서 비롯되다, 유래하다\n방향이 정반대! 1은 '막다', 2는 '나오다'. 전치사(from)로 구별해.",
+      "콜로케이션: `stem the flow/tide/bleeding` vs `stem from ignorance/frustration`. GRE에서 두 용법 다 나와!"
     ]
   },
   {
@@ -1620,7 +1981,11 @@
     "word": "stemming",
     "pos": "",
     "head_meanings": [],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stem`의 현재분사. 문맥에 따라 '저지하는' 또는 '비롯되는'.",
+      "앞에 from이 있으면 '비롯되는', 없으면 '저지하는'으로 읽으면 돼."
+    ]
   },
   {
     "id": "092",
@@ -1637,6 +2002,10 @@
       "result",
       "appear",
       "emerge"
+    ],
+    "tips": [
+      "`stem`의 두 번째 의미. 식물 줄기(stem)가 뿌리에서 '나오듯' → ~에서 비롯되다, 유래하다.",
+      "콜로케이션: `stem from a misunderstanding/desire/need`. `originate from`, `arise from`, `derive from`과 유의어."
     ]
   },
   {
@@ -1646,7 +2015,11 @@
     "head_meanings": [
       "고약한/불쾌한 냄새, 악취"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "발음 '스텐치'. `stink`(악취)의 명사 강화판! '코를 찌르는 고약한 냄새'야.",
+      "콜로케이션: `stench of corruption/decay/death` → 비유적으로 '부패/썩음의 냄새'. 물리적 + 비유적 둘 다 써."
+    ]
   },
   {
     "id": "094",
@@ -1659,6 +2032,10 @@
       "blare",
       "vociferous",
       "roar"
+    ],
+    "tips": [
+      "그리스 신화의 `Stentor`(스텐토르)에서 왔어! 트로이 전쟁에서 50명의 목소리만큼 큰 소리를 낸 전령이야.",
+      "콜로케이션: `stentorian voice/command` → 우렁찬 목소리/명령. `thunderous`, `booming`과 유의어. 반의어: `soft-spoken`, `quiet`."
     ]
   },
   {
@@ -1679,6 +2056,10 @@
       "lifeless",
       "stale",
       "worn"
+    ],
+    "tips": [
+      "`stereo-`(고정된) + `type`(틀) = 고정된 틀에 찍어낸 → 판에 박은, 진부한.",
+      "콜로케이션: `stereotyped ideas/responses/images`. `hackneyed`, `clichéd`, `trite`와 유의어."
     ]
   },
   {
@@ -1689,7 +2070,11 @@
       "정형, 고정관념, 상투적 문구",
       "연판(인쇄)"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stereotyped`의 명사형. 원래 인쇄 용어(연판)였는데, 지금은 거의 '고정관념'으로만 써.",
+      "콜로케이션: `racial/gender stereotype`, `perpetuate stereotypes`. GRE 사회/문화 지문에서 자주 나와."
+    ]
   },
   {
     "id": "097",
@@ -1709,6 +2094,10 @@
       "admirable",
       "valuable",
       "deserving"
+    ],
+    "tips": [
+      "원래 영국 화폐 `pound sterling`에서 온 건데, '순도 높은 은'이란 뜻이었어. 그래서 → 진짜의, 믿을 만한, 훌륭한.",
+      "콜로케이션: `sterling reputation/character/work/effort` → 훌륭한 평판/성품/업적. `exemplary`, `outstanding`과 유의어."
     ]
   },
   {
@@ -1724,6 +2113,10 @@
       "knotty point",
       "dilemma",
       "Gordian knot"
+    ],
+    "tips": [
+      "`stick`(고집하다)에서 파생. 뭔가에 '딱 달라붙어서' 양보하지 않는 사람 → 까다로운 사람, 깐깐한 사람.",
+      "콜로케이션: `a stickler for rules/details/punctuality` → 규칙/세부사항/시간엄수에 까다로운 사람."
     ]
   },
   {
@@ -1736,7 +2129,11 @@
       "거센",
       "(태도 등이) 딱딱한"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "핵심은 '유연하지 않은, 굽히기 힘든'이야:\n1) 물리적 → 뻣뻣한 (stiff neck)\n2) 바람/경쟁 → 거센, 치열한 (stiff competition)\n3) 태도 → 딱딱한, 격식적인 (stiff manner)\n4) 가격/처벌 → 과한, 무거운 (stiff penalty)\n전부 '잘 휘지 않는' 이미지에서 나온 거야.",
+      "콜로케이션: `stiff competition/penalty/upper lip`(의연한 태도). 반의어: `flexible`, `limber`, `relaxed`."
+    ]
   },
   {
     "id": "100",
@@ -1745,7 +2142,11 @@
     "head_meanings": [
       "뻣뻣함"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stiff`의 명사형. '뻣뻣함, 경직됨'.",
+      "콜로케이션: `stiffness in the joints/manner` → 관절의 뻣뻣함 / 태도의 경직됨."
+    ]
   },
   {
     "id": "101",
@@ -1773,6 +2174,10 @@
       "impede",
       "prevent",
       "inhibit"
+    ],
+    "tips": [
+      "`stifle`의 핵심은 '숨통을 조여서 못 하게 하다'야:\n1) 물리적 → 숨을 막다, 질식시키다\n2) 감정/욕구 → 억누르다, 참다 (stifle a yawn/laugh)\n3) 반란/창의성 → 짓누르다, 억압하다\n전부 '살아있는 것의 자유로운 움직임/표현을 막다'라는 공통점이야.",
+      "콜로케이션: `stifle creativity/dissent/growth/competition`. `suppress`, `smother`, `squelch`와 유의어. 반의어: `foster`, `encourage`, `promote`."
     ]
   },
   {
@@ -1789,6 +2194,10 @@
       "dishonor",
       "stain",
       "reproach"
+    ],
+    "tips": [
+      "원래 그리스어로 '낙인(불로 지진 표시)'이야. 노예나 범죄자에게 찍던 표시 → 사회적 오명, 치욕.",
+      "콜로케이션: `social stigma`, `stigma attached to/associated with` → ~에 붙는 오명. GRE 사회 이슈 지문에서 자주 나와."
     ]
   },
   {
@@ -1805,6 +2214,10 @@
       "censure",
       "denounce",
       "vilify"
+    ],
+    "tips": [
+      "`stigma`의 동사형. '낙인을 찍다, 오명을 씌우다'.",
+      "콜로케이션: `stigmatize someone as/for`. `vilify`, `brand`, `condemn`과 유의어."
     ]
   },
   {
@@ -1817,7 +2230,11 @@
       "(마음이) 평정한",
       "(소리/목소리 등이) 나지막한, 작은"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "형용사 `still`은 '움직임이 없는' + '소리가 없는'이야. 둘 다 '아무 활동이 없이 고요한' 상태를 가리켜.",
+      "콜로케이션: `still water/night/life`. `still life` = 정물화. `tranquil`, `serene`, `placid`와 유의어."
+    ]
   },
   {
     "id": "105",
@@ -1833,6 +2250,10 @@
       "inelegant",
       "unnatural",
       "contrived"
+    ],
+    "tips": [
+      "`stilt`(죽마/높은 기둥) 위에 올라간 것처럼 → 부자연스럽게 높고 거드름 피우는 → 딱딱한, 과장된.",
+      "콜로케이션: `stilted conversation/language/manner` → 딱딱하고 부자연스러운 대화/언어. `contrived`, `artificial`, `unnatural`과 유의어. 반의어: `natural`, `spontaneous`."
     ]
   },
   {
@@ -1854,6 +2275,10 @@
       "cheap",
       "penurious",
       "Scrooge-like"
+    ],
+    "tips": [
+      "발음 '스틴지'. '찌르다(sting)'에서 왔다는 설이 있어 — 돈 쓸 때마다 가슴이 찌릿한 사람!",
+      "콜로케이션: `stingy with money/praise/compliments`. `miserly`, `parsimonious`, `niggardly`, `penny-pinching`과 유의어. 반의어: `generous`, `lavish`, `munificent`."
     ]
   },
   {
@@ -1871,6 +2296,10 @@
       "restrict",
       "confine",
       "restrain"
+    ],
+    "tips": [
+      "`stint`는 동사/명사 뜻이 갈라져:\n동사: 아끼다, 제한하다 (`don't stint on quality` = 품질은 아끼지 마)\n명사: 일정 기간의 근무/활동 (`a stint as CEO` = CEO로서의 일정 기간)\nGRE에서는 명사 '일정 기간'이 더 자주 나와!",
+      "콜로케이션: `a stint in/at/as`, `without stint` = 아끼지 않고. `frugal`, `economize`와 유의어(동사)."
     ]
   },
   {
@@ -1886,6 +2315,10 @@
       "allotment",
       "restraint",
       "constraint"
+    ],
+    "tips": [
+      "`stint`는 동사/명사 뜻이 갈라져:\n동사: 아끼다, 제한하다 (`don't stint on quality` = 품질은 아끼지 마)\n명사: 일정 기간의 근무/활동 (`a stint as CEO` = CEO로서의 일정 기간)\nGRE에서는 명사 '일정 기간'이 더 자주 나와!",
+      "콜로케이션: `a stint in/at/as`, `without stint` = 아끼지 않고. `frugal`, `economize`와 유의어(동사)."
     ]
   },
   {
@@ -1906,6 +2339,10 @@
       "guarantee",
       "insure",
       "grant"
+    ],
+    "tips": [
+      "어원: 라틴어 `stipulari`(약속하다). 계약서에 '이건 꼭 이래야 해'라고 명시하는 거야 → 규정하다, 조건으로 요구하다.",
+      "콜로케이션: `stipulate that/conditions/terms/requirements`. `specify`, `prescribe`, `mandate`와 유의어."
     ]
   },
   {
@@ -1918,7 +2355,11 @@
       "(음식이) 기름지고 소화가 잘 안 되는",
       "(사람/생각이) 딱딱한, 구식의, 지나치게 격식을 차리는"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stodgy`는 핵심이 '무겁고 답답한'이야:\n1) 음식 → 기름지고 소화 안 되는 (stodgy food = 느끼한 음식)\n2) 글/책 → 재미없고 지루한 (stodgy writing)\n3) 사람/생각 → 구식이고 딱딱한 (stodgy professor)\n전부 '가볍지 않고 무겁게 느껴지는' 거야.",
+      "유의어: `dull`, `boring`, `pedestrian`, `prosaic`. 반의어: `lively`, `vivacious`, `dynamic`."
+    ]
   },
   {
     "id": "111",
@@ -1940,6 +2381,10 @@
       "phlegmatic",
       "accepting",
       "philosophical"
+    ],
+    "tips": [
+      "스토아(Stoa) 철학에서 왔어! 스토아 철학자들은 고통이나 기쁨에 흔들리지 않는 것을 미덕으로 봤거든.\n그래서 → 감정을 드러내지 않는, 태연한, 금욕적인.\n명사로는 '감정에 흔들리지 않는 사람'.",
+      "콜로케이션: `stoic acceptance/endurance/calm`. `impassive`, `phlegmatic`, `unflappable`과 유의어. 반의어: `emotional`, `volatile`."
     ]
   },
   {
@@ -1950,7 +2395,11 @@
       "(스토아학파의) 극기, 금욕",
       "냉정, 무관심"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stoic`의 명사형. 대문자 Stoicism = 스토아 철학, 소문자 stoicism = 금욕적 태도/참을성.",
+      "GRE에서는 주로 소문자: '고통에 초연한 태도'. `equanimity`, `composure`와 관련돼."
+    ]
   },
   {
     "id": "113",
@@ -1966,6 +2415,10 @@
       "fuel",
       "heat",
       "poke"
+    ],
+    "tips": [
+      "원래 난로에 '석탄/장작을 넣어 불을 키우다'. 비유적으로 '감정/분쟁을 부채질하다'.",
+      "콜로케이션: `stoke fears/anger/tensions/enthusiasm` → 공포/분노/긴장/열정을 부추기다. `fuel`, `inflame`, `fan`과 유의어."
     ]
   },
   {
@@ -1986,6 +2439,10 @@
       "unexcitable",
       "unimaginative",
       "dull"
+    ],
+    "tips": [
+      "`stoic`과 비슷하지만 뉘앙스가 달라! `stoic` = 의지적으로 감정을 절제하는 (칭찬), `stolid` = 감정이 둔해서 반응이 없는 (약간 비판적).",
+      "콜로케이션: `stolid expression/face/personality`. `impassive`, `phlegmatic`, `bovine`과 유의어. 반의어: `sensitive`, `responsive`, `animated`."
     ]
   },
   {
@@ -2000,6 +2457,10 @@
       "unresponsiveness",
       "unconcern",
       "coolness"
+    ],
+    "tips": [
+      "`stolid`의 명사형. '둔감함, 무감각'.",
+      "`apathy`(무관심)와 비교: stolidity는 '원래 감정이 무딘 것', apathy는 '관심을 안 갖는 것'."
     ]
   },
   {
@@ -2011,7 +2472,11 @@
       "(…에) 굽히다/숙이다",
       "(…에) 몸을 굽히다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "물리적으로 '몸을 굽히다'인데, 비유적으로 `stoop to` = (품위를 낮춰서) ~까지 하다. 자존심을 '굽히는' 거야.",
+      "콜로케이션: `stoop to lying/cheating/flattery` → 거짓말/속임수/아첨까지 하다. `condescend`(자기를 낮추다)와 비슷한 맥락."
+    ]
   },
   {
     "id": "117",
@@ -2059,6 +2524,10 @@
       "bulky",
       "hefty",
       "solidly built"
+    ],
+    "tips": [
+      "`stout`는 핵심이 '견고하게 단단한'인데, 방향이 여럿이야:\n1) 체격 → 통통한, 비대한 (볼륨 있게 단단한)\n2) 용기 → 용감한, 단호한 (정신적으로 단단한)\n3) 구조 → 튼튼한, 견고한 (물리적으로 단단한)\n4) 술 → 독한 (맛이 진하고 강한)\n전부 '약하지 않고 꽉 찬' 이미지야.",
+      "콜로케이션: `stout defense/heart/resistance`. `stout` 맥주 = 기네스 같은 진한 흑맥주! GRE에서는 주로 '용감한/단호한' 뜻으로 나와."
     ]
   },
   {
@@ -2073,6 +2542,10 @@
     ],
     "synonyms_from_image": [
       "lie on both sides of"
+    ],
+    "tips": [
+      "다리를 양쪽으로 벌리고 뭔가 위에 '걸터앉는' 동작이야.\n물리적: 말/울타리에 걸터앉다\n비유적: 경계에 걸치다, 양다리 걸치다\n`straddle the fence` = 중립을 지키다, 입장을 안 정하다.",
+      "콜로케이션: `straddle the line/boundary/fence between`. GRE에서 '양쪽 입장 사이에서 갈팡질팡하다'는 맥락으로 나올 수 있어."
     ]
   },
   {
@@ -2082,7 +2555,11 @@
     "head_meanings": [
       "찬반을 분명히 하지 않다, 기… (이미지에서 일부만 선명)"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`straddle`의 현재분사. '양다리 걸치는, 입장을 정하지 않는'.",
+      "비유적으로 '찬반을 분명히 하지 않는' 뜻으로 자주 써."
+    ]
   },
   {
     "id": "120",
@@ -2106,6 +2583,10 @@
       "simple",
       "easy",
       "undemanding"
+    ],
+    "tips": [
+      "말 그대로 '곧장(straight) 앞으로(forward)' → 1) 솔직한, 꾸밈없는 2) (일이) 간단한, 수월한.",
+      "콜로케이션: `straightforward answer/approach/process`. `candid`, `frank`(솔직한) / `uncomplicated`, `simple`(간단한)과 유의어."
     ]
   },
   {
@@ -2115,7 +2596,11 @@
     "head_meanings": [
       "전략, 계략, 책략"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "어근 `strat-` = 군대(army). `strategy`와 같은 뿌리인데, stratagem은 좀 더 '교묘한 속임수/계략' 뉘앙스야.",
+      "콜로케이션: `military/political stratagem`. `ruse`, `ploy`, `scheme`, `artifice`와 유의어. 단순한 전략(strategy)보다 '속이는' 요소가 있어."
+    ]
   },
   {
     "id": "122",
@@ -2124,7 +2609,11 @@
     "head_meanings": [
       "층으로 배열하다, 계층화하다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "어근 `strat-`(층, layer) + `-fy`(만들다) → 층으로 만들다, 계층화하다.",
+      "콜로케이션: `stratify society/data`. GRE 사회학 지문에서 `social stratification`(사회 계층화)이 자주 나와."
+    ]
   },
   {
     "id": "123",
@@ -2135,6 +2624,10 @@
     ],
     "synonyms_from_image": [
       "hierarchical"
+    ],
+    "tips": [
+      "`stratify`의 과거분사/형용사. '층이 나뉜, 계층화된'.",
+      "콜로케이션: `stratified society/rock/sample`. `hierarchical`과 유의어."
     ]
   },
   {
@@ -2142,7 +2635,11 @@
     "word": "stratification",
     "pos": "n.",
     "head_meanings": [],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stratify`의 명사형. '계층화, 층상 구조'.",
+      "콜로케이션: `social stratification`, `economic stratification`. GRE 사회 지문 단골!"
+    ]
   },
   {
     "id": "125",
@@ -2160,6 +2657,10 @@
       "leaf",
       "ply",
       "scale"
+    ],
+    "tips": [
+      "라틴어 그대로! 복수형은 `strata`야. '층'이라는 뜻으로 지질학(지층)/사회학(계층) 둘 다에 써.",
+      "콜로케이션: `social stratum/strata`, `geological stratum`. `layer`, `level`, `tier`와 유의어."
     ]
   },
   {
@@ -2186,6 +2687,10 @@
       "roam",
       "rove",
       "drift"
+    ],
+    "tips": [
+      "핵심은 '정해진 길에서 벗어나다'야:\n1) 물리적 → 길을 잃다, 방황하다\n2) 논의/생각 → 탈선하다, 빗나가다\n3) 도덕적 → 타락하다, 잘못된 길로 가다\n형용사로는 `stray dog`(떠돌이 개), `stray bullet`(유탄).",
+      "콜로케이션: `stray from the path/topic/norm`. `deviate`, `digress`, `wander`와 유의어."
     ]
   },
   {
@@ -2198,7 +2703,11 @@
       "유선형으로 하다",
       "(일, 과정, 계획 등을) 능률적으로 하다, 합리화(간소화)하다, 현대적으로 하다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "물이 흐르는 선(stream + line)처럼 매끄럽게 → 1) 유선형으로 하다 2) 간소화하다, 효율적으로 만들다.",
+      "콜로케이션: `streamline operations/processes/bureaucracy` → 업무/절차/관료제를 간소화하다. GRE에서는 비유적 의미(효율화)가 핵심이야."
+    ]
   },
   {
     "id": "128",
@@ -2217,6 +2726,10 @@
       "limitation",
       "restriction",
       "cramp"
+    ],
+    "tips": [
+      "`strict`(엄격한)와 같은 뿌리! 두 갈래:\n1) 비난, 혹평 (언어적 '조임') → `strictures on/against`\n2) 제약, 구속 (물리적/규정적 '조임') → `strictures of`\n핵심은 '꽉 조이는 것'이야.",
+      "콜로케이션: `place/impose strictures on` → ~에 제약을 가하다. GRE에서는 '비난'과 '제약' 둘 다 나올 수 있어."
     ]
   },
   {
@@ -2232,6 +2745,10 @@
       "boisterous",
       "creaking",
       "grating"
+    ],
+    "tips": [
+      "어원: 라틴어 `stridere`(삐걱거리다). '귀에 거슬리게 크고 날카로운 소리'. 비유적으로 '주장이 공격적이고 시끄러운'.",
+      "콜로케이션: `strident tone/voice/criticism/demands` → 거친 어조/비판. `shrill`, `harsh`, `grating`과 유의어. 반의어: `soft`, `mellow`, `gentle`."
     ]
   },
   {
@@ -2259,6 +2776,10 @@
       "exacting",
       "demanding",
       "inflexible"
+    ],
+    "tips": [
+      "`string`(줄) + `-ent`. 줄로 꽉 조이듯 → 엄격한, 빡빡한.\n여러 맥락에서 쓰여:\n1) 규칙/법 → 엄중한 (stringent regulations)\n2) 금융 → 자금이 빡빡한 (stringent market)\n3) 논리 → 설득력 있는 (stringent argument)\n전부 '팽팽하게 조여진' 이미지야.",
+      "콜로케이션: `stringent requirements/standards/measures`. `rigorous`, `strict`, `exacting`과 유의어. 반의어: `lax`, `lenient`."
     ]
   },
   {
@@ -2271,7 +2792,11 @@
       "제거하다, 없애다; 해체하다",
       "빼앗다, 벗기다"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`strip`의 핵심은 '겉을 벗겨내다'야:\n1) 물리적 → 껍질/옷을 벗기다\n2) 비유적 → 폭로하다, 본질을 드러내다\n3) 제거 → 권리/자격을 박탈하다\n전부 '표면의 것을 떼어내서 속을 드러내다'라는 공통점이야.",
+      "콜로케이션: `strip away pretense/illusions`, `strip someone of power/title` → 가식을 벗기다, 권력/직위를 박탈하다."
+    ]
   },
   {
     "id": "132",
@@ -2304,6 +2829,10 @@
       "unclothe",
       "disrobe",
       "strip naked"
+    ],
+    "tips": [
+      "`strip`의 구동사. '한 겹씩 벗겨내다' → 가식/외피/불필요한 것을 제거하다.",
+      "콜로케이션: `strip away the layers/facade/complexity`. GRE 지문에서 '본질을 드러내다'라는 맥락에서 자주 써."
     ]
   },
   {
@@ -2327,6 +2856,10 @@
       "combat",
       "campaign",
       "crusade"
+    ],
+    "tips": [
+      "고대 영어 `strīfan`(싸우다). '목표를 향해 열심히 싸우듯 노력하다'가 핵심이야.",
+      "콜로케이션: `strive for/to/toward` → ~을 위해 노력하다. `endeavor`, `aspire`와 유의어. 단순 try보다 '열정적으로 매달리는' 느낌이야."
     ]
   },
   {
@@ -2342,7 +2875,11 @@
       "(반복 운동의) 한 번 움직임; (수영 등) 한 번 젓기",
       "(작품 등의) 특징 있는 필치, 효과적인 마무리"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stroke`는 핵심이 '한 번의 움직임'인데, 방향에 따라 갈라져:\n1) 부드러운 방향 → 쓰다듬다, 달래다 (동사)\n2) 강한 방향 → 타격, 일격 (명사)\n3) 도구의 움직임 → 붓놀림, 필치, 젓기 (명사)\n4) 의학: 뇌졸중 (뇌에 가해지는 '일격')\n전부 '한 번 쓱 하는 동작'이라는 공통점이 있어.",
+      "콜로케이션: `stroke of genius/luck`(천재적 발상/행운), `a bold stroke`(과감한 한 수). GRE에서 `stroke of genius`가 나올 수 있어."
+    ]
   },
   {
     "id": "135",
@@ -2356,6 +2893,10 @@
       "parade",
       "promenade",
       "stride"
+    ],
+    "tips": [
+      "동사: 거만하게 으스대며 걷다. 공작새가 꼬리 펴고 걸어다니는 거 상상해!\n명사: 지주, 버팀목 (건물/비행기의 구조물을 지탱하는 막대).\n두 뜻이 완전 달라서 품사로 구별해야 해.",
+      "콜로케이션: `strut one's stuff`(자신감 있게 과시하다), `structural strut`(구조적 지주). `swagger`, `parade`와 유의어(동사)."
     ]
   },
   {
@@ -2371,6 +2912,10 @@
       "support",
       "bracket",
       "prop"
+    ],
+    "tips": [
+      "동사: 거만하게 으스대며 걷다. 공작새가 꼬리 펴고 걸어다니는 거 상상해!\n명사: 지주, 버팀목 (건물/비행기의 구조물을 지탱하는 막대).\n두 뜻이 완전 달라서 품사로 구별해야 해.",
+      "콜로케이션: `strut one's stuff`(자신감 있게 과시하다), `structural strut`(구조적 지주). `swagger`, `parade`와 유의어(동사)."
     ]
   },
   {
@@ -2395,6 +2940,10 @@
       "persistent",
       "tenacious",
       "resistant"
+    ],
+    "tips": [
+      "핵심: '쉽게 바뀌지 않는, 굽히지 않는'. 사람 → 완고한, 고집 센. 문제/오점 → 잘 없어지지 않는 (stubborn stain = 잘 안 지워지는 얼룩).",
+      "유의어 강도 비교: `persistent`(끈기 있는, 긍정적) < `stubborn`(고집 센, 중립~부정) < `obstinate`(완고한, 부정적) < `intractable`(다루기 힘든, 강한 부정)."
     ]
   },
   {
@@ -2410,6 +2959,10 @@
       "premeditated",
       "considered",
       "elaborate"
+    ],
+    "tips": [
+      "GRE 함정 단어! `study`의 과거분사지만 '공부한'이 아니라 '일부러 꾸민, 의도적인'이야!\n'오래 연구해서 계획된' → 자연스럽지 않고 작위적인.\n예: `studied indifference` = 일부러 꾸민 무관심 (속으로는 신경 쓰면서 무관심한 척).",
+      "콜로케이션: `studied casualness/nonchalance/silence` → 의도적인 태연함/무심함/침묵. `deliberate`, `calculated`, `contrived`와 유의어. 반의어: `spontaneous`, `natural`."
     ]
   },
   {
@@ -2426,6 +2979,10 @@
       "vitiate",
       "cripple",
       "nullify"
+    ],
+    "tips": [
+      "어근 `stult-`(바보, stupid) + `-fy`(만들다) = 바보로 만들다.\n1) 바보처럼 보이게 하다\n2) 무의미하게/소용없게 만들다\n핵심은 '원래의 가치/효과를 없애다'야.",
+      "콜로케이션: `stultify creativity/growth/the mind`. `nullify`, `vitiate`, `negate`와 유의어. `stultifying` = 지루하고 마비시키는."
     ]
   },
   {
@@ -2447,6 +3004,10 @@
       "stupefy",
       "amaze",
       "dumbfound"
+    ],
+    "tips": [
+      "원래 '머리를 쳐서 기절시키다'인데, 비유적으로 '(놀라움으로) 넋을 잃게 하다'. 물리적 충격 → 정신적 충격.",
+      "콜로케이션: `stunned into silence` → 놀라서 말을 잃은. `stagger`, `astound`, `dumbfound`와 유의어."
     ]
   },
   {
@@ -2458,7 +3019,11 @@
       "(놀람/기쁨으로) 어리벙벙한, 얼떨떨한",
       "대경실색하게 된"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`stun`의 과거분사. '충격을 받아 멍한/어리벙벙한 상태'.",
+      "콜로케이션: `stunned silence/expression/audience`. 긍정적(기쁨) + 부정적(충격) 둘 다 쓸 수 있어."
+    ]
   },
   {
     "id": "142",
@@ -2482,6 +3047,10 @@
       "fabulous",
       "fantastic",
       "tremendous"
+    ],
+    "tips": [
+      "`stun`의 현재분사인데, 두 갈래야:\n1) 놀라게 하는, 충격적인 (stunning news)\n2) 놀랄 만큼 아름다운 (stunning view/dress)\n'넋이 나갈 정도'라는 공통점에서 갈라지는 거야.",
+      "콜로케이션: `stunning beauty/performance/defeat/revelation`. GRE에서는 '충격적인' 의미로 더 자주 나와."
     ]
   },
   {
@@ -2500,6 +3069,10 @@
       "astound",
       "astonish",
       "amaze"
+    ],
+    "tips": [
+      "어근 `stup-`(멍하다, → stupid) + `-fy`(만들다) = 멍하게 만들다.\n1) 물리적 → 마비시키다, 무감각하게 만들다 (약물 등으로)\n2) 정신적 → 깜짝 놀라게 하다, 어리둥절하게 하다",
+      "콜로케이션: `stupefied by shock/drugs/news`. `daze`, `bewilder`, `dumbfound`와 유의어."
     ]
   },
   {
@@ -2514,6 +3087,10 @@
       "coma",
       "numbness",
       "paralysis"
+    ],
+    "tips": [
+      "`stupefy`의 명사형. '무감각 상태, 멍한 상태, 깜짝 놀람'.",
+      "`torpor`(무기력), `stupor`(혼수)와 유의어야."
     ]
   },
   {
@@ -2531,6 +3108,10 @@
       "coma",
       "numbness",
       "paralysis"
+    ],
+    "tips": [
+      "어근 `stup-`(멍하다). '의식이 거의 없는 혼수 상태'. `stupefy`보다 더 깊은 무감각 상태야.",
+      "콜로케이션: `in a stupor`, `drunken stupor`(만취 상태). `torpor`, `lethargy`, `coma`와 유의어."
     ]
   },
   {
@@ -2549,6 +3130,10 @@
       "solid",
       "burly",
       "robust"
+    ],
+    "tips": [
+      "원래 프랑스어로 '대담한, 거친'이란 뜻이었어. 지금은 '튼튼한, 견고한'으로 주로 써.",
+      "콜로케이션: `sturdy construction/build/frame`. `robust`, `solid`, `durable`과 유의어. 반의어: `flimsy`, `fragile`, `frail`."
     ]
   },
   {
@@ -2568,6 +3153,10 @@
       "bewilder",
       "dismay",
       "frustrate"
+    ],
+    "tips": [
+      "골프 용어에서 왔어! 상대 공이 내 퍼팅 라인을 막는 상황 = stymie. 그래서 → 방해하다, 난처하게 하다.",
+      "콜로케이션: `stymied by/in`. `thwart`, `hinder`, `frustrate`, `impede`와 유의어. GRE에서 계획/진행이 막히는 맥락에서 자주 나와."
     ]
   },
   {
@@ -2597,6 +3186,10 @@
       "sophisticated",
       "tactful",
       "diplomatic"
+    ],
+    "tips": [
+      "라틴어 `suavis`(달콤한, 기분 좋은). 사람이 달콤하고 매끄러운 → 세련되고 상냥한. 약간 '너무 매끄러워서 얄미운' 뉘앙스가 있을 수도 있어.",
+      "콜로케이션: `suave manner/charm/diplomat`. `urbane`, `debonair`, `polished`와 유의어. 반의어: `gauche`, `boorish`, `uncouth`."
     ]
   },
   {
@@ -2613,6 +3206,10 @@
       "good manners",
       "gentility",
       "amenities"
+    ],
+    "tips": [
+      "`suave`의 명사형. '세련된 태도, 공손함, 우아함'.",
+      "`urbanity`와 거의 같은 뜻. `refinement`, `elegance`와 유의어."
     ]
   },
   {
@@ -2651,6 +3248,10 @@
       "rein in",
       "control",
       "quell"
+    ],
+    "tips": [
+      "`subdue`의 핵심은 '힘으로 아래(sub-)로 끌어내리다'야:\n1) 적/반란 → 정복하다, 진압하다 (물리적으로 제압)\n2) 감정/욕구 → 억누르다, 억제하다 (심리적으로 제압)\n3) 빛/소리/색 → 약하게 하다, 누그러뜨리다 (강도를 낮추다)\n전부 '강한 것을 약하게 만드는' 거야.",
+      "콜로케이션: `subdue an enemy/emotion`, `subdued lighting/color/tone` → 은은한 조명/색상/어조. `suppress`, `quell`, `temper`와 유의어."
     ]
   },
   {
@@ -2662,7 +3263,11 @@
       "(사람, 성질, 태도 등이) 조용한, 가라앉은, 차분한",
       "완화된, 낮아진, 약해진"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`subdue`의 과거분사/형용사. '억제된, 가라앉은, 조용한'. 원래 강했던 것이 약해진 상태야.",
+      "콜로케이션: `subdued mood/lighting/colors/reaction`. 반의어: `exuberant`, `vibrant`, `boisterous`."
+    ]
   },
   {
     "id": "152",
@@ -2679,6 +3284,10 @@
       "personal",
       "emotional",
       "mental"
+    ],
+    "tips": [
+      "`sub-`(아래) + `ject`(던지다) = 주체 아래에 놓인 → 주관의. (cf. `objective` = 대상을 향해 던지는 → 객관의)",
+      "콜로케이션: `subjective opinion/experience/judgment`. 반의어: `objective`. GRE 논증 지문에서 '주관적 vs 객관적' 대비가 핵심!"
     ]
   },
   {
@@ -2703,6 +3312,10 @@
       "bound by",
       "constrained by",
       "accountable to"
+    ],
+    "tips": [
+      "`subject to`는 핵심이 '~의 아래에 놓인(sub+ject)'이야:\n1) 영향을 받기 쉬운 → subject to change/flooding\n2) ~에 걸리는 → subject to penalties/taxation\n3) 조건부의 → subject to approval/consent\n전부 '외부 힘의 영향 아래 있다'는 뜻이야.",
+      "콜로케이션: `subject to review/approval/change/availability`. GRE 법률/정책 지문에서 자주 나와."
     ]
   },
   {
@@ -2721,6 +3334,10 @@
       "subdue",
       "vanquish",
       "reduce to submission"
+    ],
+    "tips": [
+      "`sub-`(아래) + `jug-`(멍에, yoke) = 멍에 아래 두다 → 정복하다, 복종시키다.",
+      "콜로케이션: `subjugate a people/nation`, `subjugate one's desires`. `conquer`, `vanquish`, `subdue`와 유의어. 반의어: `liberate`, `emancipate`."
     ]
   },
   {
@@ -2738,6 +3355,10 @@
       "superb",
       "excellent",
       "marvelous"
+    ],
+    "tips": [
+      "어원: `sub-`(위로, up to) + `limen`(문턱) = 문턱 위로 올라간 → 지극히 높은, 장엄한, 경외스러운.\n일상에서 '맛있는'(sublime chocolate) 정도로도 쓰지만, GRE에서는 '경외감을 불러일으킬 만큼 고귀한/장엄한' 뜻이 핵심이야.",
+      "콜로케이션: `sublime beauty/landscape/art`. `from the sublime to the ridiculous` = 장엄함에서 우스꽝스러움으로. `majestic`, `exalted`, `transcendent`와 유의어."
     ]
   }
 ]
