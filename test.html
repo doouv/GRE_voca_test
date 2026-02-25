@@ -1497,6 +1497,7 @@
         throw new Error(`GRE_wordlist${WORDLIST_NUMBER}.json not found`);
       }
       const data = await response.json();
+      data.forEach((w, i) => { w.id = String(i + 1).padStart(3, '0'); });
       return data.map((item, index) => transformWordData(item, index, data));
     } catch (error) {
       console.error('Failed to load wordlist:', error);
@@ -1514,7 +1515,7 @@
           const response = await fetch(`data/GRE_wordlist${i}.json`);
           if (response.ok) {
             const data = await response.json();
-            data.forEach(w => w._listNum = i);
+            data.forEach((w, idx) => { w.id = String(idx + 1).padStart(3, '0'); w._listNum = i; });
             allWords.push(...data);
           } else {
             console.warn(`GRE_wordlist${i}.json not found, skipping...`);
@@ -2971,6 +2972,32 @@
     $('#crWrong').textContent = cardIncorrectCount;
 
     $('#cardBarFill').style.width = '100%';
+
+    // Save card mode score to localStorage so index.html can read it
+    const payload = collectAnswers();
+    payload._meta = MODE === 'random' ? {
+      mode: 'random',
+      wordlists: `${RANDOM_FROM}-${RANDOM_TO}`,
+      questionCount: RANDOM_COUNT,
+      graded: true,
+      score,
+      correct: cardCorrectCount,
+      partial: 0,
+      incorrect: cardIncorrectCount,
+      bestStreak: 0,
+      timestamp: now.toISOString(),
+    } : {
+      wordlist: WORDLIST_NUMBER,
+      graded: true,
+      score,
+      correct: cardCorrectCount,
+      partial: 0,
+      incorrect: cardIncorrectCount,
+      bestStreak: 0,
+      timestamp: now.toISOString(),
+    };
+    saveAnswers(payload);
+    isGraded = true;
 
     const retryWrongBtn = $('#crRetryWrong');
     if (cardIncorrectCount + confusedCount === 0) {
