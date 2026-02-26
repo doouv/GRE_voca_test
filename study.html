@@ -643,6 +643,16 @@
       font-family: 'Outfit', sans-serif;
     }
 
+    .syn-note-item {
+      padding: 3px 0;
+    }
+
+    .syn-note-item + .syn-note-item {
+      border-top: 1px solid #DDD6FE;
+      margin-top: 3px;
+      padding-top: 6px;
+    }
+
     .quiz-next-wrap {
       margin-top: 16px;
       text-align: center;
@@ -1176,7 +1186,7 @@
         const hasSyn = !IS_MOCK && word.synonyms_from_image && word.synonyms_from_image.length > 0;
         const qType = hasSyn ? (Math.random() < 0.5 ? 'synonym' : 'meaning') : 'meaning';
 
-        let correct, distractors, prompt, correctNote = null;
+        let correct, distractors, prompt, correctNote = null, allSynNotes = [];
 
         if (qType === 'synonym') {
           // Pick one random synonym as the correct answer
@@ -1185,6 +1195,11 @@
           correct = typeof picked === 'object' ? picked.word : picked;
           correctNote = typeof picked === 'object' ? (picked.note || null) : null;
           prompt = '다음 단어의 동의어를 고르세요';
+
+          // Collect ALL synonym notes for post-answer display
+          allSynNotes = syns
+            .filter(s => typeof s === 'object' && s.note)
+            .map(s => ({ word: s.word, note: s.note }));
 
           // Collect distractors from other words' synonyms
           const allSynWords = syns.map(s => typeof s === 'object' ? s.word : s);
@@ -1231,6 +1246,7 @@
           correctIndex: options.indexOf(correct),
           correctAnswer: correct,
           correctNote,
+          allSynNotes,
           meanings: word.head_meanings.join(', '),
           synonyms: (word.synonyms_from_image || []).map(s => typeof s === 'object' ? s.word : s).join(', ')
         });
@@ -1303,12 +1319,14 @@
       opts[q.correctIndex].classList.add('correct');
       if (!isCorrect) opts[idx].classList.add('wrong');
 
-      // Show synonym note after answering synonym quiz
-      if (q.type === 'synonym' && q.correctNote) {
+      // Show ALL synonym notes after answering synonym quiz
+      if (q.type === 'synonym' && q.allSynNotes && q.allSynNotes.length > 0) {
         const quizOptions = document.getElementById('quizOptions');
         const explanation = document.createElement('div');
         explanation.className = 'quiz-explanation';
-        explanation.innerHTML = `💡 <strong>${q.correctAnswer}</strong> — ${q.correctNote}`;
+        explanation.innerHTML = q.allSynNotes.map(sn =>
+          `<div class="syn-note-item">💡 <strong>${sn.word}</strong> — ${sn.note}</div>`
+        ).join('');
         quizOptions.after(explanation);
       }
 
@@ -1365,7 +1383,9 @@
                 <div class="wi-word">${q.word}</div>
                 <div class="wi-answer">정답: ${q.correctAnswer}</div>
                 ${q._userPicked !== undefined ? `<div class="wi-picked">선택: ${q.options[q._userPicked]}</div>` : ''}
-                ${q.correctNote ? `<div class="wi-note">💡 ${q.correctNote}</div>` : ''}
+                ${q.allSynNotes && q.allSynNotes.length > 0 ? q.allSynNotes.map(sn =>
+                  `<div class="wi-note">💡 <strong>${sn.word}</strong> — ${sn.note}</div>`
+                ).join('') : ''}
               </div>
             `).join('')}
           </div>

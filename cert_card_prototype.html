@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>GRE Test Header — Certification Card Concept</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F7F7F5;
+    --card: #FFFFFF;
+    --text: #1A1A1A;
+    --muted: #999;
+    --border: #E8E8E4;
+    --green: #22C55E;
+    --green-deep: #15803D;
+    --amber: #F59E0B;
+    --red: #EF4444;
+    --accent: #6B7280;
+    --accent-deep: #374151;
+  }
+
+  * { box-sizing: border-box; margin: 0; }
+
+  body {
+    font-family: 'DM Sans', -apple-system, system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+
+  h3.demo-label {
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--muted);
+  }
+
+  /* ============================================ */
+  /* HERO CARD                                     */
+  /* ============================================ */
+  .hero-card {
+    width: 100%;
+    max-width: 720px;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    background: var(--card);
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,.04), 0 8px 24px rgba(0,0,0,.06);
+    position: relative;
+  }
+
+  .hero-card::before {
+    content: '';
+    display: block;
+    height: 3px;
+    background: linear-gradient(90deg, var(--text) 0%, var(--text) 100%);
+    transition: background .8s ease;
+  }
+  .hero-card.graded::before {
+    background: linear-gradient(90deg, var(--accent) 0%, var(--accent-deep) 100%);
+  }
+
+  .hero-inner {
+    padding: 32px 36px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+  }
+
+  .hero-title-block { flex: 1; min-width: 0; }
+
+  .hero-overline {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+
+  .hero-title {
+    font-family: 'DM Serif Display', Georgia, serif;
+    font-size: 28px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+    line-height: 1.2;
+    margin-bottom: 8px;
+  }
+
+  .hero-subtitle {
+    font-size: 13px;
+    color: var(--muted);
+    font-weight: 500;
+    line-height: 1.5;
+  }
+
+  .hero-status {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+
+  /* Pre-grade counter */
+  .status-pre { text-align: center; }
+
+  .status-pre .count-big {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    line-height: 1;
+  }
+
+  .status-pre .count-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 4px;
+  }
+
+  /* Post-grade score ring */
+  .status-post {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    animation: scoreReveal .8s cubic-bezier(.22,1,.36,1) forwards;
+  }
+
+  @keyframes scoreReveal {
+    0% { opacity: 0; transform: scale(.7) rotate(-10deg); }
+    100% { opacity: 1; transform: scale(1) rotate(0); }
+  }
+
+  .score-ring-wrap {
+    position: relative;
+    width: 88px;
+    height: 88px;
+  }
+
+  .score-ring-wrap svg {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-90deg);
+  }
+
+  .ring-bg { fill: none; stroke: #F3F4F6; stroke-width: 6; }
+
+  .ring-fg {
+    fill: none;
+    stroke: var(--accent);
+    stroke-width: 6;
+    stroke-linecap: round;
+    stroke-dasharray: 245;
+    stroke-dashoffset: 245;
+    transition: stroke-dashoffset 1.2s cubic-bezier(.22,1,.36,1) .3s;
+  }
+
+  .score-number {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+  }
+
+  .score-number .pct {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--muted);
+  }
+
+  .score-verdict {
+    font-size: 11px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    padding: 3px 10px;
+    border-radius: 999px;
+    background: rgba(107,114,128,.08);
+    color: var(--accent-deep);
+  }
+
+  /* ============================================ */
+  /* SHARED BAR AREA                               */
+  /* ============================================ */
+  .hero-bar-area {
+    padding: 0 36px 24px;
+  }
+
+  .bar-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+
+  .bar-legend {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--muted);
+  }
+
+  .legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    flex-shrink: 0;
+  }
+
+  .legend-dot.g { background: var(--green); }
+  .legend-dot.a { background: var(--amber); }
+  .legend-dot.r { background: var(--red); }
+  .legend-dot.dark { background: var(--text); }
+
+  /* Stacked bar */
+  .stacked-bar {
+    height: 6px;
+    border-radius: 99px;
+    background: #EFEFEC;
+    overflow: hidden;
+    display: flex;
+  }
+
+  .stacked-bar .seg {
+    height: 100%;
+    transition: width .8s cubic-bezier(.22,1,.36,1);
+    width: 0%;
+  }
+
+  .stacked-bar .seg.green { background: var(--green); }
+  .stacked-bar .seg.amber { background: var(--amber); }
+  .stacked-bar .seg.red { background: var(--red); }
+  .stacked-bar .seg.dark { background: var(--text); }
+
+  /* ============================================ */
+  /* DEMO                                          */
+  /* ============================================ */
+  .demo-controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .demo-btn {
+    padding: 10px 20px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    background: #fff;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all .15s ease;
+  }
+  .demo-btn:hover { box-shadow: 0 2px 8px rgba(0,0,0,.08); }
+  .demo-btn.active { background: var(--text); color: #fff; border-color: var(--text); }
+
+  .note {
+    max-width: 560px;
+    text-align: center;
+    font-size: 13px;
+    color: var(--muted);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 600px) {
+    .hero-inner { flex-direction: column; text-align: center; }
+    .hero-title { font-size: 24px; }
+  }
+</style>
+</head>
+<body>
+
+<h3 class="demo-label">Concept Preview — 헤드라인 + 인증 카드</h3>
+
+<div class="hero-card" id="heroCard">
+  <div class="hero-inner">
+    <div class="hero-title-block">
+      <div class="hero-overline">GRE Vocabulary</div>
+      <div class="hero-title">Word List 28</div>
+      <div class="hero-subtitle" id="heroSub">뜻을 쓰고, 동의어를 모두 선택하세요.</div>
+    </div>
+    <div class="hero-status">
+      <div class="status-pre" id="statusPre">
+        <div class="count-big">42</div>
+        <div class="count-label">Words</div>
+      </div>
+      <div class="status-post" id="statusPost">
+        <div class="score-ring-wrap">
+          <svg viewBox="0 0 88 88">
+            <circle class="ring-bg" cx="44" cy="44" r="39"/>
+            <circle class="ring-fg" id="ringFg" cx="44" cy="44" r="39"/>
+          </svg>
+          <div class="score-number">
+            <span id="scoreNum">0</span><span class="pct">%</span>
+          </div>
+        </div>
+        <div class="score-verdict" id="verdict">EXCELLENT</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bar area: progress before grade, stacked ratio after grade -->
+  <div class="hero-bar-area">
+    <div class="bar-row" id="barLabel">
+      <span id="barLeft">Progress: 18 / 42</span>
+      <span id="barRight">Meaning 20 · Synonym 16</span>
+    </div>
+    <div class="stacked-bar" id="stackedBar">
+      <div class="seg dark" id="segProgress" style="width:43%"></div>
+      <div class="seg green" id="segCorrect" style="width:0%"></div>
+      <div class="seg amber" id="segPartial" style="width:0%"></div>
+      <div class="seg red" id="segWrong" style="width:0%"></div>
+    </div>
+    <div class="bar-legend" id="barLegend" style="margin-top:8px; display:none;">
+      <span class="legend-item"><span class="legend-dot g"></span>Correct</span>
+      <span class="legend-item"><span class="legend-dot a"></span>Partial</span>
+      <span class="legend-item"><span class="legend-dot r"></span>Wrong</span>
+    </div>
+  </div>
+</div>
+
+<!-- DEMO CONTROLS -->
+<div class="demo-controls">
+  <button class="demo-btn active" onclick="showBefore(this)">시험 전 (Before)</button>
+  <button class="demo-btn" onclick="showGraded(this, 92, 35, 4, 3)">채점: 92% 🟢</button>
+  <button class="demo-btn" onclick="showGraded(this, 68, 22, 8, 12)">채점: 68% 🟡</button>
+  <button class="demo-btn" onclick="showGraded(this, 35, 10, 5, 27)">채점: 35% 🔴</button>
+</div>
+
+<p class="note">
+  시험 전: 진행률 바 (단색)<br>
+  채점 후: 같은 바가 Correct / Partial / Wrong 비율 바로 변환
+</p>
+
+<script>
+  const card = document.getElementById('heroCard');
+  const pre = document.getElementById('statusPre');
+  const post = document.getElementById('statusPost');
+  const ring = document.getElementById('ringFg');
+  const scoreNum = document.getElementById('scoreNum');
+  const verdict = document.getElementById('verdict');
+  const heroSub = document.getElementById('heroSub');
+  const barLeft = document.getElementById('barLeft');
+  const barRight = document.getElementById('barRight');
+  const barLegend = document.getElementById('barLegend');
+  const segProgress = document.getElementById('segProgress');
+  const segCorrect = document.getElementById('segCorrect');
+  const segPartial = document.getElementById('segPartial');
+  const segWrong = document.getElementById('segWrong');
+
+  const circumference = 2 * Math.PI * 39;
+
+  function resetButtons() {
+    document.querySelectorAll('.demo-btn').forEach(b => b.classList.remove('active'));
+  }
+
+  function showBefore(btn) {
+    resetButtons();
+    if (btn) btn.classList.add('active');
+
+    card.className = 'hero-card';
+    pre.style.display = 'block';
+    post.style.display = 'none';
+    heroSub.textContent = '뜻을 쓰고, 동의어를 모두 선택하세요.';
+
+    // Bar: single dark progress
+    barLeft.textContent = 'Progress: 18 / 42';
+    barRight.textContent = 'Meaning 20 · Synonym 16';
+    barLegend.style.display = 'none';
+
+    segProgress.style.width = '43%';
+    segCorrect.style.width = '0%';
+    segPartial.style.width = '0%';
+    segWrong.style.width = '0%';
+  }
+
+  function showGraded(btn, score, correct, partial, wrong) {
+    resetButtons();
+    if (btn) btn.classList.add('active');
+
+    const total = correct + partial + wrong;
+    let tier = score >= 80 ? 'high' : score >= 50 ? 'mid' : 'low';
+
+    card.className = 'hero-card graded';
+
+    pre.style.display = 'none';
+    post.style.display = 'flex';
+    post.style.animation = 'none';
+    post.offsetHeight;
+    post.style.animation = '';
+
+    // Ring (always blue)
+    ring.className = 'ring-fg';
+    ring.style.strokeDashoffset = circumference;
+    requestAnimationFrame(() => {
+      ring.style.strokeDashoffset = circumference - (score / 100) * circumference;
+    });
+    animateNumber(scoreNum, 0, score, 1000);
+
+    const verdicts = { high: 'EXCELLENT', mid: 'KEEP GOING', low: 'NEED REVIEW' };
+    verdict.textContent = verdicts[tier];
+    verdict.className = 'score-verdict';
+    heroSub.textContent = `채점 완료 · ${new Date().toLocaleDateString('ko-KR')}`;
+
+    // Stacked bar
+    barLeft.textContent = `${correct + partial + wrong} / ${total} graded`;
+    barRight.textContent = `✓ ${correct}  △ ${partial}  ✗ ${wrong}`;
+    barLegend.style.display = 'flex';
+
+    segProgress.style.width = '0%';
+    // Small delay for animation feel
+    setTimeout(() => {
+      segCorrect.style.width = `${(correct / total) * 100}%`;
+      segPartial.style.width = `${(partial / total) * 100}%`;
+      segWrong.style.width = `${(wrong / total) * 100}%`;
+    }, 100);
+  }
+
+  function animateNumber(el, from, to, duration) {
+    const start = performance.now();
+    function tick(now) {
+      const p = Math.min((now - start) / duration, 1);
+      const eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = Math.round(from + (to - from) * eased);
+      if (p < 1) requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+  }
+</script>
+</body>
+</html>

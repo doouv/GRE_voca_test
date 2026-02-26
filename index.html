@@ -391,7 +391,7 @@
 
     <button class="random-btn" id="randomBtn">🎲 Random Test</button>
 
-    <div class="section-title">📋 Word Lists</div>
+    <div class="section-title"><span id="wordListIcon" style="cursor:default;user-select:none">📋</span> Word Lists</div>
     <div class="wordlist-grid" id="wordlistGrid">
       <!-- Dynamically populated -->
     </div>
@@ -552,6 +552,21 @@
       });
     }
     renderMocks();
+
+    // Easter egg: triple-click 📋 → writing page
+    (() => {
+      const icon = document.getElementById('wordListIcon');
+      let clicks = 0, timer = null;
+      icon.addEventListener('click', () => {
+        clicks++;
+        clearTimeout(timer);
+        if (clicks >= 3) {
+          clicks = 0;
+          window.location.href = 'writing.html';
+        }
+        timer = setTimeout(() => { clicks = 0; }, 600);
+      });
+    })();
 
     // Mode Selection Modal Logic
     let selectedListNum = null;

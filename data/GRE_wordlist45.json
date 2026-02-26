@@ -157,8 +157,6 @@
     ],
     "synonyms_from_image": [
       {"word": "abject", "note": "비참할 정도로 비굴한"},
-      {"word": "despicable", "note": "경멸스러운 → 비굴한 태도가 경멸을 살 때"},
-      {"word": "contemptible", "note": "멸시받을 만한"},
       {"word": "menial", "note": "하찮은, 천한 → 하인처럼 굽실대는 느낌"},
       {"word": "obeisant", "note": "고개 숙여 절하듯 복종하는"},
       {"word": "subordinate", "note": "하위의, 종속적인"},
@@ -388,7 +386,7 @@
     "synonyms_from_image": [
       {"word": "condensed", "note": "압축된"},
       {"word": "shortened", "note": "짧아진, 요약된"},
-      {"word": "epitomized", "note": "핵심만 추린"},
+      {"word": "epitomized", "note": "원래 '전형화하다'인데, '핵심만 축약하다'라는 뜻도 있어서 synoptic과 통함"},
       {"word": "abridged", "note": "축약된"}
     ],
     "tips": [
@@ -1381,7 +1379,7 @@
       {"word": "bear", "note": "짊어지다, 견디다"},
       {"word": "nurture", "note": "양분을 주어 키우다"},
       {"word": "back", "note": "뒤를 받쳐주다, 지지하다"},
-      {"word": "abet", "note": "도와서 지속시키다"}
+      {"word": "abet", "note": "원래 '(나쁜 짓을) 부추기다/돕다'인데, '지지하다/돕다'라는 넓은 뜻에서 sustain과 만남"}
     ],
     "tips": [
       "어원: `sus-`(아래에서) + `tain-`(잡다, hold) → 아래에서 받쳐 잡다 = 지탱하다. `maintain`(유지), `retain`(보유), `contain`(포함) 모두 `-tain` 가족!",
@@ -1644,8 +1642,7 @@
     "synonyms_from_image": [
       {"word": "logic", "note": "논리"},
       {"word": "reasoning", "note": "추론"},
-      {"word": "figure", "note": "논증의 형식/도식"},
-      {"word": "dilemma", "note": "두 전제 사이의 논리적 곤란"}
+      {"word": "figure", "note": "논증의 형식/도식"}
     ],
     "tips": [
       "어원: `syl-`(함께) + `log-`(이성, 말, logic) → 논리를 함께 모아 결론 내기 = 삼단논법. 대전제 + 소전제 → 결론 구조야. 예: 모든 사람은 죽는다 + 소크라테스는 사람이다 → 소크라테스는 죽는다.",
@@ -1890,10 +1887,6 @@
     ],
     "synonyms_from_image": [
       {"word": "bait", "note": "미끼를 놓다 → 먹을 수 없는 미끼로 유인"},
-      {"word": "annoy", "note": "짜증나게 하다"},
-      {"word": "harass", "note": "괴롭히다"},
-      {"word": "beleaguer", "note": "포위하듯 괴롭히다"},
-      {"word": "raid", "note": "급습하다 → 갑자기 희망을 줬다 빼앗는 느낌"},
       {"word": "taunt", "note": "조롱하며 자극하다 → '가질 수 없지~' 하고 놀리는"},
       {"word": "tempt", "note": "유혹하다 → tantalize와 달리 실제로 가질 수도 있음"}
     ],

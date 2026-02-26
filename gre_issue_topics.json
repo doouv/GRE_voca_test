@@ -1,0 +1,1034 @@
+{
+  "direction_templates": {
+    "Agree/disagree statement": "Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.",
+    "Challenge": "Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.",
+    "Both of the view": "Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.",
+    "Claim/reason": "Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.",
+    "Recommendation": "Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position.",
+    "Policy": "Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position."
+  },
+  "topics": [
+    {
+      "number": 1,
+      "prompt": "Governments should place few, if any, restrictions on scientific research and development.",
+      "direction": "Agree/disagree statement",
+      "theme": "Government Funding & Restrictions on Science",
+      "theme_kr": "정부의 과학 연구 제한·자금"
+    },
+    {
+      "number": 2,
+      "prompt": "The best way to teach is to praise positive actions and ignore negative ones.",
+      "direction": "Agree/disagree statement",
+      "theme": "Teaching Methods: Praise & Student Interest",
+      "theme_kr": "교육 방법: 칭찬/학생 흥미 반영"
+    },
+    {
+      "number": 3,
+      "prompt": "Governments should offer college and university education free of charge to all students.",
+      "direction": "Agree/disagree statement",
+      "theme": "Free Government-Funded University Education",
+      "theme_kr": "정부 무상 대학 교육"
+    },
+    {
+      "number": 4,
+      "prompt": "The luxuries and conveniences of contemporary life prevent people from developing into truly strong and independent individuals.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 5,
+      "prompt": "In any field of inquiry, the beginner is more likely than the expert to make important contributions.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 6,
+      "prompt": "The surest indicator of a great nation is represented not by the achievements of its rulers, artists, or scientists, but by the general welfare of its people.",
+      "direction": "Agree/disagree statement",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 7,
+      "prompt": "The best way to teach — whether as an educator, employer, or parent — is to praise positive actions and ignore negative ones.",
+      "direction": "Challenge",
+      "theme": "Teaching Methods: Praise & Student Interest",
+      "theme_kr": "교육 방법: 칭찬/학생 흥미 반영"
+    },
+    {
+      "number": 8,
+      "prompt": "Teachers' salaries should be based on their students' academic performance.",
+      "direction": "Challenge",
+      "theme": "Teacher Pay Tied to Student Performance",
+      "theme_kr": "교사 급여와 학생 성적 연동"
+    },
+    {
+      "number": 9,
+      "prompt": "Society should make efforts to save endangered species only if the potential extinction of those species is the result of human activities.",
+      "direction": "Policy",
+      "theme": "Endangered Species & Wilderness Preservation vs. Development",
+      "theme_kr": "멸종 위기종 보호·자연 보전 vs 개발"
+    },
+    {
+      "number": 10,
+      "prompt": "College students should base their choice of a field of study on the availability of jobs in that field.",
+      "direction": "Challenge",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 11,
+      "prompt": "As we acquire more knowledge, things do not become more comprehensible, but more complex and mysterious.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 12,
+      "prompt": "In any situation, progress requires discussion among people who have contrasting points of view.",
+      "direction": "Agree/disagree statement",
+      "theme": "Learning from Shared vs. Opposing Views",
+      "theme_kr": "같은 견해 vs 다른 견해에서 배움"
+    },
+    {
+      "number": 13,
+      "prompt": "Educational institutions should dissuade students from pursuing fields of study in which they are unlikely to succeed.",
+      "direction": "Policy",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 14,
+      "prompt": "Governments should not fund any scientific research whose consequences are unclear.",
+      "direction": "Recommendation",
+      "theme": "Government Funding & Restrictions on Science",
+      "theme_kr": "정부의 과학 연구 제한·자금"
+    },
+    {
+      "number": 15,
+      "prompt": "Society should identify those children who have special talents and provide training for them at an early age to develop their talents.",
+      "direction": "Recommendation",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 16,
+      "prompt": "It is primarily through our identification with social groups that we define ourselves.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 17,
+      "prompt": "College students should be encouraged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs.",
+      "direction": "Recommendation",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 18,
+      "prompt": "Claim: When planning courses, educators should take into account the interests and suggestions of their students. Reason: Students are more motivated to learn when they are interested in what they are studying.",
+      "direction": "Claim/reason",
+      "theme": "Teaching Methods: Praise & Student Interest",
+      "theme_kr": "교육 방법: 칭찬/학생 흥미 반영"
+    },
+    {
+      "number": 19,
+      "prompt": "The greatness of individuals can be decided only by those who live after them, not by their contemporaries.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 20,
+      "prompt": "Students should always question what they are taught instead of accepting it passively.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 21,
+      "prompt": "The increasingly rapid pace of life today causes more problems than it solves.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 22,
+      "prompt": "Claim: It is no longer possible for a society to regard any living man or woman as a hero. Reason: The reputation of anyone who is subjected to media scrutiny will eventually be diminished.",
+      "direction": "Claim/reason",
+      "theme": "Heroes, Role Models & Media Scrutiny",
+      "theme_kr": "영웅·역할 모델과 미디어"
+    },
+    {
+      "number": 23,
+      "prompt": "Competition for high grades seriously limits the quality of learning at all levels of education.",
+      "direction": "Agree/disagree statement",
+      "theme": "Grade Competition & Quality of Learning",
+      "theme_kr": "성적 경쟁과 학습의 질"
+    },
+    {
+      "number": 24,
+      "prompt": "Universities should require every student to take a variety of courses outside the student's field of study.",
+      "direction": "Recommendation",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 25,
+      "prompt": "Educators should find out what students want included in the curriculum and then offer it to them.",
+      "direction": "Recommendation",
+      "theme": "Teaching Methods: Praise & Student Interest",
+      "theme_kr": "교육 방법: 칭찬/학생 흥미 반영"
+    },
+    {
+      "number": 26,
+      "prompt": "Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts.",
+      "direction": "Recommendation",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 27,
+      "prompt": "Claim: We can usually learn much more from people whose views we share than from those whose views contradict our own. Reason: Disagreement can cause stress and inhibit learning.",
+      "direction": "Claim/reason",
+      "theme": "Learning from Shared vs. Opposing Views",
+      "theme_kr": "같은 견해 vs 다른 견해에서 배움"
+    },
+    {
+      "number": 28,
+      "prompt": "Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people they serve.",
+      "direction": "Recommendation",
+      "theme": "Leaders: Public Opinion vs. Own Judgment",
+      "theme_kr": "지도자: 대중 여론 vs 자기 판단"
+    },
+    {
+      "number": 41,
+      "prompt": "There is little justification for society to make extraordinary efforts — especially at a great cost in money and jobs — to save endangered animal or plant species.",
+      "direction": "Agree/disagree statement",
+      "theme": "Endangered Species & Wilderness Preservation vs. Development",
+      "theme_kr": "멸종 위기종 보호·자연 보전 vs 개발"
+    },
+    {
+      "number": 42,
+      "prompt": "The human mind will always be superior to machines because machines are only tools of human minds.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 43,
+      "prompt": "People who are the most deeply committed to an idea or policy are also the most critical of it.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 44,
+      "prompt": "Some people believe that society should try to save every plant and animal species, despite the expense to humans in effort, time, and financial well-being. Others believe that society need not make extraordinary efforts, especially at a great cost in money and jobs, to save endangered species.",
+      "direction": "Both of the view",
+      "theme": "Endangered Species & Wilderness Preservation vs. Development",
+      "theme_kr": "멸종 위기종 보호·자연 보전 vs 개발"
+    },
+    {
+      "number": 45,
+      "prompt": "Some people believe that the purpose of education is to free the mind and the spirit. Others believe that formal education tends to restrain our minds and spirits rather than set them free.",
+      "direction": "Both of the view",
+      "theme": "Education: Liberation vs. Restraint",
+      "theme_kr": "교육의 본질: 자유 vs 억압"
+    },
+    {
+      "number": 46,
+      "prompt": "Some people believe it is often necessary, even desirable, for political leaders to withhold information from the public. Others believe that the public has a right to be fully informed.",
+      "direction": "Both of the view",
+      "theme": "Leaders: Public Opinion vs. Own Judgment",
+      "theme_kr": "지도자: 대중 여론 vs 자기 판단"
+    },
+    {
+      "number": 47,
+      "prompt": "Claim: Universities should require every student to take a variety of courses outside the student's major field of study. Reason: Acquiring knowledge of various academic disciplines is the best way to become truly educated.",
+      "direction": "Claim/reason",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 48,
+      "prompt": "Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 49,
+      "prompt": "Governments should not fund any scientific research whose consequences are unclear.",
+      "direction": "Policy",
+      "theme": "Government Funding & Restrictions on Science",
+      "theme_kr": "정부의 과학 연구 제한·자금"
+    },
+    {
+      "number": 50,
+      "prompt": "Knowing about the past cannot help people to make important decisions today.",
+      "direction": "Agree/disagree statement",
+      "theme": "Relevance of the Past to Present Decisions",
+      "theme_kr": "과거·역사의 현재 유용성"
+    },
+    {
+      "number": 51,
+      "prompt": "In this age of intensive media coverage, it is no longer possible for a society to regard any living man or woman as a hero.",
+      "direction": "Agree/disagree statement",
+      "theme": "Heroes, Role Models & Media Scrutiny",
+      "theme_kr": "영웅·역할 모델과 미디어"
+    },
+    {
+      "number": 52,
+      "prompt": "We can usually learn much more from people whose views we share than from people whose views contradict our own.",
+      "direction": "Agree/disagree statement",
+      "theme": "Learning from Shared vs. Opposing Views",
+      "theme_kr": "같은 견해 vs 다른 견해에서 배움"
+    },
+    {
+      "number": 53,
+      "prompt": "The most effective way to understand contemporary culture is to analyze the trends of its youth.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 54,
+      "prompt": "People's attitudes are determined more by their immediate situation or surroundings than by society as a whole.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 55,
+      "prompt": "Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.",
+      "direction": "Recommendation",
+      "theme": "Government Funding for the Arts",
+      "theme_kr": "정부의 예술 지원 자금"
+    },
+    {
+      "number": 56,
+      "prompt": "All parents should be required to volunteer time to their children's schools.",
+      "direction": "Recommendation",
+      "theme": "Mandatory Parental Volunteering at Schools",
+      "theme_kr": "학부모 학교 봉사 의무화"
+    },
+    {
+      "number": 57,
+      "prompt": "Colleges and universities should require their students to spend at least one semester studying in a foreign country.",
+      "direction": "Recommendation",
+      "theme": "Mandatory Study Abroad",
+      "theme_kr": "해외 학기 의무화"
+    },
+    {
+      "number": 58,
+      "prompt": "Teachers' salaries should be based on the academic performance of their students.",
+      "direction": "Recommendation",
+      "theme": "Teacher Pay Tied to Student Performance",
+      "theme_kr": "교사 급여와 학생 성적 연동"
+    },
+    {
+      "number": 59,
+      "prompt": "It is no longer possible for a society to regard any living man or woman as a hero.",
+      "direction": "Challenge",
+      "theme": "Heroes, Role Models & Media Scrutiny",
+      "theme_kr": "영웅·역할 모델과 미디어"
+    },
+    {
+      "number": 60,
+      "prompt": "Some people believe that in order to thrive, a society must put its own overall success before the well-being of its individual citizens. Others believe that the well-being of a society can only be measured by the general welfare of all its people.",
+      "direction": "Both of the view",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 61,
+      "prompt": "Claim: Any piece of information referred to as a fact should be mistrusted, since it may well be proven false in the future. Reason: Much of the information that people assume is factual actually turns out to be inaccurate.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 62,
+      "prompt": "Claim: Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed. Reason: It is inappropriate — and, perhaps, even cruel — to use public resources to fund the arts when people's basic needs are not being met.",
+      "direction": "Claim/reason",
+      "theme": "Government Funding for the Arts",
+      "theme_kr": "정부의 예술 지원 자금"
+    },
+    {
+      "number": 63,
+      "prompt": "Claim: Many problems of modern society cannot be solved by laws and the legal system. Reason: Laws cannot change what is in people's hearts or minds.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 64,
+      "prompt": "Educators should take students' interests into account when planning the content of the courses they teach.",
+      "direction": "Recommendation",
+      "theme": "Teaching Methods: Praise & Student Interest",
+      "theme_kr": "교육 방법: 칭찬/학생 흥미 반영"
+    },
+    {
+      "number": 65,
+      "prompt": "The primary goal of technological advancement should be to increase people's efficiency so that they have more leisure time.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 66,
+      "prompt": "Educators should base their assessment of students' learning not on students' grasp of facts but on the ability to explain the ideas, trends, and concepts that those facts illustrate.",
+      "direction": "Recommendation",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 67,
+      "prompt": "Unfortunately, in contemporary society, creating an appealing image has become more important than the reality or truth behind that image.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 68,
+      "prompt": "The effectiveness of a country's leaders is best measured by examining the well-being of that country's citizens.",
+      "direction": "Challenge",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 69,
+      "prompt": "All parents should be required to volunteer time to their children's schools.",
+      "direction": "Challenge",
+      "theme": "Mandatory Parental Volunteering at Schools",
+      "theme_kr": "학부모 학교 봉사 의무화"
+    },
+    {
+      "number": 70,
+      "prompt": "A nation should require all of its students to study the same national curriculum until they enter college.",
+      "direction": "Challenge",
+      "theme": "Uniform National Curriculum",
+      "theme_kr": "통일 국가 교육과정"
+    },
+    {
+      "number": 71,
+      "prompt": "Colleges and universities should require their students to spend at least one semester studying in a foreign country.",
+      "direction": "Challenge",
+      "theme": "Mandatory Study Abroad",
+      "theme_kr": "해외 학기 의무화"
+    },
+    {
+      "number": 72,
+      "prompt": "Educational institutions should actively encourage their students to choose fields of study in which jobs are plentiful.",
+      "direction": "Policy",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 73,
+      "prompt": "People's behavior is largely determined by forces not of their own making.",
+      "direction": "Challenge",
+      "theme": "Behavior: Free Will vs. External Forces",
+      "theme_kr": "행동: 자유의지 vs 외부 힘"
+    },
+    {
+      "number": 74,
+      "prompt": "Colleges and universities should require their students to spend at least one semester studying in a foreign country.",
+      "direction": "Policy",
+      "theme": "Mandatory Study Abroad",
+      "theme_kr": "해외 학기 의무화"
+    },
+    {
+      "number": 75,
+      "prompt": "Although innovations such as video, computers, and the Internet seem to offer schools improved methods for instructing students, these technologies all too often distract from real learning.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 76,
+      "prompt": "Universities should require every student to take a variety of courses outside the student's field of study.",
+      "direction": "Policy",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 77,
+      "prompt": "The best ideas arise from a passionate interest in commonplace things.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 78,
+      "prompt": "To be an effective leader, a public official must maintain the highest ethical and moral standards.",
+      "direction": "Challenge",
+      "theme": "Ethical Standards for Leaders",
+      "theme_kr": "리더의 윤리적 기준"
+    },
+    {
+      "number": 79,
+      "prompt": "Claim: Imagination is a more valuable asset than experience. Reason: People who lack experience are free to imagine what is possible without the constraints of established habits and attitudes.",
+      "direction": "Claim/reason",
+      "theme": "Imagination vs. Knowledge & Experience",
+      "theme_kr": "상상력 vs 지식·경험"
+    },
+    {
+      "number": 80,
+      "prompt": "In most professions and academic fields, imagination is more important than knowledge.",
+      "direction": "Agree/disagree statement",
+      "theme": "Imagination vs. Knowledge & Experience",
+      "theme_kr": "상상력 vs 지식·경험"
+    },
+    {
+      "number": 81,
+      "prompt": "To be an effective leader, a public official must maintain the highest ethical and moral standards.",
+      "direction": "Agree/disagree statement",
+      "theme": "Ethical Standards for Leaders",
+      "theme_kr": "리더의 윤리적 기준"
+    },
+    {
+      "number": 82,
+      "prompt": "Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.",
+      "direction": "Agree/disagree statement",
+      "theme": "Critical Judgment: Experts Only?",
+      "theme_kr": "비평은 전문가만 가능한가"
+    },
+    {
+      "number": 83,
+      "prompt": "Some people believe that scientific discoveries have given us a much better understanding of the world around us. Others believe that science has revealed to us that the world is infinitely more complex than we ever realized.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 84,
+      "prompt": "Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.",
+      "direction": "Challenge",
+      "theme": "Critical Judgment: Experts Only?",
+      "theme_kr": "비평은 전문가만 가능한가"
+    },
+    {
+      "number": 85,
+      "prompt": "In any profession — business, politics, education, government — those in power should step down after five years.",
+      "direction": "Challenge",
+      "theme": "Term Limits for Those in Power",
+      "theme_kr": "권력자 임기 제한"
+    },
+    {
+      "number": 86,
+      "prompt": "Requiring university students to take a variety of courses outside their major fields of study is the best way to ensure that students become truly educated.",
+      "direction": "Agree/disagree statement",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 87,
+      "prompt": "Claim: The surest indicator of a great nation is not the achievements of its rulers, artists, or scientists. Reason: The surest indicator of a great nation is actually the welfare of all its people.",
+      "direction": "Claim/reason",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 88,
+      "prompt": "Any leader who is quickly and easily influenced by shifts in popular opinion will accomplish little.",
+      "direction": "Agree/disagree statement",
+      "theme": "Leaders: Public Opinion vs. Own Judgment",
+      "theme_kr": "지도자: 대중 여론 vs 자기 판단"
+    },
+    {
+      "number": 89,
+      "prompt": "Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people whom they serve.",
+      "direction": "Agree/disagree statement",
+      "theme": "Leaders: Public Opinion vs. Own Judgment",
+      "theme_kr": "지도자: 대중 여론 vs 자기 판단"
+    },
+    {
+      "number": 90,
+      "prompt": "A nation should require all of its students to study the same national curriculum until they enter college.",
+      "direction": "Agree/disagree statement",
+      "theme": "Uniform National Curriculum",
+      "theme_kr": "통일 국가 교육과정"
+    },
+    {
+      "number": 91,
+      "prompt": "It is primarily in cities that a nation's cultural traditions are generated and preserved.",
+      "direction": "Agree/disagree statement",
+      "theme": "Understanding Society Through Its Cities",
+      "theme_kr": "도시로 사회·문화 이해"
+    },
+    {
+      "number": 92,
+      "prompt": "We can learn much more from people whose views we share than from people whose views contradict our own.",
+      "direction": "Agree/disagree statement",
+      "theme": "Learning from Shared vs. Opposing Views",
+      "theme_kr": "같은 견해 vs 다른 견해에서 배움"
+    },
+    {
+      "number": 93,
+      "prompt": "When old buildings stand on ground that modern planners feel could be better used for modern purposes, modern development should be given precedence over the preservation of historic buildings.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 94,
+      "prompt": "Claim: The surest indicator of a great nation must be the achievements of its rulers, artists, or scientists. Reason: Great achievements by a nation's rulers, artists, or scientists will ensure a good life for the majority of that nation's people.",
+      "direction": "Claim/reason",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 95,
+      "prompt": "Some people claim that you can tell whether a nation is great by looking at the achievements of its rulers, artists, or scientists. Others argue that the surest indicator of a great nation is, in fact, the general welfare of all its people.",
+      "direction": "Both of the view",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 96,
+      "prompt": "The best way to understand the character of a society is to examine the character of the men and women that the society chooses as its heroes or its role models.",
+      "direction": "Challenge",
+      "theme": "Heroes, Role Models & Media Scrutiny",
+      "theme_kr": "영웅·역할 모델과 미디어"
+    },
+    {
+      "number": 97,
+      "prompt": "All college and university students would benefit from spending at least one semester studying in a foreign country.",
+      "direction": "Agree/disagree statement",
+      "theme": "Mandatory Study Abroad",
+      "theme_kr": "해외 학기 의무화"
+    },
+    {
+      "number": 98,
+      "prompt": "Some people claim that a nation's government should preserve its wilderness areas in their natural state. Others argue that these areas should be developed for potential economic gain.",
+      "direction": "Both of the view",
+      "theme": "Endangered Species & Wilderness Preservation vs. Development",
+      "theme_kr": "멸종 위기종 보호·자연 보전 vs 개발"
+    },
+    {
+      "number": 99,
+      "prompt": "In most professions and academic fields, imagination is more important than knowledge.",
+      "direction": "Challenge",
+      "theme": "Imagination vs. Knowledge & Experience",
+      "theme_kr": "상상력 vs 지식·경험"
+    },
+    {
+      "number": 100,
+      "prompt": "The surest indicator of a great nation is not the achievements of its rulers, artists, or scientists, but the general well-being of all its people.",
+      "direction": "Challenge",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 101,
+      "prompt": "Some people argue that successful leaders in government, industry, or other fields must be highly competitive. Other people claim that in order to be successful, a leader must be willing and able to cooperate with others.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 102,
+      "prompt": "College students should base their choice of a field of study on the availability of jobs in that field.",
+      "direction": "Agree/disagree statement",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 103,
+      "prompt": "Some people believe that corporations have a responsibility to promote the well-being of the societies and environments in which they operate. Others believe that the only responsibility of corporations, provided they operate within the law, is to make as much money as possible.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 104,
+      "prompt": "Claim: Researchers should not limit their investigations to only those areas in which they expect to discover something that has an immediate, practical application. Reason: It is impossible to predict the outcome of a line of research with any certainty.",
+      "direction": "Claim/reason",
+      "theme": "Government Funding & Restrictions on Science",
+      "theme_kr": "정부의 과학 연구 제한·자금"
+    },
+    {
+      "number": 105,
+      "prompt": "Some people believe that our ever-increasing use of technology significantly reduces our opportunities for human interaction. Other people believe that technology provides us with new and better ways to communicate and connect with one another.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 106,
+      "prompt": "Claim: Knowing about the past cannot help people to make important decisions today. Reason: The world today is significantly more complex than it was even in the relatively recent past.",
+      "direction": "Claim/reason",
+      "theme": "Relevance of the Past to Present Decisions",
+      "theme_kr": "과거·역사의 현재 유용성"
+    },
+    {
+      "number": 107,
+      "prompt": "Claim: Knowing about the past cannot help people to make important decisions today. Reason: We are not able to make connections between current events and past events until we have some distance from both.",
+      "direction": "Claim/reason",
+      "theme": "Relevance of the Past to Present Decisions",
+      "theme_kr": "과거·역사의 현재 유용성"
+    },
+    {
+      "number": 108,
+      "prompt": "Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.",
+      "direction": "Agree/disagree statement",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 109,
+      "prompt": "Educational institutions should actively encourage their students to choose fields of study in which jobs are plentiful.",
+      "direction": "Challenge",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 110,
+      "prompt": "Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed.",
+      "direction": "Agree/disagree statement",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 111,
+      "prompt": "Some people believe that competition for high grades motivates students to excel in the classroom. Others believe that such competition seriously limits the quality of real learning.",
+      "direction": "Both of the view",
+      "theme": "Grade Competition & Quality of Learning",
+      "theme_kr": "성적 경쟁과 학습의 질"
+    },
+    {
+      "number": 112,
+      "prompt": "Claim: Major policy decisions should always be left to politicians and other government experts. Reason: Politicians and other government experts are more informed and thus have better judgment and perspective than do members of the general public.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 113,
+      "prompt": "Some people believe that universities should require every student to take a variety of courses outside the student's field of study. Others believe that universities should not force students to take any courses other than those that will help prepare them for jobs in their chosen fields.",
+      "direction": "Both of the view",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 114,
+      "prompt": "It is more harmful to compromise one's own beliefs than to adhere to them.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 115,
+      "prompt": "Claim: Colleges and universities should specify all required courses and eliminate elective courses in order to provide clear guidance for students. Reason: College students — like people in general — prefer to follow directions rather than make their own decisions.",
+      "direction": "Claim/reason",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 116,
+      "prompt": "No field of study can advance significantly unless it incorporates knowledge and experience from outside that field.",
+      "direction": "Agree/disagree statement",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 117,
+      "prompt": "True success can be measured primarily in terms of the goals one sets for oneself.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 118,
+      "prompt": "The general welfare of a nation's people is a better indication of that nation's greatness than are the achievements of its rulers, artists, or scientists.",
+      "direction": "Challenge",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 119,
+      "prompt": "The best test of an argument is the argument's ability to convince someone with an opposing viewpoint.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 120,
+      "prompt": "The effectiveness of a country's leaders is best measured by examining the well-being of that country's citizens.",
+      "direction": "Agree/disagree statement",
+      "theme": "Great Nation: Achievements vs. Welfare of Citizens",
+      "theme_kr": "위대한 국가: 업적 vs 국민 복지"
+    },
+    {
+      "number": 121,
+      "prompt": "Nations should pass laws to preserve any remaining wilderness areas in their natural state.",
+      "direction": "Challenge",
+      "theme": "Endangered Species & Wilderness Preservation vs. Development",
+      "theme_kr": "멸종 위기종 보호·자연 보전 vs 개발"
+    },
+    {
+      "number": 122,
+      "prompt": "In any field — business, politics, education, government — those in power should be required to step down after five years.",
+      "direction": "Policy",
+      "theme": "Term Limits for Those in Power",
+      "theme_kr": "권력자 임기 제한"
+    },
+    {
+      "number": 123,
+      "prompt": "Some people claim that the goal of politics should be the pursuit of an ideal. Others argue that the goal should be finding common ground and reaching reasonable consensus.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 124,
+      "prompt": "The best way to solve environmental problems caused by consumer-generated waste is for towns and cities to impose strict limits on the amount of trash they will accept from each household.",
+      "direction": "Challenge",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 125,
+      "prompt": "We learn our most valuable lessons in life from struggling with our limitations rather than from enjoying our successes.",
+      "direction": "Challenge",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 126,
+      "prompt": "Claim: While boredom is often expressed with a sense of self-satisfaction, it should really be a source of embarrassment. Reason: Boredom arises from a lack of imagination and self-motivation.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 127,
+      "prompt": "Some people believe that the most important qualities of an effective teacher are understanding and empathy. Others believe that it is more important for teachers to be rigorous and demanding in their expectations for students.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 128,
+      "prompt": "Claim: Though often considered an objective pursuit, learning about the historical past requires creativity. Reason: Because we can never know the past directly, we must reconstruct it by imaginatively interpreting historical accounts, documents, and artifacts.",
+      "direction": "Claim/reason",
+      "theme": "Relevance of the Past to Present Decisions",
+      "theme_kr": "과거·역사의 현재 유용성"
+    },
+    {
+      "number": 129,
+      "prompt": "Claim: No act is done purely for the benefit of others. Reason: All actions — even those that seem to be done for other people — are based on self-interest.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 130,
+      "prompt": "To understand the most important characteristics of a society, one must study its major cities.",
+      "direction": "Agree/disagree statement",
+      "theme": "Understanding Society Through Its Cities",
+      "theme_kr": "도시로 사회·문화 이해"
+    },
+    {
+      "number": 131,
+      "prompt": "Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed.",
+      "direction": "Challenge",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 132,
+      "prompt": "Scandals are useful because they focus our attention on problems in ways that no speaker or reformer ever could.",
+      "direction": "Challenge",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 133,
+      "prompt": "Claim: Governments must ensure that their major cities receive the financial support they need in order to thrive. Reason: It is primarily in cities that a nation's cultural traditions are preserved and generated.",
+      "direction": "Claim/reason",
+      "theme": "Understanding Society Through Its Cities",
+      "theme_kr": "도시로 사회·문화 이해"
+    },
+    {
+      "number": 134,
+      "prompt": "Some people believe that government funding of the arts is necessary to ensure that the arts can flourish and be available to all people. Others believe that government funding of the arts threatens the integrity of the arts.",
+      "direction": "Both of the view",
+      "theme": "Government Funding for the Arts",
+      "theme_kr": "정부의 예술 지원 자금"
+    },
+    {
+      "number": 135,
+      "prompt": "Claim: In any field — business, politics, education, government — those in power should step down after five years. Reason: The surest path to success for any enterprise is revitalization through new leadership.",
+      "direction": "Claim/reason",
+      "theme": "Term Limits for Those in Power",
+      "theme_kr": "권력자 임기 제한"
+    },
+    {
+      "number": 136,
+      "prompt": "In any field of endeavor, it is impossible to make a significant contribution without first being strongly influenced by past achievements within that field.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 137,
+      "prompt": "Nations should pass laws to preserve any remaining wilderness areas in their natural state, even if these areas could be developed for economic gain.",
+      "direction": "Policy",
+      "theme": "Endangered Species & Wilderness Preservation vs. Development",
+      "theme_kr": "멸종 위기종 보호·자연 보전 vs 개발"
+    },
+    {
+      "number": 138,
+      "prompt": "People's behavior is largely determined by forces not of their own making.",
+      "direction": "Agree/disagree statement",
+      "theme": "Behavior: Free Will vs. External Forces",
+      "theme_kr": "행동: 자유의지 vs 외부 힘"
+    },
+    {
+      "number": 139,
+      "prompt": "Governments should offer a free university education to any student who has been admitted to a university but who cannot afford the tuition.",
+      "direction": "Policy",
+      "theme": "Free Government-Funded University Education",
+      "theme_kr": "정부 무상 대학 교육"
+    },
+    {
+      "number": 140,
+      "prompt": "Claim: In any situation, the best way to persuade other people is to present them with facts and statistics rather than with emotional arguments. Reason: Facts are objective, so they are more persuasive than subjective appeals.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 141,
+      "prompt": "Some people believe that success in creative fields, such as painting, fiction writing, and filmmaking, primarily requires hard work and perseverance. Others believe that such success mainly requires innate talents that cannot be learned.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 142,
+      "prompt": "In business, education, and government, it is always appropriate to remain skeptical of new leaders until those leaders show that they are worthy of trust.",
+      "direction": "Challenge",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 143,
+      "prompt": "Claim: Group assignments that students must work together to complete should replace a substantial amount of traditional lecture-based instruction in college and university courses. Reason: It is vital for students to gain experience collaborating with peers to study a topic and to achieve a common goal.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 144,
+      "prompt": "Universities should require every student to take a variety of courses outside the student's field of study.",
+      "direction": "Challenge",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 145,
+      "prompt": "A nation should require all of its students to study the same national curriculum until they enter college.",
+      "direction": "Agree/disagree statement",
+      "theme": "Uniform National Curriculum",
+      "theme_kr": "통일 국가 교육과정"
+    },
+    {
+      "number": 146,
+      "prompt": "Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.",
+      "direction": "Challenge",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 147,
+      "prompt": "Some people believe that in order to be effective, political leaders must yield to public opinion and abandon principle for the sake of compromise. Others believe that the most essential quality of an effective leader is the ability to remain consistently committed to particular principles and objectives.",
+      "direction": "Both of the view",
+      "theme": "Leaders: Public Opinion vs. Own Judgment",
+      "theme_kr": "지도자: 대중 여론 vs 자기 판단"
+    },
+    {
+      "number": 148,
+      "prompt": "Formal education tends to restrain our minds and spirits rather than set them free.",
+      "direction": "Agree/disagree statement",
+      "theme": "Education: Liberation vs. Restraint",
+      "theme_kr": "교육의 본질: 자유 vs 억압"
+    },
+    {
+      "number": 149,
+      "prompt": "The well-being of a society is enhanced when many of its people question authority.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 150,
+      "prompt": "Governments should focus on solving the immediate problems of today rather than on trying to solve the anticipated problems of the future.",
+      "direction": "Recommendation",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 151,
+      "prompt": "Some people believe that college students should consider only their own talents and interests when choosing a field of study. Others believe that college students should base their choice of a field of study on the availability of jobs in that field.",
+      "direction": "Both of the view",
+      "theme": "Choosing a Major: Interest vs. Job Availability",
+      "theme_kr": "전공 선택: 흥미/적성 vs 취업"
+    },
+    {
+      "number": 152,
+      "prompt": "Laws should be flexible enough to take account of various circumstances, times, and places.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 153,
+      "prompt": "Claim: The best way to understand the character of a society is to examine the character of the men and women that the society chooses as its heroes or its role models. Reason: Heroes and role models reveal a society's highest ideals.",
+      "direction": "Claim/reason",
+      "theme": "Heroes, Role Models & Media Scrutiny",
+      "theme_kr": "영웅·역할 모델과 미디어"
+    },
+    {
+      "number": 154,
+      "prompt": "Some people believe that it is helpful to view a challenging situation as an opportunity for personal growth. Others believe that reimagining challenging situations this way occupies too much of the focus one needs to face challenges effectively.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 155,
+      "prompt": "Some people believe that traveling to and living in numerous places increases one's ability to relate and connect to other people. Others believe that this ability is better cultivated by living in one place and developing a deep understanding of that community.",
+      "direction": "Both of the view",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 156,
+      "prompt": "Claim: Young people's tendency to make extensive use of portable devices like smartphones and tablets has hurt their development of social skills. Reason: These devices encourage users to form artificial personalities and relationships online rather than fully and honestly engaging with the people around them.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 157,
+      "prompt": "Claim: When one is making a decision, it is better to have limited number of options. Reason: The more options a person has, the more difficult it is to make a rational decision.",
+      "direction": "Claim/reason",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 158,
+      "prompt": "Because people increasingly feel compelled to share their personal details online, the right to privacy is eroding.",
+      "direction": "Challenge",
+      "theme": null,
+      "theme_kr": null
+    }
+  ]
+}
