@@ -1673,6 +1673,10 @@
       }
     });
 
+    // Filter notes to only include synonyms that appear in the options
+    const optionWords = Object.values(options);
+    const filteredSynNotes = synNotes.filter(sn => optionWords.includes(sn.word));
+
     return {
       qid: 'q' + item.id,
       word: item.word,
@@ -1681,7 +1685,7 @@
       correct: correct,
       options: options,
       listNum: item._listNum || null,
-      synNotes: synNotes
+      synNotes: filteredSynNotes
     };
   }
 
