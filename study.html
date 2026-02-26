@@ -327,6 +327,46 @@
       font-weight: 600;
       padding: 5px 14px;
       border-radius: 999px;
+      position: relative;
+      cursor: default;
+    }
+    .syn-chip.has-note {
+      cursor: pointer;
+      border-bottom: 1.5px dashed var(--blue);
+    }
+    .syn-chip .syn-tooltip {
+      display: none;
+      position: absolute;
+      bottom: calc(100% + 8px);
+      left: 50%;
+      transform: translateX(-50%);
+      background: #333;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 400;
+      padding: 8px 14px;
+      border-radius: 10px;
+      white-space: nowrap;
+      max-width: 280px;
+      white-space: normal;
+      text-align: left;
+      line-height: 1.5;
+      z-index: 10;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      pointer-events: none;
+    }
+    .syn-chip .syn-tooltip::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 6px solid transparent;
+      border-top-color: #333;
+    }
+    .syn-chip:hover .syn-tooltip,
+    .syn-chip.show-tip .syn-tooltip {
+      display: block;
     }
 
     /* Speech bubble tips — chat style */
@@ -591,6 +631,26 @@
       border-style: dashed;
     }
 
+    .quiz-explanation {
+      margin-top: 14px;
+      padding: 12px 16px;
+      background: #F3E8FF;
+      border: 1px solid #DDD6FE;
+      border-radius: 10px;
+      font-size: 14px;
+      color: #5B21B6;
+      font-weight: 500;
+      line-height: 1.6;
+      text-align: left;
+      animation: cardIn 0.25s ease;
+      font-family: 'Pretendard Variable', sans-serif;
+    }
+
+    .quiz-explanation strong {
+      font-weight: 800;
+      font-family: 'Outfit', sans-serif;
+    }
+
     .quiz-next-wrap {
       margin-top: 16px;
       text-align: center;
@@ -711,6 +771,16 @@
       font-weight: 600;
     }
 
+    .wrong-item .wi-note {
+      font-size: 13px;
+      color: #5B21B6;
+      font-weight: 500;
+      margin-top: 6px;
+      padding-top: 6px;
+      border-top: 1px dashed #DDD6FE;
+      font-family: 'Pretendard Variable', sans-serif;
+    }
+
     .results-actions {
       display: flex;
       flex-direction: column;
@@ -752,6 +822,7 @@
       .study-card .word { font-size: 30px; }
       .study-card .meanings { font-size: 18px; }
       .study-card .pos-badge { font-size: 11px; padding: 2px 8px; }
+      .syn-chip .syn-tooltip { font-size: 12px; max-width: 220px; }
       .tips-wrap { gap: 8px; }
       .tips-avatar { width: 30px; height: 30px; font-size: 14px; }
       .tips-bubble { padding: 14px 16px; }
@@ -1003,12 +1074,17 @@
       } else {
         const syns = word.synonyms_from_image || [];
         if (syns.length > 0) {
+          const synChips = syns.map(s => {
+            if (typeof s === 'object' && s.note) {
+              return `<span class="syn-chip has-note" onclick="this.classList.toggle('show-tip')">${s.word}<span class="syn-tooltip">${s.note}</span></span>`;
+            }
+            const w = typeof s === 'object' ? s.word : s;
+            return `<span class="syn-chip">${w}</span>`;
+          }).join('');
           extraHtml += `
             <div class="section-divider"></div>
             <div class="syn-label">Synonyms</div>
-            <div class="syn-chips">
-              ${syns.map(s => `<span class="syn-chip">${s}</span>`).join('')}
-            </div>
+            <div class="syn-chips">${synChips}</div>
           `;
         }
         if (tips.length > 0) {
@@ -1078,21 +1154,25 @@
         const hasSyn = !IS_MOCK && word.synonyms_from_image && word.synonyms_from_image.length > 0;
         const qType = hasSyn ? (Math.random() < 0.5 ? 'synonym' : 'meaning') : 'meaning';
 
-        let correct, distractors, prompt;
+        let correct, distractors, prompt, correctNote = null;
 
         if (qType === 'synonym') {
           // Pick one random synonym as the correct answer
           const syns = word.synonyms_from_image;
-          correct = syns[Math.floor(Math.random() * syns.length)];
+          const picked = syns[Math.floor(Math.random() * syns.length)];
+          correct = typeof picked === 'object' ? picked.word : picked;
+          correctNote = typeof picked === 'object' ? (picked.note || null) : null;
           prompt = '다음 단어의 동의어를 고르세요';
 
           // Collect distractors from other words' synonyms
+          const allSynWords = syns.map(s => typeof s === 'object' ? s.word : s);
           const pool = [];
           for (const other of ALL_WORDS) {
             if (other.id === word.id) continue;
             for (const s of (other.synonyms_from_image || [])) {
-              if (s !== correct && !word.synonyms_from_image.includes(s) && !pool.includes(s)) {
-                pool.push(s);
+              const sw = typeof s === 'object' ? s.word : s;
+              if (sw !== correct && !allSynWords.includes(sw) && !pool.includes(sw)) {
+                pool.push(sw);
               }
             }
           }
@@ -1128,8 +1208,9 @@
           options,
           correctIndex: options.indexOf(correct),
           correctAnswer: correct,
+          correctNote,
           meanings: word.head_meanings.join(', '),
-          synonyms: (word.synonyms_from_image || []).join(', ')
+          synonyms: (word.synonyms_from_image || []).map(s => typeof s === 'object' ? s.word : s).join(', ')
         });
       }
 
@@ -1200,6 +1281,15 @@
       opts[q.correctIndex].classList.add('correct');
       if (!isCorrect) opts[idx].classList.add('wrong');
 
+      // Show synonym note after answering synonym quiz
+      if (q.type === 'synonym' && q.correctNote) {
+        const quizOptions = document.getElementById('quizOptions');
+        const explanation = document.createElement('div');
+        explanation.className = 'quiz-explanation';
+        explanation.innerHTML = `💡 <strong>${q.correctAnswer}</strong> — ${q.correctNote}`;
+        quizOptions.after(explanation);
+      }
+
       document.getElementById('quizNextWrap').classList.remove('hidden');
       document.getElementById('quizScore').textContent = `${quizCorrect}점`;
     }
@@ -1253,6 +1343,7 @@
                 <div class="wi-word">${q.word}</div>
                 <div class="wi-answer">정답: ${q.correctAnswer}</div>
                 ${q._userPicked !== undefined ? `<div class="wi-picked">선택: ${q.options[q._userPicked]}</div>` : ''}
+                ${q.correctNote ? `<div class="wi-note">💡 ${q.correctNote}</div>` : ''}
               </div>
             `).join('')}
           </div>
@@ -1315,6 +1406,13 @@
         renderGroupSelector();
       });
     }
+
+    // Close synonym tooltips when tapping outside
+    document.addEventListener('click', e => {
+      if (!e.target.closest('.syn-chip')) {
+        document.querySelectorAll('.syn-chip.show-tip').forEach(el => el.classList.remove('show-tip'));
+      }
+    });
 
     // Start
     init();
