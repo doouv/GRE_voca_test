@@ -327,46 +327,14 @@
       font-weight: 600;
       padding: 5px 14px;
       border-radius: 999px;
-      position: relative;
-      cursor: default;
     }
     .syn-chip.has-note {
       cursor: pointer;
-      border-bottom: 1.5px dashed var(--blue);
+      transition: all 0.15s;
     }
-    .syn-chip .syn-tooltip {
-      display: none;
-      position: absolute;
-      bottom: calc(100% + 8px);
-      left: 50%;
-      transform: translateX(-50%);
-      background: #333;
-      color: #fff;
-      font-size: 13px;
-      font-weight: 400;
-      padding: 8px 14px;
-      border-radius: 10px;
-      white-space: nowrap;
-      max-width: 280px;
-      white-space: normal;
-      text-align: left;
-      line-height: 1.5;
-      z-index: 10;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-      pointer-events: none;
-    }
-    .syn-chip .syn-tooltip::after {
-      content: '';
-      position: absolute;
-      top: 100%;
-      left: 50%;
-      transform: translateX(-50%);
-      border: 6px solid transparent;
-      border-top-color: #333;
-    }
-    .syn-chip:hover .syn-tooltip,
-    .syn-chip.show-tip .syn-tooltip {
-      display: block;
+    .syn-chip.has-note:hover {
+      background: var(--blue);
+      color: white;
     }
 
     /* Speech bubble tips — chat style */
@@ -822,7 +790,6 @@
       .study-card .word { font-size: 30px; }
       .study-card .meanings { font-size: 18px; }
       .study-card .pos-badge { font-size: 11px; padding: 2px 8px; }
-      .syn-chip .syn-tooltip { font-size: 12px; max-width: 220px; }
       .tips-wrap { gap: 8px; }
       .tips-avatar { width: 30px; height: 30px; font-size: 14px; }
       .tips-bubble { padding: 14px 16px; }
@@ -1073,10 +1040,13 @@
         }
       } else {
         const syns = word.synonyms_from_image || [];
+        // Build synonym notes map for click handler
+        const synNotes = {};
         if (syns.length > 0) {
-          const synChips = syns.map(s => {
+          const synChips = syns.map((s, si) => {
             if (typeof s === 'object' && s.note) {
-              return `<span class="syn-chip has-note" onclick="this.classList.toggle('show-tip')">${s.word}<span class="syn-tooltip">${s.note}</span></span>`;
+              synNotes[si] = { word: s.word, note: s.note };
+              return `<span class="syn-chip has-note" data-syn-idx="${si}">${s.word}</span>`;
             }
             const w = typeof s === 'object' ? s.word : s;
             return `<span class="syn-chip">${w}</span>`;
@@ -1101,6 +1071,8 @@
             </div>
           `;
         }
+        // Placeholder for synonym note bubble
+        extraHtml += `<div id="synNoteBubble"></div>`;
       }
 
       card.innerHTML = `
@@ -1112,6 +1084,26 @@
       card.style.animation = 'none';
       card.offsetHeight; // reflow
       card.style.animation = 'cardIn 0.25s ease';
+
+      // Attach synonym note click handlers
+      if (Object.keys(synNotes).length > 0) {
+        card.querySelectorAll('.syn-chip.has-note').forEach(chip => {
+          chip.addEventListener('click', () => {
+            const info = synNotes[chip.dataset.synIdx];
+            if (!info) return;
+            const bubble = document.getElementById('synNoteBubble');
+            bubble.innerHTML = `
+              <div class="tips-wrap" style="animation: cardIn 0.25s ease;">
+                <div class="tips-avatar">🧠</div>
+                <div class="tips-bubble">
+                  <div class="tip-label">Study Buddy</div>
+                  <div class="tip-item"><strong>${info.word}</strong> — ${info.note}</div>
+                </div>
+              </div>
+            `;
+          });
+        });
+      }
 
       // Update counter & progress
       const total = group.length;
@@ -1406,13 +1398,6 @@
         renderGroupSelector();
       });
     }
-
-    // Close synonym tooltips when tapping outside
-    document.addEventListener('click', e => {
-      if (!e.target.closest('.syn-chip')) {
-        document.querySelectorAll('.syn-chip.show-tip').forEach(el => el.classList.remove('show-tip'));
-      }
-    });
 
     // Start
     init();
