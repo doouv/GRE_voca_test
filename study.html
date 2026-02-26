@@ -277,6 +277,24 @@
       line-height: 1.7;
       font-family: 'Pretendard Variable', sans-serif;
     }
+    .study-card .meaning-group {
+      margin-bottom: 6px;
+    }
+    .study-card .meaning-group:last-child {
+      margin-bottom: 0;
+    }
+    .study-card .pos-badge {
+      display: inline-block;
+      background: #e0e0e0;
+      color: #555;
+      font-size: 13px;
+      font-weight: 700;
+      padding: 2px 10px;
+      border-radius: 999px;
+      margin-right: 6px;
+      vertical-align: middle;
+      letter-spacing: 0.3px;
+    }
 
     .study-card .section-divider {
       width: 40px;
@@ -733,6 +751,7 @@
       .study-card { padding: 28px 20px; }
       .study-card .word { font-size: 30px; }
       .study-card .meanings { font-size: 18px; }
+      .study-card .pos-badge { font-size: 11px; padding: 2px 8px; }
       .tips-wrap { gap: 8px; }
       .tips-avatar { width: 30px; height: 30px; font-size: 14px; }
       .tips-bubble { padding: 14px 16px; }
@@ -843,6 +862,7 @@
         const res = await fetch(url);
         if (!res.ok) throw new Error('Not found');
         ALL_WORDS = await res.json();
+        ALL_WORDS.forEach((w, i) => { w.id = String(i + 1).padStart(3, '0'); });
       } catch (e) {
         document.getElementById('heroTitle').textContent = '데이터를 불러올 수 없습니다';
         document.getElementById('heroDesc').textContent = `${displayName}이(가) 존재하지 않습니다.`;
@@ -916,13 +936,52 @@
       renderStudyCard();
     }
 
+    function formatMeaningsHtml(headMeanings) {
+      const posRegex = /^(n\.|v\.|adj\.|adv\.)\)\s*/;
+      const groups = [];
+      let currentPos = null;
+      let currentMeanings = [];
+
+      for (const m of headMeanings) {
+        const match = m.match(posRegex);
+        if (match) {
+          const pos = match[1];
+          const text = m.replace(posRegex, '');
+          if (pos !== currentPos) {
+            if (currentMeanings.length > 0) {
+              groups.push({ pos: currentPos, meanings: currentMeanings });
+            }
+            currentPos = pos;
+            currentMeanings = [text];
+          } else {
+            currentMeanings.push(text);
+          }
+        } else {
+          currentMeanings.push(m);
+        }
+      }
+      if (currentMeanings.length > 0) {
+        groups.push({ pos: currentPos, meanings: currentMeanings });
+      }
+
+      // No POS prefixes at all → plain comma-joined
+      if (groups.length === 1 && groups[0].pos === null) {
+        return groups[0].meanings.join(', ');
+      }
+
+      return groups.map(g => {
+        const badge = g.pos ? `<span class="pos-badge">${g.pos}</span>` : '';
+        return `<div class="meaning-group">${badge}${g.meanings.join(', ')}</div>`;
+      }).join('');
+    }
+
     function renderStudyCard() {
       const group = GROUPS[currentGroup];
       const word = group[currentStudyIndex];
       const card = document.getElementById('studyCard');
 
       const posHtml = word.pos ? `<div class="pos">${word.pos}</div>` : '';
-      const meanings = word.head_meanings.join(', ');
+      const meanings = formatMeaningsHtml(word.head_meanings);
 
       let extraHtml = '';
       const tips = word.tips || [];
