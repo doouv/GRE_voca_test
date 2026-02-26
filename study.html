@@ -301,7 +301,8 @@
       height: 3px;
       background: var(--border);
       border-radius: 2px;
-      margin: 24px auto 16px;
+      margin: 24px 0 16px;
+      align-self: flex-start;
     }
 
     .study-card .syn-label {
@@ -311,13 +312,15 @@
       text-transform: uppercase;
       letter-spacing: 0.5px;
       margin-bottom: 12px;
+      align-self: flex-start;
     }
 
     .syn-chips {
       display: flex;
       flex-wrap: wrap;
-      justify-content: center;
+      justify-content: flex-start;
       gap: 8px;
+      align-self: flex-start;
     }
 
     .syn-chip {
@@ -337,6 +340,26 @@
       color: white;
     }
 
+    #synNoteBubble {
+      width: 100%;
+      align-self: flex-start;
+    }
+    #synNoteBubble .tips-wrap {
+      margin-top: 12px;
+    }
+    #synNoteBubble .tips-bubble {
+      color: #7C3AED;
+    }
+    #synNoteBubble .tip-label {
+      color: #7C3AED;
+    }
+    #synNoteBubble .tip-item {
+      color: #6D28D9;
+    }
+    #synNoteBubble .tip-item strong {
+      color: #5B21B6;
+    }
+
     /* Speech bubble tips — chat style */
     .tips-wrap {
       display: flex;
@@ -344,6 +367,7 @@
       gap: 10px;
       margin-top: 28px;
       width: 100%;
+      align-self: flex-start;
     }
 
     .tips-avatar {
@@ -1084,13 +1108,20 @@
       card.offsetHeight; // reflow
       card.style.animation = 'cardIn 0.25s ease';
 
-      // Attach synonym note click handlers
+      // Attach synonym note click handlers (toggle)
       if (Object.keys(synNotes).length > 0) {
         card.querySelectorAll('.syn-chip.has-note').forEach(chip => {
           chip.addEventListener('click', () => {
             const info = synNotes[chip.dataset.synIdx];
             if (!info) return;
             const bubble = document.getElementById('synNoteBubble');
+            // Toggle: if same synonym is already shown, collapse it
+            if (bubble.dataset.activeIdx === chip.dataset.synIdx && bubble.innerHTML.trim()) {
+              bubble.innerHTML = '';
+              bubble.dataset.activeIdx = '';
+              return;
+            }
+            bubble.dataset.activeIdx = chip.dataset.synIdx;
             bubble.innerHTML = `
               <div class="tips-wrap" style="animation: cardIn 0.25s ease;">
                 <div class="tips-avatar">🧠</div>
