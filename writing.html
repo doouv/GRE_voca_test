@@ -201,8 +201,11 @@
     .nav-btn.secondary { background: var(--card); color: var(--text2); border: 1px solid var(--border); }
     .nav-btn.secondary:hover { border-color: var(--border-light); background: var(--card-hover); }
     .nav-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
-    .outline-fields { display: flex; flex-direction: column; gap: 16px; margin-bottom: 24px; }
+    .outline-fields { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px; margin-bottom: 24px; }
+    .outline-field { min-width: 0; }
+    .outline-field.full-width { grid-column: 1 / -1; }
     .outline-field label { display: block; font-size: 13px; font-weight: 700; color: var(--muted); margin-bottom: 6px; text-transform: uppercase; letter-spacing: .5px; }
+    .outline-field textarea { min-height: 160px; }
     .collapsible-toggle {
       border: 1px solid var(--border); background: var(--card); color: var(--accent2);
       padding: 10px 16px; border-radius: 10px; font: 600 14px var(--sans); cursor: pointer; margin-bottom: 12px; transition: all .2s;
@@ -314,6 +317,7 @@
         <span class="topic-num" id="s1Num"></span>
         <div class="prompt-text" id="s1Prompt"></div>
         <div id="s1ThemeLine" style="margin-top:10px; font-size:12px; color:var(--muted);"></div>
+        <div class="direction-reveal" id="s1Direction"></div>
       </div>
       <div class="two-col">
         <div><div class="col-label">Pro / 찬성</div><textarea id="proBrain" placeholder="찬성 근거를 자유롭게 적으세요..."></textarea></div>
@@ -727,6 +731,10 @@
     document.getElementById('s1Num').textContent = `Topic #${currentTopic.number}`;
     document.getElementById('s1Prompt').textContent = currentTopic.prompt;
     document.getElementById('s1ThemeLine').textContent = currentTopic.theme_kr ? `Theme: ${currentTopic.theme_kr}` : '';
+    document.getElementById('s1Direction').innerHTML = `
+      <div class="dir-label">${currentTopic.direction}</div>
+      <div class="dir-instruction">${DATA.direction_templates[currentTopic.direction]}</div>
+    `;
     showOnly('practiceScreen');
     showStep('step1');
     renderStepProgress(1);
@@ -756,9 +764,9 @@
     `;
     const labels = BODY_LABELS[currentTopic.direction] || ['Body 1','Body 2','Body 3'];
     document.getElementById('outlineFields').innerHTML = `
-      <div class="outline-field"><label>Intro</label><textarea id="outIntro" rows="3" placeholder="Introduction..."></textarea></div>
-      ${labels.map((l,i) => `<div class="outline-field"><label>Body ${i+1}: ${l}</label><textarea id="outBody${i}" rows="3" placeholder="${l}"></textarea></div>`).join('')}
-      <div class="outline-field"><label>Conclusion</label><textarea id="outConc" rows="3" placeholder="Conclusion..."></textarea></div>
+      <div class="outline-field full-width"><label>Intro</label><textarea id="outIntro" rows="3" placeholder="Introduction..."></textarea></div>
+      ${labels.map((l,i) => `<div class="outline-field"><label>Body ${i+1}: ${l}</label><textarea id="outBody${i}" rows="5" placeholder="${l}"></textarea></div>`).join('')}
+      <div class="outline-field full-width"><label>Conclusion</label><textarea id="outConc" rows="3" placeholder="Conclusion..."></textarea></div>
     `;
     showStep('step2');
     renderStepProgress(2);
