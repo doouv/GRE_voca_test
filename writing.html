@@ -166,6 +166,9 @@
     .timer-box { display: flex; align-items: center; gap: 10px; background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 8px 16px; }
     .timer { font-family: var(--mono); font-size: 24px; font-weight: 700; letter-spacing: 1px; font-variant-numeric: tabular-nums; }
     .timer.warning { color: var(--red); animation: pulse 1s infinite; }
+    .timer.paused { opacity: .4; }
+    .timer-pause { border: 1px solid var(--border); background: var(--bg2); color: var(--text2); width: 34px; height: 34px; border-radius: 8px; font-size: 15px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all .2s; flex-shrink: 0; padding: 0; line-height: 1; }
+    .timer-pause:hover { border-color: var(--accent); color: var(--accent2); background: var(--accent-glow); }
     .prompt-box {
       background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
       padding: 28px; margin-bottom: 24px; box-shadow: var(--shadow); position: relative;
@@ -305,7 +308,7 @@
       <div class="step-progress" id="stepProgress1"></div>
       <div class="step-header">
         <span class="step-label">Brainstorming</span>
-        <div class="timer-box"><span class="timer" id="timer1">5:00</span></div>
+        <div class="timer-box"><span class="timer" id="timer1">5:00</span><button class="timer-pause" data-timer="timer1" title="Pause">⏸</button></div>
       </div>
       <div class="prompt-box">
         <span class="topic-num" id="s1Num"></span>
@@ -333,7 +336,7 @@
       <div class="step-progress" id="stepProgress2"></div>
       <div class="step-header">
         <span class="step-label">Outline</span>
-        <div class="timer-box"><span class="timer" id="timer2">3:00</span></div>
+        <div class="timer-box"><span class="timer" id="timer2">3:00</span><button class="timer-pause" data-timer="timer2" title="Pause">⏸</button></div>
       </div>
       <div class="prompt-box">
         <span class="topic-num" id="s2Num"></span>
@@ -358,7 +361,7 @@
           <span class="step-label">Write Essay</span>
           <span class="word-count" id="practiceWC">0 words</span>
         </div>
-        <div class="timer-box"><span class="timer" id="timer3">30:00</span></div>
+        <div class="timer-box"><span class="timer" id="timer3">30:00</span><button class="timer-pause" data-timer="timer3" title="Pause">⏸</button></div>
       </div>
       <div class="prompt-box" style="padding:18px 24px;">
         <span class="topic-num" id="s3Num" style="font-size:11px;"></span>
@@ -689,11 +692,26 @@
     };
     update();
     const interval = setInterval(() => {
+      if (timers[id] && timers[id].paused) return;
       remaining--; update();
       if (remaining <= 0) { clearInterval(interval); if (onDone) onDone(); }
     }, 1000);
-    timers[id] = { interval, remaining };
+    timers[id] = { interval, remaining, paused: false };
   }
+
+  function togglePause(id) {
+    const t = timers[id];
+    if (!t) return;
+    t.paused = !t.paused;
+    const el = document.getElementById(id);
+    const btn = document.querySelector(`.timer-pause[data-timer="${id}"]`);
+    if (t.paused) { el.classList.add('paused'); btn.textContent = '▶'; btn.title = 'Resume'; }
+    else { el.classList.remove('paused'); btn.textContent = '⏸'; btn.title = 'Pause'; }
+  }
+
+  document.querySelectorAll('.timer-pause').forEach(btn => {
+    btn.addEventListener('click', () => togglePause(btn.dataset.timer));
+  });
 
   function showAlert(msg) { document.getElementById('alertMsg').textContent = msg; document.getElementById('alertOverlay').classList.add('active'); }
   document.getElementById('alertOk').addEventListener('click', () => document.getElementById('alertOverlay').classList.remove('active'));
