@@ -8,34 +8,13 @@
       "가리다, 보이지 못하게 하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "go underwater",
-        "note": "말 그대로 '물 아래로 가다' → submerge의 가장 직접적 풀이"
-      },
-      {
-        "word": "immerse",
-        "note": "im-(안으로) + merge(잠기다) → submerge와 어원이 같아! 둘 다 '완전히 담그다'"
-      },
-      {
-        "word": "flood",
-        "note": "홍수로 물에 잠기게 하다 → submerge의 '물로 덮다' 뜻과 연결"
-      },
-      {
-        "word": "inundate",
-        "note": "in-(안으로) + unda(파도) → 파도가 밀려와 잠기게 하다. 비유적으로 '~로 넘치다'도 공유"
-      },
-      {
-        "word": "deluge",
-        "note": "대홍수 → 물로 완전히 뒤덮는 이미지. submerge의 강화판"
-      },
-      {
-        "word": "swamp",
-        "note": "늪(swamp)에 빠지듯 → 물에 잠기다, 압도당하다. 비유적 뜻도 겹쳐"
-      },
-      {
-        "word": "overwhelm",
-        "note": "over + whelm(뒤집어 덮다) → submerge의 비유적 뜻 '압도하다, 뒤덮다'와 같아"
-      }
+      {"word": "go underwater", "note": "말 그대로 '물 아래로 가다'"},
+      {"word": "immerse", "note": "완전히 담그다, 푹 잠기게 하다"},
+      {"word": "flood", "note": "홍수로 물에 잠기게 하다"},
+      {"word": "inundate", "note": "물로 뒤덮다. 비유적으로 '~로 넘치다'도 공유"},
+      {"word": "deluge", "note": "대홍수로 완전히 뒤덮다"},
+      {"word": "swamp", "note": "늪에 빠지듯 잠기다, 압도당하다"},
+      {"word": "overwhelm", "note": "뒤덮어 압도하다 → submerge의 비유적 뜻과 같아"}
     ],
     "tips": [
       "어원: `sub-`(아래) + `merge`(잠기다) → 아래로 잠기다. `emerge`(나타나다)의 정반대야. 물속으로 쑥 들어가는 이미지!",
@@ -50,42 +29,18 @@
       "복종하는, 유순한, 고분고분한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "obedient",
-        "note": "명령에 따르는 → submissive의 '순종하는' 뜻과 직결"
-      },
-      {
-        "word": "tractable",
-        "note": "tract-(끌다) → 끌려가는 대로 따르는 = 다루기 쉬운, 유순한"
-      },
-      {
-        "word": "compliant",
-        "note": "comply(따르다)에서 파생 → 요구에 순순히 따르는"
-      },
-      {
-        "word": "pliant",
-        "note": "구부러지는(flexible) → 남의 뜻대로 쉽게 휘는 = 유순한"
-      },
-      {
-        "word": "amenable",
-        "note": "a-(~쪽으로) + men-(이끌다) → 이끌리는 대로 따르는 = 순응하는"
-      },
-      {
-        "word": "passive",
-        "note": "능동적으로 저항하지 않는 → submissive의 '자기 의지 없이 따르는' 면과 같아"
-      },
-      {
-        "word": "yielding",
-        "note": "yield(양보하다)에서 파생 → 저항 없이 굽히는 = 유순한"
-      },
-      {
-        "word": "docile",
-        "note": "doc-(가르치다) → 가르치는 대로 잘 따르는 = 고분고분한"
-      }
+      {"word": "obedient", "note": "명령에 따르는"},
+      {"word": "tractable", "note": "다루기 쉬운, 유순한"},
+      {"word": "compliant", "note": "요구에 순순히 따르는"},
+      {"word": "pliant", "note": "남의 뜻대로 쉽게 휘는 = 유순한"},
+      {"word": "amenable", "note": "순응하는, 이끄는 대로 따르는"},
+      {"word": "passive", "note": "능동적으로 저항하지 않는"},
+      {"word": "yielding", "note": "저항 없이 굽히는 = 유순한"},
+      {"word": "docile", "note": "고분고분한, 가르치는 대로 잘 따르는"}
     ],
     "tips": [
       "어원: `sub-`(아래) + `miss-`(보내다) → 자기 의지를 아래로 보내다 = 남에게 굴복. `submit`과 같은 뿌리야.",
-      "뉘앙스: `submissive`는 성격·태도가 원래 순종적인 느낌. `obedient`는 명령에 따르는 것, `docile`은 다루기 쉬운 것. GRE에서 부정적 뉘앙스로 자주 나와."
+      "뉘앙스: `submissive`는 성격·태도가 원래 순종적인 느낌이야. 단순히 명령을 따르는 게 아니라 자기 의지 자체가 약한 거지. GRE에서 부정적 뉘앙스로 자주 나와."
     ]
   },
   {
@@ -97,50 +52,17 @@
       "복종(굴복)하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "put forward",
-        "note": "앞에 내놓다 → submit의 '제출하다' 뜻"
-      },
-      {
-        "word": "proffer",
-        "note": "pro-(앞으로) + offer → 공식적으로 제출/제안하다"
-      },
-      {
-        "word": "advance",
-        "note": "앞으로 내밀다 → 의견·제안을 제출하다"
-      },
-      {
-        "word": "propose",
-        "note": "pro-(앞에) + pose(놓다) → 앞에 놓다 = 제안하다"
-      },
-      {
-        "word": "give in",
-        "note": "안으로 들어주다 → submit의 '굴복하다' 뜻"
-      },
-      {
-        "word": "yield",
-        "note": "양보하다, 굴복하다 → submit의 '복종' 뜻과 같아"
-      },
-      {
-        "word": "accede",
-        "note": "ac-(~쪽으로) + cede(가다) → 상대 쪽으로 가다 = 동의/굴복하다"
-      },
-      {
-        "word": "comply",
-        "note": "요구에 따르다 → submit의 '복종하다' 뜻"
-      },
-      {
-        "word": "conform",
-        "note": "form(형태)에 맞추다 → 규칙·기대에 따르다 = 순응하다"
-      },
-      {
-        "word": "surrender",
-        "note": "항복하다 → submit의 '굴복하다'의 강화판"
-      },
-      {
-        "word": "bend",
-        "note": "구부리다 → 비유적으로 '의지를 꺾다, 굴복하다'"
-      }
+      {"word": "put forward", "note": "앞에 내놓다 → '제출하다' 뜻"},
+      {"word": "proffer", "note": "공식적으로 제출/제안하다"},
+      {"word": "advance", "note": "의견·제안을 내밀다"},
+      {"word": "propose", "note": "제안하다"},
+      {"word": "give in", "note": "'굴복하다' 뜻"},
+      {"word": "yield", "note": "양보하다, 굴복하다"},
+      {"word": "accede", "note": "동의하다, 굴복하다"},
+      {"word": "comply", "note": "요구에 따르다"},
+      {"word": "conform", "note": "규칙·기대에 따르다 = 순응하다"},
+      {"word": "surrender", "note": "항복하다"},
+      {"word": "bend", "note": "비유적으로 '의지를 꺾다, 굴복하다'"}
     ],
     "tips": [
       "어원: `sub-`(아래) + `mit-`(보내다) → 아래로 보내다. 1) 서류를 (윗사람에게) 올려보내다 = 제출 2) 자기를 아래로 보내다 = 복종. 핵심은 '아래로 내놓다'야.",
@@ -157,34 +79,13 @@
       "v.) ~에 종속시키다, 부차적인 것으로 하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "lower-ranking",
-        "note": "순위가 낮은 → subordinate의 '하위의' 뜻 그대로"
-      },
-      {
-        "word": "lower",
-        "note": "아래의 → 계급·지위가 아래인"
-      },
-      {
-        "word": "secondary",
-        "note": "2차적인 → subordinate의 '부차적인' 뜻"
-      },
-      {
-        "word": "minor",
-        "note": "작은, 부차적인 → subordinate의 '덜 중요한' 뜻"
-      },
-      {
-        "word": "subsidiary",
-        "note": "sub-(아래) + sid-(앉다) → 아래에 딸린 = 종속적인"
-      },
-      {
-        "word": "subservient",
-        "note": "sub-(아래) + serv-(섬기다) → 아래에서 섬기는 = 종속적인"
-      },
-      {
-        "word": "auxiliary",
-        "note": "보조의 → subordinate의 '부수적인' 뜻과 연결"
-      }
+      {"word": "lower-ranking", "note": "순위가 낮은"},
+      {"word": "lower", "note": "계급·지위가 아래인"},
+      {"word": "secondary", "note": "2차적인, 부차적인"},
+      {"word": "minor", "note": "작은, 부차적인"},
+      {"word": "subsidiary", "note": "아래에 딸린 = 종속적인"},
+      {"word": "subservient", "note": "아래에서 섬기는 = 종속적인"},
+      {"word": "auxiliary", "note": "보조의"}
     ],
     "tips": [
       "어원: `sub-`(아래) + `ordin-`(순서, order) → 순서상 아래에 있는. `ordinate`(좌표)와 같은 어근이야.",
@@ -200,30 +101,12 @@
       "(위증 등을) 은밀히 교사하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "instigate",
-        "note": "부추기다 → suborn의 '나쁜 짓을 시키다' 뜻과 연결"
-      },
-      {
-        "word": "set on",
-        "note": "~을 부추기다, 선동하다 → suborn의 교사 의미"
-      },
-      {
-        "word": "foment",
-        "note": "불만·반란을 부추기다 → suborn처럼 은밀히 선동하는 느낌"
-      },
-      {
-        "word": "spur",
-        "note": "자극하다, 부추기다 → suborn의 '행동을 유발하다' 뜻"
-      },
-      {
-        "word": "stir up",
-        "note": "휘저어 일으키다 → 감정·행동을 부추기다"
-      },
-      {
-        "word": "kindle",
-        "note": "불을 지피다 → 비유적으로 나쁜 감정/행동을 점화하다"
-      }
+      {"word": "instigate", "note": "부추기다, 나쁜 짓을 시키다"},
+      {"word": "set on", "note": "부추기다, 선동하다"},
+      {"word": "foment", "note": "불만·반란을 부추기다"},
+      {"word": "spur", "note": "자극하다, 부추기다"},
+      {"word": "stir up", "note": "감정·행동을 부추기다"},
+      {"word": "kindle", "note": "불을 지피듯 나쁜 행동을 점화하다"}
     ],
     "tips": [
       "어원: `sub-`(몰래) + `orn-`(꾸미다, 준비하다) → 몰래 꾸미다 = 뒤에서 매수해서 나쁜 짓을 시키다. 특히 법정에서 위증(perjury)을 교사할 때 쓰는 단어야.",
@@ -253,30 +136,15 @@
       "뒤의, 다음의, 뒤이어 일어나는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "next",
-        "note": "다음의 → subsequent의 가장 기본적 의미"
-      },
-      {
-        "word": "after",
-        "note": "~후의 → 시간적으로 뒤에 오는"
-      },
-      {
-        "word": "ensuing",
-        "note": "en-(뒤따라) + sue(따르다) → 뒤이어 일어나는. subsequent와 거의 동일"
-      },
-      {
-        "word": "consequent",
-        "note": "con-(함께) + sequ-(따르다) → 결과로 뒤따르는. subsequent보다 인과관계 뉘앙스"
-      },
-      {
-        "word": "succeeding",
-        "note": "succeed(뒤따르다)에서 파생 → 뒤이어 오는, 다음의"
-      }
+      {"word": "next", "note": "다음의"},
+      {"word": "after", "note": "~후의, 시간적으로 뒤에 오는"},
+      {"word": "ensuing", "note": "뒤이어 일어나는"},
+      {"word": "consequent", "note": "결과로 뒤따르는. subsequent보다 인과관계 뉘앙스"},
+      {"word": "succeeding", "note": "뒤이어 오는, 다음의"}
     ],
     "tips": [
-      "어원: `sub-`(뒤에서) + `sequ-`(따르다, sequence와 같은 뿌리) → 뒤따르는. `consequence`(결과)도 같은 어근이야.",
-      "콜로케이션: `subsequent to` = ~이후에 (= after). `subsequent events/developments` = 이후의 사건/전개. `ensuing`과 거의 같은 뜻이야."
+      "어원: `sub-`(뒤에서) + `sequ-`(따르다, `sequence`와 같은 뿌리) → 뒤따르는. `consequence`(결과)도 같은 어근이야.",
+      "콜로케이션: `subsequent to` = ~이후에 (= after). `subsequent events/developments` = 이후의 사건/전개. GRE RC에서 시간 순서를 나타낼 때 자주 등장해."
     ]
   },
   {
@@ -288,38 +156,17 @@
       "(~에) 도움이 되는, 종속된(to)"
     ],
     "synonyms_from_image": [
-      {
-        "word": "abject",
-        "note": "비참할 정도로 비굴한 → subservient의 극단적 형태"
-      },
-      {
-        "word": "despicable",
-        "note": "경멸스러운 → 비굴한 태도가 경멸을 살 때"
-      },
-      {
-        "word": "contemptible",
-        "note": "멸시받을 만한 → 지나친 비굴함에 대한 평가"
-      },
-      {
-        "word": "menial",
-        "note": "하찮은, 천한 → 하인처럼 굽실대는 느낌"
-      },
-      {
-        "word": "obeisant",
-        "note": "obey(복종)에서 파생 → 고개 숙여 절하는 듯한 복종"
-      },
-      {
-        "word": "subordinate",
-        "note": "하위의 → subservient의 '종속적인' 뜻과 연결"
-      },
-      {
-        "word": "subject",
-        "note": "~에 종속된 → subservient의 '지배받는' 뜻"
-      }
+      {"word": "abject", "note": "비참할 정도로 비굴한"},
+      {"word": "despicable", "note": "경멸스러운 → 비굴한 태도가 경멸을 살 때"},
+      {"word": "contemptible", "note": "멸시받을 만한"},
+      {"word": "menial", "note": "하찮은, 천한 → 하인처럼 굽실대는 느낌"},
+      {"word": "obeisant", "note": "고개 숙여 절하듯 복종하는"},
+      {"word": "subordinate", "note": "하위의, 종속적인"},
+      {"word": "subject", "note": "~에 종속된"}
     ],
     "tips": [
-      "어원: `sub-`(아래) + `serv-`(섬기다, serve) → 아래에서 섬기는. `servile`(노예근성의)과 비슷하지만, `subservient`는 '자발적으로 비굴하게 구는' 느낌이 더 강해.",
-      "뉘앙스: `submissive`(순종적)보다 더 비굴하고 자존감 없는 느낌. `obsequious`(아첨하는)와 비슷한 레벨이야. GRE에서 부정적 성격 묘사로 자주 등장해."
+      "어원: `sub-`(아래) + `serv-`(섬기다, serve) → 아래에서 섬기는. 단순 순종이 아니라 '자발적으로 비굴하게 구는' 느낌이 핵심이야.",
+      "GRE 포인트: 두 가지 뜻을 구분해야 해. 1) 사람에게 쓰이면 → 비굴한, 아첨하는 (a subservient attitude) 2) 목적/기능에 쓰이면 → ~에 도움이 되는, 종속된 (subservient to the main goal)."
     ]
   },
   {
@@ -331,38 +178,17 @@
       "(감정·폭풍 등이) 진정되다, 수그러들다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "cave in",
-        "note": "안으로 무너지다 → subside의 '내려앉다' 뜻"
-      },
-      {
-        "word": "sag",
-        "note": "처지다, 내려앉다 → 물리적으로 가라앉는 이미지"
-      },
-      {
-        "word": "descend",
-        "note": "아래로 내려가다 → subside의 기본 물리적 의미"
-      },
-      {
-        "word": "diminish",
-        "note": "줄어들다 → subside의 '진정되다, 약해지다' 뜻"
-      },
-      {
-        "word": "lessen",
-        "note": "줄다, 약해지다 → 강도가 줄어드는 것"
-      },
-      {
-        "word": "abate",
-        "note": "a-(~쪽으로) + bat-(치다) → 세기를 꺾다 = 약해지다, 진정되다"
-      },
-      {
-        "word": "wane",
-        "note": "달이 이지러지듯 → 점차 약해지다, 쇠퇴하다"
-      }
+      {"word": "cave in", "note": "안으로 무너지다"},
+      {"word": "sag", "note": "처지다, 내려앉다"},
+      {"word": "descend", "note": "아래로 내려가다"},
+      {"word": "diminish", "note": "줄어들다 → '진정되다, 약해지다' 뜻"},
+      {"word": "lessen", "note": "줄다, 약해지다"},
+      {"word": "abate", "note": "약해지다, 진정되다"},
+      {"word": "wane", "note": "달이 이지러지듯 점차 약해지다"}
     ],
     "tips": [
       "어원: `sub-`(아래로) + `side`(앉다, sit과 관련) → 아래로 가라앉다. 물리적으로 땅이 꺼지는 것도, 감정이 가라앉는 것도 다 같은 이미지야.",
-      "콜로케이션: `the storm/anger/pain subsided` = 폭풍/분노/고통이 가라앉았다. `abate`, `wane`과 유의어. 반의어는 `escalate`, `intensify`."
+      "콜로케이션: `the storm/anger/pain subsided` = 폭풍/분노/고통이 가라앉았다. '서서히 줄어든다'는 느낌이 핵심. 반의어는 `escalate`, `intensify`."
     ]
   },
   {
@@ -374,34 +200,13 @@
       "n.) 자회사, 부속 기관"
     ],
     "synonyms_from_image": [
-      {
-        "word": "additional",
-        "note": "추가적인 → 주된 것에 덧붙여진 = 부차적인"
-      },
-      {
-        "word": "extra",
-        "note": "여분의 → 핵심이 아닌 추가분"
-      },
-      {
-        "word": "supplementary",
-        "note": "보충하는 → subsidiary의 '보조의' 뜻과 직결"
-      },
-      {
-        "word": "minor",
-        "note": "작은, 사소한 → 주요하지 않은 = 부차적인"
-      },
-      {
-        "word": "auxiliary",
-        "note": "보조의 → subsidiary와 거의 같은 뜻"
-      },
-      {
-        "word": "accessory",
-        "note": "부속의 → 주된 것에 딸린 부가적인 것"
-      },
-      {
-        "word": "inferior",
-        "note": "하위의, 열등한 → subsidiary의 '종속적인' 뜻과 연결"
-      }
+      {"word": "additional", "note": "추가적인, 부차적인"},
+      {"word": "extra", "note": "여분의"},
+      {"word": "supplementary", "note": "보충하는"},
+      {"word": "minor", "note": "사소한, 주요하지 않은"},
+      {"word": "auxiliary", "note": "보조의"},
+      {"word": "accessory", "note": "부속의, 부가적인"},
+      {"word": "inferior", "note": "하위의, 열등한"}
     ],
     "tips": [
       "어원: `subsid-`(subside와 같은 뿌리, '아래에 앉다') + `-ary` → 아래에 딸린 것. 비즈니스에서 `subsidiary company` = 자회사 (모회사 아래에 딸린 회사).",
@@ -430,26 +235,14 @@
       "(국가·기관의) 보조금, 장려금"
     ],
     "synonyms_from_image": [
-      {
-        "word": "grant",
-        "note": "정부·기관이 주는 보조금 → subsidy와 거의 같은 뜻"
-      },
-      {
-        "word": "sponsoring",
-        "note": "후원, 자금 지원 → 재정적 뒷받침이라는 공통점"
-      },
-      {
-        "word": "support",
-        "note": "지원 → subsidy의 넓은 의미 '재정 지원'"
-      },
-      {
-        "word": "subvention",
-        "note": "sub-(아래서) + ven-(오다) → 아래서 지원이 오다. subsidy의 격식 있는 동의어"
-      }
+      {"word": "grant", "note": "정부·기관이 주는 보조금"},
+      {"word": "sponsoring", "note": "후원, 자금 지원"},
+      {"word": "support", "note": "지원"},
+      {"word": "subvention", "note": "보조금의 격식 있는 표현"}
     ],
     "tips": [
-      "어원: 라틴어 `subsidium` = 예비군, 원군 → 뒤에서 지원하는 돈. `subvention`은 거의 같은 뜻의 고급 동의어야.",
-      "콜로케이션: `agricultural/housing subsidy` = 농업/주택 보조금. `grant`(보조금)과 비슷하지만, `subsidy`는 보통 정부가 특정 산업을 지원할 때 써."
+      "어원: 라틴어 `subsidium` = 예비군, 원군 → 뒤에서 지원하는 돈. 전쟁에서 뒤에서 지원하는 병력이 원뜻이야!",
+      "콜로케이션: `agricultural/housing subsidy` = 농업/주택 보조금. GRE RC 경제·정책 지문에서 정부 개입의 맥락으로 자주 등장해."
     ]
   },
   {
@@ -460,22 +253,10 @@
       "대칭, 균형, 조화"
     ],
     "synonyms_from_image": [
-      {
-        "word": "balance",
-        "note": "균형 → symmetry의 핵심 뜻. 양쪽이 똑같이 맞는 상태"
-      },
-      {
-        "word": "equality",
-        "note": "동등함 → 양쪽이 같다는 symmetry의 본질"
-      },
-      {
-        "word": "agreement",
-        "note": "일치 → 부분들이 서로 맞아떨어지는 조화"
-      },
-      {
-        "word": "proportion",
-        "note": "비율, 균형 → 부분과 전체의 조화로운 관계"
-      }
+      {"word": "balance", "note": "균형 → 양쪽이 똑같이 맞는 상태"},
+      {"word": "equality", "note": "동등함"},
+      {"word": "agreement", "note": "일치, 조화"},
+      {"word": "proportion", "note": "비율, 균형"}
     ],
     "tips": [
       "어원: `sym-`(함께) + `metry`(측정, meter) → 함께 재었을 때 같은 것 = 대칭. `asymmetry`(비대칭)는 `a-`(없음)가 붙은 반의어.",
@@ -492,70 +273,22 @@
       "마음이 통하는, 공감대가 있는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "compassionate",
-        "note": "com-(함께) + passion(고통) → 함께 아파하는 = 동정심 있는"
-      },
-      {
-        "word": "concerned",
-        "note": "걱정하는 → 상대를 신경 쓰는 = 동정적인"
-      },
-      {
-        "word": "solicitous",
-        "note": "마음이 쓰여 세심한 → sympathetic의 '배려하는' 면"
-      },
-      {
-        "word": "empathetic",
-        "note": "em-(안으로) + path-(감정) → 상대 입장에 들어가 느끼는. sympathetic보다 깊은 공감"
-      },
-      {
-        "word": "sensitive",
-        "note": "민감한 → 남의 감정에 예민하게 반응하는"
-      },
-      {
-        "word": "commiserative",
-        "note": "com-(함께) + miser-(불쌍한) → 함께 불쌍히 여기는 = 동정하는"
-      },
-      {
-        "word": "consoling",
-        "note": "위로하는 → 동정심에서 나오는 위로 행위"
-      },
-      {
-        "word": "comforting",
-        "note": "편안하게 해주는 → 동정의 실천적 표현"
-      },
-      {
-        "word": "considerate",
-        "note": "사려 깊은 → 남을 배려하는 성격"
-      },
-      {
-        "word": "tender-hearted",
-        "note": "마음이 여린 → 쉽게 동정하는 성향"
-      },
-      {
-        "word": "likeable",
-        "note": "호감 가는 → sympathetic의 '마음에 드는' 뜻"
-      },
-      {
-        "word": "pleasant",
-        "note": "기분 좋은 → sympathetic의 '호감을 주는' 뜻"
-      },
-      {
-        "word": "agreeable",
-        "note": "마음에 맞는 → sympathetic의 '공감대 있는' 뜻"
-      },
-      {
-        "word": "congenial",
-        "note": "con-(함께) + gen-(태어남) → 기질이 맞는 = 마음이 통하는"
-      },
-      {
-        "word": "friendly",
-        "note": "친근한 → sympathetic의 '호의적인' 뜻"
-      },
-      {
-        "word": "genial",
-        "note": "다정한, 상냥한 → 따뜻하게 대하는 = 호의적인"
-      }
+      {"word": "compassionate", "note": "함께 아파하는 = 동정심 있는"},
+      {"word": "concerned", "note": "걱정하는, 상대를 신경 쓰는"},
+      {"word": "solicitous", "note": "마음이 쓰여 세심한"},
+      {"word": "empathetic", "note": "상대 입장에 들어가 느끼는. sympathetic보다 깊은 공감"},
+      {"word": "sensitive", "note": "남의 감정에 예민하게 반응하는"},
+      {"word": "commiserative", "note": "함께 불쌍히 여기는 = 동정하는"},
+      {"word": "consoling", "note": "위로하는"},
+      {"word": "comforting", "note": "편안하게 해주는"},
+      {"word": "considerate", "note": "사려 깊은, 남을 배려하는"},
+      {"word": "tender-hearted", "note": "마음이 여린"},
+      {"word": "likeable", "note": "호감 가는 → '마음에 드는' 뜻"},
+      {"word": "pleasant", "note": "기분 좋은 → '호감을 주는' 뜻"},
+      {"word": "agreeable", "note": "마음에 맞는 → '공감대 있는' 뜻"},
+      {"word": "congenial", "note": "기질이 맞는, 마음이 통하는"},
+      {"word": "friendly", "note": "친근한, 호의적인"},
+      {"word": "genial", "note": "다정한, 상냥한"}
     ],
     "tips": [
       "어원: `sym-`(함께) + `path-`(감정, pathos) → 감정을 함께 느끼다. `empathetic`과 비슷하지만, `sympathetic`은 '동정' + '호의적' 두 축이 있어.",
@@ -573,126 +306,36 @@
       "일치, 조화, 교감"
     ],
     "synonyms_from_image": [
-      {
-        "word": "compassion",
-        "note": "함께(com) 고통받는(passion) → 동정의 핵심 감정"
-      },
-      {
-        "word": "caring",
-        "note": "돌봄 → 동정심에서 나오는 관심"
-      },
-      {
-        "word": "concern",
-        "note": "걱정 → 상대를 신경 쓰는 마음"
-      },
-      {
-        "word": "solicitude",
-        "note": "세심한 걱정 → 상대 안위를 염려하는 마음"
-      },
-      {
-        "word": "empathy",
-        "note": "감정이입 → sympathy보다 깊이 상대 입장에 서는 것"
-      },
-      {
-        "word": "commiseration",
-        "note": "함께 불쌍히 여김 → 동정의 표현"
-      },
-      {
-        "word": "pity",
-        "note": "불쌍히 여김 → sympathy의 가장 기본적 뜻"
-      },
-      {
-        "word": "condolence",
-        "note": "함께(con) 아파함(dolere) → 조의, 위로"
-      },
-      {
-        "word": "comfort",
-        "note": "위로 → 동정에서 나오는 실천"
-      },
-      {
-        "word": "solace",
-        "note": "위안 → 고통 속에서 주는 위로"
-      },
-      {
-        "word": "consideration",
-        "note": "배려 → 남을 생각하는 마음"
-      },
-      {
-        "word": "kindness",
-        "note": "친절 → 동정심의 실천적 표현"
-      },
-      {
-        "word": "rapport",
-        "note": "교감, 친밀감 → sympathy의 '마음이 통하는' 뜻"
-      },
-      {
-        "word": "fellow feeling",
-        "note": "동류의식 → 같은 처지를 공유하는 감정"
-      },
-      {
-        "word": "affinity",
-        "note": "친화력 → 서로 끌리는 교감"
-      },
-      {
-        "word": "harmony",
-        "note": "조화 → sympathy의 '일치, 조화' 뜻"
-      },
-      {
-        "word": "accord",
-        "note": "일치 → 의견·감정이 맞는 상태"
-      },
-      {
-        "word": "compatibility",
-        "note": "양립 가능성 → 서로 잘 맞는 관계"
-      },
-      {
-        "word": "fellowship",
-        "note": "동료의식 → 함께하는 유대감"
-      },
-      {
-        "word": "camaraderie",
-        "note": "동지애 → 같은 편이라는 유대"
-      },
-      {
-        "word": "agreement",
-        "note": "동의 → sympathy의 '찬성, 지지' 뜻"
-      },
-      {
-        "word": "favour",
-        "note": "호의 → sympathy의 '호감' 뜻"
-      },
-      {
-        "word": "approval",
-        "note": "찬성 → sympathy의 '지지, 동의' 뜻"
-      },
-      {
-        "word": "approbation",
-        "note": "승인, 찬성 → approval의 격식 있는 표현"
-      },
-      {
-        "word": "support",
-        "note": "지지 → sympathy의 '편을 들다' 뜻"
-      },
-      {
-        "word": "encouragement",
-        "note": "격려 → 지지의 실천적 형태"
-      },
-      {
-        "word": "partiality",
-        "note": "편애 → 한쪽에 sympathy를 보이는 것"
-      },
-      {
-        "word": "association",
-        "note": "연관, 연합 → 교감으로 이어진 관계"
-      },
-      {
-        "word": "alignment",
-        "note": "정렬 → 같은 방향으로 뜻이 맞는 것"
-      },
-      {
-        "word": "affiliation",
-        "note": "제휴 → 같은 편에 서는 관계"
-      }
+      {"word": "compassion", "note": "함께 아파하는 마음 = 동정의 핵심 감정"},
+      {"word": "caring", "note": "돌봄"},
+      {"word": "concern", "note": "걱정, 상대를 신경 쓰는 마음"},
+      {"word": "solicitude", "note": "세심한 걱정"},
+      {"word": "empathy", "note": "감정이입 → sympathy보다 깊이 상대 입장에 서는 것"},
+      {"word": "commiseration", "note": "함께 불쌍히 여김"},
+      {"word": "pity", "note": "불쌍히 여김"},
+      {"word": "condolence", "note": "조의, 위로 → 상실에 대한 동정 표현"},
+      {"word": "comfort", "note": "위로"},
+      {"word": "solace", "note": "위안 → 고통 속에서 주는 위로"},
+      {"word": "consideration", "note": "배려"},
+      {"word": "kindness", "note": "친절"},
+      {"word": "rapport", "note": "교감, 친밀감 → '마음이 통하는' 뜻"},
+      {"word": "fellow feeling", "note": "동류의식"},
+      {"word": "affinity", "note": "친화력, 교감"},
+      {"word": "harmony", "note": "조화 → '일치, 조화' 뜻"},
+      {"word": "accord", "note": "일치"},
+      {"word": "compatibility", "note": "양립 가능성, 서로 잘 맞음"},
+      {"word": "fellowship", "note": "동료의식, 유대감"},
+      {"word": "camaraderie", "note": "동지애"},
+      {"word": "agreement", "note": "동의 → '찬성, 지지' 뜻"},
+      {"word": "favour", "note": "호의"},
+      {"word": "approval", "note": "찬성, 지지"},
+      {"word": "approbation", "note": "승인, 찬성 (격식)"},
+      {"word": "support", "note": "지지"},
+      {"word": "encouragement", "note": "격려"},
+      {"word": "partiality", "note": "편애"},
+      {"word": "association", "note": "연관, 연합"},
+      {"word": "alignment", "note": "같은 방향으로 뜻이 맞는 것"},
+      {"word": "affiliation", "note": "제휴, 같은 편에 서는 관계"}
     ],
     "tips": [
       "`sympathy`는 뜻이 여러 갈래처럼 보이는데, 핵심은 '감정을 함께 나누다'야:\n1) 슬픔을 함께 → 동정, 연민 (sympathy for the victims)\n2) 생각을 함께 → 동의, 지지 (in sympathy with the movement)\n3) 느낌이 함께 → 조화, 교감 (a sympathy between their styles)",
@@ -707,26 +350,14 @@
       "동시의, 동시에 일어나는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "coeval",
-        "note": "co-(함께) + eval(시대) → 같은 시대의 = 동시대의"
-      },
-      {
-        "word": "coexisting",
-        "note": "co-(함께) + exist(존재) → 함께 존재하는 = 동시에 있는"
-      },
-      {
-        "word": "coetaneous",
-        "note": "co-(함께) + aetas(나이) → 같은 나이/시기의"
-      },
-      {
-        "word": "contemporaneous",
-        "note": "con-(함께) + tempor-(시간) → 같은 시간대의 = 동시대의"
-      }
+      {"word": "coeval", "note": "같은 시대의"},
+      {"word": "coexisting", "note": "함께 존재하는 = 동시에 있는"},
+      {"word": "coetaneous", "note": "같은 시기의"},
+      {"word": "contemporaneous", "note": "같은 시간대의, 동시대의"}
     ],
     "tips": [
-      "어원: `syn-`(함께) + `chron-`(시간, chronology와 같은 뿌리) → 시간이 함께 = 동시의. `asynchronous`(비동기적)는 프로그래밍에서도 자주 나오지!",
-      "콜로케이션: `synchronous events/movements` = 동시 발생 사건/움직임. `simultaneous`, `concurrent`와 유의어."
+      "어원: `syn-`(함께) + `chron-`(시간, `chronology`와 같은 뿌리) → 시간이 함께 = 동시의. `asynchronous`(비동기적)는 프로그래밍에서도 자주 나오지!",
+      "콜로케이션: `synchronous events/movements` = 동시 발생 사건/움직임. 반의어 `asynchronous`도 같이 기억해두면 좋아."
     ]
   },
   {
@@ -737,26 +368,14 @@
       "개략, 요약, 개요, 대의"
     ],
     "synonyms_from_image": [
-      {
-        "word": "summary",
-        "note": "요약 → synopsis의 가장 기본적 동의어"
-      },
-      {
-        "word": "precis",
-        "note": "프랑스어에서 온 '정밀한 요약' → synopsis보다 더 압축된 느낌"
-      },
-      {
-        "word": "abstract",
-        "note": "abs-(떼어낸) + tract(끌다) → 핵심만 뽑아낸 요약. 학술 논문 요약에 주로 사용"
-      },
-      {
-        "word": "abridgement",
-        "note": "a-(~으로) + bridge(다리) → 짧게 잇다 = 축약본, 요약판"
-      }
+      {"word": "summary", "note": "요약"},
+      {"word": "precis", "note": "정밀한 요약 → synopsis보다 더 압축된 느낌"},
+      {"word": "abstract", "note": "핵심만 뽑아낸 요약. 학술 논문에 주로 사용"},
+      {"word": "abridgement", "note": "축약본, 요약판"}
     ],
     "tips": [
-      "어원: `syn-`(함께) + `opsis`(보다, optical과 같은 뿌리) → 한눈에 함께 보다 = 전체를 한눈에 훑는 요약. 복수형은 `synopses`야.",
-      "콜로케이션: `a synopsis of the plot/argument` = 줄거리/논증의 개요. `abstract`는 학술 논문 요약, `synopsis`는 이야기·계획의 요약에 더 많이 써."
+      "어원: `syn-`(함께) + `opsis`(보다, `optical`과 같은 뿌리) → 한눈에 함께 보다 = 전체를 한눈에 훑는 요약. 복수형은 `synopses`야.",
+      "콜로케이션: `a synopsis of the plot/argument` = 줄거리/논증의 개요. 학술 논문 요약은 `abstract`, 이야기·계획의 요약은 `synopsis`를 더 많이 써."
     ]
   },
   {
@@ -767,22 +386,10 @@
       "개요의, 대요의, 전체를 조망하는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "condensed",
-        "note": "압축된 → 전체를 짧게 줄인 = 개요적인"
-      },
-      {
-        "word": "shortened",
-        "note": "짧아진 → 요약된"
-      },
-      {
-        "word": "epitomized",
-        "note": "epitome(전형, 축소판)에서 파생 → 핵심만 추린"
-      },
-      {
-        "word": "abridged",
-        "note": "축약된 → 전체를 줄여서 보여주는"
-      }
+      {"word": "condensed", "note": "압축된"},
+      {"word": "shortened", "note": "짧아진, 요약된"},
+      {"word": "epitomized", "note": "핵심만 추린"},
+      {"word": "abridged", "note": "축약된"}
     ],
     "tips": [
       "`synopsis`의 형용사형. `synoptic view` = 전체를 한눈에 보는 관점. 기상학에서 `synoptic chart` = 일기도(넓은 지역 날씨를 한눈에 보여주는 차트)로도 써.",
@@ -797,26 +404,11 @@
       "종합, 통합, 합성"
     ],
     "synonyms_from_image": [
-      {
-        "word": "blend",
-        "note": "섞음 → 여러 요소를 합치는 것"
-      },
-      {
-        "word": "union",
-        "note": "결합 → 하나로 합치는 것"
-      },
-      {
-        "word": "combination",
-        "note": "조합 → 여러 것을 합치는 행위"
-      },
-      {
-        "word": "incorporation",
-        "note": "in-(안으로) + corpor-(몸체) → 하나의 몸체로 합치다"
-      },
-      {
-        "word": "composition",
-        "note": "com-(함께) + pos-(놓다) → 함께 배치하여 구성하다"
-      }
+      {"word": "blend", "note": "섞음, 여러 요소를 합침"},
+      {"word": "union", "note": "결합, 하나로 합침"},
+      {"word": "combination", "note": "조합"},
+      {"word": "incorporation", "note": "하나로 통합함"},
+      {"word": "composition", "note": "구성, 조합"}
     ],
     "tips": [
       "어원: `syn-`(함께) + `thesis`(놓다) → 함께 놓다 = 종합. 반의어는 `analysis`(`ana-` = 분해 + `lysis` = 풀다). 철학에서 정(thesis)→반(antithesis)→합(synthesis)!",
@@ -846,38 +438,14 @@
       "종합적인"
     ],
     "synonyms_from_image": [
-      {
-        "word": "manmade",
-        "note": "사람이 만든 → synthetic의 '인공적인' 뜻"
-      },
-      {
-        "word": "manufactured",
-        "note": "공장에서 제조된 → 자연산이 아닌"
-      },
-      {
-        "word": "nonnatural",
-        "note": "자연적이지 않은 → synthetic의 직접적 풀이"
-      },
-      {
-        "word": "counterfeit",
-        "note": "위조된 → synthetic의 '진짜가 아닌' 뉘앙스"
-      },
-      {
-        "word": "fake",
-        "note": "가짜의 → 인공적으로 만든 모조품"
-      },
-      {
-        "word": "composite",
-        "note": "합성의 → 여러 재료를 합쳐 만든"
-      },
-      {
-        "word": "all-round",
-        "note": "전반적인 → synthetic의 '종합적인' 뜻"
-      },
-      {
-        "word": "overall",
-        "note": "전체적인 → synthetic의 '종합적인' 뜻"
-      }
+      {"word": "manmade", "note": "사람이 만든"},
+      {"word": "manufactured", "note": "공장에서 제조된"},
+      {"word": "nonnatural", "note": "자연적이지 않은"},
+      {"word": "counterfeit", "note": "위조된 → '진짜가 아닌' 뉘앙스"},
+      {"word": "fake", "note": "가짜의"},
+      {"word": "composite", "note": "합성의, 여러 재료를 합쳐 만든"},
+      {"word": "all-round", "note": "전반적인 → '종합적인' 뜻"},
+      {"word": "overall", "note": "전체적인 → '종합적인' 뜻"}
     ],
     "tips": [
       "핵심 이미지: '인간이 합쳐서 만든 것' → 1) 물질이면 = 인조의, 합성의 (synthetic fabric) 2) 사고방식이면 = 종합적인 (synthetic reasoning).",
@@ -893,22 +461,10 @@
       "n.) 파괴 분자, 전복 활동가"
     ],
     "synonyms_from_image": [
-      {
-        "word": "destructive",
-        "note": "파괴적인 → subversive의 결과: 기존 것을 부수는"
-      },
-      {
-        "word": "devastating",
-        "note": "황폐하게 하는 → 파괴의 강도가 극심한"
-      },
-      {
-        "word": "damaging",
-        "note": "피해를 주는 → 체제에 해를 끼치는"
-      },
-      {
-        "word": "ruinous",
-        "note": "파멸적인 → 완전한 파괴로 이끄는"
-      }
+      {"word": "destructive", "note": "파괴적인"},
+      {"word": "devastating", "note": "황폐하게 하는"},
+      {"word": "damaging", "note": "피해를 주는"},
+      {"word": "ruinous", "note": "파멸적인"}
     ],
     "tips": [
       "어원: `sub-`(아래에서) + `vert-`(돌리다, 뒤집다) → 아래에서 뒤집다 = 전복. `subvert`(전복시키다)의 형용사형이야.",
@@ -924,82 +480,25 @@
       "(사상 등을) 타락시키다, 부패시키다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "destabilize",
-        "note": "불안정하게 만들다 → 전복의 전단계"
-      },
-      {
-        "word": "unsettle",
-        "note": "동요시키다 → 기존 질서를 흔드는"
-      },
-      {
-        "word": "overthrow",
-        "note": "over(위로) + throw(던지다) → 뒤집어엎다 = 전복의 직접적 동의어"
-      },
-      {
-        "word": "overturn",
-        "note": "뒤집다 → 기존 체제를 뒤엎다"
-      },
-      {
-        "word": "topple",
-        "note": "쓰러뜨리다 → 높이 있는 것(권력)을 넘어뜨리다"
-      },
-      {
-        "word": "depose",
-        "note": "de-(아래로) + pose(놓다) → 자리에서 끌어내리다 = 폐위시키다"
-      },
-      {
-        "word": "oust",
-        "note": "쫓아내다 → 자리에서 밀어내다"
-      },
-      {
-        "word": "disrupt",
-        "note": "dis-(분리) + rupt(깨지다) → 질서를 깨뜨리다"
-      },
-      {
-        "word": "wreak havoc on",
-        "note": "~에 대혼란을 일으키다 → 파괴적 결과"
-      },
-      {
-        "word": "sabotage",
-        "note": "방해 공작하다 → 내부에서 몰래 파괴하는 것. subvert의 은밀한 면과 유사"
-      },
-      {
-        "word": "ruin",
-        "note": "망치다, 폐허로 만들다 → 파괴의 결과"
-      },
-      {
-        "word": "undermine",
-        "note": "under(아래) + mine(굴 파다) → 기반을 허물다. subvert와 매우 유사!"
-      },
-      {
-        "word": "weaken",
-        "note": "약화시키다 → 전복의 과정에서 힘을 빼는 것"
-      },
-      {
-        "word": "damage",
-        "note": "손상시키다 → 체제에 해를 끼치는"
-      },
-      {
-        "word": "corrupt",
-        "note": "cor-(완전히) + rupt(깨지다) → 내부를 썩게 하다 = 타락시키다"
-      },
-      {
-        "word": "pervert",
-        "note": "per-(완전히) + vert(돌리다) → 완전히 왜곡시키다 = 타락시키다"
-      },
-      {
-        "word": "deprave",
-        "note": "de-(아래로) + prav-(비뚤어진) → 도덕적으로 타락시키다"
-      },
-      {
-        "word": "contaminate",
-        "note": "오염시키다 → 사상을 더럽히는 비유"
-      },
-      {
-        "word": "embitter",
-        "note": "쓰라리게 만들다 → 적대감을 심어 체제에 반하게 만들다"
-      }
+      {"word": "destabilize", "note": "불안정하게 만들다"},
+      {"word": "unsettle", "note": "동요시키다"},
+      {"word": "overthrow", "note": "뒤집어엎다 = 전복의 직접적 동의어"},
+      {"word": "overturn", "note": "뒤엎다"},
+      {"word": "topple", "note": "쓰러뜨리다 → 권력을 넘어뜨리다"},
+      {"word": "depose", "note": "폐위시키다, 자리에서 끌어내리다"},
+      {"word": "oust", "note": "쫓아내다"},
+      {"word": "disrupt", "note": "질서를 깨뜨리다"},
+      {"word": "wreak havoc on", "note": "대혼란을 일으키다"},
+      {"word": "sabotage", "note": "내부에서 몰래 파괴하다"},
+      {"word": "ruin", "note": "망치다, 폐허로 만들다"},
+      {"word": "undermine", "note": "기반을 허물다 → subvert와 매우 유사!"},
+      {"word": "weaken", "note": "약화시키다"},
+      {"word": "damage", "note": "손상시키다"},
+      {"word": "corrupt", "note": "내부를 썩게 하다 = 타락시키다"},
+      {"word": "pervert", "note": "완전히 왜곡시키다 = 타락시키다"},
+      {"word": "deprave", "note": "도덕적으로 타락시키다"},
+      {"word": "contaminate", "note": "오염시키다"},
+      {"word": "embitter", "note": "적대감을 심어 체제에 반하게 만들다"}
     ],
     "tips": [
       "어원: `sub-`(아래에서) + `vert-`(돌리다) → 밑에서부터 뒤집어엎다. `invert`(뒤집다), `convert`(전환하다), `revert`(돌아가다) 모두 `-vert` 가족이야.",
@@ -1014,26 +513,14 @@
       "간결한, 간명한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "concise",
-        "note": "con-(완전히) + cis-(자르다) → 군더더기를 잘라낸 = 간결한. succinct와 가장 가까운 동의어"
-      },
-      {
-        "word": "short",
-        "note": "짧은 → 간결함의 물리적 결과"
-      },
-      {
-        "word": "neat",
-        "note": "깔끔한 → 군더더기 없이 정돈된"
-      },
-      {
-        "word": "tight",
-        "note": "빡빡한, 꽉 찬 → 불필요한 것 없이 압축된 느낌"
-      }
+      {"word": "concise", "note": "군더더기를 잘라낸 = 간결한"},
+      {"word": "short", "note": "짧은"},
+      {"word": "neat", "note": "깔끔한, 정돈된"},
+      {"word": "tight", "note": "빡빡한 → 불필요한 것 없이 압축된"}
     ],
     "tips": [
-      "어원: `suc-`(아래에서) + `cinct-`(띠로 묶다, cinch와 관련) → 단단히 조여 묶은 = 군더더기 없이 딱 맞는. 글이 '꽉 졸라매진' 느낌이야.",
-      "콜로케이션: `succinct summary/answer/style` = 간결한 요약/답변/문체. `concise`와 거의 같은 뜻. 반의어는 `verbose`, `prolix`, `wordy`."
+      "어원: `suc-`(아래에서) + `cinct-`(띠로 묶다, `cinch`와 관련) → 단단히 조여 묶은 = 군더더기 없이 딱 맞는. 글이 '꽉 졸라매진' 느낌이야.",
+      "콜로케이션: `succinct summary/answer/style` = 간결한 요약/답변/문체. 반의어는 `verbose`, `prolix`, `wordy`. GRE에서 글쓰기 스타일 묘사에 자주 나와."
     ]
   },
   {
@@ -1044,30 +531,12 @@
       "구조, 구원, 원조(하다)"
     ],
     "synonyms_from_image": [
-      {
-        "word": "sustenance",
-        "note": "생명을 유지시키는 것 → 위기에서 지탱해주는 도움"
-      },
-      {
-        "word": "comfort",
-        "note": "위안 → 고통 속에서 주는 도움과 위로"
-      },
-      {
-        "word": "maintenance",
-        "note": "유지, 지원 → 지속적으로 돕는 것"
-      },
-      {
-        "word": "help",
-        "note": "도움 → succor의 가장 기본적 의미"
-      },
-      {
-        "word": "ministry",
-        "note": "봉사, 돌봄 → 종교적/헌신적 도움"
-      },
-      {
-        "word": "support",
-        "note": "지원 → 어려울 때 받쳐주는 도움"
-      }
+      {"word": "sustenance", "note": "생명을 유지시키는 것"},
+      {"word": "comfort", "note": "위안, 도움과 위로"},
+      {"word": "maintenance", "note": "유지, 지원"},
+      {"word": "help", "note": "도움"},
+      {"word": "ministry", "note": "봉사, 돌봄"},
+      {"word": "support", "note": "지원"}
     ],
     "tips": [
       "어원: `suc-`(아래에서) + `cur-`(달려가다, current와 같은 뿌리) → 아래에서 달려와 돕다. 위기 상황에서 달려가 구해주는 이미지야.",
@@ -1083,14 +552,8 @@
       "(비유) 흥미진진한, 매력적인"
     ],
     "synonyms_from_image": [
-      {
-        "word": "sappy",
-        "note": "sap(수액)이 많은 → 즙이 풍부한. succulent와 같은 이미지"
-      },
-      {
-        "word": "interesting",
-        "note": "흥미로운 → succulent의 비유적 뜻 '매력적인'"
-      }
+      {"word": "sappy", "note": "수액이 많은 = 즙이 풍부한"},
+      {"word": "interesting", "note": "흥미로운 → 비유적 뜻 '매력적인'"}
     ],
     "tips": [
       "어원: `succ-`(즙, juice) + `-ulent`(가득한) → 즙이 가득한. 다육식물(succulent plant)도 여기서 왔어 — 줄기에 수분을 잔뜩 머금고 있잖아!",
@@ -1107,30 +570,12 @@
       "(병, 부상 등으로) 죽다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "yield",
-        "note": "양보하다 → 저항을 멈추고 굴복하는 것"
-      },
-      {
-        "word": "give way",
-        "note": "길을 내주다 → 버티다가 무너지는 이미지"
-      },
-      {
-        "word": "submit",
-        "note": "sub-(아래) + mit(보내다) → 자신을 아래로 보내다 = 복종"
-      },
-      {
-        "word": "comply with",
-        "note": "따르다 → 요구에 굴복하여 순응하는 것"
-      },
-      {
-        "word": "accede",
-        "note": "ac-(~쪽으로) + cede(가다) → 상대 쪽으로 넘어가다 = 굴복"
-      },
-      {
-        "word": "surrender",
-        "note": "항복하다 → succumb과 같은 '저항 포기' 이미지"
-      }
+      {"word": "yield", "note": "양보하다, 굴복하다"},
+      {"word": "give way", "note": "버티다가 무너지다"},
+      {"word": "submit", "note": "복종하다"},
+      {"word": "comply with", "note": "요구에 굴복하여 순응하다"},
+      {"word": "accede", "note": "굴복하다, 동의하다"},
+      {"word": "surrender", "note": "항복하다"}
     ],
     "tips": [
       "어원: `suc-`(아래) + `cumb-`(눕다, recumbent와 같은 뿌리) → 아래에 쓰러져 눕다 = 굴복. 싸움에서 쓰러지는 이미지야.",
@@ -1146,29 +591,14 @@
       "(감정·발달 등을) 억압하다, 억누르다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "smother",
-        "note": "덮어서 숨을 막다 → suffocate와 같은 물리적 이미지"
-      },
-      {
-        "word": "stifle",
-        "note": "숨(막히게) 하다 → 물리적 질식 + 비유적 억압 둘 다"
-      },
-      {
-        "word": "choke",
-        "note": "목을 졸라 숨을 막다 → 직접적 질식"
-      },
-      {
-        "word": "strangle",
-        "note": "목을 조르다 → 외부에서 숨을 차단"
-      },
-      {
-        "word": "asphyxiate",
-        "note": "a-(없음) + sphyx-(맥박) → 산소 부족으로 질식시키다. 의학적 표현"
-      }
+      {"word": "smother", "note": "덮어서 숨을 막다"},
+      {"word": "stifle", "note": "숨 막히게 하다. 비유적 억압도"},
+      {"word": "choke", "note": "목을 졸라 숨을 막다"},
+      {"word": "strangle", "note": "목을 조르다"},
+      {"word": "asphyxiate", "note": "산소 부족으로 질식시키다 (의학적 표현)"}
     ],
     "tips": [
-      "어원: `suf-`(아래) + `foc-`(목구멍, fauces) → 목구멍을 막다 = 질식. `stifle`, `smother`와 유의어야.",
+      "어원: `suf-`(아래) + `foc-`(목구멍, fauces) → 목구멍을 막다 = 질식. 숨 쉴 구멍을 틀어막는 이미지!",
       "GRE 포인트: 물리적 '질식'뿐 아니라 비유적으로 '억압하다'도 중요해. `suffocating bureaucracy` = 숨 막히는 관료주의, `suffocate creativity` = 창의성을 짓누르다."
     ]
   },
@@ -1180,26 +610,11 @@
       "투표권, 참정권, 선거권"
     ],
     "synonyms_from_image": [
-      {
-        "word": "franchise",
-        "note": "특권 → 투표할 수 있는 권리. GRE에서 '투표권' 뜻으로 나오는 함정 단어!"
-      },
-      {
-        "word": "right to vote",
-        "note": "투표할 권리 → suffrage의 직접적 풀이"
-      },
-      {
-        "word": "the vote",
-        "note": "투표(권) → suffrage의 일상적 표현"
-      },
-      {
-        "word": "enfranchisement",
-        "note": "en-(주다) + franchise(권리) → 투표권을 부여함. suffrage와 짝꿍"
-      },
-      {
-        "word": "ballot",
-        "note": "투표(용지) → 투표 행위 자체를 가리킴"
-      }
+      {"word": "franchise", "note": "투표권. GRE 함정 단어!"},
+      {"word": "right to vote", "note": "투표할 권리"},
+      {"word": "the vote", "note": "투표(권)"},
+      {"word": "enfranchisement", "note": "투표권 부여"},
+      {"word": "ballot", "note": "투표(용지)"}
     ],
     "tips": [
       "어원: 라틴어 `suffragium`(투표 도구, 찬성 표시). `suffragette` = 여성 참정권 운동가(20세기 초 영국). 역사 지문에서 자주 등장하는 단어야!",
@@ -1215,26 +630,11 @@
       "~의 필요를 충족시키다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "be enough",
-        "note": "충분하다 → suffice의 가장 직접적 풀이"
-      },
-      {
-        "word": "be sufficient",
-        "note": "sufficient(충분한)은 suffice에서 파생! 같은 뿌리"
-      },
-      {
-        "word": "be adequate",
-        "note": "ad-(~에) + equ-(같은) → 필요에 맞먹다 = 충분하다"
-      },
-      {
-        "word": "meet requirements",
-        "note": "요구조건을 충족하다 → suffice의 실용적 풀이"
-      },
-      {
-        "word": "satisfy demands",
-        "note": "요구를 만족시키다 → suffice의 '충족' 뜻"
-      }
+      {"word": "be enough", "note": "충분하다"},
+      {"word": "be sufficient", "note": "충분한 → suffice에서 파생된 형용사"},
+      {"word": "be adequate", "note": "충분하다, 적절하다"},
+      {"word": "meet requirements", "note": "요구조건을 충족하다"},
+      {"word": "satisfy demands", "note": "요구를 만족시키다"}
     ],
     "tips": [
       "어원: `suf-`(아래에서) + `fic-`(만들다, make) → 아래에서 충분히 만들어주다 = 충분하다. `sufficient`(충분한)은 여기서 파생된 형용사야.",
@@ -1250,54 +650,21 @@
       "(날씨 등이) 음산한, 음울한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "sullen",
-        "note": "시무룩하게 말을 안 하는 → sulky와 거의 같지만 더 침울한 느낌"
-      },
-      {
-        "word": "surly",
-        "note": "무뚝뚝+불친절 → sulky보다 공격적. 타인에게 적대적"
-      },
-      {
-        "word": "glum",
-        "note": "침울한 → 기운 없이 우울해 보이는"
-      },
-      {
-        "word": "gloomy",
-        "note": "어둡고 우울한 → 분위기 전체가 침침한"
-      },
-      {
-        "word": "morose",
-        "note": "뚱하고 우울한 → sulky + 깊은 우울감"
-      },
-      {
-        "word": "moody",
-        "note": "기분이 오락가락하는 → 쉽게 토라지는 성향"
-      },
-      {
-        "word": "dour",
-        "note": "무뚝뚝하고 엄격한 → 표정이 굳어 있는"
-      },
-      {
-        "word": "dismal",
-        "note": "음울한, 암담한 → 희망 없이 어두운 분위기"
-      },
-      {
-        "word": "petulant",
-        "note": "짜증 잘 내는 → sulky처럼 사소한 것에 토라지는"
-      },
-      {
-        "word": "disgruntled",
-        "note": "dis-(부정) + gruntled(만족한) → 불만에 찬. sulky의 '기분 나쁜' 뜻"
-      },
-      {
-        "word": "ill-humored",
-        "note": "기분이 나쁜 → 유머(humor=기질)가 나쁜 상태"
-      }
+      {"word": "sullen", "note": "시무룩한 → sulky보다 더 침울한 느낌"},
+      {"word": "surly", "note": "무뚝뚝+불친절 → sulky보다 공격적"},
+      {"word": "glum", "note": "침울한"},
+      {"word": "gloomy", "note": "어둡고 우울한"},
+      {"word": "morose", "note": "뚱하고 우울한 → sulky + 깊은 우울감"},
+      {"word": "moody", "note": "기분이 오락가락하는"},
+      {"word": "dour", "note": "무뚝뚝하고 엄격한"},
+      {"word": "dismal", "note": "음울한, 암담한"},
+      {"word": "petulant", "note": "짜증 잘 내는 → 사소한 것에 토라지는"},
+      {"word": "disgruntled", "note": "불만에 찬"},
+      {"word": "ill-humored", "note": "기분이 나쁜"}
     ],
     "tips": [
-      "`sulky`는 삐져서 입을 꾹 다문 채 뚱해 있는 느낌이야. 어린아이가 토라진 모습을 떠올려봐. `sullen`(시무룩한)과 거의 같지만 `sulky`가 좀 더 유치한(?) 뉘앙스.",
-      "GRE 감정 단어 정리: `sulky`(삐진) ≈ `sullen`(시무룩) ≈ `petulant`(짜증내는) < `morose`(우울한) < `surly`(무뚝뚝+불친절). 정도 차이를 알아두면 SE에서 유리해!"
+      "`sulky`는 삐져서 입을 꾹 다문 채 뚱해 있는 느낌이야. 어린아이가 토라진 모습을 떠올려봐. 말은 안 하지만 온몸으로 '나 기분 나빠'를 표현하는 상태.",
+      "GRE 감정 단어 강도 비교: `sulky`(삐진, 유치한) ≈ `sullen`(시무룩, 침묵 저항) < `morose`(우울한, 깊은) < `surly`(무뚝뚝+불친절, 공격적). 정도 차이를 알아두면 SE에서 유리해!"
     ]
   },
   {
@@ -1310,66 +677,21 @@
       "(날씨 등이) 음산한, 우울한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "sulky",
-        "note": "삐진 → sullen과 거의 같지만 좀 더 가볍고 유치한 느낌"
-      },
-      {
-        "word": "surly",
-        "note": "무뚝뚝+불친절 → sullen보다 능동적으로 적대적"
-      },
-      {
-        "word": "glum",
-        "note": "침울한 → 기운 없이 처진 표정"
-      },
-      {
-        "word": "morose",
-        "note": "뚱+우울 → sullen에 깊은 우울감이 더해진 느낌"
-      },
-      {
-        "word": "dour",
-        "note": "엄격하고 무표정한 → 밝은 기색이 전혀 없는"
-      },
-      {
-        "word": "grim",
-        "note": "험악한, 엄숙한 → 표정이 굳어있는"
-      },
-      {
-        "word": "gloomy",
-        "note": "우울한, 어두운 → 분위기 자체가 침침한"
-      },
-      {
-        "word": "dismal",
-        "note": "음울한, 암담한 → 희망 없는 어두움"
-      },
-      {
-        "word": "moody",
-        "note": "기분파인 → 감정 기복이 심한"
-      },
-      {
-        "word": "bad-tempered",
-        "note": "성질 나쁜 → sullen의 '심기 불편한' 뜻"
-      },
-      {
-        "word": "ill-tempered",
-        "note": "성질 사나운 → bad-tempered와 같은 뜻"
-      },
-      {
-        "word": "unresponsive",
-        "note": "반응 없는 → sullen의 '침묵으로 저항하는' 면"
-      },
-      {
-        "word": "uncommunicative",
-        "note": "말이 없는 → sullen의 핵심: 화나서 입 다문 상태"
-      },
-      {
-        "word": "uncivil",
-        "note": "무례한 → sullen한 태도의 결과"
-      },
-      {
-        "word": "unfriendly",
-        "note": "불친절한 → sullen한 사람이 주는 인상"
-      }
+      {"word": "sulky", "note": "삐진 → sullen보다 좀 더 가볍고 유치한 느낌"},
+      {"word": "surly", "note": "무뚝뚝+불친절 → sullen보다 능동적으로 적대적"},
+      {"word": "glum", "note": "침울한"},
+      {"word": "morose", "note": "뚱+우울 → 깊은 우울감이 더해진 느낌"},
+      {"word": "dour", "note": "엄격하고 무표정한"},
+      {"word": "grim", "note": "험악한, 엄숙한"},
+      {"word": "gloomy", "note": "우울한, 어두운"},
+      {"word": "dismal", "note": "음울한, 암담한"},
+      {"word": "moody", "note": "기분파인"},
+      {"word": "bad-tempered", "note": "성질 나쁜"},
+      {"word": "ill-tempered", "note": "성질 사나운"},
+      {"word": "unresponsive", "note": "반응 없는 → 침묵으로 저항하는 면"},
+      {"word": "uncommunicative", "note": "말이 없는 → 화나서 입 다문 상태"},
+      {"word": "uncivil", "note": "무례한"},
+      {"word": "unfriendly", "note": "불친절한"}
     ],
     "tips": [
       "`sullen`의 핵심은 '화가 났지만 말로 표현 안 하고 침묵으로 저항하는' 느낌이야. 기분 상한 듯 입을 꾹 다물고 있는 10대를 떠올려.",
@@ -1379,52 +701,25 @@
   {
     "id": "033",
     "word": "sully",
-    "pos": "v./adj.",
+    "pos": "v.",
     "head_meanings": [
       "v.) 더럽히다, (명예 등을) 손상하다, 오점을 찍다",
       "adj.) sullied = 더럽혀진, 훼손된, 오점이 생긴"
     ],
     "synonyms_from_image": [
-      {
-        "word": "taint",
-        "note": "오염시키다 → 조금만 닿아도 전체가 더러워지는 이미지"
-      },
-      {
-        "word": "soil",
-        "note": "흙(soil)으로 더럽히다 → 물리적+비유적 오염"
-      },
-      {
-        "word": "tarnish",
-        "note": "금속이 변색되듯 → 명예의 광택이 사라지는 것"
-      },
-      {
-        "word": "stain",
-        "note": "얼룩지다 → 지워지지 않는 오점을 남기다"
-      },
-      {
-        "word": "blemish",
-        "note": "흠집 → 완벽함에 흠을 내다"
-      },
-      {
-        "word": "pollute",
-        "note": "오염시키다 → 순수함을 더럽히다"
-      },
-      {
-        "word": "spoil",
-        "note": "망치다 → 좋았던 것을 더럽혀 망가뜨리다"
-      },
-      {
-        "word": "mar",
-        "note": "손상하다 → 표면에 흠집을 내다"
-      },
-      {
-        "word": "besmirch",
-        "note": "be-(완전히) + smirch(더럽히다) → 철저히 명예를 더럽히다"
-      }
+      {"word": "taint", "note": "오염시키다"},
+      {"word": "soil", "note": "더럽히다"},
+      {"word": "tarnish", "note": "광택을 잃게 하다 → 명예가 변색되는 느낌"},
+      {"word": "stain", "note": "얼룩지다, 오점을 남기다"},
+      {"word": "blemish", "note": "흠집을 내다"},
+      {"word": "pollute", "note": "오염시키다"},
+      {"word": "spoil", "note": "망치다"},
+      {"word": "mar", "note": "손상하다"},
+      {"word": "besmirch", "note": "철저히 명예를 더럽히다"}
     ],
     "tips": [
-      "연상: `sully` 발음이 '썰이'처럼 들려 → 누군가의 '썰'(소문)로 명예를 더럽히다! `tarnish`, `besmirch`, `stain`과 유의어야.",
-      "콜로케이션: `sully one's reputation/name/honor` = 명예/이름/명성을 더럽히다. 물리적 더러움보다 **명예 훼손**의 뉘앙스가 GRE에서 핵심이야."
+      "연상: `sully` 발음이 '썰이'처럼 들려 → 누군가의 '썰'(소문)로 명예를 더럽히다! 물리적 더러움보다 **명예 훼손**이 핵심이야.",
+      "콜로케이션: `sully one's reputation/name/honor` = 명예/이름/명성을 더럽히다. GRE에서는 '좋았던 것에 오점을 남기다'라는 맥락으로 나와."
     ]
   },
   {
@@ -1435,34 +730,16 @@
       "호화로운, 사치스러운, 값비싼"
     ],
     "synonyms_from_image": [
-      {
-        "word": "costly",
-        "note": "값비싼 → 돈이 많이 든 = 호화로운의 원인"
-      },
-      {
-        "word": "grand",
-        "note": "웅장한, 화려한 → 규모가 크고 인상적인"
-      },
-      {
-        "word": "opulent",
-        "note": "op-(풍부) → 재물이 넘치는 화려함. sumptuous와 매우 가까운 동의어"
-      },
-      {
-        "word": "gorgeous",
-        "note": "화려한, 아름다운 → 시각적으로 눈부신"
-      },
-      {
-        "word": "resplendent",
-        "note": "re-(다시) + splend-(빛나다) → 빛나는 듯 화려한"
-      },
-      {
-        "word": "superb",
-        "note": "훌륭한 → 품질이 최상급인 호화로움"
-      }
+      {"word": "costly", "note": "값비싼"},
+      {"word": "grand", "note": "웅장한, 화려한"},
+      {"word": "opulent", "note": "재물이 넘치는 화려함"},
+      {"word": "gorgeous", "note": "화려한, 아름다운"},
+      {"word": "resplendent", "note": "빛나는 듯 화려한"},
+      {"word": "superb", "note": "훌륭한, 최상급의"}
     ],
     "tips": [
       "어원: 라틴어 `sumptus`(비용, expense) → 돈을 엄청 쓴 = 호화로운. `consumption`(소비)과 같은 뿌리! 돈을 왕창 써서 화려한 느낌.",
-      "콜로케이션: `a sumptuous feast/banquet/palace` = 호화로운 연회/궁전. `opulent`(부유하고 화려한), `lavish`(아낌없이 쓴)와 유의어."
+      "콜로케이션: `a sumptuous feast/banquet/palace` = 호화로운 연회/궁전. 단순히 비싼 게 아니라 '감각적으로 풍성하고 화려한' 뉘앙스가 핵심이야."
     ]
   },
   {
@@ -1473,30 +750,12 @@
       "분리하다, 떼어 놓다, 절단하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "rend",
-        "note": "찢다 → 힘으로 갈라놓는 격렬한 분리"
-      },
-      {
-        "word": "cleave",
-        "note": "쪼개다 → 도끼로 내려치듯 갈라놓는 이미지"
-      },
-      {
-        "word": "dissever",
-        "note": "dis-(분리) + sever(자르다) → 완전히 잘라 분리하다"
-      },
-      {
-        "word": "lacerate",
-        "note": "찢어서 상처 내다 → 거칠게 분리하는 느낌"
-      },
-      {
-        "word": "divide",
-        "note": "나누다 → sunder의 가장 기본적 의미"
-      },
-      {
-        "word": "splinter",
-        "note": "쪼개지다 → 나무가 갈라지듯 산산이 분리되는"
-      }
+      {"word": "rend", "note": "찢다 → 격렬한 분리"},
+      {"word": "cleave", "note": "쪼개다 → 도끼로 갈라놓는 이미지"},
+      {"word": "dissever", "note": "완전히 잘라 분리하다"},
+      {"word": "lacerate", "note": "찢어서 상처 내다"},
+      {"word": "divide", "note": "나누다"},
+      {"word": "splinter", "note": "산산이 쪼개지다"}
     ],
     "tips": [
       "연상: '선더(thunder, 천둥)' 치면 하늘이 쪼개지잖아 → sunder = 쪼개다, 갈라놓다! 문학적이고 고풍스러운 단어야.",
@@ -1525,114 +784,48 @@
       "남을 얕보는, 거만한, 건방진, 거드름 피우는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "imperious",
-        "note": "imper-(명령) → 명령하듯 거만한. 권위적 거만함"
-      },
-      {
-        "word": "arrogant",
-        "note": "ad-(자기에게) + rog-(요구) → 자기가 대단하다고 요구하는 = 오만한"
-      },
-      {
-        "word": "haughty",
-        "note": "high에서 파생 → 높은 곳에서 내려다보는 거만함"
-      },
-      {
-        "word": "conceited",
-        "note": "자만에 빠진 → 자기가 잘났다고 믿는"
-      },
-      {
-        "word": "overbearing",
-        "note": "over + bear → 남 위에 올라타는 듯한 압도적 거만함"
-      },
-      {
-        "word": "pompous",
-        "note": "pomp(과시)에서 파생 → 허세 부리며 거드름 피우는"
-      },
-      {
-        "word": "condescending",
-        "note": "con + descend(내려가다) → 아래로 내려와 주는 체 하는 = 은근히 깔보는"
-      },
-      {
-        "word": "patronizing",
-        "note": "patron(후원자)처럼 굴다 → 윗사람인 척 깔보는"
-      },
-      {
-        "word": "snobbish",
-        "note": "속물적으로 잘난 체하는 → 지위·학력으로 우월감"
-      },
-      {
-        "word": "smug",
-        "note": "자기만족에 빠진 → 은근히 우월감을 드러내는"
-      },
-      {
-        "word": "sneering",
-        "note": "비웃는 → 코웃음 치며 깔보는"
-      },
-      {
-        "word": "disdainful",
-        "note": "dis-(부정) + dain(가치) → 가치 없다고 여기는 = 경멸하는"
-      },
-      {
-        "word": "scornful",
-        "note": "멸시하는 → 대놓고 깔보는"
-      }
+      {"word": "imperious", "note": "명령하듯 거만한"},
+      {"word": "arrogant", "note": "오만한, 잘난 체하는"},
+      {"word": "haughty", "note": "높은 곳에서 내려다보는 거만함"},
+      {"word": "conceited", "note": "자만에 빠진"},
+      {"word": "overbearing", "note": "남 위에 올라타는 듯한 압도적 거만함"},
+      {"word": "pompous", "note": "허세 부리며 거드름 피우는"},
+      {"word": "condescending", "note": "아래로 내려와 주는 체 하는 = 은근히 깔보는"},
+      {"word": "patronizing", "note": "윗사람인 척 깔보는"},
+      {"word": "snobbish", "note": "속물적으로 잘난 체하는"},
+      {"word": "smug", "note": "자기만족에 빠진"},
+      {"word": "sneering", "note": "비웃는, 코웃음 치는"},
+      {"word": "disdainful", "note": "가치 없다고 여기는 = 경멸하는"},
+      {"word": "scornful", "note": "멸시하는, 대놓고 깔보는"}
     ],
     "tips": [
       "어원: `super-`(위) + `cilium`(눈썹) → 눈썹을 치켜올리며 내려다보는. 말 그대로 '눈썹 올리고 깔보는' 표정을 떠올리면 돼!",
-      "뉘앙스 비교: `arrogant`(자만), `haughty`(고고한 거만), `supercilious`(깔보는 거만), `condescending`(은근히 무시). `supercilious`는 '네가 나보다 못하다'는 태도가 겉으로 드러나는 거야."
+      "뉘앙스: `supercilious`는 '네가 나보다 못하다'는 태도가 겉으로 대놓고 드러나는 거만함이야. 은근히 깔보는 `condescending`이나 속으로만 잘난 체하는 `conceited`보다 더 노골적이지."
     ]
   },
   {
     "id": "038",
     "word": "superficial",
-    "pos": "adj./adv.",
+    "pos": "adj.",
     "head_meanings": [
       "피상적인, 외양만의, 표면적인",
       "깊이가 없는, 천박한",
       "adv.) superficially = 표면상으로, 피상적으로"
     ],
     "synonyms_from_image": [
-      {
-        "word": "sketchy",
-        "note": "sketch(밑그림)만 한 → 대충 훑은, 피상적인"
-      },
-      {
-        "word": "cursory",
-        "note": "cursor(커서)처럼 빠르게 훑는 → 겉핥기식의"
-      },
-      {
-        "word": "external",
-        "note": "외부의 → 겉만 보는"
-      },
-      {
-        "word": "outward",
-        "note": "바깥쪽의 → 외양만의"
-      },
-      {
-        "word": "skin-deep",
-        "note": "피부 깊이만큼 → 표면적인의 직관적 표현"
-      },
-      {
-        "word": "frivolous",
-        "note": "경박한 → 깊이 없이 가벼운"
-      },
-      {
-        "word": "hollow",
-        "note": "속이 빈 → 겉은 있지만 내용이 없는"
-      },
-      {
-        "word": "silly",
-        "note": "어리석은 → 천박하고 깊이 없는"
-      },
-      {
-        "word": "seemingly",
-        "note": "겉보기에 → superficially의 동의어 (부사)"
-      }
+      {"word": "sketchy", "note": "대충 훑은, 피상적인"},
+      {"word": "cursory", "note": "겉핥기식의"},
+      {"word": "external", "note": "외부의, 겉만 보는"},
+      {"word": "outward", "note": "바깥쪽의, 외양만의"},
+      {"word": "skin-deep", "note": "표면적인"},
+      {"word": "frivolous", "note": "경박한, 깊이 없는"},
+      {"word": "hollow", "note": "속이 빈 → 겉은 있지만 내용 없는"},
+      {"word": "silly", "note": "어리석은, 천박한"},
+      {"word": "seemingly", "note": "겉보기에 (부사)"}
     ],
     "tips": [
-      "어원: `super-`(위, 표면) + `fic-`(만들다, face와 관련) → 표면만 만든 = 겉핥기. `superficies` = 표면이야.",
-      "GRE 포인트: `superficial resemblance/similarity` = 표면적 유사성 (실제로는 다름). '얕은 사람'뿐 아니라 '겉보기만의' 뜻이 GRE에서 더 중요해."
+      "어원: `super-`(위, 표면) + `fic-`(만들다, `face`와 관련) → 표면만 만든 = 겉핥기. 수영장에서 발만 담근 느낌이야.",
+      "GRE 포인트: `superficial resemblance/similarity` = 표면적 유사성 (실제로는 다름). '얕은 사람'뿐 아니라 '겉보기만의' 뜻이 GRE에서 더 중요해. `superficially, A and B are alike` = 겉보기에는 비슷하지만..."
     ]
   },
   {
@@ -1644,46 +837,19 @@
       "불필요한, 쓸데없는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "surplus",
-        "note": "sur-(넘어) + plus(더) → 남아도는 = 과잉의"
-      },
-      {
-        "word": "redundant",
-        "note": "re-(다시) + und-(넘치다) → 넘쳐서 중복되는 = 불필요한"
-      },
-      {
-        "word": "unneeded",
-        "note": "필요 없는 → superfluous의 직접적 풀이"
-      },
-      {
-        "word": "excess",
-        "note": "과잉 → 필요 이상으로 남는"
-      },
-      {
-        "word": "extra",
-        "note": "여분의 → 필요량을 넘긴"
-      },
-      {
-        "word": "spare",
-        "note": "남는 → 쓰고도 남은 여분"
-      },
-      {
-        "word": "in excess",
-        "note": "과잉으로 → 넘치는 상태"
-      },
-      {
-        "word": "waste",
-        "note": "낭비 → superfluous한 것의 결과"
-      },
-      {
-        "word": "unnecessary",
-        "note": "불필요한 → superfluous의 핵심 의미"
-      }
+      {"word": "surplus", "note": "남아도는, 과잉의"},
+      {"word": "redundant", "note": "중복되는, 불필요한"},
+      {"word": "unneeded", "note": "필요 없는"},
+      {"word": "excess", "note": "과잉"},
+      {"word": "extra", "note": "여분의"},
+      {"word": "spare", "note": "남는"},
+      {"word": "in excess", "note": "과잉으로"},
+      {"word": "waste", "note": "낭비"},
+      {"word": "unnecessary", "note": "불필요한"}
     ],
     "tips": [
       "어원: `super-`(넘치는) + `flu-`(흐르다, flow) → 넘쳐흐르는 = 필요 이상으로 많은. 물이 컵에서 넘치는 이미지야!",
-      "콜로케이션: `superfluous details/words/decorations` = 불필요한 세부사항/말/장식. `redundant`와 유의어. GRE에서 글쓰기 비평 맥락으로 자주 나와 — '군더더기가 많다'는 비판."
+      "콜로케이션: `superfluous details/words/decorations` = 불필요한 세부사항/말/장식. GRE에서 글쓰기 비평 맥락으로 자주 나와 — '군더더기가 많다'는 비판. 반의어: `essential`, `indispensable`."
     ]
   },
   {
@@ -1695,34 +861,13 @@
       "(구식인 것을) 밀어내다, 폐기하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "replace",
-        "note": "re-(다시) + place(자리) → 자리를 다시 채우다 = 대체하다"
-      },
-      {
-        "word": "supplant",
-        "note": "sub + plant(발바닥) → 발밑에서 걸어 넘어뜨리고 대신하다. supersede보다 공격적"
-      },
-      {
-        "word": "succeed",
-        "note": "suc-(뒤에서) + ceed(가다) → 뒤를 잇다"
-      },
-      {
-        "word": "displace",
-        "note": "dis-(떼어내) + place → 자리에서 밀어내다"
-      },
-      {
-        "word": "oust",
-        "note": "쫓아내다 → 기존 것을 밀어내고 대체"
-      },
-      {
-        "word": "overthrow",
-        "note": "뒤집어엎다 → 강제로 대체하는 극단적 형태"
-      },
-      {
-        "word": "unseat",
-        "note": "자리에서 끌어내리다 → 기존 자리를 빼앗다"
-      }
+      {"word": "replace", "note": "대체하다"},
+      {"word": "supplant", "note": "밀어내고 대신하다. supersede보다 공격적"},
+      {"word": "succeed", "note": "뒤를 잇다"},
+      {"word": "displace", "note": "자리에서 밀어내다"},
+      {"word": "oust", "note": "쫓아내고 대체하다"},
+      {"word": "overthrow", "note": "뒤집어엎다 → 강제 대체"},
+      {"word": "unseat", "note": "자리에서 끌어내리다"}
     ],
     "tips": [
       "어원: `super-`(위에) + `sede`(앉다, sit) → 위에 앉다 = 자리를 차지하며 기존 것을 밀어내다. 철자 주의! super**sede** (supercede ❌).",
@@ -1738,30 +883,12 @@
       "(비유) 게으른, 나태한, 무기력한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "lying on back",
-        "note": "등을 대고 누운 → supine의 물리적 자세 그대로"
-      },
-      {
-        "word": "inert",
-        "note": "in-(안) + ert(움직이다) → 움직이지 않는 = 비활동적인"
-      },
-      {
-        "word": "passive",
-        "note": "수동적인 → 능동적으로 움직이지 않는"
-      },
-      {
-        "word": "inactive",
-        "note": "활동하지 않는 → 누워서 아무것도 안 하는"
-      },
-      {
-        "word": "indolent",
-        "note": "in-(부정) + dolent(아프다) → 아프지도 않으면서 안 움직이는 = 게으른"
-      },
-      {
-        "word": "lazy",
-        "note": "게으른 → supine의 비유적 뜻의 일상적 표현"
-      }
+      {"word": "lying on back", "note": "등을 대고 누운 자세 그대로"},
+      {"word": "inert", "note": "움직이지 않는, 비활동적인"},
+      {"word": "passive", "note": "수동적인"},
+      {"word": "inactive", "note": "활동하지 않는"},
+      {"word": "indolent", "note": "게으른, 나태한"},
+      {"word": "lazy", "note": "게으른"}
     ],
     "tips": [
       "핵심 이미지: 등을 대고 하늘 보며 드러누운 자세 → 아무것도 안 하고 늘어져 있는 = 나태한. 반대자세 `prone` = 엎드려 누운. 이 둘 GRE에서 세트로 나와!",
@@ -1777,18 +904,9 @@
       "(책략으로) 지위를 빼앗다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "displace",
-        "note": "자리에서 밀어내다 → supplant의 핵심: 기존 것을 밀어내고 대체"
-      },
-      {
-        "word": "succeed",
-        "note": "뒤를 잇다 → 이전 것을 대신하여 자리 차지"
-      },
-      {
-        "word": "supersede",
-        "note": "super(위에) + sede(앉다) → 위에 앉아 대체. supplant보다 자연스러운 교체"
-      }
+      {"word": "displace", "note": "자리에서 밀어내다"},
+      {"word": "succeed", "note": "뒤를 잇다"},
+      {"word": "supersede", "note": "대체하다. supplant보다 자연스러운 교체"}
     ],
     "tips": [
       "어원: `sup-`(아래에서) + `plant-`(발바닥, 발로 밟다) → 발 아래에서 걸어 넘어뜨리고 자리를 차지하다. 비열하게 남을 밀어내는 느낌이 있어!",
@@ -1805,30 +923,15 @@
       "v.) 유연하게 만들다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "plastic",
-        "note": "형태가 변하는 → 쉽게 구부러지는 유연함"
-      },
-      {
-        "word": "tractable",
-        "note": "tract-(끌다) → 끌려가는 대로 따르는 = 다루기 쉬운"
-      },
-      {
-        "word": "lissome",
-        "note": "날씬하고 유연한 → 몸이 잘 구부러지는"
-      },
-      {
-        "word": "elastic",
-        "note": "탄성 있는 → 늘어났다 돌아오는 유연함"
-      },
-      {
-        "word": "amenable",
-        "note": "순응하는 → supple의 비유적 뜻 '유순한'과 연결"
-      }
+      {"word": "plastic", "note": "형태가 변하는, 잘 구부러지는"},
+      {"word": "tractable", "note": "다루기 쉬운"},
+      {"word": "lissome", "note": "날씬하고 유연한"},
+      {"word": "elastic", "note": "탄성 있는"},
+      {"word": "amenable", "note": "순응하는 → 비유적 뜻 '유순한'과 연결"}
     ],
     "tips": [
-      "연상: '서플(supple)하다' → 요가 하는 사람처럼 몸이 유연한! `supply`(공급)와 헷갈리지 마. `lissome`, `lithe`와 유의어.",
-      "GRE 포인트: 물리적 유연함(supple leather/body)뿐 아니라 정신적 유연함(supple mind = 유연한 사고)도 중요해. `flexible`의 고급 동의어로 써."
+      "연상: 요가 하는 사람처럼 몸이 유연한! `supply`(공급)와 헷갈리지 마. 가죽이나 나뭇가지가 부드럽게 잘 구부러지는 이미지야.",
+      "GRE 포인트: 물리적 유연함(`supple leather/body`)뿐 아니라 정신적 유연함(`supple mind` = 유연한 사고, `supple prose` = 유려한 문장)도 중요해."
     ]
   },
   {
@@ -1840,34 +943,13 @@
       "n.) 보충(물), 추가분, 부록, 보유(補遺)"
     ],
     "synonyms_from_image": [
-      {
-        "word": "addition",
-        "note": "추가 → supplement의 가장 기본적 뜻"
-      },
-      {
-        "word": "add-on",
-        "note": "덧붙여진 것 → 기본에 추가된 보충물"
-      },
-      {
-        "word": "adjunct",
-        "note": "ad-(~에) + junct(잇다) → 덧붙인 것 = 부가물"
-      },
-      {
-        "word": "appendage",
-        "note": "append(덧붙이다)에서 파생 → 딸려 있는 부속물"
-      },
-      {
-        "word": "appendix",
-        "note": "append + -ix → 본문 뒤에 덧붙인 부록"
-      },
-      {
-        "word": "addendum",
-        "note": "add + -endum → 추가해야 할 것 = 부록, 추록"
-      },
-      {
-        "word": "codicil",
-        "note": "유언장의 추가 조항 → 기존 문서에 보충하는 법률 용어"
-      }
+      {"word": "addition", "note": "추가"},
+      {"word": "add-on", "note": "덧붙여진 것"},
+      {"word": "adjunct", "note": "부가물, 덧붙인 것"},
+      {"word": "appendage", "note": "딸려 있는 부속물"},
+      {"word": "appendix", "note": "본문 뒤에 덧붙인 부록"},
+      {"word": "addendum", "note": "추록, 추가 사항"},
+      {"word": "codicil", "note": "유언장의 추가 조항 (법률 용어)"}
     ],
     "tips": [
       "어원: `sup-`(아래에서) + `ple-`(채우다, full과 관련) → 부족한 부분을 아래에서 채워 넣다. `complement`(보완하다)와 비교: `supplement`는 '모자란 것 추가', `complement`는 '서로 완성'.",
@@ -1883,30 +965,12 @@
       "n.) 탄원자, 애원하는 사람"
     ],
     "synonyms_from_image": [
-      {
-        "word": "pleading",
-        "note": "간청하는 → 절박하게 부탁하는"
-      },
-      {
-        "word": "begging",
-        "note": "구걸하는 → 무릎 꿇고 비는 느낌"
-      },
-      {
-        "word": "imploring",
-        "note": "im-(안으로) + plor-(울다) → 눈물로 호소하는"
-      },
-      {
-        "word": "entreating",
-        "note": "en-(안으로) + treat(다루다) → 간곡히 부탁하는"
-      },
-      {
-        "word": "supplicating",
-        "note": "supplicate(간청하다)에서 파생 → suppliant와 같은 뿌리!"
-      },
-      {
-        "word": "petitionary",
-        "note": "petition(청원)에서 파생 → 공식적으로 탄원하는"
-      }
+      {"word": "pleading", "note": "간청하는"},
+      {"word": "begging", "note": "구걸하는"},
+      {"word": "imploring", "note": "눈물로 호소하는"},
+      {"word": "entreating", "note": "간곡히 부탁하는"},
+      {"word": "supplicating", "note": "간청하는 → suppliant와 같은 뿌리"},
+      {"word": "petitionary", "note": "공식적으로 탄원하는"}
     ],
     "tips": [
       "어원: `suppl-`(무릎 꿇다, `sup-` 아래 + `plic-` 접다) → 무릎을 접고(꿇고) 간청하는. `supplicate`(간청하다)와 같은 뿌리야.",
@@ -1921,34 +985,13 @@
       "간청하다, 애원하다, 탄원하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "appeal",
-        "note": "호소하다 → 도움·동정을 구하는 간청"
-      },
-      {
-        "word": "beseech",
-        "note": "be-(강조) + seech(찾다) → 간절히 찾아 구하다 = 애원하다"
-      },
-      {
-        "word": "beg",
-        "note": "구걸하다 → 가장 기본적인 간청 표현"
-      },
-      {
-        "word": "crave",
-        "note": "갈망하다 → 절박하게 원하다"
-      },
-      {
-        "word": "implore",
-        "note": "im-(안으로) + plor-(울다) → 눈물로 빌다"
-      },
-      {
-        "word": "solicit",
-        "note": "sol-(전체) + cit-(움직이다) → 온 힘을 다해 요청하다"
-      },
-      {
-        "word": "panhandle",
-        "note": "구걸하다 → 길거리에서 비는 행위 (비격식)"
-      }
+      {"word": "appeal", "note": "호소하다"},
+      {"word": "beseech", "note": "간절히 애원하다"},
+      {"word": "beg", "note": "구걸하다"},
+      {"word": "crave", "note": "갈망하다, 절박하게 원하다"},
+      {"word": "implore", "note": "눈물로 빌다"},
+      {"word": "solicit", "note": "간청하다, 요청하다"},
+      {"word": "panhandle", "note": "구걸하다 (비격식)"}
     ],
     "tips": [
       "어원: `suppl-`(무릎 접다) + `-icate` → 무릎 꿇고 빌다. `beg`보다 훨씬 격식 있고 절박한 느낌. 종교적 기도(prayer)의 뉘앙스도 있어.",
@@ -1963,26 +1006,11 @@
       "가정, 가설, 추측, 억측"
     ],
     "synonyms_from_image": [
-      {
-        "word": "guess",
-        "note": "추측 → 확실한 근거 없는 짐작"
-      },
-      {
-        "word": "presumption",
-        "note": "pre-(미리) + sume(취하다) → 미리 그렇다고 받아들인 가정"
-      },
-      {
-        "word": "idea",
-        "note": "생각 → 검증 안 된 착상"
-      },
-      {
-        "word": "speculation",
-        "note": "spec-(보다) → 관찰만으로 짐작한 추측"
-      },
-      {
-        "word": "assumption",
-        "note": "as-(~쪽으로) + sume(취하다) → 당연시하고 받아들인 전제"
-      }
+      {"word": "guess", "note": "추측"},
+      {"word": "presumption", "note": "미리 받아들인 가정"},
+      {"word": "idea", "note": "생각, 검증 안 된 착상"},
+      {"word": "speculation", "note": "관찰에 기반한 추측"},
+      {"word": "assumption", "note": "당연시하고 받아들인 전제"}
     ],
     "tips": [
       "어원: `sup-`(아래) + `pos-`(놓다, position) → 아래에 깔아놓은 것 = 전제, 가정. `suppose`(가정하다)의 명사형이야.",
@@ -1998,34 +1026,16 @@
       "가짜의, 위조된"
     ],
     "synonyms_from_image": [
-      {
-        "word": "unreal",
-        "note": "비현실적인 → 실체가 없는 가정"
-      },
-      {
-        "word": "dubious",
-        "note": "의심스러운 → 진위가 불확실한"
-      },
-      {
-        "word": "doubtful",
-        "note": "의심스러운 → 확실하지 않은"
-      },
-      {
-        "word": "fantastic",
-        "note": "환상적인 → 현실이 아닌 상상의 (원래 뜻)"
-      },
-      {
-        "word": "chimerical",
-        "note": "chimera(키메라, 환상)에서 파생 → 허황된, 비현실적인"
-      },
-      {
-        "word": "spurious",
-        "note": "spur-(가짜) → 가짜의, 위조된. supposititious의 핵심 동의어"
-      }
+      {"word": "unreal", "note": "비현실적인"},
+      {"word": "dubious", "note": "의심스러운"},
+      {"word": "doubtful", "note": "확실하지 않은"},
+      {"word": "fantastic", "note": "현실이 아닌 상상의 (원래 뜻)"},
+      {"word": "chimerical", "note": "허황된, 비현실적인"},
+      {"word": "spurious", "note": "가짜의, 위조된 → 핵심 동의어"}
     ],
     "tips": [
-      "`supposition`(가정)에서 파생. '가정에 불과한' → '실체가 없는' → '가짜의'. `spurious`(가짜의)와 유의어야.",
-      "주의: `suppositious`와 `supposititious`는 거의 같은 뜻이야. 둘 다 '진짜가 아닌, 추정에 불과한'이라는 뜻. GRE 고급 어휘로 드물게 등장해."
+      "`supposition`(가정)에서 파생. '가정에 불과한' → '실체가 없는' → '가짜의'로 의미가 확장된 단어야.",
+      "주의: `suppositious`와 `supposititious`는 거의 같은 뜻이야. 둘 다 '진짜가 아닌, 추정에 불과한'이라는 뜻. GRE 고급 어휘로 드물게 등장하지만 나오면 당황하지 마."
     ]
   },
   {
@@ -2051,42 +1061,18 @@
       "n.) 과다, 과잉, 과식"
     ],
     "synonyms_from_image": [
-      {
-        "word": "plethora",
-        "note": "pleth-(가득 찬) → 과잉, 다수. surfeit과 같은 '너무 많은' 뜻"
-      },
-      {
-        "word": "glut",
-        "note": "목구멍까지 차도록 → 과잉 공급, 넘침"
-      },
-      {
-        "word": "gorge",
-        "note": "목구멍(gorge)까지 채우다 → 과식하다"
-      },
-      {
-        "word": "excess",
-        "note": "과잉 → surfeit의 명사적 핵심 의미"
-      },
-      {
-        "word": "fill",
-        "note": "채우다 → 가득 채워서 넘치게 하다"
-      },
-      {
-        "word": "stuff",
-        "note": "꽉 채우다 → 배가 터질 만큼 먹이다"
-      },
-      {
-        "word": "satiate",
-        "note": "sat-(충분한) → 충분히 채워 더 이상 원치 않게 하다 = 물리게 하다"
-      },
-      {
-        "word": "overindulge",
-        "note": "over + indulge(탐닉) → 과도하게 탐닉하다"
-      }
+      {"word": "plethora", "note": "과잉, 다수"},
+      {"word": "glut", "note": "과잉 공급, 넘침"},
+      {"word": "gorge", "note": "과식하다"},
+      {"word": "excess", "note": "과잉"},
+      {"word": "fill", "note": "가득 채우다"},
+      {"word": "stuff", "note": "꽉 채우다"},
+      {"word": "satiate", "note": "충분히 채워 물리게 하다"},
+      {"word": "overindulge", "note": "과도하게 탐닉하다"}
     ],
     "tips": [
-      "어원: 프랑스어 `surfait` = 과도하게 한(`sur-` 위/넘어 + `fait` 하다). 뷔페에서 너무 많이 먹어서 물린 상태를 떠올려!",
-      "콜로케이션: `a surfeit of information/choices` = 과잉 정보/선택지. `surfeited with luxury` = 사치에 물린. `plethora`, `glut`과 유의어. 반의어: `dearth`(부족)."
+      "어원: 프랑스어 `surfait` = 과도하게 한 (`sur-`(위/넘어) + `fait`(하다)). 뷔페에서 너무 많이 먹어서 물린 상태를 떠올려!",
+      "콜로케이션: `a surfeit of information/choices` = 과잉 정보/선택지. `surfeited with luxury` = 사치에 물린. '너무 많아서 오히려 역효과'가 핵심 뉘앙스. 반의어: `dearth`(부족)."
     ]
   },
   {
@@ -2098,62 +1084,20 @@
       "n.) 급등, 급증, 파도"
     ],
     "synonyms_from_image": [
-      {
-        "word": "gush",
-        "note": "콸콸 쏟아지다 → 갑자기 세차게 나오는"
-      },
-      {
-        "word": "rush",
-        "note": "돌진하다 → 갑자기 빠르게 밀려오는"
-      },
-      {
-        "word": "outpouring",
-        "note": "쏟아져 나옴 → 감정이나 양이 한꺼번에 나오는"
-      },
-      {
-        "word": "increase",
-        "note": "증가 → surge의 '급증' 의미"
-      },
-      {
-        "word": "rise",
-        "note": "상승 → 수치·수위가 올라가는"
-      },
-      {
-        "word": "grow",
-        "note": "성장하다 → 양이 커지는"
-      },
-      {
-        "word": "leap",
-        "note": "도약 → 갑작스러운 급증"
-      },
-      {
-        "word": "torrent",
-        "note": "급류 → 물이 세차게 밀려오는 이미지"
-      },
-      {
-        "word": "blaze",
-        "note": "불길 → 갑자기 활활 타오르듯 급증"
-      },
-      {
-        "word": "outburst",
-        "note": "분출 → 억눌렸던 것이 갑자기 터져나오는"
-      },
-      {
-        "word": "eruption",
-        "note": "e-(밖으로) + rupt(터지다) → 화산처럼 분출"
-      },
-      {
-        "word": "swell",
-        "note": "부풀다 → 파도처럼 점점 커지는"
-      },
-      {
-        "word": "heaving",
-        "note": "들썩임 → 바다가 출렁이는 큰 움직임"
-      },
-      {
-        "word": "tide",
-        "note": "조류 → 바다가 밀려오는 큰 흐름"
-      }
+      {"word": "gush", "note": "콸콸 쏟아지다"},
+      {"word": "rush", "note": "돌진하다, 갑자기 밀려오다"},
+      {"word": "outpouring", "note": "쏟아져 나옴"},
+      {"word": "increase", "note": "증가"},
+      {"word": "rise", "note": "상승"},
+      {"word": "grow", "note": "성장하다"},
+      {"word": "leap", "note": "도약, 갑작스러운 급증"},
+      {"word": "torrent", "note": "급류"},
+      {"word": "blaze", "note": "불길처럼 급증"},
+      {"word": "outburst", "note": "분출"},
+      {"word": "eruption", "note": "화산처럼 분출"},
+      {"word": "swell", "note": "부풀다, 점점 커지다"},
+      {"word": "heaving", "note": "들썩임, 출렁임"},
+      {"word": "tide", "note": "조류, 큰 흐름"}
     ],
     "tips": [
       "이미지: 바다 파도가 '쏴~'하고 밀려오는 느낌! 물리적 파도에서 비유적 급증까지 확장돼. 'surge'라는 발음 자체가 파도 소리 같아.",
@@ -2169,98 +1113,32 @@
       "(날씨 등이) 음산한, 험악한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "sullen",
-        "note": "시무룩한 → surly보다 수동적. 말을 안 하는 것에 초점"
-      },
-      {
-        "word": "sulky",
-        "note": "삐진 → surly보다 가벼운. 토라진 느낌"
-      },
-      {
-        "word": "dour",
-        "note": "무뚝뚝하고 엄격한 → 밝은 기색이 없는"
-      },
-      {
-        "word": "glum",
-        "note": "침울한 → 기운 없이 우울한 표정"
-      },
-      {
-        "word": "gruff",
-        "note": "목소리가 거칠고 퉁명스러운 → surly의 소리 버전"
-      },
-      {
-        "word": "brusque",
-        "note": "무뚝뚝한 → 거칠게 짧게 대답하는"
-      },
-      {
-        "word": "rude",
-        "note": "무례한 → surly한 태도의 결과"
-      },
-      {
-        "word": "impolite",
-        "note": "예의 없는 → surly의 일상적 표현"
-      },
-      {
-        "word": "moody",
-        "note": "기분파인 → 기분 따라 surly해지는"
-      },
-      {
-        "word": "unpleasant",
-        "note": "불쾌한 → surly한 사람과의 상호작용 결과"
-      },
-      {
-        "word": "unsmiling",
-        "note": "웃지 않는 → surly의 외양적 특징"
-      },
-      {
-        "word": "bad-tempered",
-        "note": "성질 나쁜 → surly의 내면 상태"
-      },
-      {
-        "word": "grumpy",
-        "note": "심술궂은 → surly의 일상적 동의어"
-      },
-      {
-        "word": "crotchety",
-        "note": "까다롭고 짜증내는 → 노인의 surly한 성격"
-      },
-      {
-        "word": "cantankerous",
-        "note": "심술맞고 다투기 좋아하는 → surly + 시비 거는 느낌"
-      },
-      {
-        "word": "irascible",
-        "note": "ira-(화) → 쉽게 화내는 성미"
-      },
-      {
-        "word": "testy",
-        "note": "짜증 잘 내는 → 사소한 것에 짜증"
-      },
-      {
-        "word": "short-tempered",
-        "note": "성질이 급한 → 참을성 없이 화내는"
-      },
-      {
-        "word": "curt",
-        "note": "퉁명스러운 → 짧고 무례하게 말하는"
-      },
-      {
-        "word": "churlish",
-        "note": "churl(시골뜨기)에서 파생 → 버릇없고 무례한"
-      },
-      {
-        "word": "crabby",
-        "note": "crab(게)처럼 옆으로 찌르는 → 심술궂은"
-      },
-      {
-        "word": "uncivil",
-        "note": "무례한 → surly의 사회적 결과"
-      }
+      {"word": "sullen", "note": "시무룩한 → surly보다 수동적"},
+      {"word": "sulky", "note": "삐진 → surly보다 가벼운"},
+      {"word": "dour", "note": "무뚝뚝하고 엄격한"},
+      {"word": "glum", "note": "침울한"},
+      {"word": "gruff", "note": "목소리가 거칠고 퉁명스러운"},
+      {"word": "brusque", "note": "무뚝뚝한, 거칠게 짧게 대답하는"},
+      {"word": "rude", "note": "무례한"},
+      {"word": "impolite", "note": "예의 없는"},
+      {"word": "moody", "note": "기분파인"},
+      {"word": "unpleasant", "note": "불쾌한"},
+      {"word": "unsmiling", "note": "웃지 않는"},
+      {"word": "bad-tempered", "note": "성질 나쁜"},
+      {"word": "grumpy", "note": "심술궂은"},
+      {"word": "crotchety", "note": "까다롭고 짜증내는"},
+      {"word": "cantankerous", "note": "심술맞고 다투기 좋아하는"},
+      {"word": "irascible", "note": "쉽게 화내는"},
+      {"word": "testy", "note": "짜증 잘 내는"},
+      {"word": "short-tempered", "note": "참을성 없이 화내는"},
+      {"word": "curt", "note": "퉁명스러운, 짧고 무례한"},
+      {"word": "churlish", "note": "버릇없고 무례한"},
+      {"word": "crabby", "note": "심술궂은"},
+      {"word": "uncivil", "note": "무례한"}
     ],
     "tips": [
       "어원: 원래 `sirly` = `sir`처럼 거만한 → 시간이 지나면서 '무뚝뚝하고 불친절한'으로 변했어. 식당에서 주문받기 싫은 듯 퉁명스러운 직원 느낌.",
-      "뉘앙스: `sullen`(시무룩, 말 안 함) vs `surly`(무뚝뚝 + 적극적으로 불친절). `surly`가 더 공격적이야. `churlish`(버릇없는)와 비슷한 레벨."
+      "뉘앙스: `sullen`(시무룩, 침묵 저항)은 수동적인데 `surly`는 능동적으로 불친절해. '말 안 하는' vs '퉁명스럽게 대답하는'의 차이야."
     ]
   },
   {
@@ -2272,30 +1150,12 @@
       "n.) 추측, 억측"
     ],
     "synonyms_from_image": [
-      {
-        "word": "suspect",
-        "note": "sus-(아래서) + pect(보다) → 밑에서 올려다보며 의심 = 짐작하다"
-      },
-      {
-        "word": "infer",
-        "note": "in-(안으로) + fer(가져오다) → 단서에서 결론을 끌어내다 = 추론하다"
-      },
-      {
-        "word": "presume",
-        "note": "pre-(미리) + sume(취하다) → 미리 그렇다고 보다 = 추정하다"
-      },
-      {
-        "word": "assume",
-        "note": "as-(~쪽으로) + sume(취하다) → 그렇다고 받아들이다 = 가정하다"
-      },
-      {
-        "word": "suppose",
-        "note": "sup-(아래) + pose(놓다) → 아래에 깔아놓다 = 가정하다"
-      },
-      {
-        "word": "imagine",
-        "note": "상상하다 → 근거 없이 그릴 수도 있는 추측"
-      }
+      {"word": "suspect", "note": "짐작하다"},
+      {"word": "infer", "note": "추론하다"},
+      {"word": "presume", "note": "추정하다"},
+      {"word": "assume", "note": "가정하다"},
+      {"word": "suppose", "note": "가정하다"},
+      {"word": "imagine", "note": "상상하다"}
     ],
     "tips": [
       "어원: 프랑스어 `surmise` = 고발하다 → 영어에서 '근거 없이 짐작하다'로 변화. `sur-`(위에) + `mise`(놓다) → 증거 위에 올려놓다(추측하다).",
@@ -2312,26 +1172,11 @@
       "~의 위에 놓이다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "conquer",
-        "note": "정복하다 → 어려움을 이겨내다"
-      },
-      {
-        "word": "defeat",
-        "note": "물리치다 → 장애물을 꺾다"
-      },
-      {
-        "word": "get over",
-        "note": "넘어가다 → 장애물을 넘다 = 극복하다"
-      },
-      {
-        "word": "climb",
-        "note": "오르다 → surmount의 물리적 뜻 '산에 오르다'"
-      },
-      {
-        "word": "top",
-        "note": "꼭대기에 오르다 → 정상을 넘다"
-      }
+      {"word": "conquer", "note": "정복하다, 이겨내다"},
+      {"word": "defeat", "note": "물리치다"},
+      {"word": "get over", "note": "넘다, 극복하다"},
+      {"word": "climb", "note": "오르다"},
+      {"word": "top", "note": "꼭대기에 오르다"}
     ],
     "tips": [
       "어원: `sur-`(위로) + `mount`(오르다, mountain) → 위로 올라가다 = 장애물을 넘다 = 극복하다. 산을 타고 정상에 오르는 이미지!",
@@ -2346,30 +1191,15 @@
       "능가하다, 넘다, ~보다 뛰어나다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "go beyond",
-        "note": "넘어가다 → surpass의 직접적 풀이"
-      },
-      {
-        "word": "outdo",
-        "note": "out + do → 더 잘하다 = 능가하다"
-      },
-      {
-        "word": "excel",
-        "note": "ex-(밖으로) + cel(높이) → 남보다 높이 솟다 = 뛰어나다"
-      },
-      {
-        "word": "be superior to",
-        "note": "~보다 우수한 → surpass의 결과 상태"
-      },
-      {
-        "word": "outshine",
-        "note": "out + shine → 더 밝게 빛나다 = 빛을 가리다"
-      }
+      {"word": "go beyond", "note": "넘어가다"},
+      {"word": "outdo", "note": "더 잘하다 = 능가하다"},
+      {"word": "excel", "note": "뛰어나다"},
+      {"word": "be superior to", "note": "~보다 우수한"},
+      {"word": "outshine", "note": "빛을 가리다 = 능가하다"}
     ],
     "tips": [
       "어원: `sur-`(위로, 넘어) + `pass`(지나가다) → 지나쳐서 넘어가다 = 능가하다. 직관적인 어원이야!",
-      "콜로케이션: `surpass expectations/records/limits` = 기대/기록/한계를 넘다. `surpassing beauty` = 빼어난 아름다움. `outstrip`, `outdo`, `eclipse`와 유의어."
+      "콜로케이션: `surpass expectations/records/limits` = 기대/기록/한계를 넘다. `surpassing beauty` = 빼어난 아름다움 (형용사로도 써). GRE에서 '초월적으로 뛰어난' 맥락으로 등장."
     ]
   },
   {
@@ -2382,62 +1212,20 @@
       "n.) 항복, 양도, 포기"
     ],
     "synonyms_from_image": [
-      {
-        "word": "capitulate",
-        "note": "capit-(머리) → 머리를 숙이다 = 항복하다. 조건부 항복 뉘앙스"
-      },
-      {
-        "word": "yield",
-        "note": "양보하다, 굽히다 → 저항을 멈추는 것"
-      },
-      {
-        "word": "concede",
-        "note": "con-(완전히) + cede(양보하다) → 인정하고 양보하다"
-      },
-      {
-        "word": "give up",
-        "note": "포기하다 → surrender의 일상적 표현"
-      },
-      {
-        "word": "relinquish",
-        "note": "re + linqu-(떠나다) → 권리·소유를 놓아주다"
-      },
-      {
-        "word": "renounce",
-        "note": "re-(다시) + nounce(알리다) → 공식적으로 포기를 선언하다"
-      },
-      {
-        "word": "forgo",
-        "note": "앞을 지나치다 → 자발적으로 포기하다"
-      },
-      {
-        "word": "forswear",
-        "note": "for-(완전히) + swear(맹세) → 맹세하며 포기하다"
-      },
-      {
-        "word": "cede",
-        "note": "양도하다 → 영토·권리를 넘겨주다"
-      },
-      {
-        "word": "abdicate",
-        "note": "ab-(떠나) + dic-(선언) → 왕위를 포기 선언하다"
-      },
-      {
-        "word": "waive",
-        "note": "권리를 자발적으로 포기하다"
-      },
-      {
-        "word": "forfeit",
-        "note": "for-(밖으로) + feit(하다) → 벌로 잃다 = 몰수당하다"
-      },
-      {
-        "word": "hand over",
-        "note": "건네주다 → 물리적으로 넘겨주는 행위"
-      },
-      {
-        "word": "abandon",
-        "note": "버리다 → 완전히 포기하고 떠나다"
-      }
+      {"word": "capitulate", "note": "항복하다. 조건부 항복 뉘앙스"},
+      {"word": "yield", "note": "양보하다, 굽히다"},
+      {"word": "concede", "note": "인정하고 양보하다"},
+      {"word": "give up", "note": "포기하다"},
+      {"word": "relinquish", "note": "권리·소유를 놓아주다"},
+      {"word": "renounce", "note": "공식적으로 포기를 선언하다"},
+      {"word": "forgo", "note": "자발적으로 포기하다"},
+      {"word": "forswear", "note": "맹세하며 포기하다"},
+      {"word": "cede", "note": "양도하다 → 영토·권리를 넘겨주다"},
+      {"word": "abdicate", "note": "왕위를 포기하다"},
+      {"word": "waive", "note": "권리를 자발적으로 포기하다"},
+      {"word": "forfeit", "note": "벌로 잃다, 몰수당하다"},
+      {"word": "hand over", "note": "건네주다"},
+      {"word": "abandon", "note": "버리다, 완전히 포기하다"}
     ],
     "tips": [
       "어원: 프랑스어 `surrendre` = `sur-`(위에) + `rendre`(돌려주다) → 위에 있는 사람에게 돌려주다 = 항복, 양도.",
@@ -2453,58 +1241,22 @@
       "부정의, 무허가의"
     ],
     "synonyms_from_image": [
-      {
-        "word": "secret",
-        "note": "비밀의 → surreptitious의 가장 기본적 의미"
-      },
-      {
-        "word": "stealthy",
-        "note": "steal(훔치다)에서 파생 → 도둑처럼 살금살금"
-      },
-      {
-        "word": "sly",
-        "note": "교활하게 몰래 하는 → 남을 속이며 은밀한"
-      },
-      {
-        "word": "undercover",
-        "note": "가장한 → 정체를 숨기고 활동하는"
-      },
-      {
-        "word": "furtive",
-        "note": "furt-(훔치다) → 들킬까 봐 눈치 보며 하는"
-      },
-      {
-        "word": "clandestine",
-        "note": "clam(몰래)에서 파생 → 조직적으로 비밀리에 하는"
-      },
-      {
-        "word": "covert",
-        "note": "co-(완전히) + vert(덮다) → 덮어 숨긴 = 은밀한"
-      },
-      {
-        "word": "sneaky",
-        "note": "sneak(몰래 움직이다)에서 파생 → 교활하게 몰래"
-      },
-      {
-        "word": "concealed",
-        "note": "숨겨진 → 보이지 않게 감춘"
-      },
-      {
-        "word": "hidden",
-        "note": "숨겨진 → concealed와 같은 뜻"
-      },
-      {
-        "word": "veiled",
-        "note": "베일로 가린 → 비유적으로 숨겨진"
-      },
-      {
-        "word": "cloaked",
-        "note": "망토로 덮은 → 겉으로 감춘"
-      }
+      {"word": "secret", "note": "비밀의"},
+      {"word": "stealthy", "note": "도둑처럼 살금살금"},
+      {"word": "sly", "note": "교활하게 몰래 하는"},
+      {"word": "undercover", "note": "정체를 숨기고 활동하는"},
+      {"word": "furtive", "note": "들킬까 봐 눈치 보며 하는"},
+      {"word": "clandestine", "note": "조직적으로 비밀리에 하는"},
+      {"word": "covert", "note": "은밀한, 숨겨진"},
+      {"word": "sneaky", "note": "교활하게 몰래"},
+      {"word": "concealed", "note": "숨겨진"},
+      {"word": "hidden", "note": "숨겨진"},
+      {"word": "veiled", "note": "베일로 가린 듯 숨겨진"},
+      {"word": "cloaked", "note": "망토로 덮은 듯 감춘"}
     ],
     "tips": [
-      "어원: `sub-`(아래에서) + `rept-`(기어가다, reptile과 같은 뿌리!) → 아래에서 기어가듯 몰래 하는. 파충류(reptile)처럼 슬금슬금!",
-      "뉘앙스: `secret`(단순히 비밀인) < `surreptitious`(의도적으로 남몰래 하는) ≈ `furtive`(들킬까 봐 조심하는) ≈ `clandestine`(조직적으로 은밀한). GRE 빈출 단어!"
+      "어원: `sub-`(아래에서) + `rept-`(기어가다, `reptile`과 같은 뿌리!) → 아래에서 기어가듯 몰래 하는. 파충류처럼 슬금슬금 움직이는 이미지!",
+      "뉘앙스: 단순히 비밀인 게 아니라 '들키면 안 되는 행동을 의도적으로 숨기는' 느낌이 핵심이야. `a surreptitious glance` = 몰래 훔쳐보는 시선. GRE 빈출 단어!"
     ]
   },
   {
@@ -2516,30 +1268,12 @@
       "adj.) 대리의"
     ],
     "synonyms_from_image": [
-      {
-        "word": "deputy",
-        "note": "deput-(맡기다) → 권한을 위임받은 대리인"
-      },
-      {
-        "word": "alternate",
-        "note": "번갈아 하는 → 대신하는 사람/것"
-      },
-      {
-        "word": "makeshift",
-        "note": "임시변통의 → 급할 때 대신 쓰는 것"
-      },
-      {
-        "word": "replacement",
-        "note": "대체물 → 원래 것 대신 들어간 것"
-      },
-      {
-        "word": "stopgap",
-        "note": "stop + gap → 빈틈을 잠시 메우는 임시 대체물"
-      },
-      {
-        "word": "standby",
-        "note": "대기 중인 → 필요할 때 대신 투입되는"
-      }
+      {"word": "deputy", "note": "대리인"},
+      {"word": "alternate", "note": "대신하는 사람/것"},
+      {"word": "makeshift", "note": "임시변통의"},
+      {"word": "replacement", "note": "대체물"},
+      {"word": "stopgap", "note": "빈틈을 잠시 메우는 임시 대체물"},
+      {"word": "standby", "note": "대기 중인, 필요할 때 대신 투입되는"}
     ],
     "tips": [
       "어원: 라틴어 `surrogatus` = 대신 선출된 (`sub-` + `rogare` 묻다/요청하다) → 대신할 사람을 요청하다 = 대리인.",
@@ -2554,34 +1288,13 @@
       "감시, 감독, 정찰"
     ],
     "synonyms_from_image": [
-      {
-        "word": "lookout",
-        "note": "망보기 → 위험을 경계하며 지켜보는"
-      },
-      {
-        "word": "scrutiny",
-        "note": "scrut-(면밀히 보다) → 세밀하게 살펴보는 감시"
-      },
-      {
-        "word": "stakeout",
-        "note": "잠복 근무 → 경찰이 숨어서 지켜보는 감시"
-      },
-      {
-        "word": "vigilance",
-        "note": "vigil(깨어 지킴)에서 파생 → 경계하며 감시하는 상태"
-      },
-      {
-        "word": "inspection",
-        "note": "in-(안을) + spect(보다) → 안을 들여다보는 검사"
-      },
-      {
-        "word": "supervision",
-        "note": "super-(위에서) + vis(보다) → 위에서 내려다보며 감독"
-      },
-      {
-        "word": "superintendence",
-        "note": "super + intend(주시하다) → 전체를 관장하며 감독"
-      }
+      {"word": "lookout", "note": "망보기, 경계"},
+      {"word": "scrutiny", "note": "면밀히 살펴보는 감시"},
+      {"word": "stakeout", "note": "잠복 근무"},
+      {"word": "vigilance", "note": "경계하며 감시하는 상태"},
+      {"word": "inspection", "note": "검사, 점검"},
+      {"word": "supervision", "note": "위에서 내려다보며 감독"},
+      {"word": "superintendence", "note": "전체를 관장하며 감독"}
     ],
     "tips": [
       "어원: 프랑스어 `surveiller` = `sur-`(위에서) + `veiller`(지켜보다, vigil과 관련) → 위에서 지켜보다 = 감시. CCTV를 떠올려!",
@@ -2597,90 +1310,30 @@
       "감수성이 강한, 민감한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "liable to",
-        "note": "~하기 쉬운 → 법적 책임/가능성의 뉘앙스도"
-      },
-      {
-        "word": "prone to",
-        "note": "pro-(앞으로) + ne(기울다) → ~쪽으로 기울어진 = ~하기 쉬운"
-      },
-      {
-        "word": "subject to",
-        "note": "~에 종속된 → ~의 영향 아래 있는"
-      },
-      {
-        "word": "inclined to",
-        "note": "~쪽으로 기울어진 → ~하는 경향이 있는"
-      },
-      {
-        "word": "predisposed to",
-        "note": "pre-(미리) + disposed(배치된) → 미리 그쪽으로 기울어진"
-      },
-      {
-        "word": "disposed to",
-        "note": "dis + pose(놓다) → ~쪽으로 배치된 = 경향이 있는"
-      },
-      {
-        "word": "at risk of",
-        "note": "~의 위험에 처한 → susceptible의 부정적 결과"
-      },
-      {
-        "word": "impressionable",
-        "note": "인상(impression)을 잘 받는 → 외부 영향에 쉽게 물드는"
-      },
-      {
-        "word": "credulous",
-        "note": "cred-(믿다) → 쉽게 믿는 = 잘 속는"
-      },
-      {
-        "word": "gullible",
-        "note": "쉽게 속는 → 남의 말에 취약한"
-      },
-      {
-        "word": "innocent",
-        "note": "순진한 → 세상 물정 몰라 취약한"
-      },
-      {
-        "word": "ingenuous",
-        "note": "in-(안) + gen(태어난) → 태어난 그대로 순진한"
-      },
-      {
-        "word": "naive",
-        "note": "순진한 → 경험 부족으로 취약한"
-      },
-      {
-        "word": "defenseless",
-        "note": "방어 불능의 → 영향을 막을 수단이 없는"
-      },
-      {
-        "word": "vulnerable",
-        "note": "vulner-(상처) → 상처받기 쉬운 = 취약한"
-      },
-      {
-        "word": "tractable",
-        "note": "tract-(끌다) → 끌려가는 대로 따르는 = 영향받기 쉬운"
-      },
-      {
-        "word": "sensitive",
-        "note": "민감한 → 자극에 쉽게 반응하는"
-      },
-      {
-        "word": "responsive",
-        "note": "반응하는 → 자극에 쉽게 응하는"
-      },
-      {
-        "word": "open to",
-        "note": "~에 열려 있는 → 영향을 받을 준비가 된"
-      },
-      {
-        "word": "receptive to",
-        "note": "re + cept(받다) → 잘 받아들이는 = 수용적인"
-      }
+      {"word": "liable to", "note": "~하기 쉬운"},
+      {"word": "prone to", "note": "~하기 쉬운, ~쪽으로 기울어진"},
+      {"word": "subject to", "note": "~의 영향 아래 있는"},
+      {"word": "inclined to", "note": "~하는 경향이 있는"},
+      {"word": "predisposed to", "note": "미리 그쪽으로 기울어진"},
+      {"word": "disposed to", "note": "~쪽으로 경향이 있는"},
+      {"word": "at risk of", "note": "~의 위험에 처한"},
+      {"word": "impressionable", "note": "외부 영향에 쉽게 물드는"},
+      {"word": "credulous", "note": "쉽게 믿는, 잘 속는"},
+      {"word": "gullible", "note": "쉽게 속는"},
+      {"word": "innocent", "note": "순진한"},
+      {"word": "ingenuous", "note": "순진한, 꾸밈없는"},
+      {"word": "naive", "note": "순진한"},
+      {"word": "defenseless", "note": "방어 불능의"},
+      {"word": "vulnerable", "note": "취약한, 상처받기 쉬운"},
+      {"word": "tractable", "note": "다루기 쉬운, 영향받기 쉬운"},
+      {"word": "sensitive", "note": "민감한"},
+      {"word": "responsive", "note": "반응하는, 자극에 쉽게 응하는"},
+      {"word": "open to", "note": "~에 열려 있는"},
+      {"word": "receptive to", "note": "잘 받아들이는, 수용적인"}
     ],
     "tips": [
-      "어원: `sus-`(아래에서) + `cept-`(받다, receive와 관련) → 아래에서 받아들이다 = 쉽게 영향을 받다. `receive`, `accept`와 같은 `-cept` 가족이야.",
-      "콜로케이션: `susceptible to disease/influence/flattery` = 질병/영향/아첨에 취약한. `vulnerable`(취약한)과 비슷하지만, `susceptible`은 '받아들이기 쉬운' 내적 특성에 초점."
+      "어원: `sus-`(아래에서) + `cept-`(받다, `receive`와 관련) → 아래에서 받아들이다 = 쉽게 영향을 받다. `receive`, `accept`와 같은 `-cept` 가족이야.",
+      "콜로케이션: `susceptible to disease/influence/flattery` = 질병/영향/아첨에 취약한. '외부 것을 쉽게 받아들이는 내적 특성'이 핵심이야. 면역력이 약한 사람을 떠올려!"
     ]
   },
   {
@@ -2693,54 +1346,18 @@
       "매달다, 걸다, 떠 있게 하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "adjourn",
-        "note": "ad-(~쪽으로) + journ(날) → 다른 날로 미루다 = 회의를 중단/연기"
-      },
-      {
-        "word": "postpone",
-        "note": "post-(뒤로) + pone(놓다) → 뒤로 미루다 = 연기하다"
-      },
-      {
-        "word": "defer",
-        "note": "de-(떨어져) + fer(가져가다) → 멀리 가져가다 = 미루다"
-      },
-      {
-        "word": "exclude",
-        "note": "ex-(밖으로) + clude(닫다) → 문을 닫아 배제 = 정학/정직"
-      },
-      {
-        "word": "debar",
-        "note": "de-(떨어져) + bar(막대) → 막대로 차단 = 출입/활동 금지"
-      },
-      {
-        "word": "remove",
-        "note": "제거하다 → 직위에서 떼어놓다"
-      },
-      {
-        "word": "eliminate",
-        "note": "e-(밖으로) + limin(문턱) → 문 밖으로 내쫓다"
-      },
-      {
-        "word": "expel",
-        "note": "ex-(밖으로) + pel(밀다) → 밀어내다 = 퇴학/추방"
-      },
-      {
-        "word": "eject",
-        "note": "e-(밖으로) + ject(던지다) → 내던지다 = 쫓아내다"
-      },
-      {
-        "word": "hang",
-        "note": "매달다 → suspend의 물리적 뜻"
-      },
-      {
-        "word": "swing",
-        "note": "흔들리다 → 매달린 상태에서 움직이는"
-      },
-      {
-        "word": "dangle",
-        "note": "대롱대롱 매달리다 → 느슨하게 걸린 상태"
-      }
+      {"word": "adjourn", "note": "회의를 중단/연기하다"},
+      {"word": "postpone", "note": "뒤로 미루다, 연기하다"},
+      {"word": "defer", "note": "미루다"},
+      {"word": "exclude", "note": "배제하다 → 정학/정직"},
+      {"word": "debar", "note": "출입/활동을 금지하다"},
+      {"word": "remove", "note": "제거하다, 직위에서 떼어놓다"},
+      {"word": "eliminate", "note": "제거하다"},
+      {"word": "expel", "note": "퇴학/추방하다"},
+      {"word": "eject", "note": "쫓아내다"},
+      {"word": "hang", "note": "매달다"},
+      {"word": "swing", "note": "흔들리다"},
+      {"word": "dangle", "note": "대롱대롱 매달리다"}
     ],
     "tips": [
       "어원: `sus-`(아래에서) + `pend-`(매달다, pendant와 같은 뿌리) → 아래로 매달다 → 1) 공중에 매달린 = 중단된 상태 2) 물리적으로 매달다.",
@@ -2758,34 +1375,13 @@
       "(의견을) 지지하다, 인정하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "undergo",
-        "note": "under + go → 아래를 지나가다 = 겪다, 경험하다"
-      },
-      {
-        "word": "suffer",
-        "note": "suf-(아래) + fer(견디다) → 아래서 견디다 = 고통을 겪다"
-      },
-      {
-        "word": "hold",
-        "note": "잡다 → 유지하다, 지탱하다"
-      },
-      {
-        "word": "bear",
-        "note": "짊어지다 → 무거운 것을 견디다"
-      },
-      {
-        "word": "nurture",
-        "note": "nutr-(영양) → 양분을 주어 키우다 = 유지·성장시키다"
-      },
-      {
-        "word": "back",
-        "note": "뒤를 받쳐주다 → 지지하다"
-      },
-      {
-        "word": "abet",
-        "note": "a-(~쪽으로) + bet(부추기다) → 도와서 지속시키다"
-      }
+      {"word": "undergo", "note": "겪다, 경험하다"},
+      {"word": "suffer", "note": "고통을 겪다"},
+      {"word": "hold", "note": "잡다, 유지하다"},
+      {"word": "bear", "note": "짊어지다, 견디다"},
+      {"word": "nurture", "note": "양분을 주어 키우다"},
+      {"word": "back", "note": "뒤를 받쳐주다, 지지하다"},
+      {"word": "abet", "note": "도와서 지속시키다"}
     ],
     "tips": [
       "어원: `sus-`(아래에서) + `tain-`(잡다, hold) → 아래에서 받쳐 잡다 = 지탱하다. `maintain`(유지), `retain`(보유), `contain`(포함) 모두 `-tain` 가족!",
@@ -2801,26 +1397,11 @@
       "음식, 영양, 생명을 유지하게 하는 것"
     ],
     "synonyms_from_image": [
-      {
-        "word": "support",
-        "note": "지원 → 생명을 떠받치는 것"
-      },
-      {
-        "word": "maintenance",
-        "note": "유지 → 생활을 유지시키는 것"
-      },
-      {
-        "word": "pap",
-        "note": "죽, 이유식 → 가장 기본적인 영양 공급"
-      },
-      {
-        "word": "livelihood",
-        "note": "생계 → 살아가는 데 필요한 수단"
-      },
-      {
-        "word": "nourishment",
-        "note": "nour-(영양) → 영양 공급물. sustenance의 핵심 동의어"
-      }
+      {"word": "support", "note": "지원"},
+      {"word": "maintenance", "note": "유지"},
+      {"word": "pap", "note": "죽, 이유식 → 가장 기본적인 영양 공급"},
+      {"word": "livelihood", "note": "생계"},
+      {"word": "nourishment", "note": "영양 공급물"}
     ],
     "tips": [
       "`sustain`(유지하다)의 명사형. 생명을 유지시켜주는 것 = 음식, 영양, 생계. '서스테인'이 오래 유지되는 느낌이니 '오래 살게 해주는 것'으로 기억해.",
@@ -2836,22 +1417,10 @@
       "v.) (상처를) 꿰매다, 봉합하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "line",
-        "note": "선 → 봉합한 자리의 시각적 형태"
-      },
-      {
-        "word": "seam",
-        "note": "솔기 → 두 부분을 꿰매어 이은 선"
-      },
-      {
-        "word": "stitch",
-        "note": "한 땀 → 바늘로 꿰매는 단위/행위"
-      },
-      {
-        "word": "sewing",
-        "note": "꿰매기 → suture의 일상적 표현"
-      }
+      {"word": "line", "note": "선 → 봉합한 자리의 형태"},
+      {"word": "seam", "note": "솔기, 두 부분을 꿰매어 이은 선"},
+      {"word": "stitch", "note": "한 땀, 꿰매는 단위"},
+      {"word": "sewing", "note": "꿰매기"}
     ],
     "tips": [
       "어원: 라틴어 `sutura` = 꿰맨 것 (`suere` = 꿰매다). 의학 용어로 상처를 바늘로 꿰매는 것. 해부학에서 두개골 봉합선도 `suture`야.",
@@ -2868,53 +1437,20 @@
       "n.) 동요; 영향력, 지배력"
     ],
     "synonyms_from_image": [
-      {
-        "word": "influence",
-        "note": "in-(안으로) + flu(흐르다) → 안으로 흘러들어 작용하다 = 영향주다"
-      },
-      {
-        "word": "affect",
-        "note": "af-(~쪽으로) + fect(하다) → ~에 작용하다 = 영향 미치다"
-      },
-      {
-        "word": "persuade",
-        "note": "per-(완전히) + suade(설득) → 완전히 설득하다. sway의 목적적 형태"
-      },
-      {
-        "word": "swing",
-        "note": "앞뒤로 흔들리다 → sway와 거의 같은 물리적 동작"
-      },
-      {
-        "word": "shake",
-        "note": "흔들다 → 강하게 움직이는 동요"
-      },
-      {
-        "word": "oscillate",
-        "note": "os-(입) → 원래 '입을 벌렸다 닫다' → 왔다 갔다 진동하다"
-      },
-      {
-        "word": "undulate",
-        "note": "und-(파도) → 파도처럼 출렁이다"
-      },
-      {
-        "word": "move back and forth",
-        "note": "앞뒤로 움직이다 → sway의 직접적 풀이"
-      },
-      {
-        "word": "move to and fro",
-        "note": "이리저리 움직이다 → sway의 문학적 풀이"
-      },
-      {
-        "word": "stagger",
-        "note": "비틀거리다 → 균형을 잃고 흔들리는"
-      },
-      {
-        "word": "wobble",
-        "note": "흔들흔들하다 → 불안정하게 흔들리는"
-      }
+      {"word": "influence", "note": "영향을 주다"},
+      {"word": "affect", "note": "영향을 미치다"},
+      {"word": "persuade", "note": "설득하다"},
+      {"word": "swing", "note": "앞뒤로 흔들리다"},
+      {"word": "shake", "note": "흔들다"},
+      {"word": "oscillate", "note": "왔다 갔다 진동하다"},
+      {"word": "undulate", "note": "파도처럼 출렁이다"},
+      {"word": "move back and forth", "note": "앞뒤로 움직이다"},
+      {"word": "move to and fro", "note": "이리저리 움직이다"},
+      {"word": "stagger", "note": "비틀거리다"},
+      {"word": "wobble", "note": "불안정하게 흔들리다"}
     ],
     "tips": [
-      "핵심 이미지: 바람에 나무가 이리저리 흔들리는 모습 → 1) 물리적: 흔들리다 2) 비유적: 마음이 흔들리다, 영향을 주다. 두 뜻이 자연스럽게 연결돼.",
+      "핵심 이미지: 바람에 나무가 이리저리 흔들리는 모습 → 1) 물리적: 흔들리다 2) 비유적: 마음이 흔들리다, 영향을 주다. 하나의 이미지에서 두 뜻이 자연스럽게 나와.",
       "GRE 포인트: `hold sway over` = ~을 지배하다, ~에 영향력을 행사하다. 이 숙어 형태가 GRE에서 자주 나와! `sway public opinion` = 여론을 좌우하다."
     ]
   },
@@ -2928,86 +1464,26 @@
       "(일반화가) 지나치게 포괄적인"
     ],
     "synonyms_from_image": [
-      {
-        "word": "comprehensive",
-        "note": "com-(모두) + prehend(잡다) → 모두 잡는 = 포괄적인"
-      },
-      {
-        "word": "wide-ranging",
-        "note": "범위가 넓은 → sweeping의 직접적 풀이"
-      },
-      {
-        "word": "extensive",
-        "note": "ex-(밖으로) + tens(펼치다) → 넓게 펼쳐진"
-      },
-      {
-        "word": "global",
-        "note": "전 세계적인 → 범위가 가장 넓은"
-      },
-      {
-        "word": "broad",
-        "note": "넓은 → 범위가 큰"
-      },
-      {
-        "word": "all-inclusive",
-        "note": "모든 것을 포함하는 → 포괄적인"
-      },
-      {
-        "word": "all-embracing",
-        "note": "모든 것을 아우르는 → 전면적인"
-      },
-      {
-        "word": "far-reaching",
-        "note": "멀리까지 미치는 → 영향 범위가 광범위한"
-      },
-      {
-        "word": "expansive",
-        "note": "ex-(밖으로) + pand(펼치다) → 확장적인"
-      },
-      {
-        "word": "vast",
-        "note": "광대한 → 규모가 엄청 큰"
-      },
-      {
-        "word": "overwhelming",
-        "note": "압도적인 → sweeping victory의 뉘앙스"
-      },
-      {
-        "word": "decisive",
-        "note": "결정적인 → sweeping의 '철저한' 뜻"
-      },
-      {
-        "word": "thorough",
-        "note": "철저한 → 빠짐없이 다 쓸어버리는"
-      },
-      {
-        "word": "complete",
-        "note": "완전한 → 전면적인"
-      },
-      {
-        "word": "total",
-        "note": "전체의 → 모든 것에 해당하는"
-      },
-      {
-        "word": "absolute",
-        "note": "절대적인 → 예외 없는"
-      },
-      {
-        "word": "unqualified",
-        "note": "무조건적인 → 제한 없는"
-      },
-      {
-        "word": "wholesale",
-        "note": "도매의 → 대규모로 한꺼번에"
-      },
-      {
-        "word": "generalized",
-        "note": "일반화된 → sweeping generalization의 부정적 뉘앙스"
-      },
-      {
-        "word": "universal",
-        "note": "보편적인 → 모든 곳에 적용되는"
-      }
+      {"word": "comprehensive", "note": "포괄적인"},
+      {"word": "wide-ranging", "note": "범위가 넓은"},
+      {"word": "extensive", "note": "광범위한"},
+      {"word": "global", "note": "전 세계적인"},
+      {"word": "broad", "note": "넓은"},
+      {"word": "all-inclusive", "note": "모든 것을 포함하는"},
+      {"word": "all-embracing", "note": "모든 것을 아우르는"},
+      {"word": "far-reaching", "note": "멀리까지 미치는"},
+      {"word": "expansive", "note": "확장적인"},
+      {"word": "vast", "note": "광대한"},
+      {"word": "overwhelming", "note": "압도적인"},
+      {"word": "decisive", "note": "결정적인"},
+      {"word": "thorough", "note": "철저한"},
+      {"word": "complete", "note": "완전한"},
+      {"word": "total", "note": "전체의"},
+      {"word": "absolute", "note": "절대적인"},
+      {"word": "unqualified", "note": "무조건적인"},
+      {"word": "wholesale", "note": "대규모로 한꺼번에"},
+      {"word": "generalized", "note": "일반화된 → sweeping generalization의 부정적 뉘앙스"},
+      {"word": "universal", "note": "보편적인"}
     ],
     "tips": [
       "이미지: 빗자루로 '싹~' 쓸어버리는 느낌 → 넓은 범위를 한꺼번에 쓸어버리듯 '광범위한, 전면적인'.",
@@ -3023,22 +1499,10 @@
       "더위로 땀투성이가 되다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "be hot",
-        "note": "더위를 느끼다 → swelter의 가장 기본적 뜻"
-      },
-      {
-        "word": "sweat",
-        "note": "땀 흘리다 → 더위의 신체적 반응"
-      },
-      {
-        "word": "perspire",
-        "note": "per-(통해) + spir(숨쉬다) → 피부를 통해 수분 배출 = 땀 흘리다 (격식)"
-      },
-      {
-        "word": "languish",
-        "note": "나른해지다 → 더위에 축 처져 기력 없는 상태"
-      }
+      {"word": "be hot", "note": "더위를 느끼다"},
+      {"word": "sweat", "note": "땀 흘리다"},
+      {"word": "perspire", "note": "땀 흘리다 (격식)"},
+      {"word": "languish", "note": "나른해지다, 기력 없이 축 처지다"}
     ],
     "tips": [
       "연상: 'sweat'(땀) + 'shelter'(대피소) → 대피소도 못 찾고 땀 뻘뻘 흘리며 더위에 시달리는 느낌! `sweltering heat` = 무더위.",
@@ -3054,18 +1518,9 @@
       "(정도에서) 벗어나다, 빗나가다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "veer",
-        "note": "갑자기 방향 전환 → swerve와 거의 같은 뜻. 차나 배가 방향을 트는 이미지"
-      },
-      {
-        "word": "go astray",
-        "note": "a-(떨어져) + stray(방황) → 길에서 벗어나다"
-      },
-      {
-        "word": "sidetrack",
-        "note": "side + track → 옆 철로로 빠지다 = 본론에서 벗어나다"
-      }
+      {"word": "veer", "note": "갑자기 방향 전환하다"},
+      {"word": "go astray", "note": "길에서 벗어나다"},
+      {"word": "sidetrack", "note": "옆길로 빠지다"}
     ],
     "tips": [
       "이미지: 운전 중 갑자기 핸들을 '확' 꺾는 느낌. 물리적 방향 전환뿐 아니라 '원칙에서 벗어나다'의 비유적 뜻도 있어.",
@@ -3081,26 +1536,11 @@
       "기민한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "fast",
-        "note": "빠른 → swift의 가장 기본적 동의어"
-      },
-      {
-        "word": "fleet",
-        "note": "빠르고 가벼운 → 경쾌하게 빠른 느낌"
-      },
-      {
-        "word": "abrupt",
-        "note": "ab-(떨어져) + rupt(깨지다) → 갑작스러운. swift의 '즉각적' 뉘앙스"
-      },
-      {
-        "word": "hasty",
-        "note": "haste(서두름)에서 파생 → 서둘러 빠른. 성급한 부정적 뉘앙스도"
-      },
-      {
-        "word": "hurried",
-        "note": "서두른 → 급히 진행하는"
-      }
+      {"word": "fast", "note": "빠른"},
+      {"word": "fleet", "note": "경쾌하게 빠른"},
+      {"word": "abrupt", "note": "갑작스러운"},
+      {"word": "hasty", "note": "서둘러 빠른. 성급한 뉘앙스도"},
+      {"word": "hurried", "note": "서두른"}
     ],
     "tips": [
       "기본 어휘지만 GRE에서는 `swift retribution/response/action` = 신속한 응보/대응/조치 형태로 등장해.",
@@ -3115,26 +1555,14 @@
       "벌컥벌컥 마시다, 과음하다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "guzzle",
-        "note": "게걸스럽게 마시다 → swill과 같은 '과하게 마시는' 이미지"
-      },
-      {
-        "word": "drink excessively",
-        "note": "과음하다 → swill의 직접적 풀이"
-      },
-      {
-        "word": "overdrink",
-        "note": "너무 많이 마시다 → 과음"
-      },
-      {
-        "word": "gulp down",
-        "note": "꿀꺽꿀꺽 삼키다 → 빠르게 많이 마시는 동작"
-      }
+      {"word": "guzzle", "note": "게걸스럽게 마시다"},
+      {"word": "drink excessively", "note": "과음하다"},
+      {"word": "overdrink", "note": "너무 많이 마시다"},
+      {"word": "gulp down", "note": "꿀꺽꿀꺽 삼키다"}
     ],
     "tips": [
       "이미지: 돼지가 여물통에서 '쩝쩝' 허겁지겁 먹는 느낌. 실제로 `swill`은 명사로 '돼지 먹이, 잔반'이라는 뜻도 있어!",
-      "콜로케이션: `swill beer/wine` = 맥주/와인을 벌컥벌컥 마시다. `guzzle`과 유의어. 음식이나 음료를 우아하지 않게 과하게 섭취하는 느낌."
+      "콜로케이션: `swill beer/wine` = 맥주/와인을 벌컥벌컥 마시다. 우아하지 않게 과하게 섭취하는 느낌. 품격 없는 음주 장면 묘사에 딱이야."
     ]
   },
   {
@@ -3145,50 +1573,20 @@
       "사기꾼, 협잡꾼"
     ],
     "synonyms_from_image": [
-      {
-        "word": "deceiver",
-        "note": "de-(떨어뜨려) + ceive(잡다) → 속여서 잡아먹는 사람"
-      },
-      {
-        "word": "fraud",
-        "note": "사기(꾼) → swindler의 직접적 동의어"
-      },
-      {
-        "word": "embezzler",
-        "note": "공금 횡령범 → 금전 사기의 구체적 유형"
-      },
-      {
-        "word": "impostor",
-        "note": "im-(위에) + post(놓다) → 가짜 신분을 올려놓은 = 사칭자"
-      },
-      {
-        "word": "mountebank",
-        "note": "이탈리아어 '벤치 위에 올라서다' → 약장수처럼 떠벌리는 사기꾼"
-      },
-      {
-        "word": "charlatan",
-        "note": "가짜 전문가 → 전문 지식을 사칭하는 사기꾼"
-      },
-      {
-        "word": "hoaxer",
-        "note": "hoax(속임수)를 치는 사람 → 장난+사기"
-      },
-      {
-        "word": "con man",
-        "note": "confidence man의 줄임 → 신뢰를 이용해 속이는 사기꾼"
-      },
-      {
-        "word": "con artist",
-        "note": "con man의 변형 → 사기를 예술적으로(?) 치는 사람"
-      },
-      {
-        "word": "crook",
-        "note": "갈고리(crook)처럼 비뚤어진 → 범죄자, 사기꾼"
-      }
+      {"word": "deceiver", "note": "속이는 사람"},
+      {"word": "fraud", "note": "사기꾼"},
+      {"word": "embezzler", "note": "공금 횡령범"},
+      {"word": "impostor", "note": "가짜 신분 사칭자"},
+      {"word": "mountebank", "note": "벤치 위에서 떠벌리는 약장수 → 사기꾼"},
+      {"word": "charlatan", "note": "가짜 전문가"},
+      {"word": "hoaxer", "note": "속임수를 치는 사람"},
+      {"word": "con man", "note": "신뢰를 이용해 속이는 사기꾼"},
+      {"word": "con artist", "note": "사기를 치는 사람"},
+      {"word": "crook", "note": "범죄자, 사기꾼"}
     ],
     "tips": [
       "`swindle`(사기치다)에서 파생. 독일어에서 온 단어로 '어지럽히다, 현기증 나게 하다'가 원뜻 → 사람을 어지럽혀서 속이는 놈!",
-      "GRE 사기꾼 동의어 정리: `charlatan`(가짜 전문가) ≈ `mountebank`(약장수+사기꾼) ≈ `impostor`(신분 위장) ≈ `swindler`(금전 사기). 뉘앙스 차이를 알아두면 SE에 유리해."
+      "GRE 사기꾼 뉘앙스 비교: `charlatan`(가짜 전문가, 의사 사칭 등), `mountebank`(약장수+사기꾼), `impostor`(신분 위장), `swindler`(금전 사기). GRE SE에서 이 셋 중 골라야 할 때가 있어."
     ]
   },
   {
@@ -3199,38 +1597,17 @@
       "쾌락주의자, 사치에 빠진 사람"
     ],
     "synonyms_from_image": [
-      {
-        "word": "epicure",
-        "note": "에피쿠로스 학파에서 유래 → 원래는 절제, 지금은 미식가/쾌락 추구자"
-      },
-      {
-        "word": "hedonist",
-        "note": "hedone(쾌락) → 쾌락이 최고 선이라 믿는 사람"
-      },
-      {
-        "word": "libertine",
-        "note": "libert-(자유) → 도덕적 자유를 극단적으로 추구 = 방탕한 사람"
-      },
-      {
-        "word": "profligate",
-        "note": "pro-(앞으로) + flig(내동댕이치다) → 돈/도덕을 내던지는 = 낭비벽+방탕"
-      },
-      {
-        "word": "voluptuary",
-        "note": "voluptas(쾌락) → 감각적 쾌락에 빠진 사람"
-      },
-      {
-        "word": "prodigal",
-        "note": "prod-(앞으로) + ig(몰다) → 재산을 앞으로 몰아 쓰는 = 낭비하는"
-      },
-      {
-        "word": "sensualist",
-        "note": "sense(감각)에서 파생 → 감각적 쾌락을 추구하는 사람"
-      }
+      {"word": "epicure", "note": "미식가/쾌락 추구자"},
+      {"word": "hedonist", "note": "쾌락주의자"},
+      {"word": "libertine", "note": "방탕한 사람"},
+      {"word": "profligate", "note": "낭비벽+방탕"},
+      {"word": "voluptuary", "note": "감각적 쾌락에 빠진 사람"},
+      {"word": "prodigal", "note": "낭비하는 사람"},
+      {"word": "sensualist", "note": "감각적 쾌락을 추구하는 사람"}
     ],
     "tips": [
-      "유래: 고대 그리스 도시 `Sybaris`에서 유래. 시바리스 사람들이 극도의 사치와 쾌락으로 유명했거든 → 사치스러운 사람 = sybarite.",
-      "뉘앙스: `hedonist`(쾌락 추구자) ≈ `sybarite`(사치+쾌락) ≈ `epicure`(미식가, 원래는 절제의 철학). `sybarite`는 특히 물질적 사치에 초점. GRE 빈출!"
+      "유래: 고대 그리스 도시 `Sybaris`에서 유래. 시바리스 사람들이 극도의 사치와 쾌락으로 유명했거든 — 침대 위 장미 꽃잎 한 장이 접혀 있어도 불편해했다는 전설이 있어!",
+      "GRE 포인트: `sybarite`는 특히 '물질적 사치와 안락함'에 초점을 맞춘 쾌락주의자야. 철학적 쾌락 추구가 아니라 비단 이불, 최고급 음식 같은 감각적 향유. GRE 빈출!"
     ]
   },
   {
@@ -3242,46 +1619,19 @@
       "adj.) sycophantic = 아첨하는, 알랑거리는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "obsequious",
-        "note": "ob-(~을 향해) + sequ(따르다) → 과하게 따르며 비위 맞추는"
-      },
-      {
-        "word": "adulator",
-        "note": "adulat-(꼬리치다) → 과장되게 칭찬하며 아부하는 사람"
-      },
-      {
-        "word": "toady",
-        "note": "두꺼비(toad) → 원래 약장수 조수가 두꺼비를 삼키는 쇼를 했다는 데서 유래. 비위 맞추는 사람"
-      },
-      {
-        "word": "bootlicker",
-        "note": "구두(boot)를 핥는 → 극단적 아첨의 이미지"
-      },
-      {
-        "word": "fawner",
-        "note": "fawn(새끼 사슴)처럼 꼬리치며 → 알랑거리는 사람"
-      },
-      {
-        "word": "lackey",
-        "note": "하인 → 권력자 주변에서 시키는 대로 하는 추종자"
-      },
-      {
-        "word": "parasite",
-        "note": "para-(옆에) + sit(먹다) → 옆에 붙어서 빌붙는 기생충"
-      },
-      {
-        "word": "lickspittle",
-        "note": "침(spittle)을 핥는 → bootlicker와 같은 극단적 아첨 이미지"
-      },
-      {
-        "word": "flunky",
-        "note": "하인, 시종 → 권력자에게 굽실대는 추종자"
-      }
+      {"word": "obsequious", "note": "과하게 비위 맞추는"},
+      {"word": "adulator", "note": "과장되게 칭찬하며 아부하는 사람"},
+      {"word": "toady", "note": "원래 약장수 조수 → 비위 맞추는 사람"},
+      {"word": "bootlicker", "note": "구두를 핥는 사람 → 극단적 아첨꾼"},
+      {"word": "fawner", "note": "새끼 사슴처럼 꼬리치며 알랑거리는 사람"},
+      {"word": "lackey", "note": "권력자 주변에서 시키는 대로 하는 하인/추종자"},
+      {"word": "parasite", "note": "옆에 붙어서 빌붙는 기생충"},
+      {"word": "lickspittle", "note": "침을 핥는 → 극단적 아첨꾼"},
+      {"word": "flunky", "note": "권력자에게 굽실대는 추종자"}
     ],
     "tips": [
-      "유래: 그리스어 `sykophantes` = 무화과(`sykon`) + 보여주다(`phainein`). 고대 그리스에서 무화과 밀수를 고발하는 밀고자 → 아부하면서 뒤통수치는 사람.",
-      "GRE 아첨꾼 동의어 세트: `sycophant` ≈ `toady`(아첨꾼) ≈ `fawner`(아부하는 자). 형용사: `sycophantic` ≈ `obsequious` ≈ `servile` ≈ `unctuous`. GRE 단골 주제야!"
+      "유래: 그리스어 `sykophantes` = 무화과(`sykon`) + 보여주다(`phainein`). 고대 그리스에서 무화과 밀수를 고발하는 밀고자 → 권력자에게 아부하면서 뒤통수치는 사람으로 의미가 변했어.",
+      "GRE 아첨꾼 단어는 단골 출제 주제야. 명사(`sycophant`, `toady`, `fawner`)와 형용사(`sycophantic`, `obsequious`, `servile`, `unctuous`) 세트로 외워두면 SE에서 엄청 유리해!"
     ]
   },
   {
@@ -3292,22 +1642,10 @@
       "삼단 논법, 연역적 추론"
     ],
     "synonyms_from_image": [
-      {
-        "word": "logic",
-        "note": "논리 → syllogism이 속하는 상위 개념"
-      },
-      {
-        "word": "reasoning",
-        "note": "추론 → 논리적으로 생각하는 과정"
-      },
-      {
-        "word": "figure",
-        "note": "논증의 형식/도식 → 삼단논법의 구조적 측면"
-      },
-      {
-        "word": "dilemma",
-        "note": "di-(둘) + lemma(전제) → 두 전제 사이의 논리적 곤란. syllogism과 관련된 논리 용어"
-      }
+      {"word": "logic", "note": "논리"},
+      {"word": "reasoning", "note": "추론"},
+      {"word": "figure", "note": "논증의 형식/도식"},
+      {"word": "dilemma", "note": "두 전제 사이의 논리적 곤란"}
     ],
     "tips": [
       "어원: `syl-`(함께) + `log-`(이성, 말, logic) → 논리를 함께 모아 결론 내기 = 삼단논법. 대전제 + 소전제 → 결론 구조야. 예: 모든 사람은 죽는다 + 소크라테스는 사람이다 → 소크라테스는 죽는다.",
@@ -3322,22 +1660,13 @@
       "공생, 공동생활, 상호 의존 관계"
     ],
     "synonyms_from_image": [
-      {
-        "word": "mutualism",
-        "note": "mutual(상호의) → 양쪽 다 이득인 공생. symbiosis의 가장 긍정적 형태"
-      },
-      {
-        "word": "commensalism",
-        "note": "com-(함께) + mensa(식탁) → 한쪽만 이득이고 다른 쪽은 무해한 공생"
-      },
-      {
-        "word": "parasitism",
-        "note": "para-(옆에) + sit(먹다) → 한쪽이 다른 쪽을 착취하는 기생 관계"
-      }
+      {"word": "mutualism", "note": "양쪽 다 이득인 공생"},
+      {"word": "commensalism", "note": "한쪽만 이득이고 다른 쪽은 무해한 공생"},
+      {"word": "parasitism", "note": "한쪽이 다른 쪽을 착취하는 기생 관계"}
     ],
     "tips": [
-      "어원: `sym-`(함께) + `bio-`(생명, biology) → 함께 사는 것 = 공생. 생물학에서 시작해서 이제는 사회적 관계에도 비유적으로 많이 써.",
-      "콜로케이션: `a symbiotic relationship` = 공생 관계. `mutualism`(상리공생)이 긍정적이라면, `parasitism`(기생)은 한쪽만 이득. GRE RC 생태학·사회학 지문에서 등장."
+      "어원: `sym-`(함께) + `bio-`(생명, `biology`) → 함께 사는 것 = 공생. 생물학에서 시작해서 이제는 사회적 관계에도 비유적으로 많이 써.",
+      "GRE 포인트: `a symbiotic relationship` = 공생 관계. 생태학뿐 아니라 문화·경제적 상호 의존도 설명해. GRE RC에서 '두 개체/개념이 서로 이득을 주고받는' 맥락으로 등장."
     ]
   },
   {
@@ -3362,30 +1691,12 @@
       "묵시적인, 암묵적인, 말로 나타내지 않는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "silent",
-        "note": "침묵의 → 말로 표현하지 않는"
-      },
-      {
-        "word": "unsaid",
-        "note": "말하지 않은 → 언어화되지 않은"
-      },
-      {
-        "word": "implied",
-        "note": "im-(안에) + ply(접다) → 안에 접혀 있는 = 암시된"
-      },
-      {
-        "word": "implicit",
-        "note": "im-(안에) + plic(접다) → 안에 내포된 = 함축적인. tacit의 핵심 동의어"
-      },
-      {
-        "word": "allusive to",
-        "note": "al-(~쪽으로) + lus(놀다) → 넌지시 가리키는 = 암시하는"
-      },
-      {
-        "word": "unvoiced",
-        "note": "목소리로 표현되지 않은 → 말하지 않은"
-      }
+      {"word": "silent", "note": "침묵의"},
+      {"word": "unsaid", "note": "말하지 않은"},
+      {"word": "implied", "note": "암시된"},
+      {"word": "implicit", "note": "함축적인, 내포된 → 핵심 동의어"},
+      {"word": "allusive to", "note": "넌지시 가리키는"},
+      {"word": "unvoiced", "note": "말로 표현되지 않은"}
     ],
     "tips": [
       "어원: 라틴어 `tacitus` = 침묵하는 (`tacere` = 침묵하다). `taciturn`(과묵한)과 같은 뿌리! 말은 안 했지만 서로 이해하고 있는 상태.",
@@ -3400,54 +1711,21 @@
       "말이 적은, 과묵한, 무뚝뚝한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "laconic",
-        "note": "스파르타(Laconia) 사람들처럼 → 말이 짧고 핵심만. taciturn보다 더 의도적"
-      },
-      {
-        "word": "reserved",
-        "note": "re-(뒤로) + serve(지키다) → 감정·말을 뒤로 지키는 = 내성적인"
-      },
-      {
-        "word": "uncommunicative",
-        "note": "소통하지 않는 → 말을 잘 안 하는"
-      },
-      {
-        "word": "reticent",
-        "note": "re-(다시) + tic(침묵) → 말을 아끼는. 특정 주제에 대해 말 꺼리는 뉘앙스"
-      },
-      {
-        "word": "unforthcoming",
-        "note": "forth(앞으로) coming 안 하는 → 정보를 잘 내놓지 않는"
-      },
-      {
-        "word": "close-mouthed",
-        "note": "입을 꽉 다문 → 비밀을 잘 지키는/말이 없는"
-      },
-      {
-        "word": "withdrawn",
-        "note": "with-(뒤로) + drawn(끌린) → 안으로 움츠린 = 내향적인"
-      },
-      {
-        "word": "wordless",
-        "note": "말이 없는 → 물리적으로 말을 안 하는"
-      },
-      {
-        "word": "quiet",
-        "note": "조용한 → taciturn의 일상적 표현"
-      },
-      {
-        "word": "silent",
-        "note": "침묵하는 → 아예 말을 안 하는"
-      },
-      {
-        "word": "untalkative",
-        "note": "수다스럽지 않은 → taciturn의 직접적 풀이"
-      }
+      {"word": "laconic", "note": "말이 짧고 핵심만. taciturn보다 더 의도적"},
+      {"word": "reserved", "note": "내성적인, 감정·말을 아끼는"},
+      {"word": "uncommunicative", "note": "말을 잘 안 하는"},
+      {"word": "reticent", "note": "말을 아끼는. 특정 주제에 대해 말 꺼리는 뉘앙스"},
+      {"word": "unforthcoming", "note": "정보를 잘 내놓지 않는"},
+      {"word": "close-mouthed", "note": "입을 꽉 다문"},
+      {"word": "withdrawn", "note": "안으로 움츠린, 내향적인"},
+      {"word": "wordless", "note": "말이 없는"},
+      {"word": "quiet", "note": "조용한"},
+      {"word": "silent", "note": "침묵하는"},
+      {"word": "untalkative", "note": "수다스럽지 않은"}
     ],
     "tips": [
-      "어원: `tacit`(침묵의)과 같은 뿌리. 성격적으로 원래 말이 적은 사람. 어두운 방 구석에서 말 한마디 안 하는 과묵한 사람을 떠올려.",
-      "뉘앙스 비교: `taciturn`(성격이 원래 과묵) vs `reticent`(특정 주제에 대해 말을 꺼림) vs `laconic`(말이 적지만 핵심만 딱). GRE에서 이 셋의 차이를 자주 물어!"
+      "어원: `tacit`(침묵의)과 같은 뿌리. 성격적으로 원래 말이 적은 사람이야. 어두운 방 구석에서 말 한마디 안 하는 과묵한 사람을 떠올려.",
+      "GRE 핵심 비교: `taciturn`(성격이 원래 과묵한 사람) vs `reticent`(특정 주제에 대해 말을 꺼리는) vs `laconic`(말이 적지만 핵심만 딱딱 짚는). 이 셋의 뉘앙스 차이를 GRE에서 자주 물어!"
     ]
   },
   {
@@ -3459,34 +1737,13 @@
       "(남의 기분을 상하지 않게 하는) 세심한 배려"
     ],
     "synonyms_from_image": [
-      {
-        "word": "diplomacy",
-        "note": "외교술 → 관계를 해치지 않으면서 일을 처리하는 능력"
-      },
-      {
-        "word": "tactfulness",
-        "note": "tact + ful → 재치 있음. tact의 직접적 파생어"
-      },
-      {
-        "word": "consideration",
-        "note": "배려 → 남의 입장을 생각하는 것"
-      },
-      {
-        "word": "delicacy",
-        "note": "섬세함 → 민감한 상황을 다루는 세심함"
-      },
-      {
-        "word": "discretion",
-        "note": "dis-(분리) + cret(판단) → 분별력 있는 판단 = 신중함"
-      },
-      {
-        "word": "prudence",
-        "note": "prud-(현명한) → 현명한 판단력 = 신중함"
-      },
-      {
-        "word": "judiciousness",
-        "note": "judic-(판단) → 좋은 판단력 = 분별 있는 처신"
-      }
+      {"word": "diplomacy", "note": "외교술 → 관계를 해치지 않으면서 일을 처리하는 능력"},
+      {"word": "tactfulness", "note": "재치 있음"},
+      {"word": "consideration", "note": "배려"},
+      {"word": "delicacy", "note": "섬세함"},
+      {"word": "discretion", "note": "분별력, 신중함"},
+      {"word": "prudence", "note": "현명한 판단력, 신중함"},
+      {"word": "judiciousness", "note": "좋은 판단력"}
     ],
     "tips": [
       "어원: 라틴어 `tactus` = 만지다(touch). 상대방의 기분을 '감촉'으로 느끼듯 세심하게 파악하는 능력 = 재치. `tactful`(재치 있는) ↔ `tactless`(재치 없는).",
@@ -3502,26 +1759,14 @@
       "만질 수 있는, 실감할 수 있는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "palpable",
-        "note": "palp-(만지다) → 만져서 느낄 수 있는 = 촉지 가능한"
-      },
-      {
-        "word": "tangible",
-        "note": "tang-(만지다) → 만질 수 있는, 실체가 있는"
-      },
-      {
-        "word": "touchable",
-        "note": "만질 수 있는 → tactile의 직접적 풀이"
-      },
-      {
-        "word": "corporeal",
-        "note": "corpor-(몸체) → 물질적 몸체가 있는 = 유형의"
-      }
+      {"word": "palpable", "note": "만져서 느낄 수 있는"},
+      {"word": "tangible", "note": "만질 수 있는, 실체가 있는"},
+      {"word": "touchable", "note": "만질 수 있는"},
+      {"word": "corporeal", "note": "물질적 실체가 있는"}
     ],
     "tips": [
-      "어원: `tact-`(만지다, touch) + `-ile` → 만질 수 있는. `tangible`(만질 수 있는, 실체가 있는)과 유의어야.",
-      "콜로케이션: `tactile sensation/experience` = 촉각적 감각/경험, `tactile learner` = 만져봐야 배우는 학습자. GRE에서는 `palpable`과 함께 '구체적으로 느낄 수 있는'이라는 맥락으로 등장."
+      "어원: `tact-`(만지다, touch) + `-ile` → 만질 수 있는. `tact`(재치)도 같은 뿌리 — 남의 감정을 '만져서' 느끼는 능력이지.",
+      "콜로케이션: `tactile sensation/experience` = 촉각적 감각/경험, `tactile learner` = 만져봐야 배우는 학습자. GRE에서는 '구체적으로 느낄 수 있는'이라는 맥락으로 등장해."
     ]
   },
   {
@@ -3548,98 +1793,32 @@
       "adj.) tainted = 오염된, 부패한, 더럽혀진"
     ],
     "synonyms_from_image": [
-      {
-        "word": "contaminate",
-        "note": "con-(함께) + tamin(더럽히다) → 접촉으로 오염시키다"
-      },
-      {
-        "word": "pollute",
-        "note": "pol-(앞으로) + lut(씻다의 반대) → 더러운 것을 퍼뜨리다"
-      },
-      {
-        "word": "adulterate",
-        "note": "adult-(다른 것) → 불순물을 섞어 품질을 떨어뜨리다"
-      },
-      {
-        "word": "infect",
-        "note": "in-(안으로) + fect(하다) → 안으로 병을 넣다 = 감염시키다"
-      },
-      {
-        "word": "blight",
-        "note": "식물 역병 → 병들게 하다, 망치다"
-      },
-      {
-        "word": "spoil",
-        "note": "망치다 → 좋은 것을 상하게 하다"
-      },
-      {
-        "word": "soil",
-        "note": "흙으로 더럽히다 → 오염시키다"
-      },
-      {
-        "word": "befoul",
-        "note": "be-(만들다) + foul(더러운) → 더럽게 만들다"
-      },
-      {
-        "word": "tarnish",
-        "note": "금속 변색 → 명예의 광택을 잃게 하다"
-      },
-      {
-        "word": "sully",
-        "note": "더럽히다 → taint와 거의 같은 뜻. 특히 명예 훼손"
-      },
-      {
-        "word": "stain",
-        "note": "얼룩 → 지워지지 않는 오점을 남기다"
-      },
-      {
-        "word": "blemish",
-        "note": "흠집 → 완벽함에 흠을 내다"
-      },
-      {
-        "word": "stigmatize",
-        "note": "stigma(낙인)를 찍다 → 사회적으로 오점을 남기다"
-      },
-      {
-        "word": "mar",
-        "note": "손상하다 → 표면에 흠을 내다"
-      },
-      {
-        "word": "corrupt",
-        "note": "cor-(완전히) + rupt(깨지다) → 내부를 썩게 하다"
-      },
-      {
-        "word": "defile",
-        "note": "de-(아래로) + file(더럽히다) → 신성한 것을 더럽히다"
-      },
-      {
-        "word": "hurt",
-        "note": "해치다 → 명예·건강에 손상을 주다"
-      },
-      {
-        "word": "besmirch",
-        "note": "be + smirch(더럽히다) → 명예를 철저히 더럽히다"
-      },
-      {
-        "word": "trace",
-        "note": "흔적 → taint(n.)의 '오점, 흔적' 뜻"
-      },
-      {
-        "word": "suggestion",
-        "note": "암시 → '약간의 기미' 뜻에서 taint와 연결"
-      },
-      {
-        "word": "hint",
-        "note": "기미 → 약간의 부정적 흔적"
-      },
-      {
-        "word": "tinge",
-        "note": "약간의 색조/기미 → a taint of = a tinge of"
-      }
+      {"word": "contaminate", "note": "접촉으로 오염시키다"},
+      {"word": "pollute", "note": "더러운 것을 퍼뜨리다"},
+      {"word": "adulterate", "note": "불순물을 섞어 품질을 떨어뜨리다"},
+      {"word": "infect", "note": "감염시키다"},
+      {"word": "blight", "note": "병들게 하다, 망치다"},
+      {"word": "spoil", "note": "망치다, 상하게 하다"},
+      {"word": "soil", "note": "더럽히다"},
+      {"word": "befoul", "note": "더럽게 만들다"},
+      {"word": "tarnish", "note": "금속 변색 → 명예의 광택을 잃게 하다"},
+      {"word": "sully", "note": "더럽히다. 특히 명예 훼손"},
+      {"word": "stain", "note": "지워지지 않는 오점을 남기다"},
+      {"word": "blemish", "note": "완벽함에 흠을 내다"},
+      {"word": "stigmatize", "note": "낙인을 찍다"},
+      {"word": "mar", "note": "손상하다"},
+      {"word": "corrupt", "note": "내부를 썩게 하다"},
+      {"word": "defile", "note": "신성한 것을 더럽히다"},
+      {"word": "hurt", "note": "해치다"},
+      {"word": "besmirch", "note": "명예를 철저히 더럽히다"},
+      {"word": "trace", "note": "흔적 → '오점, 흔적' 뜻"},
+      {"word": "suggestion", "note": "암시 → '약간의 기미' 뜻"},
+      {"word": "hint", "note": "기미, 약간의 흔적"},
+      {"word": "tinge", "note": "약간의 색조/기미"}
     ],
     "tips": [
       "이미지: 깨끗한 물에 잉크 한 방울이 떨어져 퍼지는 모습 → 약간이라도 섞이면 전체가 더러워지는 느낌. 물리적 오염 + 명예 훼손 둘 다.",
-      "콜로케이션: `tainted evidence/reputation/food` = 오염된 증거/명성/음식. `sully`, `tarnish`, `besmirch`와 유의어. 명사로 `a taint of corruption` = 부패의 흔적."
+      "콜로케이션: `tainted evidence/reputation/food` = 오염된 증거/명성/음식. 명사로 `a taint of corruption` = 부패의 흔적. '완전한 것에 조금이라도 오점이 묻은' 느낌이 핵심이야."
     ]
   },
   {
@@ -3651,34 +1830,16 @@
       "신비한 힘이 있다고 여겨지는 물건"
     ],
     "synonyms_from_image": [
-      {
-        "word": "fetish",
-        "note": "주물(呪物) → 마법적 힘이 있다고 믿는 물건"
-      },
-      {
-        "word": "juju",
-        "note": "서아프리카 전통의 부적/주술 물건"
-      },
-      {
-        "word": "amulet",
-        "note": "악을 막아주는 부적 → talisman보다 방어적 뉘앙스"
-      },
-      {
-        "word": "mascot",
-        "note": "행운을 가져다주는 상징물 → 팀·조직의 마스코트"
-      },
-      {
-        "word": "totem",
-        "note": "부족의 수호 상징물 → 토템 신앙의 대상"
-      },
-      {
-        "word": "charm",
-        "note": "매력/부적 → 마법적 보호력이 있는 작은 물건"
-      }
+      {"word": "fetish", "note": "마법적 힘이 있다고 믿는 물건"},
+      {"word": "juju", "note": "서아프리카 전통의 부적/주술 물건"},
+      {"word": "amulet", "note": "악을 막아주는 부적 → talisman보다 방어적"},
+      {"word": "mascot", "note": "행운을 가져다주는 상징물"},
+      {"word": "totem", "note": "부족의 수호 상징물"},
+      {"word": "charm", "note": "마법적 보호력이 있는 작은 물건"}
     ],
     "tips": [
       "어원: 아랍어/그리스어 `telesma` = 신성한 의식, 봉헌물 → 신비한 힘이 깃든 물건. RPG 게임에서 `talisman`이 마법 아이템으로 자주 나오지!",
-      "`amulet`(악을 막는 부적) vs `talisman`(행운을 가져다주는 부적) vs `charm`(일반적 부적/매력). 미묘한 차이지만 핵심은 다 '마법적 보호물'이야."
+      "뉘앙스: `amulet`(악을 막는 방어 부적) vs `talisman`(행운을 가져다주는 공격(?) 부적) vs `charm`(일반적 부적/매력). 미묘한 차이지만 핵심은 다 '마법적 보호물'이야."
     ]
   },
   {
@@ -3690,10 +1851,7 @@
       "(기하) 접선의; 약간 스치는 정도의"
     ],
     "synonyms_from_image": [
-      {
-        "word": "divergent",
-        "note": "di-(떨어져) + verg(방향) → 방향이 갈라지는 = 본론에서 벗어나는"
-      }
+      {"word": "divergent", "note": "방향이 갈라지는, 본론에서 벗어나는"}
     ],
     "tips": [
       "어원: `tangent`(접선) + `-ial`. 접선은 원에 살짝 닿고 빗겨나가잖아 → 본론에 살짝 닿았다가 빗겨나가는 = 주제를 벗어나는.",
@@ -3709,34 +1867,13 @@
       "유형의, 구체적인, 명백한"
     ],
     "synonyms_from_image": [
-      {
-        "word": "palpable",
-        "note": "palp-(만지다) → 만져서 알 수 있는. tangible의 가장 가까운 동의어"
-      },
-      {
-        "word": "touchable",
-        "note": "만질 수 있는 → tangible의 직접적 풀이"
-      },
-      {
-        "word": "material",
-        "note": "물질적인 → 물리적 실체가 있는"
-      },
-      {
-        "word": "solid",
-        "note": "단단한, 실체 있는 → 확실하고 구체적인"
-      },
-      {
-        "word": "physical",
-        "note": "물리적인 → 눈에 보이고 만질 수 있는"
-      },
-      {
-        "word": "concrete",
-        "note": "con-(함께) + cret(자라다) → 굳어져 실체가 된 = 구체적인"
-      },
-      {
-        "word": "actual",
-        "note": "실제의 → 추상이 아닌 현실에 존재하는"
-      }
+      {"word": "palpable", "note": "만져서 알 수 있는 → 가장 가까운 동의어"},
+      {"word": "touchable", "note": "만질 수 있는"},
+      {"word": "material", "note": "물질적인"},
+      {"word": "solid", "note": "단단한, 실체 있는"},
+      {"word": "physical", "note": "물리적인"},
+      {"word": "concrete", "note": "구체적인, 실체가 된"},
+      {"word": "actual", "note": "실제의"}
     ],
     "tips": [
       "어원: `tang-`(만지다, tact와 같은 뿌리) + `-ible`(할 수 있는) → 만질 수 있는. 반의어 `intangible` = 만질 수 없는, 무형의.",
@@ -3752,34 +1889,13 @@
       "보이기만 하고 가질 수 없게 해서 괴롭히다"
     ],
     "synonyms_from_image": [
-      {
-        "word": "bait",
-        "note": "미끼를 놓다 → 먹을 수 없는 미끼로 유인하는 느낌"
-      },
-      {
-        "word": "annoy",
-        "note": "짜증나게 하다 → tantalize의 '괴롭히다' 결과"
-      },
-      {
-        "word": "harass",
-        "note": "괴롭히다 → 반복적으로 감질나게 해서 괴로운"
-      },
-      {
-        "word": "beleaguer",
-        "note": "be + leaguer(포위) → 포위하듯 괴롭히다"
-      },
-      {
-        "word": "raid",
-        "note": "급습하다 → 갑자기 희망을 줬다 빼앗는 느낌"
-      },
-      {
-        "word": "taunt",
-        "note": "조롱하며 자극하다 → '가질 수 없지~' 하고 놀리는"
-      },
-      {
-        "word": "tempt",
-        "note": "유혹하다 → tantalize와 비슷하지만 tempt는 실제로 가질 수도 있음"
-      }
+      {"word": "bait", "note": "미끼를 놓다 → 먹을 수 없는 미끼로 유인"},
+      {"word": "annoy", "note": "짜증나게 하다"},
+      {"word": "harass", "note": "괴롭히다"},
+      {"word": "beleaguer", "note": "포위하듯 괴롭히다"},
+      {"word": "raid", "note": "급습하다 → 갑자기 희망을 줬다 빼앗는 느낌"},
+      {"word": "taunt", "note": "조롱하며 자극하다 → '가질 수 없지~' 하고 놀리는"},
+      {"word": "tempt", "note": "유혹하다 → tantalize와 달리 실제로 가질 수도 있음"}
     ],
     "tips": [
       "유래: 그리스 신화의 `Tantalus`(탄탈로스). 제우스의 아들인데 신들을 화나게 해서 벌을 받았어 — 목까지 물이 차 있는데 마시려 하면 물이 빠지고, 머리 위에 과일이 있는데 따려 하면 가지가 올라가. 영원히 감질!",
@@ -3795,34 +1911,16 @@
       "흥미(욕망)를 돋우는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "tease",
-        "note": "감질나게 하다, 놀리다 → tantalize의 일상적 표현"
-      },
-      {
-        "word": "tempt",
-        "note": "유혹하다 → 강한 끌림을 만드는"
-      },
-      {
-        "word": "entice",
-        "note": "en-(안으로) + tice(끌다) → 안으로 유인하다 = 유혹하다"
-      },
-      {
-        "word": "allure",
-        "note": "al-(~쪽으로) + lure(미끼) → 미끼로 끌어들이다 = 매혹하다"
-      },
-      {
-        "word": "titillate",
-        "note": "간질이다 → 감각적으로 자극하다, 흥미를 간지럽히다"
-      },
-      {
-        "word": "intrigue",
-        "note": "음모를 꾸미다 → 호기심을 자극해 빠져들게 하다"
-      }
+      {"word": "tease", "note": "감질나게 하다, 놀리다"},
+      {"word": "tempt", "note": "유혹하다, 강한 끌림을 만드는"},
+      {"word": "entice", "note": "유인하다, 유혹하다"},
+      {"word": "allure", "note": "매혹하다"},
+      {"word": "titillate", "note": "흥미를 간지럽히다, 감각적으로 자극하다"},
+      {"word": "intrigue", "note": "호기심을 자극해 빠져들게 하다"}
     ],
     "tips": [
-      "`tantalize`의 형용사형. 탄탈로스 신화에서 온 단어라 '가질 수 없어서 더 갖고 싶은' 느낌이 핵심이야.",
-      "콜로케이션: `a tantalizing glimpse/hint/prospect` = 감질나는 엿봄/힌트/전망. `tempting`보다 더 강한 '가까이 왔지만 못 잡는' 느낌. GRE에서 자주 등장하는 수식어."
+      "`tantalize`의 형용사형. 탄탈로스 신화에서 온 단어라 '가질 수 없어서 더 갖고 싶은' 느낌이 핵심이야. 단순히 '매력적인'이 아니라 '닿을 듯 닿지 않는' 감질남!",
+      "콜로케이션: `a tantalizing glimpse/hint/prospect` = 감질나는 엿봄/힌트/전망. GRE에서 자주 등장하는 수식어. 반의어 상황: 쉽게 얻을 수 있는 건 tantalizing이 아니야."
     ]
   },
   {
@@ -3833,38 +1931,14 @@
       "(~와) 동등한, 거의 같은, 다름없는"
     ],
     "synonyms_from_image": [
-      {
-        "word": "equal to",
-        "note": "~와 동등한 → tantamount to의 직접적 풀이"
-      },
-      {
-        "word": "synonymous with",
-        "note": "~와 동의어인 → 사실상 같은 뜻인"
-      },
-      {
-        "word": "equivalent",
-        "note": "equi-(같은) + val(가치) → 같은 가치의 = 동등한"
-      },
-      {
-        "word": "commensurate",
-        "note": "com-(함께) + mensur(측정) → 같은 크기로 측정되는 = 상응하는"
-      },
-      {
-        "word": "same",
-        "note": "같은 → 차이가 없는"
-      },
-      {
-        "word": "alike",
-        "note": "비슷한 → 구별할 수 없을 정도로 같은"
-      },
-      {
-        "word": "selfsame",
-        "note": "바로 그 자체인 → 완전히 동일한"
-      },
-      {
-        "word": "duplicate",
-        "note": "dupli-(둘) → 복제된 = 똑같은"
-      }
+      {"word": "equal to", "note": "~와 동등한"},
+      {"word": "synonymous with", "note": "~와 사실상 같은"},
+      {"word": "equivalent", "note": "같은 가치의, 동등한"},
+      {"word": "commensurate", "note": "상응하는, 같은 크기의"},
+      {"word": "same", "note": "같은"},
+      {"word": "alike", "note": "비슷한"},
+      {"word": "selfsame", "note": "바로 그 자체인, 완전히 동일한"},
+      {"word": "duplicate", "note": "복제된, 똑같은"}
     ],
     "tips": [
       "어원: 프랑스어 `tant`(그만큼) + `amount`(양) → 같은 양만큼의 = 동등한. 항상 `tantamount to` 형태로 써!",
