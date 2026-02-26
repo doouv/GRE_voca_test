@@ -787,6 +787,18 @@
       color: var(--red);
     }
     .answer-reveal.incorrect-reveal .answer-label{ color: var(--red); }
+    .syn-notes-block{
+      margin-top: 10px;
+      padding-top: 8px;
+      border-top: 1px dashed rgba(0,0,0,0.15);
+    }
+    .syn-note-item{
+      font-size: 13px;
+      font-weight: 400;
+      color: #444;
+      line-height: 1.6;
+      margin-bottom: 2px;
+    }
 
     /* Highlight feature */
     .opt-text .hw{
@@ -1589,6 +1601,10 @@
     const rawSynonyms = item.synonyms_from_image || [];
     // Normalize: support both plain strings and {word, note} objects
     const synonyms = rawSynonyms.map(s => typeof s === 'object' ? s.word : s);
+    // Collect synonym notes for answer reveal
+    const synNotes = rawSynonyms
+      .filter(s => typeof s === 'object' && s.note)
+      .map(s => ({ word: s.word, note: s.note }));
 
     // If no synonyms, return with empty options (meaning-only question)
     if (synonyms.length === 0) {
@@ -1664,7 +1680,8 @@
       meanings: item.head_meanings || [],
       correct: correct,
       options: options,
-      listNum: item._listNum || null
+      listNum: item._listNum || null,
+      synNotes: synNotes
     };
   }
 
@@ -1797,7 +1814,12 @@
 
         const revealB = el('div', { class: 'answer-reveal', id: `reveal-syn-${q.qid}` });
         const correctTexts = q.correct.map(l => `${l}) ${q.options[l]}`).join(', ');
-        revealB.innerHTML = `<div class="answer-label">Answer</div>${correctTexts}`;
+        const notesHtml = (q.synNotes && q.synNotes.length > 0)
+          ? '<div class="syn-notes-block">' + q.synNotes.map(sn =>
+              `<div class="syn-note-item">💡 <strong>${sn.word}</strong> — ${sn.note}</div>`
+            ).join('') + '</div>'
+          : '';
+        revealB.innerHTML = `<div class="answer-label">Answer</div>${correctTexts}${notesHtml}`;
         secB.appendChild(revealB);
         card.appendChild(secB);
       }
