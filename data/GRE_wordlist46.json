@@ -7,13 +7,14 @@
       "(아이의) 떼, 심통"
     ],
     "synonyms_from_image": [
-      {"word": "rage", "note": "분노의 폭발"},
-      {"word": "paroxysm", "note": "감정의 갑작스러운 발작"},
-      {"word": "frustration", "note": "좌절에서 오는 짜증"},
-      {"word": "wax", "note": "감정이 점점 격해지다"},
-      {"word": "outburst", "note": "감정의 폭발"},
-      {"word": "explosion", "note": "감정의 폭발적 분출"},
-      {"word": "conniption", "note": "히스테리적 짜증 발작"}
+      {"word": "rage", "note": "분노의 폭발 — tantrum처럼 감정이 터져 나오는 것"},
+      {"word": "paroxysm", "note": "감정의 갑작스러운 발작 — tantrum의 돌발적 성질과 같음"},
+      {"word": "outburst", "note": "감정이 갑자기 터져 나오는 것"},
+      {"word": "conniption", "note": "히스테리적으로 짜증을 터뜨리는 발작"}
+    ],
+    "tips": [
+      "발음 연상: tan(타닥) + drum(북) → 바닥을 타닥타닥 두드리며 떼 쓰는 아이를 떠올려봐.",
+      "주로 `throw/have a tantrum`으로 쓰여. GRE에서는 아이의 떼뿐 아니라 어른의 감정 폭발에도 써: She threw a tantrum when passed over for promotion."
     ]
   },
   {
@@ -24,17 +25,18 @@
       "(표면을) 변색시키다, 흐리게 하다"
     ],
     "synonyms_from_image": [
-      {"word": "taint", "note": "오염시키다, 더럽히다"},
-      {"word": "stain", "note": "얼룩지게 하다"},
-      {"word": "blot", "note": "오점을 남기다"},
-      {"word": "blemish", "note": "흠을 만들다"},
-      {"word": "smear", "note": "더럽히다, 중상하다"},
-      {"word": "smudge", "note": "얼룩지게 하다"},
-      {"word": "discolor", "note": "변색시키다"},
-      {"word": "dull", "note": "광택을 없애다"}
+      {"word": "taint", "note": "오염시켜 순수함을 잃게 하다"},
+      {"word": "stain", "note": "얼룩을 남기듯 명예에 흠을 남기다"},
+      {"word": "blot", "note": "잉크 얼룩처럼 오점을 남기다"},
+      {"word": "blemish", "note": "티·흠을 만들어 완벽함을 깨뜨리다"},
+      {"word": "smear", "note": "더럽히다 — 중상모략의 뉘앙스도 있음"},
+      {"word": "smudge", "note": "문질러서 흐리게 만들다"},
+      {"word": "discolor", "note": "색이 바래거나 변하게 하다 — tarnish의 물리적 의미와 직결"},
+      {"word": "dull", "note": "광택을 없애다 — 금속이 tarnish되면 dull해짐"}
     ],
     "tips": [
-      "GRE에서는 물리적 변색보다 비유적 '명성 손상'으로 더 자주 나와: tarnish one's reputation = 명예를 실추시키다."
+      "GRE에서는 물리적 변색보다 비유적 '명성 손상'으로 더 자주 나와: tarnish one's reputation = 명예를 실추시키다.",
+      "프랑스어 `ternir`(흐리게 하다)에서 왔어. 은(silver)이 공기 중에서 까맣게 변색되는 게 전형적인 tarnish야. 이 '광택을 잃다' 이미지가 명성으로 확장된 거야."
     ]
   },
   {
@@ -44,11 +46,15 @@
       "조롱하다, 비아냥거리다"
     ],
     "synonyms_from_image": [
-      {"word": "jeer", "note": "야유하다"},
-      {"word": "sneer", "note": "비웃다, 냉소하다"},
-      {"word": "gibe", "note": "비꼬다, 조롱하다"},
-      {"word": "insult", "note": "모욕하다"},
-      {"word": "tease", "note": "놀리다 (taunt보다 가벼운 뉘앙스)"}
+      {"word": "jeer", "note": "야유하며 조롱하다"},
+      {"word": "sneer", "note": "코웃음 치며 비웃다"},
+      {"word": "gibe", "note": "빈정대며 비꼬다"},
+      {"word": "insult", "note": "모욕하다 — taunt보다 직접적인 공격"},
+      {"word": "tease", "note": "놀리다 — taunt보다 가벼운 뉘앙스"}
+    ],
+    "tips": [
+      "taunt는 단순히 놀리는 게 아니라 '상대를 약 올려서 화나게 만드는' 조롱이야. tease(가볍게 놀리다)보다 훨씬 악의적이야.",
+      "주로 `taunt someone about/with ~`로 쓰여: They taunted him about his failure = 그의 실패를 비아냥거렸다."
     ]
   },
   {
@@ -61,12 +67,11 @@
       "(배/조직이) 정돈된"
     ],
     "synonyms_from_image": [
-      {"word": "close", "note": "빈틈없이 탄탄한"},
-      {"word": "tense", "note": "팽팽한, 긴장된"},
-      {"word": "shipshape", "note": "배처럼 깔끔하게 정돈된"},
-      {"word": "stretched", "note": "팽팽하게 당겨진"},
-      {"word": "severe", "note": "엄격한, 군더더기 없는"},
-      {"word": "strict", "note": "빈틈없이 엄격한"}
+      {"word": "tense", "note": "팽팽하게 당겨진, 긴장된"},
+      {"word": "stretched", "note": "팽팽하게 당겨진 상태"},
+      {"word": "close", "note": "촘촘하게 짜여 빈틈없는 — taut의 '탄탄한' 느낌과 통함"},
+      {"word": "shipshape", "note": "배처럼 깔끔하게 정돈된 — taut의 '정돈된 조직' 뜻과 같음"},
+      {"word": "severe", "note": "군더더기 없이 절제된 (severe style) → taut의 '간결한' 뜻과 통함"}
     ],
     "tips": [
       "`taut`는 '팽팽하게 당겨진'이 핵심이야:\n1) 물리적 → 줄/로프가 팽팽한 (a taut rope)\n2) 감정적 → 신경이 팽팽한 = 긴장한 (taut nerves)\n3) 글에 쓰이면 → 군더더기 없이 팽팽한 = 간결하고 짜임새 있는 (taut prose)\n4) 배/조직 → 팽팽하게 관리된 = 정돈된 (a taut ship)",
@@ -81,11 +86,11 @@
       "번지르르하지만 저급한"
     ],
     "synonyms_from_image": [
-      {"word": "loud", "note": "촌스럽게 화려한"},
-      {"word": "showy", "note": "겉치레가 심한"},
+      {"word": "loud", "note": "촌스럽게 화려한 — 색깔이나 디자인이 소란스러운"},
+      {"word": "showy", "note": "겉만 화려하고 속은 없는"},
       {"word": "flashy", "note": "번쩍이지만 싸구려 같은"},
-      {"word": "garish", "note": "야하고 현란한"},
-      {"word": "flamboyant", "note": "지나치게 화려한"},
+      {"word": "garish", "note": "눈이 아플 정도로 야하고 현란한"},
+      {"word": "flamboyant", "note": "불꽃처럼 화려한 — 과한 화려함에서 tawdry와 겹침"},
       {"word": "vulgar", "note": "저속한, 천박한"}
     ],
     "tips": [
@@ -101,21 +106,17 @@
       "고생스러운"
     ],
     "synonyms_from_image": [
-      {"word": "onerous", "note": "부담이 큰"},
-      {"word": "demanding", "note": "많은 것을 요구하는"},
-      {"word": "exacting", "note": "까다롭고 힘든"},
-      {"word": "challenging", "note": "도전적인"},
-      {"word": "burdensome", "note": "짐이 되는"},
-      {"word": "arduous", "note": "힘들고 고된"},
-      {"word": "laborious", "note": "노동집약적인, 고된"},
-      {"word": "strenuous", "note": "격렬하고 힘든"},
-      {"word": "rigorous", "note": "엄격하고 힘든"},
-      {"word": "difficult", "note": "어렵고 힘든"},
-      {"word": "tiring", "note": "피곤하게 하는"},
-      {"word": "exhausting", "note": "기진맥진하게 하는"},
-      {"word": "enervating", "note": "기력을 빼는"},
-      {"word": "wearing", "note": "지치게 하는"},
-      {"word": "stressful", "note": "스트레스 주는"}
+      {"word": "onerous", "note": "의무·책임이 무겁고 부담스러운"},
+      {"word": "demanding", "note": "많은 노력·시간을 요구하는"},
+      {"word": "exacting", "note": "높은 기준을 요구해서 까다롭고 힘든"},
+      {"word": "arduous", "note": "오래 지속되는 고된 노력이 필요한"},
+      {"word": "burdensome", "note": "짐(burden)처럼 무겁게 느껴지는"},
+      {"word": "strenuous", "note": "격렬한 체력·정신적 노력이 필요한"},
+      {"word": "exhausting", "note": "기진맥진하게 만드는"}
+    ],
+    "tips": [
+      "tax(세금) → 세금처럼 힘과 에너지를 '빼앗아 가는' 거야. a taxing job = 기력을 쥐어짜는 일.",
+      "`demanding`은 요구가 많아서 힘든 거고, `exhausting`은 결과적으로 지치는 거고, `taxing`은 그 사이 — 부담이 되어 힘을 빼는 느낌이야."
     ]
   },
   {
@@ -124,7 +125,11 @@
     "head_meanings": [
       "분류학자"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`taxo-`(배열, arrangement) + `-nomy`(법칙) → 체계적으로 분류하는 학문의 전문가. 생물학에서 린네(Linnaeus)의 생물 분류 체계가 대표적이야.",
+      "taxonomy(분류학/분류 체계)는 GRE에서도 나올 수 있어. 생물학 말고도 지식·데이터를 체계적으로 분류하는 데 써: a taxonomy of literary genres = 문학 장르 분류 체계."
+    ]
   },
   {
     "word": "tedious",
@@ -134,22 +139,17 @@
       "장황한"
     ],
     "synonyms_from_image": [
-      {"word": "boring", "note": "지루한"},
-      {"word": "dull", "note": "따분한"},
-      {"word": "monotonous", "note": "단조로운"},
-      {"word": "insipid", "note": "재미없는, 밋밋한"},
-      {"word": "uninteresting", "note": "흥미 없는"},
-      {"word": "flat", "note": "밋밋한"},
-      {"word": "bland", "note": "특색 없는"},
-      {"word": "stale", "note": "진부한"},
-      {"word": "wearying", "note": "지치게 하는"},
-      {"word": "routine", "note": "판에 박은"},
-      {"word": "lackluster", "note": "활기 없는"},
-      {"word": "humdrum", "note": "단조로운"},
-      {"word": "mundane", "note": "평범하고 지루한"},
-      {"word": "tiresome", "note": "성가시게 지루한"},
-      {"word": "tiring", "note": "피곤하게 하는"},
-      {"word": "irksome", "note": "짜증나게 지루한"}
+      {"word": "monotonous", "note": "변화 없이 단조로운 — 같은 것의 반복이 주는 지루함"},
+      {"word": "insipid", "note": "맛/재미가 없어서 밋밋한"},
+      {"word": "humdrum", "note": "평범하고 단조로운 일상 — 변화 없는 지루함"},
+      {"word": "irksome", "note": "짜증이 날 정도로 지루하고 성가신"},
+      {"word": "tiresome", "note": "피곤하고 성가시게 느껴지는 지루함"},
+      {"word": "wearying", "note": "반복되어 점점 지쳐가게 만드는"},
+      {"word": "stale", "note": "신선함을 잃어 진부해진"}
+    ],
+    "tips": [
+      "라틴어 `taedium`(지루함, 혐오)에서 왔어. tedious는 단순히 '재미없는'이 아니라 '너무 길거나 반복적이어서 견디기 힘든' 지루함이야.",
+      "a tedious lecture = 장황하고 따분한 강의. GRE에서 tedious process/task처럼 '시간이 오래 걸리고 지루한 과정'으로 자주 나와."
     ]
   },
   {
@@ -160,11 +160,15 @@
       "싫증"
     ],
     "synonyms_from_image": [
-      {"word": "ennui", "note": "무료, 권태"},
-      {"word": "irksomeness", "note": "짜증스러움"},
-      {"word": "dullness", "note": "따분함"},
-      {"word": "tediousness", "note": "지루함"},
-      {"word": "rut", "note": "판에 박힌 일상 → 지루함"}
+      {"word": "ennui", "note": "프랑스어에서 온 '권태' — 지적 자극 부재에서 오는 지루함"},
+      {"word": "irksomeness", "note": "짜증스러울 정도의 지루함"},
+      {"word": "dullness", "note": "활기·자극 없는 따분함"},
+      {"word": "tediousness", "note": "tedious의 명사형 — tedium과 동의어"},
+      {"word": "rut", "note": "바퀴 자국처럼 판에 박힌 일상 → 변화 없는 지루함"}
+    ],
+    "tips": [
+      "tedious의 명사형이야. relieve the tedium = 지루함을 달래다.",
+      "`ennui`는 더 문학적이고 철학적인 권태감이고, `tedium`은 일상적인 지루함에 더 가까워. GRE에서 둘 다 자주 나오니까 구분해 둬."
     ]
   },
   {
@@ -175,8 +179,8 @@
       "풍부하다"
     ],
     "synonyms_from_image": [
-      {"word": "swarm", "note": "떼 지어 가득하다"},
-      {"word": "abound", "note": "풍부하다"}
+      {"word": "swarm", "note": "벌떼처럼 우글거리며 가득하다"},
+      {"word": "abound", "note": "풍부하게 넘쳐나다"}
     ],
     "tips": [
       "주로 `teem with`로 쓰여: The river teems with fish = 강이 물고기로 넘쳐난다. 항상 '가득 차서 우글거리는' 이미지야."
@@ -190,13 +194,13 @@
       "뻔뻔스러운 대담함"
     ],
     "synonyms_from_image": [
-      {"word": "assurance", "note": "당당함 → 뻔뻔한 대담"},
-      {"word": "heedlessness", "note": "무모함, 부주의함"},
-      {"word": "nerve", "note": "배짱, 뻔뻔함"},
-      {"word": "audacity", "note": "대담, 뻔뻔함"},
-      {"word": "insolence", "note": "무례, 거만"},
-      {"word": "effrontery", "note": "뻔뻔스러움"},
-      {"word": "impudence", "note": "뻔뻔함, 건방짐"}
+      {"word": "assurance", "note": "당당함이 지나쳐 뻔뻔한 대담으로 느껴지는 것"},
+      {"word": "heedlessness", "note": "결과를 개의치 않는 무모함"},
+      {"word": "nerve", "note": "배짱, 뻔뻔함 — 일상어로 'What nerve!'(뻔뻔하기도!)"},
+      {"word": "audacity", "note": "대담함 — temerity처럼 무모하거나 뻔뻔한 뉘앙스"},
+      {"word": "insolence", "note": "윗사람에 대한 무례하고 거만한 태도"},
+      {"word": "effrontery", "note": "면전에서 당당하게 뻔뻔한 행동"},
+      {"word": "impudence", "note": "예의 없이 건방지고 뻔뻔한 태도"}
     ],
     "tips": [
       "라틴어 `temere`(무턱대고, 경솔하게)에서 왔어. '무모하게 덤비는 대담함'이야.",
@@ -214,13 +218,13 @@
       "n.) 평정, 침착, 중용"
     ],
     "synonyms_from_image": [
-      {"word": "moderate", "note": "완화하다, 조절하다"},
-      {"word": "restrain", "note": "억제하다"},
-      {"word": "blend", "note": "알맞게 섞다"},
-      {"word": "qualify", "note": "조건을 달아 완화하다"},
-      {"word": "adjust", "note": "조절하다"},
-      {"word": "allay", "note": "진정시키다"},
-      {"word": "appease", "note": "달래다"}
+      {"word": "moderate", "note": "극단을 피해 적절한 수준으로 조절하다"},
+      {"word": "restrain", "note": "억제하여 완화하다"},
+      {"word": "blend", "note": "알맞은 비율로 섞다 — temper의 '조절하다' 뜻과 통함"},
+      {"word": "qualify", "note": "조건을 달아 주장을 완화하다"},
+      {"word": "adjust", "note": "적절하게 조절하다"},
+      {"word": "allay", "note": "불안·걱정 등을 진정시켜 완화하다"},
+      {"word": "appease", "note": "달래서 화를 누그러뜨리다"}
     ],
     "tips": [
       "GRE 함정 단어! 일상에서는 '화, 성질'(lose one's temper)로만 알지만, GRE에서는 동사 '완화하다'가 핵심이야: temper justice with mercy = 정의에 자비를 더해 완화하다.",
@@ -236,7 +240,11 @@
       "(~한) 기질의"
     ],
     "synonyms_from_image": [
-      {"word": "annealed", "note": "풀림 처리한 → 단련한"}
+      {"word": "annealed", "note": "금속을 가열 후 서서히 냉각시켜 단련한 — tempered와 같은 금속 처리 과정"}
+    ],
+    "tips": [
+      "temper의 형용사형이야. tempered steel = 단금질한 강철(강하고 유연함). 비유적으로 '시련으로 단련된'이란 뜻도 돼.",
+      "`even-tempered`(침착한), `hot-tempered`(성급한), `ill-tempered`(성질 나쁜)처럼 복합어로 자주 나와. 여기서 tempered는 '~한 기질의'란 뜻이야."
     ]
   },
   {
@@ -248,12 +256,16 @@
       "절주, 금주"
     ],
     "synonyms_from_image": [
-      {"word": "teetotalism", "note": "완전 금주"},
-      {"word": "abstinence", "note": "절제, 금욕"},
-      {"word": "abstention", "note": "자제, 삼감"},
-      {"word": "sobriety", "note": "절제, 맑은 정신"},
-      {"word": "self-restraint", "note": "자제력"},
-      {"word": "prohibition", "note": "금지, 금주법"}
+      {"word": "teetotalism", "note": "술을 한 방울도 안 마시는 완전 금주"},
+      {"word": "abstinence", "note": "욕구를 억제하는 절제 — 금주뿐 아니라 넓은 금욕에도 쓰임"},
+      {"word": "abstention", "note": "어떤 행동을 삼가는 자제"},
+      {"word": "sobriety", "note": "술에 취하지 않은 맑은 정신 → 절제"},
+      {"word": "self-restraint", "note": "스스로를 억제하는 자제력"},
+      {"word": "prohibition", "note": "법으로 금지함 — 미국 Prohibition 시대가 temperance 운동의 결과물"}
+    ],
+    "tips": [
+      "`temper`(조절하다)의 명사형이야. 핵심은 '자기 욕구를 적절히 조절하는 것' = 절제.",
+      "19세기 미국 Temperance Movement(금주 운동)이 유명해. 이 운동 덕에 temperance에 '금주'라는 특수한 뜻이 생긴 거야. GRE에서는 '절제' 전반을 뜻할 때도, '금주'를 뜻할 때도 나와."
     ]
   },
   {
@@ -264,11 +276,15 @@
       "(기후가) 온화한"
     ],
     "synonyms_from_image": [
-      {"word": "moderate", "note": "절도 있는"},
-      {"word": "sober", "note": "절제하는"},
-      {"word": "continent", "note": "자제하는"},
-      {"word": "unimpassioned", "note": "격정 없는, 차분한"},
-      {"word": "composed", "note": "침착한"}
+      {"word": "moderate", "note": "극단을 피한 절도 있는"},
+      {"word": "sober", "note": "차분하고 절제된"},
+      {"word": "continent", "note": "형용사로 '자제하는'이란 뜻이 있어 — temperate와 같은 맥락"},
+      {"word": "unimpassioned", "note": "격정 없이 차분한 — 감정적 절제"},
+      {"word": "composed", "note": "침착하고 자제력 있는"}
+    ],
+    "tips": [
+      "`temper`(조절하다) + `-ate` → 잘 조절된 = 절도 있는. 기후에 쓰이면 극단적이지 않은 = 온화한 (temperate climate = 온대 기후).",
+      "사람에 쓰이면 '감정·행동이 절도 있는, 자제력 있는'이야. `intemperate`(무절제한, 과도한)가 반대말이야."
     ]
   },
   {
@@ -280,15 +296,14 @@
       "현세의, 세속적인"
     ],
     "synonyms_from_image": [
-      {"word": "earthy", "note": "세속적인"},
-      {"word": "sensual", "note": "감각적인, 세속적인"},
-      {"word": "worldly", "note": "세속적인"},
-      {"word": "terrestrial", "note": "현세의, 지상의"},
-      {"word": "transitory", "note": "일시적인"},
-      {"word": "temporary", "note": "일시적인"},
+      {"word": "earthy", "note": "영적인 것과 대비되는 현세적·세속적 관심사에서 temporal과 통함"},
+      {"word": "worldly", "note": "세속적인 — temporal의 '현세의' 뜻과 직결"},
+      {"word": "terrestrial", "note": "지상의, 현세의 — 천상(celestial)과 대비"},
+      {"word": "transitory", "note": "오래가지 않는, 일시적인"},
+      {"word": "temporary", "note": "일시적인 — temporal과 어원이 같음"},
       {"word": "passing", "note": "지나가는, 일시적인"},
-      {"word": "fleeting", "note": "순간적인"},
-      {"word": "chronological", "note": "시간 순서의"}
+      {"word": "fleeting", "note": "순간적으로 스쳐 지나가는"},
+      {"word": "chronological", "note": "시간 순서의 — temporal의 '시간의' 뜻과 직결"}
     ],
     "tips": [
       "`temporal`은 뜻이 여러 갈래처럼 보이는데, 핵심은 '이 세상의 시간 속에 있는'이야:\n1) 시간과 관련된 → 시간의 (temporal order = 시간 순서)\n2) 시간 속 = 영원하지 않은 → 일시적인 (temporal pleasures)\n3) 이 세상의 시간 = 내세가 아닌 현세 → 세속적인 (temporal power = 세속 권력 ↔ spiritual)",
@@ -304,10 +319,10 @@
       "타협하다"
     ],
     "synonyms_from_image": [
-      {"word": "postpone", "note": "미루다"},
-      {"word": "procrastinate", "note": "꾸물거리다"},
-      {"word": "protract", "note": "질질 끌다"},
-      {"word": "change one's mind", "note": "마음을 바꾸다 → 임시변통"}
+      {"word": "postpone", "note": "나중으로 미루다"},
+      {"word": "procrastinate", "note": "꾸물거리며 미루다 — temporize보다 게으른 느낌"},
+      {"word": "protract", "note": "질질 끌어 늘이다"},
+      {"word": "change one's mind", "note": "상황에 따라 입장을 바꾸다 — temporize의 '임시변통' 뜻과 통함"}
     ],
     "tips": [
       "`tempor-`(시간) + `-ize`(~하다) = '시간을 벌다'야. 결단을 내려야 하는데 시간만 끌면서 결정을 미루는 느낌.",
@@ -323,16 +338,13 @@
       "(지위를) 유지할 수 있는"
     ],
     "synonyms_from_image": [
-      {"word": "sustainable", "note": "유지 가능한"},
-      {"word": "defensible", "note": "방어할 수 있는"},
-      {"word": "justifiable", "note": "정당화할 수 있는"},
-      {"word": "rational", "note": "합리적인"},
-      {"word": "sound", "note": "타당한, 건전한"},
-      {"word": "viable", "note": "실행 가능한"},
-      {"word": "plausible", "note": "그럴듯한"},
-      {"word": "believable", "note": "믿을 만한"},
-      {"word": "conceivable", "note": "생각할 수 있는"},
-      {"word": "reasonable", "note": "합리적인"}
+      {"word": "defensible", "note": "공격·비판에 맞서 방어할 수 있는"},
+      {"word": "justifiable", "note": "정당한 이유를 댈 수 있는"},
+      {"word": "sound", "note": "논리적으로 탄탄하고 타당한"},
+      {"word": "viable", "note": "실현 가능하고 유지할 수 있는"},
+      {"word": "plausible", "note": "그럴듯하게 들리는 — tenable보다 약한 근거도 OK"},
+      {"word": "sustainable", "note": "장기적으로 유지할 수 있는"},
+      {"word": "reasonable", "note": "합리적이고 납득 가능한"}
     ],
     "tips": [
       "`ten-`(잡다, hold) + `-able`(할 수 있는) = '잡고 버틸 수 있는'. 공격받아도 방어해서 유지할 수 있는 → 타당한, 방어 가능한.",
@@ -347,16 +359,17 @@
       "완강한, 고집하는"
     ],
     "synonyms_from_image": [
-      {"word": "strong", "note": "의지가 강한"},
-      {"word": "persevering", "note": "끈기 있는"},
-      {"word": "clinging", "note": "매달리는, 놓지 않는"},
-      {"word": "stubborn", "note": "고집스러운"},
-      {"word": "inexorable", "note": "굽히지 않는"},
-      {"word": "dogged", "note": "끈질긴"},
-      {"word": "opinionated", "note": "고집이 센"},
-      {"word": "persistent", "note": "끈기 있는"},
-      {"word": "resolute", "note": "단호한"},
-      {"word": "obstinate", "note": "완강한"}
+      {"word": "persevering", "note": "어려움에도 포기하지 않고 끈기 있는"},
+      {"word": "dogged", "note": "개처럼 물고 늘어지는 끈질김"},
+      {"word": "persistent", "note": "계속해서 그만두지 않는"},
+      {"word": "resolute", "note": "결의가 굳어 흔들리지 않는"},
+      {"word": "obstinate", "note": "완강하게 버티며 양보하지 않는"},
+      {"word": "stubborn", "note": "고집스럽게 자기 입장을 굽히지 않는"},
+      {"word": "clinging", "note": "매달리듯 놓지 않는"}
+    ],
+    "tips": [
+      "`ten-`(잡다, hold) + `-acious` → 꽉 잡고 절대 안 놓는 거야. 불독이 한번 물면 안 놓듯이!",
+      "긍정적으로 쓰이면 '끈기 있는'(a tenacious researcher), 부정적으로 쓰이면 '집요한, 완강한'(tenacious resistance). GRE에서 맥락에 따라 양쪽으로 나와."
     ]
   },
   {
@@ -367,11 +380,14 @@
       "고집"
     ],
     "synonyms_from_image": [
-      {"word": "resolve", "note": "결의"},
-      {"word": "persistence", "note": "끈기"},
-      {"word": "courage", "note": "끈질긴 용기"},
-      {"word": "resolution", "note": "결심, 결의"},
-      {"word": "perseverance", "note": "인내, 끈기"}
+      {"word": "resolve", "note": "확고한 결의 — 흔들리지 않는 의지"},
+      {"word": "persistence", "note": "포기하지 않고 계속하는 끈기"},
+      {"word": "resolution", "note": "결심, 결의 — 단호하게 밀고 나가는 힘"},
+      {"word": "perseverance", "note": "어려움 속에서도 견디는 인내와 끈기"}
+    ],
+    "tips": [
+      "tenacious의 명사형. `ten-`(잡다) + `-acity` → 잡고 놓지 않는 성질 = 끈기.",
+      "GRE에서 자주 나와: show tenacity in the face of adversity = 역경 앞에서 끈기를 보여주다."
     ]
   },
   {
@@ -382,12 +398,10 @@
       "(논설/발언이) 특정 입장을 옹호하는"
     ],
     "synonyms_from_image": [
-      {"word": "prejudiced", "note": "편견 있는"},
-      {"word": "partial", "note": "편파적인"},
-      {"word": "partisan", "note": "당파적인"},
-      {"word": "colored", "note": "편향된, 왜곡된"},
-      {"word": "intended", "note": "의도된, 목적성 있는"},
-      {"word": "controversial", "note": "논란이 되는"}
+      {"word": "prejudiced", "note": "미리 편견을 가진"},
+      {"word": "partial", "note": "한쪽에 치우친, 편파적인"},
+      {"word": "partisan", "note": "특정 당파·진영을 편드는"},
+      {"word": "colored", "note": "사실이 편향되게 왜곡된"}
     ],
     "tips": [
       "`tend`(경향이 있다)에서 파생. 특정 방향으로 '경향을 가진' = 편향적인. 학문/글/발언이 중립이 아니라 한쪽 입장을 밀어주는 느낌이야.",
@@ -402,16 +416,17 @@
       "원칙, 신념"
     ],
     "synonyms_from_image": [
-      {"word": "ism", "note": "주의, 이념"},
-      {"word": "canon", "note": "규범, 교회법"},
-      {"word": "precept", "note": "교훈, 지침"},
-      {"word": "principle", "note": "원칙, 원리"},
-      {"word": "belief", "note": "신념"},
-      {"word": "position", "note": "입장, 견해"},
-      {"word": "credo", "note": "신조, 신념"},
-      {"word": "conviction", "note": "확신, 신념"},
-      {"word": "maxim", "note": "격언, 좌우명"},
-      {"word": "rule", "note": "규칙"}
+      {"word": "canon", "note": "교회법·규범 — 공동체가 따르는 공식 원칙"},
+      {"word": "precept", "note": "행동의 지침이 되는 교훈·규칙"},
+      {"word": "principle", "note": "근본 원칙, 원리"},
+      {"word": "belief", "note": "굳게 믿는 신념"},
+      {"word": "credo", "note": "개인이나 집단의 신조 — '나는 믿는다'라는 라틴어에서 유래"},
+      {"word": "conviction", "note": "확고한 신념, 소신"},
+      {"word": "maxim", "note": "행동 지침이 되는 격언·좌우명"}
+    ],
+    "tips": [
+      "`ten-`(잡다, hold) → '굳게 잡고 있는 믿음' = 교리, 신조. 영화 'Tenet'도 '끝까지 잡고 있는 신념'에서 이름을 따온 거야.",
+      "the basic tenets of democracy = 민주주의의 기본 원칙. GRE에서 종교·철학·정치의 핵심 믿음을 가리킬 때 써."
     ]
   },
   {
@@ -422,11 +437,15 @@
       "인장(引張)의"
     ],
     "synonyms_from_image": [
-      {"word": "ductile", "note": "연성이 있는, 늘어나는"},
-      {"word": "malleable", "note": "가단성 있는, 두드려 펴지는"},
-      {"word": "flexible", "note": "유연한"},
-      {"word": "pliable", "note": "잘 구부러지는"},
-      {"word": "elastic", "note": "탄력 있는"}
+      {"word": "ductile", "note": "잡아당기면 가늘게 늘어나는 연성이 있는"},
+      {"word": "malleable", "note": "두드리면 펴지는 가단성 — tensile과 다른 방향이지만 '변형 가능'에서 겹침"},
+      {"word": "flexible", "note": "유연하게 휘거나 늘어나는"},
+      {"word": "pliable", "note": "잘 구부러지고 유연한"},
+      {"word": "elastic", "note": "늘렸다 놓으면 원래로 돌아오는 탄력 있는"}
+    ],
+    "tips": [
+      "`tens-`(당기다, stretch) + `-ile`(할 수 있는) → 잡아당겨 늘일 수 있는. tensile strength = 인장 강도(재료가 끊어지기 전까지 견디는 당기는 힘).",
+      "`tension`(긴장, 팽팽함), `tense`(긴장한), `extend`(늘리다)와 모두 같은 어근이야."
     ]
   },
   {
@@ -437,11 +456,11 @@
       "자신 없는, 머뭇거리는"
     ],
     "synonyms_from_image": [
-      {"word": "trial", "note": "시험적인"},
-      {"word": "unconfirmed", "note": "확인되지 않은"},
-      {"word": "unsettled", "note": "미결정의"},
-      {"word": "speculative", "note": "추측적인"},
-      {"word": "indefinite", "note": "불확실한"}
+      {"word": "trial", "note": "시험적인, 시행 단계의"},
+      {"word": "unconfirmed", "note": "아직 확정되지 않은"},
+      {"word": "unsettled", "note": "미결정의, 확정되지 않은"},
+      {"word": "speculative", "note": "추측에 기반한, 확실하지 않은"},
+      {"word": "indefinite", "note": "불확실한, 정해지지 않은"}
     ],
     "tips": [
       "`tent-`(시도하다, try)에서 왔어. '시도 단계'라서 확정되지 않은 느낌이야:\n1) 계획/결정 → 잠정적인 (a tentative agreement = 잠정 합의)\n2) 사람의 태도 → 자신 없는, 머뭇거리는 (a tentative smile = 조심스러운 미소)",
@@ -457,12 +476,12 @@
       "(공기 등이) 희박한"
     ],
     "synonyms_from_image": [
-      {"word": "trivial", "note": "하찮은"},
-      {"word": "slender", "note": "가는, 미약한"},
-      {"word": "attenuated", "note": "약화된, 가늘어진"},
-      {"word": "meager", "note": "빈약한"},
-      {"word": "flimsy", "note": "허약한, 빈약한 근거"},
-      {"word": "rarefied", "note": "희박한 (공기)"}
+      {"word": "trivial", "note": "하찮고 미미한"},
+      {"word": "slender", "note": "가늘고 미약한 — a slender hope처럼"},
+      {"word": "attenuated", "note": "약화되어 가늘어진 — tenuous와 어원이 같음"},
+      {"word": "meager", "note": "양이나 근거가 빈약한"},
+      {"word": "flimsy", "note": "근거가 허약하고 설득력 없는"},
+      {"word": "rarefied", "note": "공기가 희박해진 — tenuous의 '희박한' 뜻과 직결"}
     ],
     "tips": [
       "`tenu-`(얇은, thin)에서 왔어. '실처럼 가늘어서 끊어질 듯한' 이미지야.",
@@ -477,9 +496,13 @@
       "종신재직권(교수)"
     ],
     "synonyms_from_image": [
-      {"word": "possession", "note": "소유, 보유"},
-      {"word": "retention", "note": "유지, 보유"},
-      {"word": "maintenance", "note": "유지, 관리"}
+      {"word": "possession", "note": "소유, 보유 — tenure의 '보유' 뜻과 통함"},
+      {"word": "retention", "note": "유지, 보유 — 직위나 자산을 계속 갖고 있는 것"},
+      {"word": "maintenance", "note": "유지, 관리 — 상태를 계속 지키는 것"}
+    ],
+    "tips": [
+      "`ten-`(잡다, hold) + `-ure` → 잡고 있는 기간 = 재직기간. during his tenure as CEO = CEO 재직 시절.",
+      "대학교수의 `tenure`는 특별한 의미야 — 한번 받으면 해고 불가능한 종신재직권이야. tenure track = 종신직 트랙."
     ]
   },
   {
@@ -490,11 +513,11 @@
       "미온적인, 열의 없는"
     ],
     "synonyms_from_image": [
-      {"word": "temperate", "note": "온건한, 미지근한"},
-      {"word": "lackadaisical", "note": "열의 없는, 무기력한"},
-      {"word": "indifferent", "note": "무관심한"},
-      {"word": "mild", "note": "온화한, 미지근한"},
-      {"word": "warmish", "note": "미지근한"}
+      {"word": "temperate", "note": "온건한 — 극단적이지 않은 온도/태도에서 tepid와 겹침"},
+      {"word": "lackadaisical", "note": "열의 없이 무기력한"},
+      {"word": "indifferent", "note": "무관심한, 신경 쓰지 않는"},
+      {"word": "mild", "note": "온화한 — 뜨겁지도 차갑지도 않은 미지근함"},
+      {"word": "warmish", "note": "약간 따뜻한, 미지근한"}
     ],
     "tips": [
       "GRE 함정 단어! 일상에서는 tepid water = 미지근한 물이지만, GRE에서는 거의 항상 비유적으로 쓰여: tepid response = 미온적인 반응 = 열의 없는, 시큰둥한.",
@@ -524,13 +547,17 @@
       "(말투가) 퉁명스러운"
     ],
     "synonyms_from_image": [
-      {"word": "laconic", "note": "간결한, 말수 적은"},
+      {"word": "laconic", "note": "말수가 극히 적은, 간결한"},
       {"word": "brief", "note": "짧은"},
-      {"word": "compact", "note": "간결한"},
-      {"word": "succinct", "note": "간결한"},
-      {"word": "short", "note": "짧은"},
-      {"word": "neat", "note": "깔끔한"},
-      {"word": "curt", "note": "무뚝뚝하게 짧은"}
+      {"word": "compact", "note": "압축적으로 간결한"},
+      {"word": "succinct", "note": "군더더기 없이 핵심만 담은 간결한"},
+      {"word": "short", "note": "짧은 — 무뚝뚝한 뉘앙스도 있음 (a short reply)"},
+      {"word": "neat", "note": "깔끔하게 정돈된"},
+      {"word": "curt", "note": "무뚝뚝하게 짧은 — terse의 '퉁명스러운' 면과 같음"}
+    ],
+    "tips": [
+      "라틴어 `tersus`(닦아낸, 깔끔한)에서 왔어. 군더더기를 싹 닦아낸 듯 간결한 느낌이야.",
+      "GRE에서 terse는 양면이 있어: 긍정적이면 '간결한'(terse prose = 간결한 산문), 부정적이면 '퉁명스러운'(a terse reply = 퉁명스러운 답변). 맥락으로 구분해야 해."
     ]
   },
   {
@@ -541,23 +568,16 @@
       "증명, 입증"
     ],
     "synonyms_from_image": [
-      {"word": "evidence", "note": "증거"},
-      {"word": "sworn statement", "note": "선서 진술"},
-      {"word": "attestation", "note": "증명, 증언"},
-      {"word": "affidavit", "note": "선서 진술서"},
-      {"word": "declaration", "note": "선언, 진술"},
-      {"word": "assertion", "note": "주장, 단언"},
-      {"word": "affirmation", "note": "확인, 긍정"},
-      {"word": "allegation", "note": "주장, 혐의"},
-      {"word": "claim", "note": "주장"},
-      {"word": "deposition", "note": "증언록"},
-      {"word": "testament", "note": "증거, 증명"},
-      {"word": "proof", "note": "증거"},
-      {"word": "witness", "note": "증인, 증거"},
-      {"word": "confirmation", "note": "확인"},
-      {"word": "corroboration", "note": "뒷받침, 입증"},
-      {"word": "demonstration", "note": "입증"},
-      {"word": "indication", "note": "표시, 징후"}
+      {"word": "evidence", "note": "사실을 뒷받침하는 증거"},
+      {"word": "attestation", "note": "공식적인 증명, 증언"},
+      {"word": "affidavit", "note": "법적 효력이 있는 선서 진술서"},
+      {"word": "deposition", "note": "법정 밖에서 받은 선서 증언록"},
+      {"word": "corroboration", "note": "다른 증거로 사실을 뒷받침하는 것"},
+      {"word": "testament", "note": "~의 증거/증명 — testimony와 어원이 같음"}
+    ],
+    "tips": [
+      "`testi-`(증인) + `-mony` = 증인의 말 = 증언. `testament`(유언장/증거)와 같은 어근이야.",
+      "GRE에서는 법정 증언뿐 아니라 비유적 의미도 중요해: Her success is a testimony to her hard work = 그녀의 성공은 노력의 증거야."
     ]
   },
   {
@@ -567,11 +587,15 @@
       "성미 급한, 성 잘 내는"
     ],
     "synonyms_from_image": [
-      {"word": "cranky", "note": "짜증 잘 내는"},
-      {"word": "tetchy", "note": "성마른"},
-      {"word": "choleric", "note": "다혈질의"},
-      {"word": "irascible", "note": "성 잘 내는"},
-      {"word": "cantankerous", "note": "까다롭고 까칠한"}
+      {"word": "cranky", "note": "사소한 것에 짜증 잘 내는"},
+      {"word": "tetchy", "note": "신경질적이고 성마른"},
+      {"word": "choleric", "note": "다혈질의 — 쉽게 화를 내는 기질"},
+      {"word": "irascible", "note": "화를 잘 내는 성격인"},
+      {"word": "cantankerous", "note": "까다롭고 투덜거리며 까칠한"}
+    ],
+    "tips": [
+      "옛 프랑스어 `teste`(머리)에서 왔어. '머리에 피가 확 오르는' 성격 = 성미 급한.",
+      "testy는 특히 사소한 것에 쉽게 짜증내는 느낌이야. irascible(화를 잘 내는)보다 좀 더 가볍고, cantankerous(까칠하고 투덜대는)보다 좀 더 급한 성질이야."
     ]
   },
   {
@@ -583,14 +607,15 @@
       "n.) 한계, 범위"
     ],
     "synonyms_from_image": [
-      {"word": "tie", "note": "묶다"},
-      {"word": "bind", "note": "묶다, 결박하다"},
+      {"word": "tie", "note": "묶다 — 가장 기본적인 '매다'"},
+      {"word": "bind", "note": "단단히 묶어 결박하다"},
       {"word": "rope", "note": "밧줄로 묶다"},
-      {"word": "chain", "note": "사슬로 묶다"},
-      {"word": "fasten", "note": "고정하다, 묶다"}
+      {"word": "chain", "note": "사슬로 묶어 자유를 제한하다"},
+      {"word": "fasten", "note": "고정하여 움직이지 못하게 묶다"}
     ],
     "tips": [
-      "핵심 표현: `at the end of one's tether` = 한계에 다다른, 더 이상 못 참겠는. 밧줄 끝까지 간 동물처럼 더 이상 갈 데가 없는 상태야."
+      "핵심 표현: `at the end of one's tether` = 한계에 다다른, 더 이상 못 참겠는. 밧줄 끝까지 간 동물처럼 더 이상 갈 데가 없는 상태야.",
+      "비유적으로 '어떤 것에 묶여 자유롭지 못한 상태'에도 써: tethered to her desk = 책상에 묶여 있는 = 자리를 뜰 수 없는."
     ]
   },
   {
@@ -601,16 +626,17 @@
       "가설적인, 가정적인"
     ],
     "synonyms_from_image": [
-      {"word": "conceptual", "note": "개념적인"},
-      {"word": "hypothetical", "note": "가설적인"},
-      {"word": "conjectural", "note": "추측에 의한"},
-      {"word": "suppositional", "note": "가정적인"},
-      {"word": "speculative", "note": "추측적인"},
-      {"word": "postulatory", "note": "가정에 기반한"},
-      {"word": "assumed", "note": "가정된"},
-      {"word": "presumed", "note": "추정된"},
-      {"word": "unproven", "note": "증명되지 않은"},
-      {"word": "unsubstantiated", "note": "근거 없는"}
+      {"word": "conceptual", "note": "실제가 아닌 개념·관념 차원의"},
+      {"word": "hypothetical", "note": "가설에 기반한, 가정적인"},
+      {"word": "conjectural", "note": "확실한 증거 없이 추측에 의한"},
+      {"word": "speculative", "note": "실증 없이 사변적으로 추론한"},
+      {"word": "unproven", "note": "아직 증명되지 않은"},
+      {"word": "unsubstantiated", "note": "근거가 충분히 뒷받침되지 않은"},
+      {"word": "assumed", "note": "사실로 가정된, 증명 없이 전제한"}
+    ],
+    "tips": [
+      "그리스어 `theoria`(관찰, 사색)에서 왔어. 실제 검증 전의 관찰·추론 단계 → 이론상의.",
+      "theoretical vs practical: theoretical knowledge = 이론적 지식, practical knowledge = 실무 지식. GRE에서 이 대비가 자주 나와."
     ]
   },
   {
@@ -621,15 +647,16 @@
       "예속"
     ],
     "synonyms_from_image": [
-      {"word": "yoke", "note": "멍에, 속박"},
-      {"word": "helotry", "note": "노예 상태"},
-      {"word": "servitude", "note": "예속, 노역"},
-      {"word": "thralldom", "note": "속박, 노예 상태"},
-      {"word": "bondsman", "note": "노예, 농노"},
-      {"word": "serf", "note": "농노"}
+      {"word": "yoke", "note": "소에 씌우는 멍에 → 속박, 지배"},
+      {"word": "helotry", "note": "스파르타의 농노(헬로트) 상태 → 노예 상태"},
+      {"word": "servitude", "note": "남에게 예속되어 봉사하는 신세"},
+      {"word": "thralldom", "note": "thrall의 파생어 — 속박, 노예 상태"},
+      {"word": "bondsman", "note": "주인에게 묶인(bond) 노예/농노"},
+      {"word": "serf", "note": "중세 봉건제의 농노"}
     ],
     "tips": [
-      "핵심 표현: `in thrall to` = ~에 사로잡힌, ~에 예속된. held in thrall by the speaker = 연사에게 완전히 사로잡힌. 물리적 노예뿐 아니라 정신적 속박에도 써."
+      "핵심 표현: `in thrall to` = ~에 사로잡힌, ~에 예속된. held in thrall by the speaker = 연사에게 완전히 사로잡힌. 물리적 노예뿐 아니라 정신적 속박에도 써.",
+      "고대 노르드어 `þræll`(노예)에서 온 아주 오래된 영어 단어야. GRE에서는 주로 비유적 의미(정신적·감정적 속박)로 나와."
     ]
   },
   {
@@ -639,12 +666,16 @@
       "절약하는, 알뜰한"
     ],
     "synonyms_from_image": [
-      {"word": "economizing", "note": "절약하는"},
-      {"word": "closefisted", "note": "인색한"},
-      {"word": "tightfisted", "note": "쥐어짜듯 절약하는"},
-      {"word": "frugal", "note": "검소한"},
-      {"word": "sparing", "note": "아끼는"},
+      {"word": "economizing", "note": "비용을 아끼며 절약하는"},
+      {"word": "closefisted", "note": "주먹을 꽉 쥔 듯 인색한 — thrifty보다 부정적"},
+      {"word": "tightfisted", "note": "돈을 꽉 쥐고 안 놓는 — thrifty보다 부정적"},
+      {"word": "frugal", "note": "검소하게 아끼는 — thrifty와 가장 가까운 동의어"},
+      {"word": "sparing", "note": "아껴 쓰는, 낭비하지 않는"},
       {"word": "saving", "note": "절약하는"}
+    ],
+    "tips": [
+      "`thrive`(번성하다)와 같은 어원이야! 원래 '번성하는' → 잘 사는 비결이 절약 → '절약하는'으로 의미가 변한 거야.",
+      "thrifty/frugal은 긍정적(알뜰한), stingy/miserly/closefisted는 부정적(인색한)이야. GRE에서 이 뉘앙스 차이가 출제돼."
     ]
   },
   {
@@ -656,12 +687,16 @@
       "무럭무럭 자라다"
     ],
     "synonyms_from_image": [
-      {"word": "advance", "note": "발전하다"},
-      {"word": "succeed", "note": "성공하다"},
-      {"word": "get on", "note": "잘 되다"},
-      {"word": "wax", "note": "증가하다, 번성하다"},
-      {"word": "bloom", "note": "꽃피다, 번영하다"},
-      {"word": "fatten", "note": "풍요로워지다"}
+      {"word": "advance", "note": "앞으로 나아가며 발전하다"},
+      {"word": "succeed", "note": "목표를 이루어 성공하다"},
+      {"word": "get on", "note": "잘 되다, 잘 해나가다"},
+      {"word": "wax", "note": "달이 차듯 점점 커지며 번성하다"},
+      {"word": "bloom", "note": "꽃이 피듯 활짝 번영하다"},
+      {"word": "fatten", "note": "살이 오르듯 풍요로워지다"}
+    ],
+    "tips": [
+      "고대 노르드어 `þrífa`(움켜잡다)에서 왔어. 기회를 움켜잡고 쑥쑥 성장하는 이미지야.",
+      "thrive on ~: ~를 먹고 자라다, ~에서 힘을 얻다. She thrives on challenges = 그녀는 도전에서 힘을 얻어 성장한다. GRE 지문에서 자주 보이는 패턴이야."
     ]
   },
   {
@@ -671,16 +706,16 @@
       "아첨꾼, 알랑쇠"
     ],
     "synonyms_from_image": [
-      {"word": "fawner", "note": "꼬리치며 아첨하는 사람"},
-      {"word": "flatterer", "note": "아첨꾼"},
-      {"word": "sycophant", "note": "아첨꾼"},
-      {"word": "grovel(l)er", "note": "비굴하게 구는 사람"},
-      {"word": "myrmidon", "note": "맹목적 추종자"},
-      {"word": "spaniel", "note": "스패니얼처럼 꼬리치는 아첨꾼"},
-      {"word": "lackey", "note": "하인, 추종자"},
-      {"word": "flunky", "note": "아첨하는 하인"},
-      {"word": "parasite", "note": "기생하는 사람"},
-      {"word": "brownnose", "note": "아부꾼"}
+      {"word": "fawner", "note": "새끼 사슴(fawn)처럼 꼬리치며 알랑거리는 사람"},
+      {"word": "flatterer", "note": "과장해서 칭찬하며 아첨하는 사람"},
+      {"word": "sycophant", "note": "권력자에게 아부하는 아첨꾼"},
+      {"word": "grovel(l)er", "note": "비굴하게 엎드려 구는 사람"},
+      {"word": "myrmidon", "note": "아킬레우스의 부하처럼 맹목적으로 따르는 추종자"},
+      {"word": "spaniel", "note": "스패니얼 강아지처럼 꼬리치는 아첨꾼"},
+      {"word": "lackey", "note": "하인 → 비굴하게 따르는 추종자"},
+      {"word": "flunky", "note": "시키는 대로 하는 아첨하는 하인"},
+      {"word": "parasite", "note": "기생하듯 권력자에게 붙어사는 사람"},
+      {"word": "brownnose", "note": "속어로 '아부꾼' — 노골적인 아첨"}
     ],
     "tips": [
       "17세기 약장수의 조수가 두꺼비(toad)를 먹는 척하는 쇼를 했어. 약장수가 '해독제'로 치료하는 시연을 하려고. 이 '두꺼비 먹는 사람'(toad-eater)이 줄어서 `toady`가 됐어. 상사를 위해 뭐든 하는 아첨꾼!",
@@ -696,7 +731,11 @@
       "[약에] 내성이 있다"
     ],
     "synonyms_from_image": [
-      {"word": "brook", "note": "참다, 견디다 (주로 부정문에서)"}
+      {"word": "brook", "note": "참다, 견디다 — 주로 부정문에서: I will not brook such behavior"}
+    ],
+    "tips": [
+      "`brook`과 짝으로 외워둬. 둘 다 '참다, 견디다'인데 brook이 더 문어체야: She would not brook any interference = 어떤 간섭도 용납하지 않았다.",
+      "tolerate에는 '묵인하다'(=눈감아주다)라는 뉘앙스도 있어. tolerant(관용적인), tolerance(관용)와 연결돼. GRE에서 이 쪽 뜻도 나와."
     ]
   },
   {
@@ -706,14 +745,14 @@
       "(두꺼운) 대형 책, 대작"
     ],
     "synonyms_from_image": [
-      {"word": "book", "note": "책"},
-      {"word": "roll of paper", "note": "두루마리"},
-      {"word": "treatise", "note": "논문, 전문서"},
-      {"word": "tract", "note": "논설, 소논문"},
-      {"word": "monograph", "note": "전공 논문"},
-      {"word": "quarto", "note": "4절판 책"},
-      {"word": "folio", "note": "2절판 대형 책"},
-      {"word": "one book of a series", "note": "시리즈 중 한 권"}
+      {"word": "book", "note": "책 — tome은 특히 두껍고 무거운 책"},
+      {"word": "treatise", "note": "특정 주제를 깊이 다룬 논문·전문서"},
+      {"word": "tract", "note": "특정 주제에 대한 논설·소논문"},
+      {"word": "monograph", "note": "하나의 주제를 전문적으로 다룬 학술서"}
+    ],
+    "tips": [
+      "그리스어 `tomos`(자르다, 한 부분)에서 왔어. 큰 전집에서 '잘라낸 한 권' → 두꺼운 책. 항상 묵직하고 학술적인 책을 가리켜.",
+      "a weighty tome on medieval history = 중세 역사에 관한 묵직한 대작. tome이라고 하면 대충 읽을 수 없는 두꺼운 책이란 느낌이야."
     ]
   },
   {
@@ -723,14 +762,17 @@
       "군중, 인파"
     ],
     "synonyms_from_image": [
-      {"word": "press", "note": "밀려드는 사람들"},
-      {"word": "crush", "note": "밀집한 군중"},
-      {"word": "mob", "note": "군중, 폭도"},
-      {"word": "rout", "note": "떼, 무리"},
-      {"word": "horde", "note": "떼, 무리"},
-      {"word": "mass", "note": "대량의 사람"},
-      {"word": "swarm", "note": "떼, 군중"},
-      {"word": "flock", "note": "무리, 떼"}
+      {"word": "press", "note": "밀려드는 사람들 — 압력 느낌"},
+      {"word": "crush", "note": "밀집해서 짓눌릴 것 같은 군중"},
+      {"word": "mob", "note": "질서 없이 몰려든 군중 — 부정적 뉘앙스"},
+      {"word": "horde", "note": "떼 지어 몰려온 무리"},
+      {"word": "mass", "note": "거대한 인파 덩어리"},
+      {"word": "swarm", "note": "벌떼처럼 우글거리는 군중"},
+      {"word": "flock", "note": "양 떼처럼 모여든 무리"}
+    ],
+    "tips": [
+      "throng은 명사(군중)로도, 동사(몰려들다)로도 써: Fans thronged the stadium = 팬들이 경기장에 떼로 몰려들었다.",
+      "crowd보다 더 빽빽하고 에너지가 느껴지는 군중이야. a throng of protesters = 빽빽이 모인 시위 군중."
     ]
   },
   {
@@ -741,13 +783,16 @@
       "억누르다, 억압하다"
     ],
     "synonyms_from_image": [
-      {"word": "choke", "note": "목을 조르다"},
-      {"word": "garrote", "note": "교살하다"},
-      {"word": "seize", "note": "움켜쥐다 → 목을 잡다"},
-      {"word": "suppress", "note": "억누르다"},
-      {"word": "block", "note": "차단하다"},
-      {"word": "smother", "note": "질식시키다"},
-      {"word": "suffocate", "note": "질식시키다"}
+      {"word": "choke", "note": "목을 조르거나 숨을 막다"},
+      {"word": "garrote", "note": "줄이나 끈으로 교살하다"},
+      {"word": "suppress", "note": "힘으로 억누르다 — throttle의 비유적 의미"},
+      {"word": "block", "note": "흐름을 차단하다"},
+      {"word": "smother", "note": "덮어서 질식시키다"},
+      {"word": "suffocate", "note": "공기를 끊어 질식시키다"}
+    ],
+    "tips": [
+      "`throat`(목)에서 파생됐어. 목을 잡아 조르다 → 비유적으로 '억누르다, 옥죄다'. throttle the economy = 경제를 옥죄다.",
+      "자동차의 throttle(스로틀)도 같은 단어야 — 엔진으로 가는 연료를 '조이거나 풀어서' 속도를 조절하는 장치."
     ]
   },
   {
@@ -757,16 +802,17 @@
       "방해하다, 좌절시키다"
     ],
     "synonyms_from_image": [
-      {"word": "frustrate", "note": "좌절시키다"},
-      {"word": "balk", "note": "방해하다, 거부하다"},
-      {"word": "arrest", "note": "저지하다"},
-      {"word": "checkmate", "note": "완전히 막다"},
-      {"word": "dash", "note": "희망을 꺾다"},
-      {"word": "hinder", "note": "방해하다"},
-      {"word": "inhibit", "note": "억제하다"}
+      {"word": "frustrate", "note": "기대·계획을 꺾어 좌절시키다"},
+      {"word": "balk", "note": "장애물을 놓아 가로막다"},
+      {"word": "arrest", "note": "진행을 멈추게 저지하다"},
+      {"word": "checkmate", "note": "체스에서처럼 완전히 막아 움직이지 못하게 하다"},
+      {"word": "dash", "note": "희망·계획을 산산이 꺾다"},
+      {"word": "hinder", "note": "진행을 방해하여 느리게 만들다"},
+      {"word": "inhibit", "note": "억제하여 행동을 막다"}
     ],
     "tips": [
-      "`thwart`는 원래 '가로지르다'(across)란 뜻이야. 누군가의 길을 가로막아서 → 방해하다, 좌절시키다. thwart someone's plans = 계획을 좌절시키다."
+      "`thwart`는 원래 '가로지르다'(across)란 뜻이야. 누군가의 길을 가로막아서 → 방해하다, 좌절시키다. thwart someone's plans = 계획을 좌절시키다.",
+      "GRE 단골 단어야! thwart someone's plans/efforts/ambitions 패턴으로 자주 나와."
     ]
   },
   {
@@ -791,10 +837,13 @@
       "음색, 음질"
     ],
     "synonyms_from_image": [
-      {"word": "tone", "note": "음색"},
-      {"word": "sound quality", "note": "음질"},
-      {"word": "pitch", "note": "음높이"},
-      {"word": "resonance", "note": "울림, 공명"}
+      {"word": "tone", "note": "소리의 색깔·질감 — 넓은 의미의 음색"},
+      {"word": "sound quality", "note": "소리의 질적 특성"},
+      {"word": "resonance", "note": "울림, 공명 — 악기 고유의 울림이 timbre를 결정함"}
+    ],
+    "tips": [
+      "프랑스어에서 온 단어라 발음이 /ˈtæmbər/(탬버)야. `timber`(목재)와 철자가 비슷하니 헷갈리지 마!",
+      "같은 음을 피아노와 바이올린으로 연주하면 pitch(음높이)는 같은데 timbre(음색)가 달라. 악기마다 고유한 '목소리'가 timbre야."
     ]
   },
   {
@@ -804,7 +853,11 @@
       "적시의, 시기적절한"
     ],
     "synonyms_from_image": [
-      {"word": "opportune", "note": "시기적절한"}
+      {"word": "opportune", "note": "기회에 딱 맞는 시기적절한"}
+    ],
+    "tips": [
+      "a timely intervention = 적시에 이루어진 개입. `opportune`과 거의 같은 뜻이야.",
+      "반대말: `untimely` = 때 이른, 시기적절하지 못한. an untimely death = 때 이른 죽음."
     ]
   },
   {
@@ -814,7 +867,11 @@
       "겁 많은, 소심한"
     ],
     "synonyms_from_image": [
-      {"word": "diffident", "note": "자신감 없는, 소극적인"}
+      {"word": "diffident", "note": "자신감이 부족하여 소극적인"}
+    ],
+    "tips": [
+      "라틴어 `timere`(두려워하다)에서 왔어. timorous, timidity도 같은 어근이야.",
+      "주의: `temerity`(무모한 대담)와 철자가 비슷하지만 뜻은 정반대! timid = 겁 많은 vs temerity = 무모한 대담. GRE가 좋아하는 함정이야."
     ]
   },
   {
@@ -824,11 +881,14 @@
       "겁, 소심함"
     ],
     "synonyms_from_image": [
-      {"word": "cowardice", "note": "비겁"},
-      {"word": "fearfulness", "note": "두려움"},
-      {"word": "shyness", "note": "수줍음"},
-      {"word": "fear", "note": "공포, 두려움"},
-      {"word": "weakness", "note": "나약함"}
+      {"word": "cowardice", "note": "비겁함 — timidity보다 더 강한 비난의 뉘앙스"},
+      {"word": "fearfulness", "note": "두려움이 많은 성향"},
+      {"word": "shyness", "note": "수줍어서 나서지 못하는 소심함"},
+      {"word": "fear", "note": "공포, 두려움"}
+    ],
+    "tips": [
+      "timid의 명사형. timidity ↔ boldness/audacity(대담함)이 반의어 쌍이야.",
+      "`temerity`(무모함)와 헷갈리지 마! 둘 다 tim-으로 시작하는데 뜻은 정반대야: timidity = 겁 많음 vs temerity = 무모한 대담."
     ]
   },
   {
@@ -838,11 +898,15 @@
       "겁 많은, 소심한"
     ],
     "synonyms_from_image": [
-      {"word": "faint-hearted", "note": "소심한"},
-      {"word": "spineless", "note": "기개 없는"},
-      {"word": "shy", "note": "수줍은"},
-      {"word": "timid", "note": "겁 많은"},
+      {"word": "faint-hearted", "note": "심장이 약한 듯 용기가 없는"},
+      {"word": "spineless", "note": "등뼈(spine)가 없는 듯 기개가 없는"},
+      {"word": "shy", "note": "수줍고 소극적인"},
+      {"word": "timid", "note": "겁 많은 — timorous와 거의 같은 뜻"},
       {"word": "cowardly", "note": "비겁한"}
+    ],
+    "tips": [
+      "timid와 같은 어원(`timere` = 두려워하다)이야. 뜻도 거의 같지만 timorous가 더 문어체/격식적이야.",
+      "스코틀랜드 시인 로버트 번스의 유명한 시 'To a Mouse'에 나와: \"Wee, sleekit, cow'rin, tim'rous beastie\" (작고 겁많은 짐승이여)."
     ]
   },
   {
@@ -852,11 +916,14 @@
       "어설프게 고치다/만지작거리다"
     ],
     "synonyms_from_image": [
-      {"word": "fiddle", "note": "만지작거리다"},
-      {"word": "fidget", "note": "안절부절 만지다"},
-      {"word": "trifle", "note": "대충 다루다"},
-      {"word": "mess", "note": "어지럽게 건드리다"},
-      {"word": "play", "note": "장난처럼 만지다"}
+      {"word": "fiddle", "note": "이것저것 만지작거리다 (fiddle with ~)"},
+      {"word": "trifle", "note": "대수롭지 않게 대충 다루다"},
+      {"word": "mess", "note": "어지럽게 건드려보다 (mess with ~)"},
+      {"word": "play", "note": "장난하듯 가볍게 만지다"}
+    ],
+    "tips": [
+      "원래 tinker는 떠돌이 땜장이(주석 수리공)를 뜻했어. 전문 기술 없이 이것저것 만져보며 고치는 이미지야.",
+      "tinker with the code = 코드를 이것저것 만져보다. 전문적 수리가 아니라 '어설프게 만지작거리다'가 핵심이야."
     ]
   },
   {
@@ -868,12 +935,13 @@
     ],
     "synonyms_from_image": [
       {"word": "long vehement speech", "note": "길고 격렬한 연설"},
-      {"word": "rant", "note": "고래고래 떠드는 비난"},
-      {"word": "harangue", "note": "장광설, 열변"},
-      {"word": "condemnation", "note": "비난"}
+      {"word": "rant", "note": "고래고래 떠들며 비난하는 것"},
+      {"word": "harangue", "note": "길고 열정적인 연설 — tirade보다 비난 뉘앙스가 약할 수도 있음"},
+      {"word": "condemnation", "note": "강하게 비난하는 것"}
     ],
     "tips": [
-      "원래 이탈리아어 `tirata`(한 번에 길게 쏟아내는 것)에서 왔어. 핵심은 '길게 + 격렬하게 + 비난'이야. 칭찬의 장광설에는 안 써!"
+      "이탈리아어 `tirata`(한 번에 길게 쏟아내는 것)에서 왔어. 핵심은 '길게 + 격렬하게 + 비난'이야. 칭찬의 장광설에는 안 써!",
+      "`harangue`와 비슷하지만, tirade는 '비난'에 더 초점이 있고, harangue는 '길고 열정적인 연설'(꼭 비난이 아닐 수도)에 초점이 있어."
     ]
   },
   {
@@ -883,7 +951,11 @@
       "귀찮은, 성가신",
       "지루한, 따분한"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "`tire` + `-some` = 지치게 만드는, 성가신. tedious와 비슷하지만 tiresome은 '짜증나게 성가신' 뉘앙스가 더 강해.",
+      "a tiresome argument = 계속 반복되어 성가신 논쟁. tedious가 '시간이 길어서 지루한'이라면, tiresome은 '짜증나서 힘든' 쪽이야."
+    ]
   },
   {
     "word": "titanic",
@@ -892,12 +964,12 @@
       "거대한, 엄청난"
     ],
     "synonyms_from_image": [
-      {"word": "enormous", "note": "거대한"},
-      {"word": "colossal", "note": "어마어마한"},
-      {"word": "mighty", "note": "강력한, 거대한"},
-      {"word": "cyclopean", "note": "키클롭스처럼 거대한"},
-      {"word": "stout", "note": "튼튼한, 건장한"},
-      {"word": "herculean", "note": "헤라클레스처럼 강력한"}
+      {"word": "enormous", "note": "보통 규모를 훨씬 넘는 거대한"},
+      {"word": "colossal", "note": "거상(colossus)처럼 어마어마하게 큰"},
+      {"word": "mighty", "note": "강력하고 위압적인 크기·힘"},
+      {"word": "cyclopean", "note": "키클롭스(외눈 거인)처럼 거대한"},
+      {"word": "stout", "note": "튼튼하고 건장한"},
+      {"word": "herculean", "note": "헤라클레스처럼 초인적으로 강력한"}
     ],
     "tips": [
       "그리스 신화의 타이탄(Titan)에서 유래. 제우스 이전 세대의 거대한 신들이야. 배 타이타닉호도 여기서 이름 따온 거야.",
