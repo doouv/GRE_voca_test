@@ -1343,8 +1343,27 @@
       }
     });
 
-    // Keyboard support for quiz
+    // Keyboard support for study + quiz
     document.addEventListener('keydown', (e) => {
+      // Study screen: arrow key navigation
+      if (!document.getElementById('studyScreen').classList.contains('hidden')) {
+        if (e.key === 'ArrowLeft') {
+          e.preventDefault();
+          if (currentStudyIndex > 0) { currentStudyIndex--; renderStudyCard(); }
+        } else if (e.key === 'ArrowRight') {
+          e.preventDefault();
+          const group = GROUPS[currentGroup];
+          if (currentStudyIndex < group.length - 1) {
+            currentStudyIndex++;
+            renderStudyCard();
+          } else {
+            startQuiz();
+          }
+        }
+        return;
+      }
+
+      // Quiz screen
       if (document.getElementById('quizScreen').classList.contains('hidden')) return;
 
       const key = e.key;
@@ -1399,6 +1418,7 @@
       const strokeColor = pct >= 80 ? 'var(--green)' : pct >= 50 ? 'var(--amber)' : 'var(--red)';
 
       const hasNextGroup = currentGroup < GROUPS.length - 1;
+      const isLastGroup = !hasNextGroup;
 
       const container = document.getElementById('resultsScreen');
       container.innerHTML = `
@@ -1420,6 +1440,7 @@
           <div class="results-actions">
             <button class="primary" id="retryBtn">다시 풀기</button>
             ${hasNextGroup ? `<button id="nextGroupBtn">다음 그룹 &rarr;</button>` : ''}
+            ${isLastGroup ? `<button id="fullTestBtn" style="background:var(--green);color:white;border-color:var(--green);font-size:15px;">전체 시험치기 →</button>` : ''}
             <button id="backToGroupsBtn">그룹 선택으로</button>
           </div>
         </div>
@@ -1440,6 +1461,16 @@
       if (hasNextGroup) {
         document.getElementById('nextGroupBtn').addEventListener('click', () => {
           selectGroup(currentGroup + 1);
+        });
+      }
+
+      if (isLastGroup) {
+        document.getElementById('fullTestBtn').addEventListener('click', () => {
+          if (IS_MOCK) {
+            window.location.href = `mock_test.html?mock=${MOCK_ID}`;
+          } else {
+            window.location.href = `test.html?list=${WORDLIST_NUMBER}`;
+          }
         });
       }
 
