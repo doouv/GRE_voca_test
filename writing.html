@@ -591,8 +591,7 @@
         card.querySelector('.theme-random').addEventListener('click', (e) => {
           e.stopPropagation();
           const t = topics[Math.floor(Math.random() * topics.length)];
-          const dirs = Object.keys(DATA.direction_templates);
-          startTopic({ ...t, direction: dirs[Math.floor(Math.random() * dirs.length)] });
+          startTopic(t);
         });
         grid.appendChild(card);
       });
@@ -658,8 +657,7 @@
   // ===== Random =====
   document.getElementById('randomTopicBtn').addEventListener('click', () => {
     const t = DATA.topics[Math.floor(Math.random() * DATA.topics.length)];
-    const dirs = Object.keys(DATA.direction_templates);
-    startTopic({ ...t, direction: dirs[Math.floor(Math.random() * dirs.length)] });
+    startTopic(t);
   });
 
   // ===== Start topic =====
