@@ -1,1404 +1,1289 @@
 [
   {
-    "id": "001",
     "word": "tonic",
-    "pos": "",
+    "pos": "n./adj.",
     "head_meanings": [
-      "(약 등이) (육체를) 강화케 하는",
-      "(육체적·정신적으로) 기운을 돋우는",
-      "강장제"
+      "강장제",
+      "기운을 돋우는 것",
+      "(육체를) 강화하는"
     ],
     "synonyms_from_image": [
-      "restorative"
+      {"word": "restorative", "note": "원기를 회복시키는 → tonic과 같은 '활력 보충' 의미"},
+      {"word": "stimulant", "note": "자극제 → 기운을 돋우는 물질"},
+      {"word": "invigorating", "note": "활력을 불어넣는"}
+    ],
+    "tips": [
+      "`tonic`은 음악의 으뜸음(tonic note), 탄산수(tonic water), 강장제 다 같은 어근이야. 핵심은 `ton-`(긴장/힘) → 몸에 '톤'을 올려주는 느낌.",
+      "GRE에서는 'a tonic for the economy' 같은 비유적 용법이 나와. 어떤 상황에 활력을 불어넣는 것이면 다 tonic이야."
     ]
   },
   {
-    "id": "002",
     "word": "topography",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "지형학",
-      "지지",
       "지형",
-      "지세",
-      "(사회·경제·문화 등의) 구조적 특성"
+      "지형학",
+      "(사회·경제 등의) 구조적 특성"
     ],
     "synonyms_from_image": [
-      "terrain",
-      "map",
-      "geography"
+      {"word": "terrain", "note": "지형/지세 → topography의 핵심 의미"},
+      {"word": "geography", "note": "지리(학) → 장소의 특성을 다루는 넓은 개념"}
+    ],
+    "tips": [
+      "`topo-`(장소) + `graphy`(기록) → 장소를 기록한 것 = 지형(도). 같은 접두사: topology, toponym.",
+      "GRE에서는 물리적 지형뿐 아니라 'the topography of the novel's themes' 같이 비유적으로도 써. '어떤 분야의 지형/구조'라는 뜻이야."
     ]
   },
   {
-    "id": "003",
     "word": "topsy-turvy",
-    "pos": "",
+    "pos": "adj./adv.",
     "head_meanings": [
-      "거꾸로",
-      "역으로/반대로",
-      "뒤죽박죽(으로)",
-      "혼란한",
-      "엉망이 된"
+      "뒤죽박죽인",
+      "거꾸로 된",
+      "혼란한"
     ],
     "synonyms_from_image": [
-      "helter-skelter",
-      "haphazard",
-      "pell-mell",
-      "in a mess",
-      "chaotic",
-      "disorganized",
-      "higgledy-piggledy",
-      "headlong",
-      "upside down",
-      "inverted"
+      {"word": "chaotic", "note": "혼돈스러운 → 뒤죽박죽 상태"},
+      {"word": "disorganized", "note": "체계가 없는 → 질서가 뒤집힌 느낌"},
+      {"word": "haphazard", "note": "되는대로인/무계획적인 → 질서 없이 뒤엉킨"},
+      {"word": "helter-skelter", "note": "허둥지둥/뒤죽박죽 → topsy-turvy와 거의 같은 느낌의 의태어"},
+      {"word": "upside down", "note": "거꾸로 뒤집힌 → topsy-turvy의 물리적 의미"},
+      {"word": "inverted", "note": "뒤집힌/역전된"}
+    ],
+    "tips": [
+      "top(꼭대기) + turve(뒤집다의 옛 영어)에서 왔어. 꼭대기가 뒤집혀 있는 거야. 'The whole world went topsy-turvy' = 세상이 뒤죽박죽이 됐다.",
+      "하이픈으로 연결된 재미있는 표현이니까 한번 들으면 안 잊어져. Alice in Wonderland의 뒤집힌 세계를 떠올려봐."
     ]
   },
   {
-    "id": "004",
     "word": "torpid",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "(마음·신체가) 둔한/무감각한",
+      "무기력한",
+      "둔한/무감각한",
       "활동하지 않는",
-      "활발하지 못한",
       "휴면(동면)하는"
     ],
     "synonyms_from_image": [
-      "lethargic",
-      "sluggish",
-      "phlegmatic",
-      "inert",
-      "inactive",
-      "slow",
-      "lifeless",
-      "languid",
-      "listless",
-      "lazy",
-      "idle",
-      "indolent",
-      "slothful",
-      "supine",
-      "passive",
-      "apathetic",
-      "somnolent",
-      "sleepy",
-      "weary",
-      "tired"
+      {"word": "lethargic", "note": "나른하고 기운 없는 → torpid의 '무기력한' 의미"},
+      {"word": "sluggish", "note": "느릿느릿한 → 활동이 둔한"},
+      {"word": "inert", "note": "움직이지 않는/불활성인 → 활동 정지 상태"},
+      {"word": "languid", "note": "나른한/축 처진 → 기력이 빠진 느낌"},
+      {"word": "listless", "note": "의욕 없는/맥 빠진 → 아무것도 하기 싫은"},
+      {"word": "indolent", "note": "게으른/나태한 → 습관적 무기력"},
+      {"word": "somnolent", "note": "졸린/졸음이 오는 → torpid의 동면 이미지와 연결"}
+    ],
+    "tips": [
+      "`torp-`(마비)에서 왔어. torpedo(어뢰)도 같은 어근이야! 원래 전기가오리(torpedo fish)가 먹이를 마비시키는 데서 온 거거든.",
+      "torpid는 단순히 lazy가 아니라 '신체·정신이 마비된 듯 둔한' 상태야. 겨울잠 자는 동물(hibernating animal)이 torpid 상태에 있다고 해."
     ]
   },
   {
-    "id": "005",
     "word": "torpor",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "나태",
       "무기력",
-      "활동 불능",
-      "마비",
-      "무감각",
+      "나태",
+      "마비/무감각",
       "휴면"
     ],
     "synonyms_from_image": [
-      "stupor",
-      "languor",
-      "lassitude"
+      {"word": "stupor", "note": "혼미/인사불성 → torpor보다 더 깊은 무감각 상태"},
+      {"word": "languor", "note": "나른함/권태 → 몸이 축 처진 무기력"},
+      {"word": "lassitude", "note": "피로감/권태 → 지쳐서 아무것도 하기 싫은 상태"}
+    ],
+    "tips": [
+      "torpid의 명사형이야. 'The torpor of a winter afternoon' = 겨울 오후의 나른한 무기력함.",
+      "stupor(혼미)와 비교: torpor는 '느릿한 무기력'이고, stupor는 '충격·약물로 인한 인사불성'이야. torpor가 좀 더 가벼워."
     ]
   },
   {
-    "id": "006",
     "word": "torrent",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "격류",
-      "급류",
-      "(역수 같은) 비",
-      "(감정의) 폭발",
-      "분출"
+      "급류/격류",
+      "폭우",
+      "(말·감정 등의) 쏟아짐/분출"
     ],
     "synonyms_from_image": [
-      "violent stream of water",
-      "unceasing stream",
-      "downpour",
-      "heavy rain",
-      "deluge",
-      "cascade"
+      {"word": "deluge", "note": "대홍수/폭우 → 물이 쏟아지는 이미지"},
+      {"word": "cascade", "note": "폭포처럼 쏟아지는 물 → 세차게 흐르는 급류"},
+      {"word": "downpour", "note": "폭우/억수 → torrent의 '폭우' 의미"},
+      {"word": "flood", "note": "홍수/범람 → 대량으로 쏟아지는"}
+    ],
+    "tips": [
+      "라틴어 torrere(타다/끓다)에서 왔어. 끓어오르듯 거세게 흐르는 물이야.",
+      "GRE에서는 비유적 표현이 중요해: 'a torrent of abuse' = 욕설의 폭우, 'a torrent of words' = 말의 홍수. 무언가가 걷잡을 수 없이 쏟아지는 거야."
     ]
   },
   {
-    "id": "007",
     "word": "torrid",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "타는 듯이 뜨거운",
-      "불볕의/작열하는",
-      "(대기가) 건조한",
-      "(연애 편지 등이) 열렬한"
+      "작열하는/타는 듯이 뜨거운",
+      "(기후가) 건조하고 뜨거운",
+      "(감정이) 열렬한/격렬한"
     ],
     "synonyms_from_image": [
-      "hot",
-      "dry",
-      "scorching",
-      "searing",
-      "blazing",
-      "blistering",
-      "sweltering",
-      "burning",
-      "baking",
-      "sizzling",
-      "passionate",
-      "ardent",
-      "lustful",
-      "amorous"
+      {"word": "scorching", "note": "태울 듯이 뜨거운"},
+      {"word": "searing", "note": "살을 지지는 듯한 열기"},
+      {"word": "sweltering", "note": "찜통 같은 더위"},
+      {"word": "blazing", "note": "활활 타는 듯한"},
+      {"word": "passionate", "note": "열정적인 → torrid의 '열렬한 감정' 의미"},
+      {"word": "ardent", "note": "열렬한/뜨거운 → 감정의 열기"}
+    ],
+    "tips": [
+      "torrent와 같은 어근 torrere(타다)에서 왔어. 'torrid zone' = 열대 지방이야.",
+      "GRE 함정 단어! 'torrid love affair' = 열렬한 연애처럼 '감정적으로 뜨거운' 뜻도 있어. 단순히 날씨만 뜨거운 게 아니야."
     ]
   },
   {
-    "id": "008",
     "word": "tortuous",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "비틀린",
       "구불구불한",
-      "곡선으로 가득찬",
-      "복잡한",
+      "(논리·설명이) 복잡한/난해한",
       "솔직하지 않은"
     ],
     "synonyms_from_image": [
-      "convoluted",
-      "serpentine",
-      "snaky",
-      "sinuous",
-      "flexuous"
+      {"word": "convoluted", "note": "뒤얽힌/복잡한 → tortuous의 '난해한' 의미"},
+      {"word": "serpentine", "note": "뱀처럼 구불구불한"},
+      {"word": "sinuous", "note": "S자로 굽이치는/우아하게 구불거리는"}
+    ],
+    "tips": [
+      "`tort-`(비틀다)에서 왔어. torture(고문), contort(뒤틀다), distort(왜곡하다)도 다 같은 어근이야.",
+      "GRE 핵심! tortuous ≠ torturous! tortuous는 '구불구불한/복잡한'이고, torturous는 '고통스러운'이야. 헷갈리면 틀려!"
     ]
   },
   {
-    "id": "009",
     "word": "totalitarian",
-    "pos": "",
+    "pos": "adj./n.",
     "head_meanings": [
       "전체주의의",
       "전체주의자"
     ],
     "synonyms_from_image": [
-      "autocratic",
-      "undemocratic",
-      "one-party dictatorial",
-      "tyrannical",
-      "despotic",
-      "fascist",
-      "oppressive",
-      "repressive",
-      "authoritarian",
-      "absolute"
+      {"word": "autocratic", "note": "독재적인 → 한 사람이 모든 권력을 장악"},
+      {"word": "tyrannical", "note": "폭군적인/학정의"},
+      {"word": "despotic", "note": "전제적인 → 절대 권력을 휘두르는"},
+      {"word": "authoritarian", "note": "권위주의적인 → 복종을 강요하는 체제"},
+      {"word": "oppressive", "note": "억압적인 → 자유를 짓누르는"},
+      {"word": "repressive", "note": "탄압적인 → 반대를 무력으로 억누르는"}
+    ],
+    "tips": [
+      "total(전체) + itarian → 국가가 개인 생활의 모든 것을 통제하는 체제야. authoritarian(권위주의)보다 더 극단적이야.",
+      "authoritarian vs totalitarian: authoritarian은 '정치적 자유만 제한'하지만, totalitarian은 '사상·문화·경제 등 모든 영역을 통제'해. 나치 독일, 스탈린 소련이 대표적."
     ]
   },
   {
-    "id": "010",
     "word": "totemic",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "토템(씨족·가족의 상징이라고 여기는 자연물)의",
-      "토템(신앙)의"
+      "토템의",
+      "(집단·문화의) 상징적인"
     ],
     "synonyms_from_image": [
-      "emblematic"
+      {"word": "emblematic", "note": "상징적인 → 어떤 집단·개념을 대표하는"}
+    ],
+    "tips": [
+      "totem(토템)에서 왔어. 원래 북미 원주민이 씨족의 상징으로 삼는 동물·자연물이야.",
+      "GRE에서는 'a totemic figure' = 어떤 분야의 상징적 인물. 문화적 아이콘을 가리킬 때 써."
     ]
   },
   {
-    "id": "011",
     "word": "touchy",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "민감한",
-      "다루기 힘든",
-      "성질 내는",
-      "위험한"
+      "(사람이) 신경질적인/예민한",
+      "(주제·상황이) 민감한/까다로운"
     ],
     "synonyms_from_image": [
-      "cross",
-      "cranky",
-      "crabby",
-      "unsafe",
-      "harmful",
-      "precarious",
-      "risky"
+      {"word": "cranky", "note": "짜증 잘 내는/신경질적인"},
+      {"word": "crabby", "note": "퉁명스럽고 성질 급한 → 건드리면 바로 화내는"},
+      {"word": "irritable", "note": "짜증을 잘 내는/성마른"}
+    ],
+    "tips": [
+      "touch(건드리다)에서 왔어 → 살짝만 건드려도 바로 반응하는 사람이야.",
+      "'a touchy subject' = 민감한 주제. 사람에게 쓰면 '예민한', 주제에 쓰면 '다루기 까다로운'이야."
     ]
   },
   {
-    "id": "012",
     "word": "tout",
-    "pos": "",
+    "pos": "v.",
     "head_meanings": [
-      "칭찬·선전하다",
       "과대 선전(추천)하다",
-      "성가시게 권유하다",
-      "강매하다"
+      "떠벌리다",
+      "성가시게 권유하다"
     ],
     "synonyms_from_image": [
-      "advertise",
-      "ballyhoo",
-      "vaunt",
-      "brag about",
-      "celebrate",
-      "acclaim"
+      {"word": "ballyhoo", "note": "야단법석 떨며 선전하다 → 과장 광고"},
+      {"word": "vaunt", "note": "자랑하다/뽐내다 → 과시하며 선전하는 느낌"},
+      {"word": "acclaim", "note": "칭송하다 → tout보다 긍정적이지만 '크게 칭찬하다' 맥락에서 만남"},
+      {"word": "promote", "note": "홍보하다/추천하다"}
+    ],
+    "tips": [
+      "원래 영국에서 '경마 정보를 몰래 팔아먹는 사람'이었어. 지금은 '떠벌리며 팔아대는' 느낌이야.",
+      "'touted as the next big thing' = 차세대 대박으로 선전되는. GRE에서 자주 보이는 콜로케이션이야."
     ]
   },
   {
-    "id": "013",
     "word": "toxic",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "독이 있는",
       "유독한",
-      "독성의"
+      "독성의",
+      "(관계·환경이) 해로운"
     ],
     "synonyms_from_image": [
-      "harmful",
-      "mephitic",
-      "venomous",
-      "virulent",
-      "deadly"
+      {"word": "venomous", "note": "독이 있는 → 뱀·벌의 독, 비유적으로 악의적인 말"},
+      {"word": "virulent", "note": "맹독성의/악성의 → 독성이 매우 강한"},
+      {"word": "mephitic", "note": "유독 가스 같은/악취가 나는 → 독성 기체 이미지"},
+      {"word": "noxious", "note": "유해한/유독한"}
+    ],
+    "tips": [
+      "`tox-`(독)에서 왔어. toxin(독소), intoxicate(취하게 하다 = 원래 '독을 넣다')도 같은 어근이야.",
+      "요즘은 'toxic relationship', 'toxic masculinity'처럼 비유적으로 많이 써. GRE에서도 이런 확장 의미가 나올 수 있어."
     ]
   },
   {
-    "id": "014",
     "word": "tract",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "넓은 면적/지역",
-      "소책자",
-      "선전 책자"
-    ],
-    "synonyms_from_image": [
-      "essay",
-      "leaflet",
-      "disquisition",
-      "terrain",
-      "zone",
-      "lot",
-      "parcel",
-      "district",
-      "territory"
-    ]
-  },
-  {
-    "id": "015",
-    "word": "tractable",
-    "pos": "",
-    "head_meanings": [
-      "다루기 쉬운",
-      "(성격 등이) 순종하는/유순한/온순한",
-      "(재료 등이) 처리(성형)하기 쉬운"
-    ],
-    "synonyms_from_image": [
-      "compliant",
-      "biddable",
-      "manageable",
-      "pliable",
-      "amenable",
-      "willing"
-    ]
-  },
-  {
-    "id": "016",
-    "word": "traduce",
-    "pos": "",
-    "head_meanings": [
-      "비방하다",
-      "헐뜯다",
-      "훼손하다"
-    ],
-    "synonyms_from_image": [
-      "libel",
-      "asperse",
-      "slander",
-      "calumniate",
-      "defame",
-      "vilify",
-      "denigrate",
-      "disparage",
-      "slur",
-      "smear",
-      "besmirch"
-    ]
-  },
-  {
-    "id": "017",
-    "word": "trail",
-    "pos": "",
-    "head_meanings": [
-      "(질질) 끌다",
-      "(사람·동물 등을) 추적하다",
-      "미행하다",
-      "뒤에 붙어서 가다",
-      "오솔길"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "018",
-    "word": "trajectory",
-    "pos": "",
-    "head_meanings": [
-      "탄도",
-      "(혜성·행성 따위의) 궤도"
-    ],
-    "synonyms_from_image": [
-      "line of fire",
-      "path of a missile"
-    ]
-  },
-  {
-    "id": "019",
-    "word": "trample",
-    "pos": "",
-    "head_meanings": [
-      "쿵쿵거리며 걷다",
-      "짓밟다",
-      "밟아 뭉개다",
-      "(감정·권리 등을) 짓밟다/무시하다"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "020",
-    "word": "tranquil",
-    "pos": "",
-    "head_meanings": [
-      "(장소·환경이) 고요한/평온한",
-      "(마음·태도가) 차분한/조용한",
-      "안정된"
-    ],
-    "synonyms_from_image": [
-      "peaceful",
-      "calm",
-      "restful",
-      "relaxing",
-      "undisturbed",
-      "serene",
-      "unruffled",
-      "unperturbed",
-      "unflustered",
-      "composed",
-      "equable",
-      "even-tempered",
-      "placid",
-      "phlegmatic",
-      "unflappable"
-    ]
-  },
-  {
-    "id": "021",
-    "word": "tranquility",
-    "pos": "",
-    "head_meanings": [
-      "고요",
-      "평온",
-      "침착"
-    ],
-    "synonyms_from_image": [
-      "quiescence",
-      "silence",
-      "composure",
-      "moderation"
-    ]
-  },
-  {
-    "id": "022",
-    "word": "transcend",
-    "pos": "",
-    "head_meanings": [
-      "초월하다",
-      "능가하다"
-    ],
-    "synonyms_from_image": [
-      "outshine",
-      "outstrip",
-      "better",
-      "excel",
-      "rise above",
-      "outdo",
-      "surmount",
-      "overstep",
-      "overleap",
-      "outdistance",
-      "outrank"
-    ]
-  },
-  {
-    "id": "023",
-    "word": "transcribe",
-    "pos": "",
-    "head_meanings": [
-      "베끼다",
-      "복사하다",
-      "재생하다",
-      "녹음하다"
-    ],
-    "synonyms_from_image": [
-      "write",
-      "record",
-      "translate",
-      "transliterate",
-      "clone",
-      "Xerox",
-      "duplicate"
-    ]
-  },
-  {
-    "id": "024",
-    "word": "transgression",
-    "pos": "",
-    "head_meanings": [
-      "위법",
-      "위반",
-      "범죄"
-    ],
-    "synonyms_from_image": [
-      "disobedience",
-      "lawbreaking",
-      "misdeed",
-      "overstepping"
-    ]
-  },
-  {
-    "id": "025",
-    "word": "transient",
-    "pos": "",
-    "head_meanings": [
-      "일시적인",
-      "순간적인",
-      "덧없는",
-      "일시 머무르는"
-    ],
-    "synonyms_from_image": [
-      "transitory",
-      "ephemeral",
-      "evanescent",
-      "impermanent",
-      "fugitive"
-    ]
-  },
-  {
-    "id": "026",
-    "word": "transience",
-    "pos": "",
-    "head_meanings": [
-      "일시성",
-      "덧없음"
-    ],
-    "synonyms_from_image": [
-      "moment",
-      "fleetingness",
-      "transience",
-      "ephemeron"
-    ]
-  },
-  {
-    "id": "027",
-    "word": "transition",
-    "pos": "",
-    "head_meanings": [
-      "변이",
-      "변전",
-      "과도기"
-    ],
-    "synonyms_from_image": [
-      "progress",
-      "evolution",
-      "shift",
-      "change",
-      "growth"
-    ]
-  },
-  {
-    "id": "028",
-    "word": "transitoriness",
-    "pos": "",
-    "head_meanings": [
-      "일시",
-      "순간",
-      "덧없음"
-    ],
-    "synonyms_from_image": [
-      "moment",
-      "fleetingness",
-      "transience",
-      "ephemeron"
-    ]
-  },
-  {
-    "id": "029",
-    "word": "transitory",
-    "pos": "",
-    "head_meanings": [
-      "일시적인",
-      "오래가지 않는",
-      "잠시동안의",
-      "순식간의",
-      "덧없는"
-    ],
-    "synonyms_from_image": [
-      "transient",
-      "ephemeral",
-      "momentary",
-      "temporary",
-      "short-lived",
-      "impermanent",
-      "fleeting",
-      "fugitive",
-      "evanescent"
-    ]
-  },
-  {
-    "id": "030",
-    "word": "translucent",
-    "pos": "",
-    "head_meanings": [
-      "반투명의",
-      "(알기 쉬운) 명백한"
-    ],
-    "synonyms_from_image": [
-      "semi-transparent",
-      "pellucid",
-      "limpid",
-      "clear",
-      "diaphanous",
-      "gossamer",
-      "sheer",
-      "obvious",
-      "apparent",
-      "lucid"
-    ]
-  },
-  {
-    "id": "031",
-    "word": "transmute",
-    "pos": "",
-    "head_meanings": [
-      "바꾸다",
-      "(외형이나 성질을) 변경하다"
-    ],
-    "synonyms_from_image": [
-      "alter",
-      "denature",
-      "mutate",
-      "commute",
-      "transform"
-    ]
-  },
-  {
-    "id": "032",
-    "word": "transparent",
-    "pos": "",
-    "head_meanings": [
-      "투명한",
-      "비쳐 보이는",
-      "(문제가) 명확한/평이한",
-      "(구실·의도가) 뻔히 들여다보이는",
-      "솔직한"
-    ],
-    "synonyms_from_image": [
-      "clear",
-      "plain",
-      "pellucid",
-      "flimsy",
-      "diaphanous",
-      "translucent",
-      "obvious",
-      "unambiguous",
-      "unequivocal",
-      "apparent",
-      "manifest",
-      "patent",
-      "evident"
-    ]
-  },
-  {
-    "id": "033",
-    "word": "transparency",
-    "pos": "",
-    "head_meanings": [
-      "투명함",
-      "명백함",
-      "솔직함"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "034",
-    "word": "transpire",
-    "pos": "",
-    "head_meanings": [
-      "(비밀이) 새어나가다/누설하다",
-      "(일이) 발생하다"
-    ],
-    "synonyms_from_image": [
-      "disclose",
-      "develop",
-      "divulge",
-      "occur",
-      "befall"
-    ]
-  },
-  {
-    "id": "035",
-    "word": "transplant",
-    "pos": "",
-    "head_meanings": [
-      "(식물·기관·조직 등을) 옮겨 심다/이식하다",
-      "…을 옮기다",
-      "이동시키다",
-      "(남을) 이주시키다"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "036",
-    "word": "transport",
-    "pos": "",
-    "head_meanings": [
-      "열중",
-      "도취",
-      "황홀",
-      "기뻐 어쩔 줄 모름"
-    ],
-    "synonyms_from_image": [
-      "ecstasy",
-      "bliss",
-      "happiness",
-      "rapture"
-    ]
-  },
-  {
-    "id": "037",
-    "word": "trappings",
-    "pos": "",
-    "head_meanings": [
-      "장식",
-      "액세서리",
-      "부속물",
-      "(권력·지위의) 상징물",
-      "예복/정장",
-      "마구(馬具)"
-    ],
-    "synonyms_from_image": [
-      "appurtenances",
-      "ornamentation",
-      "adornment",
-      "decoration",
-      "apparatus",
-      "equipment",
-      "accoutrements",
-      "formal dress"
-    ]
-  },
-  {
-    "id": "038",
-    "word": "traumatic",
-    "pos": "",
-    "head_meanings": [
-      "외상의",
-      "상처에 관련된",
-      "충격적인",
-      "잊지 못할"
-    ],
-    "synonyms_from_image": [
-      "wounded",
-      "shocking"
-    ]
-  },
-  {
-    "id": "039",
-    "word": "travail",
-    "pos": "",
-    "head_meanings": [
-      "진통",
-      "수고",
-      "노고",
-      "애씀"
-    ],
-    "synonyms_from_image": [
-      "toil",
-      "drudgery",
-      "hard work",
-      "exertion",
-      "burdensome work"
-    ]
-  },
-  {
-    "id": "040",
-    "word": "traverse",
-    "pos": "",
-    "head_meanings": [
-      "가로지르다",
-      "가로질러 가다",
-      "횡단하다"
-    ],
-    "synonyms_from_image": [
-      "cross",
-      "move over",
-      "move along",
-      "travel over",
-      "cut across",
-      "pass through"
-    ]
-  },
-  {
-    "id": "041",
-    "word": "travesty",
-    "pos": "",
-    "head_meanings": [
-      "우스꽝스럽게 고친 것",
-      "서투른 모방"
-    ],
-    "synonyms_from_image": [
-      "ridicule",
-      "debased imitation",
-      "burlesque",
-      "spoof",
-      "caricature",
-      "lampoon",
-      "mockery",
-      "broad satire"
-    ]
-  },
-  {
-    "id": "042",
-    "word": "treacherous",
-    "pos": "",
-    "head_meanings": [
-      "배반(배신)하는",
-      "믿을 수 없는",
-      "불안정한",
-      "위험한"
-    ],
-    "synonyms_from_image": [
-      "traitorous",
-      "disloyal",
-      "faithless",
-      "unfaithful",
-      "deceitful",
-      "false-hearted"
-    ]
-  },
-  {
-    "id": "043",
-    "word": "treatise",
-    "pos": "",
-    "head_meanings": [
-      "(학술) 논문",
+      "넓은 지역/구역",
+      "(선전) 소책자",
       "논설"
     ],
     "synonyms_from_image": [
-      "memoirs",
-      "monograph",
-      "thesis",
-      "systematic work",
-      "discourse",
-      "essay",
-      "dissertation",
-      "study"
+      {"word": "leaflet", "note": "전단/소책자 → tract의 '소책자' 의미"},
+      {"word": "disquisition", "note": "장편 논문 → 체계적으로 쓴 글"},
+      {"word": "parcel", "note": "토지 구획 → tract의 '넓은 땅' 의미"},
+      {"word": "territory", "note": "영토/지역 → 넓은 땅덩어리"}
+    ],
+    "tips": [
+      "`tract`는 뜻이 두 갈래인데, 사실 어원은 하나야: `tract-`(끌다/뻗다)\n1) 쭉 뻗은 넓은 땅 → 'a tract of land' = 넓은 토지\n2) 끌어당겨 읽히는 짧은 글 → 종교·정치 소책자/논설",
+      "같은 어근 단어: attract(끌어당기다), extract(끌어내다), tractor(끄는 기계)."
     ]
   },
   {
-    "id": "044",
-    "word": "tremor",
-    "pos": "",
+    "word": "tractable",
+    "pos": "adj.",
     "head_meanings": [
-      "전율",
-      "겁",
-      "떨림"
+      "다루기 쉬운",
+      "유순한/온순한",
+      "(문제 등이) 처리하기 쉬운"
     ],
     "synonyms_from_image": [
-      "quaver",
-      "shudder",
-      "quake",
-      "dither",
-      "shiver",
-      "oscillation"
+      {"word": "compliant", "note": "순응하는/말 잘 듣는"},
+      {"word": "amenable", "note": "기꺼이 따르는 → 설득하기 쉬운"},
+      {"word": "manageable", "note": "다룰 수 있는/감당할 수 있는"},
+      {"word": "pliable", "note": "유연한/구부리기 쉬운 → 비유적으로 순종적인"},
+      {"word": "biddable", "note": "시키는 대로 하는/유순한"}
+    ],
+    "tips": [
+      "`tract-`(끌다) + `able` → 끌고 다닐 수 있는 → 다루기 쉬운. tractor(트랙터)도 같은 어근이야!",
+      "반의어 intractable(다루기 힘든/고집 센)이 GRE에서 더 자주 나와. intractable problem = 해결하기 극히 어려운 문제."
     ]
   },
   {
-    "id": "045",
-    "word": "tremulous",
-    "pos": "",
+    "word": "traduce",
+    "pos": "v.",
     "head_meanings": [
-      "떠는",
-      "전율하는",
-      "겁 많은"
+      "비방하다",
+      "헐뜯다",
+      "명예를 훼손하다"
     ],
     "synonyms_from_image": [
-      "aquiver",
-      "tremble",
-      "aguish",
-      "afraid",
-      "timid",
-      "fearful"
+      {"word": "defame", "note": "명예를 훼손하다"},
+      {"word": "vilify", "note": "악담하다/비방하다 → 격렬하게 헐뜯는"},
+      {"word": "calumniate", "note": "중상모략하다 → 거짓으로 비방하는"},
+      {"word": "slander", "note": "구두로 중상하다 → 말로 명예를 훼손"},
+      {"word": "libel", "note": "문서로 중상하다 → 글로 명예를 훼손"},
+      {"word": "denigrate", "note": "깎아내리다/폄하하다"},
+      {"word": "disparage", "note": "경멸하다/얕보다 → 가치를 깎아내리는"}
+    ],
+    "tips": [
+      "`tra-`(across) + `duce`(이끌다) → 남의 이름을 끌고 다니며 더럽히는 이미지야.",
+      "GRE '비방하다' 동의어 모음: traduce, vilify, calumniate, defame, malign, denigrate, disparage. 미묘한 차이가 있지만 핵심은 다 '남의 평판을 깎는 것'이야."
     ]
   },
   {
-    "id": "046",
-    "word": "trenchant",
-    "pos": "",
+    "word": "trail",
+    "pos": "n./v.",
     "head_meanings": [
-      "통렬한",
-      "신랄한",
-      "날카로운",
-      "강력한",
-      "설득력 있는",
-      "(윤곽 등이) 뚜렷한"
+      "오솔길/산길",
+      "추적하다/미행하다",
+      "(질질) 끌다/끌리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`trail`은 뜻이 갈래가 여럿인데 핵심은 '뒤에 끌리는 것'이야:\n1) 뒤에 끌리는 흔적 → 자취/오솔길(path)\n2) 흔적을 따라가다 → 추적하다(track)\n3) 물리적으로 끌다 → (옷자락 등이) 질질 끌리다",
+      "'trail of evidence' = 증거의 흔적, 'paper trail' = 서류상 기록. GRE RC에서 자주 보이는 표현이야."
+    ]
+  },
+  {
+    "word": "trajectory",
+    "pos": "n.",
+    "head_meanings": [
+      "궤도/탄도",
+      "(사물·사건의) 경로/진행 방향"
     ],
     "synonyms_from_image": [
-      "profound",
-      "incisive",
-      "keen",
-      "acute",
-      "shrewd",
-      "penetrating",
-      "mordant",
-      "cutting",
-      "biting",
-      "caustic",
-      "sarcastic",
-      "pungent",
-      "sharp",
-      "vigorous",
-      "forceful",
-      "strong",
-      "telling",
-      "forthright"
+      {"word": "path", "note": "경로 → 물체가 이동하는 길"},
+      {"word": "arc", "note": "호(弧)/곡선 경로 → 포물선 궤도"}
+    ],
+    "tips": [
+      "`tra-`(across) + `ject-`(던지다) → 던져진 것이 그리는 길 = 궤도. eject(내쫓다), inject(주사하다), project(투영하다)도 같은 어근!",
+      "GRE에서는 비유적으로 더 많이 써: 'the trajectory of her career' = 경력의 궤적/방향. 물리적 궤도가 아니라 '진행 방향'이야."
     ]
   },
   {
-    "id": "047",
-    "word": "trepidation",
-    "pos": "",
+    "word": "trample",
+    "pos": "v.",
     "head_meanings": [
-      "전율",
-      "공포",
-      "두려움",
-      "당황",
-      "(마음의) 동요",
-      "낭패",
-      "혼란",
-      "떨림"
+      "짓밟다",
+      "밟아 뭉개다",
+      "(권리·감정 등을) 유린하다/무시하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "tramp(쿵쿵 밟다) + le → 반복적으로 세게 밟는 거야.",
+      "GRE에서는 비유적 용법이 중요해: 'trample on someone's rights' = 누군가의 권리를 짓밟다. 물리적 밟기보다 '무시하고 짓밟는' 의미가 핵심이야."
+    ]
+  },
+  {
+    "word": "tranquil",
+    "pos": "adj.",
+    "head_meanings": [
+      "(장소·환경이) 고요한/평온한",
+      "(마음·태도가) 차분한/조용한"
     ],
     "synonyms_from_image": [
-      "apprehension",
-      "fear",
-      "dread",
-      "agitation",
-      "anxiety",
-      "nervousness",
-      "misgivings",
-      "unease"
+      {"word": "serene", "note": "맑고 고요한 → 방해 없는 평화로움"},
+      {"word": "placid", "note": "잔잔한/평온한 → 호수처럼 고요한"},
+      {"word": "calm", "note": "차분한/고요한"},
+      {"word": "peaceful", "note": "평화로운"},
+      {"word": "composed", "note": "침착한 → 마음이 안정된"},
+      {"word": "unperturbed", "note": "동요하지 않는 → 흔들림 없이 차분한"},
+      {"word": "unruffled", "note": "흐트러지지 않는 → 감정이 잔잔한"}
+    ],
+    "tips": [
+      "tranquilizer(진정제)의 어근이야. `tranquil-`(고요한) → 고요하게 만드는 약이 진정제.",
+      "serene vs tranquil vs placid: 셋 다 '평온한'이지만, serene은 '맑고 밝은 고요함', tranquil은 '방해 없는 평화', placid는 '잔잔한/둔감한' 뉘앙스야."
     ]
   },
   {
-    "id": "048",
-    "word": "trespass",
-    "pos": "",
+    "word": "tranquility",
+    "pos": "n.",
     "head_meanings": [
-      "침입하다",
-      "침해하다",
-      "폐를 끼치다",
-      "위법 행위를 하다/죄를 범하다",
-      "불법 침해(침입)",
-      "죄",
+      "고요/평온",
+      "침착/안정"
+    ],
+    "synonyms_from_image": [
+      {"word": "quiescence", "note": "고요한 상태/정적 → 활동이 멈춘 평온"},
+      {"word": "composure", "note": "침착함/평정심 → 마음의 안정"}
+    ],
+    "tips": [
+      "tranquil의 명사형. NASA의 달 착륙 지점이 'Sea of Tranquility(고요의 바다)'야.",
+      "'inner tranquility' = 내면의 평온. GRE에서 stoicism(스토아 철학)과 연결되는 개념이야."
+    ]
+  },
+  {
+    "word": "transcend",
+    "pos": "v.",
+    "head_meanings": [
+      "초월하다",
+      "능가하다",
+      "넘어서다"
+    ],
+    "synonyms_from_image": [
+      {"word": "surpass", "note": "능가하다/뛰어넘다"},
+      {"word": "outshine", "note": "빛을 가리다 → 월등히 뛰어나다"},
+      {"word": "outstrip", "note": "앞지르다/능가하다"},
+      {"word": "excel", "note": "뛰어나다/탁월하다"},
+      {"word": "surmount", "note": "극복하다/넘어서다 → 장애물 위로 올라가는 이미지"}
+    ],
+    "tips": [
+      "`trans-`(넘어서) + `scend`(오르다) → 위로 올라서 넘어가다. ascend(올라가다), descend(내려가다)도 같은 어근!",
+      "'transcend boundaries' = 경계를 초월하다. 물리적이든 개념적이든 '기존 한계를 넘어선다'는 뜻이야."
+    ]
+  },
+  {
+    "word": "transcribe",
+    "pos": "v.",
+    "head_meanings": [
+      "필사하다/베끼다",
+      "(구술·녹음을) 글로 옮기다",
+      "(음악을) 편곡하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "record", "note": "기록하다 → 내용을 옮겨 적는"},
+      {"word": "duplicate", "note": "복제하다 → 똑같이 베끼는"},
+      {"word": "transliterate", "note": "다른 문자 체계로 옮겨 적다 → 표기법 변환"}
+    ],
+    "tips": [
+      "`trans-`(across) + `scribe`(쓰다) → 옮겨 쓰다. subscribe(구독하다 = 아래에 서명하다), prescribe(처방하다 = 미리 쓰다)도 같은 어근!",
+      "transcript(성적표/녹취록)는 transcribe의 결과물이야. GRE에서는 '구술을 글로 옮기다'라는 뜻이 가장 핵심."
+    ]
+  },
+  {
+    "word": "transgression",
+    "pos": "n.",
+    "head_meanings": [
       "위반",
-      "부정"
+      "범죄/죄",
+      "(도덕·법률의) 위법 행위"
     ],
     "synonyms_from_image": [
-      "intrude on",
-      "encroach on",
-      "enter without permission",
-      "invade",
-      "sin",
-      "transgression",
-      "offend",
-      "unlawful entry",
-      "intrusion",
-      "invasion",
-      "encroachment"
+      {"word": "misdeed", "note": "비행/악행 → 잘못된 행위"},
+      {"word": "overstepping", "note": "선을 넘는 것 → 허용 범위를 벗어남"},
+      {"word": "offense", "note": "위반/범죄"}
+    ],
+    "tips": [
+      "`trans-`(넘어서) + `gress`(걷다) → 선을 넘어가는 행위 = 위반. progress(앞으로 걷다 = 진보), digress(옆으로 걷다 = 탈선)도 같은 어근!",
+      "trespass와 의미가 겹쳐. 둘 다 '경계를 넘는 잘못'이지만, transgression은 도덕·법률적 위반에 더 넓게 쓰이고, trespass는 물리적 침입에 더 쓰여."
     ]
   },
   {
-    "id": "049",
+    "word": "transient",
+    "pos": "adj.",
+    "head_meanings": [
+      "일시적인",
+      "순간적인/덧없는",
+      "잠시 머무르는"
+    ],
+    "synonyms_from_image": [
+      {"word": "ephemeral", "note": "하루살이 같은/수명이 짧은 → 금방 사라지는"},
+      {"word": "evanescent", "note": "곧 사라지는/희미해지는 → 빛·기억이 스러지는 이미지"},
+      {"word": "fugitive", "note": "도망치는 → '순간적으로 지나가는' 뜻도 있어"},
+      {"word": "impermanent", "note": "영속적이지 않은 → 일시적인"},
+      {"word": "fleeting", "note": "찰나의/스쳐 지나가는"}
+    ],
+    "tips": [
+      "`trans-`(across) + `ient`(가는) → 지나가는 → 일시적인. transit(통과/운송)과 같은 어근이야.",
+      "GRE 필수 동의어 세트: transient ≈ ephemeral ≈ evanescent ≈ fleeting ≈ fugacious. 다 '일시적인/덧없는'이지만 뉘앙스가 조금씩 달라."
+    ]
+  },
+  {
+    "word": "transience",
+    "pos": "n.",
+    "head_meanings": [
+      "일시성",
+      "덧없음/무상함"
+    ],
+    "synonyms_from_image": [
+      {"word": "fleetingness", "note": "순간성 → 빠르게 지나가 버리는 성질"},
+      {"word": "ephemerality", "note": "짧은 수명/덧없음"}
+    ],
+    "tips": [
+      "transient의 명사형. 불교의 '무상(無常)'과 통하는 개념이야.",
+      "'the transience of youth' = 젊음의 덧없음. GRE RC에서 시간·변화를 다루는 지문에 자주 나와."
+    ]
+  },
+  {
+    "word": "transition",
+    "pos": "n.",
+    "head_meanings": [
+      "전환/변화",
+      "과도기",
+      "이행"
+    ],
+    "synonyms_from_image": [
+      {"word": "shift", "note": "전환/이동 → 한 상태에서 다른 상태로"},
+      {"word": "change", "note": "변화"},
+      {"word": "evolution", "note": "점진적 발전/변화 → 서서히 변해가는 과정"}
+    ],
+    "tips": [
+      "`trans-`(across) + `ition`(가는 것) → 한쪽에서 다른 쪽으로 넘어가는 것 = 전환.",
+      "'in transition' = 과도기에 있는. GRE에서는 사회·문화의 변화를 논할 때 자주 나와."
+    ]
+  },
+  {
+    "word": "transitory",
+    "pos": "adj.",
+    "head_meanings": [
+      "일시적인",
+      "오래가지 않는",
+      "덧없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "transient", "note": "일시적인 → transitory와 거의 같은 뜻"},
+      {"word": "ephemeral", "note": "하루살이 같은/수명이 짧은"},
+      {"word": "momentary", "note": "순간적인/찰나의"},
+      {"word": "fleeting", "note": "스쳐 지나가는"},
+      {"word": "evanescent", "note": "곧 사라지는/희미해지는"}
+    ],
+    "tips": [
+      "transient와 거의 같은 뜻이야! 둘 다 transit(통과)에서 왔어. 차이점이라면 transitory가 좀 더 격식체야.",
+      "'transitory nature of fame' = 명성의 일시적 속성. 문학·철학 맥락에서 자주 쓰여."
+    ]
+  },
+  {
+    "word": "translucent",
+    "pos": "adj.",
+    "head_meanings": [
+      "반투명의",
+      "(의미가) 명백한/알기 쉬운"
+    ],
+    "synonyms_from_image": [
+      {"word": "pellucid", "note": "맑은/투명한 → 빛이 통과하는"},
+      {"word": "limpid", "note": "맑고 투명한 → 물이 맑은 이미지"},
+      {"word": "diaphanous", "note": "비치는/반투명한 → 얇은 천이 비치는"},
+      {"word": "gossamer", "note": "거미줄 같이 얇은/반투명한"},
+      {"word": "lucid", "note": "명료한/투명한 → translucent의 '명백한' 의미도 포함"}
+    ],
+    "tips": [
+      "`trans-`(through) + `luc-`(빛) + `ent` → 빛이 통과하는. transparent(투명한)와 비교: transparent는 '완전 투명', translucent는 '반투명'이야.",
+      "GRE에서는 'translucent prose' = 명료한 문체. 물리적 의미뿐 아니라 '이해하기 쉬운'이라는 비유적 뜻도 있어."
+    ]
+  },
+  {
+    "word": "transmute",
+    "pos": "v.",
+    "head_meanings": [
+      "(성질·형태를) 완전히 바꾸다",
+      "변환하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "transform", "note": "변형시키다/완전히 바꾸다"},
+      {"word": "alter", "note": "변경하다/바꾸다"},
+      {"word": "mutate", "note": "돌연변이를 일으키다/변이하다 → 근본적 변화"}
+    ],
+    "tips": [
+      "`trans-`(across) + `mute`(변하다) → 성질을 완전히 바꾸다. 연금술에서 '납을 금으로 바꾸다'가 원래 뜻이야!",
+      "단순한 change가 아니라 '근본적으로 다른 것으로 바꾸다'야. 'transmute base metals into gold' = 비금속을 금으로 변환하다."
+    ]
+  },
+  {
+    "word": "transparent",
+    "pos": "adj.",
+    "head_meanings": [
+      "투명한",
+      "(의미가) 명확한/분명한",
+      "(의도·구실이) 뻔히 보이는",
+      "솔직한"
+    ],
+    "synonyms_from_image": [
+      {"word": "pellucid", "note": "맑은/투명한"},
+      {"word": "diaphanous", "note": "비치는/투명한 → 얇은 천이 비치는"},
+      {"word": "translucent", "note": "반투명의 → transparent보다 약간 불투명"},
+      {"word": "obvious", "note": "명백한 → transparent의 '뻔히 보이는' 의미"},
+      {"word": "manifest", "note": "명백한/분명한"},
+      {"word": "patent", "note": "명백한/노골적인 → 숨길 수 없이 드러나는"},
+      {"word": "evident", "note": "명확한/분명한"}
+    ],
+    "tips": [
+      "`trans-`(through) + `par-`(보이다) + `ent` → 속이 들여다보이는. apparent(명백한)도 같은 어근이야!",
+      "GRE에서 뜻이 여러 갈래야:\n1) 물리적으로 투명한 → transparent glass\n2) 이해하기 쉬운 → transparent explanation\n3) 속이 뻔히 보이는 → transparent excuse = 뻔한 변명\n4) 숨김없는 → transparent government = 투명한 정부"
+    ]
+  },
+  {
+    "word": "transpire",
+    "pos": "v.",
+    "head_meanings": [
+      "(비밀이) 새어나가다/누설되다",
+      "(일이) 발생하다/일어나다"
+    ],
+    "synonyms_from_image": [
+      {"word": "disclose", "note": "밝히다/드러내다 → 비밀이 드러나는"},
+      {"word": "divulge", "note": "누설하다/폭로하다 → 비밀을 새어나가게 하는"},
+      {"word": "occur", "note": "발생하다 → transpire의 '일어나다' 의미"},
+      {"word": "befall", "note": "닥치다/(일이) 일어나다 → 예상치 못한 일이 발생"}
+    ],
+    "tips": [
+      "GRE 함정 단어! `trans-`(through) + `spire`(숨쉬다) → 숨처럼 새어나오다. 원래 뜻은 '비밀이 누설되다'인데, 일상에서는 'happen(발생하다)'으로 쓰여. GRE에서는 원래 뜻으로 나올 가능성이 높아!",
+      "'It transpired that he had been lying' = 그가 거짓말을 해왔다는 것이 밝혀졌다. '드러나다/새어나오다'가 핵심이야."
+    ]
+  },
+  {
+    "word": "transplant",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(기관·조직을) 이식하다",
+      "(식물을) 옮겨 심다",
+      "(사람을) 이주시키다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`trans-`(across) + `plant`(심다) → 옮겨 심다. 의학에서는 장기이식, 원예에서는 식물 옮겨심기야.",
+      "비유적으로 'transplant a tradition' = 전통을 (다른 문화에) 이식하다. 문화·제도를 한 곳에서 다른 곳으로 옮기는 것도 transplant야."
+    ]
+  },
+  {
+    "word": "transport",
+    "pos": "n.",
+    "head_meanings": [
+      "황홀/도취",
+      "기뻐 어쩔 줄 모름"
+    ],
+    "synonyms_from_image": [
+      {"word": "ecstasy", "note": "무아지경/황홀경"},
+      {"word": "rapture", "note": "황홀/환희 → 기쁨에 넋을 잃은 상태"},
+      {"word": "bliss", "note": "더없는 행복/지복"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '교통수단/운송'이 아니라 '황홀/도취'로 나와. `trans-`(넘어서) + `port`(나르다) → 감정이 정상을 넘어서 실려가는 상태야.",
+      "'transports of delight' = 환희의 도취. 복수형 transports로 쓰면 '격한 감정의 발작'이라는 뜻이야."
+    ]
+  },
+  {
+    "word": "trappings",
+    "pos": "n.",
+    "head_meanings": [
+      "(권력·지위의) 상징물/겉치레",
+      "장식/부속물"
+    ],
+    "synonyms_from_image": [
+      {"word": "accoutrements", "note": "부속품/장비 → 지위에 따르는 물품들"},
+      {"word": "appurtenances", "note": "부속물/딸린 것들 → 어떤 역할에 수반되는 물건"},
+      {"word": "ornamentation", "note": "장식(물)"},
+      {"word": "adornment", "note": "치장/장식품"},
+      {"word": "regalia", "note": "예복/왕실 장식 → 권위의 상징물"}
+    ],
+    "tips": [
+      "원래 말에 씌우는 장식용 마구(馬具)였어. 거기서 '겉을 꾸미는 장식/상징물'로 확장된 거야.",
+      "GRE 핵심 용법: 'the trappings of power' = 권력의 상징물(겉치레). 실질이 아니라 '겉으로 드러나는 장식적 요소'를 가리켜. 약간 부정적 뉘앙스가 있어."
+    ]
+  },
+  {
+    "word": "traumatic",
+    "pos": "adj.",
+    "head_meanings": [
+      "충격적인/정신적 외상의",
+      "(의학) 외상의/상처에 관한"
+    ],
+    "synonyms_from_image": [
+      {"word": "shocking", "note": "충격적인 → 정신적 충격을 주는"},
+      {"word": "devastating", "note": "엄청난 충격을 주는/파괴적인"}
+    ],
+    "tips": [
+      "그리스어 trauma(상처)에서 왔어. 원래 물리적 상처였는데, 지금은 심리적 충격이 더 핵심 의미야.",
+      "'traumatic experience' = 트라우마적 경험. GRE에서는 심리학·사회학 맥락에서 자주 나와."
+    ]
+  },
+  {
+    "word": "travail",
+    "pos": "n.",
+    "head_meanings": [
+      "고된 노동/노고",
+      "수고/애씀",
+      "진통(출산의 고통)"
+    ],
+    "synonyms_from_image": [
+      {"word": "toil", "note": "고된 노동 → 힘들고 지치는 일"},
+      {"word": "drudgery", "note": "고역/지루한 노동 → 단조롭고 힘든 반복 작업"},
+      {"word": "exertion", "note": "분투/노력 → 힘을 쏟는 것"}
+    ],
+    "tips": [
+      "프랑스어 travailler(일하다)에서 왔어. 그냥 일이 아니라 '고통스럽고 힘든 노동'이야.",
+      "travel(여행)도 같은 어원이야! 중세에는 여행 자체가 고된 노동이었거든. 'the travails of daily life' = 일상의 고된 수고."
+    ]
+  },
+  {
+    "word": "traverse",
+    "pos": "v.",
+    "head_meanings": [
+      "가로지르다",
+      "횡단하다",
+      "(산·사막 등을) 넘다"
+    ],
+    "synonyms_from_image": [
+      {"word": "cross", "note": "건너다/가로지르다"}
+    ],
+    "tips": [
+      "`tra-`(across) + `verse`(돌다) → 가로질러 가다. transverse(가로의/횡단하는)도 같은 어근이야.",
+      "'traverse the desert' = 사막을 횡단하다. 물리적 이동뿐 아니라 비유적으로 '어려운 과정을 거치다'라는 뜻도 있어."
+    ]
+  },
+  {
+    "word": "travesty",
+    "pos": "n.",
+    "head_meanings": [
+      "서투른 모방/희화화",
+      "우스꽝스럽게 왜곡한 것"
+    ],
+    "synonyms_from_image": [
+      {"word": "caricature", "note": "희화/풍자화 → 특징을 과장해서 우스꽝스럽게 만든 것"},
+      {"word": "mockery", "note": "조롱/웃음거리 → 원본을 조롱하듯 변형한 것"},
+      {"word": "burlesque", "note": "익살극/패러디 → 심각한 것을 우스꽝스럽게 만든 것"},
+      {"word": "lampoon", "note": "풍자문/조롱글 → 날카롭게 비꼬는 풍자"}
+    ],
+    "tips": [
+      "이탈리아어 travestire(변장하다)에서 왔어. 원작을 우스꽝스럽게 변장시킨 것이야.",
+      "주의! parody(패러디)와 다른 뉘앙스야. parody는 '재미있게 흉내 낸 것'이지만, travesty는 '원본을 모욕할 정도로 엉망으로 만든 것'이야. 'a travesty of justice' = 정의의 희화화/모독."
+    ]
+  },
+  {
+    "word": "treacherous",
+    "pos": "adj.",
+    "head_meanings": [
+      "배반하는/배신적인",
+      "믿을 수 없는",
+      "(상황·길 등이) 위험한/불안정한"
+    ],
+    "synonyms_from_image": [
+      {"word": "traitorous", "note": "반역적인/배신하는"},
+      {"word": "disloyal", "note": "불충한/배반하는"},
+      {"word": "faithless", "note": "불성실한/신의 없는 → 믿음을 저버리는"},
+      {"word": "deceitful", "note": "기만적인 → 속이면서 배신하는"},
+      {"word": "perfidious", "note": "배신적인/불성실한 → 의도적으로 신뢰를 져버리는"}
+    ],
+    "tips": [
+      "treachery(배신)의 형용사형. '뒤통수를 치는' 느낌이야.",
+      "두 뜻이 있어:\n1) 사람이 treacherous → 배신적인/믿을 수 없는\n2) 상황·길이 treacherous → 위험한/불안정한\n'treacherous road conditions' = 위험한 도로 상태. 겉보기엔 괜찮은데 실은 위험한 거야."
+    ]
+  },
+  {
+    "word": "treatise",
+    "pos": "n.",
+    "head_meanings": [
+      "(학술) 논문",
+      "논설/논고"
+    ],
+    "synonyms_from_image": [
+      {"word": "monograph", "note": "전문 논문 → 한 주제에 대한 학술적 저작"},
+      {"word": "thesis", "note": "학위 논문 → 체계적 연구를 담은 글"},
+      {"word": "dissertation", "note": "박사 논문/학술 논문"},
+      {"word": "discourse", "note": "담론/논설 → 주제에 대한 체계적 논의"},
+      {"word": "essay", "note": "수필/논문 → treatise보다 짧고 가벼운 글"}
+    ],
+    "tips": [
+      "treat(다루다)에서 왔어. 한 주제를 체계적이고 깊이 있게 다룬 긴 학술 글이야.",
+      "essay vs treatise: essay는 짧고 개인적 견해 중심이고, treatise는 길고 체계적이며 학문적이야. 'a treatise on economics' = 경제학 논고."
+    ]
+  },
+  {
+    "word": "tremor",
+    "pos": "n.",
+    "head_meanings": [
+      "떨림/전율",
+      "(지면의) 진동",
+      "(감정의) 동요"
+    ],
+    "synonyms_from_image": [
+      {"word": "quaver", "note": "떨림/떨리는 소리 → 목소리가 떨리는"},
+      {"word": "shudder", "note": "몸서리/전율 → 공포·혐오로 몸이 떨리는"},
+      {"word": "shiver", "note": "오한/떨림 → 추위·두려움으로 떠는"},
+      {"word": "quake", "note": "흔들림/진동 → earthquake도 같은 어근"}
+    ],
+    "tips": [
+      "라틴어 tremere(떨다)에서. tremble, tremendous, tremulous 다 같은 어근이야.",
+      "'a tremor of fear' = 공포의 전율. 물리적 떨림(지진)과 감정적 떨림(공포·흥분) 둘 다 써."
+    ]
+  },
+  {
+    "word": "tremulous",
+    "pos": "adj.",
+    "head_meanings": [
+      "떠는/떨리는",
+      "겁 많은/소심한"
+    ],
+    "synonyms_from_image": [
+      {"word": "aquiver", "note": "떨리는/진동하는 → 잔떨림이 있는"},
+      {"word": "timid", "note": "소심한/겁 많은"},
+      {"word": "fearful", "note": "두려워하는/겁에 질린"}
+    ],
+    "tips": [
+      "tremor의 형용사형이야. 물리적 떨림 + 심리적 두려움 둘 다 의미해.",
+      "'in a tremulous voice' = 떨리는 목소리로. GRE에서는 보통 '불안하고 떨리는' 상태를 묘사할 때 써."
+    ]
+  },
+  {
+    "word": "trenchant",
+    "pos": "adj.",
+    "head_meanings": [
+      "신랄한/통렬한",
+      "(분석·비평이) 날카로운/예리한",
+      "강력한/설득력 있는"
+    ],
+    "synonyms_from_image": [
+      {"word": "incisive", "note": "예리한/날카로운 → 핵심을 꿰뚫는 분석"},
+      {"word": "keen", "note": "날카로운/예리한 → 관찰력이 뛰어난"},
+      {"word": "acute", "note": "예민한/날카로운 → 문제의 핵심을 짚는"},
+      {"word": "penetrating", "note": "꿰뚫는/통찰력 있는 → 깊이 파고드는"},
+      {"word": "mordant", "note": "신랄한/독설적인 → 날카롭게 물어뜯는 비평"},
+      {"word": "caustic", "note": "부식성의/신랄한 → 신랄하게 태우는 듯한 비판"},
+      {"word": "cutting", "note": "날카로운/신랄한 → 칼처럼 베는 비평"}
+    ],
+    "tips": [
+      "trench(참호)에서 왔어 → 참호를 파듯 깊이 파고드는 비판이야. 그냥 sharp가 아니라 '효과적이고 강력하게 날카로운' 거야.",
+      "GRE에서 'trenchant criticism' = 날카롭고 통렬한 비평. 긍정적 맥락으로도 쓰여: 'trenchant analysis' = 예리한 분석."
+    ]
+  },
+  {
+    "word": "trepidation",
+    "pos": "n.",
+    "head_meanings": [
+      "공포/두려움",
+      "불안/초조",
+      "(마음의) 동요"
+    ],
+    "synonyms_from_image": [
+      {"word": "apprehension", "note": "불안/우려 → 앞으로 닥칠 일에 대한 걱정"},
+      {"word": "dread", "note": "극심한 공포 → trepidation보다 더 강한 두려움"},
+      {"word": "anxiety", "note": "불안/걱정 → 마음이 편치 않은 상태"},
+      {"word": "unease", "note": "불안함/불편함 → 뭔가 잘못될 것 같은 느낌"},
+      {"word": "misgivings", "note": "불안감/의구심 → 결과에 대한 걱정"}
+    ],
+    "tips": [
+      "라틴어 trepidare(두려워 떨다)에서. `intrepid`(두려움 없는/대담한)는 정반대야! in-(not) + trepid = 안 떠는 = 용감한.",
+      "'with great trepidation' = 극심한 불안감을 안고. fear보다 격식적이고 '떨리는 불안'의 뉘앙스가 있어."
+    ]
+  },
+  {
+    "word": "trespass",
+    "pos": "n./v.",
+    "head_meanings": [
+      "v.) 침입하다/침해하다",
+      "v.) 위법 행위를 하다",
+      "n.) 불법 침입/위반",
+      "n.) 죄"
+    ],
+    "synonyms_from_image": [
+      {"word": "encroach", "note": "침범하다/잠식하다 → 서서히 영역을 넘어가는"},
+      {"word": "intrude", "note": "침입하다/끼어들다 → 허락 없이 들어가는"},
+      {"word": "invade", "note": "침략하다/침입하다 → 강제로 들어가는"},
+      {"word": "transgress", "note": "위반하다/넘어서다 → 경계를 넘는 행위"}
+    ],
+    "tips": [
+      "`tres-`(trans의 변형, across) + `pass`(지나가다) → 경계를 넘어 지나가다 = 침입하다.",
+      "기독교 기도문(주기도문)에 나오는 유명한 구절: 'Forgive us our trespasses' = 우리의 죄를 용서하소서. 법률에서는 '무단 침입'이라는 뜻이야."
+    ]
+  },
+  {
     "word": "tribute",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "감사(칭찬·존경)의 표시",
-      "찬사",
-      "진상품/공물",
-      "지대/세금",
-      "배당"
+      "찬사/감사(존경)의 표시",
+      "공물/진상품",
+      "(역사적) 조공/세금"
     ],
     "synonyms_from_image": [
-      "encomium",
-      "levy",
-      "toll",
-      "impost",
-      "duty",
-      "appreciation",
-      "eulogy",
-      "compliment",
-      "laudatio",
-      "panegyric"
+      {"word": "encomium", "note": "찬사/격찬 → 공식적인 칭송의 글"},
+      {"word": "eulogy", "note": "찬사/추도사 → 특히 사망자에 대한 칭송"},
+      {"word": "panegyric", "note": "찬사/칭송연설 → 격식적이고 과장된 칭찬"},
+      {"word": "levy", "note": "부과금/징수 → tribute의 '세금/공물' 의미"},
+      {"word": "toll", "note": "통행료/세금 → 대가로 바치는 것"}
+    ],
+    "tips": [
+      "`tribut-`(주다/바치다)에서 왔어. contribute(공헌하다), distribute(배분하다)도 같은 어근!",
+      "GRE에서 두 갈래:\n1) 존경·감사의 표시 → 'pay tribute to' = ~에게 경의를 표하다\n2) 역사적 공물/세금 → 정복자에게 바치는 조공"
     ]
   },
   {
-    "id": "050",
     "word": "tried-and-true",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
+      "검증된",
       "유효성이 증명된",
       "신뢰할 수 있는"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [],
+    "tips": [
+      "tried(시험된) + true(참된) → 시험을 거쳐 효과가 증명된. 'tried-and-true method' = 검증된 방법.",
+      "같은 뜻: time-tested, well-established, proven. GRE에서는 '혁신 vs 전통' 논의에서 자주 등장해."
+    ]
   },
   {
-    "id": "051",
     "word": "trifle",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "시시한 것(일)",
-      "소량",
-      "조금"
+      "시시한 것/하찮은 일",
+      "소량/조금"
     ],
     "synonyms_from_image": [
-      "unimportant thing",
-      "trivial thing",
-      "triviality",
-      "trivia",
-      "minutiae",
-      "pittance",
-      "bauble",
-      "trinket",
-      "gewgaw"
+      {"word": "bauble", "note": "값싼 장신구/하찮은 것 → 겉만 번지르르한 시시한 물건"},
+      {"word": "trinket", "note": "값싸고 작은 장신구 → 하찮은 물건"},
+      {"word": "gewgaw", "note": "값싼 장식품/하찮은 것"},
+      {"word": "pittance", "note": "푼돈/극소량 → trifle의 '소량' 의미"}
+    ],
+    "tips": [
+      "'a trifle nervous' = 약간 긴장된. 부사처럼 '조금/약간'이라는 뜻으로도 써.",
+      "'trifle with someone' = 누군가를 가지고 놀다/가볍게 대하다. 감정을 장난삼아 다루는 거야. GRE에서 이 동사 용법도 나올 수 있어."
     ]
   },
   {
-    "id": "052",
     "word": "trifling",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "하찮은",
-      "시시한",
-      "(양·금액 등이) 적은",
-      "근소한"
+      "하찮은/시시한",
+      "(양·금액이) 적은/근소한"
     ],
     "synonyms_from_image": [
-      "minimal",
-      "petty",
-      "trivial",
-      "unimportant",
-      "insignificant",
-      "inconsequential",
-      "shallow",
-      "superficial",
-      "frivolous",
-      "silly",
-      "foolish",
-      "valueless",
-      "tiny",
-      "negligible",
-      "paltry",
-      "small"
+      {"word": "trivial", "note": "사소한/하찮은"},
+      {"word": "petty", "note": "사소한/쩨쩨한 → 마음이 좁고 하찮은"},
+      {"word": "insignificant", "note": "중요하지 않은/보잘것없는"},
+      {"word": "inconsequential", "note": "중요하지 않은/결과에 영향 없는"},
+      {"word": "negligible", "note": "무시해도 될 정도의/극히 적은"},
+      {"word": "paltry", "note": "보잘것없는/하찮은 → 양이나 가치가 형편없이 적은"},
+      {"word": "frivolous", "note": "경솔한/경박한 → 진지하지 않고 가벼운"}
+    ],
+    "tips": [
+      "trifle(하찮은 것)의 형용사형이야. 'a trifling matter' = 시시한 문제.",
+      "GRE '하찮은' 동의어 세트: trifling ≈ trivial ≈ petty ≈ paltry ≈ negligible ≈ inconsequential. 뉘앙스 차이: petty는 '쩨쩨한', paltry는 '형편없이 적은', negligible는 '무시 가능한'."
     ]
   },
   {
-    "id": "053",
     "word": "trigger",
-    "pos": "",
+    "pos": "n./v.",
     "head_meanings": [
-      "(일을) 일으키다/시작하게 하다",
-      "유발하다",
-      "(방아쇠를 당겨) 쏘다/발사하다",
-      "방아쇠",
-      "계기",
-      "자극"
+      "v.) 유발하다/촉발하다",
+      "n.) 방아쇠/계기/자극"
     ],
     "synonyms_from_image": [
-      "precipitate",
-      "prompt",
-      "provoke",
-      "stir up",
-      "cause",
-      "give rise to",
-      "lead to",
-      "bring about",
-      "generate",
-      "engender",
-      "begin",
-      "initiate",
-      "enkindle",
-      "activate"
+      {"word": "precipitate", "note": "촉발하다 → 갑자기 일어나게 하다"},
+      {"word": "provoke", "note": "유발하다/도발하다 → 반응을 일으키게 만드는"},
+      {"word": "engender", "note": "야기하다/낳다 → 어떤 상황·감정을 생기게 하는"},
+      {"word": "activate", "note": "활성화하다/작동시키다 → 시동을 거는"},
+      {"word": "initiate", "note": "시작하다/착수하다 → 과정을 개시하는"},
+      {"word": "prompt", "note": "촉발하다/재촉하다 → 행동을 하게 만드는"}
+    ],
+    "tips": [
+      "네덜란드어 trekker(당기는 것)에서 왔어. 방아쇠를 '당기면' 연쇄 반응이 시작되는 거야.",
+      "'trigger a chain reaction' = 연쇄 반응을 촉발하다. GRE에서는 '원인이 되다/유발하다'라는 뜻이 핵심이야."
     ]
   },
   {
-    "id": "054",
     "word": "trinket",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "(큰 값어치 없는) 작은 장신구",
-      "방울",
+      "값싼 장신구/작은 장식품",
       "하찮은 물건"
     ],
     "synonyms_from_image": [
-      "gewgaw",
-      "trifle",
-      "toy",
-      "charm",
-      "small ornament"
+      {"word": "gewgaw", "note": "값싼 장식품/하찮은 물건"},
+      {"word": "trifle", "note": "시시한 것 → 가치 없는 작은 물건"},
+      {"word": "bauble", "note": "값싸고 번쩍이는 장신구"}
+    ],
+    "tips": [
+      "원래 '작은 칼'을 뜻하는 옛 영어에서 왔다고 해. 지금은 '값어치 없는 작은 장신구'야.",
+      "GRE '하찮은 물건' 세트: trinket ≈ bauble ≈ gewgaw ≈ knickknack. 다 비슷한데, 시험에서 동의어로 자주 묶여."
     ]
   },
   {
-    "id": "055",
     "word": "trite",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "흔해빠진",
-      "진부한",
-      "평범한",
-      "케케묵은"
+      "진부한/흔해빠진",
+      "케케묵은/식상한"
     ],
     "synonyms_from_image": [
-      "stale",
-      "common",
-      "ordinary",
-      "commonplace",
-      "hackneyed",
-      "banal",
-      "bromide",
-      "cliché",
-      "platitude"
+      {"word": "hackneyed", "note": "진부한/낡은 → 너무 많이 써서 식상한"},
+      {"word": "banal", "note": "평범한/진부한 → 독창성 없는"},
+      {"word": "cliché", "note": "상투적 표현/진부한 생각"},
+      {"word": "platitude", "note": "진부한 말/뻔한 소리 → 깊이 없이 뻔한"},
+      {"word": "stale", "note": "신선하지 않은/진부한 → 오래돼서 맛이 없는"},
+      {"word": "commonplace", "note": "흔해빠진/평범한"}
+    ],
+    "tips": [
+      "라틴어 tritus(닳은)에서 왔어. 너무 많이 써서 닳아빠진 → 진부한. contrite(회한하는)도 같은 어근이야! con-(완전히) + trite(닳다) → 마음이 완전히 닳아빠질 만큼 후회하는.",
+      "GRE '진부한' 동의어 세트: trite ≈ hackneyed ≈ banal ≈ platitudinous ≈ bromidic ≈ pedestrian. 이 단어들은 GRE TC에서 자주 출제돼."
     ]
   },
   {
-    "id": "056",
     "word": "trivia",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "하찮은/사소한 일(것)"
+      "사소한 것들",
+      "하찮은 일들"
     ],
     "synonyms_from_image": [
-      "trinket",
-      "bauble",
-      "gimcrack",
-      "bagatelle",
-      "odds and ends"
+      {"word": "bagatelle", "note": "하찮은 것/소품 → 별로 중요하지 않은 것"},
+      {"word": "bauble", "note": "값싼 장신구/하찮은 것"},
+      {"word": "trinket", "note": "값싼 장신구 → 시시한 물건"}
+    ],
+    "tips": [
+      "라틴어 trivium(세 갈래 길)에서 왔어. 세 갈래 길이 만나는 곳 = 사람들이 모여 시시한 잡담을 나누는 곳 → 사소한 것들.",
+      "trivia quiz(상식 퀴즈)의 그 trivia야! '몰라도 되는 사소한 정보'라는 뜻인데, 퀴즈 문화에서 '잡학'으로 의미가 바뀐 거야."
     ]
   },
   {
-    "id": "057",
     "word": "trivial",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "사소한",
-      "하찮은",
-      "변변찮은",
+      "사소한/하찮은",
       "대수롭지 않은",
       "보통의/평범한"
     ],
     "synonyms_from_image": [
-      "inconsequential"
+      {"word": "inconsequential", "note": "중요하지 않은/결과에 영향 없는"},
+      {"word": "negligible", "note": "무시해도 될 만큼 작은"},
+      {"word": "trifling", "note": "하찮은/시시한"}
+    ],
+    "tips": [
+      "trivia와 같은 어원이야. trivium(세 갈래 길) → 길거리에서 나누는 하찮은 이야기 → 사소한.",
+      "'non-trivial' = 무시할 수 없는/중요한. 학술·기술 맥락에서 'a non-trivial problem' = 쉽지 않은 문제, 이렇게 반대로도 자주 쓰여."
     ]
   },
   {
-    "id": "058",
-    "word": "triviality",
-    "pos": "",
-    "head_meanings": [
-      "사소함",
-      "하찮음",
-      "사소한 일"
-    ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "059",
     "word": "trope",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "문채(文彩)",
-      "비유(적 용법)",
-      "수사(修辭)(어구)"
+      "비유(적 표현)",
+      "수사적 기법",
+      "(문학·영화의) 반복되는 주제/클리셰"
     ],
-    "synonyms_from_image": []
-  },
-  {
-    "id": "060",
-    "word": "truculence",
-    "pos": "",
-    "head_meanings": [
-      "야만",
-      "잔인",
-      "흉포함",
-      "신랄함"
-    ],
-    "synonyms_from_image": [
-      "rudeness",
-      "cruelty",
-      "roughness",
-      "savagery"
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 tropos(돌리다)에서 왔어. 원래 뜻에서 '돌려서 말하기' = 비유야.",
+      "요즘은 '문학·영화에서 반복되는 패턴/클리셰'라는 뜻으로 더 많이 써. 'the hero's journey is a common trope' = 영웅의 여정은 흔한 트로프야."
     ]
   },
   {
-    "id": "061",
     "word": "truculent",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "거친",
-      "통렬한",
-      "(사람이) 공격적인/호전적인",
+      "공격적인/호전적인",
       "반항적인",
-      "흉포한",
-      "잔인한"
+      "거칠고 사나운"
     ],
     "synonyms_from_image": [
-      "pugnacious",
-      "quarrelsome",
-      "defiant",
-      "aggressive",
-      "antagonistic",
-      "belligerent",
-      "confrontational",
-      "obstreperous",
-      "argumentative",
-      "bad-tempered",
-      "short-tempered",
-      "cross"
+      {"word": "pugnacious", "note": "싸움을 좋아하는/호전적인"},
+      {"word": "belligerent", "note": "적대적인/호전적인 → 전쟁할 기세인"},
+      {"word": "aggressive", "note": "공격적인"},
+      {"word": "quarrelsome", "note": "시비 잘 거는/다투기 좋아하는"},
+      {"word": "confrontational", "note": "대결적인 → 맞서 싸우려는 태도"},
+      {"word": "defiant", "note": "반항적인/도전적인 → 권위에 맞서는"},
+      {"word": "antagonistic", "note": "적대적인/반대하는"}
+    ],
+    "tips": [
+      "라틴어 truculentus(사나운/거친)에서 왔어. 그냥 화난 게 아니라 '싸울 준비가 되어 있는 공격적 태도'야.",
+      "GRE '공격적인' 동의어 세트: truculent ≈ pugnacious ≈ belligerent ≈ bellicose ≈ combative. 뉘앙스: truculent는 '거칠고 반항적', pugnacious는 '싸움을 즐기는'."
     ]
   },
   {
-    "id": "062",
     "word": "truism",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "자명한 이치",
-      "공리",
-      "판에 박은 진부한 문구"
+      "자명한 이치/뻔한 사실",
+      "진부한 격언"
     ],
     "synonyms_from_image": [
-      "rule",
-      "axiom",
-      "cliché",
-      "platitude"
+      {"word": "axiom", "note": "공리/자명한 진리 → 증명 없이 참인 명제"},
+      {"word": "cliché", "note": "상투적 표현/진부한 말"},
+      {"word": "platitude", "note": "진부한 말/뻔한 소리 → 깊이 없이 표면적인"}
+    ],
+    "tips": [
+      "true(참) + ism → 너무 당연해서 말할 필요도 없는 것이야.",
+      "axiom vs truism: axiom은 중립적(자명한 진리), truism은 약간 부정적(뻔해서 식상한 말). 'It's a truism that practice makes perfect' = 연습이 완벽을 만든다는 건 누구나 아는 뻔한 얘기야."
     ]
   },
   {
-    "id": "063",
     "word": "truncate",
-    "pos": "",
+    "pos": "v.",
     "head_meanings": [
       "(상부/끝을) 자르다",
-      "(문장·설명 등을) 줄이다"
+      "(문장·기간 등을) 줄이다/단축하다"
     ],
     "synonyms_from_image": [
-      "cut short",
-      "lop",
-      "clip"
+      {"word": "cut short", "note": "짧게 자르다/중단하다"},
+      {"word": "lop", "note": "(가지를) 잘라내다 → 불필요한 부분을 쳐내는"},
+      {"word": "clip", "note": "깎다/자르다 → 끝부분을 잘라내는"}
+    ],
+    "tips": [
+      "`trunc-`(줄기/몸통)에서 왔어. trunk(몸통/나무줄기)과 같은 어근! 줄기 윗부분을 잘라내는 거야.",
+      "'truncated version' = 축약 버전. 컴퓨터 과학에서도 truncate(데이터 잘라내기)로 자주 써."
     ]
   },
   {
-    "id": "064",
     "word": "tumid",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
       "부어 오른",
-      "과장된",
-      "허풍 떠는"
+      "(문체가) 과장된/허풍 떠는"
     ],
     "synonyms_from_image": [
-      "turgid",
-      "inflated",
-      "distended",
-      "swollen",
-      "pompous",
-      "bombastic"
+      {"word": "turgid", "note": "부어 오른/과장된 → tumid와 거의 같은 뜻"},
+      {"word": "swollen", "note": "부은/부풀어 오른"},
+      {"word": "inflated", "note": "부풀린 → 물리적으로나 문체적으로 과장된"},
+      {"word": "bombastic", "note": "대언장담하는/거창한 → 문체가 허풍떠는"},
+      {"word": "pompous", "note": "거드름 피우는/거만한 → 과시적으로 부풀린"}
+    ],
+    "tips": [
+      "`tum-`(부풀다)에서 왔어. tumor(종양)도 같은 어근! 종양은 세포가 부풀어 오른 거잖아.",
+      "물리적으로 '부은' 것 + 문체가 '과장되게 부풀린' 것 둘 다 써. turgid와 거의 같은 뜻이야. 'tumid prose' = 과장된 산문."
     ]
   },
   {
-    "id": "065",
     "word": "tumult",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "큰 소동",
-      "소란",
+      "큰 소동/소란",
       "떠들썩함",
-      "폭동"
+      "(마음의) 격동/동요"
     ],
     "synonyms_from_image": [
-      "disorder",
-      "confusion",
-      "disturbance",
-      "bustle"
+      {"word": "commotion", "note": "소동/소란 → 시끄럽고 혼란스러운"},
+      {"word": "disorder", "note": "무질서/혼란 → 질서가 깨진 상태"},
+      {"word": "disturbance", "note": "소란/방해 → 평온을 깨뜨리는 사건"},
+      {"word": "uproar", "note": "대소동/격분 → 크게 떠들썩한 소란"}
+    ],
+    "tips": [
+      "`tum-`(소란/부풀다)에서 왔어. tumultuous의 명사형이야.",
+      "'in a tumult of emotions' = 감정의 격동 속에서. 외부적 소란뿐 아니라 내면의 격한 동요도 tumult이야."
     ]
   },
   {
-    "id": "066",
     "word": "tumultuous",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "떠들썩한",
-      "소란스런",
-      "거친",
-      "사나운",
-      "무질서한",
-      "격앙된"
+      "떠들썩한/소란스러운",
+      "거친/사나운",
+      "격앙된/격동적인"
     ],
     "synonyms_from_image": [
-      "disorderly",
-      "unruly",
-      "rowdy",
-      "turbulent",
-      "boisterous",
-      "excited",
-      "agitated",
-      "restless",
-      "wild",
-      "riotous",
-      "frenzied",
-      "loud",
-      "deafening",
-      "thunderous",
-      "uproarious",
-      "noisy",
-      "clamorous",
-      "vociferous"
+      {"word": "turbulent", "note": "사나운/격렬한 → 폭풍 같은 혼란"},
+      {"word": "boisterous", "note": "활기차고 시끄러운 → 거칠게 떠드는"},
+      {"word": "rowdy", "note": "떠들썩한/난폭한 → 소란을 피우는"},
+      {"word": "riotous", "note": "폭동 같은/소란스러운"},
+      {"word": "uproarious", "note": "떠들썩한/폭소를 자아내는"},
+      {"word": "clamorous", "note": "시끄럽게 떠드는/아우성치는"},
+      {"word": "vociferous", "note": "고함치는/시끄럽게 주장하는"}
+    ],
+    "tips": [
+      "tumult(소동)의 형용사형이야. '통제할 수 없이 떠들썩하고 격렬한' 느낌.",
+      "'tumultuous applause' = 열렬한 박수갈채. 부정적일 수도, 긍정적일 수도 있어. 핵심은 '격렬하고 시끄러운' 에너지야."
     ]
   },
   {
-    "id": "067",
     "word": "turbid",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "탁한",
-      "자욱한",
-      "혼란한"
+      "(물·공기가) 탁한/흐린",
+      "(사고·문체가) 혼란한/불명확한"
     ],
     "synonyms_from_image": [
-      "dense",
-      "thick",
-      "dark",
-      "smoky",
-      "obscure",
-      "cloudy"
+      {"word": "cloudy", "note": "흐린/탁한 → 맑지 않은"},
+      {"word": "murky", "note": "어둡고 탁한 → 앞이 안 보이는"},
+      {"word": "obscure", "note": "불분명한/모호한 → turbid의 '혼란한' 의미"}
+    ],
+    "tips": [
+      "`turb-`(뒤흔들다)에서 왔어. disturb(방해하다), turbulent(사나운)도 같은 어근! 물을 뒤흔들면 탁해지잖아.",
+      "turbid ≠ turgid! turbid는 '탁한/흐린'이고, turgid는 '부어 오른/과장된'이야. 철자가 비슷해서 GRE에서 헷갈리게 출제할 수 있어."
     ]
   },
   {
-    "id": "068",
     "word": "turbulence",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "떠들썩함",
-      "(바람·파도 등의) 사나움",
-      "(사회적) 혼란/소란/교란/동란"
+      "(공기·바람의) 난기류/격동",
+      "(사회적) 혼란/소란/동란"
     ],
     "synonyms_from_image": [
-      "instability",
-      "flap",
-      "babel",
-      "dither",
-      "unruliness"
+      {"word": "instability", "note": "불안정 → 혼란스러운 상태"},
+      {"word": "unruliness", "note": "통제 불가/무질서 → 제어할 수 없는 상태"},
+      {"word": "upheaval", "note": "격변/대변동 → 큰 혼란을 동반하는 변화"}
+    ],
+    "tips": [
+      "turbulent의 명사형. 비행기 타면 느끼는 난기류가 turbulence야.",
+      "'political turbulence' = 정치적 혼란/격동. GRE에서는 사회·역사적 맥락의 비유적 용법이 더 많아."
     ]
   },
   {
-    "id": "069",
     "word": "turbulent",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "(날씨·풍파 등이) 사나운",
-      "험한",
-      "폭풍우의",
-      "(세태 등이) 동요한",
-      "불안정한",
-      "(사람·군중이) 난폭한/무도한"
+      "(날씨·바다가) 사나운/거친",
+      "(사회·시대가) 격동적인/혼란한",
+      "(사람·군중이) 난폭한/통제 불가한"
     ],
     "synonyms_from_image": [
-      "tumultuous",
-      "tempestuous",
-      "stormy",
-      "unstable",
-      "unsettled",
-      "chaotic",
-      "violent",
-      "anarchic",
-      "lawless",
-      "rough",
-      "agitated",
-      "boisterous"
+      {"word": "tumultuous", "note": "떠들썩한/격동적인 → 큰 소란과 혼란"},
+      {"word": "tempestuous", "note": "폭풍 같은/격렬한 → 감정·날씨가 사나운"},
+      {"word": "stormy", "note": "폭풍우의/격렬한"},
+      {"word": "chaotic", "note": "혼돈의/무질서한"},
+      {"word": "agitated", "note": "동요하는/불안한"},
+      {"word": "volatile", "note": "변덕스러운/폭발성의 → 급변하는"}
+    ],
+    "tips": [
+      "`turb-`(뒤흔들다)에서. turbid(탁한)와 같은 어근이지만 의미가 달라! turbulent는 '사납고 격렬한', turbid는 '흐리고 탁한'.",
+      "'turbulent times' = 격동의 시대. GRE RC에서 역사·사회 변동을 논할 때 자주 나와."
     ]
   },
   {
-    "id": "070",
     "word": "turgid",
-    "pos": "",
+    "pos": "adj.",
     "head_meanings": [
-      "부어 오른",
-      "과장된"
+      "부어 오른/팽창한",
+      "(문체가) 과장된/거드름 피우는"
     ],
     "synonyms_from_image": [
-      "puffed up",
-      "puffy"
+      {"word": "bloated", "note": "부풀어 오른/과도한"},
+      {"word": "swollen", "note": "부은/팽창한"},
+      {"word": "pompous", "note": "거드름 피우는 → 문체가 허세 가득한"}
+    ],
+    "tips": [
+      "`turg-`(부풀다)에서 왔어. tumid와 거의 같은 뜻이야! 물리적 부기 + 문체의 과장 둘 다.",
+      "GRE에서는 문체 비평 뜻이 더 중요해: 'turgid writing' = 군더더기가 많고 부풀려진 글. 반대는 spare/concise/laconic 같은 '간결한' 계열이야."
     ]
   },
   {
-    "id": "071",
     "word": "turmoil",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "(마음의) 혼란",
-      "동요",
-      "소란",
+      "혼란/소란",
+      "(마음의) 동요",
       "소동"
     ],
     "synonyms_from_image": [
-      "disturbance",
-      "chaos",
-      "disorder",
-      "tumult"
+      {"word": "chaos", "note": "혼돈/대혼란"},
+      {"word": "disorder", "note": "무질서/혼란 → 질서가 무너진 상태"},
+      {"word": "tumult", "note": "큰 소동/격동 → turmoil과 거의 같은 뜻"},
+      {"word": "upheaval", "note": "격변/대변동 → 갑작스럽고 큰 혼란"}
+    ],
+    "tips": [
+      "어원이 불확실한 단어야. 하지만 tumult, turbulence와 의미가 비슷해서 함께 외우면 좋아.",
+      "'in turmoil' = 혼란 속에. tumult는 '떠들썩한 소란'에 가깝고, turmoil은 '내면의 격한 혼란'에 좀 더 가까워. 'emotional turmoil' = 감정적 격동."
     ]
   },
   {
-    "id": "072",
     "word": "turncoat",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
       "배신자",
       "변절자"
     ],
     "synonyms_from_image": [
-      "renegade",
-      "betrayer",
-      "apostate"
+      {"word": "renegade", "note": "배신자/탈당자 → 기존 집단을 떠나 적편에 선"},
+      {"word": "betrayer", "note": "배반자 → 신뢰를 저버린 사람"},
+      {"word": "apostate", "note": "배교자/변절자 → 원래 신앙·신념을 버린 사람"}
+    ],
+    "tips": [
+      "turn(뒤집다) + coat(외투) → 외투를 뒤집어 입다 = 편을 바꾸다! 전쟁에서 적의 색깔로 외투를 뒤집어 입은 데서 유래한 말이야.",
+      "traitor(반역자)와 비교: traitor는 더 심각한 배신(국가 반역 등)이고, turncoat는 '편을 바꾸는 변절자' 느낌이야."
     ]
   },
   {
-    "id": "073",
     "word": "turpitude",
-    "pos": "",
+    "pos": "n.",
     "head_meanings": [
-      "비열",
-      "타락"
+      "비열/타락",
+      "부도덕/사악함"
     ],
     "synonyms_from_image": [
-      "baseness",
-      "degeneracy",
-      "corruption",
-      "decadence"
+      {"word": "baseness", "note": "비열함/저급함"},
+      {"word": "degeneracy", "note": "타락/퇴폐"},
+      {"word": "corruption", "note": "부패/타락 → 도덕적으로 썩은 상태"},
+      {"word": "decadence", "note": "퇴폐/쇠퇴 → 도덕적 기준이 무너진 상태"}
+    ],
+    "tips": [
+      "라틴어 turpis(추한/비열한)에서 왔어. 법률 용어 'moral turpitude' = 도덕적 타락/비행으로 자주 쓰여.",
+      "'an act of moral turpitude' = 도덕적 타락 행위. 미국 이민법에서 범죄의 심각성을 판단하는 기준으로 실제로 쓰이는 법률 용어야."
     ]
   },
   {
-    "id": "074",
     "word": "tussle",
-    "pos": "",
+    "pos": "n./v.",
     "head_meanings": [
-      "격렬하게 싸우다",
-      "격투(하다)",
-      "난투(하다)",
-      "고전/분투(하다)"
+      "격투(하다)/난투(하다)",
+      "분투/고전(하다)"
     ],
-    "synonyms_from_image": []
+    "synonyms_from_image": [
+      {"word": "scuffle", "note": "난투/몸싸움 → 짧고 혼란스러운 싸움"},
+      {"word": "brawl", "note": "난투/싸움 → 여러 사람이 뒤엉켜 싸우는"}
+    ],
+    "tips": [
+      "toss(던지다)와 관련된 단어야. 서로 밀치고 당기는 격투 이미지.",
+      "fight보다 덜 심각해. 'a political tussle' = 정치적 힘겨루기. 물리적 싸움뿐 아니라 비유적 다툼에도 써."
+    ]
   }
 ]
