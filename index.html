@@ -403,6 +403,13 @@
       <!-- Dynamically populated -->
     </div>
 
+    <hr style="border: none; border-top: 1px solid var(--border); margin: 40px 0;">
+
+    <div class="section-title">📖 기출대전</div>
+    <div class="wordlist-grid" id="gichulGrid">
+      <!-- Dynamically populated -->
+    </div>
+
     <div class="footer">
       GRE Vocabulary Practice · 데이터는 브라우저에 저장됩니다<br>
       Made by 두두
@@ -552,6 +559,31 @@
       });
     }
     renderMocks();
+
+    // 기출대전
+    const AVAILABLE_GICHUL = [
+      { id: '기출대전_73-75', label: '73-75' }
+    ];
+
+    function renderGichul() {
+      const grid = document.getElementById('gichulGrid');
+      grid.innerHTML = '';
+      AVAILABLE_GICHUL.forEach(g => {
+        const card = document.createElement('a');
+        card.className = 'wordlist-card';
+        card.href = '#';
+        card.addEventListener('click', (e) => {
+          e.preventDefault();
+          openModeModal(`기출대전 ${g.label}`, g.id);
+        });
+        card.innerHTML = `
+          <div style="font-size:11px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:0.5px; margin-bottom:2px;">기출대전</div>
+          <div class="number" style="font-size:16px;">${g.label}</div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+    renderGichul();
 
     // Easter egg: triple-click 📋 → writing page
     (() => {

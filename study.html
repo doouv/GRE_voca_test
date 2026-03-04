@@ -929,7 +929,7 @@
     async function init() {
       try {
         const url = IS_MOCK
-          ? `data/Mock_${MOCK_ID}.json`
+          ? (MOCK_ID.startsWith('기출대전') ? `data/${MOCK_ID}.json` : `data/Mock_${MOCK_ID}.json`)
           : `data/GRE_wordlist${WORDLIST_NUMBER}.json`;
         const res = await fetch(url);
         if (!res.ok) throw new Error('Not found');

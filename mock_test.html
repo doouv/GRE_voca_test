@@ -603,7 +603,8 @@
     // ── Init ──
     async function init() {
       try {
-        const res = await fetch(`data/Mock_${MOCK_ID}.json`);
+        const mockUrl = MOCK_ID.startsWith('기출대전') ? `data/${MOCK_ID}.json` : `data/Mock_${MOCK_ID}.json`;
+        const res = await fetch(mockUrl);
         if (!res.ok) throw new Error('Not found');
         ALL_WORDS = await res.json();
         ALL_WORDS.forEach((w, i) => { w.id = String(i + 1).padStart(3, '0'); });

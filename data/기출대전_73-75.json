@@ -1,0 +1,497 @@
+[
+  {
+    "word": "exculpatory",
+    "pos": "adj.",
+    "head_meanings": ["무죄를 입증하는, 혐의를 벗겨주는"],
+    "synonyms_from_image": [
+      {"word": "vindicating", "note": "혐의·비난에서 벗겨준다는 점에서 동일"},
+      {"word": "absolving", "note": "죄·책임을 면해준다는 뜻"},
+      {"word": "exonerating", "note": "공식적으로 무죄를 선언하는 뉘앙스"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `culpa`(죄) → 죄를 밖으로 꺼내버리다 = 무죄를 입증하다. `culpable`(유죄의)의 반대 방향이야.",
+      "법정 드라마에서 자주 나와: `exculpatory evidence` = 피고의 무죄를 뒷받침하는 증거. GRE에서도 이 법률 맥락으로 주로 쓰여."
+    ],
+    "source": "1. Because of its ______, DNA can be invaluable as exculpatory evidence following a criminal conviction: it can be reliably tested years after a crime has occurred.\nA. versatility\nB. recognizability\nC. durability\nD. verifiability\nE. distinctiveness"
+  },
+  {
+    "word": "despotic",
+    "pos": "adj.",
+    "head_meanings": ["독재적인, 전제적인, 폭군적인"],
+    "synonyms_from_image": [
+      {"word": "autocratic", "note": "한 사람이 모든 권력을 독점하는 통치 방식"},
+      {"word": "tyrannical", "note": "폭력적·억압적 방식으로 지배하는"},
+      {"word": "authoritarian", "note": "복종을 강요하고 자유를 억압하는"}
+    ],
+    "tips": [
+      "그리스어 `despotēs`(주인, 군주)에서 왔어. 고대 그리스에서는 중립적인 단어였는데, 나중에 '폭군'의 뉘앙스가 붙었지.",
+      "문제 맥락 힌트: 11세기 문서는 큰 테이블 하나에 올라가는데 13세기엔 방을 가득 채울 만큼 늘었다 → 정부가 점점 '비대해지고 통제권을 키웠다' = despotic(전제적)이 정답."
+    ],
+    "source": "2. Throughout the High Middle Ages, the English government became increasingly ______: the document produced in the eleventh century could be placed on one large table, while the documents produced in the thirteenth fill whole rooms.\nA. despotic\nB. ceremonial\nC. aristocratic\nD. prolix\nE. insular"
+  },
+  {
+    "word": "prolix",
+    "pos": "adj.",
+    "head_meanings": ["장황한, 말(글)이 지나치게 긴, 군더더기가 많은"],
+    "synonyms_from_image": [
+      {"word": "verbose", "note": "필요 이상으로 말이 많은"},
+      {"word": "wordy", "note": "같은 뜻을 길게 늘여 쓰는"},
+      {"word": "diffuse", "note": "핵심 없이 여기저기 퍼진 글/말 스타일"}
+    ],
+    "tips": [
+      "`pro-`(앞으로) + `lix`(흐르다, liquid와 같은 뿌리) → 말이 앞으로 계속 흘러넘치다 = 장황하다.",
+      "반의어는 `laconic`(간결한), `terse`(짧고 딱 부러진). GRE에서 문체 묘사 문제에 단골로 등장하는 단어야. `prolix speaker` = 말 길고 지루한 연설자."
+    ],
+    "source": "2. Throughout the High Middle Ages, the English government became increasingly ______: the document produced in the eleventh century could be placed on one large table, while the documents produced in the thirteenth fill whole rooms.\nA. despotic\nB. ceremonial\nC. aristocratic\nD. prolix\nE. insular"
+  },
+  {
+    "word": "consummate",
+    "pos": "adj./v.",
+    "head_meanings": ["adj.) 최고 수준의, 완벽한, 탁월한", "v.) 완성하다, (결혼을) 완성하다"],
+    "synonyms_from_image": [
+      {"word": "supreme", "note": "최고 경지에 달한 뜻에서 동일"},
+      {"word": "accomplished", "note": "오랜 단련 끝에 완성된 경지"},
+      {"word": "preeminent", "note": "같은 분야에서 누구보다 뛰어난"}
+    ],
+    "tips": [
+      "GRE 함정 단어! 일상에서는 동사 `consummate a marriage`(혼인을 완성하다)로 알려져 있는데, GRE에서는 형용사 `a consummate teacher`(최고의 선생님) 뜻으로 나와.",
+      "`con-`(완전히) + `summa`(정상, sum의 어원) → 꼭대기까지 완전히 올라간 상태. `summit`(정상)과 같은 뿌리야."
+    ],
+    "source": "4. Many of us remember a time when discovery and the thrill of learning were forces in our lives and were (i)______. Frequently that time happened in a great classroom somewhere, in the hands of the one (ii)______ teacher we can each remember.\nA. elusive / D. consummate\nB. inconsequential / E. truculent\nC. exciting / F. superfluous"
+  },
+  {
+    "word": "truculent",
+    "pos": "adj.",
+    "head_meanings": ["호전적인, 공격적인, 시비를 거는 듯한"],
+    "synonyms_from_image": [
+      {"word": "belligerent", "note": "싸우려는 자세가 역력한"},
+      {"word": "pugnacious", "note": "싸움을 즐기는 성질"},
+      {"word": "combative", "note": "어떤 상황에서든 맞서 싸우려는 태도"}
+    ],
+    "tips": [
+      "`trux`(사나운, fierce)에서 온 라틴어. 발음도 성난 느낌이지? '트러큘런트' — 마치 으르렁거리는 소리 같아.",
+      "문제 맥락 체크: 훌륭한 선생님을 묘사하는 자리라서 truculent(호전적인)는 오답. GRE에서 문맥으로 소거하는 연습에 좋은 단어야."
+    ],
+    "source": "4. Many of us remember a time when discovery and the thrill of learning were forces in our lives and were (i)______. Frequently that time happened in a great classroom somewhere, in the hands of the one (ii)______ teacher we can each remember.\nA. elusive / D. consummate\nB. inconsequential / E. truculent\nC. exciting / F. superfluous"
+  },
+  {
+    "word": "emancipate",
+    "pos": "v.",
+    "head_meanings": ["해방하다, (속박·제약에서) 자유롭게 하다"],
+    "synonyms_from_image": [
+      {"word": "liberate", "note": "억압이나 구속에서 풀어주다"},
+      {"word": "free", "note": "제약을 없애고 자유를 주다"},
+      {"word": "enfranchise", "note": "원래 '참정권을 주다'인데, 권리·자유를 부여한다는 점에서 emancipate와 통함"}
+    ],
+    "tips": [
+      "`e-`(밖으로) + `mancipium`(소유권, 노예 계약) → 소유권 밖으로 꺼내다 = 노예 해방. 역사적으로 `the Emancipation Proclamation`(노예해방선언, 1863)으로 유명해.",
+      "GRE에서는 역사·문학 지문에서 자주 등장. 꼭 사람뿐 아니라 개념·장르도 emancipate할 수 있어: `emancipated the genre from tradition` = 전통의 틀에서 장르를 해방시켰다."
+    ],
+    "source": "6. Since the 1920s, historical fiction writers in China have emancipated the genre from the traditional notion that (i)______ was the ultimate goal of history writing. Yet the traditional commitment to (ii)______ was not simply (iii)______: this new genre was expected to capture the essence of historical truth even as it allowed space for the writer's imagination.\nA. comprehensiveness / D. veracity / G. jettisoned\nB. factuality / E. thoroughness / H. rationalized\nC. entertainment / F. pleasure / I. acknowledged"
+  },
+  {
+    "word": "veracity",
+    "pos": "n.",
+    "head_meanings": ["진실성, 정확성, 사실에 충실함"],
+    "synonyms_from_image": [
+      {"word": "truthfulness", "note": "사실을 있는 그대로 전달하려는 성질"},
+      {"word": "accuracy", "note": "정확하게 사실과 일치하는 상태"},
+      {"word": "fidelity", "note": "원래 '충성'인데, '사실에 충실함'이란 뜻에서 veracity와 통함"}
+    ],
+    "tips": [
+      "`verus`(진실한) + `-acity`(성질) → 진실한 성질. `verify`(확인하다), `verdict`(판결), `verisimilitude`(그럴듯함) 모두 같은 뿌리야.",
+      "`veracity`는 단순히 '사실이냐'가 아니라 '사실에 충실하려는 태도·성향'이야. 문제에서 역사 서술의 목표로 쓰인 맥락처럼, '진실 추구'의 뉘앙스가 강해."
+    ],
+    "source": "6. Since the 1920s, historical fiction writers in China have emancipated the genre from the traditional notion that (i)______ was the ultimate goal of history writing. Yet the traditional commitment to (ii)______ was not simply (iii)______: this new genre was expected to capture the essence of historical truth even as it allowed space for the writer's imagination.\nA. comprehensiveness / D. veracity / G. jettisoned\nB. factuality / E. thoroughness / H. rationalized\nC. entertainment / F. pleasure / I. acknowledged"
+  },
+  {
+    "word": "jettison",
+    "pos": "v.",
+    "head_meanings": ["(불필요한 것을) 버리다, 폐기하다", "(비행기·배에서 짐을) 투하하다"],
+    "synonyms_from_image": [
+      {"word": "discard", "note": "더 이상 필요 없는 것을 버리다"},
+      {"word": "abandon", "note": "계획·방침 등을 포기하고 떠나다"},
+      {"word": "scrap", "note": "기존 것을 완전히 폐기하는 뉘앙스"}
+    ],
+    "tips": [
+      "원래 항해 용어야: 배가 위험에 처했을 때 화물을 바다에 던져버리는 것 = jettison. 여기서 '불필요한 걸 과감히 버리다'로 확장됐어.",
+      "GRE 지문에서 `jettison old beliefs/tradition`처럼 쓰여. '전통을 버리다'는 맥락이 문제에서 직접 나왔지. `jet`(분사하다)와 같은 뿌리 — 내던지는 이미지!"
+    ],
+    "source": "6. Since the 1920s, historical fiction writers in China have emancipated the genre from the traditional notion that (i)______ was the ultimate goal of history writing. Yet the traditional commitment to (ii)______ was not simply (iii)______: this new genre was expected to capture the essence of historical truth even as it allowed space for the writer's imagination.\nA. comprehensiveness / D. veracity / G. jettisoned\nB. factuality / E. thoroughness / H. rationalized\nC. entertainment / F. pleasure / I. acknowledged"
+  },
+  {
+    "word": "appropriation",
+    "pos": "n.",
+    "head_meanings": ["전용(轉用), 도용, 착복", "(예산·자원의) 배정, 충당"],
+    "synonyms_from_image": [
+      {"word": "misappropriation", "note": "부정한 목적으로 가로채는 뉘앙스 강조"},
+      {"word": "seizure", "note": "강제로 빼앗는 이미지"},
+      {"word": "allocation", "note": "'배정' 뜻일 때 동의어 — 자원을 특정 목적에 배분"}
+    ],
+    "tips": [
+      "`appropri-`(자기 것으로 만들다) → 두 갈래:\n1) 긍정: 예산을 특정 용도에 배정 (`budget appropriation`)\n2) 부정: 남의 것을 자기 것으로 가져가다 = 도용·착복",
+      "GRE 함정 단어! `water appropriation`(수자원 전용권) = 물 사용 권리를 특정 주체에 배정하는 법적 시스템. 단순히 '물 훔치기'가 아니야."
+    ],
+    "source": "7. Precipitation is not ______ in the Atacama Desert west of Andes mountains, and water scarcity is compounded by problems with water appropriation, the existence of agro pastoralists is in jeopardy.\nA. regular\nB. negligible\nC. evident\nD. consistent\nE. insignificant\nF. abundant"
+  },
+  {
+    "word": "approbation",
+    "pos": "n.",
+    "head_meanings": ["승인, 인가, 공식적 찬성", "칭찬, 호평"],
+    "synonyms_from_image": [
+      {"word": "commendation", "note": "공식적으로 칭찬하고 추천하는 행위"},
+      {"word": "approval", "note": "찬성·동의의 뜻"},
+      {"word": "endorsement", "note": "공개적으로 지지·승인을 표명하는 것"}
+    ],
+    "tips": [
+      "`ap-`(~에게) + `probare`(좋다고 인정하다, prove와 같은 뿌리) → 공식적으로 '좋다'고 인정해주다.",
+      "헷갈리는 짝꿍: `approbation`(승인/칭찬) vs `opprobrium`(비난/수치). 철자가 비슷한데 뜻은 정반대야! GRE 단골 함정."
+    ],
+    "source": "8. What differentiates this book from more traditional works on grammar is that it reserves its ______ not for students of writing, but for teachers who harbor unduly restrictive views.\nA. mockery\nB. skepticism\nC. scolding\nD. approbation\nE. admonishment\nF. commendation"
+  },
+  {
+    "word": "commendation",
+    "pos": "n.",
+    "head_meanings": ["칭찬, 표창, 추천"],
+    "synonyms_from_image": [
+      {"word": "approbation", "note": "공식적 승인·칭찬의 뜻에서 동일"},
+      {"word": "acclaim", "note": "공개적으로 열렬히 칭찬하는 것"},
+      {"word": "citation", "note": "원래 '인용'인데, 공식 표창장 맥락에서 commendation과 통함"}
+    ],
+    "tips": [
+      "`com-`(강조) + `mandare`(맡기다, 추천하다) → 강력히 추천하다. `recommend`(추천하다)와 완전히 같은 뿌리야.",
+      "`commend`(칭찬하다/추천하다)의 명사형. 군대나 공식 기관에서 `letter of commendation`(표창장)으로 자주 쓰여."
+    ],
+    "source": "8. What differentiates this book from more traditional works on grammar is that it reserves its ______ not for students of writing, but for teachers who harbor unduly restrictive views.\nA. mockery\nB. skepticism\nC. scolding\nD. approbation\nE. admonishment\nF. commendation"
+  },
+  {
+    "word": "admonish",
+    "pos": "v.",
+    "head_meanings": ["훈계하다, 경고하다, 꾸짖다 (온화하게)"],
+    "synonyms_from_image": [
+      {"word": "reprimand", "note": "공식적으로 비난·질책하는 것"},
+      {"word": "rebuke", "note": "강하게 꾸짖는 뉘앙스"},
+      {"word": "caution", "note": "경고성 훈계 — 부드럽고 예방적인 뉘앙스"}
+    ],
+    "tips": [
+      "`ad-`(~에게) + `monere`(경고하다) → 누군가에게 경고를 주다. `monitor`(감시하다), `monster`(경이로운 것 → 경고의 징조)도 같은 뿌리야!",
+      "뉘앙스 체크: `admonish`는 꾸짖되 비교적 온화해. `rebuke`나 `castigate`보다 강도가 약하고 '이렇게 하지 마' 식의 경고에 가까워."
+    ],
+    "source": "8. What differentiates this book from more traditional works on grammar is that it reserves its ______ not for students of writing, but for teachers who harbor unduly restrictive views.\nA. mockery\nB. skepticism\nC. scolding\nD. approbation\nE. admonishment\nF. commendation"
+  },
+  {
+    "word": "harbor",
+    "pos": "v./n.",
+    "head_meanings": ["v.) (감정·생각을) 품다, 마음속에 간직하다", "v.) 숨겨주다, 은닉하다", "n.) 항구"],
+    "synonyms_from_image": [
+      {"word": "entertain", "note": "원래 '즐겁게 하다'인데, '생각을 마음속에 품다' 뜻에서 harbor와 통함"},
+      {"word": "nurse", "note": "원래 '돌보다'인데, 감정을 오래 품고 키운다는 점에서 통함"},
+      {"word": "cherish", "note": "소중히 간직한다는 뜻에서 harbor와 통함"}
+    ],
+    "tips": [
+      "GRE 함정 단어! `harbor`는 항구만 아니야. `harbor resentment`(원한을 품다), `harbor doubts`(의심을 품다), `harbor criminals`(범죄자를 숨겨주다) — 모두 '안에 품다/숨기다'의 이미지야.",
+      "항구(harbor)가 배를 '품어준다'는 원래 뜻에서 파생됐어. 배를 보호하듯, 생각이나 사람을 내부에 안전하게 담아두는 이미지."
+    ],
+    "source": "8. What differentiates this book from more traditional works on grammar is that it reserves its ______ not for students of writing, but for teachers who harbor unduly restrictive views."
+  },
+  {
+    "word": "unduly",
+    "pos": "adv.",
+    "head_meanings": ["지나치게, 과도하게, 부당하게"],
+    "synonyms_from_image": [
+      {"word": "excessively", "note": "적절한 수준을 넘어선"},
+      {"word": "inordinately", "note": "정해진 한도를 벗어나서 지나친"},
+      {"word": "disproportionately", "note": "균형에 맞지 않게 과도한"}
+    ],
+    "tips": [
+      "`un-`(부정) + `duly`(적절히) → 적절하지 않게 = 지나치게/부당하게. `due`(마땅한)의 반대야.",
+      "`unduly restrictive` = 지나치게 제한적인. GRE에서 부사 어휘로 자주 등장하니까, `duly`(적절히, 제때)도 함께 외워둬."
+    ],
+    "source": "8. What differentiates this book from more traditional works on grammar is that it reserves its ______ not for students of writing, but for teachers who harbor unduly restrictive views."
+  },
+  {
+    "word": "partisanship",
+    "pos": "n.",
+    "head_meanings": ["당파심, 편파성, (맹목적) 파벌 충성"],
+    "synonyms_from_image": [
+      {"word": "factionalism", "note": "집단 내 파벌 싸움이 심한 상태"},
+      {"word": "bias", "note": "한쪽으로 치우친 판단"},
+      {"word": "sectarianism", "note": "특정 종파·집단만을 옳다고 보는 편협한 태도"}
+    ],
+    "tips": [
+      "`partisan`(당파적인 사람, 빨치산)에서 왔어. 프랑스어 `parti`(당, 편)가 어원. 정치 맥락에서 `bipartisanship`(양당 협력)의 반대 개념이야.",
+      "문제 맥락: 선거 개혁의 목표는 `impartial agents`(공정한 주체)에게 권한을 주는 것 → partisanship(당파심)을 억제/제한하는 방향. `constraining/deterring partisanship`이 정답 쪽."
+    ],
+    "source": "10. The difficulty of reforming electoral politics is not lack of right tools but the need to put them into the hands of impartial agents: the goal should be to build capacity while ______ partisanship.\nA. expediting\nB. constraining\nC. facilitating\nD. deterring\nE. exacerbating\nF. lamenting"
+  },
+  {
+    "word": "inclusiveness",
+    "pos": "n.",
+    "head_meanings": ["포용성, 포괄성, 모든 것을 아우르는 성질"],
+    "synonyms_from_image": [
+      {"word": "comprehensiveness", "note": "빠짐없이 모든 것을 포함하는 성질"},
+      {"word": "breadth", "note": "넓은 범위를 아우른다는 뜻에서 통함"},
+      {"word": "openness", "note": "다양한 것을 받아들이는 열린 태도"}
+    ],
+    "tips": [
+      "`include`(포함하다) + `-ive` + `-ness` → 포함하는 성질. 반의어 `exclusiveness`(배타성)와 함께 외워.",
+      "문제 맥락: 1950년대가 '지적 포용성'으로 유명했다는 평판(reputation)과 달리, 실제로는 날카로운 사회 비평이 풍부했다는 역설 구조."
+    ],
+    "source": "1. Contrary to its reputation for intellectual ______, the 1950s was a decade exceptionally rich in works of trenchant and far-reaching social criticism.\nA. keenness\nB. inclusiveness\nC. complacency\nD. integrity\nE. productivity"
+  },
+  {
+    "word": "complacency",
+    "pos": "n.",
+    "head_meanings": ["자기 만족, 안주, 현실에 안이하게 만족하는 태도"],
+    "synonyms_from_image": [
+      {"word": "self-satisfaction", "note": "스스로에게 만족해 문제의식이 없는 상태"},
+      {"word": "smugness", "note": "근거 없는 자기 만족에 우쭐한 느낌"},
+      {"word": "torpor", "note": "무기력하게 현실에 안주하는 상태"}
+    ],
+    "tips": [
+      "`com-`(완전히) + `placere`(기쁘게 하다) → 스스로에게 완전히 만족해버린 상태. `complacent`(자기만족적인)의 명사형.",
+      "GRE에서 부정적 뉘앙스로 쓰여: 문제의식 없이 현실에 안주하는 태도. `intellectual complacency` = 지적으로 도전하지 않고 편안함에 머무는 것. 문제의 정답이야."
+    ],
+    "source": "1. Contrary to its reputation for intellectual ______, the 1950s was a decade exceptionally rich in works of trenchant and far-reaching social criticism.\nA. keenness\nB. inclusiveness\nC. complacency\nD. integrity\nE. productivity"
+  },
+  {
+    "word": "magnanimity",
+    "pos": "n.",
+    "head_meanings": ["아량, 관대함, 도량이 넓음 (특히 강자가 약자에게 베푸는)"],
+    "synonyms_from_image": [
+      {"word": "generosity", "note": "아낌없이 베푸는 너그러움"},
+      {"word": "benevolence", "note": "선의에서 우러나온 너그러운 태도"},
+      {"word": "clemency", "note": "상대방의 잘못을 너그럽게 봐주는 것 — 특히 권력자가 베푸는 맥락"}
+    ],
+    "tips": [
+      "`magnus`(위대한) + `animus`(정신, 마음) → 마음이 위대한 사람. 승자가 패자에게, 또는 강자가 약자에게 베푸는 넉넉한 아량이라는 뉘앙스가 있어.",
+      "문제 맥락: '욕망을 포기하는 것에서 행복이 온다'고 가르쳤다 → 욕망을 내려놓는 관대한 철학 = magnanimity. 단, 정답은 abstinence(금욕)야. magnanimity는 '아량'이지 '금욕'이 아니니 구별해."
+    ],
+    "source": "2. The philosopher was a strong advocate of ______: he taught that happiness comes from forgoing one's desires.\nA. magnanimity\nB. duty\nC. abstinence\nD. pragmatism\nE. tolerance"
+  },
+  {
+    "word": "in light of",
+    "pos": "prep.",
+    "head_meanings": ["~을 고려하면, ~에 비추어 보면"],
+    "synonyms_from_image": [
+      {"word": "given", "note": "~을 감안하면 — 가장 자주 쓰이는 대체 표현"},
+      {"word": "considering", "note": "~을 고려하면"},
+      {"word": "in view of", "note": "~의 관점에서 볼 때 — 완전한 동의 표현"}
+    ],
+    "tips": [
+      "GRE 지문에서 논리 흐름을 연결하는 핵심 구문. '이 정보를 빛 삼아 비추어 보면'이라는 이미지야.",
+      "`in light of` vs `in spite of` 혼동 주의: `in light of`(~을 고려하면) ↔ `in spite of`(~에도 불구하고). GRE 독해에서 이 둘을 구별하는 게 중요해."
+    ],
+    "source": "3. In light of Elizabeth's habitually (i)______ nature, her friend were quite surprised by her (ii)______ at the convention.\nA. ingenuous / D. garrulity\nB. laconic / E. ostentatiousness\nC. intractable / F. tenacity"
+  },
+  {
+    "word": "vantage",
+    "pos": "n.",
+    "head_meanings": ["유리한 위치, 우위", "(관찰·판단에 유리한) 시점, 관점"],
+    "synonyms_from_image": [
+      {"word": "advantage", "note": "유리한 조건이라는 뜻 — vantage의 어원 자체가 advantage"},
+      {"word": "perspective", "note": "'유리한 시점'에서 관점·시각이라는 뜻으로 통함"},
+      {"word": "eminence", "note": "높은 위치에서 내려다본다는 이미지에서 통함"}
+    ],
+    "tips": [
+      "`vantage`는 `advantage`에서 앞부분 `ad-`가 떨어진 단어야. 그래서 뜻도 같아: 유리한 위치.",
+      "`vantage point`(유리한 관찰 지점)가 가장 흔한 콜로케이션. 물리적 높은 곳일 수도 있고, 비유적으로 '어떤 입장에서 보면'의 뜻으로도 써."
+    ],
+    "source": "6. The journey to (i)______, when it starts from a vantage as (ii)______ as Dunsany's, is often as (iii)______ as the path to glory. How did a writer of such talent and renown wind up nearly forgotten?\nA. obscurity / D. eminent / G. unfathomable\nB. normalcy / E. reactionary / H. cyclical\nC. genius / F. egalitarian / I. mundane"
+  },
+  {
+    "word": "normalcy",
+    "pos": "n.",
+    "head_meanings": ["정상 상태, 평범함, 일상적인 상태"],
+    "synonyms_from_image": [
+      {"word": "ordinariness", "note": "특별하지 않은 평범한 상태"},
+      {"word": "mundaneness", "note": "일상적이고 세속적인 평범함"},
+      {"word": "routine", "note": "반복되는 일상적 패턴 — 평범함의 이미지"}
+    ],
+    "tips": [
+      "`normal` + `-cy`(상태) → 정상적인 상태. 미국 영어에서 주로 쓰이고, 영국 영어에서는 `normality`를 더 선호해.",
+      "역사 배경: 1920년 미국 대통령 Warren Harding이 `'return to normalcy'`를 선거 슬로건으로 써서 유명해진 단어. 1차 세계대전 후 혼란에서 평범한 일상으로 돌아가자는 뜻이었어."
+    ],
+    "source": "6. The journey to (i)______, when it starts from a vantage as (ii)______ as Dunsany's, is often as (iii)______ as the path to glory. How did a writer of such talent and renown wind up nearly forgotten?\nA. obscurity / D. eminent / G. unfathomable\nB. normalcy / E. reactionary / H. cyclical\nC. genius / F. egalitarian / I. mundane"
+  },
+  {
+    "word": "wind up",
+    "pos": "v.",
+    "head_meanings": ["결국 ~하게 되다, ~로 끝나다", "(일을) 마무리하다, 청산하다"],
+    "synonyms_from_image": [
+      {"word": "end up", "note": "결국 어떤 상태에 이르다 — 완전한 동의 표현"},
+      {"word": "culminate", "note": "어떤 과정이 결국 특정 결과로 끝나다"},
+      {"word": "conclude", "note": "'마무리하다' 뜻에서 통함"}
+    ],
+    "tips": [
+      "GRE 함정 구문! `wind up`은 태엽을 감는 게 아니야. '일련의 과정이 끝난 지점에 도달하다' = 결국 ~하게 되다.",
+      "`wind up forgotten` = 결국 잊혀지다. 문맥상 재능 있는 작가가 어떻게 결국 잊혀졌는지를 묻는 구조. `end up`, `turn out`과 거의 같은 뜻이야."
+    ],
+    "source": "6. The journey to (i)______, when it starts from a vantage as (ii)______ as Dunsany's, is often as (iii)______ as the path to glory. How did a writer of such talent and renown wind up nearly forgotten?\nA. obscurity / D. eminent / G. unfathomable\nB. normalcy / E. reactionary / H. cyclical\nC. genius / F. egalitarian / I. mundane"
+  },
+  {
+    "word": "emblematic",
+    "pos": "adj.",
+    "head_meanings": ["상징적인, 전형적인, (~을) 대표하는"],
+    "synonyms_from_image": [
+      {"word": "symbolic", "note": "어떤 개념이나 가치를 상징하는"},
+      {"word": "representative", "note": "전체를 대표하는 전형적 사례"},
+      {"word": "iconic", "note": "어떤 시대·집단을 상징하는 대표적 이미지"}
+    ],
+    "tips": [
+      "`emblem`(상징, 문장) + `-atic`(~의 성질을 가진) → 상징의 역할을 하는. 국가 문장(coat of arms)처럼 무언가를 대표하고 상징하는 이미지야.",
+      "`emblematic of ~` 형태로 자주 쓰여: `emblematic of the era` = 그 시대를 상징하는. `symptomatic of`(~의 증상인)와 구조가 같아서 함께 외워두면 좋아."
+    ],
+    "source": "7. It is normal for artists who achieve great acclaim during their lifetimes to be considered ______ shortly after their deaths, only to have their reputations restored by subsequent generations.\nA. sacrosanct\nB. outmoded\nC. overrated\nD. canonical\nE. unfashionable\nF. emblematic"
+  },
+  {
+    "word": "pretentious",
+    "pos": "adj.",
+    "head_meanings": ["허세 부리는, 과시하는, 분수에 넘치게 거드름 피우는"],
+    "synonyms_from_image": [
+      {"word": "ostentatious", "note": "남에게 보여주기 위해 과시하는"},
+      {"word": "pompous", "note": "자신이 대단한 것처럼 거만하게 구는"},
+      {"word": "affected", "note": "자연스럽지 않고 일부러 꾸며낸 태도"}
+    ],
+    "tips": [
+      "`pretend`(~인 척하다)와 같은 뿌리: `pre-`(앞에) + `tendere`(뻗다) → 실제보다 앞으로 더 뻗어 보이려 하다 = 허세.",
+      "문제 맥락: 뉴턴이 연금술을 믿은 것이 '허세스럽다'? 아니야, 당시 실험 과학자 대부분이 그랬으니 오히려 `reasonable`(합당한)이 정답. pretentious는 오답 함정이야."
+    ],
+    "source": "2. It was quite ______ for Sir Isaac Newton to believe in alchemy—most of the experimental scientists of his era did.\nA. unethical\nB. brave\nC. pretentious\nD. reasonable\nE. controversial"
+  },
+  {
+    "word": "off-putting",
+    "pos": "adj.",
+    "head_meanings": ["불쾌한, 거슬리는, 흥미를 떨어뜨리는"],
+    "synonyms_from_image": [
+      {"word": "repellent", "note": "밀어내듯 불쾌감을 주는"},
+      {"word": "disconcerting", "note": "불안하게 만들어 거리감을 느끼게 하는"},
+      {"word": "unappealing", "note": "매력이나 흥미를 느끼지 못하게 하는"}
+    ],
+    "tips": [
+      "`put off`(미루다/불쾌하게 하다)의 형용사형. '앞으로 나아가려는 발걸음을 막아 뒤로 밀어내는' 이미지야.",
+      "문제 맥락: 정치인들이 '저항하기 어려운(irresistible)' 호소력을 느끼는 자리 → off-putting(거슬리는)은 반대 뉘앙스라 오답."
+    ],
+    "source": "3. Trying to fix problems that affect vast numbers of people has an intuitive appeal that politicians and policymakers find (i)______, but several warehouses of research studies show that intuition is often a poor guide to fixing (ii)______ problems.\nA. logical / D. localized\nB. irresistible / E. systemic\nC. off-putting / F. theoretical"
+  },
+  {
+    "word": "nothing if not",
+    "pos": "phrase",
+    "head_meanings": ["틀림없이 ~한, 무엇보다도 ~한, 확실히 ~한 (강조 표현)"],
+    "synonyms_from_image": [
+      {"word": "undeniably", "note": "부정할 수 없이 확실히"},
+      {"word": "above all", "note": "무엇보다 ~한"},
+      {"word": "if anything", "note": "오히려 더 ~한 — 강조 표현에서 통함"}
+    ],
+    "tips": [
+      "GRE 함정 구문! 이중 부정처럼 보여서 헷갈리지만 강한 긍정이야. `nothing if not ambitious` = '야심차다고밖에는 할 수 없는' = 틀림없이 야심찬.",
+      "구조: '만약 ~이 아니라면 아무것도 아니다' → 달리 말할 수 없을 만큼 확실히 그렇다는 최강 강조. `The book is nothing if not ambitious` = 그 책은 확실히 야심찬 책이다."
+    ],
+    "source": "4. This book, a more (i)______ version of a highly technical report, is designed for the layperson, yet it is nothing if not (ii)______: it grapples with very complex questions about the world economy.\nA. accessible / D. ambitious\nB. professional / E. popular\nC. formidable / F. persuasive"
+  },
+  {
+    "word": "liable to",
+    "pos": "phrase/adj.",
+    "head_meanings": ["~하기 쉬운, ~할 가능성이 있는", "~에 법적 책임이 있는"],
+    "synonyms_from_image": [
+      {"word": "apt to", "note": "~하는 경향이 있는 — 성향 강조"},
+      {"word": "prone to", "note": "~에 취약하거나 ~하기 쉬운 — 부정적 맥락에 강함"},
+      {"word": "susceptible to", "note": "~의 영향을 받기 쉬운"}
+    ],
+    "tips": [
+      "GRE 함정 표현! `liable to`는 두 갈래야:\n1) '~할 가능성이 있는' (= likely to): `liable to confuse the newcomer` = 초보자를 혼란시킬 가능성이 있는\n2) '~에 법적 책임이 있는': `liable for damages` = 손해배상 책임이 있는",
+      "문제 맥락에서는 '초보자를 당황하게 할 수 있는 기술적 저작들'의 뜻 → `liable to baffle` = 당황스럽게 할 가능성이 있는."
+    ],
+    "source": "5. His book is certainly enlightening, and although the bibliography includes technical works liable to (ii)______ the newcomer, the work is written at a level that generally (iii)______ between elementary and advanced.\nA. solace / D. baffle / G. strikes a good balance\nB. pleasure / E. initiate / H. makes fine distinctions\nC. offense / F. suit / I. rejects the difference"
+  },
+  {
+    "word": "agglomerate",
+    "pos": "v./n./adj.",
+    "head_meanings": ["v.) 한데 모으다, 뭉치다, 집적하다", "n.) 집적물, 덩어리", "adj.) 뭉쳐진"],
+    "synonyms_from_image": [
+      {"word": "accumulate", "note": "점점 모여 쌓이다"},
+      {"word": "conglomerate", "note": "여러 이질적인 것이 뭉쳐진 덩어리 — 구조가 동일"},
+      {"word": "cluster", "note": "한 곳에 밀집하여 모이다"}
+    ],
+    "tips": [
+      "`ag-`(~쪽으로) + `glomus`(실타래, 공 모양 덩어리) → 실타래처럼 한데 뭉치다. `conglomerate`(대기업 집단)과 같은 뿌리야.",
+      "문제 맥락: 대기권에서 작은 파편들이 상층부에서 '뭉쳐진다(agglomerate)' — 물리적 집적 현상 묘사."
+    ],
+    "source": "6. Substantial atmosphere around planetary bodies acts as (i)______ incoming objects. Smaller objects, particularly those that are lower in density and more fragile, (ii)______ in the upper reaches of the atmosphere.\nA. effective obscurers of / D. vaporize / G. unusual\nB. significant filters to / E. proliferate / H. persistent\nC. impenetrable barriers against / F. agglomerate / I. common"
+  },
+  {
+    "word": "countenance",
+    "pos": "v./n.",
+    "head_meanings": ["v.) 용인하다, 묵인하다, 지지하다", "n.) 얼굴 표정, 안색"],
+    "synonyms_from_image": [
+      {"word": "condone", "note": "잘못된 것을 묵인하거나 눈감아주다"},
+      {"word": "sanction", "note": "원래 '제재'인데, '공식 승인'의 뜻에서 countenance와 통함"},
+      {"word": "tolerate", "note": "불만스러워도 참고 허용하다"}
+    ],
+    "tips": [
+      "GRE 함정 단어! `countenance`를 '얼굴'로만 알면 함정에 빠져. GRE에서는 거의 항상 동사 '용인하다/묵인하다'로 나와.",
+      "`scholars decry the cult` vs `scholars countenance the cult` — 완전 반대야. 문제에서 `decry`(맹렬히 비판하다)와 함께 선지에 나란히 등장한 게 포인트."
+    ],
+    "source": "7. Many scholars studying leadership ______ cult of the celebrity that has been fostered both by the media and by politicians' public relations staffs, arguing that it trivialized politics.\nA. abet\nB. decry\nC. question\nD. analyze\nE. countenance\nF. condemn"
+  },
+  {
+    "word": "vilifier",
+    "pos": "n.",
+    "head_meanings": ["비방자, 중상하는 사람, 험담하는 사람"],
+    "synonyms_from_image": [
+      {"word": "detractor", "note": "가치를 깎아내리고 비난하는 사람"},
+      {"word": "defamer", "note": "명예를 훼손하는 사람"},
+      {"word": "disparager", "note": "깎아내리고 얕보는 사람"}
+    ],
+    "tips": [
+      "`vile`(비열한, 타락한) + `-ify`(~하게 만들다) + `-er`(사람) → 누군가를 비열하게 만드는 사람 = 비방자.",
+      "동사 `vilify`(비방하다, 중상하다)도 GRE 핵심 단어야. `vilify a reputation` = 명성을 짓밟다."
+    ],
+    "source": "8. Experimentation in the arts often generates befuddlement, and even ______ of innovative art generally have voiced perplexity regarding this new, experimental artwork.\nA. proponents\nB. vilifiers\nC. defenders\nD. belittlers\nE. vendors\nF. luminaries"
+  },
+  {
+    "word": "luminary",
+    "pos": "n.",
+    "head_meanings": ["저명인사, 권위자, 각 분야의 빛나는 인물", "(천체) 발광체"],
+    "synonyms_from_image": [
+      {"word": "dignitary", "note": "사회적으로 높은 지위를 가진 저명인사"},
+      {"word": "authority", "note": "특정 분야의 권위자"},
+      {"word": "eminence", "note": "탁월함으로 두드러진 인물"}
+    ],
+    "tips": [
+      "`lumen`(빛) → 빛을 발하는 사람 = 그 분야를 밝히는 저명인사. `illuminate`(밝히다), `luminous`(빛나는)과 같은 뿌리야.",
+      "문제 맥락 포인트: 혁신적 예술의 `luminary`(거장)조차도 당혹감을 드러냈다는 역설이 핵심. proponents/defenders/luminaries 중 가장 강한 지지자인 luminaries가 정답."
+    ],
+    "source": "8. Experimentation in the arts often generates befuddlement, and even ______ of innovative art generally have voiced perplexity regarding this new, experimental artwork.\nA. proponents\nB. vilifiers\nC. defenders\nD. belittlers\nE. vendors\nF. luminaries"
+  },
+  {
+    "word": "erratic",
+    "pos": "adj.",
+    "head_meanings": ["불규칙한, 예측 불가능한, 일관성 없이 변하는"],
+    "synonyms_from_image": [
+      {"word": "unpredictable", "note": "어떻게 될지 예측할 수 없는"},
+      {"word": "capricious", "note": "변덕스럽게 갑자기 바뀌는"},
+      {"word": "irregular", "note": "일정한 패턴 없이 들쭉날쭉한"}
+    ],
+    "tips": [
+      "`errare`(헤매다, 실수하다) → 정해진 경로를 벗어나 헤매는. `error`(오류), `errant`(방황하는)과 같은 뿌리야.",
+      "문제 맥락: 꿀벌 떼의 비행이 '예측 불가능하게(erratic)' 보이는데 실제로는 경로를 아는 소수가 이끈다는 구조 → `erratic`이 정답."
+    ],
+    "source": "10. What makes the precisely oriented flight of a honeybee swarm to its new home so ______ is that only a small percentage of its members know the swarm travel rout and final destination.\nA. exact\nB. unpredictable\nC. amazing\nD. erratic\nE. reliable\nF. wondrous"
+  },
+  {
+    "word": "swarm",
+    "pos": "n./v.",
+    "head_meanings": ["n.) (벌·곤충의) 떼, 군집", "n.) (사람의) 무리, 군중", "v.) 떼 지어 몰려다니다, 가득 들끓다"],
+    "synonyms_from_image": [
+      {"word": "horde", "note": "밀집한 큰 무리 — 사람이나 동물 모두"},
+      {"word": "throng", "note": "빽빽이 모여든 군중"},
+      {"word": "teem", "note": "원래 '우글거리다' — swarm의 동사 뜻과 통함"}
+    ],
+    "tips": [
+      "`swarm`은 뜻이 두 방향이야:\n1) 명사: 벌 떼처럼 한꺼번에 몰려다니는 집단\n2) 동사: `swarm with ~` = ~으로 가득하다 (`The city swarmed with tourists`)",
+      "`a swarm of bees`(벌 떼)가 원형이지만, GRE에서는 비유적으로 `a swarm of problems`(문제들이 쏟아지다)처럼 쓰이기도 해."
+    ],
+    "source": "10. What makes the precisely oriented flight of a honeybee swarm to its new home so ______ is that only a small percentage of its members know the swarm travel rout and final destination.\nA. exact\nB. unpredictable\nC. amazing\nD. erratic\nE. reliable\nF. wondrous"
+  }
+]
