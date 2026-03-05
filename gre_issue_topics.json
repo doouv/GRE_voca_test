@@ -11,7 +11,7 @@
     {
       "number": 1,
       "prompt": "Governments should place few, if any, restrictions on scientific research and development.",
-      "direction": "Agree/disagree statement",
+      "direction": "Recommendation",
       "theme": "Government Funding & Restrictions on Science",
       "theme_kr": "정부의 과학 연구 제한·자금"
     },
@@ -25,7 +25,7 @@
     {
       "number": 3,
       "prompt": "Governments should offer college and university education free of charge to all students.",
-      "direction": "Agree/disagree statement",
+      "direction": "Recommendation",
       "theme": "Free Government-Funded University Education",
       "theme_kr": "정부 무상 대학 교육"
     },
@@ -203,6 +203,90 @@
       "direction": "Recommendation",
       "theme": "Leaders: Public Opinion vs. Own Judgment",
       "theme_kr": "지도자: 대중 여론 vs 자기 판단"
+    },
+    {
+      "number": 29,
+      "prompt": "Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition.",
+      "direction": "Recommendation",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 30,
+      "prompt": "The best way to teach is to praise positive actions and ignore negative ones.",
+      "direction": "Recommendation",
+      "theme": "Teaching Methods: Praise & Student Interest",
+      "theme_kr": "교육 방법: 칭찬/학생 흥미 반영"
+    },
+    {
+      "number": 31,
+      "prompt": "If a goal is worthy, then any means taken to attain it are justifiable.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 32,
+      "prompt": "In order to become well-rounded individuals, all college students should be required to take courses in which they read poetry, novels, mythology, and other types of imaginative literature.",
+      "direction": "Recommendation",
+      "theme": "Requiring Diverse Courses Outside One's Major",
+      "theme_kr": "전공 외 다양한 과목 수강 의무화"
+    },
+    {
+      "number": 33,
+      "prompt": "In order for any work of art — for example, a film, a novel, a poem, or a song — to have merit, it must be understandable to most people.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 34,
+      "prompt": "Many important discoveries or creations are accidental: it is usually while seeking the answer to one question that we come across the answer to another.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 35,
+      "prompt": "The main benefit of the study of history is to dispel the illusion that people living now are significantly different from people who lived in earlier times.",
+      "direction": "Agree/disagree statement",
+      "theme": "Relevance of the Past to Present Decisions",
+      "theme_kr": "과거·역사의 현재 유용성"
+    },
+    {
+      "number": 36,
+      "prompt": "Learning is primarily a matter of personal discipline; students cannot be motivated by school or college alone.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 37,
+      "prompt": "Scientists and other researchers should focus their research on areas that are likely to benefit the greatest number of people.",
+      "direction": "Recommendation",
+      "theme": "Government Funding & Restrictions on Science",
+      "theme_kr": "정부의 과학 연구 제한·자금"
+    },
+    {
+      "number": 38,
+      "prompt": "Politicians should pursue common ground and reasonable consensus rather than elusive ideals.",
+      "direction": "Recommendation",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 39,
+      "prompt": "People should undertake risky action only after they have carefully considered its consequences.",
+      "direction": "Recommendation",
+      "theme": null,
+      "theme_kr": null
+    },
+    {
+      "number": 40,
+      "prompt": "Leaders are created by the demands that are placed on them.",
+      "direction": "Agree/disagree statement",
+      "theme": null,
+      "theme_kr": null
     },
     {
       "number": 41,
@@ -634,7 +718,7 @@
     {
       "number": 102,
       "prompt": "College students should base their choice of a field of study on the availability of jobs in that field.",
-      "direction": "Agree/disagree statement",
+      "direction": "Recommendation",
       "theme": "Choosing a Major: Interest vs. Job Availability",
       "theme_kr": "전공 선택: 흥미/적성 vs 취업"
     },
@@ -676,7 +760,7 @@
     {
       "number": 108,
       "prompt": "Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.",
-      "direction": "Agree/disagree statement",
+      "direction": "Policy",
       "theme": "Choosing a Major: Interest vs. Job Availability",
       "theme_kr": "전공 선택: 흥미/적성 vs 취업"
     },
@@ -935,7 +1019,7 @@
     {
       "number": 145,
       "prompt": "A nation should require all of its students to study the same national curriculum until they enter college.",
-      "direction": "Agree/disagree statement",
+      "direction": "Policy",
       "theme": "Uniform National Curriculum",
       "theme_kr": "통일 국가 교육과정"
     },
