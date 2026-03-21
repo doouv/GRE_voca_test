@@ -1,0 +1,3670 @@
+[
+  {
+    "id": "001",
+    "word": "volatile",
+    "pos": "adj.",
+    "head_meanings": [
+      "변덕스러운",
+      "휘발성의",
+      "폭발하기 쉬운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "capricious",
+        "note": "변덕스러운, volatile의 가장 직접적인 동의어"
+      },
+      {
+        "word": "unpredictable",
+        "note": "예측 불가능한, 변덕스러워서 다음을 알 수 없다는 뜻"
+      },
+      {
+        "word": "variable",
+        "note": "변하기 쉬운, 일정하지 않다는 의미에서 만남"
+      },
+      {
+        "word": "changeable",
+        "note": "변하기 쉬운, 쉽게 바뀐다는 핵심 의미 공유"
+      },
+      {
+        "word": "inconsistent",
+        "note": "일관성 없는, 변덕으로 인해 일관되지 못함"
+      },
+      {
+        "word": "unstable",
+        "note": "불안정한, 쉽게 변하는 상태를 강조"
+      },
+      {
+        "word": "turbulent",
+        "note": "격동하는, 폭발적으로 변하는 상황 묘사"
+      },
+      {
+        "word": "mercurial",
+        "note": "수은(Mercury)처럼 빠르게 변하는 기질"
+      },
+      {
+        "word": "whimsical",
+        "note": "변덕스러운, 충동적으로 마음이 바뀌는"
+      },
+      {
+        "word": "fickle",
+        "note": "변덕스러운, 특히 사람의 마음이 잘 변하는"
+      },
+      {
+        "word": "protean",
+        "note": "원래 그리스 신 Proteus에서 온 말, 형태가 자유자재로 변하는"
+      },
+      {
+        "word": "flighty",
+        "note": "경솔한, 가볍게 이리저리 마음이 바뀌는"
+      },
+      {
+        "word": "fitful",
+        "note": "불규칙한, 간헐적으로 변하는"
+      },
+      {
+        "word": "inflammable",
+        "note": "불붙기 쉬운, volatile의 '폭발하기 쉬운' 의미와 연결"
+      }
+    ],
+    "tips": [
+      "`vol-`(날다)에서 온 말이야. 휘발유가 날아가듯 쉽게 변하거든. 날아가 버리는 → 휘발성 → 변덕스러운으로 의미가 확장된 거야.",
+      "핵심 이미지는 '쉽게 날아가 버리는 것'이야. 여기서 두 갈래로 나뉘거든: ① 물질이 날아감 → 휘발성의, ② 마음이 날아감 → 변덕스러운. GRE에선 ② 의미가 훨씬 자주 나와.",
+      "주식시장에서 'volatile market'이라고 하면 등락이 심한 시장이야. 이 용례를 떠올리면 '변동이 심한, 불안정한' 뉘앙스가 바로 잡혀."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "volatility",
+    "pos": "n.",
+    "head_meanings": [
+      "변덕스러움",
+      "휘발성"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "volatile의 명사형이야. 금융에서 '변동성'이라는 뜻으로 아주 자주 쓰여.",
+      "`vol-`(날다) + `-ility`(성질) = 날아가 버리는 성질이야. 감정이든 주가든 쉽게 변하는 성질을 말해.",
+      "GRE에서 'emotional volatility'처럼 쓰이면 '감정 기복이 심함'이라는 뜻이야. 단순히 화학 용어가 아니라 사람 성격에도 쓰인다는 걸 기억해."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "volition",
+    "pos": "n.",
+    "head_meanings": [
+      "의지",
+      "자유의지",
+      "결의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "option",
+        "note": "선택권, 자기 의지로 고르는 행위"
+      },
+      {
+        "word": "decision",
+        "note": "결정, 의지를 발휘해서 내리는 판단"
+      },
+      {
+        "word": "selection",
+        "note": "선택, 자기 의지에 따라 고르는 것"
+      },
+      {
+        "word": "will",
+        "note": "의지, volition의 가장 직접적인 동의어"
+      },
+      {
+        "word": "choice",
+        "note": "선택, 자유의지로 무언가를 고르는 행위"
+      },
+      {
+        "word": "discretion",
+        "note": "재량, 자기 판단과 의지에 따라 결정하는 것"
+      }
+    ],
+    "tips": [
+      "`vol-`(원하다, 의지)에서 온 말이야. volunteer(자원봉사자)도 같은 어근이거든. 자기가 '원해서' 하는 거잖아.",
+      "'of one's own volition'이라는 표현을 기억해. '자기 자신의 의지로'라는 뜻이야. GRE 지문에서 자주 나오는 표현이야.",
+      "voluntary(자발적인)의 명사형으로 생각하면 편해. 누가 시켜서가 아니라 스스로 원해서 하는 그 '의지' 자체를 가리켜."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "voluble",
+    "pos": "adj.",
+    "head_meanings": [
+      "말이 유창한",
+      "달변의",
+      "입심 좋은"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "talkative",
+        "note": "수다스러운, 말이 많다는 가장 기본적인 표현"
+      },
+      {
+        "word": "loquacious",
+        "note": "수다스러운, 격식체로 voluble과 거의 같은 뜻"
+      },
+      {
+        "word": "garrulous",
+        "note": "쓸데없이 말이 많은, 특히 노인의 잔소리 느낌"
+      },
+      {
+        "word": "verbose",
+        "note": "장황한, 말이나 글이 불필요하게 긴"
+      },
+      {
+        "word": "wordy",
+        "note": "말이 많은, verbose의 일상적 표현"
+      },
+      {
+        "word": "chatty",
+        "note": "수다스러운, 친근하게 말이 많은"
+      },
+      {
+        "word": "communicative",
+        "note": "의사소통을 잘 하는, 말을 잘 꺼내는"
+      },
+      {
+        "word": "articulate",
+        "note": "조리 있게 말하는, 유창함의 '질적' 측면 강조"
+      },
+      {
+        "word": "fluent",
+        "note": "유창한, 막힘없이 술술 말하는"
+      },
+      {
+        "word": "smooth-spoken",
+        "note": "말을 부드럽게 잘 하는"
+      },
+      {
+        "word": "silver-tongued",
+        "note": "은처럼 매끄러운 혀, 말솜씨가 뛰어난"
+      }
+    ],
+    "tips": [
+      "`volv-`(구르다, 돌다)에서 온 말이야. revolve(회전하다)와 같은 어근이거든. 혀가 잘 '굴러가는' 사람이라 말이 유창한 거야.",
+      "GRE 함정 단어! volatile이랑 헷갈리기 쉬운데, voluble은 '말이 유창한'이야. vol- 뒤에 -uble이 붙으면 '굴러가는 → 말이 술술'로 기억해.",
+      "부정적 뉘앙스가 있을 수 있어. 단순히 말을 잘 한다기보다 '말이 너무 많다'는 느낌도 있거든. 문맥에서 긍정인지 부정인지 잘 봐야 해."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "voluminous",
+    "pos": "adj.",
+    "head_meanings": [
+      "방대한",
+      "용적이 큰",
+      "다작의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "prolific",
+        "note": "다작의, 많이 생산하는 의미에서 연결"
+      },
+      {
+        "word": "massive",
+        "note": "거대한, 양이나 크기가 압도적인"
+      },
+      {
+        "word": "big",
+        "note": "큰, voluminous의 가장 단순한 동의어"
+      },
+      {
+        "word": "copious",
+        "note": "풍부한, 양이 매우 많은"
+      },
+      {
+        "word": "ample",
+        "note": "충분한, 넉넉히 많은"
+      },
+      {
+        "word": "sizable",
+        "note": "상당한 크기의, 꽤 큰"
+      }
+    ],
+    "tips": [
+      "`volum-`(두루마리, 책) + `-ous`(~한) = 책이 아주 많은 → 방대한이야. volume(부피, 권)과 같은 어원이거든.",
+      "'voluminous correspondence'(방대한 서신)처럼 주로 글이나 자료의 양이 엄청 많을 때 써. 단순히 물리적으로 크다기보다 '내용이 방대한' 느낌이야.",
+      "voluminous skirt라고 하면 천이 풍성하게 많이 들어간 치마야. '부피감 있는'이라는 원래 뜻도 알아두면 좋아."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "voluptuous",
+    "pos": "adj.",
+    "head_meanings": [
+      "관능적인",
+      "육욕에 빠진",
+      "요염한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "wanton",
+        "note": "방탕한, 쾌락에 절제 없이 빠지는"
+      },
+      {
+        "word": "sensual",
+        "note": "감각적인, 육체적 쾌락에 관련된"
+      },
+      {
+        "word": "luscious",
+        "note": "원래 '탐스러운'인데, 관능적으로 매력 있다는 맥락에서 만남"
+      },
+      {
+        "word": "dissipated",
+        "note": "방탕한, 쾌락에 빠져 타락한"
+      },
+      {
+        "word": "sensuous",
+        "note": "감각을 자극하는, sensual보다 약간 고상한 뉘앙스"
+      },
+      {
+        "word": "lustful",
+        "note": "욕정에 찬, 육체적 욕망이 강한"
+      }
+    ],
+    "tips": [
+      "발음 주의! [vəˈlʌptʃuəs]야. '볼럽추어스'에 가깝게 읽어.",
+      "`volupt-`(쾌락)에서 온 말이야. 라틴어 voluptas(쾌락)가 어원이거든. 감각적 쾌락에 탐닉하는 느낌이야.",
+      "GRE에서는 '육체적 쾌락을 추구하는'이라는 뜻으로 나와. voluminous(방대한)와 철자가 비슷하니까 헷갈리지 마. voluptu-는 쾌락, volumi-는 부피야."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "voracious",
+    "pos": "adj.",
+    "head_meanings": [
+      "게걸스럽게 먹는",
+      "탐욕스러운",
+      "식욕이 왕성한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "devouring",
+        "note": "게걸스럽게 먹어치우는"
+      },
+      {
+        "word": "ravenously hungry",
+        "note": "굶주려서 미친 듯이 먹고 싶은 상태"
+      },
+      {
+        "word": "insatiable",
+        "note": "만족할 줄 모르는, 아무리 먹어도 채워지지 않는"
+      },
+      {
+        "word": "greedy",
+        "note": "탐욕스러운, 더 많이 원하는"
+      },
+      {
+        "word": "covetous",
+        "note": "탐내는, 남의 것까지 욕심내는"
+      },
+      {
+        "word": "starved",
+        "note": "굶주린, 극심한 배고픔 상태"
+      }
+    ],
+    "tips": [
+      "발음 주의! [vəˈreɪʃəs]야. '버레이셔스'에 가깝게 읽어. veracious(진실한)과 발음이 다르니까 조심해.",
+      "`vor-`(삼키다) + `-acious`(~하는 경향의) = 마구 삼키는 → 게걸스러운이야. devour(게걸스럽게 먹다)도 같은 어근이거든.",
+      "GRE 함정 단어! voracious reader라고 하면 '게걸스럽게 책을 읽는 사람' 즉 '독서광'이야. 음식뿐 아니라 지식, 정보에 대한 탐욕에도 확장돼서 쓰여."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "vortex",
+    "pos": "n.",
+    "head_meanings": [
+      "소용돌이",
+      "회오리바람",
+      "급격한 사태"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "tornado",
+        "note": "토네이도, 강력한 회전 바람"
+      },
+      {
+        "word": "eddy",
+        "note": "작은 소용돌이, 물이나 공기가 빙글빙글 도는 것"
+      },
+      {
+        "word": "maelstrom",
+        "note": "거대한 소용돌이, 특히 바다에서의 강력한 회전류"
+      },
+      {
+        "word": "cyclone",
+        "note": "사이클론, 대규모 회전 폭풍"
+      },
+      {
+        "word": "twister",
+        "note": "회오리바람, tornado의 구어체 표현"
+      }
+    ],
+    "tips": [
+      "`vort-`(돌다)에서 온 말이야. 물이 빙빙 돌면서 빨려 들어가는 그 소용돌이를 떠올려봐.",
+      "비유적으로 'a vortex of controversy'(논쟁의 소용돌이)처럼 쓰여. 한번 빠지면 헤어나올 수 없는 혼란스러운 상황을 가리켜.",
+      "복수형이 vortexes 또는 vortices 두 가지야. GRE에선 라틴어식 복수형 vortices도 알아두면 좋아."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "votary",
+    "pos": "n.",
+    "head_meanings": [
+      "신봉자",
+      "열렬한 지지자",
+      "애호가"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`vot-`(맹세하다, 바치다)에서 온 말이야. vote(투표)도 같은 어근이거든. 원래는 신에게 맹세한 사람 → 신봉자가 된 거야.",
+      "종교적 맹세를 한 사람이 원래 뜻인데, 지금은 'a votary of jazz'(재즈 애호가)처럼 무언가에 열렬히 헌신하는 사람을 가리켜.",
+      "devotee(열렬한 팬)와 거의 같은 뜻이야. devote도 같은 어근에서 온 거거든. votary가 좀 더 격식체야."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "vouch",
+    "pos": "v.",
+    "head_meanings": [
+      "보증하다",
+      "단언하다",
+      "뒷받침하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "'I can vouch for him'(내가 그를 보증할 수 있어)이라는 표현을 기억해. vouch for는 거의 세트로 쓰여.",
+      "voucher(상품권, 증서)가 여기서 나온 말이야. 무언가를 '보증'해주는 증서라는 뜻이거든.",
+      "certify, guarantee와 비슷한데, vouch는 개인적 경험이나 신뢰를 바탕으로 보증한다는 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "vouchsafe",
+    "pos": "v.",
+    "head_meanings": [
+      "하사하다",
+      "허용하다",
+      "베풀다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "give",
+        "note": "주다, vouchsafe의 가장 기본적인 의미"
+      },
+      {
+        "word": "award",
+        "note": "수여하다, 공식적으로 내려주는 느낌"
+      },
+      {
+        "word": "deign",
+        "note": "~해 주시다, 윗사람이 체면을 낮춰 해준다는 뉘앙스 공유"
+      },
+      {
+        "word": "accord",
+        "note": "부여하다, 권위를 가진 쪽이 허락하는"
+      },
+      {
+        "word": "concede",
+        "note": "양보하다, 마지못해 내어주는 느낌"
+      },
+      {
+        "word": "bestow",
+        "note": "하사하다, 윗사람이 아랫사람에게 내려주는"
+      },
+      {
+        "word": "confer",
+        "note": "수여하다, 공식적으로 자격이나 영예를 부여하는"
+      }
+    ],
+    "tips": [
+      "발음 주의! [vaʊtʃˈseɪf]야. '바우치세이프'에 가깝게 읽어.",
+      "`vouch`(보증하다) + `safe`(안전한) = 안전을 보증해주다 → 허락해주다 → 하사하다로 의미가 발전한 거야.",
+      "윗사람이 아랫사람에게 은혜를 베푼다는 뉘앙스가 강해. 'The king vouchsafed an audience'(왕이 알현을 허락하셨다)처럼 써."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "vulgar",
+    "pos": "adj.",
+    "head_meanings": [
+      "저속한",
+      "상스러운",
+      "비속한",
+      "평민의",
+      "통속적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "rude",
+        "note": "무례한, 예의 없는 기본적 표현"
+      },
+      {
+        "word": "indecent",
+        "note": "품위 없는, 점잖지 못한"
+      },
+      {
+        "word": "offensive",
+        "note": "불쾌감을 주는, 공격적으로 저속한"
+      },
+      {
+        "word": "distasteful",
+        "note": "불쾌한, 취향에 맞지 않는"
+      },
+      {
+        "word": "coarse",
+        "note": "거친, 세련되지 못한"
+      },
+      {
+        "word": "ribald",
+        "note": "음탕한, 저속한 유머를 즐기는"
+      },
+      {
+        "word": "bawdy",
+        "note": "외설적인, 성적으로 노골적인 유머"
+      },
+      {
+        "word": "lewd",
+        "note": "음란한, 성적으로 저속한"
+      },
+      {
+        "word": "salacious",
+        "note": "선정적인, 음란한 것에 관심이 많은"
+      },
+      {
+        "word": "tasteless",
+        "note": "품위 없는, 취향이 저급한"
+      },
+      {
+        "word": "crass",
+        "note": "천박한, 감수성 없이 저속한"
+      },
+      {
+        "word": "tawdry",
+        "note": "번지르르하지만 싸구려인, 천박하게 화려한"
+      },
+      {
+        "word": "gaudy",
+        "note": "야한, 촌스럽게 화려한"
+      },
+      {
+        "word": "impolite",
+        "note": "무례한, 예의에 어긋나는"
+      },
+      {
+        "word": "ill-mannered",
+        "note": "매너 없는, 예절을 모르는"
+      },
+      {
+        "word": "indecorous",
+        "note": "예의에 어긋나는, 격식에 맞지 않는"
+      },
+      {
+        "word": "unseemly",
+        "note": "보기에 적절치 않은, 체면에 맞지 않는"
+      },
+      {
+        "word": "boorish",
+        "note": "촌스럽고 무례한, 시골뜨기 같은"
+      },
+      {
+        "word": "uncouth",
+        "note": "세련되지 못한, 거칠고 교양 없는"
+      },
+      {
+        "word": "crude",
+        "note": "투박한, 다듬어지지 않은"
+      }
+    ],
+    "tips": [
+      "원래 라틴어 vulgus(대중, 민중)에서 왔어. '평민의 → 서민적인 → 저속한'으로 의미가 나빠진 거야. Vulgate(대중 성경)도 같은 어원이거든.",
+      "핵심 이미지는 '대중적인'이야. 여기서 두 갈래: ① 긍정적 → 통속적인, 대중적인 ② 부정적 → 저속한, 상스러운. GRE에선 대부분 ② 의미로 나와.",
+      "vulgar fraction은 '보통 분수'(3/4 같은)라는 뜻이야. 이때는 '저속한'이 아니라 '일반적인, 평범한'이라는 원래 뜻으로 쓰인 거야."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "vulgarian",
+    "pos": "n.",
+    "head_meanings": [
+      "속물",
+      "저속한 사람"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "vulgar + -ian(~하는 사람) = 저속한 사람이야. 특히 돈은 많은데 교양이 없는 속물을 가리켜.",
+      "nouveau riche(졸부)와 비슷한 뉘앙스야. 재산은 있지만 품위가 없는 사람을 경멸적으로 부를 때 써.",
+      "GRE 지문에서 사회 계층이나 문화 비평 관련 글에 나올 수 있어. '돈 ≠ 교양'이라는 맥락에서 등장해."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "vulnerable",
+    "pos": "adj.",
+    "head_meanings": [
+      "취약한",
+      "공격받기 쉬운",
+      "상처 입기 쉬운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "weak",
+        "note": "약한, 저항력이 없는 기본 표현"
+      },
+      {
+        "word": "liable to harm",
+        "note": "해를 입기 쉬운, 위험에 노출된 상태"
+      },
+      {
+        "word": "exposed",
+        "note": "노출된, 방어 없이 드러난"
+      },
+      {
+        "word": "fragile",
+        "note": "깨지기 쉬운, 연약한"
+      },
+      {
+        "word": "pregnable",
+        "note": "공격 가능한, impregnable(난공불락)의 반대"
+      },
+      {
+        "word": "susceptible",
+        "note": "영향받기 쉬운, 외부 자극에 민감한"
+      },
+      {
+        "word": "assailable",
+        "note": "공격 가능한, 방어에 약점이 있는"
+      }
+    ],
+    "tips": [
+      "`vulner-`(상처) + `-able`(~할 수 있는) = 상처 입을 수 있는이야. 라틴어 vulnus(상처)가 어원이거든.",
+      "vulnerability(취약점)는 IT 보안에서도 자주 쓰여. 해커가 노릴 수 있는 약점을 말해.",
+      "GRE에서는 'vulnerable to criticism'(비판에 취약한)처럼 물리적 상처뿐 아니라 추상적 공격에도 쓰여. 감정적으로 방어벽이 없는 상태도 vulnerable이야."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "vying",
+    "pos": "v.",
+    "head_meanings": [
+      "겨루는",
+      "경쟁하는",
+      "다투는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "competitive",
+        "note": "경쟁적인, 이기려고 하는"
+      },
+      {
+        "word": "rivaling",
+        "note": "경쟁하는, 라이벌 관계에서 겨루는"
+      },
+      {
+        "word": "emulous",
+        "note": "경쟁심이 강한, 남을 따라잡으려는"
+      },
+      {
+        "word": "competing",
+        "note": "경쟁하는, vying의 가장 직접적인 동의어"
+      }
+    ],
+    "tips": [
+      "vie(겨루다)의 현재분사형이야. 'vie for'(~을 위해 겨루다) 형태로 자주 나와.",
+      "'vying for attention'(관심을 끌기 위해 경쟁하는)이라는 표현이 GRE 지문에서 자주 보여.",
+      "vie는 원래 '내기를 걸다'라는 뜻이었어. 카드 게임에서 판돈을 올리며 겨루던 것에서 유래했거든."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "waffle",
+    "pos": "n./v.",
+    "head_meanings": [
+      "둘러대다",
+      "말끝을 흐리다",
+      "알맹이 없는 이야기"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! 먹는 와플이 아니야. GRE에서는 '결정을 못 하고 우물쭈물하다', '알맹이 없이 횡설수설하다'라는 뜻이야.",
+      "핵심은 '결단력 없이 이리저리 왔다 갔다'하는 거야. 정치인이 입장을 확실히 안 밝히고 둘러대는 것을 waffle이라고 해.",
+      "영국 영어에서 특히 '쓸데없는 말을 장황하게 하다'라는 뜻으로 많이 써. 'Stop waffling!'(그만 둘러대!)"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "waft",
+    "pos": "v.",
+    "head_meanings": [
+      "떠돌게 하다",
+      "흘러가게 날리다",
+      "둥둥 띄우다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "float",
+        "note": "떠다니다, 공중이나 수면에 가볍게 떠있는"
+      },
+      {
+        "word": "flutter",
+        "note": "나풀거리다, 가볍게 펄럭이며 떠다니는"
+      },
+      {
+        "word": "hover",
+        "note": "떠돌다, 한 곳에서 공중에 머무는"
+      },
+      {
+        "word": "drift",
+        "note": "표류하다, 방향 없이 천천히 떠가는"
+      },
+      {
+        "word": "blow",
+        "note": "불다, 바람에 의해 이동하는"
+      },
+      {
+        "word": "puff",
+        "note": "훅 불다, 가볍게 한 번 내뿜는"
+      }
+    ],
+    "tips": [
+      "향기나 소리가 바람에 실려 살살 퍼져오는 느낌이야. 'The smell of coffee wafted through the room'(커피 향이 방 안에 퍼져왔다)처럼 써.",
+      "핵심 이미지는 '가볍게 떠서 이동하는 것'이야. 무거운 물체는 waft하지 않아. 향기, 연기, 소리 같은 가벼운 것들이 주어로 와.",
+      "wafer(웨이퍼, 얇은 과자)와 어원이 같아. 둘 다 '가볍고 얇은 것'이라는 이미지를 공유하거든."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "wag",
+    "pos": "n./v.",
+    "head_meanings": [
+      "꼬리를 흔들다",
+      "익살꾼",
+      "재치 있는 사람"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "핵심 두 갈래야: ① 동사: (꼬리를) 흔들다 ② 명사: 익살꾼, 장난꾸러기. GRE에선 명사 뜻이 더 중요해.",
+      "'The tail wagging the dog'(꼬리가 개를 흔든다)는 유명한 관용구야. 중요하지 않은 것이 중요한 것을 좌우할 때 써.",
+      "명사로 쓰일 때는 '위트 있는 농담을 잘 하는 사람'이야. wit(재치)와 비슷한 맥락이거든."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "waggish",
+    "pos": "adj.",
+    "head_meanings": [
+      "익살맞은",
+      "우스꽝스러운",
+      "장난을 좋아하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "impish",
+        "note": "장난꾸러기 같은, 귀엽게 말썽부리는"
+      },
+      {
+        "word": "sportive",
+        "note": "장난기 있는, 놀이를 좋아하는"
+      },
+      {
+        "word": "roguish",
+        "note": "장난스러운, 매력적으로 못된"
+      },
+      {
+        "word": "funny",
+        "note": "재미있는, 웃기는"
+      },
+      {
+        "word": "jocund",
+        "note": "쾌활한, 명랑하고 유쾌한"
+      },
+      {
+        "word": "droll",
+        "note": "기묘하게 우스운, 특이한 유머가 있는"
+      }
+    ],
+    "tips": [
+      "wag(익살꾼) + -ish(~같은) = 익살꾼 같은이야. 그냥 웃긴 게 아니라 재치 있게 웃긴 거야.",
+      "waggish humor라고 하면 '영리하고 장난스러운 유머'야. 슬랩스틱 코미디가 아니라 지적인 농담 스타일을 가리켜.",
+      "playful(장난스러운)과 비슷하지만 좀 더 '말재주가 있는' 느낌이야. 행동으로 장난치는 게 아니라 말로 웃기는 거거든."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "waive",
+    "pos": "v.",
+    "head_meanings": [
+      "포기하다",
+      "보류하다",
+      "미루다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "abandon",
+        "note": "포기하다, 완전히 버리는"
+      },
+      {
+        "word": "hand over",
+        "note": "넘겨주다, 권리를 양도하는"
+      },
+      {
+        "word": "resign",
+        "note": "사임하다, 자리나 권리를 내놓는"
+      },
+      {
+        "word": "remit",
+        "note": "면제하다, 의무나 벌을 감해주는"
+      },
+      {
+        "word": "demit",
+        "note": "사임하다, 직위를 내려놓는"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! wave(손 흔들다)와 헷갈리지 마. waive는 '권리를 포기하다'야. waiver(포기 각서)가 여기서 나온 말이야.",
+      "'waive the right'(권리를 포기하다), 'waive the fee'(수수료를 면제하다)가 대표적 용례야. 법적 맥락에서 자주 써.",
+      "원래는 '버리다, 내던지다'라는 뜻이었어. 권리나 규칙 같은 추상적인 것을 '내던진다' → 포기한다로 발전한 거야."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "wallow",
+    "pos": "v.",
+    "head_meanings": [
+      "뒹굴다",
+      "빠지다",
+      "탐닉하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "welter",
+        "note": "뒹굴다, 진흙이나 피 속에서 뒤척이는"
+      },
+      {
+        "word": "lie in mud",
+        "note": "진흙 속에 눕다, wallow의 원래 물리적 의미"
+      },
+      {
+        "word": "revel",
+        "note": "흥청거리다, 쾌락에 빠져 즐기는"
+      },
+      {
+        "word": "live self-indulgently",
+        "note": "방종하게 살다, 자기 쾌락에 빠진 생활"
+      },
+      {
+        "word": "enjoy selfishly",
+        "note": "이기적으로 즐기다, 절제 없이 탐닉하는"
+      }
+    ],
+    "tips": [
+      "돼지가 진흙탕에서 뒹구는 이미지를 떠올려봐. 그게 wallow의 원래 뜻이야. 거기서 비유적으로 '나쁜 감정이나 쾌락에 빠지다'로 확장됐어.",
+      "'wallow in self-pity'(자기연민에 빠지다)가 GRE에서 자주 나오는 표현이야. 부정적인 것에 빠져서 헤어나오지 못하는 느낌이야.",
+      "`wall-`(구르다)에서 온 말이야. 원래 게르만어로 '구르다'라는 뜻이었거든. 진흙 속에서 굴러다니는 거지."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "wan",
+    "pos": "adj.",
+    "head_meanings": [
+      "창백한",
+      "병약한",
+      "힘없는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "sallow",
+        "note": "누르스름하게 창백한, 건강하지 못한 안색"
+      },
+      {
+        "word": "worn",
+        "note": "지쳐 보이는, 닳아서 기력이 없어 보이는"
+      },
+      {
+        "word": "colorless",
+        "note": "혈색이 없는, 핏기가 빠진"
+      },
+      {
+        "word": "ashen",
+        "note": "잿빛의, 재처럼 하얗게 질린"
+      },
+      {
+        "word": "pasty",
+        "note": "창백한, 반죽처럼 하얗고 불건강한"
+      },
+      {
+        "word": "anemic",
+        "note": "빈혈의, 피가 부족해서 창백한"
+      }
+    ],
+    "tips": [
+      "딱 세 글자로 '창백한'이야. 아프거나 지쳐서 핏기가 없는 얼굴을 떠올려봐.",
+      "'a wan smile'(힘없는 미소)이라는 표현을 기억해. 억지로 짓는 약한 미소야. 단순히 색깔뿐 아니라 '기력 없는' 느낌도 있어.",
+      "pale보다 더 문학적이고 병적인 느낌이야. pale은 단순히 피부가 밝은 것일 수 있지만, wan은 항상 건강하지 못하다는 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "wander",
+    "pos": "v.",
+    "head_meanings": [
+      "정처 없이 걸어다니다",
+      "헤매다",
+      "벗어나다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "핵심은 '목적지 없이 돌아다니다'야. 여기서 물리적 방황(이리저리 걷다)과 정신적 방황(주제에서 벗어나다) 두 의미가 나와.",
+      "'wander off topic'(주제에서 벗어나다)은 GRE 지문에서 자주 나오는 표현이야. 생각이나 대화가 본론에서 이탈하는 거야.",
+      "wonder(궁금해하다)와 헷갈리지 마. wAnder는 A가 들어가서 '걸어다니다(walk Around)', wOnder는 O가 들어가서 'Oh! 궁금해'로 구분해."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "wane",
+    "pos": "v./n.",
+    "head_meanings": [
+      "약해지다",
+      "쇠퇴하다",
+      "감퇴하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "decline",
+        "note": "감소하다, 점차 줄어드는"
+      },
+      {
+        "word": "ebb",
+        "note": "빠지다, 조수가 물러나듯 서서히 줄어드는"
+      },
+      {
+        "word": "abate",
+        "note": "수그러들다, 강도가 줄어드는"
+      },
+      {
+        "word": "moderate",
+        "note": "완화되다, 정도가 누그러지는"
+      },
+      {
+        "word": "sink",
+        "note": "가라앉다, 아래로 떨어지는"
+      },
+      {
+        "word": "weaken",
+        "note": "약해지다, 힘이 줄어드는"
+      },
+      {
+        "word": "diminish",
+        "note": "줄어들다, 크기나 중요성이 감소하는"
+      },
+      {
+        "word": "dwindle",
+        "note": "점점 줄다, 서서히 작아지는"
+      },
+      {
+        "word": "subside",
+        "note": "가라앉다, 점차 잦아드는"
+      },
+      {
+        "word": "fade away",
+        "note": "사라지다, 서서히 희미해지는"
+      }
+    ],
+    "tips": [
+      "달이 이지러지는 것이 원래 뜻이야. wax and wane(차고 기울다)라는 표현을 기억해. wax(커지다) ↔ wane(줄어들다)야.",
+      "'on the wane'(쇠퇴하는 중)이라는 표현이 GRE에 자주 나와. 명사로도 쓰인다는 거 기억해.",
+      "wane은 항상 부정적 방향이야. 좋은 것이 줄어드는 거지, 나쁜 것이 줄어드는 건 abate를 더 많이 써."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "waning",
+    "pos": "adj.",
+    "head_meanings": [
+      "쇠퇴하는",
+      "약해지는",
+      "줄어드는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "declining",
+        "note": "감소하는, 점점 줄어드는"
+      },
+      {
+        "word": "decreasing",
+        "note": "줄어드는, 양이나 정도가 감소하는"
+      },
+      {
+        "word": "diminishing",
+        "note": "줄어드는, 점점 작아지는"
+      },
+      {
+        "word": "dwindling",
+        "note": "점점 줄어드는, 거의 사라질 정도로"
+      },
+      {
+        "word": "ebbing",
+        "note": "빠져나가는, 조수처럼 물러가는"
+      },
+      {
+        "word": "flagging",
+        "note": "시들해지는, 기운이나 관심이 떨어지는"
+      },
+      {
+        "word": "withering",
+        "note": "시드는, 식물이 말라가듯 쇠퇴하는"
+      }
+    ],
+    "tips": [
+      "wane의 현재분사형이야. 'waning interest'(시들해지는 관심), 'waning moon'(그믐달) 같은 표현으로 많이 써.",
+      "growing(성장하는)의 반대말로 생각하면 돼. 뭔가가 전성기를 지나 서서히 힘을 잃어가는 과정이야.",
+      "GRE에서 'waning enthusiasm'(식어가는 열정) 같은 표현을 자주 볼 수 있어. 갑자기 사라지는 게 아니라 서서히 줄어드는 느낌이야."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "wanting",
+    "pos": "adj.",
+    "head_meanings": [
+      "모자라는",
+      "결핍한",
+      "미달인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "deficient",
+        "note": "부족한, 필요한 양이나 질에 못 미치는"
+      },
+      {
+        "word": "inadequate",
+        "note": "불충분한, 기준에 미달하는"
+      },
+      {
+        "word": "lacking",
+        "note": "부족한, 없거나 모자라는"
+      },
+      {
+        "word": "insufficient",
+        "note": "불충분한, 필요한 만큼 되지 않는"
+      },
+      {
+        "word": "devoid of",
+        "note": "~이 전혀 없는, 완전히 결여된"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! '원하는'이 아니야. '모자라는, 부족한'이라는 뜻이야. want에 원래 '부족하다'라는 뜻이 있거든.",
+      "'found wanting'(부족한 것으로 드러나다)은 성경에서 온 유명한 표현이야. 시험을 통과하지 못했다는 뜻이야.",
+      "want의 고어적 의미가 '부족, 결핍'이야. 'for want of a nail'(못 하나가 부족해서)이라는 속담도 있지. 이 '부족한' 의미가 wanting에 남아있는 거야."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "wanton",
+    "pos": "adj.",
+    "head_meanings": [
+      "무모한",
+      "이유 없는",
+      "제멋대로의",
+      "방탕한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "headstrong",
+        "note": "고집 센, 제멋대로 밀어붙이는"
+      },
+      {
+        "word": "willful",
+        "note": "고의적인, 일부러 나쁜 짓을 하는"
+      },
+      {
+        "word": "reckless",
+        "note": "무모한, 결과를 생각하지 않는"
+      },
+      {
+        "word": "heedless",
+        "note": "부주의한, 주의를 기울이지 않는"
+      },
+      {
+        "word": "malicious",
+        "note": "악의적인, 일부러 해를 끼치려는"
+      }
+    ],
+    "tips": [
+      "핵심은 '이유 없이 나쁜 짓을 하는'이야. 'wanton destruction'(무분별한 파괴)이 대표적 용례야. 필요도 없는데 그냥 파괴하는 거지.",
+      "핵심 하나에서 갈래가 나와: '절제가 없는' → ① 도덕적 절제 없음 → 방탕한 ② 이성적 절제 없음 → 무모한, 이유 없는. GRE에선 ② 의미가 더 자주 나와.",
+      "`wan-`(부족한) + `-ton`(훈련) = 훈련이 부족한 → 제멋대로인 → 무모한으로 의미가 발전했어."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "warble",
+    "pos": "v.",
+    "head_meanings": [
+      "지저귀다",
+      "목소리를 떨어 노래하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "crooning",
+        "note": "낮은 목소리로 감미롭게 노래하는"
+      },
+      {
+        "word": "chant",
+        "note": "읊조리다, 반복적으로 노래하는"
+      },
+      {
+        "word": "intone",
+        "note": "읊조리다, 단조로운 음으로 노래하는"
+      },
+      {
+        "word": "carol",
+        "note": "즐겁게 노래하다, 특히 경쾌한 노래"
+      },
+      {
+        "word": "troll",
+        "note": "원래 '큰 소리로 노래하다'인데, 자유롭게 노래하는 맥락에서 만남"
+      },
+      {
+        "word": "trill",
+        "note": "떨리는 소리를 내다, 음을 빠르게 떨어서 노래하는"
+      }
+    ],
+    "tips": [
+      "새가 지저귀는 소리를 떠올려봐. warbler(지빠귀류 새)가 여기서 나온 말이야.",
+      "사람에게 쓰면 '목소리를 떨며 부드럽게 노래하다'야. 비브라토를 넣어서 노래하는 느낌이야.",
+      "의성어적 느낌이 있는 단어야. 'war-ble' 발음 자체가 목소리가 울렁거리는 것 같지 않아?"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "warbling",
+    "pos": "adj.",
+    "head_meanings": [
+      "지저귀는",
+      "낮은 소리로 노래하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "crooning",
+        "note": "감미롭게 낮은 소리로 노래하는"
+      }
+    ],
+    "tips": [
+      "warble의 현재분사형이야. 'warbling birds'(지저귀는 새들)처럼 형용사로 써.",
+      "소리가 떨리면서 부드럽게 이어지는 느낌을 표현해. 기계음처럼 딱딱한 게 아니라 자연스럽게 울렁거리는 소리야.",
+      "GRE에서는 자연 묘사나 문학적 표현에서 만날 수 있어. 평화로운 분위기를 조성하는 단어야."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "warrant",
+    "pos": "n./v.",
+    "head_meanings": [
+      "정당화하다",
+      "보증하다",
+      "영장",
+      "정당한 이유"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "vindicate",
+        "note": "정당성을 입증하다, 옳다는 것을 증명하는"
+      },
+      {
+        "word": "guarantee",
+        "note": "보증하다, 확실히 약속하는"
+      },
+      {
+        "word": "attest",
+        "note": "증명하다, 사실임을 확인해주는"
+      },
+      {
+        "word": "provide grounds for",
+        "note": "근거를 제공하다, 정당한 이유가 되는"
+      },
+      {
+        "word": "give sufficient reason for",
+        "note": "충분한 이유를 주다, 타당성을 부여하는"
+      },
+      {
+        "word": "permit",
+        "note": "허가하다, 공식적으로 허용하는"
+      },
+      {
+        "word": "license",
+        "note": "허가하다, 면허를 부여하는"
+      },
+      {
+        "word": "certify",
+        "note": "인증하다, 공식적으로 확인해주는"
+      }
+    ],
+    "tips": [
+      "핵심은 '정당한 근거를 제공하다'야. 여기서 두 갈래: ① 동사 → 정당화하다 ② 명사 → 영장, 허가증. 둘 다 '정당한 권한'이라는 뿌리를 공유해.",
+      "GRE에서 가장 자주 나오는 뜻은 '정당화하다'야. 'Nothing warrants such behavior'(그런 행동을 정당화할 것은 아무것도 없다)처럼 써.",
+      "arrest warrant(체포영장)의 warrant도 같은 단어야. 체포를 '정당하게 허가'하는 문서라는 뜻이거든."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "warranty",
+    "pos": "n.",
+    "head_meanings": [
+      "보증",
+      "담보",
+      "정당한 이유"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "bail",
+        "note": "보석금, 법적 보증의 일종"
+      },
+      {
+        "word": "bond",
+        "note": "채권, 보증 계약"
+      },
+      {
+        "word": "surety",
+        "note": "보증인, 확실한 담보"
+      },
+      {
+        "word": "guaranty",
+        "note": "보증, guarantee의 법적 변형"
+      },
+      {
+        "word": "security",
+        "note": "담보, 안전을 보장하는 것"
+      },
+      {
+        "word": "pledge",
+        "note": "서약, 약속으로 보증하는 것"
+      },
+      {
+        "word": "agreement",
+        "note": "합의, 보증을 위한 계약"
+      },
+      {
+        "word": "certificate",
+        "note": "증명서, 보증을 문서화한 것"
+      }
+    ],
+    "tips": [
+      "warrant + -y = 보증이야. 전자제품 살 때 받는 warranty(품질보증서)가 바로 이 단어야.",
+      "guarantee와 거의 같은 뜻인데, warranty는 좀 더 법적이고 공식적인 뉘앙스가 있어.",
+      "warrant(보증하다)의 명사형이야. '보증 행위' 자체 또는 '보증 문서'를 가리켜."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "wary",
+    "pos": "adj.",
+    "head_meanings": [
+      "조심성 있는",
+      "경계하는",
+      "세심한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "cautious",
+        "note": "조심스러운, 위험을 피하려는"
+      },
+      {
+        "word": "chary",
+        "note": "조심스러운, 특히 경험에서 우러나온 경계심"
+      },
+      {
+        "word": "alert",
+        "note": "방심하지 않는, 주의를 기울이는"
+      },
+      {
+        "word": "careful",
+        "note": "주의 깊은, 실수하지 않으려는"
+      },
+      {
+        "word": "heedful",
+        "note": "주의를 기울이는, 경고에 귀 기울이는"
+      },
+      {
+        "word": "attentive",
+        "note": "주의 깊은, 세심하게 관찰하는"
+      },
+      {
+        "word": "provident",
+        "note": "선견지명 있는, 미래를 대비해 조심하는"
+      },
+      {
+        "word": "calculating",
+        "note": "계산적인, 신중하게 따져보는"
+      },
+      {
+        "word": "watchful",
+        "note": "감시하는, 눈을 떼지 않고 지켜보는"
+      },
+      {
+        "word": "vigilant",
+        "note": "경계하는, 위험에 대해 항상 주시하는"
+      },
+      {
+        "word": "circumspect",
+        "note": "신중한, 모든 면을 살펴보고 행동하는"
+      }
+    ],
+    "tips": [
+      "`war-`(조심하다)에서 온 말이야. aware(알고 있는), beware(조심하다)도 같은 어근이거든.",
+      "'be wary of'(~을 경계하다)로 자주 써. 뭔가 위험하거나 의심스러울 때 조심하는 거야.",
+      "weary(지친)와 헷갈리지 마! wAry는 '경계하는'(Alert의 A), wEary는 '지친'(Exhausted의 E)으로 기억해."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "waste",
+    "pos": "n./v.",
+    "head_meanings": [
+      "낭비하다",
+      "황폐화시키다",
+      "낭비",
+      "황폐"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "기본 단어지만 GRE에서는 '황폐한 땅'이라는 뜻으로도 나와. wasteland(황무지)를 떠올려봐.",
+      "'lay waste to'(~을 초토화하다)라는 표현을 기억해. 완전히 파괴해서 황폐하게 만든다는 뜻이야.",
+      "waste away라고 하면 '(병으로) 점점 쇠약해지다'야. 단순한 낭비가 아니라 몸이 서서히 망가지는 거야."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "wastrel",
+    "pos": "n.",
+    "head_meanings": [
+      "낭비자",
+      "방탕아",
+      "건달"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "knave",
+        "note": "원래 '악당'인데, 건달이라는 맥락에서 만남"
+      },
+      {
+        "word": "spender",
+        "note": "돈 쓰는 사람, 낭비하는 사람"
+      },
+      {
+        "word": "squanderer",
+        "note": "낭비자, 돈을 헤프게 쓰는 사람"
+      },
+      {
+        "word": "idler",
+        "note": "게으름뱅이, 빈둥거리는 사람"
+      },
+      {
+        "word": "spendthrift",
+        "note": "낭비벽이 있는 사람, thrift(절약)를 spend(쓰는) 사람"
+      }
+    ],
+    "tips": [
+      "waste + -rel(경멸 접미사) = 낭비하는 놈이야. -rel은 경멸을 담은 접미사거든. mongrel(잡종), scoundrel(악당)에서도 보여.",
+      "prodigal(방탕한)과 비슷한 뜻이야. 성경의 탕자(Prodigal Son)처럼 재산을 흥청망청 쓰는 사람을 가리켜.",
+      "두 가지 뜻이 있어: ① 돈을 낭비하는 사람 ② 쓸모없이 빈둥거리는 사람. 둘 다 부정적이야."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "watchful",
+    "pos": "adj.",
+    "head_meanings": [
+      "경계하는",
+      "조심스러운",
+      "주의 깊은",
+      "감시하는",
+      "불면의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`watch` + `-ful`(가득한) = 지켜보는 마음이 가득한. wary, vigilant과 같은 뜻이야.",
+      "a watchful eye(감시하는 눈) 같은 표현에서 자주 쓰여.",
+      "GRE에서 cautious, alert 등의 동의어 문제에 단골로 나와."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "waver",
+    "pos": "v.",
+    "head_meanings": [
+      "흔들리다",
+      "나부끼다",
+      "떨리다",
+      "비틀거리다",
+      "동요하다",
+      "주저하다",
+      "머뭇거리다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "flicker",
+        "note": "불빛이 흔들리듯 불안정한 상태"
+      },
+      {
+        "word": "glimmer",
+        "note": "희미하게 깜빡이며 흔들리는 모습"
+      },
+      {
+        "word": "blink",
+        "note": "깜빡이다, 불안정하게 흔들리다"
+      },
+      {
+        "word": "falter",
+        "note": "말이나 행동이 머뭇거리며 흔들리다"
+      },
+      {
+        "word": "wobble",
+        "note": "물리적으로 비틀비틀 흔들리다"
+      },
+      {
+        "word": "tremble",
+        "note": "떨리다, 불안으로 흔들리다"
+      },
+      {
+        "word": "quaver",
+        "note": "목소리나 몸이 떨리듯 흔들리다"
+      },
+      {
+        "word": "be undecided",
+        "note": "결정을 못 하고 마음이 흔들리다"
+      },
+      {
+        "word": "be irresolute",
+        "note": "결단력 없이 우유부단하다"
+      },
+      {
+        "word": "hesitate",
+        "note": "주저하다, 망설이다"
+      },
+      {
+        "word": "equivocate",
+        "note": "애매하게 말하며 입장이 흔들리다"
+      },
+      {
+        "word": "vacillate",
+        "note": "이쪽저쪽 왔다 갔다 흔들리다"
+      },
+      {
+        "word": "fluctuate",
+        "note": "수치나 상태가 오르내리며 변동하다"
+      }
+    ],
+    "tips": [
+      "`wave`(파도) + `-er` = 파도처럼 이리저리 흔들리는 거야.",
+      "waive(포기하다)와 헷갈리지 마! waver는 마음이 흔들리는 거, waive는 권리를 포기하는 거.",
+      "GRE에서 vacillate, equivocate과 함께 '우유부단함'을 나타내는 핵심 단어야."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "wavering",
+    "pos": "n.",
+    "head_meanings": [
+      "동요",
+      "주저",
+      "머뭇거림"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "vacillation",
+        "note": "마음이 왔다 갔다 하는 동요 상태"
+      }
+    ],
+    "tips": [
+      "waver의 명사형이야. 결정을 못 내리고 머뭇거리는 상태를 뜻해.",
+      "without wavering(흔들림 없이)이라는 표현으로도 자주 쓰여.",
+      "GRE에서 irresolution, indecision과 같은 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "wayward",
+    "pos": "adj.",
+    "head_meanings": [
+      "고집불통인",
+      "외고집인",
+      "제멋대로인",
+      "변덕스러운",
+      "흔들리는",
+      "불안정한",
+      "뜻밖의",
+      "예상외의",
+      "재수 없는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "errant",
+        "note": "정도에서 벗어나 제멋대로 행동하는"
+      }
+    ],
+    "tips": [
+      "`way`(길) + `-ward`(방향) = 제 갈 길로만 가는, 즉 말을 안 듣는 거야.",
+      "wayward child(말 안 듣는 아이)가 대표적인 용례. 고집스럽고 예측 불가능한 느낌이야.",
+      "GRE에서 stubborn 계열과 unpredictable 계열 두 가지 뜻 모두 출제돼."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "wax",
+    "pos": "n./v.",
+    "head_meanings": [
+      "커지다",
+      "늘어나다",
+      "밀랍"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "enlarge",
+        "note": "크기가 커지다"
+      },
+      {
+        "word": "augment",
+        "note": "양이나 정도가 늘어나다"
+      },
+      {
+        "word": "swell",
+        "note": "부풀어 오르듯 커지다"
+      },
+      {
+        "word": "extend",
+        "note": "범위가 넓어지며 커지다"
+      },
+      {
+        "word": "lengthen",
+        "note": "길이나 기간이 늘어나다"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! 일상: 밀랍, GRE: 커지다. wax and wane(커졌다 작아졌다) 쌍으로 외워!",
+      "달이 wax 하면 차오르는 거고, wane 하면 이지러지는 거야.",
+      "wax eloquent(점점 웅변적이 되다)처럼 '점점 ~해지다'는 뜻으로도 써."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "weather",
+    "pos": "v.",
+    "head_meanings": [
+      "이겨내다",
+      "견디다",
+      "통과하다",
+      "외기에 씩씩해지다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "stand",
+        "note": "버티다, 견뎌내다"
+      },
+      {
+        "word": "tolerate",
+        "note": "참고 견디다"
+      },
+      {
+        "word": "bear",
+        "note": "고통이나 어려움을 감내하다"
+      },
+      {
+        "word": "suffer",
+        "note": "고난을 겪으며 버티다"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! 일상: 날씨, GRE: 견디다. weather the storm(폭풍을 이겨내다)이 핵심 표현이야.",
+      "날씨(weather)를 버텨내는 게 원래 뜻이고, 거기서 '역경을 견디다'로 확장된 거야.",
+      "withstand, endure와 같은 뜻으로 GRE에서 자주 출제돼."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "weaving",
+    "pos": "v.",
+    "head_meanings": [
+      "짜다",
+      "엮다",
+      "짜서 만들다",
+      "엮어내다",
+      "줄을 치다",
+      "좌우로 흔들리다",
+      "비틀거리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`weave`(짜다)의 현재분사형. 실을 엮어 천을 만드는 행위야.",
+      "비유적으로 이야기를 '엮어내다(weave a tale)'로도 써.",
+      "좌우로 비틀거리며 걷는 것도 weaving이야. 음주운전 적발 표현에서도 나와."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "well-suited",
+    "pos": "adj.",
+    "head_meanings": [
+      "적절한",
+      "편리한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`well`(잘) + `suited`(맞는) = 딱 잘 맞는. 어떤 목적에 적합하다는 뜻이야.",
+      "well-suited for/to 형태로 써. 'She is well-suited to the role'처럼.",
+      "apt, fitting, appropriate와 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "wheedle",
+    "pos": "v.",
+    "head_meanings": [
+      "감언이설로 유혹하다",
+      "아부하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "blandish",
+        "note": "감언이설로 꼬시다"
+      },
+      {
+        "word": "sweet-talk",
+        "note": "달콤한 말로 구슬리다"
+      },
+      {
+        "word": "blarney",
+        "note": "빈말로 아부하며 유혹하다"
+      },
+      {
+        "word": "flatter",
+        "note": "칭찬하며 비위를 맞추다"
+      },
+      {
+        "word": "fawn",
+        "note": "아첨하며 환심을 사다"
+      }
+    ],
+    "tips": [
+      "발음 [ˈwiːdl]. 살살 꼬셔서 뭔가를 얻어내는 거야. cajole과 거의 같은 뜻!",
+      "wheedle someone into doing something = 꼬셔서 ~하게 만들다.",
+      "coax, cajole, blandish와 함께 GRE '아부/유혹' 단어 세트로 외워!"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "wherewithal",
+    "pos": "n.",
+    "head_meanings": [
+      "자금",
+      "수단"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "money",
+        "note": "돈, 가장 기본적인 자금"
+      },
+      {
+        "word": "cash",
+        "note": "현금, 바로 쓸 수 있는 자금"
+      },
+      {
+        "word": "finance(s)",
+        "note": "재정, 자금 운용"
+      },
+      {
+        "word": "funds",
+        "note": "기금, 모아둔 자금"
+      },
+      {
+        "word": "resources",
+        "note": "자원, 활용 가능한 수단"
+      },
+      {
+        "word": "means",
+        "note": "수단, 방법이나 재력"
+      },
+      {
+        "word": "capability",
+        "note": "능력, 무언가를 할 수 있는 수단"
+      }
+    ],
+    "tips": [
+      "발음 [ˈwɛrwɪðɔːl]. `where`(어디) + `withal`(그것으로) = 뭔가를 하기 위한 수단/자금이야.",
+      "the wherewithal to do something = ~할 자금/수단. 주로 돈 얘기할 때 써.",
+      "GRE에서는 단순히 money가 아니라 '무언가를 실행할 능력과 자원' 전체를 의미해."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "whet",
+    "pos": "v.",
+    "head_meanings": [
+      "칼 따위를 갈다",
+      "자극하다",
+      "돋우다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "awaken",
+        "note": "흥미나 욕구를 깨워 자극하다"
+      },
+      {
+        "word": "arouse",
+        "note": "감정이나 관심을 불러일으키다"
+      }
+    ],
+    "tips": [
+      "발음 [wɛt]. wet(젖은)과 발음 같지만 뜻은 완전 달라! 칼을 '갈다' → 욕구를 '돋우다'.",
+      "whet one's appetite(식욕/흥미를 돋우다)가 GRE 빈출 표현이야.",
+      "날카롭게 가는(sharpen) 행위에서 '자극하다'로 의미가 확장된 거야."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "whim",
+    "pos": "n.",
+    "head_meanings": [
+      "변덕스러운 생각",
+      "즉흥적인 생각",
+      "일시적 기분"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "impulse",
+        "note": "갑자기 떠오르는 충동적 생각"
+      },
+      {
+        "word": "caprice",
+        "note": "변덕, 갑작스런 기분 변화"
+      },
+      {
+        "word": "vagary",
+        "note": "예측 불가능한 변덕스런 행동"
+      },
+      {
+        "word": "crotchet",
+        "note": "기이한 생각, 괴팍한 변덕"
+      },
+      {
+        "word": "capriciousness",
+        "note": "변덕스러움 자체를 나타내는 명사"
+      },
+      {
+        "word": "whimsy",
+        "note": "기발하고 변덕스러운 생각"
+      },
+      {
+        "word": "volatility",
+        "note": "급변하는 불안정한 성질"
+      },
+      {
+        "word": "fickleness",
+        "note": "마음이 자주 바뀌는 변덕"
+      },
+      {
+        "word": "idiosyncrasy",
+        "note": "개인 특유의 별난 습관이나 기질"
+      }
+    ],
+    "tips": [
+      "on a whim = 즉흥적으로, 변덕에 따라. 일상에서도 많이 쓰는 표현이야.",
+      "whim, whimsy, whimsical은 한 가족! 다 '변덕/기발함'과 관련돼.",
+      "caprice, vagary와 함께 GRE '변덕' 단어 세트로 묶어서 외워."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "whimsy",
+    "pos": "n.",
+    "head_meanings": [
+      "일시적 기분",
+      "기발한 표현",
+      "기발한 생각",
+      "변덕스러운 언행"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "caprice",
+        "note": "갑작스런 변덕, 충동적 기분"
+      },
+      {
+        "word": "fancy",
+        "note": "기발한 상상이나 공상"
+      },
+      {
+        "word": "quirk",
+        "note": "기이하고 독특한 성질"
+      },
+      {
+        "word": "vagary",
+        "note": "예측 불가능한 변덕"
+      },
+      {
+        "word": "eccentricity",
+        "note": "별나고 기이한 행동이나 성향"
+      },
+      {
+        "word": "notion",
+        "note": "갑자기 떠오른 막연한 생각"
+      }
+    ],
+    "tips": [
+      "whim의 확장형이야. whim이 '변덕'이면, whimsy는 '기발한 변덕'에 가까워.",
+      "a touch of whimsy = 살짝 기발한 느낌. 예술이나 디자인 얘기할 때 자주 써.",
+      "whimsical(변덕스러운/기발한)의 명사형으로 기억하면 편해."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "whimsical",
+    "pos": "adj.",
+    "head_meanings": [
+      "마음 잘 변하는",
+      "변덕스러운",
+      "환상적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "arbitrary",
+        "note": "기준 없이 마음대로인"
+      },
+      {
+        "word": "uncertain",
+        "note": "불확실하고 예측 불가능한"
+      },
+      {
+        "word": "freakish",
+        "note": "기이하고 별난"
+      },
+      {
+        "word": "erratic",
+        "note": "일관성 없이 오락가락하는"
+      }
+    ],
+    "tips": [
+      "`whims`(변덕) + `-ical`(~한) = 변덕스러운. 기발하고 엉뚱한 느낌도 있어.",
+      "capricious와 거의 동의어! 둘 다 '변덕스러운'이지만, whimsical은 좀 더 귀엽고 기발한 뉘앙스야.",
+      "GRE에서 capricious, mercurial, fickle과 함께 묶여서 나와."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "whit",
+    "pos": "n.",
+    "head_meanings": [
+      "약간",
+      "조금"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "modicum",
+        "note": "아주 적은 양"
+      },
+      {
+        "word": "atom",
+        "note": "원자만큼 아주 작은 조각"
+      },
+      {
+        "word": "shred",
+        "note": "찢어진 조각처럼 아주 작은 양"
+      },
+      {
+        "word": "little bit",
+        "note": "조금, 약간"
+      },
+      {
+        "word": "jot",
+        "note": "아주 조금도(not a jot)"
+      },
+      {
+        "word": "mite",
+        "note": "진드기만큼 아주 미미한 양"
+      },
+      {
+        "word": "iota",
+        "note": "그리스 알파벳 중 가장 작은 글자, 극소량"
+      },
+      {
+        "word": "dot",
+        "note": "점만큼 아주 작은 것"
+      }
+    ],
+    "tips": [
+      "not a whit = 조금도 ~않다. 거의 이 부정 표현으로만 써.",
+      "iota, jot, modicum과 함께 GRE '극소량' 단어 세트야.",
+      "wit(재치)와 헷갈리지 마! whit은 h가 들어간 '아주 작은 양'이야."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "wholehearted",
+    "pos": "adj.",
+    "head_meanings": [
+      "전심전력의",
+      "성의 있는",
+      "충실한",
+      "진심어린",
+      "열중하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "committed",
+        "note": "헌신적으로 전념하는"
+      },
+      {
+        "word": "devoted",
+        "note": "마음을 다해 헌신하는"
+      },
+      {
+        "word": "enthusiastic",
+        "note": "열정적으로 임하는"
+      },
+      {
+        "word": "without reservation",
+        "note": "거리낌 없이 온전히"
+      },
+      {
+        "word": "absolute",
+        "note": "절대적인, 완전한"
+      },
+      {
+        "word": "unqualified",
+        "note": "조건 없는, 무조건적인"
+      },
+      {
+        "word": "unreserved",
+        "note": "유보 없는, 전적인"
+      },
+      {
+        "word": "unconditional",
+        "note": "무조건적인"
+      },
+      {
+        "word": "unequivocal",
+        "note": "모호함 없이 분명한"
+      },
+      {
+        "word": "complete",
+        "note": "완전한, 빠짐없는"
+      },
+      {
+        "word": "full",
+        "note": "충분한, 가득한"
+      },
+      {
+        "word": "total",
+        "note": "전체적인, 완전한"
+      }
+    ],
+    "tips": [
+      "`whole`(전체) + `hearted`(마음의) = 온 마음을 다하는. 직관적인 단어야!",
+      "halfhearted(마지못한)의 반대말로 기억하면 쉬워.",
+      "wholehearted support(전폭적인 지지)가 대표적인 표현이야."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "wield",
+    "pos": "v.",
+    "head_meanings": [
+      "휘두르다",
+      "행사하다",
+      "펼치다",
+      "지배하다",
+      "통제하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "exert",
+        "note": "힘이나 영향력을 행사하다"
+      }
+    ],
+    "tips": [
+      "칼을 '휘두르다'에서 권력을 '행사하다'로 의미가 확장된 단어야.",
+      "wield power/influence/authority = 권력/영향력/권위를 행사하다. GRE 빈출 표현!",
+      "발음은 [wiːld]. 방패(shield)와 라임이 맞아."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "wilderness",
+    "pos": "n.",
+    "head_meanings": [
+      "황야",
+      "황무지",
+      "미개지",
+      "광막한 곳",
+      "자연 보호 구역"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`wild`(야생의) + `-erness` = 야생 그대로의 땅. 사람 손이 안 닿은 자연이야.",
+      "voice in the wilderness = 세상에 받아들여지지 않는 외로운 목소리. 성경에서 온 표현이야.",
+      "GRE 지문에서 환경, 자연 보호 주제로 자주 등장해."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "willful",
+    "pos": "adj.",
+    "head_meanings": [
+      "고의의",
+      "계획적인",
+      "고집센"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "deliberate",
+        "note": "의도적으로 계획한"
+      },
+      {
+        "word": "purposed",
+        "note": "목적을 가지고 의도한"
+      },
+      {
+        "word": "obstinate",
+        "note": "완고하게 고집을 부리는"
+      },
+      {
+        "word": "stubborn",
+        "note": "꿋꿋이 고집하는"
+      }
+    ],
+    "tips": [
+      "`will`(의지) + `-ful` = 의지가 강한 → 고의적인 / 고집센. 두 가지 뜻이 있어!",
+      "willful negligence(고의적 태만), willful child(고집 센 아이) 두 용법 다 알아야 해.",
+      "GRE에서 deliberate, intentional과 같은 뜻으로 출제될 때가 많아."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "willing",
+    "pos": "adj.",
+    "head_meanings": [
+      "하고 싶은 마음이 드는",
+      "꺼리지 않는",
+      "자진해서 하는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`will`(의지) + `-ing` = 의지가 있는, 기꺼이 하는.",
+      "be willing to = ~할 의향이 있다. 영어에서 가장 기본적인 표현 중 하나야.",
+      "반대말 unwilling(꺼리는)도 함께 알아둬."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "wilt",
+    "pos": "v./n.",
+    "head_meanings": [
+      "시들다",
+      "약해지다",
+      "지쳐버리다",
+      "풀이 죽다",
+      "기울다",
+      "무기력",
+      "쇠퇴"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "droop",
+        "note": "축 늘어지며 시들다"
+      },
+      {
+        "word": "sag",
+        "note": "무게에 눌려 처지다"
+      },
+      {
+        "word": "wither",
+        "note": "수분이 빠져 말라 시들다"
+      },
+      {
+        "word": "shrivel",
+        "note": "쪼그라들며 시들다"
+      },
+      {
+        "word": "languish",
+        "note": "기운 없이 시들시들해지다"
+      },
+      {
+        "word": "flag",
+        "note": "기운이 빠져 축 처지다"
+      },
+      {
+        "word": "become listless",
+        "note": "무기력하게 되다"
+      },
+      {
+        "word": "fade",
+        "note": "서서히 사라지듯 약해지다"
+      },
+      {
+        "word": "ebb",
+        "note": "조수처럼 빠져나가며 약해지다"
+      },
+      {
+        "word": "wane",
+        "note": "달이 이지러지듯 줄어들다"
+      }
+    ],
+    "tips": [
+      "꽃이 시드는 걸 떠올려! 식물이 물 부족으로 축 처지는 모습이 wilt야.",
+      "비유적으로 사람이 '풀이 죽다, 기운이 빠지다'는 뜻으로도 써.",
+      "wither, droop, flag와 함께 GRE '쇠퇴/시듦' 단어 세트야."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "wily",
+    "pos": "adj.",
+    "head_meanings": [
+      "꾀 많은",
+      "책략을 쓰는",
+      "교활한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "guileful",
+        "note": "속임수를 쓰는, 간교한"
+      },
+      {
+        "word": "insidious",
+        "note": "교묘하게 해를 끼치는"
+      },
+      {
+        "word": "foxy",
+        "note": "여우처럼 약삭빠른"
+      }
+    ],
+    "tips": [
+      "`wile`(속임수, 계략) + `-y` = 속임수에 능한, 교활한.",
+      "wily fox(교활한 여우)가 대표적인 표현. crafty, cunning과 비슷해.",
+      "GRE에서 artful, sly, devious 등과 동의어로 나와."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "wince",
+    "pos": "v.",
+    "head_meanings": [
+      "주춤하다",
+      "움츠리다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "recoil",
+        "note": "놀라거나 무서워서 뒤로 물러나다"
+      },
+      {
+        "word": "blench",
+        "note": "겁먹어 움츠리다"
+      },
+      {
+        "word": "quail",
+        "note": "두려움에 주눅 들다"
+      },
+      {
+        "word": "hesitate",
+        "note": "주저하며 머뭇거리다"
+      },
+      {
+        "word": "avoid",
+        "note": "피하다, 회피하다"
+      },
+      {
+        "word": "grimace",
+        "note": "아파서 얼굴을 찡그리다"
+      }
+    ],
+    "tips": [
+      "아픈 곳을 건드렸을 때 '윽!' 하며 움츠리는 반사적 반응이 wince야.",
+      "wince at/with pain = 고통에 움츠리다. 물리적/감정적 고통 모두에 써.",
+      "flinch와 거의 같은 뜻! 둘 다 '움찔하다'야."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "windfall",
+    "pos": "n.",
+    "head_meanings": [
+      "바람에 떨어진 과실",
+      "뜻밖의 횡재",
+      "유산 따위"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "find",
+        "note": "우연히 발견한 것"
+      },
+      {
+        "word": "discovery",
+        "note": "뜻밖에 발견한 것"
+      },
+      {
+        "word": "trove",
+        "note": "발견된 보물이나 귀중품"
+      },
+      {
+        "word": "treasure trove",
+        "note": "숨겨진 보물 더미"
+      },
+      {
+        "word": "unexpected gain",
+        "note": "예상치 못한 이득"
+      },
+      {
+        "word": "fortune",
+        "note": "행운, 재산"
+      },
+      {
+        "word": "profit",
+        "note": "이윤, 이익"
+      }
+    ],
+    "tips": [
+      "`wind`(바람) + `fall`(떨어지다) = 바람에 떨어진 과일 → 뜻밖의 횡재!",
+      "windfall profit(뜻밖의 이익), windfall tax(횡재세)처럼 경제 용어로도 많이 써.",
+      "GRE에서 unexpected gain, bonanza와 같은 뜻으로 나와."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "winning",
+    "pos": "adj.",
+    "head_meanings": [
+      "마음을 끄는",
+      "매력 있는",
+      "승리를 얻는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "단순히 '이기는'이 아니라 '사람 마음을 사로잡는'이라는 뜻도 있어!",
+      "a winning smile(매력적인 미소)이 GRE에서 나올 수 있는 용법이야.",
+      "winsome(매력적인)과 뜻이 비슷해. 둘 다 `win`에서 파생됐어."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "winnow",
+    "pos": "v.",
+    "head_meanings": [
+      "키질하다",
+      "까부르다",
+      "좋은 부분을 골라내다",
+      "뽑아내다",
+      "분석하다",
+      "검토하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "separate (out)",
+        "note": "좋은 것과 나쁜 것을 분리하다"
+      },
+      {
+        "word": "sort out",
+        "note": "골라서 정리하다"
+      },
+      {
+        "word": "sift out",
+        "note": "체로 치듯 가려내다"
+      },
+      {
+        "word": "filter out",
+        "note": "걸러내다"
+      },
+      {
+        "word": "fan",
+        "note": "부채질하듯 곡식을 까부르다"
+      },
+      {
+        "word": "choose",
+        "note": "선별해서 고르다"
+      },
+      {
+        "word": "select",
+        "note": "가려서 뽑다"
+      },
+      {
+        "word": "isolate",
+        "note": "분리해서 따로 떼어내다"
+      },
+      {
+        "word": "find",
+        "note": "찾아내다"
+      },
+      {
+        "word": "identify",
+        "note": "가려서 확인하다"
+      },
+      {
+        "word": "remove",
+        "note": "불필요한 것을 제거하다"
+      },
+      {
+        "word": "get rid of",
+        "note": "필요 없는 것을 없애다"
+      }
+    ],
+    "tips": [
+      "곡식에서 쭉정이를 바람으로 날려 보내는 '키질'이 원래 뜻이야.",
+      "winnow down/out = 선별해서 추려내다. 후보를 줄여 나갈 때 자주 써.",
+      "GRE에서 sift, cull과 비슷한 뜻으로 나와. '좋은 걸 가려내다'가 핵심!"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "winsome",
+    "pos": "adj.",
+    "head_meanings": [
+      "매력 있는",
+      "명랑한",
+      "쾌활한",
+      "사람을 끄는",
+      "애교 있는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "sweet",
+        "note": "상냥하고 다정한"
+      },
+      {
+        "word": "dulcet",
+        "note": "부드럽고 감미로운"
+      },
+      {
+        "word": "lovable",
+        "note": "사랑스러운"
+      },
+      {
+        "word": "attractive",
+        "note": "끌리는, 매력적인"
+      },
+      {
+        "word": "charming",
+        "note": "매력적이고 호감 가는"
+      },
+      {
+        "word": "pleasant",
+        "note": "기분 좋은, 쾌적한"
+      },
+      {
+        "word": "winning",
+        "note": "마음을 사로잡는"
+      },
+      {
+        "word": "gay",
+        "note": "명랑하고 쾌활한(구식 용법)"
+      }
+    ],
+    "tips": [
+      "`win`(이기다, 사로잡다) + `-some`(~한) = 마음을 사로잡는, 매력적인.",
+      "winsome은 단순 예쁜 게 아니라 순수하고 명랑한 매력을 뜻해.",
+      "GRE에서 charming, engaging, captivating과 동의어로 나와."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "wistful",
+    "pos": "adj.",
+    "head_meanings": [
+      "탐내는 듯한",
+      "바라는 듯한",
+      "그리워하는",
+      "동경하는",
+      "생각에 잠긴",
+      "곰곰이 생각하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "nostalgic",
+        "note": "지나간 시절을 그리워하는"
+      },
+      {
+        "word": "desirous",
+        "note": "무언가를 간절히 원하는"
+      },
+      {
+        "word": "yearning",
+        "note": "갈망하며 그리워하는"
+      },
+      {
+        "word": "longing",
+        "note": "간절히 바라는"
+      },
+      {
+        "word": "craving",
+        "note": "강하게 갈구하는"
+      },
+      {
+        "word": "hankering",
+        "note": "은근히 바라는, 갈망하는"
+      },
+      {
+        "word": "reflective",
+        "note": "생각에 잠긴, 사색적인"
+      },
+      {
+        "word": "musing",
+        "note": "깊이 생각에 빠진"
+      },
+      {
+        "word": "contemplative",
+        "note": "명상적으로 곰곰이 생각하는"
+      },
+      {
+        "word": "melancholy",
+        "note": "우울하고 슬픈 감정"
+      },
+      {
+        "word": "mournful",
+        "note": "슬퍼하는, 애통한"
+      },
+      {
+        "word": "rueful",
+        "note": "후회하며 안타까워하는"
+      },
+      {
+        "word": "regretful",
+        "note": "아쉬움과 후회가 담긴"
+      }
+    ],
+    "tips": [
+      "얻을 수 없는 걸 아련하게 그리워하는 느낌이 wistful이야. 달콤한 슬픔 같은 거.",
+      "wistful smile = 그리움이 담긴 미소. 문학 작품에서 자주 나오는 표현이야.",
+      "nostalgic이 과거에 대한 그리움이라면, wistful은 좀 더 막연한 동경에 가까워."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "withdrawn",
+    "pos": "adj.",
+    "head_meanings": [
+      "사교적이지 않은",
+      "고립한",
+      "세상과 등진",
+      "내향적인",
+      "소극적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "retiring",
+        "note": "나서지 않고 조용히 물러나는"
+      },
+      {
+        "word": "reserved",
+        "note": "감정 표현을 자제하는"
+      },
+      {
+        "word": "uncommunicative",
+        "note": "말이 없고 소통하지 않는"
+      },
+      {
+        "word": "unsociable",
+        "note": "사교적이지 않은"
+      },
+      {
+        "word": "introverted",
+        "note": "내면에 집중하는 내향적인"
+      },
+      {
+        "word": "detached",
+        "note": "초연하고 거리를 두는"
+      },
+      {
+        "word": "aloof",
+        "note": "냉담하게 거리를 유지하는"
+      },
+      {
+        "word": "shrinking",
+        "note": "주눅 들어 움츠리는"
+      },
+      {
+        "word": "timid",
+        "note": "소심하고 겁 많은"
+      },
+      {
+        "word": "shy",
+        "note": "수줍어하는"
+      },
+      {
+        "word": "bashful",
+        "note": "부끄러움을 많이 타는"
+      }
+    ],
+    "tips": [
+      "`withdraw`(물러나다)의 과거분사 → 세상에서 물러난, 내향적인.",
+      "become withdrawn = 점점 사교를 피하게 되다. 심리 관련 지문에서 자주 나와.",
+      "GRE에서 reclusive, reticent, taciturn과 비슷한 뜻으로 출제돼."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "wither",
+    "pos": "v.",
+    "head_meanings": [
+      "시들다",
+      "말라 죽다",
+      "쇠약해지다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "parch",
+        "note": "바싹 마르게 하다"
+      },
+      {
+        "word": "dry",
+        "note": "수분이 빠져 마르다"
+      },
+      {
+        "word": "desiccate",
+        "note": "완전히 건조시키다"
+      },
+      {
+        "word": "fade",
+        "note": "서서히 사라지다"
+      },
+      {
+        "word": "dehydrate",
+        "note": "탈수되어 마르다"
+      },
+      {
+        "word": "droop",
+        "note": "축 늘어지며 시들다"
+      }
+    ],
+    "tips": [
+      "weather(견디다)와 헷갈리지 마! wither는 시들고 죽는 거야.",
+      "withering look/remark = 상대를 위축시키는 시선/말. '사람을 시들게 만드는' 비유야.",
+      "wilt, shrivel, languish와 함께 GRE '시듦/쇠퇴' 단어 그룹이야."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "withhold",
+    "pos": "v.",
+    "head_meanings": [
+      "보류하다",
+      "억누르다",
+      "말리다",
+      "만류하다",
+      "제지하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "suppress",
+        "note": "억눌러 나오지 못하게 하다"
+      },
+      {
+        "word": "repress",
+        "note": "감정이나 정보를 억제하다"
+      },
+      {
+        "word": "hold back",
+        "note": "뒤로 잡아두어 내보내지 않다"
+      },
+      {
+        "word": "check",
+        "note": "막다, 저지하다"
+      },
+      {
+        "word": "curb",
+        "note": "고삐 당기듯 억제하다"
+      },
+      {
+        "word": "restrain",
+        "note": "제한하여 막다"
+      },
+      {
+        "word": "contain",
+        "note": "안에 담아두어 퍼지지 않게 하다"
+      }
+    ],
+    "tips": [
+      "`with`(반대로) + `hold`(잡다) = 주지 않고 붙잡아 두다.",
+      "withhold information/evidence = 정보/증거를 숨기다. 법률 맥락에서 자주 써.",
+      "withhold은 '안 주고 보류하다', withdraw는 '물러나다/철회하다'. 구분해!"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "withstand",
+    "pos": "v.",
+    "head_meanings": [
+      "저항하다",
+      "거역하다",
+      "잘 견디다",
+      "버티어 내다",
+      "내성이 있다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "resist",
+        "note": "맞서 저항하다"
+      },
+      {
+        "word": "fight",
+        "note": "싸워서 막아내다"
+      },
+      {
+        "word": "oppose",
+        "note": "반대하며 맞서다"
+      },
+      {
+        "word": "endure",
+        "note": "오래 참고 견디다"
+      },
+      {
+        "word": "stand",
+        "note": "굳건히 서서 버티다"
+      },
+      {
+        "word": "tolerate",
+        "note": "참아내다"
+      },
+      {
+        "word": "bear",
+        "note": "무거운 짐처럼 감당하다"
+      },
+      {
+        "word": "put up with",
+        "note": "불편을 참고 견디다"
+      },
+      {
+        "word": "defy",
+        "note": "도전적으로 맞서다"
+      },
+      {
+        "word": "confront",
+        "note": "정면으로 대면하여 맞서다"
+      }
+    ],
+    "tips": [
+      "`with`(반대로) + `stand`(서다) = 맞서서 버티다, 견디다.",
+      "withstand pressure/attack/scrutiny = 압력/공격/면밀한 조사를 견디다.",
+      "weather(견디다)와 비슷한 뜻! 둘 다 GRE에서 endure 계열로 나와."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "witless",
+    "pos": "adj.",
+    "head_meanings": [
+      "어리석은",
+      "지혜 없는",
+      "모르는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "dense",
+        "note": "둔하고 이해가 느린"
+      },
+      {
+        "word": "silly",
+        "note": "바보 같은, 어리석은"
+      },
+      {
+        "word": "stupid",
+        "note": "멍청한, 판단력 없는"
+      },
+      {
+        "word": "asinine",
+        "note": "당나귀처럼 멍청한"
+      }
+    ],
+    "tips": [
+      "`wit`(재치, 지혜) + `-less`(없는) = 재치 없는, 어리석은.",
+      "scared witless = 겁에 질려 정신을 못 차리는. 관용 표현으로 알아둬.",
+      "witty(재치 있는)의 정반대야. wit 가족: witty, witticism, witless 함께 외워!"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "witticism",
+    "pos": "n.",
+    "head_meanings": [
+      "경구",
+      "명언",
+      "익살",
+      "재담"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pun",
+        "note": "말장난, 언어유희"
+      },
+      {
+        "word": "jape",
+        "note": "농담, 익살스러운 말"
+      },
+      {
+        "word": "joke",
+        "note": "우스갯소리"
+      },
+      {
+        "word": "waggery",
+        "note": "익살맞은 유머"
+      },
+      {
+        "word": "jest",
+        "note": "농담, 해학"
+      },
+      {
+        "word": "quip",
+        "note": "재치 있는 한마디"
+      },
+      {
+        "word": "sally",
+        "note": "재치 있는 응수, 경구"
+      },
+      {
+        "word": "wisecrack",
+        "note": "재치 있는 빈정거림"
+      }
+    ],
+    "tips": [
+      "`wit`(재치) + `-icism`(명사형) = 재치 있는 말, 경구.",
+      "Oscar Wilde가 witticism의 달인이었어! 그의 명언들이 대표적인 예시야.",
+      "GRE에서 quip, bon mot, epigram과 비슷한 뜻으로 나와."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "wizardry",
+    "pos": "n.",
+    "head_meanings": [
+      "마법",
+      "마술"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "conjuring",
+        "note": "마술 행위, 주문으로 불러내는 마법"
+      },
+      {
+        "word": "occultism",
+        "note": "신비주의, 초자연적 힘을 다루는 것"
+      },
+      {
+        "word": "necromancy",
+        "note": "강신술, 죽은 자와 소통하는 마법"
+      },
+      {
+        "word": "witchery",
+        "note": "마녀의 마법, 요술"
+      },
+      {
+        "word": "voodoo",
+        "note": "부두교 주술, 주문을 거는 마법"
+      }
+    ],
+    "tips": [
+      "`wizard`(마법사) + `-ry`(행위/상태) = 마법사가 하는 일, 즉 마법이야.",
+      "해리포터에서 Hogwarts School of Witchcraft and Wizardry 기억나지? 그 wizardry야!",
+      "비유적으로 '놀라운 기술'이란 뜻으로도 써. technical wizardry = 기술의 마법 같은 솜씨."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "wizened",
+    "pos": "adj.",
+    "head_meanings": [
+      "시든",
+      "말라붙은",
+      "쭈글쭈글한",
+      "주름진"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "dried",
+        "note": "건조해서 수분이 빠진 상태"
+      },
+      {
+        "word": "shrunk",
+        "note": "줄어든, 쪼그라든 상태"
+      },
+      {
+        "word": "wrinkled",
+        "note": "주름이 잡힌, 쭈글쭈글한 상태"
+      }
+    ],
+    "tips": [
+      "나이 든 할머니 얼굴처럼 쭈글쭈글하게 말라붙은 느낌이야. a wizened old man = 쪼그라든 노인.",
+      "`wizen`은 '시들다'란 뜻의 고어에서 왔어. 사과를 오래 두면 wizened apple이 되는 거지.",
+      "wizard랑 헷갈리지 마! wizard는 마법사, wizened는 쭈글쭈글한 거야."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "wobble",
+    "pos": "v./n.",
+    "head_meanings": [
+      "의견 마음 행동 등이 흔들리다",
+      "동요하다",
+      "비틀거리다",
+      "흔들거리다",
+      "기울다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "테이블 다리가 고르지 않아서 흔들거릴 때 wobble이라고 해. 물리적 흔들림이야.",
+      "비유적으로도 써: His resolve wobbled = 그의 결심이 흔들렸어.",
+      "발음이 뜻이랑 잘 어울려! '워블워블' 흔들거리는 느낌 나지 않아?"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "woe",
+    "pos": "n.",
+    "head_meanings": [
+      "비통",
+      "비애",
+      "비탄",
+      "고난",
+      "고통",
+      "고민의 원인",
+      "재난",
+      "재앙"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "셰익스피어 시대부터 쓰던 문학적 표현이야. Woe is me! = 아이고 내 팔자야!",
+      "GRE 지문에서 자주 나와. tale of woe = 고난의 이야기, economic woes = 경제적 어려움.",
+      "짧고 강렬한 단어거든. 슬픔+고통+재난을 한 글자에 담은 느낌이야."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "worldly",
+    "pos": "adj.",
+    "head_meanings": [
+      "속세의",
+      "현세의",
+      "세속적인",
+      "평범한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "secular",
+        "note": "종교와 무관한, 세속적인"
+      },
+      {
+        "word": "earthly",
+        "note": "지상의, 현세의 (천상과 대비)"
+      },
+      {
+        "word": "terrestrial",
+        "note": "지구의, 현세의 삶에 관련된"
+      },
+      {
+        "word": "mundane",
+        "note": "세속적인, 평범한 일상의"
+      }
+    ],
+    "tips": [
+      "world + `-ly` = 세상의, 세속적인이야. 영적(spiritual)과 반대되는 개념이거든.",
+      "worldly pleasures = 세속적 쾌락, worldly wisdom = 세상 물정에 밝은 지혜.",
+      "GRE에서 spiritual ↔ worldly 대비 구도로 자주 출제돼!"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "wrangle",
+    "pos": "v./n.",
+    "head_meanings": [
+      "말다툼하다",
+      "언쟁하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "altercate",
+        "note": "격하게 말다툼하다"
+      },
+      {
+        "word": "squabble",
+        "note": "사소한 일로 티격태격 다투다"
+      },
+      {
+        "word": "bicker",
+        "note": "시시콜콜 말다툼하다"
+      },
+      {
+        "word": "tiff",
+        "note": "사소한 말다툼, 작은 언쟁"
+      },
+      {
+        "word": "dispute",
+        "note": "논쟁하다, 이의를 제기하며 다투다"
+      }
+    ],
+    "tips": [
+      "발음 주의! w 묵음! [ˈræŋɡl] \"랭글\"로 읽어.",
+      "카우보이가 말을 몰 때도 wrangle이라고 해. wrangler = 목장 일꾼 (청바지 브랜드 이름이기도 하지!).",
+      "argue보다 더 시끄럽고 감정적인 다툼이야. They wrangled over the bill = 계산서 가지고 시끄럽게 다퉜어."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "wrath",
+    "pos": "n.",
+    "head_meanings": [
+      "분노",
+      "격노",
+      "복수",
+      "천벌"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ire",
+        "note": "격한 분노 (문어체)"
+      },
+      {
+        "word": "rage",
+        "note": "통제 불능의 극심한 분노"
+      },
+      {
+        "word": "indignation",
+        "note": "부당함에 대한 의분"
+      },
+      {
+        "word": "resentment",
+        "note": "부당한 대우에 대한 원한, 분개"
+      }
+    ],
+    "tips": [
+      "발음 주의! w 묵음! [ræθ] \"래쓰\"로 읽어.",
+      "The Grapes of Wrath (분노의 포도) 들어봤지? 그 wrath야. 신의 분노, 천벌 같은 엄청난 분노거든.",
+      "anger보다 훨씬 강렬하고 문학적인 표현이야. 일상 대화보다 GRE 지문에 어울리는 단어!"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "wreak",
+    "pos": "v.",
+    "head_meanings": [
+      "터뜨리다",
+      "갚다",
+      "복수 등을 가하다",
+      "주다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "execute",
+        "note": "실행하다, 가하다"
+      },
+      {
+        "word": "vent",
+        "note": "감정을 터뜨리다, 분풀이하다"
+      }
+    ],
+    "tips": [
+      "발음 주의! w 묵음! [riːk] \"뤼크\"로 읽어.",
+      "wreak havoc = 대혼란을 일으키다. 이 표현이 가장 많이 쓰여! The storm wreaked havoc on the town.",
+      "wreak revenge = 복수를 가하다. 항상 뭔가 파괴적인 걸 '가하다/퍼붓다'란 뜻이야."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "wreck",
+    "pos": "v./n.",
+    "head_meanings": [
+      "난파시키다",
+      "해난을 당하게 하다",
+      "조난시키다",
+      "파괴하다",
+      "해치다",
+      "망가뜨리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "발음 주의! w 묵음! [rɛk] \"렉\"으로 읽어.",
+      "명사로는 난파선(shipwreck), 잔해란 뜻이야. I'm a wreck = 나 완전 녹초야/엉망이야.",
+      "wreak(가하다)과 wreck(파괴하다)은 다른 단어야! 철자 헷갈리지 마."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "writhe",
+    "pos": "v.",
+    "head_meanings": [
+      "몸부림치다",
+      "몸을 뒤틀다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "flail",
+        "note": "팔다리를 마구 휘두르며 몸부림치다"
+      },
+      {
+        "word": "thresh",
+        "note": "타작하듯 몸을 세게 흔들다"
+      },
+      {
+        "word": "thrash",
+        "note": "격렬하게 몸을 뒤틀며 치다"
+      }
+    ],
+    "tips": [
+      "발음 주의! w 묵음! [raɪð] \"라이ð\"로 읽어. th는 this의 th 발음이야.",
+      "고통스러워서 몸을 뒤트는 거야. writhe in pain = 고통에 몸부림치다.",
+      "뱀이 꿈틀거리는 것도 writhe야. The snake writhed across the floor."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "wrought",
+    "pos": "adj.",
+    "head_meanings": [
+      "만들어진",
+      "공들여 이루어진",
+      "장식된",
+      "두드려서 만든"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "발음 주의! w 묵음! [rɔːt] \"롯\"으로 읽어.",
+      "wrought iron = 연철(두드려서 만든 철). 유럽 건물 난간에 있는 그 장식적인 철 세공이야.",
+      "`work`의 옛날 과거분사가 wrought야. God wrought miracles = 신이 기적을 일으켰다."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "wry",
+    "pos": "adj.",
+    "head_meanings": [
+      "비뚤어진",
+      "뒤틀린",
+      "꼬인",
+      "비꼬는",
+      "익살스런"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ironic",
+        "note": "반어적인, 비꼬는 뉘앙스"
+      },
+      {
+        "word": "cynical",
+        "note": "냉소적인, 빈정거리는"
+      },
+      {
+        "word": "askew",
+        "note": "비뚤어진, 삐딱한 (물리적)"
+      }
+    ],
+    "tips": [
+      "발음 주의! w 묵음! [raɪ] \"라이\"로 읽어. rye(호밀)랑 같은 발음이야.",
+      "wry humor = 비꼬는 유머, wry smile = 씁쓸한 미소. GRE 지문에서 자주 나와!",
+      "원래 '비틀린'이란 물리적 뜻에서 '비꼬는'이란 비유적 뜻으로 확장된 거야."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "yawn",
+    "pos": "v./n.",
+    "head_meanings": [
+      "하품하다",
+      "크게 벌어지다",
+      "하품",
+      "벌어진 틈",
+      "지루한 것"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "하품 소리를 흉내 낸 의성어야. yaaawn~ 하면 진짜 하품 나오지 않아?",
+      "비유적으로 a yawning gap = 크게 벌어진 격차. 입이 크게 벌어지는 것에서 온 표현이야.",
+      "The movie was a total yawn = 그 영화 완전 지루했어. 명사로 '지루한 것'이란 뜻도 있어."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "yawning",
+    "pos": "adj.",
+    "head_meanings": [
+      "하품을 하며",
+      "지루함을 나타내고 있는",
+      "틈 등이 크게 벌어져 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "yawn + `-ing` = 형용사로 쓰이면 '크게 벌어진'이란 뜻이 핵심이야.",
+      "a yawning chasm = 크게 벌어진 심연, yawning gap = 엄청난 격차. GRE에서 이 뜻으로 나와!",
+      "단순히 '하품하는'보다 '크게 벌어진'이란 비유적 뜻을 기억해야 해."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "yield",
+    "pos": "n./v.",
+    "head_meanings": [
+      "v.) 산출하다, 낳다, 초래하다, 야기하다",
+      "v.) 굴복하다, 양보하다, 포기하다, 비워주다, 양도하다, 내주다, 따르다",
+      "n.) 산출액, 수확, 산물"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "engender",
+        "note": "낳다, 야기하다 (산출 의미)"
+      },
+      {
+        "word": "production",
+        "note": "생산, 산출 (산출량 의미)"
+      },
+      {
+        "word": "output",
+        "note": "산출량, 생산량"
+      },
+      {
+        "word": "harvest",
+        "note": "수확, 거두어들인 양"
+      },
+      {
+        "word": "succumb",
+        "note": "굴복하다, 버티지 못하고 넘어지다"
+      },
+      {
+        "word": "abdicate",
+        "note": "권리나 책임을 포기하다"
+      },
+      {
+        "word": "waive",
+        "note": "권리를 자발적으로 포기하다"
+      },
+      {
+        "word": "forgo",
+        "note": "자발적으로 단념하다, 포기하다"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! 일상에서는 '수확/산출'로 많이 쓰지만, GRE에서는 '굴복하다/양보하다' 뜻이 핵심이야.",
+      "두 갈래로 나뉘어: ① 산출하다 (The farm yields crops) ② 굴복하다 (yield to pressure = 압력에 굴복하다).",
+      "도로 표지판 YIELD = 양보! 이걸 떠올리면 '굴복/양보' 뜻을 쉽게 기억할 수 있어."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "yielding",
+    "pos": "adj.",
+    "head_meanings": [
+      "양보를 잘 하는",
+      "온순한",
+      "남의 말을 잘 듣는",
+      "잘 구부러지는",
+      "유연한",
+      "비옥한",
+      "수확이 많은"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "yield(굴복하다) + `-ing` = 쉽게 굴복하는, 유순한이란 뜻이야.",
+      "사람에게 쓰면 '순종적인', 재료에 쓰면 '잘 휘는/유연한', 땅에 쓰면 '비옥한'이야.",
+      "yielding personality = 남 말 잘 듣는 성격. unyielding은 반대로 '굴하지 않는'이야!"
+    ]
+  },
+  {
+    "id": "085",
+    "word": "yoke",
+    "pos": "v./n.",
+    "head_meanings": [
+      "짝짓다",
+      "어울리다",
+      "서로 닮다",
+      "함께 일하다",
+      "결합시키다",
+      "속박하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "couple",
+        "note": "둘을 연결하다, 짝지어 묶다"
+      },
+      {
+        "word": "link",
+        "note": "연결하다, 이어주다"
+      }
+    ],
+    "tips": [
+      "원래 소 두 마리 목에 걸어 함께 끌게 하는 멍에(枷)야. 거기서 '결합/속박' 뜻이 나왔어.",
+      "throw off the yoke = 멍에를 벗어던지다 = 속박에서 벗어나다. 압제로부터의 해방을 뜻해.",
+      "egg yolk(달걀노른자)의 yolk랑 헷갈리지 마! yoke는 멍에, yolk는 노른자야."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "zany",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "익살스러운",
+      "우스운",
+      "얼빠진",
+      "바보 같은",
+      "멍한",
+      "어리광대"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "silly",
+        "note": "바보 같은, 어리석은"
+      },
+      {
+        "word": "foolish",
+        "note": "어리석은, 분별없는"
+      },
+      {
+        "word": "half-witted",
+        "note": "머리가 나쁜, 멍청한"
+      },
+      {
+        "word": "absent-minded",
+        "note": "멍한, 정신이 딴 데 팔린"
+      }
+    ],
+    "tips": [
+      "이탈리아 희극(commedia dell'arte)에서 광대를 흉내 내는 조수 역할 이름에서 왔어.",
+      "zany comedy = 정신없이 웃긴 코미디. slapstick 느낌의 과장된 우스꽝스러움이야.",
+      "형용사로 '우스꽝스러운', 명사로 '어릿광대' 둘 다 쓸 수 있어."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "zeal",
+    "pos": "n.",
+    "head_meanings": [
+      "열심",
+      "열의",
+      "열정",
+      "열광"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "passion",
+        "note": "강렬한 감정, 열정"
+      },
+      {
+        "word": "ardour",
+        "note": "불타는 듯한 열정"
+      },
+      {
+        "word": "fervor",
+        "note": "뜨거운 열의, 열렬함"
+      },
+      {
+        "word": "avidity",
+        "note": "탐욕스러울 정도의 열망"
+      },
+      {
+        "word": "devotion",
+        "note": "헌신, 전념하는 열의"
+      },
+      {
+        "word": "enthusiasm",
+        "note": "적극적인 열의, 흥분"
+      },
+      {
+        "word": "gusto",
+        "note": "신나서 즐기는 열정"
+      },
+      {
+        "word": "fanaticism",
+        "note": "극단적인 열광, 광신"
+      }
+    ],
+    "tips": [
+      "zeal → zealous → zealot → zealotry, 이 가족을 한꺼번에 외워!",
+      "with zeal = 열정적으로. She pursued her studies with great zeal.",
+      "enthusiasm보다 더 강렬하고, 때로는 과할 수 있는 열정이야. 종교적/정치적 맥락에서 자주 써."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "zealot",
+    "pos": "n.",
+    "head_meanings": [
+      "열중자",
+      "열광자",
+      "광신자",
+      "열심당원"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "extremist",
+        "note": "극단주의자"
+      },
+      {
+        "word": "fanatic",
+        "note": "광신자, 열광적 지지자"
+      },
+      {
+        "word": "radical",
+        "note": "급진주의자"
+      },
+      {
+        "word": "fundamentalist",
+        "note": "근본주의자, 원리주의자"
+      },
+      {
+        "word": "hardliner",
+        "note": "강경파, 타협 없는 사람"
+      },
+      {
+        "word": "bigot",
+        "note": "편견에 사로잡힌 사람"
+      },
+      {
+        "word": "dogmatist",
+        "note": "독단주의자"
+      },
+      {
+        "word": "partisan",
+        "note": "열렬한 지지자, 당파적인 사람"
+      },
+      {
+        "word": "devotee",
+        "note": "헌신적인 신봉자, 열성 팬"
+      }
+    ],
+    "tips": [
+      "발음 주의! [ˈzɛlət] \"젤럿\"으로 읽어.",
+      "원래 고대 유대교의 열심당(Zealots)에서 온 말이야. 로마에 맞서 싸운 극렬 저항파였거든.",
+      "부정적 뉘앙스가 강해. 열정이 지나쳐서 위험한 수준인 사람을 가리켜."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "zealotry",
+    "pos": "n.",
+    "head_meanings": [
+      "열광",
+      "광신",
+      "열광적 행동"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "fanaticism",
+        "note": "광적인 열중, 광신적 행동"
+      }
+    ],
+    "tips": [
+      "`zealot`(광신자) + `-ry`(행위/상태) = 광신적 행동이야.",
+      "religious zealotry = 종교적 광신. 믿음이 지나쳐서 해로운 수준이 된 거야.",
+      "zeal(열정)은 긍정적일 수 있지만, zealotry는 거의 항상 부정적이야!"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "zealous",
+    "pos": "adj.",
+    "head_meanings": [
+      "열심인",
+      "열광적인",
+      "열망하여",
+      "열중하여"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "fervent",
+        "note": "뜨겁게 열정적인"
+      },
+      {
+        "word": "enthusiastic",
+        "note": "열의에 넘치는"
+      },
+      {
+        "word": "passionate",
+        "note": "강렬한 감정을 가진"
+      },
+      {
+        "word": "ardent",
+        "note": "불타는 듯이 열렬한"
+      },
+      {
+        "word": "fervid",
+        "note": "극도로 열정적인"
+      },
+      {
+        "word": "devoted",
+        "note": "헌신적인, 전념하는"
+      },
+      {
+        "word": "dedicated",
+        "note": "한 가지에 전심전력하는"
+      },
+      {
+        "word": "eager",
+        "note": "간절히 원하는, 열심인"
+      },
+      {
+        "word": "avid",
+        "note": "탐욕스러울 정도로 열중하는"
+      },
+      {
+        "word": "intense",
+        "note": "강렬한, 집중적인"
+      }
+    ],
+    "tips": [
+      "`zeal`(열정) + `-ous`(형용사) = 열정적인. 가장 기본적인 파생이야.",
+      "zealous advocate = 열렬한 옹호자. 긍정적으로도 쓸 수 있어 (zealot과 달리).",
+      "jealous(질투하는)랑 발음 비슷하니까 헷갈리지 마! zealous = 열정적인, jealous = 질투하는."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "zenith",
+    "pos": "n.",
+    "head_meanings": [
+      "천정",
+      "정점"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pinnacle",
+        "note": "가장 높은 꼭대기, 정점"
+      },
+      {
+        "word": "acme",
+        "note": "최고점, 절정"
+      },
+      {
+        "word": "apogee",
+        "note": "궤도의 최고점, 전성기"
+      },
+      {
+        "word": "culmination",
+        "note": "최종 도달점, 절정"
+      },
+      {
+        "word": "apex",
+        "note": "꼭대기, 정상"
+      }
+    ],
+    "tips": [
+      "원래 천문학 용어로 머리 바로 위 하늘의 가장 높은 점이야. 반대말은 nadir(최저점)!",
+      "at the zenith of his career = 그의 커리어 정점에서. 비유적으로 '전성기'란 뜻이야.",
+      "GRE에서 zenith ↔ nadir 쌍으로 자주 나와. 둘 다 외워두면 좋아!"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "zephyr",
+    "pos": "n.",
+    "head_meanings": [
+      "서풍",
+      "미풍",
+      "산들바람"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "breath of air",
+        "note": "살랑살랑 부는 가벼운 바람"
+      },
+      {
+        "word": "gentle wind",
+        "note": "부드러운 바람, 산들바람"
+      }
+    ],
+    "tips": [
+      "발음 주의! [ˈzɛfər] \"제퍼\"로 읽어.",
+      "그리스 신화의 서풍의 신 Zephyrus에서 온 말이야. 봄바람처럼 부드러운 바람을 뜻해.",
+      "GRE 지문에서 문학적 표현으로 나와. a gentle zephyr = 산들바람. tempest(폭풍)의 반대야."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "zest",
+    "pos": "n.",
+    "head_meanings": [
+      "흥미를 첨가하는 것",
+      "향미료",
+      "풍미",
+      "기분 좋은 자극",
+      "활기",
+      "생기를 주는 것",
+      "강한 흥미",
+      "열의",
+      "열정",
+      "진심에서 우러나는 기쁨"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "enthusiasm",
+        "note": "열의, 흥분된 관심"
+      },
+      {
+        "word": "gusto",
+        "note": "즐기며 하는 열정"
+      },
+      {
+        "word": "relish",
+        "note": "맛보듯 즐기는 기쁨"
+      },
+      {
+        "word": "eagerness",
+        "note": "간절한 열망, 열의"
+      },
+      {
+        "word": "zeal",
+        "note": "강렬한 열정"
+      },
+      {
+        "word": "fervor",
+        "note": "불타는 열의"
+      },
+      {
+        "word": "verve",
+        "note": "활기, 생기 넘치는 에너지"
+      },
+      {
+        "word": "liveliness",
+        "note": "생동감, 활발함"
+      },
+      {
+        "word": "vitality",
+        "note": "생명력, 활력"
+      },
+      {
+        "word": "energy",
+        "note": "에너지, 활동력"
+      },
+      {
+        "word": "exuberance",
+        "note": "넘치는 활기와 기쁨"
+      },
+      {
+        "word": "piquancy",
+        "note": "톡 쏘는 맛, 자극적인 풍미"
+      },
+      {
+        "word": "spice",
+        "note": "양념, 흥미를 더하는 요소"
+      }
+    ],
+    "tips": [
+      "레몬 껍질을 갈아낸 것도 zest라고 해! 요리에 풍미를 더하는 것에서 '활기/열정' 뜻이 왔어.",
+      "zest for life = 삶에 대한 열정. She has a great zest for adventure = 모험에 대한 열정이 대단해.",
+      "zeal이 진지한 열정이라면, zest는 즐거운 열정이야. 맛있는 걸 먹을 때의 설렘 같은 느낌!"
+    ]
+  },
+  {
+    "id": "094",
+    "word": "vulpine",
+    "pos": "adj.",
+    "head_meanings": [
+      "여우 같은",
+      "교활한",
+      "간사한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "cunning",
+        "note": "약삭빠른, 꾀 많은"
+      },
+      {
+        "word": "artful",
+        "note": "교묘한, 기술적으로 속이는"
+      },
+      {
+        "word": "foxy",
+        "note": "여우처럼 교활한"
+      },
+      {
+        "word": "wily",
+        "note": "책략이 많은, 간교한"
+      },
+      {
+        "word": "sly",
+        "note": "남몰래 꾸미는, 교활한"
+      }
+    ],
+    "tips": [
+      "`vulp-`는 라틴어로 여우란 뜻이야. 동물 형용사 패턴: vulpine(여우), lupine(늑대), bovine(소).",
+      "여우 하면 떠오르는 이미지 — 교활하고 약삭빠른 느낌이 딱 vulpine이야.",
+      "a vulpine smile = 교활한 미소. 겉으로는 웃지만 속으로 뭔가 꾸미는 느낌!"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "waif",
+    "pos": "n.",
+    "head_meanings": [
+      "부랑자",
+      "무리에서 벗어난 동물"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "vagabond",
+        "note": "떠돌이, 방랑자"
+      },
+      {
+        "word": "tramp",
+        "note": "부랑자, 떠돌이"
+      },
+      {
+        "word": "vagrant",
+        "note": "일정한 거처 없이 떠도는 사람"
+      },
+      {
+        "word": "stray",
+        "note": "무리에서 벗어난 동물/사람"
+      },
+      {
+        "word": "urchin",
+        "note": "거리의 부랑아, 개구쟁이"
+      },
+      {
+        "word": "ragamuffin",
+        "note": "누더기를 걸친 아이"
+      }
+    ],
+    "tips": [
+      "패션에서 waif look = 깡마른 모델 느낌. Kate Moss가 대표적인 waif 이미지야.",
+      "waifs and strays = 갈 곳 없는 사람들/동물들. 불쌍하고 돌봐줄 사람 없는 존재를 뜻해.",
+      "원래 주인 없는 물건이란 뜻이었는데, 보호자 없는 아이/동물로 의미가 확장됐어."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "wean",
+    "pos": "v.",
+    "head_meanings": [
+      "젖을 떼다",
+      "이유시키다",
+      "나쁜 버릇 따위를 버리게 하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "estrange",
+        "note": "멀어지게 하다, 소원하게 만들다"
+      },
+      {
+        "word": "alienate",
+        "note": "멀리하게 하다, 이간하다"
+      }
+    ],
+    "tips": [
+      "아기 젖 떼는 거에서 시작해서, 비유적으로 '의존에서 벗어나게 하다'란 뜻이야.",
+      "wean someone off something = ~에서 떼어놓다. wean off caffeine = 카페인 끊게 하다.",
+      "GRE에서는 비유적 뜻이 중요해! wean a country off fossil fuels = 화석 연료 의존을 끊다."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "whinny",
+    "pos": "v./n.",
+    "head_meanings": [
+      "히힝 울다",
+      "히힝 울어 울음을 나타내다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "말(horse)이 히힝 우는 소리야. whine(칭얼거리다)과 어원이 비슷해.",
+      "neigh도 말 울음소리인데, whinny는 좀 더 낮고 부드러운 소리야.",
+      "의성어 계열이라 뜻 자체는 단순해! 동물 소리 단어: whinny(말), bray(당나귀), bleat(양)."
+    ]
+  },
+  {
+    "id": "098",
+    "word": "willowy",
+    "pos": "adj.",
+    "head_meanings": [
+      "버드나무 같은",
+      "가날픈",
+      "유연한",
+      "날씬한",
+      "버드나무가 많은"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`willow`(버드나무) + `-y` = 버드나무처럼 가늘고 유연한이야.",
+      "사람에게 쓰면 키가 크고 날씬하며 우아한 체형을 뜻해. a willowy dancer = 가냘프고 우아한 댄서.",
+      "수양버들이 바람에 흔들리는 모습 떠올려봐. 그 유연하고 가느다란 느낌이 willowy야."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "wiretap",
+    "pos": "v./n.",
+    "head_meanings": [
+      "도청하다",
+      "정보를 도청하여 입수하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`wire`(전선) + `tap`(두드리다/빼내다) = 전선을 건드려서 정보를 빼내다 = 도청이야.",
+      "스파이 영화에서 전화선에 장치 달아서 몰래 듣는 거! FBI wiretapped his phone.",
+      "요즘은 물리적 전선이 아니라 디지털 감시도 wiretap이라고 불러."
+    ]
+  },
+  {
+    "id": "100",
+    "word": "wont",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "상습",
+      "관습"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "habit",
+        "note": "습관, 버릇처럼 반복하는 행동"
+      },
+      {
+        "word": "practice",
+        "note": "관행, 관례적으로 하는 일"
+      },
+      {
+        "word": "convention",
+        "note": "관습, 사회적으로 통용되는 방식"
+      }
+    ],
+    "tips": [
+      "발음 주의! [wɔːnt] 또는 [woʊnt] \"원트\"로 읽어. won't(will not)이랑 다른 단어야!",
+      "GRE 함정 단어! 일상에서 잘 안 쓰지만 GRE 단골이야. as is his wont = 그의 습관대로.",
+      "be wont to do = ~하는 버릇이 있다. He was wont to rise early = 그는 일찍 일어나는 버릇이 있었다."
+    ]
+  }
+]
