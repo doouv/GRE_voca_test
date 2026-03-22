@@ -1,0 +1,3400 @@
+[
+  {
+    "id": "001",
+    "word": "adulation",
+    "pos": "n.",
+    "head_meanings": [
+      "아첨",
+      "알랑거림",
+      "아양"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "worship",
+        "note": "숭배 수준의 과한 칭찬이라는 점에서 유사"
+      },
+      {
+        "word": "idolization",
+        "note": "우상화할 정도로 떠받드는 것"
+      },
+      {
+        "word": "adoration",
+        "note": "깊은 존경과 사랑을 담은 칭찬"
+      },
+      {
+        "word": "admiration",
+        "note": "감탄하며 칭찬하는 것"
+      },
+      {
+        "word": "veneration",
+        "note": "경외심을 담은 존경"
+      },
+      {
+        "word": "awe",
+        "note": "경외감, 압도적인 존경"
+      },
+      {
+        "word": "devotion",
+        "note": "헌신적으로 따르는 것"
+      },
+      {
+        "word": "glorification",
+        "note": "영광스럽게 높이는 것"
+      },
+      {
+        "word": "praise",
+        "note": "칭찬, 가장 기본적인 유의어"
+      },
+      {
+        "word": "compliment",
+        "note": "좋게 말해주는 것"
+      },
+      {
+        "word": "cajolery",
+        "note": "감언이설로 꼬시는 것"
+      },
+      {
+        "word": "flattery",
+        "note": "빈말로 비위를 맞추는 것"
+      },
+      {
+        "word": "blandishments",
+        "note": "달콤한 말로 구슬리는 것"
+      },
+      {
+        "word": "sycophancy",
+        "note": "권력자에게 아부하는 것"
+      }
+    ],
+    "tips": [
+      "`ad-`(to) + `ul-`(꼬리치다)에서 온 말이야. 꼬리치면서 아첨하는 거 생각해봐!",
+      "adulation은 그냥 칭찬이 아니라 과한 아첨이야. '선배 너무 멋있어요~' 이런 알랑거림 느낌이거든.",
+      "동사형 adulate, 형용사형 adulatory도 같이 외워두면 좋아!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "adulate",
+    "pos": "v.",
+    "head_meanings": [
+      "아첨하다",
+      "알랑거리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "adulation의 동사형이야. '~에게 아첨하다'라는 뜻이거든.",
+      "`ad-`(to) + `ulate`(꼬리치다) → 누군가에게 꼬리치며 아첨하는 거야.",
+      "She adulated her boss shamelessly. 이렇게 쓰여. 뻔뻔하게 사장한테 아부했다는 뜻!"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "adulating",
+    "pos": "adj.",
+    "head_meanings": [
+      "아첨하는",
+      "알랑거리는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "adulate의 현재분사형이야. 형용사로 '아첨하는'이란 뜻이거든.",
+      "an adulating crowd = 열광적으로 떠받드는 군중. 이런 식으로 쓰여!",
+      "adulatory랑 거의 같은 뜻인데, adulating이 좀 더 진행감이 있어."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "adulatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "아첨하는",
+      "알랑거리는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "flattering",
+        "note": "비위 맞추는, 아부하는"
+      },
+      {
+        "word": "complimentary",
+        "note": "칭찬하는, 좋게 말하는"
+      },
+      {
+        "word": "reverential",
+        "note": "경외하는, 깊이 존경하는"
+      },
+      {
+        "word": "eulogistic",
+        "note": "찬사를 보내는, 칭송하는"
+      },
+      {
+        "word": "laudatory",
+        "note": "칭찬하는, 찬양하는"
+      },
+      {
+        "word": "fulsome",
+        "note": "지나치게 아부하는, 과도한 칭찬의"
+      },
+      {
+        "word": "honeyed",
+        "note": "달콤한 말로 구슬리는"
+      }
+    ],
+    "tips": [
+      "adulation의 형용사형이야. adulatory comments = 아첨하는 말들.",
+      "fulsome이랑 같이 나오면 둘 다 '과한 칭찬'이라는 뉘앙스야. 부정적인 느낌 있어!",
+      "laudatory는 긍정적 칭찬, adulatory는 아부성 칭찬. 이 차이 기억해둬!"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "adulterate",
+    "pos": "v.",
+    "head_meanings": [
+      "불순물을 섞어 품질을 낮추다",
+      "희석하다",
+      "혼합하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "contaminate",
+        "note": "오염시켜 품질을 떨어뜨리는 것"
+      },
+      {
+        "word": "dilute",
+        "note": "희석해서 농도나 품질을 낮추는 것"
+      },
+      {
+        "word": "weaken",
+        "note": "약하게 만드는 것"
+      },
+      {
+        "word": "depreciate",
+        "note": "가치를 떨어뜨리는 것"
+      }
+    ],
+    "tips": [
+      "`adult-`(다른 것을) + `-erate`(만들다) → 원래 것에 다른 걸 섞어서 질을 떨어뜨리는 거야.",
+      "우유에 물 타는 거 생각하면 돼. 순수한 걸 섞어서 망치는 거거든!",
+      "unadulterated = 순수한, 섞이지 않은. 이 반의어도 GRE에 잘 나와!"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "adumbrate",
+    "pos": "v.",
+    "head_meanings": [
+      "암시하다",
+      "윤곽을 나타내다",
+      "희미하게 그리다",
+      "예시하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "suggest",
+        "note": "넌지시 암시하는 것"
+      },
+      {
+        "word": "disclose",
+        "note": "살짝 드러내는 것"
+      },
+      {
+        "word": "foreshadow",
+        "note": "앞으로 올 일을 미리 암시하는 것"
+      },
+      {
+        "word": "outline",
+        "note": "윤곽만 잡아주는 것"
+      }
+    ],
+    "tips": [
+      "발음: [ˈædʌmbreɪt] \"애덤브레이트\". `ad-`(to) + `umbr-`(shadow, 그림자) → 그림자를 드리우다 → 암시하다.",
+      "미래를 살짝 암시하거나, 대략적인 윤곽만 잡아주는 느낌이야. 디테일 없이 어렴풋이!",
+      "umbrella도 `umbr-`(그림자)에서 왔어. 그림자를 만들어주는 우산이잖아!"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "advent",
+    "pos": "n.",
+    "head_meanings": [
+      "출현",
+      "도래",
+      "강림"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "approach",
+        "note": "다가오는 것"
+      },
+      {
+        "word": "reaching",
+        "note": "도달하는 것"
+      },
+      {
+        "word": "coming",
+        "note": "오는 것, 도래"
+      },
+      {
+        "word": "onset",
+        "note": "시작, 개시"
+      },
+      {
+        "word": "beginning",
+        "note": "시작점"
+      },
+      {
+        "word": "appearance",
+        "note": "등장, 나타남"
+      }
+    ],
+    "tips": [
+      "`ad-`(to) + `vent-`(come, 오다) → 무언가가 다가오는 것이야.",
+      "the advent of the Internet = 인터넷의 출현/도래. 이런 식으로 중요한 것의 등장에 써!",
+      "adventure(모험)도 `vent-`(오다)에서 왔어. 앞으로 올 일에 뛰어드는 거잖아!"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "adventitious",
+    "pos": "adj.",
+    "head_meanings": [
+      "우연의",
+      "외래의",
+      "부수적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "chance",
+        "note": "우연히 일어나는"
+      },
+      {
+        "word": "circumstantial",
+        "note": "상황에 의한, 우발적인"
+      },
+      {
+        "word": "unessential",
+        "note": "본질적이지 않은, 부수적인"
+      },
+      {
+        "word": "fortuitous",
+        "note": "우연한, 뜻밖의"
+      }
+    ],
+    "tips": [
+      "advent(도래)에서 왔지만 뜻이 다르니 주의해! '우연히 들어온, 외부에서 온'이라는 뜻이야.",
+      "생물학에서 adventitious roots = 부정근(우연히 생긴 뿌리). 원래 있어야 할 곳이 아닌 데서 나온 거거든!",
+      "fortuitous, accidental이랑 비슷한데, adventitious는 '외부에서 우연히 온' 느낌이 더 강해."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "adversarial",
+    "pos": "adj.",
+    "head_meanings": [
+      "적대적인",
+      "대립하는",
+      "반목하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "antagonistic",
+        "note": "적대적으로 맞서는"
+      }
+    ],
+    "tips": [
+      "`ad-`(toward) + `vers-`(turn, 돌다) → 반대쪽으로 돌아선 → 적대적인.",
+      "adversarial relationship = 적대적 관계. 법정에서 검찰 vs 변호사 같은 관계야!",
+      "adversary(적), adverse(불리한), adversity(역경) 다 같은 어근이야. 전부 '반대로 돌아선' 느낌!"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "adversary",
+    "pos": "n.",
+    "head_meanings": [
+      "적수",
+      "상대편",
+      "반대자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "competitor",
+        "note": "경쟁하는 상대"
+      },
+      {
+        "word": "antagonist",
+        "note": "적대자, 맞서는 사람"
+      },
+      {
+        "word": "foe",
+        "note": "적, 원수"
+      },
+      {
+        "word": "rival",
+        "note": "경쟁자, 라이벌"
+      }
+    ],
+    "tips": [
+      "`ad-`(toward) + `vers-`(turn) → 나를 향해 돌아선 사람 → 적수.",
+      "enemy보다 격식 있는 표현이야. 정치적 적수나 논쟁 상대에 주로 써!",
+      "ally(동맹)의 반의어로 자주 출제돼. adversary ↔ ally 세트로 기억해!"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "adverse",
+    "pos": "adj.",
+    "head_meanings": [
+      "불리한",
+      "불운한",
+      "반대의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "contrary",
+        "note": "반대되는, 역행하는"
+      },
+      {
+        "word": "untoward",
+        "note": "뜻밖에 불리한"
+      },
+      {
+        "word": "counter",
+        "note": "반대 방향의"
+      },
+      {
+        "word": "negative",
+        "note": "부정적인, 좋지 않은"
+      },
+      {
+        "word": "opposing",
+        "note": "맞서는, 반대하는"
+      }
+    ],
+    "tips": [
+      "adverse effects = 부작용, adverse conditions = 불리한 조건. 이렇게 자주 쓰여!",
+      "averse(싫어하는)랑 헷갈리지 마! adverse는 '불리한 상황', averse는 '싫어하는 감정'이야.",
+      "`ad-`(toward) + `verse`(turn) → 나에게 불리하게 돌아가는 → 불리한."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "adversity",
+    "pos": "n.",
+    "head_meanings": [
+      "역경",
+      "불운",
+      "불행"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "trouble",
+        "note": "문제, 어려움"
+      },
+      {
+        "word": "hardship",
+        "note": "고난, 곤궁"
+      },
+      {
+        "word": "difficulty",
+        "note": "어려움, 곤란"
+      },
+      {
+        "word": "trial",
+        "note": "시련, 시험"
+      },
+      {
+        "word": "affliction",
+        "note": "고통, 괴로움"
+      }
+    ],
+    "tips": [
+      "adverse의 명사형이야. '불리한 상황' 자체를 가리키는 거거든.",
+      "in the face of adversity = 역경에 맞서. GRE 독해에서 자주 나오는 표현이야!",
+      "prosperity(번영)의 반의어로 출제돼. adversity ↔ prosperity 세트로 외워!"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "advertent",
+    "pos": "adj.",
+    "head_meanings": [
+      "주의 깊은",
+      "조심하는",
+      "신중한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ad-`(to) + `vert-`(turn, 돌다) → 주의를 돌리는 → 주의 깊은.",
+      "inadvertent(부주의한, 의도치 않은)가 GRE에 훨씬 자주 나와! inadvertent error = 부주의로 인한 실수.",
+      "advertise(광고하다)도 같은 어근이야. 사람들의 주의를 돌리게 하는 거잖아!"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "advocate",
+    "pos": "n./v.",
+    "head_meanings": [
+      "옹호하다",
+      "주장하다",
+      "주창하다",
+      "옹호자",
+      "대변자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "champion",
+        "note": "앞장서서 옹호하는 사람/하다"
+      },
+      {
+        "word": "support",
+        "note": "지지하다, 뒷받침하다"
+      },
+      {
+        "word": "espouse",
+        "note": "주의나 대의를 지지하다"
+      },
+      {
+        "word": "encourage",
+        "note": "격려하다, 장려하다"
+      },
+      {
+        "word": "advance",
+        "note": "촉진하다, 앞으로 밀어주다"
+      },
+      {
+        "word": "further",
+        "note": "더 나아가게 돕다"
+      },
+      {
+        "word": "supporter",
+        "note": "지지자"
+      },
+      {
+        "word": "upholder",
+        "note": "옹호자, 지키는 사람"
+      },
+      {
+        "word": "backer",
+        "note": "후원자"
+      },
+      {
+        "word": "pleader",
+        "note": "탄원자, 변호하는 사람"
+      },
+      {
+        "word": "promoter",
+        "note": "촉진자, 홍보하는 사람"
+      }
+    ],
+    "tips": [
+      "`ad-`(to) + `voc-`(voice, 목소리) → 목소리를 내다 → 옹호하다.",
+      "명사로는 '옹호자', 동사로는 '옹호하다'야. She advocates for human rights. 이렇게 써!",
+      "GRE에서 동사로 자주 나와. proponent(지지자)이랑 같이 외워두면 좋아!"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "aesthete",
+    "pos": "n.",
+    "head_meanings": [
+      "심미가",
+      "예술 애호가",
+      "심미안이 있는 사람"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `aisthetes`(감각하는 사람)에서 왔어. 아름다움을 감각하는 사람이야!",
+      "aesthete는 약간 부정적 뉘앙스도 있어. '예술 좀 안다고 잘난 척하는 사람' 느낌도 있거든.",
+      "aesthetic(심미적인), aesthetics(미학)이랑 한 가족이야. 다 '미'와 관련된 단어!"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "aesthetic",
+    "pos": "adj.",
+    "head_meanings": [
+      "심미적인",
+      "미학의",
+      "미적 감각 있는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "artistic",
+        "note": "예술적인"
+      },
+      {
+        "word": "tasteful",
+        "note": "품위 있는, 세련된"
+      },
+      {
+        "word": "graceful",
+        "note": "우아한"
+      },
+      {
+        "word": "elegant",
+        "note": "고상한, 세련된"
+      },
+      {
+        "word": "exquisite",
+        "note": "정교하고 아름다운"
+      },
+      {
+        "word": "beautiful",
+        "note": "아름다운"
+      },
+      {
+        "word": "attractive",
+        "note": "매력적인"
+      },
+      {
+        "word": "pleasing",
+        "note": "보기 좋은"
+      },
+      {
+        "word": "lovely",
+        "note": "사랑스럽고 아름다운"
+      }
+    ],
+    "tips": [
+      "요즘 SNS에서 '이거 진짜 aesthetic하다~' 이렇게 쓰잖아. 그 느낌 그대로야!",
+      "그리스어 `aisthesis`(감각, 지각)에서 왔어. 감각적으로 아름다운 거야.",
+      "GRE에서는 '기능적'이 아니라 '미적인' 관점을 강조할 때 나와. aesthetic vs functional 대비!"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "aesthetics",
+    "pos": "n.",
+    "head_meanings": [
+      "미학",
+      "미적 가치관",
+      "미의식"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "aesthetic의 명사형이야. 철학의 한 분야로서 '아름다움이란 무엇인가'를 탐구하는 학문이거든.",
+      "the aesthetics of the building = 그 건물의 미적 요소. 이런 식으로 복수형으로 많이 써!",
+      "ethics(윤리학), politics(정치학)처럼 -ics로 끝나는 학문 이름이야."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "affable",
+    "pos": "adj.",
+    "head_meanings": [
+      "상냥한",
+      "붙임성 있는",
+      "사근사근한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "easygoing",
+        "note": "느긋하고 편한 사람"
+      },
+      {
+        "word": "amiable",
+        "note": "다정하고 상냥한"
+      },
+      {
+        "word": "even-tempered",
+        "note": "성격이 차분하고 고른"
+      },
+      {
+        "word": "placid",
+        "note": "온화하고 차분한"
+      },
+      {
+        "word": "genial",
+        "note": "친절하고 쾌활한"
+      },
+      {
+        "word": "cordial",
+        "note": "진심으로 따뜻한"
+      },
+      {
+        "word": "gracious",
+        "note": "품위 있게 친절한"
+      },
+      {
+        "word": "congenial",
+        "note": "성격이 잘 맞는, 마음에 드는"
+      },
+      {
+        "word": "sociable",
+        "note": "사교적인, 잘 어울리는"
+      }
+    ],
+    "tips": [
+      "`af-`(to) + `fable`(말할 수 있는, from `fari` = speak) → 말 걸기 쉬운 → 상냥한.",
+      "카페 사장님이 항상 웃으면서 '어서 오세요~' 하는 느낌이야. 다가가기 편한 사람!",
+      "amiable, genial, cordial 다 '친절한'인데, affable은 특히 '말 걸기 편한' 느낌이 강해."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "affect",
+    "pos": "v.",
+    "head_meanings": [
+      "~인 척하다",
+      "가장하다",
+      "영향을 미치다",
+      "감명을 주다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! 일상에서는 '영향을 미치다'로 쓰지만, GRE에서는 '~인 척하다/가장하다'로 출제돼!",
+      "`af-`(to) + `fect`(make, do) → 일부러 만들어내다 → 가장하다. She affected indifference. = 무관심한 척했다.",
+      "affect(가장하다) vs effect(결과/효과) 헷갈리지 마! GRE에서는 affect의 '척하다' 뜻을 노려!"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "affected",
+    "pos": "adj.",
+    "head_meanings": [
+      "가식적인",
+      "꾸민",
+      "체하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pompous",
+        "note": "거들먹거리는, 허세 부리는"
+      },
+      {
+        "word": "conceited",
+        "note": "자만하는, 잘난 체하는"
+      },
+      {
+        "word": "artificial",
+        "note": "인위적인, 자연스럽지 않은"
+      },
+      {
+        "word": "grandiloquent",
+        "note": "거창하게 말하는, 과장된"
+      },
+      {
+        "word": "pretentious",
+        "note": "허세 부리는, 잘난 척하는"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! '영향받은'이 아니라 '꾸민, 가식적인'으로 출제돼!",
+      "affect(가장하다)의 과거분사형이야. 진심이 아니라 일부러 꾸민 거거든.",
+      "an affected accent = 일부러 꾸민 억양. 있어 보이려고 말투 바꾸는 사람 생각해봐!"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "affiliation",
+    "pos": "n.",
+    "head_meanings": [
+      "제휴",
+      "가입",
+      "합병"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "relationship",
+        "note": "관계, 연관"
+      },
+      {
+        "word": "union",
+        "note": "결합, 연합"
+      },
+      {
+        "word": "alliance",
+        "note": "동맹, 제휴"
+      },
+      {
+        "word": "combination",
+        "note": "결합, 조합"
+      },
+      {
+        "word": "association",
+        "note": "연합, 협회"
+      }
+    ],
+    "tips": [
+      "`af-`(to) + `fili-`(son, 아들) → 아들로 삼다 → 가입시키다 → 제휴.",
+      "political affiliation = 정당 소속. '어디에 소속되어 있느냐'를 말할 때 많이 써!",
+      "affiliate(제휴하다/계열사)도 같은 어원이야. 유튜브 affiliate 링크 할 때 그 affiliate 맞아!"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "affinity",
+    "pos": "n.",
+    "head_meanings": [
+      "친근감",
+      "호감",
+      "유사성",
+      "친화력",
+      "~와 유사함/친밀함"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "liking",
+        "note": "좋아함, 호감"
+      },
+      {
+        "word": "fondness",
+        "note": "애정, 좋아하는 마음"
+      },
+      {
+        "word": "inclination",
+        "note": "끌림, 경향"
+      },
+      {
+        "word": "empathy",
+        "note": "공감, 감정이입"
+      },
+      {
+        "word": "rapport",
+        "note": "친밀한 관계, 유대감"
+      },
+      {
+        "word": "sympathy",
+        "note": "동정, 공감"
+      },
+      {
+        "word": "accord",
+        "note": "일치, 조화"
+      },
+      {
+        "word": "harmony",
+        "note": "조화, 화합"
+      },
+      {
+        "word": "bond",
+        "note": "유대, 결속"
+      },
+      {
+        "word": "closeness",
+        "note": "가까움, 친밀함"
+      },
+      {
+        "word": "chemistry",
+        "note": "서로 잘 맞는 느낌"
+      },
+      {
+        "word": "similarity",
+        "note": "유사성, 비슷함"
+      },
+      {
+        "word": "resemblance",
+        "note": "닮음, 유사"
+      },
+      {
+        "word": "likeness",
+        "note": "비슷함, 유사"
+      },
+      {
+        "word": "kinship",
+        "note": "친족 관계, 유사성"
+      },
+      {
+        "word": "correspondence",
+        "note": "일치, 대응"
+      }
+    ],
+    "tips": [
+      "`af-`(to) + `fin-`(end, 경계) → 경계가 맞닿은 → 가까운 관계 → 친밀감.",
+      "have an affinity for music = 음악에 대한 친근감이 있다. '자연스럽게 끌리는' 느낌이야!",
+      "affinities with ~로 쓰면 '~와의 유사점/친밀함'이라는 뜻이야. 전치사 with/for 둘 다 가능해!"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "affirmation",
+    "pos": "n.",
+    "head_meanings": [
+      "확인",
+      "긍정",
+      "증언"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ratification",
+        "note": "비준, 공식 승인"
+      },
+      {
+        "word": "consent",
+        "note": "동의, 승낙"
+      },
+      {
+        "word": "approval",
+        "note": "승인, 찬성"
+      },
+      {
+        "word": "endorsement",
+        "note": "지지, 보증"
+      }
+    ],
+    "tips": [
+      "`af-`(to) + `firm-`(strong, 강한) → 강하게 말하다 → 확언하다 → 확인.",
+      "요즘 유행하는 '긍정 확언(affirmation)'도 이 단어야. 거울 보고 '나는 할 수 있어!' 하는 거!",
+      "affirmation ↔ denial(부정). 이 반의어 쌍 기억해둬!"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "affirmative",
+    "pos": "adj.",
+    "head_meanings": [
+      "긍정의",
+      "확언적인",
+      "긍정적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "positive",
+        "note": "긍정적인, 확인하는"
+      }
+    ],
+    "tips": [
+      "affirmative action = 소수자 우대 정책. 미국 사회에서 아주 중요한 개념이야!",
+      "군대나 무전에서 'Affirmative!' = '긍정! 알겠습니다!' 이런 느낌이야.",
+      "negative(부정의)의 반의어. affirmative answer = 긍정적 대답 = 'Yes'라는 뜻이거든."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "affirming",
+    "pos": "adj.",
+    "head_meanings": [
+      "확인하는",
+      "지지하는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "affirm의 현재분사형이야. '단언하는, 확인해주는'이라는 뜻이거든.",
+      "life-affirming = 삶을 긍정하는. 이런 합성어로 자주 쓰여!",
+      "an affirming nod = 확인하는 고개 끄덕임. 동의의 표시야."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "affirm",
+    "pos": "v.",
+    "head_meanings": [
+      "단언하다",
+      "확인하다",
+      "지지하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`af-`(to) + `firm`(강한, 확고한) → 확고하게 말하다 → 단언하다.",
+      "The court affirmed the decision. = 법원이 판결을 확인했다. 법률 문맥에서 자주 나와!",
+      "affirm ↔ deny(부정하다). 이 반의어 쌍 꼭 기억해!"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "afflict",
+    "pos": "v.",
+    "head_meanings": [
+      "괴롭히다",
+      "고통을 주다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`af-`(to) + `flict`(strike, 치다) → 때리다 → 괴롭히다.",
+      "be afflicted with a disease = 질병에 시달리다. 주로 수동태로 많이 쓰여!",
+      "conflict(충돌)도 `flict`(치다)에서 왔어. 서로 부딪히는 거잖아!"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "affluence",
+    "pos": "n.",
+    "head_meanings": [
+      "풍요",
+      "풍부",
+      "부유함"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "well-being",
+        "note": "안녕, 복지"
+      },
+      {
+        "word": "plenty",
+        "note": "풍부, 넉넉함"
+      },
+      {
+        "word": "prosperity",
+        "note": "번영, 번창"
+      }
+    ],
+    "tips": [
+      "`af-`(to) + `flu-`(flow, 흐르다) → 돈이 흘러들어오는 → 풍요.",
+      "affluent society = 풍요로운 사회. 물질적으로 풍족한 걸 말하는 거야!",
+      "influence(영향력)도 `flu-`(흐르다)에서 왔어. 안으로 흘러드는 힘이거든!"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "affluent",
+    "pos": "adj.",
+    "head_meanings": [
+      "풍요한",
+      "부유한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "abundant",
+        "note": "풍부한, 넉넉한"
+      }
+    ],
+    "tips": [
+      "affluence의 형용사형이야. an affluent neighborhood = 부유한 동네.",
+      "`af-`(to) + `flu-`(flow) → 재물이 흘러넘치는 → 부유한.",
+      "wealthy, rich보다 격식 있는 표현이야. GRE 지문에서 자주 등장해!"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "affront",
+    "pos": "n./v.",
+    "head_meanings": [
+      "모욕하다",
+      "욕보이다",
+      "모욕"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "provoke",
+        "note": "도발하다, 화나게 하다"
+      },
+      {
+        "word": "insult",
+        "note": "모욕하다, 욕하다"
+      }
+    ],
+    "tips": [
+      "`af-`(to) + `front`(얼굴, 앞) → 얼굴에 대고 하다 → 면전에서 모욕하다.",
+      "an affront to dignity = 존엄에 대한 모욕. 공개적이고 직접적인 모욕이야!",
+      "insult보다 더 격식 있고 심각한 느낌이야. 대놓고 면전에서 하는 모욕이거든."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "agape",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "입을 딱 벌리고",
+      "아연실색하여",
+      "아가페(신의 사랑)"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "gaping",
+        "note": "입을 쩍 벌린"
+      },
+      {
+        "word": "astonished",
+        "note": "깜짝 놀란"
+      },
+      {
+        "word": "stupefied",
+        "note": "어리둥절한, 멍해진"
+      },
+      {
+        "word": "amazed",
+        "note": "놀란, 경탄한"
+      },
+      {
+        "word": "dumbfounded",
+        "note": "말문이 막힌, 아연실색한"
+      },
+      {
+        "word": "awestruck",
+        "note": "경외감에 사로잡힌"
+      },
+      {
+        "word": "agog",
+        "note": "흥분한, 열망하는"
+      }
+    ],
+    "tips": [
+      "발음 주의! [əˈɡeɪp] \"어게이프\" = 입 벌린 vs [ˈɑːɡəpeɪ] \"아가페\" = 신의 사랑. 완전 다른 뜻이야!",
+      "stood agape = 입을 딱 벌리고 서 있었다. 너무 놀라서 입이 벌어진 거야!",
+      "`a-`(on) + `gape`(하품하다, 입 벌리다) → 입이 벌어진 상태 → 놀란."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "agenda",
+    "pos": "n.",
+    "head_meanings": [
+      "의제",
+      "의사 일정",
+      "협의 사항"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "docket",
+        "note": "안건 목록, 일정표"
+      },
+      {
+        "word": "program",
+        "note": "프로그램, 계획"
+      },
+      {
+        "word": "schedule",
+        "note": "일정, 스케줄"
+      },
+      {
+        "word": "timetable",
+        "note": "시간표, 일정표"
+      }
+    ],
+    "tips": [
+      "라틴어 `agere`(하다, 행동하다)에서 온 말이야. '해야 할 것들의 목록'이라는 뜻!",
+      "hidden agenda = 숨겨진 의도. 겉으로는 안 드러나는 진짜 목적을 말해!",
+      "일상에서도 많이 쓰는 단어지? What's on the agenda? = 오늘 뭐 할 거야?"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "agglomeration",
+    "pos": "n.",
+    "head_meanings": [
+      "덩어리",
+      "더미",
+      "응집"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "accumulation",
+        "note": "축적, 쌓임"
+      },
+      {
+        "word": "combination",
+        "note": "결합, 조합"
+      },
+      {
+        "word": "cohesion",
+        "note": "응집, 결합"
+      },
+      {
+        "word": "conglomeration",
+        "note": "뒤섞인 덩어리, 집합체"
+      },
+      {
+        "word": "amassment",
+        "note": "모음, 축적"
+      }
+    ],
+    "tips": [
+      "`ag-`(to) + `glomer-`(ball, 공) → 공처럼 뭉치다 → 덩어리.",
+      "여러 가지가 마구 뭉쳐진 덩어리야. 도시 주변에 건물들이 마구 붙어서 커진 거 같은 느낌!",
+      "conglomerate(대기업)도 비슷한 어원이야. 여러 사업이 뭉쳐진 덩어리 기업이거든!"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "aggrandize",
+    "pos": "v.",
+    "head_meanings": [
+      "확대하다",
+      "강화하다",
+      "과장하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "exaggerate",
+        "note": "과장하다, 부풀리다"
+      },
+      {
+        "word": "expand",
+        "note": "확장하다, 넓히다"
+      },
+      {
+        "word": "glorify",
+        "note": "영광스럽게 하다, 미화하다"
+      },
+      {
+        "word": "promote",
+        "note": "촉진하다, 승격시키다"
+      },
+      {
+        "word": "enlarge",
+        "note": "확대하다, 크게 하다"
+      }
+    ],
+    "tips": [
+      "`ag-`(to) + `grand-`(큰) → 크게 만들다 → 확대하다, 과장하다.",
+      "self-aggrandizing(자기 과시적인)이라는 파생어도 알아둬! 자기 권력이나 중요성을 부풀리는 거야.",
+      "GRE에서는 주로 '권력이나 지위를 확대하다'라는 뜻으로 나와. aggrandize one's power!"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "aggravate",
+    "pos": "v.",
+    "head_meanings": [
+      "악화시키다",
+      "가중시키다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "exacerbate",
+        "note": "상황이나 문제를 더 나쁘게 만드는 것"
+      },
+      {
+        "word": "intensify",
+        "note": "강도를 높이다, 심화시키다"
+      },
+      {
+        "word": "worsen",
+        "note": "더 나빠지게 하다"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! 일상에서는 '짜증나게 하다(annoy)'로 많이 쓰지만, GRE에서는 '악화시키다'가 핵심 뜻이야!",
+      "`ag-`(to) + `grav-`(heavy, 무거운) → 더 무겁게 하다 → 악화시키다. gravity(중력)도 같은 어근!",
+      "aggravate the situation = 상황을 악화시키다. exacerbate랑 거의 같은 뜻이야!"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "aggregate",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "총합의",
+      "총계의",
+      "집합하다",
+      "모으다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "clustered",
+        "note": "무리 지어 모인"
+      },
+      {
+        "word": "gathered",
+        "note": "모아진, 수집된"
+      },
+      {
+        "word": "assembled",
+        "note": "조립된, 모인"
+      },
+      {
+        "word": "collected",
+        "note": "수집된, 모인"
+      },
+      {
+        "word": "joined",
+        "note": "합쳐진, 결합된"
+      }
+    ],
+    "tips": [
+      "`ag-`(to) + `greg-`(flock, 무리) → 무리로 모으다 → 집합하다.",
+      "aggregate data = 종합 데이터. 여러 데이터를 합친 거야!",
+      "congregate(모이다), segregate(분리하다)도 같은 `greg-` 어근이야!"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "aggrieve",
+    "pos": "v.",
+    "head_meanings": [
+      "괴롭히다",
+      "고통을 주다",
+      "상심시키다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "afflict",
+        "note": "고통을 가하다"
+      },
+      {
+        "word": "distress",
+        "note": "괴롭히다, 고통을 주다"
+      },
+      {
+        "word": "pain",
+        "note": "아프게 하다, 고통을 주다"
+      },
+      {
+        "word": "depress",
+        "note": "우울하게 하다"
+      },
+      {
+        "word": "sadden",
+        "note": "슬프게 하다"
+      }
+    ],
+    "tips": [
+      "`ag-`(to) + `griev-`(heavy, 무거운) → 마음을 무겁게 하다 → 괴롭히다.",
+      "grievance(불만, 고충)도 같은 어원이야. 마음이 무거워지는 불만사항이거든!",
+      "aggrieved party = 피해 당사자. 법률 용어로도 자주 쓰여!"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "aghast",
+    "pos": "adj.",
+    "head_meanings": [
+      "깜짝 놀란",
+      "아연실색한",
+      "경악한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "astonished",
+        "note": "깜짝 놀란"
+      },
+      {
+        "word": "thunderstruck",
+        "note": "벼락 맞은 듯 놀란"
+      },
+      {
+        "word": "terrified",
+        "note": "겁에 질린"
+      },
+      {
+        "word": "amazed",
+        "note": "놀라운"
+      },
+      {
+        "word": "bewildered",
+        "note": "어리둥절한"
+      }
+    ],
+    "tips": [
+      "ghost(유령)에서 변형된 말이야! 유령을 본 것처럼 놀란 거지.",
+      "She stood aghast at the news. = 그 소식에 경악해서 서 있었다. 공포+놀람이 섞인 느낌!",
+      "appalled, horrified와 비슷한데, aghast는 특히 '얼어붙은 듯한 충격'이 강해."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "agility",
+    "pos": "n.",
+    "head_meanings": [
+      "민첩함",
+      "기민함",
+      "날렵함"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "alertness",
+        "note": "기민함, 주의 깊음"
+      },
+      {
+        "word": "quickness",
+        "note": "빠름, 신속함"
+      },
+      {
+        "word": "spryness",
+        "note": "날렵함, 활발함"
+      },
+      {
+        "word": "keenness",
+        "note": "예리함, 열의"
+      }
+    ],
+    "tips": [
+      "agile의 명사형이야. 몸이 빠르고 날렵한 것, 또는 머리가 기민한 것 둘 다 돼!",
+      "mental agility = 정신적 기민함. 머리 회전이 빠른 거야!",
+      "IT에서 'agile 방법론'도 여기서 온 거야. 빠르고 유연하게 개발하는 거잖아!"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "agile",
+    "pos": "adj.",
+    "head_meanings": [
+      "민첩한",
+      "기민한",
+      "날렵한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "nimble",
+        "note": "재빠른, 날렵한"
+      }
+    ],
+    "tips": [
+      "라틴어 `agilis`(움직이기 쉬운)에서 왔어. `ag-`(act, 행동하다) + `-ile`(~할 수 있는).",
+      "an agile mind = 기민한 두뇌. 몸뿐만 아니라 머리가 빠른 것에도 쓸 수 있어!",
+      "clumsy(서투른, 어색한)의 반의어야. agile ↔ clumsy 세트로 기억해!"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "agitate",
+    "pos": "v.",
+    "head_meanings": [
+      "선동하다",
+      "자극하다",
+      "동요시키다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "discompose",
+        "note": "마음을 어지럽히다"
+      },
+      {
+        "word": "distress",
+        "note": "괴롭히다, 불안하게 하다"
+      },
+      {
+        "word": "excite",
+        "note": "흥분시키다, 자극하다"
+      },
+      {
+        "word": "shake",
+        "note": "흔들다, 동요시키다"
+      },
+      {
+        "word": "trouble",
+        "note": "걱정시키다, 괴롭히다"
+      },
+      {
+        "word": "disconcert",
+        "note": "당황하게 하다"
+      }
+    ],
+    "tips": [
+      "`ag-`(act, 행동하다) + `-itate`(반복) → 계속 행동하게 만들다 → 선동하다.",
+      "세탁기의 agitator = 교반기. 빨래를 마구 흔들어 섞는 거잖아! 사람 마음도 그렇게 흔드는 거야.",
+      "agitate for change = 변화를 위해 선동하다. 사회 운동 맥락에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "aglow",
+    "pos": "adj./adv.",
+    "head_meanings": [
+      "빛나는",
+      "발갛게 달아오른",
+      "흥분한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "incandescent",
+        "note": "백열의, 환하게 빛나는"
+      }
+    ],
+    "tips": [
+      "`a-`(on, in) + `glow`(빛나다) → 빛나고 있는 상태.",
+      "Her face was aglow with excitement. = 그녀의 얼굴이 흥분으로 빛나고 있었다.",
+      "ablaze(불타는), alight(불이 붙은)처럼 a- + 형용사 패턴이야!"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "agnostic",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "불가지론자",
+      "불가지론의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "secularist",
+        "note": "세속주의자"
+      },
+      {
+        "word": "freethinker",
+        "note": "자유사상가"
+      },
+      {
+        "word": "skeptic",
+        "note": "회의론자"
+      },
+      {
+        "word": "doubter",
+        "note": "의심하는 사람"
+      },
+      {
+        "word": "unbeliever",
+        "note": "불신자"
+      }
+    ],
+    "tips": [
+      "`a-`(not) + `gnostic`(knowing, 아는) → 알 수 없다고 보는 사람 → 불가지론자.",
+      "atheist(무신론자)와 다르니 주의해! atheist는 '신이 없다', agnostic은 '알 수 없다'야.",
+      "요즘 IT에서 platform-agnostic = 플랫폼에 구애받지 않는. 이 용법도 알아둬!"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "agog",
+    "pos": "adj.",
+    "head_meanings": [
+      "흥분한",
+      "열망하는",
+      "몹시 궁금해하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "openmouthed",
+        "note": "입을 벌린, 놀란"
+      },
+      {
+        "word": "awestruck",
+        "note": "경외감에 사로잡힌"
+      },
+      {
+        "word": "enthralled",
+        "note": "매료된, 사로잡힌"
+      },
+      {
+        "word": "thrilled",
+        "note": "흥분한, 떨리는"
+      },
+      {
+        "word": "astir",
+        "note": "움직이는, 활기 띤"
+      },
+      {
+        "word": "worked up",
+        "note": "흥분한, 격앙된"
+      }
+    ],
+    "tips": [
+      "프랑스어 `en gogues`(즐거움 속에)에서 왔어. 기대에 차서 들뜬 느낌이야!",
+      "The kids were all agog about the trip. = 아이들이 여행에 완전 들떠 있었다.",
+      "agape(입 벌린)와 비슷하지만, agog는 '기대감으로 흥분한' 느낌이 더 강해!"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "agonize",
+    "pos": "v.",
+    "head_meanings": [
+      "몹시 괴로워하다",
+      "번민하다",
+      "괴롭히다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "torment",
+        "note": "괴롭히다, 고통을 주다"
+      },
+      {
+        "word": "torture",
+        "note": "고문하다, 극심한 고통을 주다"
+      },
+      {
+        "word": "anguish",
+        "note": "극심한 정신적 고통을 느끼다"
+      }
+    ],
+    "tips": [
+      "그리스어 `agon`(투쟁, 경쟁)에서 왔어. 마음속에서 치열한 싸움을 하는 거야!",
+      "agonize over a decision = 결정을 두고 몹시 고민하다. 이렇게 over와 자주 쓰여!",
+      "agony(고통), agonizing(고뇌하게 하는)이랑 한 가족이야!"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "agonizing",
+    "pos": "adj.",
+    "head_meanings": [
+      "고뇌하게 하는",
+      "극심한",
+      "괴로운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "excruciating",
+        "note": "극심하게 고통스러운"
+      },
+      {
+        "word": "harrowing",
+        "note": "끔찍하게 괴로운"
+      },
+      {
+        "word": "acute",
+        "note": "극심한, 날카로운"
+      },
+      {
+        "word": "severe",
+        "note": "심한, 가혹한"
+      },
+      {
+        "word": "torturous",
+        "note": "고문 같은, 극심한"
+      },
+      {
+        "word": "tormenting",
+        "note": "괴롭히는"
+      },
+      {
+        "word": "piercing",
+        "note": "찌르는 듯한"
+      },
+      {
+        "word": "grievous",
+        "note": "심각한, 비통한"
+      }
+    ],
+    "tips": [
+      "agonize의 형용사형이야. an agonizing wait = 고통스러운 기다림.",
+      "excruciating이랑 거의 같은 강도야. 둘 다 '참을 수 없이 고통스러운' 느낌!",
+      "an agonizing decision = 고뇌 끝에 내리는 결정. 쉽게 못 정하는 그 괴로움이야."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "agony",
+    "pos": "n.",
+    "head_meanings": [
+      "고통",
+      "극심한 괴로움",
+      "번민"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "anguish",
+        "note": "극심한 정신적/육체적 고통"
+      },
+      {
+        "word": "pain",
+        "note": "고통, 아픔"
+      },
+      {
+        "word": "torture",
+        "note": "고문, 극심한 고통"
+      },
+      {
+        "word": "distress",
+        "note": "고통, 괴로움"
+      },
+      {
+        "word": "suffering",
+        "note": "고통, 시련"
+      }
+    ],
+    "tips": [
+      "그리스어 `agonia`(투쟁)에서 왔어. 고통 속에서 싸우는 거야!",
+      "in agony = 극심한 고통 속에. He was in agony after the injury. 이렇게 써!",
+      "ecstasy(황홀)의 반의어로 기억하면 좋아. agony ↔ ecstasy!"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "agreeable",
+    "pos": "adj.",
+    "head_meanings": [
+      "기분 좋은",
+      "상쾌한",
+      "동의하는",
+      "적합한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pleasant",
+        "note": "기분 좋은, 유쾌한"
+      },
+      {
+        "word": "pleasing",
+        "note": "마음에 드는"
+      },
+      {
+        "word": "pleasurable",
+        "note": "즐거운, 유쾌한"
+      },
+      {
+        "word": "enjoyable",
+        "note": "즐길 수 있는"
+      },
+      {
+        "word": "delightful",
+        "note": "아주 기쁜, 즐거운"
+      }
+    ],
+    "tips": [
+      "`agree`(동의하다) + `-able`(~할 수 있는) → 동의할 만한 → 기분 좋은.",
+      "Are you agreeable to this plan? = 이 계획에 동의해? '동의하는'이란 뜻으로도 쓰여!",
+      "disagreeable(불쾌한, 까다로운)이 반의어야. 성격이 까탈스러운 사람한테 쓰기도 해!"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "ahistoric(al)",
+    "pos": "adj",
+    "head_meanings": [
+      "역사와 관계없는",
+      "역사에 무관심한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "achronistic",
+        "note": "시간 순서를 무시하는"
+      },
+      {
+        "word": "nonhistorical",
+        "note": "역사적이지 않은"
+      },
+      {
+        "word": "unhistorical",
+        "note": "역사적 근거가 없는"
+      }
+    ],
+    "tips": [
+      "`a-`(없는) + `historic`(역사적인) = 역사와 관계없는. 접두사 a-가 부정이야.",
+      "역사적 맥락을 완전히 무시하는 태도를 말할 때 쓰여. 'an ahistorical approach'처럼.",
+      "GRE에서 '역사적 관점이 결여된'이라는 뉘앙스로 나와."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "aid",
+    "pos": "v/n",
+    "head_meanings": [
+      "돕다",
+      "조력하다",
+      "촉진하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "help",
+        "note": "가장 기본적인 도움"
+      },
+      {
+        "word": "assist",
+        "note": "보조적으로 돕다"
+      },
+      {
+        "word": "support",
+        "note": "뒷받침하다"
+      },
+      {
+        "word": "abet",
+        "note": "나쁜 일을 부추기며 돕다"
+      }
+    ],
+    "tips": [
+      "aid는 help보다 좀 더 격식 있는 표현이야. first aid(응급처치)로 익숙하지?",
+      "'aid and abet'은 법률 용어로 '방조하다'라는 뜻이야.",
+      "`aid`는 고대 프랑스어 `aider`에서 왔어."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "ailing",
+    "pos": "adj",
+    "head_meanings": [
+      "병든",
+      "병약한",
+      "몸이 편찮은"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "in poor health",
+        "note": "건강이 좋지 않은 상태"
+      },
+      {
+        "word": "ill",
+        "note": "아픈, 병든"
+      }
+    ],
+    "tips": [
+      "ail(아프다) + `-ing` = 아프고 있는. 사람뿐 아니라 경제나 회사에도 써.",
+      "'the ailing economy'처럼 비유적으로 '부진한'이라는 뜻으로도 많이 나와.",
+      "GRE에서 사람보다는 조직이나 시스템이 부진할 때 자주 등장해."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "aimless",
+    "pos": "adj",
+    "head_meanings": [
+      "목적이 없는",
+      "주견이 없는",
+      "막연한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "purposeless",
+        "note": "목적이 없는"
+      },
+      {
+        "word": "directionless",
+        "note": "방향이 없는"
+      }
+    ],
+    "tips": [
+      "`aim`(목표) + `-less`(없는) = 목표가 없는. 직관적이지?",
+      "'aimless wandering'은 목적 없이 배회하는 거야.",
+      "반의어 purposeful(목적이 뚜렷한)이랑 같이 외우면 좋아."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "aimlessness",
+    "pos": "n",
+    "head_meanings": [
+      "목적 없음",
+      "방향 없음"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "aimless의 명사형이야. `-ness`가 붙어서 상태를 나타내.",
+      "'a sense of aimlessness'처럼 목적 없는 느낌을 표현할 때 써.",
+      "GRE 지문에서 인물의 심리 상태를 묘사할 때 나올 수 있어."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "alacrity",
+    "pos": "n",
+    "head_meanings": [
+      "기꺼이 신속하게 함",
+      "민첩",
+      "열의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "eagerness",
+        "note": "열심, 간절함"
+      },
+      {
+        "word": "willingness",
+        "note": "기꺼이 하려는 마음"
+      },
+      {
+        "word": "zeal",
+        "note": "열정, 열의"
+      },
+      {
+        "word": "hastiness",
+        "note": "서두름"
+      },
+      {
+        "word": "nimbleness",
+        "note": "날렵함"
+      },
+      {
+        "word": "quickness",
+        "note": "빠름"
+      },
+      {
+        "word": "promptness",
+        "note": "즉각적임"
+      },
+      {
+        "word": "haste",
+        "note": "급함"
+      },
+      {
+        "word": "swiftness",
+        "note": "신속함"
+      },
+      {
+        "word": "dispatch",
+        "note": "신속한 처리"
+      },
+      {
+        "word": "enthusiasm",
+        "note": "열광, 열의"
+      },
+      {
+        "word": "ardour",
+        "note": "열렬함"
+      },
+      {
+        "word": "fervor",
+        "note": "열정"
+      },
+      {
+        "word": "keenness",
+        "note": "열심"
+      }
+    ],
+    "tips": [
+      "GRE 단골 단어야! '기꺼이 + 빠르게'가 핵심 뉘앙스야.",
+      "'She accepted the offer with alacrity'처럼 '기꺼이 선뜻' 하는 느낌으로 써.",
+      "`alacrity`는 라틴어 `alacer`(활발한)에서 왔어."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "alarmist",
+    "pos": "n/adj",
+    "head_meanings": [
+      "위기를 과장하는 사람",
+      "공연히 소란을 피우는 사람"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "scaremonger",
+        "note": "공포를 조장하는 사람"
+      },
+      {
+        "word": "doom-monger",
+        "note": "재앙을 떠드는 사람"
+      },
+      {
+        "word": "gloom-monger",
+        "note": "비관론을 퍼뜨리는 사람"
+      },
+      {
+        "word": "doomster",
+        "note": "파멸론자"
+      },
+      {
+        "word": "doomsayer",
+        "note": "종말론자"
+      }
+    ],
+    "tips": [
+      "`alarm`(경보) + `-ist`(사람) = 경보를 울리는 사람, 즉 호들갑 떠는 사람.",
+      "'alarmist rhetoric'은 과장되게 위험을 부풀리는 언사야.",
+      "GRE 지문에서 과학 논쟁이나 환경 문제 관련해서 자주 등장해."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "alarm",
+    "pos": "v/n",
+    "head_meanings": [
+      "불안하게 하다",
+      "걱정시키다",
+      "경보"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "unsettle",
+        "note": "불안하게 만들다"
+      }
+    ],
+    "tips": [
+      "명사로는 '경보', 동사로는 '불안하게 하다'야.",
+      "'alarming rate'처럼 '놀라울 정도의 속도'라는 표현을 자주 봤을 거야.",
+      "alarmed(놀란, 걱정하는)와 alarming(놀라운, 걱정되는) 구분해 둬."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "albeit",
+    "pos": "conj",
+    "head_meanings": [
+      "비록 ~이기는 하지만",
+      "~할지라도"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`all` + `be` + `it` = 'let it all be that' 에서 온 말이야. although의 격식체 버전.",
+      "'albeit slowly'처럼 짧은 구 앞에 쓰는 게 포인트야. 절 앞에는 잘 안 써.",
+      "GRE 지문에서 양보 표현으로 자주 나오니까 눈에 익혀 둬."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "alien",
+    "pos": "adj/n",
+    "head_meanings": [
+      "이질적인",
+      "~에 이질적인 (alien to)",
+      "조화되지 않는",
+      "외래의",
+      "외국의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "foreign",
+        "note": "외국의, 낯선"
+      },
+      {
+        "word": "non-native",
+        "note": "토착이 아닌"
+      },
+      {
+        "word": "unfamiliar",
+        "note": "익숙하지 않은"
+      },
+      {
+        "word": "strange",
+        "note": "이상한, 낯선"
+      },
+      {
+        "word": "exotic",
+        "note": "이국적인"
+      },
+      {
+        "word": "incompatible",
+        "note": "양립할 수 없는"
+      },
+      {
+        "word": "conflicting",
+        "note": "충돌하는"
+      },
+      {
+        "word": "contrary",
+        "note": "반대되는"
+      },
+      {
+        "word": "extraterrestrial",
+        "note": "지구 밖의"
+      }
+    ],
+    "tips": [
+      "'alien to ~'는 '~에 이질적인'이라는 뜻이야. 'Cruelty is alien to her nature.'처럼 써.",
+      "GRE에서는 '외계인'보다 '이질적인, 낯선'이라는 형용사 뜻이 중요해.",
+      "`alien`은 라틴어 `alienus`(다른, 남의)에서 왔어."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "alienate",
+    "pos": "v",
+    "head_meanings": [
+      "멀리하다",
+      "소원하게 하다",
+      "따돌리다",
+      "이간하다",
+      "양도하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "estrange",
+        "note": "사이를 멀어지게 하다"
+      },
+      {
+        "word": "set against",
+        "note": "~에 반감을 갖게 하다"
+      },
+      {
+        "word": "keep at a distance",
+        "note": "거리를 두게 하다"
+      },
+      {
+        "word": "come between",
+        "note": "사이를 갈라놓다"
+      },
+      {
+        "word": "transfer",
+        "note": "이전하다, 양도하다"
+      },
+      {
+        "word": "hand over",
+        "note": "넘겨주다"
+      },
+      {
+        "word": "devolve",
+        "note": "위임하다, 이양하다"
+      }
+    ],
+    "tips": [
+      "`alien`(이질적인) + `-ate`(동사화) = 이질적으로 만들다, 즉 멀어지게 하다.",
+      "'alienate voters'는 유권자들의 마음을 돌아서게 만드는 거야.",
+      "법률에서는 '재산을 양도하다'라는 뜻도 있어."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "alienation",
+    "pos": "n",
+    "head_meanings": [
+      "소외",
+      "이간",
+      "양도",
+      "정신이상"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "isolation",
+        "note": "고립, 격리"
+      },
+      {
+        "word": "detachment",
+        "note": "초연함, 분리"
+      },
+      {
+        "word": "estrangement",
+        "note": "소원해짐"
+      },
+      {
+        "word": "distance",
+        "note": "거리감"
+      },
+      {
+        "word": "separation",
+        "note": "분리"
+      },
+      {
+        "word": "division",
+        "note": "분열"
+      },
+      {
+        "word": "transfer",
+        "note": "이전"
+      },
+      {
+        "word": "passing on",
+        "note": "전달, 양도"
+      },
+      {
+        "word": "handing over",
+        "note": "넘겨줌"
+      }
+    ],
+    "tips": [
+      "alienate의 명사형. 사회학에서 '소외'는 핵심 개념이야.",
+      "마르크스의 'labor alienation'(노동 소외)이 유명하지.",
+      "GRE 지문에서 사회적 소외 주제로 자주 등장해."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "align",
+    "pos": "v",
+    "head_meanings": [
+      "일직선으로 맞추다",
+      "정렬시키다",
+      "~에 맞추다 (align to/with)",
+      "제휴하다",
+      "조절하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "arrange in a line",
+        "note": "줄 맞추어 배열하다"
+      },
+      {
+        "word": "make straight",
+        "note": "곧게 하다"
+      },
+      {
+        "word": "ally",
+        "note": "동맹하다, 제휴하다"
+      },
+      {
+        "word": "support",
+        "note": "지지하다"
+      }
+    ],
+    "tips": [
+      "`a-`(~으로) + `line`(줄) = 줄 맞추다. align to/with는 '~에 맞추다'야.",
+      "'align oneself with'는 '~와 뜻을 같이하다, 제휴하다'라는 뜻이야.",
+      "GRE에서 'aligned with a political party'처럼 정치적 제휴 맥락으로 자주 나와."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "alimentary",
+    "pos": "adj",
+    "head_meanings": [
+      "영양을 공급하는",
+      "소화의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "nutritious",
+        "note": "영양가 있는"
+      },
+      {
+        "word": "nourishing",
+        "note": "자양분이 되는"
+      },
+      {
+        "word": "digestible",
+        "note": "소화가 잘 되는"
+      }
+    ],
+    "tips": [
+      "'alimentary canal'은 소화관이야. 생물 시간에 배운 거 기억나지?",
+      "`aliment`(음식, 양분)에서 온 말이야.",
+      "GRE에서 드물지만 과학 지문에서 등장할 수 있어."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "allay",
+    "pos": "v",
+    "head_meanings": [
+      "가라앉히다",
+      "완화시키다",
+      "누그러뜨리다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "quiet",
+        "note": "조용히 하다, 진정시키다"
+      },
+      {
+        "word": "hush",
+        "note": "잠잠하게 하다"
+      },
+      {
+        "word": "soothe",
+        "note": "달래다"
+      },
+      {
+        "word": "mollify",
+        "note": "누그러뜨리다"
+      },
+      {
+        "word": "alleviate",
+        "note": "경감하다"
+      },
+      {
+        "word": "assuage",
+        "note": "완화하다"
+      },
+      {
+        "word": "blunt",
+        "note": "무디게 하다, 약화시키다"
+      }
+    ],
+    "tips": [
+      "GRE 중요 단어! 'allay fears/concerns'(두려움/걱정을 가라앉히다)가 단골 표현이야.",
+      "alleviate, assuage, mitigate랑 같은 '완화하다' 계열인데, allay는 특히 감정에 많이 써.",
+      "`allay`는 고대 영어 `alecgan`(내려놓다)에서 왔어."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "allege",
+    "pos": "v",
+    "head_meanings": [
+      "증거 없이 단언하다",
+      "주장하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "accuse",
+        "note": "고발하다, 비난하다"
+      },
+      {
+        "word": "affirm",
+        "note": "단언하다"
+      },
+      {
+        "word": "declare",
+        "note": "선언하다"
+      },
+      {
+        "word": "contend",
+        "note": "주장하다"
+      },
+      {
+        "word": "maintain",
+        "note": "계속 주장하다"
+      },
+      {
+        "word": "avow",
+        "note": "공언하다"
+      }
+    ],
+    "tips": [
+      "'alleged criminal'은 '혐의를 받는 범인'이야. 아직 증명 안 된 거지.",
+      "뉴스에서 'allegedly'(~라고 전해지는)를 정말 많이 봤을 거야.",
+      "claim과 비슷하지만, allege는 특히 부정적/범죄 관련 맥락에서 많이 써."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "allegiance",
+    "pos": "n",
+    "head_meanings": [
+      "충성",
+      "충절",
+      "헌신"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "loyalty",
+        "note": "충성심"
+      },
+      {
+        "word": "faithfulness",
+        "note": "성실함"
+      },
+      {
+        "word": "fidelity",
+        "note": "충실함"
+      },
+      {
+        "word": "obedience",
+        "note": "복종"
+      },
+      {
+        "word": "adherence",
+        "note": "고수, 충실"
+      },
+      {
+        "word": "homage",
+        "note": "경의, 충성의 표시"
+      },
+      {
+        "word": "devotion",
+        "note": "헌신"
+      },
+      {
+        "word": "troth",
+        "note": "충성 서약"
+      }
+    ],
+    "tips": [
+      "'Pledge of Allegiance'는 미국 충성 서약이야. 학교에서 매일 하는 거.",
+      "`allegiance`는 중세 프랑스어 `ligeance`(충성)에서 왔어.",
+      "GRE에서 'shift allegiance'(충성을 바꾸다)처럼 정치적 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "allegory",
+    "pos": "n",
+    "head_meanings": [
+      "우화",
+      "비유담",
+      "풍유"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "comparison",
+        "note": "비교"
+      },
+      {
+        "word": "fiction",
+        "note": "허구, 소설"
+      },
+      {
+        "word": "implication",
+        "note": "함축"
+      },
+      {
+        "word": "parable",
+        "note": "비유담, 우화"
+      },
+      {
+        "word": "emblem",
+        "note": "상징"
+      },
+      {
+        "word": "fable",
+        "note": "우화, 교훈담"
+      }
+    ],
+    "tips": [
+      "조지 오웰의 '동물농장'이 대표적인 allegory야. 정치를 동물 이야기로 풍자한 거지.",
+      "`allegory`는 그리스어에서 '다르게 말하다'라는 뜻이야.",
+      "parable은 짧은 교훈담, allegory는 더 길고 체계적인 비유 작품이야."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "all-encompassing",
+    "pos": "adj",
+    "head_meanings": [
+      "모든 것을 포함하는",
+      "포괄적인",
+      "총괄적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "inclusive",
+        "note": "포함하는, 포괄적인"
+      }
+    ],
+    "tips": [
+      "`all` + `encompassing`(포괄하는) = 다 포함하는. 직관적이지?",
+      "comprehensive, exhaustive와 비슷한 뜻이야.",
+      "'all-encompassing theory'처럼 모든 걸 설명하는 이론을 말할 때 써."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "alleviate",
+    "pos": "v",
+    "head_meanings": [
+      "고통을 덜다",
+      "완화시키다",
+      "경감하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "mitigate",
+        "note": "완화하다, 줄이다"
+      },
+      {
+        "word": "lighten",
+        "note": "가볍게 하다"
+      },
+      {
+        "word": "moderate",
+        "note": "조절하다, 누그러뜨리다"
+      },
+      {
+        "word": "reduce",
+        "note": "줄이다"
+      },
+      {
+        "word": "palliate",
+        "note": "일시적으로 완화하다"
+      },
+      {
+        "word": "abate",
+        "note": "약해지다, 줄다"
+      }
+    ],
+    "tips": [
+      "`al-` + `levi`(가볍게) + `-ate` = 가볍게 해주다. levitate(떠오르다)의 levi와 같아.",
+      "allay, assuage, mitigate, palliate 다 '완화' 계열이야. GRE 빈출 동의어 그룹!",
+      "'alleviate poverty/pain'처럼 고통이나 문제를 줄이는 맥락에서 써."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "allocate",
+    "pos": "v",
+    "head_meanings": [
+      "할당하다",
+      "배정하다",
+      "배치하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "allot",
+        "note": "배당하다"
+      },
+      {
+        "word": "dispose",
+        "note": "배치하다"
+      },
+      {
+        "word": "place",
+        "note": "자리를 정하다"
+      },
+      {
+        "word": "appoint",
+        "note": "지정하다"
+      },
+      {
+        "word": "earmark",
+        "note": "특정 용도로 배정하다"
+      },
+      {
+        "word": "set aside",
+        "note": "따로 떼어놓다"
+      }
+    ],
+    "tips": [
+      "`al-` + `locate`(위치시키다) = 자리를 정해서 배치하다.",
+      "'allocate resources/funds'처럼 자원이나 예산을 배분하는 맥락에서 써.",
+      "earmark은 '특정 용도로 지정하다'라는 뉘앙스가 더 강해."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "alloy",
+    "pos": "n/v",
+    "head_meanings": [
+      "합금",
+      "섞음질",
+      "손상시키다",
+      "약화시키다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "compound",
+        "note": "화합물, 혼합물"
+      },
+      {
+        "word": "admixture",
+        "note": "혼합, 혼합물"
+      },
+      {
+        "word": "combination",
+        "note": "결합, 조합"
+      },
+      {
+        "word": "amalgam",
+        "note": "아말감, 혼합물"
+      },
+      {
+        "word": "blend",
+        "note": "혼합"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! 일상에서는 '합금'(명사)이지만 GRE에서는 '손상시키다, 약화시키다'(동사)로 나와.",
+      "순수한 것에 불순물을 섞어서 질을 떨어뜨린다는 뜻이야. adulterate와 비슷해.",
+      "'alloy one's pleasure'는 '기쁨을 반감시키다'야. 이 동사 용법을 꼭 외워!"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "allude",
+    "pos": "v",
+    "head_meanings": [
+      "암시하다",
+      "넌지시 말하다",
+      "언급하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "hint",
+        "note": "힌트를 주다"
+      },
+      {
+        "word": "imply",
+        "note": "암시하다"
+      },
+      {
+        "word": "remark",
+        "note": "언급하다"
+      },
+      {
+        "word": "designate",
+        "note": "지칭하다"
+      },
+      {
+        "word": "intimate",
+        "note": "넌지시 알리다"
+      },
+      {
+        "word": "suggest",
+        "note": "시사하다"
+      },
+      {
+        "word": "refer",
+        "note": "언급하다"
+      },
+      {
+        "word": "advert",
+        "note": "주의를 돌리다, 언급하다"
+      }
+    ],
+    "tips": [
+      "'allude to'로 써야 해. 직접 말하지 않고 빗대서 언급하는 거야.",
+      "elude(피하다), illude(속이다)와 헷갈리지 마! allude는 '암시하다'야.",
+      "`al-` + `ludere`(놀다) = 살짝 던지듯 말하다."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "allusion",
+    "pos": "n",
+    "head_meanings": [
+      "언급",
+      "암시",
+      "풍자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "implication",
+        "note": "함축, 암시"
+      },
+      {
+        "word": "connotation",
+        "note": "내포, 함축 의미"
+      },
+      {
+        "word": "suggestion",
+        "note": "시사, 제안"
+      },
+      {
+        "word": "hint",
+        "note": "힌트, 암시"
+      },
+      {
+        "word": "mention",
+        "note": "언급"
+      },
+      {
+        "word": "intimation",
+        "note": "넌지시 알림"
+      }
+    ],
+    "tips": [
+      "allude의 명사형이야. 문학에서 다른 작품을 빗대어 언급하는 기법이지.",
+      "illusion(환상)과 헷갈리면 안 돼! allusion은 '암시, 언급'이야.",
+      "GRE 문학 지문에서 'biblical allusion'(성경적 암시) 같은 표현으로 나와."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "allusive",
+    "pos": "adj",
+    "head_meanings": [
+      "암시적인",
+      "넌지시 빗대는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "suggestive",
+        "note": "암시하는, 연상시키는"
+      },
+      {
+        "word": "referential",
+        "note": "참조하는, 언급하는"
+      }
+    ],
+    "tips": [
+      "allusion의 형용사형. 'allusive language'는 직접 말하지 않고 빗대는 표현이야.",
+      "elusive(잡기 어려운)와 헷갈리면 안 돼! allusive는 '암시적인'이야.",
+      "GRE에서 문학 비평 지문에 자주 등장하는 표현이야."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "allure",
+    "pos": "v/n",
+    "head_meanings": [
+      "유혹하다",
+      "끌어들이다",
+      "매력",
+      "유혹"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "lure",
+        "note": "유인하다, 미끼"
+      },
+      {
+        "word": "attract",
+        "note": "끌다, 매혹하다"
+      },
+      {
+        "word": "tempt",
+        "note": "유혹하다"
+      },
+      {
+        "word": "bait",
+        "note": "미끼로 유인하다"
+      },
+      {
+        "word": "seduce",
+        "note": "유혹하다"
+      },
+      {
+        "word": "beguile",
+        "note": "매혹하다, 속이다"
+      },
+      {
+        "word": "captivate",
+        "note": "마음을 사로잡다"
+      },
+      {
+        "word": "fascinate",
+        "note": "매혹하다"
+      }
+    ],
+    "tips": [
+      "`al-` + `lure`(유인하다) = 끌어당기다. lure가 들어 있어서 외우기 쉽지?",
+      "'the allure of fame'은 '명성의 매력'이야.",
+      "alluring은 '매혹적인'이라는 형용사야."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "aloft",
+    "pos": "adv",
+    "head_meanings": [
+      "위로 높이",
+      "하늘 높이"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "overhead",
+        "note": "머리 위에"
+      },
+      {
+        "word": "above",
+        "note": "위에"
+      },
+      {
+        "word": "skyward",
+        "note": "하늘 쪽으로"
+      },
+      {
+        "word": "heavenward",
+        "note": "하늘 쪽으로"
+      },
+      {
+        "word": "in the clouds",
+        "note": "구름 속에"
+      }
+    ],
+    "tips": [
+      "`a-`(위로) + `loft`(다락방, 높은 곳) = 높이 위로.",
+      "'hold the trophy aloft'는 트로피를 높이 들어올리는 거야.",
+      "lofty(높은, 고상한)와 같은 어근이야."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "aloof",
+    "pos": "adj/adv",
+    "head_meanings": [
+      "냉담한",
+      "초연한",
+      "무관심한",
+      "거리를 두는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "incurious",
+        "note": "호기심 없는, 무관심한"
+      },
+      {
+        "word": "reticent",
+        "note": "과묵한, 말이 적은"
+      },
+      {
+        "word": "disconnected",
+        "note": "단절된"
+      },
+      {
+        "word": "remote",
+        "note": "멀리 있는, 냉담한"
+      },
+      {
+        "word": "cool",
+        "note": "차가운, 냉담한"
+      }
+    ],
+    "tips": [
+      "GRE 중요 단어! '냉담한, 초연한'이 핵심이야. 감정적으로 거리를 두는 느낌.",
+      "'remain aloof from politics'처럼 '~에서 거리를 두다'로 많이 써.",
+      "friendly, sociable의 반대야. reserved, detached와 같은 계열이야."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "altercation",
+    "pos": "n",
+    "head_meanings": [
+      "말다툼",
+      "언쟁"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "contention",
+        "note": "논쟁, 다툼"
+      },
+      {
+        "word": "spat",
+        "note": "사소한 말다툼"
+      },
+      {
+        "word": "dispute",
+        "note": "분쟁, 논란"
+      },
+      {
+        "word": "argument",
+        "note": "논쟁"
+      },
+      {
+        "word": "controversy",
+        "note": "논란"
+      }
+    ],
+    "tips": [
+      "`alter`(다른) + `-cation` = 서로 다른 의견으로 다투는 것.",
+      "물리적 싸움(fight)이 아니라 말로 하는 다툼이야.",
+      "'a heated altercation'은 격렬한 말다툼이야."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "alter",
+    "pos": "v",
+    "head_meanings": [
+      "바꾸다",
+      "고치다",
+      "변화하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "modify",
+        "note": "수정하다, 변형하다"
+      }
+    ],
+    "tips": [
+      "change와 거의 같은 뜻이야. 양복을 '수선하다'할 때도 alter를 써.",
+      "`alter`는 라틴어 `alter`(다른)에서 왔어. alternative도 같은 어원이야.",
+      "altar(제단)와 철자 헷갈리지 마! alter는 e, altar는 a야."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "altered",
+    "pos": "adj",
+    "head_meanings": [
+      "변경된",
+      "바뀐"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "alter의 과거분사가 형용사로 쓰인 거야.",
+      "'altered state of consciousness'는 '변성 의식 상태'야. 명상이나 최면 상태를 말해.",
+      "unaltered(변하지 않은)도 같이 알아 두면 좋아."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "alternate",
+    "pos": "v/adj",
+    "head_meanings": [
+      "교대로 일어나다",
+      "번갈아 하다",
+      "교류하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "동사일 때는 /ˈɔːltərneɪt/, 형용사일 때는 /ɔːlˈtɜːrnət/로 발음이 달라.",
+      "'alternate between A and B'는 A와 B를 번갈아 하는 거야.",
+      "alternative(대안의)와 헷갈리지 마! alternate는 '교대의'야."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "alternative",
+    "pos": "n/adj",
+    "head_meanings": [
+      "대안",
+      "다른 방도",
+      "양자 택일",
+      "대신의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`alter`(다른) + `-native` = 다른 선택지.",
+      "'have no alternative but to ~'는 '~할 수밖에 없다'야.",
+      "GRE에서 'alternative explanation'(다른 설명)처럼 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "altruism",
+    "pos": "n",
+    "head_meanings": [
+      "이타주의",
+      "이타적 행위"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "largess",
+        "note": "후한 기부, 관대함"
+      },
+      {
+        "word": "beneficence",
+        "note": "선행, 자선"
+      }
+    ],
+    "tips": [
+      "`alter`(다른 사람) + `-ism` = 다른 사람을 위하는 주의.",
+      "egoism(이기주의)의 반대야. GRE에서 자주 대비돼.",
+      "생물학에서 'reciprocal altruism'(상호 이타주의)도 유명해."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "altruist",
+    "pos": "n",
+    "head_meanings": [
+      "이타주의자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "generosity",
+        "note": "관대함, 너그러움"
+      },
+      {
+        "word": "liberality",
+        "note": "관대함, 개방성"
+      },
+      {
+        "word": "munificence",
+        "note": "후한 기부, 관대함"
+      },
+      {
+        "word": "bounty",
+        "note": "관대함, 후한 선물"
+      },
+      {
+        "word": "charity",
+        "note": "자선"
+      },
+      {
+        "word": "magnanimity",
+        "note": "아량, 관용"
+      },
+      {
+        "word": "philanthropy",
+        "note": "박애, 자선 활동"
+      },
+      {
+        "word": "open-handedness",
+        "note": "후함"
+      },
+      {
+        "word": "benefaction",
+        "note": "선행, 기부"
+      }
+    ],
+    "tips": [
+      "altruism을 실천하는 사람이야. egoist(이기주의자)의 반대.",
+      "philanthropist(박애주의자)와 비슷한데, altruist가 더 넓은 개념이야.",
+      "GRE에서 altruist vs. egoist 대비가 나올 수 있어."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "altruistic",
+    "pos": "adj",
+    "head_meanings": [
+      "이타적인",
+      "이타주의적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "selfless",
+        "note": "사심 없는"
+      },
+      {
+        "word": "benevolent",
+        "note": "자비로운"
+      },
+      {
+        "word": "charitable",
+        "note": "자선적인"
+      },
+      {
+        "word": "philanthropic",
+        "note": "박애주의적인"
+      },
+      {
+        "word": "humanitarian",
+        "note": "인도주의적인"
+      }
+    ],
+    "tips": [
+      "altruism의 형용사형. selfish(이기적인)의 반대야.",
+      "'altruistic behavior'는 자기 손해를 감수하고 남을 돕는 행동이야.",
+      "GRE에서 동물의 altruistic behavior에 대한 과학 지문이 나올 수 있어."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "amalgamate",
+    "pos": "v",
+    "head_meanings": [
+      "합동하다",
+      "합병하다",
+      "융합하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "cooperate",
+        "note": "협력하다"
+      },
+      {
+        "word": "blend",
+        "note": "혼합하다"
+      },
+      {
+        "word": "merge",
+        "note": "합병하다"
+      },
+      {
+        "word": "fuse",
+        "note": "융합하다"
+      },
+      {
+        "word": "mix",
+        "note": "섞다"
+      },
+      {
+        "word": "conspire",
+        "note": "공모하다"
+      },
+      {
+        "word": "incorporate",
+        "note": "통합하다"
+      },
+      {
+        "word": "consolidate",
+        "note": "통합하다, 강화하다"
+      },
+      {
+        "word": "alloy",
+        "note": "합금하다, 섞다"
+      }
+    ],
+    "tips": [
+      "`amalgam`(아말감, 혼합물) + `-ate` = 하나로 합치다.",
+      "치과에서 쓰는 아말감 알지? 여러 금속을 섞어 만든 거야.",
+      "merge, consolidate와 비슷한데, amalgamate는 더 격식체야."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "amass",
+    "pos": "v",
+    "head_meanings": [
+      "모으다",
+      "축적하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "gather",
+        "note": "모으다"
+      },
+      {
+        "word": "store up",
+        "note": "저장하다"
+      },
+      {
+        "word": "assemble",
+        "note": "모으다, 조립하다"
+      },
+      {
+        "word": "accumulate",
+        "note": "축적하다"
+      },
+      {
+        "word": "heap up",
+        "note": "쌓아 올리다"
+      },
+      {
+        "word": "compile",
+        "note": "편집하다, 모으다"
+      },
+      {
+        "word": "pile up",
+        "note": "쌓이다"
+      },
+      {
+        "word": "round up",
+        "note": "모아들이다"
+      }
+    ],
+    "tips": [
+      "`a-` + `mass`(덩어리) = 덩어리로 만들다, 즉 대량으로 모으다.",
+      "'amass a fortune/wealth'는 '재산을 모으다'야.",
+      "accumulate보다 더 큰 규모로 빠르게 모으는 느낌이야."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "ambience",
+    "pos": "n",
+    "head_meanings": [
+      "환경",
+      "분위기"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "surroundings",
+        "note": "주변 환경"
+      },
+      {
+        "word": "temper",
+        "note": "기질, 분위기"
+      },
+      {
+        "word": "climate",
+        "note": "풍토, 분위기"
+      },
+      {
+        "word": "milieu",
+        "note": "환경, 사회적 배경"
+      },
+      {
+        "word": "setting",
+        "note": "배경, 환경"
+      },
+      {
+        "word": "mood",
+        "note": "분위기, 기분"
+      }
+    ],
+    "tips": [
+      "레스토랑 분위기 좋을 때 'nice ambience'라고 하잖아.",
+      "ambiance로도 쓰여. 프랑스어에서 온 말이야.",
+      "atmosphere와 거의 같은 뜻인데, ambience가 좀 더 세련된 느낌이야."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "ambiguous",
+    "pos": "adj",
+    "head_meanings": [
+      "애매한",
+      "두 가지 이상의 해석이 가능한",
+      "다의적인",
+      "모호한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "equivocal",
+        "note": "애매한, 모호한"
+      },
+      {
+        "word": "ambivalent",
+        "note": "양면적인, 갈등하는"
+      },
+      {
+        "word": "arguable",
+        "note": "논쟁의 여지가 있는"
+      },
+      {
+        "word": "debatable",
+        "note": "논란이 되는"
+      },
+      {
+        "word": "mixed",
+        "note": "뒤섞인"
+      },
+      {
+        "word": "uncertain",
+        "note": "불확실한"
+      },
+      {
+        "word": "obscure",
+        "note": "불분명한"
+      },
+      {
+        "word": "abstruse",
+        "note": "난해한"
+      },
+      {
+        "word": "dubious",
+        "note": "의심스러운"
+      },
+      {
+        "word": "unclear",
+        "note": "불명확한"
+      },
+      {
+        "word": "unintelligible",
+        "note": "이해할 수 없는"
+      },
+      {
+        "word": "vague",
+        "note": "막연한, 모호한"
+      }
+    ],
+    "tips": [
+      "`ambi-`(양쪽) + `ag`(움직이다) = 양쪽으로 움직이는, 즉 어느 쪽인지 모호한.",
+      "ambiguous는 '의미가 모호한' 것이고, ambivalent는 '감정이 양면적인' 거야. 구분해!",
+      "GRE에서 정말 자주 나오는 단어야. vague, equivocal과 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "ambiguity",
+    "pos": "n",
+    "head_meanings": [
+      "모호함",
+      "애매함",
+      "모호한 표현"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "ambiguous의 명사형이야.",
+      "GRE에서 'tolerance for ambiguity'(모호함에 대한 관용)처럼 나와.",
+      "'resolve the ambiguity'는 '모호함을 해소하다'야."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "ambivalence",
+    "pos": "n",
+    "head_meanings": [
+      "양가감정",
+      "양면가치",
+      "상반된 감정을 동시에 느끼는 것"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "confliction",
+        "note": "갈등, 충돌"
+      },
+      {
+        "word": "opposition",
+        "note": "대립, 반대"
+      },
+      {
+        "word": "clash",
+        "note": "충돌"
+      },
+      {
+        "word": "confusion",
+        "note": "혼란"
+      },
+      {
+        "word": "fluctuation",
+        "note": "동요, 변동"
+      }
+    ],
+    "tips": [
+      "`ambi-`(양쪽) + `valence`(가치) = 양쪽 가치를 동시에 느끼는 것.",
+      "좋아하면서도 싫어하는, 가고 싶으면서도 가기 싫은 그런 감정이야.",
+      "ambivalent의 명사형. GRE 심리학 지문에서 자주 나와."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "ambivalent",
+    "pos": "adj",
+    "head_meanings": [
+      "양가감정의",
+      "상반된 감정을 동시에 느끼는",
+      "마음이 갈리는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "equivocal",
+        "note": "애매한, 모호한"
+      },
+      {
+        "word": "uncertain",
+        "note": "불확실한"
+      },
+      {
+        "word": "unsure",
+        "note": "확신 없는"
+      },
+      {
+        "word": "doubtful",
+        "note": "의심스러운"
+      },
+      {
+        "word": "indecisive",
+        "note": "우유부단한"
+      },
+      {
+        "word": "irresolute",
+        "note": "결단력 없는"
+      },
+      {
+        "word": "undecided",
+        "note": "결정하지 못한"
+      },
+      {
+        "word": "hesitating",
+        "note": "망설이는"
+      },
+      {
+        "word": "wavering",
+        "note": "흔들리는"
+      },
+      {
+        "word": "vacillating",
+        "note": "갈팡질팡하는"
+      },
+      {
+        "word": "equivocating",
+        "note": "얼버무리는"
+      }
+    ],
+    "tips": [
+      "GRE 단골 단어! 단순히 '모르겠다'가 아니라 '좋기도 하고 싫기도 한' 복잡한 감정이야.",
+      "ambiguous(의미가 모호한)와 다르게 ambivalent는 감정이 양면적인 거야.",
+      "'feel ambivalent about'은 '~에 대해 마음이 갈리다'야. 이 표현 꼭 알아 둬."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "amble",
+    "pos": "v/n",
+    "head_meanings": [
+      "느릿느릿 걷다",
+      "천천히 걷다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "meander",
+        "note": "구불구불 걷다"
+      },
+      {
+        "word": "saunter",
+        "note": "어슬렁거리다"
+      },
+      {
+        "word": "wander",
+        "note": "방황하다, 거닐다"
+      },
+      {
+        "word": "mosey",
+        "note": "느긋하게 걷다"
+      },
+      {
+        "word": "stroll",
+        "note": "산책하다"
+      },
+      {
+        "word": "ramble",
+        "note": "산책하다, 이리저리 걷다"
+      }
+    ],
+    "tips": [
+      "급하지 않게 여유롭게 걷는 거야. 산책 느낌이지.",
+      "saunter, stroll, meander 다 '느리게 걷다' 계열이야.",
+      "preamble(서문)의 amble이 이거야. 본론 전에 천천히 걷는 거지."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "ambush",
+    "pos": "v/n",
+    "head_meanings": [
+      "매복하다",
+      "매복 공격하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "게임에서 ambush라는 말 들어봤을 거야. 숨어서 기습하는 거지.",
+      "`ambush`는 고대 프랑스어 `embuscher`(숲에 숨다)에서 왔어.",
+      "'ambush attack'은 매복 공격이야."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "ameliorate",
+    "pos": "v",
+    "head_meanings": [
+      "개선하다",
+      "개량하다",
+      "좋아지다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "improve",
+        "note": "향상시키다"
+      },
+      {
+        "word": "make better",
+        "note": "더 좋게 만들다"
+      },
+      {
+        "word": "enhance",
+        "note": "강화하다"
+      },
+      {
+        "word": "boost",
+        "note": "끌어올리다"
+      },
+      {
+        "word": "revise",
+        "note": "수정하다"
+      },
+      {
+        "word": "reform",
+        "note": "개혁하다"
+      },
+      {
+        "word": "amend",
+        "note": "수정하다"
+      },
+      {
+        "word": "get better",
+        "note": "나아지다"
+      },
+      {
+        "word": "advance",
+        "note": "진전시키다"
+      }
+    ],
+    "tips": [
+      "improve의 고급 버전이야! GRE에서 improve 대신 ameliorate를 써.",
+      "`a-` + `melior`(더 좋은) + `-ate` = 더 좋게 만들다.",
+      "'ameliorate conditions'는 '조건을 개선하다'야. GRE에서 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "amenable",
+    "pos": "adj",
+    "head_meanings": [
+      "순응하는",
+      "기꺼이 따르는",
+      "잘 받아들이는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "willing to agree",
+        "note": "기꺼이 동의하는"
+      },
+      {
+        "word": "complaisant",
+        "note": "상냥한, 잘 따르는"
+      },
+      {
+        "word": "persuadable",
+        "note": "설득 가능한"
+      },
+      {
+        "word": "responsive",
+        "note": "반응이 좋은, 잘 따르는"
+      }
+    ],
+    "tips": [
+      "GRE 중요 단어! 'amenable to'는 '~을 기꺼이 받아들이는'이야.",
+      "'amenable to change'는 변화를 기꺼이 수용하는 거야. 긍정적인 뉘앙스야.",
+      "`amener`(이끌다)에서 온 말이야. 잘 이끌려가는 = 순응하는."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "amend",
+    "pos": "v",
+    "head_meanings": [
+      "수정하다",
+      "개정하다",
+      "고치다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "improve",
+        "note": "개선하다"
+      },
+      {
+        "word": "perfect",
+        "note": "완벽하게 하다"
+      },
+      {
+        "word": "enhance",
+        "note": "향상시키다"
+      },
+      {
+        "word": "rectify",
+        "note": "바로잡다"
+      },
+      {
+        "word": "remedy",
+        "note": "교정하다, 치유하다"
+      },
+      {
+        "word": "mend",
+        "note": "고치다, 수선하다"
+      }
+    ],
+    "tips": [
+      "'make amends'는 '보상하다, 사죄하다'야. amend랑 뉘앙스가 다르니 주의!",
+      "emend(문장을 교정하다)와 구분해. amend는 법률/규정 수정에 주로 써.",
+      "`a-` + `mend`(고치다) = 고치다, 수정하다."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "amendment",
+    "pos": "n",
+    "head_meanings": [
+      "개정",
+      "수정안",
+      "미국 헌법 수정 조항"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "amend의 명사형. 미국 'First Amendment'(수정헌법 제1조)는 언론의 자유야.",
+      "'constitutional amendment'는 헌법 수정이야. 미국 역사에서 중요한 개념.",
+      "GRE에서 법률/정치 지문에 자주 등장해."
+    ]
+  }
+]

@@ -1,0 +1,3540 @@
+[
+  {
+    "id": "001",
+    "word": "apothegm",
+    "pos": "n.",
+    "head_meanings": [
+      "격언",
+      "잠언",
+      "경구"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "proverb",
+        "note": "속담, 격언"
+      },
+      {
+        "word": "adage",
+        "note": "오래된 격언"
+      },
+      {
+        "word": "aphorism",
+        "note": "짧고 날카로운 격언"
+      },
+      {
+        "word": "epigram",
+        "note": "재치 있는 경구"
+      },
+      {
+        "word": "maxim",
+        "note": "행동 지침이 되는 격언"
+      },
+      {
+        "word": "motto",
+        "note": "좌우명, 모토"
+      }
+    ],
+    "tips": [
+      "발음이 [ˈæpəθɛm] '애퍼뎀'이야. 생김새와 달리 뒤에 g 발음 없어!",
+      "`apo-`(떨어져 나온) + `phthegm`(말) = 핵심만 뽑아낸 짧은 말, 즉 격언이야.",
+      "격언·잠언처럼 교훈적인 짧은 말을 뜻해. 'An apothegm a day keeps ignorance away' 같은 느낌!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "appall",
+    "pos": "v.",
+    "head_meanings": [
+      "소름끼치게 하다",
+      "경악시키다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "terrify",
+        "note": "공포에 떨게 하다"
+      },
+      {
+        "word": "horrify",
+        "note": "소름끼치게 하다"
+      },
+      {
+        "word": "offend",
+        "note": "감정을 상하게 하다"
+      },
+      {
+        "word": "outrage",
+        "note": "분노하게 하다"
+      },
+      {
+        "word": "frighten",
+        "note": "겁먹게 하다"
+      },
+      {
+        "word": "abash",
+        "note": "당혹하게 하다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `pall`(창백해지다) = 얼굴이 창백해질 정도로 놀라게 하다!",
+      "'The news appalled everyone'처럼 충격적인 소식에 경악할 때 쓰는 단어야.",
+      "appalling이라는 형용사로도 자주 나와. '소름끼치는, 끔찍한'이라는 뜻이야."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "apparent",
+    "pos": "adj.",
+    "head_meanings": [
+      "명백한",
+      "분명한",
+      "겉보기의",
+      "외견상의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "obvious",
+        "note": "누가 봐도 분명한"
+      },
+      {
+        "word": "evident",
+        "note": "증거로 드러나는"
+      },
+      {
+        "word": "manifest",
+        "note": "명백하게 드러나는"
+      },
+      {
+        "word": "discernible",
+        "note": "식별 가능한"
+      },
+      {
+        "word": "ostensible",
+        "note": "겉으로 보이는, 표면상의"
+      },
+      {
+        "word": "seeming",
+        "note": "겉보기의"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `parent`(나타나다) = 눈앞에 나타나 보이는 → 명백한 / 겉보기의.",
+      "GRE에서는 '명백한'과 '겉보기의(실제와 다를 수 있는)' 두 뜻 모두 중요해!",
+      "'apparent contradiction'은 '겉보기에 모순'이라는 뜻이야. 실제로는 아닐 수도 있다는 뉘앙스."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "apparition",
+    "pos": "n.",
+    "head_meanings": [
+      "유령",
+      "환영",
+      "허깨비"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ghost",
+        "note": "유령"
+      },
+      {
+        "word": "phantom",
+        "note": "환영, 허깨비"
+      },
+      {
+        "word": "specter",
+        "note": "무서운 유령, 망령"
+      },
+      {
+        "word": "wraith",
+        "note": "죽기 직전에 나타나는 환영"
+      },
+      {
+        "word": "phantasm",
+        "note": "환상, 환각"
+      },
+      {
+        "word": "revenant",
+        "note": "되돌아온 유령"
+      }
+    ],
+    "tips": [
+      "`appear`(나타나다) + `-ition` = 갑자기 나타나는 것 → 유령, 환영!",
+      "공포영화에서 갑자기 나타나는 유령을 떠올리면 돼. 'A ghostly apparition appeared.'",
+      "apparent(명백한)와 같은 어근인데, 이쪽은 '불쑥 나타난 것' → 유령이 된 거야."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "appealing",
+    "pos": "adj.",
+    "head_meanings": [
+      "매력적인",
+      "마음을 끄는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "attractive",
+        "note": "끌리는, 매력적인"
+      },
+      {
+        "word": "alluring",
+        "note": "유혹적으로 매력적인"
+      },
+      {
+        "word": "riveting",
+        "note": "시선을 사로잡는"
+      },
+      {
+        "word": "engaging",
+        "note": "흥미를 끄는"
+      },
+      {
+        "word": "tempting",
+        "note": "구미가 당기는"
+      }
+    ],
+    "tips": [
+      "`appeal`(호소하다, 끌다) + `-ing` = 마음을 끄는, 매력적인.",
+      "'The idea is appealing'처럼 일상에서도 자주 쓰이는 단어야.",
+      "반대말 unappealing(매력 없는)도 같이 알아두면 좋아!"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "appease",
+    "pos": "v.",
+    "head_meanings": [
+      "달래다",
+      "진정시키다",
+      "완화하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "placate",
+        "note": "화난 사람을 달래다"
+      },
+      {
+        "word": "mollify",
+        "note": "부드럽게 진정시키다"
+      },
+      {
+        "word": "allay",
+        "note": "불안·공포를 가라앉히다"
+      },
+      {
+        "word": "alleviate",
+        "note": "고통·부담을 덜어주다"
+      },
+      {
+        "word": "mitigate",
+        "note": "완화하다, 누그러뜨리다"
+      },
+      {
+        "word": "temper",
+        "note": "누그러뜨리다, 조절하다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `pease`(평화) = 평화를 향해 → 달래다, 진정시키다.",
+      "역사에서 'appeasement policy(유화정책)'가 유명해. 히틀러를 달래려 했던 정책!",
+      "placate, mollify, pacify와 함께 GRE 단골 '달래다' 그룹이야."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "applaud",
+    "pos": "v.",
+    "head_meanings": [
+      "박수치다",
+      "칭찬하다",
+      "성원하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "acclaim",
+        "note": "열렬히 환호하며 칭찬하다"
+      },
+      {
+        "word": "commend",
+        "note": "공식적으로 칭찬하다"
+      },
+      {
+        "word": "praise",
+        "note": "칭찬하다"
+      },
+      {
+        "word": "salute",
+        "note": "경의를 표하다"
+      },
+      {
+        "word": "celebrate",
+        "note": "축하하다, 기리다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `plaud`(박수치다) = 박수를 보내다 → 칭찬하다.",
+      "applause(박수)는 명사형이야. 'The audience applauded loudly.'",
+      "반대말은 boo(야유하다)! GRE에서는 비유적으로 '칭찬하다'로 더 자주 나와."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "application",
+    "pos": "n.",
+    "head_meanings": [
+      "적용",
+      "응용",
+      "근면",
+      "신청"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "diligence",
+        "note": "부지런함, 근면"
+      },
+      {
+        "word": "perseverance",
+        "note": "인내, 끈기"
+      },
+      {
+        "word": "dedication",
+        "note": "헌신, 전념"
+      },
+      {
+        "word": "assiduity",
+        "note": "근면, 정성"
+      },
+      {
+        "word": "persistence",
+        "note": "끈질긴 노력"
+      },
+      {
+        "word": "commitment",
+        "note": "전념, 헌신"
+      }
+    ],
+    "tips": [
+      "GRE에서는 '앱/지원서'가 아니라 '근면, 전념'이라는 뜻으로 나올 수 있어!",
+      "`apply`(적용하다, 전념하다) + `-ation` = 무언가에 몰두하는 것 → 근면.",
+      "'She showed great application to her studies' = 공부에 열심히 전념했다는 뜻이야."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "apportion",
+    "pos": "v.",
+    "head_meanings": [
+      "배분하다",
+      "할당하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "allocate",
+        "note": "배정하다, 할당하다"
+      },
+      {
+        "word": "distribute",
+        "note": "나누어 주다"
+      },
+      {
+        "word": "allot",
+        "note": "몫을 할당하다"
+      },
+      {
+        "word": "assign",
+        "note": "배정하다"
+      },
+      {
+        "word": "mete out",
+        "note": "적절히 분배하다"
+      },
+      {
+        "word": "ration",
+        "note": "배급하다, 제한 분배하다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `portion`(몫) = 각자에게 몫을 나눠주다 → 배분하다.",
+      "'apportion blame'은 '책임을 나눠서 묻다'라는 뜻이야. 뉴스에서 자주 나와.",
+      "allocate, allot, distribute와 같은 뜻이지만, 비율에 맞게 나눈다는 뉘앙스가 강해."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "apposite",
+    "pos": "adj.",
+    "head_meanings": [
+      "적절한",
+      "딱 맞는",
+      "타당한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "apt",
+        "note": "적절한, 딱 맞는"
+      },
+      {
+        "word": "fitting",
+        "note": "어울리는, 적합한"
+      },
+      {
+        "word": "pertinent",
+        "note": "관련 있는, 적절한"
+      },
+      {
+        "word": "relevant",
+        "note": "관련 있는"
+      },
+      {
+        "word": "suitable",
+        "note": "알맞은, 적합한"
+      },
+      {
+        "word": "apropos",
+        "note": "시의적절한"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `posite`(놓다) = 딱 맞는 자리에 놓인 → 적절한. 명사형은 appositeness(적절성).",
+      "GRE 단골 단어야! opposite(반대의)와 철자가 비슷해서 헷갈리기 쉬우니 주의해!",
+      "'Her comment was perfectly apposite' = 그녀의 발언이 완벽하게 적절했다는 뜻이야."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "appraise",
+    "pos": "v.",
+    "head_meanings": [
+      "평가하다",
+      "감정하다",
+      "값을 매기다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "evaluate",
+        "note": "가치를 평가하다"
+      },
+      {
+        "word": "assess",
+        "note": "사정하다, 평가하다"
+      },
+      {
+        "word": "examine",
+        "note": "면밀히 살펴보다"
+      },
+      {
+        "word": "judge",
+        "note": "판단하다"
+      },
+      {
+        "word": "review",
+        "note": "검토하다"
+      },
+      {
+        "word": "inspect",
+        "note": "점검하다, 조사하다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `praise`(가격) = 값을 매기다 → 평가하다.",
+      "apprise(알리다)와 철자가 비슷해서 혼동 주의! appraise는 '평가', apprise는 '알림'이야.",
+      "부동산 감정(appraisal)할 때 쓰는 단어야. 'The jeweler appraised the diamond.'"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "appraisal",
+    "pos": "n.",
+    "head_meanings": [
+      "평가",
+      "감정",
+      "견적"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "assessment",
+        "note": "평가, 사정"
+      },
+      {
+        "word": "evaluation",
+        "note": "가치 평가"
+      },
+      {
+        "word": "estimation",
+        "note": "추정, 판단"
+      },
+      {
+        "word": "valuation",
+        "note": "가치 산정"
+      },
+      {
+        "word": "judgement",
+        "note": "판단"
+      },
+      {
+        "word": "rating",
+        "note": "등급 매기기"
+      }
+    ],
+    "tips": [
+      "appraise(평가하다)의 명사형이야. 부동산 감정, 성과 평가 등에 쓰여.",
+      "'performance appraisal'은 회사에서 하는 '업무 평가'야. 직장인이면 익숙할 걸!",
+      "appreciation(감사/인식)과 혼동하지 마! appraisal은 '가치를 따지는 평가'야."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "appreciable",
+    "pos": "adj.",
+    "head_meanings": [
+      "상당한",
+      "감지할 수 있는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "considerable",
+        "note": "상당한, 꽤 큰"
+      },
+      {
+        "word": "substantial",
+        "note": "실질적으로 큰"
+      },
+      {
+        "word": "significant",
+        "note": "의미 있는, 상당한"
+      },
+      {
+        "word": "sizeable",
+        "note": "꽤 큰"
+      },
+      {
+        "word": "marked",
+        "note": "뚜렷한, 현저한"
+      },
+      {
+        "word": "noticeable",
+        "note": "눈에 띄는"
+      }
+    ],
+    "tips": [
+      "`appreciate`(인식하다) + `-able` = 인식할 수 있을 만큼의 → 상당한.",
+      "GRE에서는 '감사하는'이 아니라 '상당한, 꽤 큰'이라는 뜻으로 나와!",
+      "'an appreciable difference' = 꽤 눈에 띄는 차이. negligible(무시할 만한)의 반대야."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "appreciate",
+    "pos": "v.",
+    "head_meanings": [
+      "가치를 인정하다",
+      "감사하다",
+      "인식하다",
+      "가치가 오르다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "acknowledge",
+        "note": "인정하다"
+      },
+      {
+        "word": "esteem",
+        "note": "존경하다, 높이 평가하다"
+      },
+      {
+        "word": "cherish",
+        "note": "소중히 여기다"
+      },
+      {
+        "word": "comprehend",
+        "note": "이해하다, 파악하다"
+      },
+      {
+        "word": "regard highly",
+        "note": "높이 평가하다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `preci`(가치) + `-ate` = 가치를 향해 → 가치를 인정하다.",
+      "GRE에서는 '감사하다' 외에 '인식하다, 이해하다'라는 뜻도 중요해!",
+      "'appreciate in value'는 '가치가 오르다'야. depreciate(가치가 떨어지다)의 반대!"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "appreciation",
+    "pos": "n.",
+    "head_meanings": [
+      "감사",
+      "인식",
+      "이해",
+      "감상",
+      "가치 상승"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "recognition",
+        "note": "인정, 인식"
+      },
+      {
+        "word": "understanding",
+        "note": "이해"
+      },
+      {
+        "word": "gratitude",
+        "note": "감사"
+      },
+      {
+        "word": "admiration",
+        "note": "감탄, 존경"
+      },
+      {
+        "word": "esteem",
+        "note": "존경, 존중"
+      },
+      {
+        "word": "critique",
+        "note": "비평, 평론"
+      }
+    ],
+    "tips": [
+      "appreciate의 명사형이야. 뜻이 다양하니까 문맥을 잘 봐야 해!",
+      "'art appreciation' = 미술 감상. 'price appreciation' = 가격 상승. 전혀 다른 뜻이지!",
+      "GRE 지문에서는 '깊은 이해/인식'이라는 뜻으로 자주 등장해."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "apprehend",
+    "pos": "v.",
+    "head_meanings": [
+      "체포하다",
+      "이해하다",
+      "염려하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "capture",
+        "note": "붙잡다, 포획하다"
+      },
+      {
+        "word": "seize",
+        "note": "잡다, 체포하다"
+      },
+      {
+        "word": "perceive",
+        "note": "인지하다, 감지하다"
+      },
+      {
+        "word": "understand",
+        "note": "이해하다"
+      },
+      {
+        "word": "fear",
+        "note": "두려워하다, 염려하다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `prehend`(잡다) = 잡다 → 체포하다 / (개념을) 잡다 → 이해하다.",
+      "comprehend(이해하다)와 같은 어근이야. com(완전히) + prehend(잡다) vs ap(향해) + prehend.",
+      "GRE에서는 세 가지 뜻 모두 나올 수 있어: 체포하다, 이해하다, 염려하다."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "apprehension(s)",
+    "pos": "n.",
+    "head_meanings": [
+      "우려",
+      "염려",
+      "이해",
+      "체포"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "anxiety",
+        "note": "불안, 걱정"
+      },
+      {
+        "word": "dread",
+        "note": "극도의 두려움"
+      },
+      {
+        "word": "trepidation",
+        "note": "전전긍긍하는 불안"
+      },
+      {
+        "word": "worry",
+        "note": "걱정"
+      },
+      {
+        "word": "uneasiness",
+        "note": "불안감"
+      }
+    ],
+    "tips": [
+      "apprehend의 명사형이야. 동사처럼 '우려, 이해, 체포' 세 뜻이 다 있어.",
+      "GRE에서는 '우려, 불안'이라는 뜻이 가장 자주 나와!",
+      "'with great apprehension' = 큰 불안감을 가지고. 시험에서 이 표현 자주 보여."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "apprehensive",
+    "pos": "adj.",
+    "head_meanings": [
+      "불안한",
+      "염려하는",
+      "이해가 빠른"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "anxious",
+        "note": "불안한, 걱정되는"
+      },
+      {
+        "word": "worried",
+        "note": "걱정하는"
+      },
+      {
+        "word": "nervous",
+        "note": "초조한"
+      },
+      {
+        "word": "concerned",
+        "note": "우려하는"
+      },
+      {
+        "word": "afraid",
+        "note": "두려워하는"
+      },
+      {
+        "word": "jittery",
+        "note": "안절부절하는"
+      }
+    ],
+    "tips": [
+      "apprehension(불안)의 형용사형이야. '불안해하는, 걱정하는'이 핵심 뜻!",
+      "'apprehensive about the exam' = 시험이 걱정되는. 우리 모두 공감하는 상황이지!",
+      "드물게 '이해가 빠른'이란 뜻도 있지만, GRE에서는 거의 '불안한'으로 나와."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "apprise",
+    "pos": "v.",
+    "head_meanings": [
+      "알리다",
+      "통고하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "inform",
+        "note": "알리다, 통보하다"
+      },
+      {
+        "word": "notify",
+        "note": "공식적으로 알리다"
+      },
+      {
+        "word": "acquaint",
+        "note": "알게 하다, 숙지시키다"
+      },
+      {
+        "word": "enlighten",
+        "note": "깨우쳐 주다"
+      },
+      {
+        "word": "instruct",
+        "note": "지시하다, 알려주다"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `prise`(알다) = ~에게 알려주다 → 통고하다.",
+      "appraise(평가하다)와 혼동 주의! apprise는 '알리다', appraise는 '평가하다'야!",
+      "'Please apprise me of any changes' = 변경사항이 있으면 알려달라는 뜻이야."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "approbation",
+    "pos": "n.",
+    "head_meanings": [
+      "승인",
+      "인가",
+      "칭찬"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "approval",
+        "note": "승인, 찬성"
+      },
+      {
+        "word": "acclaim",
+        "note": "열렬한 칭찬"
+      },
+      {
+        "word": "commendation",
+        "note": "칭찬, 표창"
+      },
+      {
+        "word": "endorsement",
+        "note": "지지, 보증"
+      },
+      {
+        "word": "ratification",
+        "note": "공식 승인, 비준"
+      },
+      {
+        "word": "praise",
+        "note": "칭찬"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `prob`(좋은) + `-ation` = 좋다고 인정하다 → 승인, 칭찬.",
+      "반대말 approbation ↔ disapprobation(비난). GRE에서 자주 나오는 쌍이야!",
+      "approve(승인하다)와 같은 어근이야. 공식적 승인이나 칭찬을 뜻해."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "approbatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "승인의",
+      "칭찬의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "approving",
+        "note": "찬성하는, 인정하는"
+      },
+      {
+        "word": "complimentary",
+        "note": "칭찬하는"
+      },
+      {
+        "word": "laudatory",
+        "note": "칭찬하는, 찬사의"
+      }
+    ],
+    "tips": [
+      "approbation(승인, 칭찬)의 형용사형이야.",
+      "'an approbatory nod' = 승인의 고개 끄덕임. 말 없이 OK 사인을 보내는 거지!",
+      "laudatory, complimentary와 비슷한 뜻이야. 반대는 disapprobatory(비난하는)."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "appropriate",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "적합한",
+      "적절한",
+      "전용하다",
+      "도용하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "confiscate",
+        "note": "몰수하다, 압수하다"
+      },
+      {
+        "word": "expropriate",
+        "note": "수용하다, 빼앗다"
+      },
+      {
+        "word": "steal",
+        "note": "훔치다"
+      },
+      {
+        "word": "poach",
+        "note": "밀렵하다, 빼앗다"
+      },
+      {
+        "word": "allocate",
+        "note": "할당하다, 배정하다"
+      },
+      {
+        "word": "set aside",
+        "note": "따로 떼어 놓다"
+      }
+    ],
+    "tips": [
+      "GRE 트랩 단어야! 형용사 '적절한'은 다 아는데, 동사 '전용하다/도용하다'가 핵심!",
+      "동사로 쓰일 때: 'He appropriated company funds' = 회사 자금을 횡령했다.",
+      "`ap-`(향해) + `propri`(자기 것) = 자기 것으로 만들다 → 도용하다. proper와 같은 어근이야."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "appropriation",
+    "pos": "n.",
+    "head_meanings": [
+      "전용",
+      "도용",
+      "횡령",
+      "세출 승인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "seizure",
+        "note": "압수, 몰수"
+      },
+      {
+        "word": "confiscation",
+        "note": "몰수, 압수"
+      },
+      {
+        "word": "pilferage",
+        "note": "좀도둑질, 횡령"
+      }
+    ],
+    "tips": [
+      "appropriate(전용하다)의 명사형이야. '남의 것을 가져다 쓰기'가 핵심 뜻!",
+      "'cultural appropriation'(문화 도용)이라는 표현 요즘 많이 들어봤을 거야.",
+      "의회에서 예산을 승인하는 것도 appropriation이라고 해. 돈을 '배정'하는 거지."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "appurtenance",
+    "pos": "n.",
+    "head_meanings": [
+      "부속물",
+      "종속물",
+      "장비"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "appendage",
+        "note": "부속물, 딸린 것"
+      },
+      {
+        "word": "accessory",
+        "note": "부속품, 액세서리"
+      },
+      {
+        "word": "belongings",
+        "note": "소지품, 소유물"
+      },
+      {
+        "word": "tailpiece",
+        "note": "말미에 붙은 부속물"
+      }
+    ],
+    "tips": [
+      "`ap-`(향해) + `pertain`(속하다) 변형 = ~에 딸린 것 → 부속물.",
+      "법률 용어로 부동산에 딸린 부속물(차고, 울타리 등)을 뜻하기도 해.",
+      "'the appurtenances of wealth' = 부의 부속물들(고급차, 저택 등)이라는 표현도 있어."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "apropos",
+    "pos": "adj./adv./prep.",
+    "head_meanings": [
+      "적절한",
+      "시의적절한",
+      "~에 관해서"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pertinent",
+        "note": "적절한, 관련된"
+      },
+      {
+        "word": "germane",
+        "note": "밀접하게 관련된"
+      },
+      {
+        "word": "relevant",
+        "note": "관련 있는"
+      },
+      {
+        "word": "timely",
+        "note": "시기적절한"
+      },
+      {
+        "word": "opportune",
+        "note": "때마침의"
+      },
+      {
+        "word": "apposite",
+        "note": "딱 맞는, 적절한"
+      }
+    ],
+    "tips": [
+      "프랑스어에서 온 말이야. `à propos`(~에 관하여) → 적절한, ~에 관해.",
+      "'Apropos of nothing, he changed the subject' = 뜬금없이 화제를 바꿨다.",
+      "apposite, apt, pertinent과 비슷한 뜻이야. 전치사로 'apropos of ~'(~에 관해)로도 써."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "apt",
+    "pos": "adj.",
+    "head_meanings": [
+      "적절한",
+      "~하기 쉬운",
+      "영리한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "appropriate",
+        "note": "적절한, 알맞은"
+      },
+      {
+        "word": "fitting",
+        "note": "어울리는"
+      },
+      {
+        "word": "suitable",
+        "note": "적합한"
+      },
+      {
+        "word": "prone",
+        "note": "~하기 쉬운, 경향이 있는"
+      },
+      {
+        "word": "quick",
+        "note": "이해가 빠른"
+      }
+    ],
+    "tips": [
+      "세 가지 뜻이 있어: ① 적절한 ② ~하기 쉬운(apt to forget) ③ 영리한(an apt pupil).",
+      "'An apt description' = 딱 맞는 묘사. GRE에서 가장 많이 나오는 뜻이야.",
+      "aptitude(소질, 적성)의 어근이기도 해. 짧고 자주 쓰이니까 확실히 외워두자!"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "aptitude",
+    "pos": "n.",
+    "head_meanings": [
+      "소질",
+      "적성",
+      "재능"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "talent",
+        "note": "타고난 재능"
+      },
+      {
+        "word": "gift",
+        "note": "천부적 소질"
+      },
+      {
+        "word": "ability",
+        "note": "능력"
+      },
+      {
+        "word": "faculty",
+        "note": "타고난 능력, 재능"
+      },
+      {
+        "word": "capability",
+        "note": "할 수 있는 능력"
+      },
+      {
+        "word": "genius",
+        "note": "천재적 재능"
+      }
+    ],
+    "tips": [
+      "`apt`(적절한, 영리한) + `-itude` = 잘 해낼 수 있는 자질 → 소질, 적성.",
+      "'aptitude test' 적성검사, 우리나라에서도 많이 쓰는 표현이지!",
+      "talent, gift가 타고난 느낌이라면, aptitude는 배움의 잠재력이라는 뉘앙스야."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "aquaculture",
+    "pos": "n.",
+    "head_meanings": [
+      "수산 양식",
+      "양식업"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "fish farming",
+        "note": "어류 양식"
+      },
+      {
+        "word": "mariculture",
+        "note": "해양 양식"
+      }
+    ],
+    "tips": [
+      "`aqua`(물) + `culture`(기르기) = 물에서 기르기 → 수산 양식.",
+      "새우, 연어 같은 걸 바다나 호수에서 인공으로 기르는 거야.",
+      "agriculture(농업)와 구조가 같아. agri(밭) vs aqua(물) + culture(경작)."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "arable",
+    "pos": "adj.",
+    "head_meanings": [
+      "경작할 수 있는",
+      "경작에 적합한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "fertile",
+        "note": "비옥한"
+      },
+      {
+        "word": "farmable",
+        "note": "농사지을 수 있는"
+      },
+      {
+        "word": "tillable",
+        "note": "갈아엎을 수 있는"
+      },
+      {
+        "word": "agrarian",
+        "note": "농업의, 농지의"
+      },
+      {
+        "word": "plowable",
+        "note": "쟁기질할 수 있는"
+      }
+    ],
+    "tips": [
+      "`ar`(밭을 갈다) + `-able` = 밭을 갈 수 있는 → 경작 가능한.",
+      "'arable land' = 경작 가능한 토지. 지리 관련 GRE 지문에서 나올 수 있어.",
+      "barren(불모의), arid(건조한)와 반대 개념이야."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "arbiter",
+    "pos": "n.",
+    "head_meanings": [
+      "중재인",
+      "결정자",
+      "심판자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "adjudicator",
+        "note": "재판관, 심판자"
+      },
+      {
+        "word": "referee",
+        "note": "심판, 중재자"
+      },
+      {
+        "word": "umpire",
+        "note": "심판원"
+      },
+      {
+        "word": "moderator",
+        "note": "중재자, 조정자"
+      },
+      {
+        "word": "authority",
+        "note": "권위자"
+      }
+    ],
+    "tips": [
+      "`arbiter`는 분쟁을 판단하는 사람이야. arbitrate(중재하다)의 어근!",
+      "'arbiter of taste' = 유행/취향의 결정자. 패션잡지 편집장 같은 사람을 말해.",
+      "judge보다 비공식적이고, 개인적 권위로 판단하는 느낌이 강해."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "arbitrary",
+    "pos": "adj.",
+    "head_meanings": [
+      "자의적인",
+      "임의의",
+      "독단적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "capricious",
+        "note": "변덕스러운"
+      },
+      {
+        "word": "random",
+        "note": "무작위의"
+      },
+      {
+        "word": "whimsical",
+        "note": "기분 내키는 대로의"
+      },
+      {
+        "word": "despotic",
+        "note": "독재적인"
+      },
+      {
+        "word": "tyrannical",
+        "note": "폭군적인"
+      },
+      {
+        "word": "authoritarian",
+        "note": "권위주의적인"
+      }
+    ],
+    "tips": [
+      "`arbiter`(결정자) + `-ary` = 한 사람 맘대로 결정하는 → 자의적인, 독단적인.",
+      "GRE에서 두 뜻 모두 중요: ① 근거 없이 임의적인 ② 권력을 독단적으로 행사하는.",
+      "'an arbitrary decision' = 근거 없는 자의적 결정. 논리적이지 않다는 뉘앙스야."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "arbitrate",
+    "pos": "v.",
+    "head_meanings": [
+      "중재하다",
+      "조정하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "mediate",
+        "note": "중재하다, 조정하다"
+      },
+      {
+        "word": "adjudicate",
+        "note": "판결하다, 심판하다"
+      },
+      {
+        "word": "reconcile",
+        "note": "화해시키다"
+      },
+      {
+        "word": "umpire",
+        "note": "심판을 보다"
+      },
+      {
+        "word": "referee",
+        "note": "심판하다, 중재하다"
+      }
+    ],
+    "tips": [
+      "`arbiter`(중재인) + `-ate` = 중재인 역할을 하다 → 중재하다.",
+      "노동 분쟁에서 'arbitration(중재)'은 법적으로도 쓰이는 용어야.",
+      "mediate는 양측을 이어주는 느낌, arbitrate는 판정을 내리는 느낌이 더 강해."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "arcane",
+    "pos": "adj.",
+    "head_meanings": [
+      "비밀스러운",
+      "난해한",
+      "신비로운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "esoteric",
+        "note": "소수만 아는, 난해한"
+      },
+      {
+        "word": "recondite",
+        "note": "심오한, 난해한"
+      },
+      {
+        "word": "abstruse",
+        "note": "이해하기 어려운"
+      },
+      {
+        "word": "enigmatic",
+        "note": "수수께끼 같은"
+      },
+      {
+        "word": "obscure",
+        "note": "모호한, 잘 알려지지 않은"
+      },
+      {
+        "word": "mysterious",
+        "note": "신비로운, 불가해한"
+      }
+    ],
+    "tips": [
+      "`arca`(상자, 궤) = 상자 속에 감춰진 → 비밀스러운, 난해한. GRE 단골 단어야!",
+      "esoteric, recondite, abstruse와 함께 '난해한' 동의어 그룹을 이루는 핵심 단어야.",
+      "'arcane knowledge' = 소수만 아는 비밀스러운 지식. 마법사 느낌 나지?"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "archaic",
+    "pos": "adj.",
+    "head_meanings": [
+      "고풍의",
+      "고대의",
+      "구식의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "antiquated",
+        "note": "낡은, 시대에 뒤떨어진"
+      },
+      {
+        "word": "obsolescent",
+        "note": "쓸모없어져 가는"
+      },
+      {
+        "word": "ancient",
+        "note": "고대의"
+      },
+      {
+        "word": "antediluvian",
+        "note": "대홍수 이전의, 아주 오래된"
+      },
+      {
+        "word": "timeworn",
+        "note": "세월에 낡은"
+      }
+    ],
+    "tips": [
+      "`arch`(시작, 으뜸) + `-aic` = 옛 시작에서부터의 → 고대의, 구식의.",
+      "'archaic language' = 고어체. 셰익스피어의 'thou, thee' 같은 거야.",
+      "obsolete(완전히 폐기된)보다는 약한 느낌. archaic은 아직 가끔 쓰이기도 해."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "archetype / archetypal",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "원형",
+      "전형",
+      "모범",
+      "원형적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "prototype",
+        "note": "원형, 시제품"
+      },
+      {
+        "word": "paradigm",
+        "note": "전형적 모범, 패러다임"
+      },
+      {
+        "word": "exemplar",
+        "note": "모범, 본보기"
+      },
+      {
+        "word": "paragon",
+        "note": "완벽한 모범"
+      },
+      {
+        "word": "quintessence",
+        "note": "전형, 정수"
+      },
+      {
+        "word": "model",
+        "note": "모형, 모범"
+      }
+    ],
+    "tips": [
+      "`arche`(원초적인) + `type`(형태) = 원초적인 형태 → 원형, 전형. 형용사형은 archetypal.",
+      "융(Jung) 심리학의 archetype(원형)이 유명해. 영웅, 그림자 같은 보편적 심상이야.",
+      "'She is the archetype of a dedicated scientist' = 헌신적인 과학자의 전형이야."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "archive(s)",
+    "pos": "n./v.",
+    "head_meanings": [
+      "기록 보관소",
+      "공문서",
+      "보관하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "records",
+        "note": "기록물"
+      },
+      {
+        "word": "documents",
+        "note": "문서"
+      },
+      {
+        "word": "annals",
+        "note": "연대기, 기록"
+      },
+      {
+        "word": "chronicles",
+        "note": "연대기"
+      },
+      {
+        "word": "memorabilia",
+        "note": "기념품, 유품"
+      },
+      {
+        "word": "library",
+        "note": "도서관, 자료실"
+      }
+    ],
+    "tips": [
+      "`arch`(으뜸, 통치) = 공적 기록을 보관하는 곳 → 기록 보관소.",
+      "컴퓨터에서 파일을 archive한다는 건 '보관/압축'한다는 뜻이지. 일상에서도 자주 써!",
+      "the National Archives = 국가 기록원. 역사적 문서를 보존하는 기관이야."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "ardent",
+    "pos": "adj.",
+    "head_meanings": [
+      "열렬한",
+      "열정적인",
+      "헌신적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "passionate",
+        "note": "열정적인"
+      },
+      {
+        "word": "fervent",
+        "note": "열렬한, 뜨거운"
+      },
+      {
+        "word": "zealous",
+        "note": "열성적인"
+      },
+      {
+        "word": "enthusiastic",
+        "note": "열광적인"
+      },
+      {
+        "word": "devoted",
+        "note": "헌신적인"
+      }
+    ],
+    "tips": [
+      "`ard`(타다, 불) = 마음이 불타는 → 열렬한, 정열적인.",
+      "ardor(열정)의 형용사형이야. 'an ardent supporter' = 열렬한 지지자.",
+      "fervent, zealous, passionate와 함께 '열정적인' 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "ardor",
+    "pos": "n.",
+    "head_meanings": [
+      "열정",
+      "열심",
+      "열기"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "fervor",
+        "note": "열정, 열의"
+      },
+      {
+        "word": "enthusiasm",
+        "note": "열광, 열의"
+      },
+      {
+        "word": "vehemence",
+        "note": "격렬함, 열정"
+      },
+      {
+        "word": "intensity",
+        "note": "강렬함"
+      },
+      {
+        "word": "desire",
+        "note": "열망"
+      },
+      {
+        "word": "animation",
+        "note": "활기, 생동감"
+      }
+    ],
+    "tips": [
+      "`ard`(타다) = 불타는 듯한 감정 → 열정, 열기.",
+      "ardent(열렬한)의 명사형이야. 'with great ardor' = 대단한 열정으로.",
+      "fervor, zeal과 비슷하지만, ardor는 특히 사랑의 열정이라는 뉘앙스도 있어."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "arduous",
+    "pos": "adj.",
+    "head_meanings": [
+      "힘든",
+      "고된",
+      "벅찬"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "laborious",
+        "note": "힘들고 고된"
+      },
+      {
+        "word": "toilsome",
+        "note": "수고로운"
+      },
+      {
+        "word": "burdensome",
+        "note": "부담스러운"
+      },
+      {
+        "word": "strenuous",
+        "note": "힘이 많이 드는"
+      },
+      {
+        "word": "grueling",
+        "note": "녹초가 되게 하는"
+      }
+    ],
+    "tips": [
+      "`ard`(가파른) + `-uous` = 가파르고 오르기 힘든 → 힘든, 고된.",
+      "'an arduous journey' = 힘든 여정. 산을 오르는 것처럼 고된 일을 묘사할 때 써.",
+      "ardent(열렬한)와 어원이 비슷해 보이지만 뜻이 완전 달라! arduous = 힘든, ardent = 열렬한."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "arduousness",
+    "pos": "n.",
+    "head_meanings": [
+      "힘겨움",
+      "고됨"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "difficulty",
+        "note": "어려움"
+      },
+      {
+        "word": "hardship",
+        "note": "고난, 고초"
+      },
+      {
+        "word": "rigor",
+        "note": "혹독함, 엄격함"
+      }
+    ],
+    "tips": [
+      "arduous(힘든)의 명사형이야. '힘겨움, 고됨'이라는 뜻!",
+      "'the arduousness of the task' = 그 일의 고됨.",
+      "difficulty보다 더 강한 느낌이야. 육체적·정신적으로 극도로 힘든 상태를 뜻해."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "argot",
+    "pos": "n.",
+    "head_meanings": [
+      "은어",
+      "직업어",
+      "속어"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "jargon",
+        "note": "전문 용어, 업계 용어"
+      },
+      {
+        "word": "slang",
+        "note": "속어, 비격식 표현"
+      },
+      {
+        "word": "cant",
+        "note": "특정 집단의 은어"
+      },
+      {
+        "word": "lingo",
+        "note": "특수 언어, 전문어"
+      },
+      {
+        "word": "vernacular",
+        "note": "일상어, 방언"
+      },
+      {
+        "word": "idiom",
+        "note": "관용어, 숙어"
+      }
+    ],
+    "tips": [
+      "발음이 [ˈɑːrɡoʊ] '아르고'야! 마지막 t는 묵음이야(프랑스어 유래).",
+      "원래 프랑스 도둑들의 은어를 뜻했어. 지금은 특정 집단의 전문 용어를 의미해.",
+      "'medical argot' = 의학 은어. jargon과 비슷하지만 더 비밀스러운 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "argumentative",
+    "pos": "adj.",
+    "head_meanings": [
+      "논쟁적인",
+      "반박을 일삼는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "quarrelsome",
+        "note": "싸움을 좋아하는"
+      },
+      {
+        "word": "confrontational",
+        "note": "대립적인"
+      },
+      {
+        "word": "contentious",
+        "note": "논쟁을 일으키는"
+      },
+      {
+        "word": "combative",
+        "note": "호전적인"
+      }
+    ],
+    "tips": [
+      "`argument`(논쟁) + `-ative` = 논쟁을 좋아하는, 시비를 거는.",
+      "'Don't be so argumentative!' = 그렇게 따지지 마! 일상에서도 쓰는 표현이야.",
+      "부사형 argumentatively(논쟁적으로)도 함께 알아두면 좋아."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "arid",
+    "pos": "adj.",
+    "head_meanings": [
+      "건조한",
+      "메마른",
+      "무미건조한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "parched",
+        "note": "바짝 마른"
+      },
+      {
+        "word": "dried-up",
+        "note": "말라붙은"
+      },
+      {
+        "word": "barren",
+        "note": "불모의, 황량한"
+      },
+      {
+        "word": "desiccated",
+        "note": "건조시킨, 메마른"
+      }
+    ],
+    "tips": [
+      "`arid`는 비가 거의 안 오는 건조한 기후나 땅을 묘사할 때 써.",
+      "비유적으로 '무미건조한'이라는 뜻도 있어. 'an arid lecture' = 재미없는 강의.",
+      "arable(경작 가능한)과 비교해봐! arid한 땅은 arable하지 않지."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "aristocracy",
+    "pos": "n.",
+    "head_meanings": [
+      "귀족",
+      "귀족 사회",
+      "귀족 정치"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "nobility",
+        "note": "귀족 계급"
+      },
+      {
+        "word": "peerage",
+        "note": "귀족(작위 보유자)"
+      },
+      {
+        "word": "upper class",
+        "note": "상류층"
+      },
+      {
+        "word": "high society",
+        "note": "상류 사회"
+      },
+      {
+        "word": "patricians",
+        "note": "로마 귀족, 명문가"
+      }
+    ],
+    "tips": [
+      "`aristo`(최고의) + `cracy`(통치) = 최고의 사람들이 통치 → 귀족 정치.",
+      "democracy(민주정치)와 구조가 같아. demo(민중) vs aristo(최고) + cracy(통치).",
+      "aristocrat(귀족), aristocratic(귀족적인)도 같은 어근이야."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "aristocratic",
+    "pos": "adj.",
+    "head_meanings": [
+      "귀족의",
+      "귀족적인",
+      "품위 있는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "noble",
+        "note": "고귀한, 귀족의"
+      },
+      {
+        "word": "elite",
+        "note": "엘리트의, 특권층의"
+      },
+      {
+        "word": "refined",
+        "note": "세련된, 교양 있는"
+      },
+      {
+        "word": "dignified",
+        "note": "위엄 있는"
+      },
+      {
+        "word": "courtly",
+        "note": "궁정풍의, 우아한"
+      },
+      {
+        "word": "haughty",
+        "note": "거만한, 오만한"
+      }
+    ],
+    "tips": [
+      "aristocracy(귀족)의 형용사형이야. 긍정적(품위 있는)·부정적(거만한) 뉘앙스 다 있어.",
+      "'aristocratic bearing' = 귀족적인 풍채. 우아하면서도 거만한 느낌!",
+      "GRE에서는 긍정(refined, dignified)과 부정(haughty) 뜻 둘 다 문맥으로 구분해야 해."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "aromatic",
+    "pos": "adj.",
+    "head_meanings": [
+      "향기로운",
+      "방향의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "fragrant",
+        "note": "향기로운"
+      },
+      {
+        "word": "sweet-smelling",
+        "note": "달콤한 향의"
+      },
+      {
+        "word": "redolent",
+        "note": "향기가 풍기는"
+      },
+      {
+        "word": "odoriferous",
+        "note": "향을 내는"
+      },
+      {
+        "word": "sweet-scented",
+        "note": "좋은 향의"
+      }
+    ],
+    "tips": [
+      "`aroma`(향기) + `-tic` = 향기가 나는 → 향기로운.",
+      "'aromatic herbs' = 향긋한 허브. 로즈마리, 바질 같은 거!",
+      "화학에서 aromatic compound(방향족 화합물)는 벤젠 고리 구조를 말해. 과학 지문 주의!"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "arouse",
+    "pos": "v.",
+    "head_meanings": [
+      "자극하다",
+      "환기하다",
+      "깨우다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "stimulate",
+        "note": "자극하다"
+      },
+      {
+        "word": "provoke",
+        "note": "유발하다, 자극하다"
+      },
+      {
+        "word": "incite",
+        "note": "선동하다, 부추기다"
+      },
+      {
+        "word": "kindle",
+        "note": "불붙이다, 일깨우다"
+      },
+      {
+        "word": "galvanize",
+        "note": "행동하도록 자극하다"
+      },
+      {
+        "word": "rouse",
+        "note": "깨우다, 분발시키다"
+      }
+    ],
+    "tips": [
+      "`a-`(강조) + `rouse`(깨우다) = 깨우다, 자극하다.",
+      "'arouse suspicion' = 의심을 불러일으키다. 감정·관심을 자극할 때 자주 써.",
+      "rouse와 거의 같은 뜻이야. 명사형 arousal(각성, 자극)도 알아두면 좋아."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "arousal",
+    "pos": "n.",
+    "head_meanings": [
+      "각성",
+      "자극",
+      "환기"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "stimulation",
+        "note": "자극"
+      },
+      {
+        "word": "awakening",
+        "note": "각성, 눈뜸"
+      },
+      {
+        "word": "excitation",
+        "note": "흥분, 자극"
+      }
+    ],
+    "tips": [
+      "arouse(자극하다)의 명사형이야. '각성, 자극'이라는 뜻이야.",
+      "심리학에서 'arousal level' = 각성 수준. 학술 지문에서 나올 수 있어.",
+      "'emotional arousal' = 감정적 각성. 과학적 맥락에서 자주 쓰이는 표현이야."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "argumentatively",
+    "pos": "adv.",
+    "head_meanings": [
+      "논쟁적으로"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "contentiously",
+        "note": "논쟁적으로"
+      },
+      {
+        "word": "combatively",
+        "note": "호전적으로"
+      }
+    ],
+    "tips": [
+      "argumentative(논쟁적인)의 부사형이야.",
+      "'He spoke argumentatively' = 그는 논쟁조로 말했다.",
+      "GRE 문장 완성에서 톤이나 태도를 묘사할 때 쓰일 수 있어."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "arraign",
+    "pos": "v.",
+    "head_meanings": [
+      "기소하다",
+      "비난하다",
+      "심문하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "accuse",
+        "note": "고발하다, 비난하다"
+      },
+      {
+        "word": "indict",
+        "note": "기소하다"
+      },
+      {
+        "word": "denounce",
+        "note": "공개적으로 비난하다"
+      },
+      {
+        "word": "censure",
+        "note": "공식적으로 비난하다"
+      },
+      {
+        "word": "reproach",
+        "note": "나무라다, 책망하다"
+      }
+    ],
+    "tips": [
+      "발음이 [əˈreɪn] '어레인'이야! 철자에 속지 마, rain처럼 발음해.",
+      "법정에서 피고를 불러 죄를 묻는 절차야. 'arraign someone in court' = 법정에 세우다.",
+      "`ar-`(향해) + `raign`(이유를 대다) = 이유를 따지다 → 기소하다, 비난하다."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "arrest",
+    "pos": "v",
+    "head_meanings": [
+      "(주의를) 끌다",
+      "(진행을) 멈추다",
+      "체포하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "capture",
+        "note": "체포하다"
+      },
+      {
+        "word": "detain",
+        "note": "구금하다"
+      },
+      {
+        "word": "halt",
+        "note": "멈추게 하다"
+      },
+      {
+        "word": "check",
+        "note": "저지하다"
+      },
+      {
+        "word": "inhibit",
+        "note": "억제하다"
+      }
+    ],
+    "tips": [
+      "GRE에서는 '체포하다'보다 '(주의를) 끌다', '(진행을) 멈추다'로 나와. 일상 뜻에 속지 마!",
+      "`ar-`(=ad, ~쪽으로) + `rest`(멈추다) → 멈추게 하다, 눈길을 딱 멈추게 하다.",
+      "arrest the spread of disease = 질병 확산을 멈추다. 이 용법이 GRE에서 자주 나와."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "arresting",
+    "pos": "adj",
+    "head_meanings": [
+      "눈길을 사로잡는",
+      "인상적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "striking",
+        "note": "눈에 확 띄는"
+      },
+      {
+        "word": "eye-catching",
+        "note": "시선을 끄는"
+      },
+      {
+        "word": "riveting",
+        "note": "시선을 고정시키는"
+      },
+      {
+        "word": "conspicuous",
+        "note": "두드러지는"
+      }
+    ],
+    "tips": [
+      "arrest가 '주의를 끌다'니까 arresting은 '주의를 끄는' → 눈길을 사로잡는!",
+      "an arresting image = 시선을 확 사로잡는 이미지. '체포하는'이 아니야~",
+      "`arrest`(멈추게 하다) + `-ing` → 지나가다 멈출 만큼 눈길을 끄는."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "arrogance",
+    "pos": "n",
+    "head_meanings": [
+      "거만함",
+      "오만"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "hubris",
+        "note": "자기 과신에서 오는 오만"
+      },
+      {
+        "word": "contempt",
+        "note": "경멸"
+      },
+      {
+        "word": "swagger",
+        "note": "뻐기는 태도"
+      },
+      {
+        "word": "vanity",
+        "note": "허영심"
+      },
+      {
+        "word": "insolence",
+        "note": "무례한 오만"
+      },
+      {
+        "word": "loftiness",
+        "note": "거드름"
+      }
+    ],
+    "tips": [
+      "`ar-`(=ad) + `rog`(묻다, 요구하다) → 자기가 당연히 받을 자격이 있다고 요구하는 태도.",
+      "arrogance vs. confidence: 자신감은 좋은 거지만, arrogance는 남을 깔보는 거야.",
+      "hubris도 같이 외워두면 좋아. 그리스 비극에서 영웅이 hubris 때문에 몰락하잖아."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "arrogant",
+    "pos": "adj",
+    "head_meanings": [
+      "거만한",
+      "오만한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "haughty",
+        "note": "거만한, 도도한"
+      },
+      {
+        "word": "supercilious",
+        "note": "거들먹거리는"
+      },
+      {
+        "word": "imperious",
+        "note": "거만하게 명령하는"
+      }
+    ],
+    "tips": [
+      "arrogance의 형용사형이야. haughty, supercilious도 같이 알아두면 GRE에서 든든해.",
+      "`arrog`(요구하다) + `-ant` → 당연하다는 듯 요구하는 → 거만한.",
+      "She gave an arrogant smirk. 이런 느낌! 남을 깔보는 태도가 핵심이야."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "arson",
+    "pos": "n",
+    "head_meanings": [
+      "방화"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "incendiarism",
+        "note": "방화 행위"
+      }
+    ],
+    "tips": [
+      "`ars`(타다) + `-on` → 일부러 불을 지르는 범죄 행위.",
+      "arsonist = 방화범. 뉴스에서 자주 나오는 단어니까 어렵지 않을 거야.",
+      "arson은 범죄 용어야. 실수로 난 불은 arson이 아니라 accidental fire!"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "artful",
+    "pos": "adj",
+    "head_meanings": [
+      "교묘한",
+      "교활한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "sly",
+        "note": "은밀하게 교활한"
+      },
+      {
+        "word": "deceitful",
+        "note": "속이는"
+      },
+      {
+        "word": "cunning",
+        "note": "꾀 많은"
+      },
+      {
+        "word": "wily",
+        "note": "간사한"
+      },
+      {
+        "word": "crafty",
+        "note": "교활한"
+      },
+      {
+        "word": "clever",
+        "note": "영리한, 약삭빠른"
+      }
+    ],
+    "tips": [
+      "artless(꾸밈없는, 순진한)의 정반대! art + ful = 기술이 가득한 → 교묘한, 교활한.",
+      "Oliver Twist의 'Artful Dodger' 기억나? 교활하게 소매치기하는 소년이야.",
+      "artful negotiator = 교묘한 협상가. 꼭 나쁜 뜻만은 아니고 '솜씨 좋은'도 돼."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "articulate",
+    "pos": "adj/v",
+    "head_meanings": [
+      "조리 있게 표현하는",
+      "명확한",
+      "또렷이 말하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "eloquent",
+        "note": "웅변적인"
+      },
+      {
+        "word": "fluent",
+        "note": "유창한"
+      },
+      {
+        "word": "persuasive",
+        "note": "설득력 있는"
+      },
+      {
+        "word": "lucid",
+        "note": "명쾌한"
+      },
+      {
+        "word": "expressive",
+        "note": "표현력이 풍부한"
+      },
+      {
+        "word": "silver-tongued",
+        "note": "말솜씨 좋은"
+      },
+      {
+        "word": "intelligible",
+        "note": "이해할 수 있는"
+      },
+      {
+        "word": "enunciate",
+        "note": "또렷이 발음하다"
+      },
+      {
+        "word": "communicate",
+        "note": "전달하다"
+      }
+    ],
+    "tips": [
+      "`artic`(관절) + `-ulate` → 관절처럼 마디마디 또렷하게 말하다.",
+      "She is very articulate = 말을 조리 있게 잘 해. 형용사로도 동사로도 많이 써.",
+      "GRE에서 inarticulate(말을 못하는)와 대비되니까 같이 알아둬."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "artifact",
+    "pos": "n",
+    "head_meanings": [
+      "인공물",
+      "유물",
+      "가공물"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "relic",
+        "note": "유물, 유적"
+      },
+      {
+        "word": "specimen",
+        "note": "표본, 견본"
+      },
+      {
+        "word": "antiquity",
+        "note": "고대 유물"
+      }
+    ],
+    "tips": [
+      "`arti`(기술) + `fact`(만들다) → 사람의 기술로 만들어진 것 → 인공물, 유물.",
+      "박물관에서 ancient artifacts = 고대 유물. 이 뜻이 GRE에서 주로 나와.",
+      "artifact vs. natural object: artifact는 인간이 만든 것, 자연물과 반대 개념이야."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "artifice",
+    "pos": "n",
+    "head_meanings": [
+      "책략",
+      "교묘한 수법",
+      "속임수"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "chicanery",
+        "note": "교묘한 속임수"
+      },
+      {
+        "word": "cunning",
+        "note": "교활함"
+      },
+      {
+        "word": "tactic",
+        "note": "전략, 술책"
+      },
+      {
+        "word": "craftiness",
+        "note": "교활함"
+      },
+      {
+        "word": "deceit",
+        "note": "기만"
+      },
+      {
+        "word": "intrigue",
+        "note": "음모"
+      },
+      {
+        "word": "deception",
+        "note": "속임"
+      },
+      {
+        "word": "trickery",
+        "note": "사기, 속임수"
+      }
+    ],
+    "tips": [
+      "`arti`(기술) + `fice`(만들다) → 기술적으로 교묘하게 만들어낸 것 → 책략, 속임수.",
+      "artful과 같은 뿌리야. 둘 다 '교묘한 기술'이라는 뉘앙스가 있어.",
+      "political artifice = 정치적 술책. GRE 지문에서 자주 보이는 맥락이야."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "artificial",
+    "pos": "adj",
+    "head_meanings": [
+      "인공의",
+      "인위적인",
+      "부자연스러운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "spurious",
+        "note": "가짜의"
+      },
+      {
+        "word": "insincere",
+        "note": "진실하지 않은"
+      },
+      {
+        "word": "feigned",
+        "note": "꾸며낸"
+      },
+      {
+        "word": "contrived",
+        "note": "부자연스러운"
+      },
+      {
+        "word": "synthetic",
+        "note": "합성의"
+      },
+      {
+        "word": "ersatz",
+        "note": "대용의, 모조의"
+      },
+      {
+        "word": "fabricated",
+        "note": "날조된"
+      },
+      {
+        "word": "man-made",
+        "note": "인공의"
+      }
+    ],
+    "tips": [
+      "`arti`(기술) + `ficial`(만드는) → 기술로 만든 → 인공의, 부자연스러운.",
+      "artificial smile = 억지 미소. '가짜'라는 느낌이 핵심이야.",
+      "ersatz도 같이 외워. artificial과 비슷하게 '대용품의, 모조의'라는 뜻이야."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "artisan",
+    "pos": "n",
+    "head_meanings": [
+      "장인",
+      "숙련공"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "craftsman",
+        "note": "수공업자"
+      },
+      {
+        "word": "expert",
+        "note": "전문가"
+      },
+      {
+        "word": "technician",
+        "note": "기술자"
+      },
+      {
+        "word": "master",
+        "note": "장인, 대가"
+      }
+    ],
+    "tips": [
+      "`art`(기술) + `-isan`(사람) → 기술을 가진 사람 → 장인.",
+      "요즘 artisan bread, artisan coffee 같은 표현 많이 보지? '장인이 만든'이라는 뜻이야.",
+      "artisan vs. artist: artisan은 실용적 기술의 장인, artist는 예술가."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "artisanship",
+    "pos": "n",
+    "head_meanings": [
+      "장인 정신",
+      "기예"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "craftsmanship",
+        "note": "장인 기술"
+      },
+      {
+        "word": "workmanship",
+        "note": "솜씨, 기량"
+      }
+    ],
+    "tips": [
+      "artisan(장인) + `-ship`(상태/능력) → 장인의 기술이나 정신.",
+      "craftsmanship과 거의 같은 뜻이야. 둘 다 '솜씨 좋은 기술'을 가리켜.",
+      "the artisanship of traditional pottery = 전통 도자기의 장인 기술."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "artless",
+    "pos": "adj",
+    "head_meanings": [
+      "꾸밈없는",
+      "순진한",
+      "자연스러운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "natural",
+        "note": "자연스러운"
+      },
+      {
+        "word": "ingenuous",
+        "note": "순진한, 솔직한"
+      },
+      {
+        "word": "naive",
+        "note": "순진한"
+      },
+      {
+        "word": "innocent",
+        "note": "순수한"
+      },
+      {
+        "word": "guileless",
+        "note": "꾸밈없는"
+      },
+      {
+        "word": "candid",
+        "note": "솔직한"
+      },
+      {
+        "word": "sincere",
+        "note": "진심 어린"
+      },
+      {
+        "word": "unaffected",
+        "note": "꾸밈없는"
+      },
+      {
+        "word": "straightforward",
+        "note": "직설적인"
+      }
+    ],
+    "tips": [
+      "GRE 함정! '재능 없는'이 아니라 '꾸밈없는, 순진한'이야. artful(교묘한)의 반대!",
+      "`art`(기교) + `-less`(없는) → 기교가 없는 → 꾸밈없는, 순진한.",
+      "an artless child = 순진무구한 아이. guileless, ingenuous와 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "artlessness",
+    "pos": "n",
+    "head_meanings": [
+      "꾸밈없음",
+      "순진함",
+      "솔직함"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "naivety",
+        "note": "순진함"
+      },
+      {
+        "word": "ingenuousness",
+        "note": "솔직함"
+      },
+      {
+        "word": "candor",
+        "note": "꾸밈없는 솔직함"
+      }
+    ],
+    "tips": [
+      "artless(꾸밈없는) + `-ness` → 꾸밈없음. 명사형이야.",
+      "the artlessness of her reply = 그녀의 답변의 꾸밈없음.",
+      "artlessness는 긍정적 뉘앙스야. 세련되지 않다는 게 아니라 진솔하다는 거야."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "ascendancy",
+    "pos": "n",
+    "head_meanings": [
+      "우위",
+      "우세",
+      "지배권"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "domination",
+        "note": "지배"
+      },
+      {
+        "word": "superiority",
+        "note": "우월함"
+      },
+      {
+        "word": "mastery",
+        "note": "지배력"
+      },
+      {
+        "word": "preeminence",
+        "note": "탁월함, 수위"
+      }
+    ],
+    "tips": [
+      "`ascend`(오르다) + `-ancy`(상태) → 위로 올라간 상태 → 우위, 지배권.",
+      "gain ascendancy over = ~에 대해 우위를 점하다. GRE 지문에 자주 나오는 표현이야.",
+      "ascendancy, dominance, supremacy 다 비슷한 뜻이니 세트로 외워."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "ascertain",
+    "pos": "v",
+    "head_meanings": [
+      "확인하다",
+      "규명하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "verify",
+        "note": "검증하다"
+      },
+      {
+        "word": "determine",
+        "note": "확정하다"
+      },
+      {
+        "word": "establish",
+        "note": "확립하다"
+      },
+      {
+        "word": "detect",
+        "note": "탐지하다"
+      },
+      {
+        "word": "certify",
+        "note": "확인 증명하다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad) + `certain`(확실한) → 확실하게 만들다 → 확인하다.",
+      "ascertain the facts = 사실을 확인하다. 일상에서 check 대신 격식적으로 쓰는 단어야.",
+      "GRE에서 verify, corroborate와 비슷한 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "ascetic",
+    "pos": "adj/n",
+    "head_meanings": [
+      "금욕적인",
+      "고행의",
+      "금욕주의자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "abstinent",
+        "note": "절제하는"
+      },
+      {
+        "word": "austere",
+        "note": "검소한, 엄격한"
+      },
+      {
+        "word": "severe",
+        "note": "엄격한"
+      },
+      {
+        "word": "strict",
+        "note": "엄한"
+      }
+    ],
+    "tips": [
+      "그리스어 `asketes`(수행하는 사람)에서 왔어. 수도승처럼 욕심 없이 사는 사람이야.",
+      "an ascetic lifestyle = 금욕적 생활방식. 스님이나 수도사를 떠올려봐.",
+      "GRE 단골이야! spartan, austere와 비슷한 뜻으로 자주 나와."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "asceticism",
+    "pos": "n",
+    "head_meanings": [
+      "금욕주의",
+      "고행"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "abstinence",
+        "note": "절제, 금욕"
+      },
+      {
+        "word": "penance",
+        "note": "참회 고행"
+      },
+      {
+        "word": "continence",
+        "note": "절제"
+      },
+      {
+        "word": "teetotalism",
+        "note": "금주주의"
+      },
+      {
+        "word": "Stoicism",
+        "note": "스토아주의, 극기주의"
+      }
+    ],
+    "tips": [
+      "ascetic(금욕적인) + `-ism`(주의) → 금욕주의. 쾌락을 멀리하는 삶의 방식이야.",
+      "중세 수도사들의 asceticism이 대표적이야. 세속적 욕망을 버리고 수행에 전념하는 거지.",
+      "hedonism(쾌락주의)의 정반대 개념이야. 이 대비를 GRE에서 자주 물어봐."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "ascribe",
+    "pos": "v",
+    "head_meanings": [
+      "~의 탓으로 돌리다",
+      "~에 귀속시키다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "attribute",
+        "note": "~의 탓으로 돌리다"
+      },
+      {
+        "word": "credit",
+        "note": "공을 돌리다"
+      },
+      {
+        "word": "impute",
+        "note": "전가하다"
+      },
+      {
+        "word": "accredit",
+        "note": "~의 덕으로 돌리다"
+      }
+    ],
+    "tips": [
+      "`a-`(~에게) + `scribe`(쓰다) → ~에게 써 붙이다 → ~의 탓으로 돌리다.",
+      "ascribe A to B = A를 B의 탓으로 돌리다. attribute와 같은 구문이야.",
+      "He ascribed his success to hard work = 성공을 노력 덕으로 돌렸다."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "aseptic",
+    "pos": "adj",
+    "head_meanings": [
+      "무균의",
+      "살균된"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "germfree",
+        "note": "무균의"
+      },
+      {
+        "word": "sterilized",
+        "note": "살균된"
+      },
+      {
+        "word": "sanitary",
+        "note": "위생적인"
+      }
+    ],
+    "tips": [
+      "`a-`(없는) + `septic`(세균의) → 세균이 없는 → 무균의.",
+      "aseptic technique = 무균 조작법. 병원이나 실험실에서 쓰는 표현이야.",
+      "septic(세균에 감염된)의 반대야. antiseptic(방부성의)과도 비교해봐."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "askew",
+    "pos": "adj/adv",
+    "head_meanings": [
+      "비뚤어진",
+      "비스듬한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "lopsided",
+        "note": "한쪽으로 기운"
+      },
+      {
+        "word": "asymmetrical",
+        "note": "비대칭의"
+      },
+      {
+        "word": "tilted",
+        "note": "기울어진"
+      },
+      {
+        "word": "oblique",
+        "note": "비스듬한"
+      },
+      {
+        "word": "crooked",
+        "note": "구부러진"
+      },
+      {
+        "word": "awry",
+        "note": "비뚤어진, 잘못된"
+      },
+      {
+        "word": "skewed",
+        "note": "기울어진"
+      }
+    ],
+    "tips": [
+      "발음 [əˈskjuː] '어스큐'. skew(비틀다)에 a-가 붙은 거야.",
+      "His tie was askew = 넥타이가 삐뚤었다. 일상에서도 많이 쓰는 단어야.",
+      "awry와 거의 같은 뜻! 둘 다 '비뚤어진'이야. go awry = 잘못되다."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "asperity",
+    "pos": "n",
+    "head_meanings": [
+      "거칠음",
+      "신랄함",
+      "가혹함"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "bitterness",
+        "note": "쓰라림, 신랄함"
+      },
+      {
+        "word": "causticity",
+        "note": "신랄함"
+      },
+      {
+        "word": "pungency",
+        "note": "톡 쏘는 자극"
+      },
+      {
+        "word": "acerbity",
+        "note": "신랄함"
+      },
+      {
+        "word": "acrimony",
+        "note": "격한 반감"
+      },
+      {
+        "word": "sharpness",
+        "note": "날카로움"
+      }
+    ],
+    "tips": [
+      "GRE 단골 단어! `asper`(거친) → 말투나 태도의 거칠음, 신랄함.",
+      "She spoke with asperity = 신랄하게 말했다. acrimony와 비슷한 느낌이야.",
+      "acerbity, acrimony, asperity — 다 '신랄함' 계열이니 세트로 외워."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "aspersion",
+    "pos": "n",
+    "head_meanings": [
+      "비방",
+      "중상",
+      "오명"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "slur",
+        "note": "비방, 모욕"
+      },
+      {
+        "word": "slander",
+        "note": "구두 중상"
+      },
+      {
+        "word": "smear",
+        "note": "명예 훼손"
+      },
+      {
+        "word": "censure",
+        "note": "비난"
+      },
+      {
+        "word": "reproach",
+        "note": "비난, 책망"
+      },
+      {
+        "word": "indignity",
+        "note": "모욕"
+      }
+    ],
+    "tips": [
+      "cast aspersions on = ~을 비방하다. 이 표현 통째로 외워!",
+      "`a-`(~에게) + `spers`(뿌리다) → 더러운 물을 뿌리다 → 비방하다.",
+      "She cast aspersions on his character = 그의 인격을 비방했다. GRE에서 자주 나와."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "aspirant",
+    "pos": "n",
+    "head_meanings": [
+      "지원자",
+      "열망자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "candidate",
+        "note": "후보자"
+      },
+      {
+        "word": "petitioner",
+        "note": "청원자"
+      },
+      {
+        "word": "seeker",
+        "note": "추구하는 사람"
+      }
+    ],
+    "tips": [
+      "`aspir`(열망하다) + `-ant`(사람) → 열망하는 사람 → 지원자.",
+      "presidential aspirant = 대통령 후보 지원자. aspire의 명사형이야.",
+      "aspire(열망하다), aspiration(포부), aspirant(지원자) 세트로 외워."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "aspiration",
+    "pos": "n",
+    "head_meanings": [
+      "포부",
+      "열망"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ambition",
+        "note": "야망"
+      },
+      {
+        "word": "endeavor",
+        "note": "노력"
+      },
+      {
+        "word": "desire",
+        "note": "열망"
+      },
+      {
+        "word": "craving",
+        "note": "갈망"
+      },
+      {
+        "word": "hope",
+        "note": "희망"
+      }
+    ],
+    "tips": [
+      "`aspir`(숨 쉬다, 열망하다) + `-ation` → 높은 곳을 향해 숨 쉬는 것 → 포부.",
+      "She has aspirations to become a doctor = 의사가 되려는 포부가 있어.",
+      "aspiration은 단순한 wish보다 더 강하고 적극적인 열망이야."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "aspire",
+    "pos": "v",
+    "head_meanings": [
+      "열망하다",
+      "큰 뜻을 품다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "yearn",
+        "note": "갈망하다"
+      },
+      {
+        "word": "strive",
+        "note": "분투하다"
+      },
+      {
+        "word": "aim",
+        "note": "목표하다"
+      }
+    ],
+    "tips": [
+      "`a-`(~쪽으로) + `spir`(숨 쉬다) → 높은 곳을 향해 숨 쉬다 → 열망하다.",
+      "aspire to greatness = 위대함을 열망하다. aspire to + 명사/동사 구문이야.",
+      "inspire(영감을 주다), expire(만료하다)와 같은 `spir` 뿌리야."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "assail",
+    "pos": "v",
+    "head_meanings": [
+      "맹렬히 공격하다",
+      "습격하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "assault",
+        "note": "폭행하다"
+      },
+      {
+        "word": "attack",
+        "note": "공격하다"
+      },
+      {
+        "word": "bludgeon",
+        "note": "곤봉으로 치다"
+      },
+      {
+        "word": "censure",
+        "note": "비난하다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad, ~에게) + `sail`(뛰어들다) → ~에게 뛰어들다 → 공격하다.",
+      "assail someone with questions = 질문으로 퍼붓다. 물리적+언어적 공격 모두 돼.",
+      "assailant = 공격자, 가해자. 뉴스에서 자주 나오는 단어야."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "assault",
+    "pos": "n/v",
+    "head_meanings": [
+      "맹공격",
+      "폭행",
+      "공격하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "attack",
+        "note": "공격"
+      },
+      {
+        "word": "onslaught",
+        "note": "맹공"
+      },
+      {
+        "word": "offensive",
+        "note": "공세"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad) + `sault`(뛰다) → assail과 같은 뿌리야. 더 강한 공격의 느낌.",
+      "assault and battery는 법률 용어로 '폭행'이야.",
+      "verbal assault = 언어적 공격, physical assault = 물리적 폭행."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "assay",
+    "pos": "v/n",
+    "head_meanings": [
+      "시험하다",
+      "분석하다",
+      "시금"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "analyze",
+        "note": "분석하다"
+      },
+      {
+        "word": "test",
+        "note": "시험하다"
+      },
+      {
+        "word": "appraise",
+        "note": "감정하다"
+      },
+      {
+        "word": "assess",
+        "note": "평가하다"
+      },
+      {
+        "word": "evaluate",
+        "note": "평가하다"
+      },
+      {
+        "word": "attempt",
+        "note": "시도하다"
+      }
+    ],
+    "tips": [
+      "GRE 함정! essay(에세이)와 헷갈리지 마. assay는 '시험하다, 분석하다'야.",
+      "원래 금이나 광석의 순도를 시험한다는 뜻에서 왔어. 지금은 '분석하다' 전반으로 쓰여.",
+      "assay the quality = 품질을 분석하다. assess, evaluate와 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "assent",
+    "pos": "v/n",
+    "head_meanings": [
+      "동의하다",
+      "찬성하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "concur",
+        "note": "동의하다"
+      },
+      {
+        "word": "approve",
+        "note": "승인하다"
+      },
+      {
+        "word": "comply",
+        "note": "따르다"
+      },
+      {
+        "word": "concede",
+        "note": "인정하다"
+      },
+      {
+        "word": "grant",
+        "note": "허락하다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad, ~쪽으로) + `sent`(느끼다) → 같은 쪽으로 느끼다 → 동의하다.",
+      "assent vs. consent: assent는 의견에 동의, consent는 행위에 동의(허락)야.",
+      "nod in assent = 동의하며 고개를 끄덕이다."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "assert",
+    "pos": "v",
+    "head_meanings": [
+      "단언하다",
+      "주장하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "declare",
+        "note": "선언하다"
+      },
+      {
+        "word": "maintain",
+        "note": "주장하다"
+      },
+      {
+        "word": "contend",
+        "note": "주장하다"
+      },
+      {
+        "word": "proclaim",
+        "note": "공표하다"
+      },
+      {
+        "word": "avow",
+        "note": "공언하다"
+      },
+      {
+        "word": "aver",
+        "note": "단언하다"
+      },
+      {
+        "word": "asseverate",
+        "note": "엄숙히 단언하다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad) + `sert`(결합하다, 주장하다) → 강하게 주장하다.",
+      "assert oneself = 자기주장을 하다. assertive = 자기주장이 강한.",
+      "assert, aver, avow, asseverate 다 '단언하다' 계열이야. 세트로 외워."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "asserted",
+    "pos": "adj",
+    "head_meanings": [
+      "주장된",
+      "단언된"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "claimed",
+        "note": "주장된"
+      },
+      {
+        "word": "declared",
+        "note": "선언된"
+      }
+    ],
+    "tips": [
+      "assert의 과거분사. the asserted fact = 주장된 사실.",
+      "asserted와 proven은 달라. asserted는 아직 증명 안 된 주장이야.",
+      "self-asserted = 자칭의. self-asserted expert = 자칭 전문가."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "assertion",
+    "pos": "n",
+    "head_meanings": [
+      "주장",
+      "단언"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "declaration",
+        "note": "선언"
+      },
+      {
+        "word": "claim",
+        "note": "주장"
+      },
+      {
+        "word": "contention",
+        "note": "주장, 논점"
+      }
+    ],
+    "tips": [
+      "assert(단언하다)의 명사형. make an assertion = 주장을 하다.",
+      "assertion vs. evidence: assertion은 그냥 주장, evidence는 증거. 구분 중요해!",
+      "unsubstantiated assertion = 근거 없는 주장. GRE 지문에서 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "assessment",
+    "pos": "n",
+    "head_meanings": [
+      "평가",
+      "사정",
+      "과세 평가"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "evaluation",
+        "note": "평가"
+      },
+      {
+        "word": "judgment",
+        "note": "판단"
+      },
+      {
+        "word": "appraisal",
+        "note": "감정, 평가"
+      }
+    ],
+    "tips": [
+      "`assess`(평가하다) + `-ment` → 평가. 세금 사정이라는 뜻도 있어.",
+      "tax assessment = 세금 사정. risk assessment = 위험 평가.",
+      "assess, appraise, evaluate 다 '평가하다' 계열 동사야."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "asset",
+    "pos": "n",
+    "head_meanings": [
+      "자산",
+      "장점",
+      "이점"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "resource",
+        "note": "자원"
+      },
+      {
+        "word": "advantage",
+        "note": "이점"
+      },
+      {
+        "word": "strength",
+        "note": "강점"
+      },
+      {
+        "word": "merit",
+        "note": "장점"
+      }
+    ],
+    "tips": [
+      "asset은 '유용한 것, 자산'이야. 사람도 asset이 될 수 있어. She is an asset to the team.",
+      "asset vs. liability: asset은 자산(장점), liability는 부채(약점). 정반대!",
+      "assets(복수) = 재산, 자산 전체. 재무제표에서 자주 보이는 단어야."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "asseverate",
+    "pos": "v",
+    "head_meanings": [
+      "엄숙히 단언하다",
+      "단호히 주장하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "affirm",
+        "note": "확언하다"
+      },
+      {
+        "word": "assert",
+        "note": "단언하다"
+      },
+      {
+        "word": "aver",
+        "note": "단언하다"
+      },
+      {
+        "word": "avow",
+        "note": "공언하다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad) + `sever`(심각한, 엄격한) → 엄격하게 말하다 → 엄숙히 단언하다.",
+      "assert보다 더 격식적이고 강한 표현이야. 법정에서 엄숙히 진술하는 느낌.",
+      "assert, aver, avow, asseverate 순으로 격식이 올라간다고 보면 돼."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "assiduous",
+    "pos": "adj",
+    "head_meanings": [
+      "근면한",
+      "부지런한",
+      "꾸준한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "sedulous",
+        "note": "부지런한"
+      },
+      {
+        "word": "industrious",
+        "note": "근면한"
+      },
+      {
+        "word": "hardworking",
+        "note": "열심히 일하는"
+      },
+      {
+        "word": "painstaking",
+        "note": "공들이는"
+      },
+      {
+        "word": "persevering",
+        "note": "끈기 있는"
+      },
+      {
+        "word": "attentive",
+        "note": "세심한"
+      }
+    ],
+    "tips": [
+      "GRE 단골! `as-`(=ad, 곁에) + `sid`(앉다) → 곁에 앉아서 계속하다 → 근면한.",
+      "an assiduous student = 부지런한 학생. sedulous와 거의 같은 뜻이야.",
+      "diligent, industrious, sedulous, assiduous — 다 '근면한'이니 세트로 외워."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "assiduousness",
+    "pos": "n",
+    "head_meanings": [
+      "근면함",
+      "부지런함"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "assiduity",
+        "note": "근면, 정성"
+      },
+      {
+        "word": "diligence",
+        "note": "근면"
+      },
+      {
+        "word": "industriousness",
+        "note": "부지런함"
+      }
+    ],
+    "tips": [
+      "assiduous(근면한) + `-ness` → 근면함. assiduity도 같은 뜻이야.",
+      "with assiduousness = 근면하게. 부사적으로도 쓸 수 있어.",
+      "assiduity가 더 자주 쓰이는 형태니까 이것도 같이 알아둬."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "assimilate",
+    "pos": "v",
+    "head_meanings": [
+      "동화하다",
+      "흡수하다",
+      "이해하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "absorb",
+        "note": "흡수하다"
+      },
+      {
+        "word": "digest",
+        "note": "소화하다"
+      },
+      {
+        "word": "integrate",
+        "note": "통합하다"
+      },
+      {
+        "word": "metabolize",
+        "note": "대사하다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad) + `simil`(같은) + `-ate` → 같게 만들다 → 동화하다, 흡수하다.",
+      "assimilate into a culture = 문화에 동화되다. 이민자 관련 GRE 지문에서 자주 나와.",
+      "음식을 소화(digest)하듯 정보를 흡수한다는 뜻으로도 써. assimilate new ideas."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "assort",
+    "pos": "v",
+    "head_meanings": [
+      "분류하다",
+      "어울리다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "classify",
+        "note": "분류하다"
+      },
+      {
+        "word": "categorize",
+        "note": "범주화하다"
+      },
+      {
+        "word": "sort",
+        "note": "정리하다, 구분하다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad) + `sort`(종류) → 종류별로 나누다 → 분류하다.",
+      "well-assorted = 잘 갖춰진, 잘 어울리는. assortment(구색, 모음)도 같이 외워.",
+      "assort with = ~와 어울리다. 이 뜻도 있지만 '분류하다'가 더 중요해."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "assortment",
+    "pos": "n",
+    "head_meanings": [
+      "분류",
+      "구색",
+      "모음"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "collection",
+        "note": "모음"
+      },
+      {
+        "word": "variety",
+        "note": "다양한 종류"
+      },
+      {
+        "word": "medley",
+        "note": "잡동사니, 혼합"
+      }
+    ],
+    "tips": [
+      "assort(분류하다) + `-ment` → 분류된 것들의 모음 → 구색, 모음.",
+      "an assortment of chocolates = 여러 종류의 초콜릿 모음. 일상에서 자주 쓰여.",
+      "variety, medley, miscellany와 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "assorted",
+    "pos": "adj",
+    "head_meanings": [
+      "갖가지의",
+      "선별된"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "various",
+        "note": "다양한"
+      },
+      {
+        "word": "miscellaneous",
+        "note": "잡다한"
+      },
+      {
+        "word": "mixed",
+        "note": "혼합된"
+      }
+    ],
+    "tips": [
+      "assort의 과거분사가 형용사가 된 거야. assorted colors = 갖가지 색깔.",
+      "assorted nuts, assorted candies처럼 다양한 종류가 섞인 걸 표현할 때 써.",
+      "well-assorted = 잘 어울리는, ill-assorted = 안 어울리는."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "assuage",
+    "pos": "v",
+    "head_meanings": [
+      "완화하다",
+      "달래다",
+      "누그러뜨리다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "mollify",
+        "note": "달래다"
+      },
+      {
+        "word": "relieve",
+        "note": "완화하다"
+      },
+      {
+        "word": "palliate",
+        "note": "일시적으로 완화하다"
+      },
+      {
+        "word": "mitigate",
+        "note": "경감하다"
+      },
+      {
+        "word": "moderate",
+        "note": "완화하다"
+      }
+    ],
+    "tips": [
+      "GRE 단골! 발음 [əˈsweɪdʒ] '어스웨이지'. 고통이나 감정을 부드럽게 달래주는 거야.",
+      "assuage someone's fears = 누군가의 두려움을 달래다. GRE에서 정말 자주 나와.",
+      "appease, mollify, placate, assuage — 다 '달래다' 계열이니 세트로 외워."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "assume",
+    "pos": "v",
+    "head_meanings": [
+      "가정하다",
+      "떠맡다",
+      "가장하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "presume",
+        "note": "추정하다"
+      },
+      {
+        "word": "suppose",
+        "note": "가정하다"
+      },
+      {
+        "word": "undertake",
+        "note": "떠맡다"
+      }
+    ],
+    "tips": [
+      "`as-`(=ad) + `sume`(취하다) → 취하다 → 가정하다/떠맡다/가장하다. 세 뜻 다 중요해.",
+      "assume responsibility = 책임을 떠맡다. assume a role = 역할을 맡다.",
+      "assume an air of innocence = 순진한 척하다. '가장하다' 뜻도 GRE에 나와."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "assured",
+    "pos": "adj",
+    "head_meanings": [
+      "확실한",
+      "자신 있는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "confident",
+        "note": "자신감 있는"
+      },
+      {
+        "word": "settled",
+        "note": "확정된"
+      },
+      {
+        "word": "guaranteed",
+        "note": "보장된"
+      }
+    ],
+    "tips": [
+      "assure(보증하다) + `-d` → 보증된 → 확실한, 자신 있는.",
+      "rest assured = 안심해. 일상에서 자주 쓰는 표현이야.",
+      "self-assured = 자기 확신에 찬. self-confident와 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "asteroid",
+    "pos": "n",
+    "head_meanings": [
+      "소행성"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "minor planet",
+        "note": "소행성"
+      },
+      {
+        "word": "planetoid",
+        "note": "소행성체"
+      }
+    ],
+    "tips": [
+      "`aster`(별) + `-oid`(~같은) → 별 같은 것 → 소행성.",
+      "화성과 목성 사이에 asteroid belt(소행성대)가 있어. 과학 지문에서 나올 수 있어.",
+      "disaster(재앙)도 `dis-`(나쁜) + `aster`(별)에서 왔어. 불길한 별이라는 뜻이야."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "astonish",
+    "pos": "v",
+    "head_meanings": [
+      "깜짝 놀라게 하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "astound",
+        "note": "경악시키다"
+      },
+      {
+        "word": "startle",
+        "note": "깜짝 놀라게 하다"
+      },
+      {
+        "word": "stagger",
+        "note": "충격을 주다"
+      },
+      {
+        "word": "amaze",
+        "note": "놀라게 하다"
+      },
+      {
+        "word": "shock",
+        "note": "충격을 주다"
+      }
+    ],
+    "tips": [
+      "surprise < astonish < astound 순으로 놀라움의 정도가 세져.",
+      "I was astonished to learn that... = ~을 알고 깜짝 놀랐다.",
+      "astonishing, astounding 형용사도 같이 알아둬. 둘 다 '놀라운'이야."
+    ]
+  },
+  {
+    "id": "098",
+    "word": "astonished",
+    "pos": "adj",
+    "head_meanings": [
+      "깜짝 놀란",
+      "경악한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "amazed",
+        "note": "놀란"
+      },
+      {
+        "word": "stunned",
+        "note": "어안이 벙벙한"
+      },
+      {
+        "word": "flabbergasted",
+        "note": "아연실색한"
+      }
+    ],
+    "tips": [
+      "astonish의 과거분사 형용사. 사람의 감정 상태를 나타내.",
+      "astonished vs. astonishing: 전자는 '놀란'(감정), 후자는 '놀라운'(원인).",
+      "I was astonished at the news. = 그 소식에 깜짝 놀랐다."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "astounding",
+    "pos": "adj",
+    "head_meanings": [
+      "놀라운",
+      "경이로운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "astonishing",
+        "note": "깜짝 놀라게 하는"
+      },
+      {
+        "word": "stunning",
+        "note": "기절할 만큼 놀라운"
+      },
+      {
+        "word": "staggering",
+        "note": "충격적인"
+      },
+      {
+        "word": "amazing",
+        "note": "놀라운"
+      },
+      {
+        "word": "shocking",
+        "note": "충격적인"
+      }
+    ],
+    "tips": [
+      "`astound`(경악시키다) + `-ing` → 경악할 만큼 놀라운.",
+      "astounding은 astonishing보다 놀라움의 강도가 더 세. '경이로운' 느낌이야.",
+      "an astounding discovery = 경이로운 발견. GRE에서 긍정/부정 맥락 모두 쓰여."
+    ]
+  }
+]

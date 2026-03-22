@@ -1,0 +1,2618 @@
+[
+  {
+    "id": "001",
+    "word": "amenity",
+    "pos": "n",
+    "head_meanings": [
+      "편의시설",
+      "쾌적함",
+      "예의",
+      "상냥함"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "geniality",
+        "note": "상냥함, 친절함"
+      },
+      {
+        "word": "amiability",
+        "note": "붙임성, 호감 가는 성격"
+      },
+      {
+        "word": "mildness",
+        "note": "온화함, 부드러움"
+      },
+      {
+        "word": "civilities",
+        "note": "예의 바른 행동(복수형)"
+      },
+      {
+        "word": "comfort",
+        "note": "편안함, 안락함"
+      },
+      {
+        "word": "gentility",
+        "note": "상류층다운 품위"
+      },
+      {
+        "word": "refinement",
+        "note": "세련됨, 교양"
+      },
+      {
+        "word": "politeness",
+        "note": "공손함"
+      },
+      {
+        "word": "courtesies",
+        "note": "예의 바른 행위들"
+      },
+      {
+        "word": "gallantries",
+        "note": "정중한 언행들"
+      }
+    ],
+    "tips": [
+      "호텔이나 아파트 광고에서 amenities 많이 보지? 수영장, 헬스장 같은 '편의시설'이야. 복수형(amenities)으로 쓰면 시설, 단수(amenity)로 쓰면 쾌적함·예의 뉘앙스.",
+      "`amoen-`(pleasant)에서 왔어. '기분 좋게 해주는 것'이 원래 뜻이야.",
+      "GRE에서는 '예의, 상냥함' 뜻으로도 나오니까 시설 의미만 알면 안 돼!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "amiable",
+    "pos": "adj",
+    "head_meanings": [
+      "상냥한",
+      "호감 가는",
+      "호의적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "friendly",
+        "note": "친근한"
+      },
+      {
+        "word": "amicable",
+        "note": "우호적인 (관계에 초점)"
+      },
+      {
+        "word": "polite",
+        "note": "예의 바른"
+      },
+      {
+        "word": "good-natured",
+        "note": "성격이 좋은"
+      },
+      {
+        "word": "hospitable",
+        "note": "환대하는"
+      },
+      {
+        "word": "indulgent",
+        "note": "관대한, 너그러운"
+      },
+      {
+        "word": "pleasant",
+        "note": "유쾌한, 기분 좋은"
+      }
+    ],
+    "tips": [
+      "`ami-`(friend, 친구)에서 온 말이야. '친구처럼 다정한' 느낌!",
+      "amiable은 '사람 성격'이 상냥한 거고, amicable은 '관계나 합의'가 우호적인 거야. 구분 잘 해!",
+      "She's so amiable that everyone wants to be her friend. 이렇게 쓰여."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "amicable",
+    "pos": "adj",
+    "head_meanings": [
+      "우호적인",
+      "원만한",
+      "타협적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "helpful",
+        "note": "도움이 되는"
+      },
+      {
+        "word": "amenable",
+        "note": "순응하는, 잘 따르는"
+      },
+      {
+        "word": "favorable",
+        "note": "호의적인"
+      },
+      {
+        "word": "benevolent",
+        "note": "자비로운"
+      },
+      {
+        "word": "well-disposed",
+        "note": "호의를 가진"
+      }
+    ],
+    "tips": [
+      "`ami-`(friend)에서 왔어. amiable과 같은 뿌리인데 용법이 달라.",
+      "amicable divorce(원만한 이혼), amicable settlement(우호적 합의)처럼 '관계·상황'에 쓰여.",
+      "사람 자체가 다정한 건 amiable, 합의나 관계가 평화로운 건 amicable!"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "amity",
+    "pos": "n",
+    "head_meanings": [
+      "우호",
+      "친선",
+      "친목"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "friendship",
+        "note": "우정"
+      },
+      {
+        "word": "friendliness",
+        "note": "친근함"
+      },
+      {
+        "word": "harmony",
+        "note": "조화, 화합"
+      },
+      {
+        "word": "fellowship",
+        "note": "동료 의식, 친교"
+      },
+      {
+        "word": "sympathy",
+        "note": "공감, 동정"
+      },
+      {
+        "word": "accord",
+        "note": "합의, 일치"
+      },
+      {
+        "word": "concord",
+        "note": "화합, 조화"
+      },
+      {
+        "word": "cordiality",
+        "note": "진심 어린 따뜻함"
+      },
+      {
+        "word": "fraternity",
+        "note": "형제애, 우애"
+      },
+      {
+        "word": "cooperation",
+        "note": "협력"
+      },
+      {
+        "word": "warmth",
+        "note": "따뜻함, 온정"
+      }
+    ],
+    "tips": [
+      "`ami-`(friend) 시리즈의 명사형이야. amiable, amicable과 한 가족!",
+      "국가 간 우호 관계 말할 때 많이 써. amity between nations 이런 식으로.",
+      "반의어 enmity(적의)랑 같이 외우면 딱이야. amity ↔ enmity!"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "amnesia",
+    "pos": "n",
+    "head_meanings": [
+      "기억 상실",
+      "건망증"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "forgetfulness",
+        "note": "건망증, 잘 잊는 성질"
+      }
+    ],
+    "tips": [
+      "`a-`(without) + `mnes-`(memory) = 기억이 없는 상태야.",
+      "드라마에서 사고 후 기억 잃는 거 자주 나오지? 그게 amnesia야.",
+      "mnemonics(기억술)이랑 같은 어근인데 반대 의미라 재밌어."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "amorphous",
+    "pos": "adj",
+    "head_meanings": [
+      "무정형의",
+      "형태가 없는",
+      "특색 없는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "undelineated",
+        "note": "윤곽이 불분명한"
+      },
+      {
+        "word": "formless",
+        "note": "형태 없는"
+      },
+      {
+        "word": "vague",
+        "note": "모호한"
+      },
+      {
+        "word": "obscure",
+        "note": "불명확한"
+      },
+      {
+        "word": "nondescript",
+        "note": "특징 없는, 평범한"
+      }
+    ],
+    "tips": [
+      "`a-`(without) + `morph-`(form) = 형태 없는. morphology(형태학)의 morph야.",
+      "젤리나 아메바처럼 정해진 모양이 없는 걸 떠올려봐.",
+      "GRE에서 자주 나와! 계획이나 아이디어가 '구체적이지 않은' 뜻으로도 쓰여."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "ample",
+    "pos": "adj",
+    "head_meanings": [
+      "넉넉한",
+      "충분한",
+      "풍부한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "satisfactory",
+        "note": "만족스러운"
+      },
+      {
+        "word": "spacious",
+        "note": "넓은, 공간이 충분한"
+      },
+      {
+        "word": "plentiful",
+        "note": "풍부한"
+      },
+      {
+        "word": "bountiful",
+        "note": "넘치는, 후한"
+      },
+      {
+        "word": "huge",
+        "note": "거대한"
+      }
+    ],
+    "tips": [
+      "amplify(확대하다)의 형용사 버전이라 생각하면 돼. 충분히 넉넉한!",
+      "ample time(충분한 시간), ample space(넉넉한 공간) 이런 식으로 자주 쓰여.",
+      "scarce(부족한)의 반의어로 기억하면 편해."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "amplify",
+    "pos": "v",
+    "head_meanings": [
+      "확대하다",
+      "증폭하다",
+      "부연하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "expand",
+        "note": "넓히다, 확장하다"
+      },
+      {
+        "word": "exaggerate",
+        "note": "과장하다"
+      },
+      {
+        "word": "increase",
+        "note": "늘리다"
+      },
+      {
+        "word": "supplement",
+        "note": "보충하다"
+      },
+      {
+        "word": "develop",
+        "note": "발전시키다, 상세히 하다"
+      }
+    ],
+    "tips": [
+      "`ampli-`(large) + `-fy`(make) = 크게 만들다. 앰프(amp)가 여기서 왔어!",
+      "소리를 키우는 것(amplifier)뿐 아니라 설명을 '부연하다'는 뜻도 있어.",
+      "GRE에서는 amplify a statement(진술을 부연하다) 같은 용법이 나와."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "anachronism",
+    "pos": "n",
+    "head_meanings": [
+      "시대착오",
+      "시대에 뒤떨어진 것"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ana-`(against) + `chron-`(time) = 시대착오. chronology(연대기)의 chron이야.",
+      "조선시대 배경 드라마에 스마트폰이 나오면? 그게 anachronism이야.",
+      "GRE 단골 단어! anachronistic(시대착오적인)도 같이 알아둬."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "anachronistic",
+    "pos": "adj",
+    "head_meanings": [
+      "시대착오적인",
+      "시대에 맞지 않는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "mistiming",
+        "note": "시기를 잘못 잡은"
+      },
+      {
+        "word": "misdating",
+        "note": "날짜를 잘못 매긴"
+      },
+      {
+        "word": "postdating",
+        "note": "실제보다 나중 날짜를 매긴"
+      },
+      {
+        "word": "has-been",
+        "note": "한물간 사람/것"
+      },
+      {
+        "word": "back number",
+        "note": "시대에 뒤처진 것"
+      }
+    ],
+    "tips": [
+      "anachronism의 형용사형이야. anachronistical도 같은 뜻인데 잘 안 써.",
+      "It's anachronistic to use a typewriter in the digital age. 이런 느낌!",
+      "`ana-`(against) + `chron-`(time) + `-istic` = 시대에 역행하는."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "analgesic",
+    "pos": "n/adj",
+    "head_meanings": [
+      "진통제",
+      "진통의",
+      "통증을 느끼지 못하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "anodyne",
+        "note": "진통제, 고통을 덜어주는 것"
+      },
+      {
+        "word": "anesthetic",
+        "note": "마취제"
+      },
+      {
+        "word": "painkilling",
+        "note": "진통 효과가 있는"
+      },
+      {
+        "word": "relievable",
+        "note": "완화할 수 있는"
+      },
+      {
+        "word": "sedative",
+        "note": "진정제"
+      }
+    ],
+    "tips": [
+      "`an-`(without) + `alg-`(pain) = 통증 없는. neuralgia(신경통)의 alg야.",
+      "타이레놀 같은 진통제가 analgesic이야. 마취제(anesthetic)보다 약한 거!",
+      "anodyne이랑 자주 같이 나오니까 둘 다 알아둬."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "analogous",
+    "pos": "adj",
+    "head_meanings": [
+      "유사한",
+      "비슷한",
+      "대응하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "comparable",
+        "note": "비교할 만한"
+      },
+      {
+        "word": "similar",
+        "note": "비슷한"
+      },
+      {
+        "word": "correlative",
+        "note": "상관관계에 있는"
+      },
+      {
+        "word": "parallel",
+        "note": "평행한, 유사한"
+      },
+      {
+        "word": "akin",
+        "note": "비슷한, 유사한"
+      },
+      {
+        "word": "equivalent",
+        "note": "동등한, 대등한"
+      }
+    ],
+    "tips": [
+      "analogy(유추)의 형용사형이야. analogous to/with ~와 유사한.",
+      "The wings of a bird are analogous to the fins of a fish. 구조는 다르지만 기능이 비슷할 때 써.",
+      "similar보다 격식 있는 표현이야. GRE에서 자주 만나게 될 거야."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "analogy",
+    "pos": "n",
+    "head_meanings": [
+      "유추",
+      "유사",
+      "비유"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "comparison",
+        "note": "비교"
+      },
+      {
+        "word": "parallel",
+        "note": "유사점, 대응 관계"
+      },
+      {
+        "word": "correlation",
+        "note": "상관관계"
+      },
+      {
+        "word": "resemblance",
+        "note": "닮음, 유사"
+      },
+      {
+        "word": "similarity",
+        "note": "유사성"
+      },
+      {
+        "word": "similitude",
+        "note": "유사, 닮음(격식)"
+      },
+      {
+        "word": "likeness",
+        "note": "유사함, 닮음"
+      }
+    ],
+    "tips": [
+      "`ana-`(according to) + `log-`(ratio) = 비율에 따른 비교, 즉 유추야.",
+      "draw an analogy between A and B(A와 B 사이에 비유를 하다) 표현 알아둬.",
+      "GRE Verbal에서 analogy 문제 유형 자체가 있었을 정도로 중요한 개념이야."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "anarchist",
+    "pos": "n",
+    "head_meanings": [
+      "무정부주의자",
+      "반체제 인사"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "rebel",
+        "note": "반항자"
+      },
+      {
+        "word": "revolutionary",
+        "note": "혁명가"
+      },
+      {
+        "word": "insurgent",
+        "note": "반란자"
+      },
+      {
+        "word": "terrorist",
+        "note": "테러리스트"
+      },
+      {
+        "word": "mutineer",
+        "note": "반란병"
+      },
+      {
+        "word": "syndicalist",
+        "note": "생디칼리스트(노동조합주의자)"
+      },
+      {
+        "word": "nihilist",
+        "note": "허무주의자"
+      }
+    ],
+    "tips": [
+      "`an-`(without) + `arch-`(ruler) = 지배자 없는 상태를 원하는 사람.",
+      "anarchy(무정부 상태)를 추구하는 사람이 anarchist야.",
+      "monarchy(군주제)의 반대 개념이라 생각하면 돼."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "anarchy",
+    "pos": "n",
+    "head_meanings": [
+      "무정부 상태",
+      "무질서",
+      "혼란"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "confusion",
+        "note": "혼란"
+      },
+      {
+        "word": "illegality",
+        "note": "불법 상태"
+      },
+      {
+        "word": "chaos",
+        "note": "혼돈"
+      },
+      {
+        "word": "utopia",
+        "note": "이상향(무정부주의적 관점)"
+      }
+    ],
+    "tips": [
+      "`an-`(without) + `archy`(rule) = 통치가 없는 상태.",
+      "정부가 무너져서 법과 질서가 사라진 상태를 말해.",
+      "hierarchy(위계질서), monarchy(군주제)와 같은 `-archy` 가족이야."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "anathema",
+    "pos": "n",
+    "head_meanings": [
+      "저주",
+      "혐오 대상",
+      "파문"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "abomination",
+        "note": "혐오스러운 것"
+      },
+      {
+        "word": "malediction",
+        "note": "저주, 악담"
+      },
+      {
+        "word": "hated thing",
+        "note": "미움받는 것"
+      },
+      {
+        "word": "execration",
+        "note": "저주, 증오"
+      },
+      {
+        "word": "excommunication",
+        "note": "파문, 교회 추방"
+      }
+    ],
+    "tips": [
+      "원래 교회에서 이단자를 '파문'할 때 쓰던 말이야. 지금은 '극도로 싫어하는 것'이란 뜻으로 더 많이 써.",
+      "Racism is anathema to me. 이런 식으로 'A is anathema to B' 패턴으로 자주 나와.",
+      "GRE 단골 단어야! 저주/혐오 대상이라는 뜻 꼭 기억해."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "anathematic",
+    "pos": "adj",
+    "head_meanings": [
+      "저주의",
+      "혐오할 만한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "anathema의 형용사형이야. '저주받은, 혐오스러운' 뜻이지.",
+      "anathematize(저주하다, 파문하다)도 같은 가족이야.",
+      "GRE에서는 anathema가 훨씬 자주 나오지만 형용사형도 알아두면 좋아."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "anathematize",
+    "pos": "v",
+    "head_meanings": [
+      "저주하다",
+      "파문하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "maledict",
+        "note": "저주하다"
+      },
+      {
+        "word": "damn",
+        "note": "저주하다, 빌어먹을"
+      },
+      {
+        "word": "condemn",
+        "note": "비난하다, 규탄하다"
+      },
+      {
+        "word": "accurse",
+        "note": "저주하다"
+      },
+      {
+        "word": "execrate",
+        "note": "극도로 혐오하다, 저주하다"
+      }
+    ],
+    "tips": [
+      "anathema + `-ize`(~하게 만들다) = 저주하다, 파문 선언하다.",
+      "교회가 이단자를 공식적으로 추방하는 행위를 가리켰어.",
+      "일상에서는 '강하게 비난하다'는 뜻으로도 쓰여."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "anchor",
+    "pos": "v/n",
+    "head_meanings": [
+      "고정하다",
+      "정박하다",
+      "닻",
+      "지지대"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ride at anchor",
+        "note": "정박해 있다"
+      },
+      {
+        "word": "moor",
+        "note": "배를 묶어두다, 정박하다"
+      },
+      {
+        "word": "fix",
+        "note": "고정하다"
+      },
+      {
+        "word": "affix",
+        "note": "부착하다"
+      },
+      {
+        "word": "fasten",
+        "note": "단단히 묶다"
+      }
+    ],
+    "tips": [
+      "배의 닻(anchor)에서 나온 말이야. 뉴스 앵커도 '방송을 고정시키는 사람'이란 뜻이지.",
+      "firmly anchored in ~에 단단히 뿌리내린. 비유적으로 '확고히 기반을 둔' 뜻으로 자주 써.",
+      "anchor a discussion(토론을 이끌다)처럼 '중심을 잡다'는 뜻도 있어."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "ancillary",
+    "pos": "adj/n",
+    "head_meanings": [
+      "보조적인",
+      "부수적인",
+      "보조원"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "subsidiary",
+        "note": "부차적인, 보조의"
+      },
+      {
+        "word": "accessory",
+        "note": "부속의, 보조의"
+      },
+      {
+        "word": "adjunct",
+        "note": "부속물, 보조의"
+      },
+      {
+        "word": "additional",
+        "note": "추가적인"
+      },
+      {
+        "word": "supplementary",
+        "note": "보충의"
+      },
+      {
+        "word": "assistant",
+        "note": "보조의, 조수"
+      }
+    ],
+    "tips": [
+      "원래 라틴어로 '하녀'란 뜻이었어. 지금은 '보조적인, 부수적인'으로 쓰여.",
+      "ancillary services(부대 서비스), ancillary staff(보조 인력) 이런 식으로 많이 나와.",
+      "GRE 단골 단어야! subsidiary, supplementary랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "anecdote",
+    "pos": "n",
+    "head_meanings": [
+      "일화",
+      "짧은 이야기"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "secondhand",
+        "note": "전해 들은 이야기"
+      },
+      {
+        "word": "story",
+        "note": "이야기"
+      },
+      {
+        "word": "yarn",
+        "note": "긴 이야기(구어)"
+      },
+      {
+        "word": "short narrative",
+        "note": "짧은 서사"
+      },
+      {
+        "word": "sketch",
+        "note": "짧은 묘사"
+      },
+      {
+        "word": "reminiscence",
+        "note": "회상, 추억담"
+      },
+      {
+        "word": "tale",
+        "note": "이야기"
+      }
+    ],
+    "tips": [
+      "`an-`(not) + `ekdotos`(published) = 원래 '출판되지 않은 이야기'란 뜻이었어.",
+      "발표나 에세이에서 도입부에 쓰는 짧은 일화가 anecdote야.",
+      "anecdotal evidence(일화적 증거)는 '과학적이지 않은 개인 경험 기반 증거'라는 뜻이야."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "anemia",
+    "pos": "n",
+    "head_meanings": [
+      "빈혈",
+      "활력 부족"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "deficiency in hemoglobin",
+        "note": "헤모글로빈 결핍"
+      },
+      {
+        "word": "ischemia",
+        "note": "혈류 부족, 허혈"
+      },
+      {
+        "word": "colorlessness",
+        "note": "혈색 없음, 무색"
+      }
+    ],
+    "tips": [
+      "`an-`(without) + `emia`(blood) = 피가 부족한 상태.",
+      "의학적 빈혈뿐 아니라 비유적으로 '활력·에너지 부족'이란 뜻도 있어.",
+      "anemic(빈혈의, 활기 없는)도 같이 알아둬."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "an(a)esthetic",
+    "pos": "n/adj",
+    "head_meanings": [
+      "마취제",
+      "마취의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "anodyne",
+        "note": "진통제"
+      },
+      {
+        "word": "narcotic",
+        "note": "마약성 진통제"
+      },
+      {
+        "word": "opiate",
+        "note": "아편 계열 약물"
+      },
+      {
+        "word": "analgesic",
+        "note": "진통제"
+      },
+      {
+        "word": "painkiller",
+        "note": "진통제(일상어)"
+      }
+    ],
+    "tips": [
+      "`an-`(without) + `aisthesis`(feeling) = 감각이 없게 만드는 것.",
+      "수술할 때 쓰는 마취제가 anesthetic이야. 전신마취는 general anesthetic.",
+      "aesthetic(미적인)에 an-이 붙으면 '감각을 없애는' 뜻이 되는 거야."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "angle",
+    "pos": "n/v",
+    "head_meanings": [
+      "관점",
+      "각도",
+      "편향",
+      "책략을 쓰다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "수학의 '각도' 말고 GRE에서는 '관점, 시각'이란 뜻이 더 중요해.",
+      "angle for compliments(칭찬을 낚으려 하다)처럼 '교묘히 노리다'는 뜻도 있어.",
+      "from every angle(모든 각도에서) = from every perspective."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "angst",
+    "pos": "n",
+    "head_meanings": [
+      "불안",
+      "고뇌",
+      "실존적 공포"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "독일어에서 온 말이야. 실존주의 철학에서 '존재론적 불안'을 가리켜.",
+      "anxiety보다 더 깊고 철학적인 불안감을 표현할 때 써.",
+      "teenage angst(10대의 고뇌) 같은 표현으로도 자주 쓰여."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "anguish",
+    "pos": "n/v",
+    "head_meanings": [
+      "극심한 고통",
+      "고뇌",
+      "괴로워하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "distress",
+        "note": "고통, 괴로움"
+      },
+      {
+        "word": "agony",
+        "note": "극심한 고통"
+      },
+      {
+        "word": "heartache",
+        "note": "마음의 고통"
+      },
+      {
+        "word": "torment",
+        "note": "극심한 괴로움"
+      },
+      {
+        "word": "despair",
+        "note": "절망"
+      },
+      {
+        "word": "misery",
+        "note": "비참함, 불행"
+      }
+    ],
+    "tips": [
+      "angst보다 더 구체적이고 강렬한 고통이야. 몸과 마음 모두에 쓸 수 있어.",
+      "anguished cry(고통에 찬 비명) 같은 표현 자주 나와.",
+      "pain보다 훨씬 강한 단어야. 극심하고 오래 지속되는 고통을 말해."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "animadversion",
+    "pos": "n",
+    "head_meanings": [
+      "비난",
+      "비평",
+      "혹평"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "criticism",
+        "note": "비판"
+      },
+      {
+        "word": "flak",
+        "note": "심한 비난(구어)"
+      },
+      {
+        "word": "aspersion",
+        "note": "중상, 비방"
+      },
+      {
+        "word": "reprobation",
+        "note": "비난, 질책"
+      },
+      {
+        "word": "rap",
+        "note": "비난, 질타"
+      },
+      {
+        "word": "censure",
+        "note": "공식적 비난"
+      }
+    ],
+    "tips": [
+      "`anim-`(mind) + `advert-`(turn to) = 마음을 돌려 주목하다 → 비판적으로 보다.",
+      "GRE에서 나오는 어려운 단어야! criticism의 격식체 버전이라고 생각하면 돼.",
+      "animadvert on ~(~을 비난하다)이라는 동사형도 있어."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "animate",
+    "pos": "v/adj",
+    "head_meanings": [
+      "생기를 불어넣다",
+      "활기 띠게 하다",
+      "살아 있는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "galvanize",
+        "note": "자극하여 행동하게 하다"
+      },
+      {
+        "word": "enliven",
+        "note": "활기를 주다"
+      },
+      {
+        "word": "vitalize",
+        "note": "활력을 주다"
+      },
+      {
+        "word": "energize",
+        "note": "에너지를 주다"
+      },
+      {
+        "word": "invigorate",
+        "note": "기운을 북돋다"
+      },
+      {
+        "word": "inspire",
+        "note": "영감을 주다"
+      },
+      {
+        "word": "arouse",
+        "note": "자극하다, 불러일으키다"
+      },
+      {
+        "word": "rouse",
+        "note": "분발시키다"
+      }
+    ],
+    "tips": [
+      "`anim-`(life, soul) = 생명·영혼. animation(애니메이션)이 여기서 왔어!",
+      "무생물에 생명을 불어넣는 느낌이야. 애니메이션은 그림에 생명을 준 거지.",
+      "형용사로 쓰면 '살아 있는'(↔ inanimate 무생물의)이란 뜻이야."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "animated",
+    "pos": "adj",
+    "head_meanings": [
+      "활기찬",
+      "생기 넘치는",
+      "열띤"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "lively",
+        "note": "활발한"
+      },
+      {
+        "word": "spirited",
+        "note": "기운찬"
+      },
+      {
+        "word": "energetic",
+        "note": "에너지 넘치는"
+      },
+      {
+        "word": "excited",
+        "note": "흥분한"
+      },
+      {
+        "word": "enthusiastic",
+        "note": "열정적인"
+      },
+      {
+        "word": "eager",
+        "note": "열심인"
+      },
+      {
+        "word": "alive",
+        "note": "생생한"
+      },
+      {
+        "word": "active",
+        "note": "활동적인"
+      },
+      {
+        "word": "vigorous",
+        "note": "활력 넘치는"
+      },
+      {
+        "word": "vivacious",
+        "note": "쾌활한"
+      },
+      {
+        "word": "dynamic",
+        "note": "역동적인"
+      },
+      {
+        "word": "vibrant",
+        "note": "활력 있는"
+      },
+      {
+        "word": "buoyant",
+        "note": "쾌활한, 낙관적인"
+      },
+      {
+        "word": "exuberant",
+        "note": "열정이 넘치는"
+      },
+      {
+        "word": "ebullient",
+        "note": "넘칠 듯 열정적인"
+      },
+      {
+        "word": "effervescent",
+        "note": "활기가 넘치는"
+      },
+      {
+        "word": "peppy",
+        "note": "활발한(구어)"
+      }
+    ],
+    "tips": [
+      "animate의 과거분사가 형용사가 된 거야. '생명이 불어넣어진' → 활기찬.",
+      "animated discussion(열띤 토론), animated movie(애니메이션 영화) 두 가지 용법 다 중요해.",
+      "listless(기운 없는), lethargic(무기력한)이 반의어야."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "animosity",
+    "pos": "n",
+    "head_meanings": [
+      "적개심",
+      "악의",
+      "원한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "bad feeling",
+        "note": "나쁜 감정"
+      },
+      {
+        "word": "bitterness",
+        "note": "원한, 쓰라림"
+      },
+      {
+        "word": "antagonism",
+        "note": "적대감"
+      },
+      {
+        "word": "malice",
+        "note": "악의"
+      },
+      {
+        "word": "enmity",
+        "note": "적의"
+      },
+      {
+        "word": "malevolence",
+        "note": "악의, 해치려는 마음"
+      },
+      {
+        "word": "malignity",
+        "note": "악의, 원한"
+      },
+      {
+        "word": "hostility",
+        "note": "적대감"
+      },
+      {
+        "word": "rancor",
+        "note": "깊은 원한"
+      }
+    ],
+    "tips": [
+      "`anim-`(spirit, feeling) + `-osity` = 강한 감정 → 적개심.",
+      "amity(우호)의 반대라고 생각하면 외우기 쉬워. amity ↔ animosity!",
+      "animosity toward/between ~ 패턴으로 자주 나와."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "animus",
+    "pos": "n",
+    "head_meanings": [
+      "악의",
+      "적의",
+      "의도"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "hostility",
+        "note": "적대감"
+      },
+      {
+        "word": "animosity",
+        "note": "적개심"
+      },
+      {
+        "word": "hatred",
+        "note": "증오"
+      },
+      {
+        "word": "venom",
+        "note": "독, 악의"
+      },
+      {
+        "word": "antipathy",
+        "note": "반감"
+      }
+    ],
+    "tips": [
+      "animosity랑 비슷한데 animus는 더 개인적이고 의도적인 적의야.",
+      "법률 용어로 '의도, 동기'란 뜻도 있어. animus 자체가 라틴어로 '마음, 정신'이야.",
+      "심리학에서 융(Jung)이 쓴 animus(남성적 내면)는 다른 뜻이니 헷갈리지 마."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "anneal",
+    "pos": "v",
+    "head_meanings": [
+      "담금질하다",
+      "단련하다",
+      "강화하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "toughen",
+        "note": "강하게 하다"
+      },
+      {
+        "word": "harden",
+        "note": "굳히다, 단단하게 하다"
+      },
+      {
+        "word": "stiffen",
+        "note": "뻣뻣하게 하다"
+      },
+      {
+        "word": "temper",
+        "note": "담금질하다, 단련하다"
+      },
+      {
+        "word": "steel",
+        "note": "강철처럼 단단하게 하다"
+      },
+      {
+        "word": "quench",
+        "note": "급냉하다(금속 가공)"
+      }
+    ],
+    "tips": [
+      "발음은 [əˈniːl] '어닐'이야. 금속이나 유리를 가열한 뒤 천천히 식혀 강하게 만드는 거야.",
+      "비유적으로 '정신을 단련하다, 강화하다'는 뜻으로도 써. annealed by hardship(고난으로 단련된).",
+      "GRE에서 비유적 의미로 나올 수 있어. temper, forge와 비슷한 맥락이야."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "annihilate",
+    "pos": "v",
+    "head_meanings": [
+      "전멸시키다",
+      "완전히 파괴하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "abolish",
+        "note": "폐지하다"
+      },
+      {
+        "word": "eradicate",
+        "note": "근절하다"
+      },
+      {
+        "word": "decimate",
+        "note": "대량 파괴하다"
+      },
+      {
+        "word": "obliterate",
+        "note": "완전히 지우다"
+      },
+      {
+        "word": "extinguish",
+        "note": "소멸시키다"
+      },
+      {
+        "word": "end",
+        "note": "끝내다"
+      }
+    ],
+    "tips": [
+      "`an-` + `nihil-`(nothing) = 아무것도 아닌 것으로 만들다. nihilism(허무주의)의 nihil이야.",
+      "게임에서 적을 완전히 박살 낼 때 annihilate 쓰잖아. 그 느낌 그대로야.",
+      "destroy보다 훨씬 강한 단어야. 흔적도 없이 없애버린다는 뉘앙스."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "annotate",
+    "pos": "v",
+    "head_meanings": [
+      "주석을 달다",
+      "주해하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "gloss",
+        "note": "주석을 달다"
+      },
+      {
+        "word": "footnote",
+        "note": "각주를 달다"
+      },
+      {
+        "word": "commentate",
+        "note": "해설하다"
+      },
+      {
+        "word": "expound",
+        "note": "상세히 설명하다"
+      },
+      {
+        "word": "construe",
+        "note": "해석하다"
+      },
+      {
+        "word": "explain",
+        "note": "설명하다"
+      },
+      {
+        "word": "elucidate",
+        "note": "명확히 하다"
+      },
+      {
+        "word": "explicate",
+        "note": "상세히 풀이하다"
+      },
+      {
+        "word": "interpret",
+        "note": "해석하다"
+      }
+    ],
+    "tips": [
+      "`an-`(to) + `not-`(mark) = 표시를 하다 → 주석을 달다. note(메모)와 같은 어근이야.",
+      "교과서에 메모하고 밑줄 치는 것도 annotate야. annotated edition(주석판)이라는 표현도 있어.",
+      "PDF에 하이라이트 치고 코멘트 다는 것도 요즘은 annotate라고 해."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "annoy",
+    "pos": "v",
+    "head_meanings": [
+      "짜증나게 하다",
+      "성가시게 하다",
+      "괴롭히다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "irritate",
+        "note": "짜증나게 하다"
+      },
+      {
+        "word": "vex",
+        "note": "화나게 하다"
+      },
+      {
+        "word": "exasperate",
+        "note": "몹시 화나게 하다"
+      },
+      {
+        "word": "irk",
+        "note": "짜증나게 하다"
+      },
+      {
+        "word": "gall",
+        "note": "분하게 하다"
+      },
+      {
+        "word": "nettle",
+        "note": "약 오르게 하다"
+      },
+      {
+        "word": "aggravate",
+        "note": "악화시키다, 짜증나게 하다"
+      },
+      {
+        "word": "peeve",
+        "note": "짜증나게 하다(구어)"
+      },
+      {
+        "word": "hassle",
+        "note": "귀찮게 하다"
+      },
+      {
+        "word": "rile",
+        "note": "화나게 하다"
+      },
+      {
+        "word": "needle",
+        "note": "바늘로 찌르듯 괴롭히다"
+      },
+      {
+        "word": "rankle",
+        "note": "계속 괴롭히다, 마음에 걸리다"
+      }
+    ],
+    "tips": [
+      "라틴어 `in odio`(in hatred)에서 왔어. '미움 속에 빠뜨리다' → 짜증나게 하다.",
+      "irritate, vex, irk, peeve 다 비슷한데 강도가 달라. annoy는 중간 정도야.",
+      "GRE에서는 동의어 vex, irk, exasperate를 더 자주 물어보니까 같이 외워!"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "annul",
+    "pos": "v",
+    "head_meanings": [
+      "무효로 하다",
+      "취소하다",
+      "폐지하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "nullify",
+        "note": "법적으로 무효화하다"
+      },
+      {
+        "word": "neutralize",
+        "note": "효력을 상쇄하다"
+      },
+      {
+        "word": "cancel",
+        "note": "취소하다"
+      },
+      {
+        "word": "repeal",
+        "note": "법률을 폐지하다"
+      },
+      {
+        "word": "revoke",
+        "note": "허가·권리를 철회하다"
+      },
+      {
+        "word": "negate",
+        "note": "부정하다, 무효화하다"
+      }
+    ],
+    "tips": [
+      "`an-`(to) + `nul-`(nothing) = 없는 것으로 만들다 → 무효화하다야.",
+      "결혼을 annul한다 = 처음부터 없던 걸로 하는 거야. cancel보다 더 강한 느낌.",
+      "법률 용어로 자주 나와. 'annul a contract'(계약 무효화) 이런 식으로 써."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "anodyne",
+    "pos": "n/adj",
+    "head_meanings": [
+      "무해한",
+      "무난한",
+      "진통제"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "painkiller",
+        "note": "진통제"
+      },
+      {
+        "word": "analgesic",
+        "note": "진통 효과가 있는"
+      },
+      {
+        "word": "narcotic",
+        "note": "마약성 진통제"
+      },
+      {
+        "word": "innocuous",
+        "note": "무해한, 자극 없는"
+      },
+      {
+        "word": "bland",
+        "note": "밋밋한, 무미건조한"
+      }
+    ],
+    "tips": [
+      "GRE 함정 단어! adj로 나오면 '무해한/무난한', n으로 나오면 '진통제'야. 형용사 뜻을 더 자주 물어봐.",
+      "`an-`(without) + `odyne`(pain) = 고통 없는 → 진통의, 무해한.",
+      "'anodyne remarks'는 아무도 기분 나빠하지 않을 무난한 발언이라는 뜻이야."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "anoint",
+    "pos": "v",
+    "head_meanings": [
+      "성유를 바르다",
+      "성별하다",
+      "임명하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "crown",
+        "note": "왕위에 올리다"
+      },
+      {
+        "word": "ordain",
+        "note": "성직자로 임명하다"
+      },
+      {
+        "word": "consecrate",
+        "note": "신성하게 하다"
+      }
+    ],
+    "tips": [
+      "왕이나 성직자 임명할 때 기름을 바르는 의식에서 온 말이야.",
+      "비유적으로 '후계자로 지명하다'라는 뜻으로도 많이 써. 'He was anointed as the next leader.'",
+      "`an-`(on) + `oint`(oil, 기름) = 기름을 바르다 → 성별하다, 임명하다."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "anomalous",
+    "pos": "adj",
+    "head_meanings": [
+      "변칙적인",
+      "비정상의",
+      "이례적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "atypical",
+        "note": "전형적이지 않은"
+      },
+      {
+        "word": "eccentric",
+        "note": "별난, 기이한"
+      },
+      {
+        "word": "inconsistent",
+        "note": "일관성 없는"
+      },
+      {
+        "word": "peculiar",
+        "note": "독특한, 이상한"
+      },
+      {
+        "word": "aberrant",
+        "note": "일탈적인, 비정상적인"
+      }
+    ],
+    "tips": [
+      "`a-`(without) + `nomal-`(rule) = 규칙이 없는 → 변칙적인, 이례적인.",
+      "anomaly(명사)랑 세트로 외워. 과학에서 '이상 현상'이라는 뜻으로도 자주 나와.",
+      "'anomalous results'는 실험에서 예상 밖의 결과가 나왔다는 뜻이야."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "anomaly",
+    "pos": "n",
+    "head_meanings": [
+      "변칙",
+      "이례",
+      "예외적인 것"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "aberration",
+        "note": "일탈, 이상 현상"
+      },
+      {
+        "word": "abnormality",
+        "note": "비정상"
+      },
+      {
+        "word": "oddity",
+        "note": "기이한 것"
+      },
+      {
+        "word": "misfit",
+        "note": "부적응자, 맞지 않는 것"
+      },
+      {
+        "word": "eccentricity",
+        "note": "별남, 기이함"
+      },
+      {
+        "word": "rarity",
+        "note": "희귀한 것"
+      }
+    ],
+    "tips": [
+      "anomalous의 명사형이야. 정상에서 벗어난 것을 가리켜.",
+      "과학 논문에서 'statistical anomaly'(통계적 이상치) 이런 표현 자주 봐.",
+      "GRE에서 '예외, 일탈'이라는 맥락으로 출제돼. aberration이랑 같이 외워두면 좋아."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "anonymity",
+    "pos": "n",
+    "head_meanings": [
+      "익명",
+      "무명",
+      "익명성"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pseudonym",
+        "note": "가명, 필명"
+      },
+      {
+        "word": "alias",
+        "note": "가명, 별칭"
+      },
+      {
+        "word": "incognito",
+        "note": "신분을 숨긴 상태"
+      }
+    ],
+    "tips": [
+      "`a-`(without) + `nonym`(name) = 이름이 없는 → 익명.",
+      "인터넷 시대에 anonymity는 핫한 주제야. 'online anonymity' 많이 쓰지.",
+      "anonymous(형용사)랑 세트야. 'anonymous donor' = 익명의 기부자."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "anonymous",
+    "pos": "adj",
+    "head_meanings": [
+      "익명의",
+      "작자 불명의",
+      "개성 없는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "unnamed",
+        "note": "이름이 밝혀지지 않은"
+      },
+      {
+        "word": "incognito",
+        "note": "신분을 숨긴"
+      },
+      {
+        "word": "unidentified",
+        "note": "미확인의"
+      },
+      {
+        "word": "unknown",
+        "note": "알려지지 않은"
+      },
+      {
+        "word": "nondescript",
+        "note": "특색 없는, 눈에 띄지 않는"
+      },
+      {
+        "word": "characterless",
+        "note": "개성 없는"
+      }
+    ],
+    "tips": [
+      "'anonymous tip' = 익명 제보, 'anonymous source' = 익명 소식통. 뉴스에서 많이 나와.",
+      "두 번째 뜻 '개성 없는'도 GRE에서 나올 수 있어. 'anonymous buildings' = 특색 없는 건물들.",
+      "약자로 'anon.'이라고도 써. 작자 미상일 때 저자명에 Anon.이라고 적어."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "antagonistic",
+    "pos": "adj",
+    "head_meanings": [
+      "적대적인",
+      "대립하는",
+      "상반되는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "hostile",
+        "note": "적대적인"
+      },
+      {
+        "word": "adversarial",
+        "note": "적대 관계의"
+      },
+      {
+        "word": "inimical",
+        "note": "적의 있는, 해로운"
+      },
+      {
+        "word": "antipathetic",
+        "note": "반감을 가진"
+      },
+      {
+        "word": "belligerent",
+        "note": "호전적인, 싸우려 드는"
+      },
+      {
+        "word": "pugnacious",
+        "note": "싸움을 좋아하는"
+      }
+    ],
+    "tips": [
+      "`anti-`(against) + `agon-`(struggle) = 맞서 싸우는 → 적대적인.",
+      "영화에서 antagonist = 악역이잖아. 주인공(protagonist)에 맞서는 사람!",
+      "'antagonistic relationship' = 적대 관계. hostile보다 좀 더 격식 있는 표현이야."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "antecede",
+    "pos": "v",
+    "head_meanings": [
+      "~보다 선행하다",
+      "~에 앞서다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "precede",
+        "note": "~에 앞서다"
+      },
+      {
+        "word": "antedate",
+        "note": "~보다 시기가 앞서다"
+      },
+      {
+        "word": "predate",
+        "note": "~보다 먼저 존재하다"
+      }
+    ],
+    "tips": [
+      "`ante-`(before) + `cede`(go) = 먼저 가다 → 선행하다.",
+      "antecedent(선례, 선행하는 것)의 동사형이야. 같이 외워.",
+      "precede랑 같은 뜻인데, antecede는 더 격식체야."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "antecedent",
+    "pos": "n/adj",
+    "head_meanings": [
+      "선례",
+      "선행하는 것",
+      "조상",
+      "경력"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "precursor",
+        "note": "선구자, 전조"
+      },
+      {
+        "word": "precedent",
+        "note": "선례, 판례"
+      },
+      {
+        "word": "ancestor",
+        "note": "조상"
+      },
+      {
+        "word": "forerunner",
+        "note": "선구자, 전조"
+      }
+    ],
+    "tips": [
+      "`ante-`(before) + `ced-`(go) + `-ent` = 먼저 간 것 → 선례, 선행 사건.",
+      "문법에서 antecedent = 선행사(대명사가 가리키는 명사)라는 뜻도 있어.",
+      "'criminal antecedents' = 전과, 범죄 경력. 복수형으로 쓰면 '내력, 경력'이야."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "antedate",
+    "pos": "v",
+    "head_meanings": [
+      "~에 앞서다",
+      "~보다 시기가 오래되다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "precede",
+        "note": "~에 앞서다"
+      },
+      {
+        "word": "predate",
+        "note": "~보다 먼저 존재하다"
+      },
+      {
+        "word": "preexist",
+        "note": "이전에 존재하다"
+      }
+    ],
+    "tips": [
+      "`ante-`(before) + `date`(날짜) = 날짜가 앞서다.",
+      "'This tradition antedates the Roman Empire.' = 이 전통은 로마 제국보다 앞선다.",
+      "수표에 실제보다 이전 날짜를 적는 것도 antedate라고 해. postdate(나중 날짜)의 반대야."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "antediluvian",
+    "pos": "adj",
+    "head_meanings": [
+      "구식의",
+      "태고적의",
+      "노아 홍수 이전의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "archaic",
+        "note": "고풍의, 구식의"
+      },
+      {
+        "word": "obsolete",
+        "note": "더 이상 쓰이지 않는"
+      },
+      {
+        "word": "antique",
+        "note": "골동품의, 고풍스러운"
+      },
+      {
+        "word": "old-fashioned",
+        "note": "구식의"
+      },
+      {
+        "word": "primitive",
+        "note": "원시적인"
+      }
+    ],
+    "tips": [
+      "`ante-`(before) + `diluvian`(flood) = 대홍수 이전의 → 아주 오래된, 구식의.",
+      "성경의 노아 대홍수 이전이라는 뜻에서 왔어. 그만큼 '엄청 옛날'이라는 과장이야.",
+      "GRE에서는 '구식의, 시대에 뒤떨어진'이라는 뜻으로 주로 출제돼."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "anthropogenic",
+    "pos": "adj",
+    "head_meanings": [
+      "인간에 의해 야기된",
+      "인위적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "human-caused",
+        "note": "인간이 초래한"
+      },
+      {
+        "word": "man-made",
+        "note": "인공의, 사람이 만든"
+      }
+    ],
+    "tips": [
+      "`anthropo-`(human) + `genic`(producing) = 인간이 만들어낸 → 인위적인.",
+      "'anthropogenic climate change' = 인간 활동으로 인한 기후 변화. 환경 지문에서 자주 나와.",
+      "anthropo- 접두사는 '인간'이라는 뜻이야. anthropology(인류학)도 같은 어근이지."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "anthropomorphic",
+    "pos": "adj",
+    "head_meanings": [
+      "의인화의",
+      "인간 형태의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "manlike",
+        "note": "인간을 닮은"
+      },
+      {
+        "word": "humanoid",
+        "note": "인간형의"
+      }
+    ],
+    "tips": [
+      "`anthropo-`(human) + `morph-`(form) = 인간의 형태를 가진 → 의인화의.",
+      "디즈니 캐릭터처럼 동물이 사람처럼 말하고 행동하는 게 anthropomorphic이야.",
+      "anthropomorphism(의인화)은 문학 기법으로도 자주 나와. personification이랑 비슷한 개념이야."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "anthropomorphism",
+    "pos": "n",
+    "head_meanings": [
+      "의인화",
+      "신인동형론"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "personification",
+        "note": "의인화, 인격화"
+      },
+      {
+        "word": "humanization",
+        "note": "인간화"
+      }
+    ],
+    "tips": [
+      "동물이나 사물에 인간적 특성을 부여하는 걸 말해.",
+      "'이솝 우화'가 대표적인 anthropomorphism 예시야. 여우가 말하고 생각하잖아.",
+      "anthropomorphic(형용사)이랑 세트로 외워."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "anticipate",
+    "pos": "v",
+    "head_meanings": [
+      "예상하다",
+      "예견하다",
+      "앞서다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "foresee",
+        "note": "미리 내다보다"
+      },
+      {
+        "word": "predict",
+        "note": "예측하다"
+      },
+      {
+        "word": "prefigure",
+        "note": "전조가 되다"
+      }
+    ],
+    "tips": [
+      "`anti-`(before) + `cip-`(take) = 미리 잡다 → 예상하다.",
+      "expect보다 '미리 대비한다'는 뉘앙스가 더 강해. 'anticipate problems' = 문제를 미리 예상하고 대비하다.",
+      "GRE에서는 '앞지르다, 선수치다'라는 뜻도 알아둬야 해."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "anticlimax",
+    "pos": "n",
+    "head_meanings": [
+      "용두사미",
+      "기대에 못 미침",
+      "급락"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "disappointment",
+        "note": "실망"
+      },
+      {
+        "word": "comedown",
+        "note": "추락, 격하"
+      },
+      {
+        "word": "bathos",
+        "note": "갑작스러운 격하, 졸렬한 표현"
+      },
+      {
+        "word": "letdown",
+        "note": "기대를 저버림"
+      }
+    ],
+    "tips": [
+      "`anti-`(against) + `climax`(절정) = 절정의 반대 → 용두사미, 김 빠짐.",
+      "영화 결말이 허무할 때 'What an anticlimax!' 이렇게 써.",
+      "climax는 올라가는 거고, anticlimax는 확 떨어지는 거야. bathos도 비슷한 뜻이니까 같이 외워."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "antidote",
+    "pos": "n",
+    "head_meanings": [
+      "해독제",
+      "대응책"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "remedy",
+        "note": "치료제, 해결책"
+      },
+      {
+        "word": "cure",
+        "note": "치료법"
+      },
+      {
+        "word": "counteragent",
+        "note": "해독 작용제"
+      },
+      {
+        "word": "corrective",
+        "note": "교정 수단"
+      }
+    ],
+    "tips": [
+      "`anti-`(against) + `dote`(give) = 독에 맞서 주는 것 → 해독제.",
+      "비유적으로 'antidote to boredom' = 지루함에 대한 해결책, 이런 식으로도 써.",
+      "독(poison)에 대한 건 물론이고, 나쁜 상황에 대한 '처방전' 느낌으로도 많이 쓰여."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "antipathy",
+    "pos": "n",
+    "head_meanings": [
+      "반감",
+      "혐오",
+      "질색인 것"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "aversion",
+        "note": "혐오, 싫어함"
+      },
+      {
+        "word": "loathing",
+        "note": "극도의 혐오"
+      },
+      {
+        "word": "repulsion",
+        "note": "거부감, 반발"
+      },
+      {
+        "word": "enmity",
+        "note": "적의, 원한"
+      },
+      {
+        "word": "dislike",
+        "note": "싫어함"
+      },
+      {
+        "word": "hostility",
+        "note": "적대감"
+      }
+    ],
+    "tips": [
+      "`anti-`(against) + `path-`(feeling) = 반대 감정 → 반감.",
+      "sympathy(공감)의 반대야. sym-(함께) vs anti-(반대)로 기억해.",
+      "apathy(무관심)랑 헷갈리지 마! antipathy는 적극적으로 싫어하는 거야."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "antiquated",
+    "pos": "adj",
+    "head_meanings": [
+      "구식의",
+      "낡아빠진",
+      "시대에 뒤진"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "outmoded",
+        "note": "유행이 지난"
+      },
+      {
+        "word": "antique",
+        "note": "고풍스러운, 구식의"
+      },
+      {
+        "word": "old-fashioned",
+        "note": "구식의"
+      },
+      {
+        "word": "archaic",
+        "note": "고대의, 구식의"
+      },
+      {
+        "word": "obsolescent",
+        "note": "쇠퇴해 가는, 한물가는"
+      }
+    ],
+    "tips": [
+      "antique(골동품)에서 온 말이야. 골동품처럼 낡았다는 뜻이지.",
+      "antediluvian, archaic, obsolete 다 비슷한 뜻이니까 묶어서 외워.",
+      "'antiquated laws' = 시대에 뒤떨어진 법률. 부정적 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "antithesis",
+    "pos": "n",
+    "head_meanings": [
+      "정반대",
+      "대조",
+      "대립"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "opposite",
+        "note": "반대, 정반대"
+      },
+      {
+        "word": "contrast",
+        "note": "대비, 대조"
+      },
+      {
+        "word": "polarity",
+        "note": "극성, 정반대"
+      },
+      {
+        "word": "antipode",
+        "note": "정반대의 것"
+      }
+    ],
+    "tips": [
+      "`anti-`(against) + `thesis`(주장) = 반대 주장 → 정반대.",
+      "'She is the antithesis of her sister.' = 그녀는 언니와 정반대야.",
+      "수사법에서 antithesis는 대조법이야. 'To err is human; to forgive, divine.' 같은 거."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "antithetical",
+    "pos": "adj",
+    "head_meanings": [
+      "정반대의",
+      "대조를 이루는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "oppositional",
+        "note": "대립적인"
+      },
+      {
+        "word": "contrary",
+        "note": "정반대의"
+      },
+      {
+        "word": "conflicting",
+        "note": "상충하는"
+      }
+    ],
+    "tips": [
+      "antithesis의 형용사형이야. 뜻은 '정반대의'.",
+      "'antithetical to democracy' = 민주주의에 정반대되는, 이런 식으로 to와 같이 써.",
+      "GRE 지문에서 두 개념을 대비할 때 자주 등장하는 단어야."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "apathetic",
+    "pos": "adj",
+    "head_meanings": [
+      "무관심한",
+      "냉담한",
+      "무감각한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "indifferent",
+        "note": "무관심한"
+      },
+      {
+        "word": "uninterested",
+        "note": "흥미 없는"
+      },
+      {
+        "word": "aloof",
+        "note": "냉담한, 초연한"
+      },
+      {
+        "word": "unmoved",
+        "note": "동요하지 않는"
+      },
+      {
+        "word": "dispassionate",
+        "note": "감정에 치우치지 않는"
+      },
+      {
+        "word": "unresponsive",
+        "note": "반응이 없는"
+      }
+    ],
+    "tips": [
+      "`a-`(without) + `path-`(feeling) = 감정이 없는 → 무관심한.",
+      "antipathy(반감)는 싫어하는 건데, apathy(무관심)는 아예 관심 자체가 없는 거야.",
+      "'apathetic voters' = 투표에 무관심한 유권자들. 사회 지문에서 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "apathy",
+    "pos": "n",
+    "head_meanings": [
+      "무관심",
+      "냉담",
+      "무감동"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "indifference",
+        "note": "무관심"
+      },
+      {
+        "word": "unconcern",
+        "note": "무관심, 태평함"
+      },
+      {
+        "word": "lethargy",
+        "note": "무기력, 나른함"
+      },
+      {
+        "word": "lassitude",
+        "note": "피로감, 나른함"
+      },
+      {
+        "word": "torpor",
+        "note": "무기력, 마비 상태"
+      }
+    ],
+    "tips": [
+      "`a-`(without) + `pathy`(feeling) = 감정 없음 → 무관심.",
+      "apathetic(형용사)의 명사형이야. 둘 다 자주 나오니까 세트로 외워.",
+      "'voter apathy'(유권자 무관심)는 GRE 사회 관련 지문 단골 표현이야."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "ape",
+    "pos": "v/n",
+    "head_meanings": [
+      "흉내 내다",
+      "모방하다",
+      "유인원"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "copy",
+        "note": "베끼다, 모방하다"
+      },
+      {
+        "word": "emulate",
+        "note": "따라하다, 모방하다"
+      },
+      {
+        "word": "parrot",
+        "note": "앵무새처럼 따라하다"
+      },
+      {
+        "word": "mock",
+        "note": "흉내 내며 놀리다"
+      },
+      {
+        "word": "parody",
+        "note": "패러디하다"
+      },
+      {
+        "word": "caricature",
+        "note": "풍자적으로 묘사하다"
+      }
+    ],
+    "tips": [
+      "원숭이(ape)가 사람 흉내 내는 것처럼, 동사로는 '따라하다'라는 뜻이야.",
+      "부정적 뉘앙스가 있어. 창의성 없이 그냥 베끼는 느낌이야.",
+      "emulate는 좋은 뜻의 모방인데, ape는 비굴하거나 우스꽝스러운 모방이야."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "apex",
+    "pos": "n",
+    "head_meanings": [
+      "정점",
+      "꼭대기",
+      "최고조"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "zenith",
+        "note": "천정, 최고점"
+      },
+      {
+        "word": "peak",
+        "note": "꼭대기, 절정"
+      },
+      {
+        "word": "pinnacle",
+        "note": "최고봉, 정점"
+      },
+      {
+        "word": "acme",
+        "note": "극치, 정점"
+      },
+      {
+        "word": "apogee",
+        "note": "최고점, 원지점"
+      }
+    ],
+    "tips": [
+      "삼각형의 꼭짓점이 apex야. 거기서 '정점, 절정'이라는 뜻이 나왔어.",
+      "'apex predator' = 최상위 포식자. 먹이사슬의 꼭대기에 있는 동물이야.",
+      "zenith, acme, pinnacle, apogee 다 '정점'이니까 묶어서 외워!"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "aphasia",
+    "pos": "n",
+    "head_meanings": [
+      "실어증"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "speechlessness",
+        "note": "말을 못 하는 상태"
+      },
+      {
+        "word": "muteness",
+        "note": "무언, 벙어리 상태"
+      }
+    ],
+    "tips": [
+      "`a-`(without) + `phasia`(speech) = 말이 없는 → 실어증.",
+      "뇌 손상으로 인해 말을 하거나 이해하는 능력을 잃는 의학 용어야.",
+      "dysphasia(언어 장애)는 부분적인 거고, aphasia는 완전한 실어증이야."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "aphid",
+    "pos": "n",
+    "head_meanings": [
+      "진딧물"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "plant louse",
+        "note": "식물에 기생하는 벌레"
+      }
+    ],
+    "tips": [
+      "식물 즙을 빨아먹는 아주 작은 곤충이야. 정원 가꾸는 사람들의 적!",
+      "과학 지문에서 생태계나 기생 관계 설명할 때 나올 수 있어.",
+      "개미가 aphid를 보호하고 대신 단물을 받아먹는 공생 관계가 유명해."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "aphorism",
+    "pos": "n",
+    "head_meanings": [
+      "금언",
+      "경구",
+      "격언"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "maxim",
+        "note": "격언, 좌우명"
+      },
+      {
+        "word": "dictum",
+        "note": "격언, 명언"
+      },
+      {
+        "word": "truism",
+        "note": "자명한 이치"
+      },
+      {
+        "word": "witticism",
+        "note": "재치 있는 말"
+      },
+      {
+        "word": "apothegm",
+        "note": "경구, 명언"
+      }
+    ],
+    "tips": [
+      "짧고 날카롭게 진리를 표현한 말이야. 'Less is more.' 같은 거.",
+      "adage, maxim, proverb, axiom 다 비슷한 뜻이니까 묶어서 외워.",
+      "aphoristic(경구적인)는 형용사형이야. 글쓰기 스타일을 묘사할 때 써."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "aphoristic",
+    "pos": "adj",
+    "head_meanings": [
+      "경구적인",
+      "격언이 담긴"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pithy",
+        "note": "간결하고 핵심을 찌르는"
+      },
+      {
+        "word": "epigrammatic",
+        "note": "경구적인, 재치 있는"
+      },
+      {
+        "word": "succinct",
+        "note": "간결한"
+      }
+    ],
+    "tips": [
+      "aphorism의 형용사형이야. 짧고 함축적인 글 스타일을 말해.",
+      "'aphoristic writing style' = 격언 같은 글쓰기 스타일.",
+      "pithy, terse, laconic 등 '간결한' 계열 단어랑 같이 알아두면 좋아."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "aplomb",
+    "pos": "n",
+    "head_meanings": [
+      "침착함",
+      "자신감",
+      "태연자약"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "equanimity",
+        "note": "평정, 침착"
+      },
+      {
+        "word": "composure",
+        "note": "침착, 평정"
+      },
+      {
+        "word": "poise",
+        "note": "자신감, 침착함"
+      },
+      {
+        "word": "self-assurance",
+        "note": "자기 확신"
+      }
+    ],
+    "tips": [
+      "발음 주의! [əˈplɒm] '어플럼'이야. 프랑스어에서 왔어.",
+      "위기 상황에서도 흔들리지 않는 침착함, 자신감을 말해. 'She handled the crisis with aplomb.'",
+      "composure, poise, equanimity 다 '침착함' 계열이니까 묶어서 외워."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "apocalyptic",
+    "pos": "adj",
+    "head_meanings": [
+      "종말론적인",
+      "묵시록의",
+      "예언적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "prophetic",
+        "note": "예언적인"
+      },
+      {
+        "word": "oracular",
+        "note": "신탁의, 예언하는"
+      },
+      {
+        "word": "prescient",
+        "note": "선견지명이 있는"
+      },
+      {
+        "word": "cataclysmic",
+        "note": "대격변의"
+      }
+    ],
+    "tips": [
+      "성경의 요한계시록(Apocalypse)에서 온 말이야. 세상 끝을 다루는 느낌.",
+      "'apocalyptic movie' = 종말 영화. 좀비 영화나 재난 영화를 떠올려 봐.",
+      "GRE에서는 '파멸적인, 대재앙적인'이라는 뉘앙스로도 쓰여."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "apocryphal",
+    "pos": "adj",
+    "head_meanings": [
+      "출처 불명의",
+      "진위 의심스러운",
+      "위작의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "spurious",
+        "note": "가짜의, 허위의"
+      },
+      {
+        "word": "fabricated",
+        "note": "꾸며낸, 조작된"
+      },
+      {
+        "word": "dubious",
+        "note": "의심스러운"
+      },
+      {
+        "word": "mythical",
+        "note": "신화적인, 허구의"
+      },
+      {
+        "word": "unverified",
+        "note": "확인되지 않은"
+      }
+    ],
+    "tips": [
+      "GRE 단골 단어야! '출처가 불분명하고 진짜인지 의심스러운'이라는 뜻이야.",
+      "원래 성경에서 정경에 포함되지 않은 외전(Apocrypha)에서 온 말이야.",
+      "'an apocryphal story' = 진짜인지 모를 이야기. 도시전설 같은 거 묘사할 때 써."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "apogee",
+    "pos": "n",
+    "head_meanings": [
+      "최고점",
+      "정점",
+      "원지점"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "apex",
+        "note": "꼭대기, 정점"
+      },
+      {
+        "word": "summit",
+        "note": "정상, 최고점"
+      },
+      {
+        "word": "pinnacle",
+        "note": "최고봉"
+      },
+      {
+        "word": "zenith",
+        "note": "천정, 최고점"
+      }
+    ],
+    "tips": [
+      "`apo-`(away) + `ge-`(earth) = 지구에서 가장 먼 점 → 원지점 → 정점.",
+      "원래 천문학 용어로 달이 지구에서 가장 먼 점이야. 반대는 perigee(근지점).",
+      "비유적으로 '절정, 최고점'이라는 뜻으로 GRE에 자주 나와."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "apologist",
+    "pos": "n",
+    "head_meanings": [
+      "옹호자",
+      "변호자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "advocate",
+        "note": "옹호자, 지지자"
+      },
+      {
+        "word": "defender",
+        "note": "방어자, 옹호자"
+      },
+      {
+        "word": "supporter",
+        "note": "지지자"
+      }
+    ],
+    "tips": [
+      "'사과하는 사람'이 아니야! 주의해! 어떤 입장을 변호하고 옹호하는 사람이야.",
+      "apologize(사과)랑 어원은 같지만 뜻이 달라. apology의 원래 뜻이 '변호'였어.",
+      "'an apologist for capitalism' = 자본주의 옹호자. 이런 식으로 for와 같이 써."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "apology",
+    "pos": "n",
+    "head_meanings": [
+      "사과",
+      "변명",
+      "옹호론"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "excuse",
+        "note": "변명, 핑계"
+      },
+      {
+        "word": "defense",
+        "note": "변호, 옹호"
+      },
+      {
+        "word": "justification",
+        "note": "정당화"
+      }
+    ],
+    "tips": [
+      "일상에서는 '사과'지만, 학술적으로는 '변호, 옹호론'이라는 뜻도 있어.",
+      "플라톤의 'Apology'는 소크라테스의 '변론'이지 '사과문'이 아니야!",
+      "apologist(옹호자)와 연결해서 기억해. 원래 뜻이 '변론하다'에서 왔거든."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "apostate",
+    "pos": "n/adj",
+    "head_meanings": [
+      "배교자",
+      "변절자",
+      "탈당자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "defector",
+        "note": "탈주자, 배신자"
+      },
+      {
+        "word": "turncoat",
+        "note": "변절자"
+      },
+      {
+        "word": "renegade",
+        "note": "배반자, 탈당자"
+      },
+      {
+        "word": "dissenter",
+        "note": "반대자, 이의 제기자"
+      },
+      {
+        "word": "heretic",
+        "note": "이단자"
+      }
+    ],
+    "tips": [
+      "`apo-`(away) + `sta-`(stand) = 떨어져 서다 → 기존 신앙·신념에서 등 돌린 사람.",
+      "종교에서는 배교자, 정치에서는 변절자라는 뜻으로 써.",
+      "apostasy(배교)는 명사형이야. 세트로 외워두면 좋아."
+    ]
+  }
+]
