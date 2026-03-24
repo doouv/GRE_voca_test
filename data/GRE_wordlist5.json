@@ -1,0 +1,1426 @@
+[
+  {
+    "id": "001",
+    "word": "astringent",
+    "pos": "adj.",
+    "head_meanings": [
+      "(과실이) 떫은",
+      "수렴성의",
+      "수축(지혈)시키는",
+      "엄한",
+      "신랄한"
+    ],
+    "synonyms_from_image": [
+      {"word": "styptic", "note": "지혈·수축시키는 의학 용어"},
+      {"word": "contracting", "note": "수축시키는"},
+      {"word": "strict", "note": "엄격한"},
+      {"word": "stern", "note": "엄하고 단호한"},
+      {"word": "austere", "note": "꾸밈없이 엄격한"}
+    ],
+    "tips": [
+      "`a-`(강조) + `string`(조이다) 이미지로 기억해. 뭔가를 쪼~옥 조여서 수축시키는 느낌이야.",
+      "떫은 감 먹으면 입안이 쪼그라드는 느낌 있지? 그게 astringent의 핵심 이미지야. 여기서 '수축시키다' → '엄하게 조이다' → '신랄한'으로 뜻이 갈라져.",
+      "`astringent criticism` = 신랄한 비평. GRE에서는 이 비유적 의미로 자주 나와."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "astronomical",
+    "pos": "adj.",
+    "head_meanings": [
+      "천문학적인",
+      "아주 큰",
+      "방대한"
+    ],
+    "synonyms_from_image": [
+      {"word": "colossal", "note": "거상(colossus)처럼 거대한"},
+      {"word": "immeasurable", "note": "측정 불가할 정도로 큰"},
+      {"word": "mammoth", "note": "매머드처럼 거대한"},
+      {"word": "titanic", "note": "타이탄 신처럼 압도적으로 큰"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '천문학의'라는 원래 뜻보다 '엄청나게 큰'이라는 비유적 뜻이 훨씬 자주 출제돼.",
+      "`astronomical costs/figures` = 천문학적 비용/수치. 우주의 거리처럼 상상을 초월하는 규모를 표현할 때 써."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "astute",
+    "pos": "adj.",
+    "head_meanings": [
+      "빈틈없는",
+      "기민한",
+      "눈치 빠른",
+      "현명한"
+    ],
+    "synonyms_from_image": [
+      {"word": "sagacious", "note": "깊은 통찰력이 있는"},
+      {"word": "canny", "note": "실리에 밝고 영리한"},
+      {"word": "perceptive", "note": "남이 못 보는 것을 알아채는"},
+      {"word": "incisive", "note": "원래 '예리하게 자르는'인데, 판단이 날카롭다는 맥락에서 만남"},
+      {"word": "shrewd", "note": "실용적 판단력이 뛰어난"},
+      {"word": "savvy", "note": "세상 물정에 밝은"},
+      {"word": "wily", "note": "꾀가 많은, 교활한 뉘앙스"}
+    ],
+    "tips": [
+      "라틴어 `astutus`(교활한)에서 왔어. '별(astro)처럼 날카롭게 빛나는 지혜'로 연상하면 돼.",
+      "`shrewd`와 비슷한데, astute가 좀 더 격식체야. `an astute political observer` = 빈틈없는 정치 관찰자.",
+      "GRE에서 긍정적 맥락(현명한)과 약간 부정적 맥락(교활한) 둘 다 나올 수 있어."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "asymmetric(al)",
+    "pos": "adj.",
+    "head_meanings": [
+      "비대칭의",
+      "불균형의"
+    ],
+    "synonyms_from_image": [
+      {"word": "lopsided", "note": "한쪽으로 기울어진"},
+      {"word": "askew", "note": "비뚤어진"},
+      {"word": "disproportionate", "note": "비율이 맞지 않는"},
+      {"word": "unbalanced", "note": "균형이 깨진"}
+    ],
+    "tips": [
+      "`a-`(없는) + `sym-`(함께) + `metric`(측정) → 양쪽을 함께 재면 안 맞는 거야.",
+      "`asymmetric warfare` = 비대칭 전쟁(강대국 vs 게릴라). GRE 지문에서 이런 맥락으로 자주 등장해."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "atheistic",
+    "pos": "adj.",
+    "head_meanings": [
+      "무신론의",
+      "신의 존재를 부인하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "impious", "note": "경건하지 않은, 신을 공경하지 않는"},
+      {"word": "unbelieving", "note": "믿지 않는"}
+    ],
+    "tips": [
+      "`a-`(없는) + `the-`(신, theology의 theo) → 신이 없다고 보는 입장이야.",
+      "`agnostic`(불가지론)과 구별해야 해. atheistic은 '신은 없다'고 단정, agnostic은 '알 수 없다'는 거야."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "atonal",
+    "pos": "adj.",
+    "head_meanings": [
+      "무조(無調)의",
+      "조성이 없는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`a-`(없는) + `tonal`(조성의) → 음악에서 중심 조성 없이 작곡하는 기법이야.",
+      "쇤베르크(Schoenberg)의 12음 기법이 대표적인 atonal music이야. GRE 예술 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "atone",
+    "pos": "v.",
+    "head_meanings": [
+      "속죄하다",
+      "죄값을 치르다",
+      "보상하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "repent", "note": "잘못을 뉘우치다"},
+      {"word": "expiate", "note": "죄를 씻다, 속죄하다"},
+      {"word": "make up for", "note": "보상하다, 메우다"},
+      {"word": "compensate", "note": "원래 '보상하다'인데, 잘못에 대한 보상 맥락에서 만남"}
+    ],
+    "tips": [
+      "`at one`(하나가 되다)에서 왔어! 신과 다시 하나가 되려고 죄를 씻는 거야. 이 어원이 기억에 딱 남아.",
+      "`atone for one's sins` = 죄를 속죄하다. `atonement` = 속죄. 영화 <어톤먼트> 생각하면 돼."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "atrocity",
+    "pos": "n.",
+    "head_meanings": [
+      "극악무도한 짓",
+      "잔학 행위",
+      "잔인성"
+    ],
+    "synonyms_from_image": [
+      {"word": "outrage", "note": "분노를 일으키는 극악한 행위"},
+      {"word": "villainy", "note": "악당의 짓, 극악함"},
+      {"word": "enormity", "note": "원래 '엄청난 규모'인데, '극악한 범죄'라는 뜻도 있어서 통함"}
+    ],
+    "tips": [
+      "`atro-`(검은, 잔혹한) → 라틴어 `atrox`(잔혹한)에서 왔어. `atrocious`(끔찍한)와 같은 뿌리야.",
+      "`war atrocities` = 전쟁 잔학 행위. GRE 역사/정치 지문에서 자주 등장하는 단어야."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "atrophy",
+    "pos": "n./v.",
+    "head_meanings": [
+      "위축(증)",
+      "퇴화",
+      "기능의 쇠퇴",
+      "위축되다"
+    ],
+    "synonyms_from_image": [
+      {"word": "deterioration", "note": "점점 나빠지는 것"},
+      {"word": "degeneration", "note": "퇴화, 퇴보"},
+      {"word": "withering", "note": "시들어 쪼그라드는"},
+      {"word": "emaciation", "note": "극도로 여위는 것"}
+    ],
+    "tips": [
+      "`a-`(없는) + `trophy`(영양) → 영양이 없어서 쪼그라드는 거야. trophy(트로피)와 헷갈리지 마!",
+      "근육을 안 쓰면 atrophy가 오듯이, 비유적으로 능력/제도가 '퇴화하다'는 뜻으로도 GRE에 나와. `skills atrophy without practice`."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "attentive",
+    "pos": "adj.",
+    "head_meanings": [
+      "주의 깊은",
+      "세심한",
+      "배려하는",
+      "정중한"
+    ],
+    "synonyms_from_image": [
+      {"word": "heedful", "note": "주의를 기울이는"},
+      {"word": "perceptive", "note": "예민하게 알아채는"},
+      {"word": "conscientious", "note": "양심적이고 꼼꼼한"},
+      {"word": "considerate", "note": "남을 배려하는"},
+      {"word": "thoughtful", "note": "사려 깊은"}
+    ],
+    "tips": [
+      "`attentive`는 뜻이 두 갈래야:\n1) 집중하는 → 주의 깊은, 경청하는 (an attentive student)\n2) 사람에게 → 세심한, 배려하는 (an attentive host)",
+      "`attend`(참석하다/돌보다)에서 파생됐어. '마음을 쏟다'가 핵심 이미지야."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "attenuate",
+    "pos": "v.",
+    "head_meanings": [
+      "(힘·가치를) 약하게 하다",
+      "줄이다",
+      "감소시키다",
+      "가늘게 하다",
+      "희박하게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "dilute", "note": "묽게 해서 약하게 하다"},
+      {"word": "diminish", "note": "줄어들게 하다"},
+      {"word": "rarefy", "note": "희박하게 하다"},
+      {"word": "lessen", "note": "줄이다, 약화시키다"},
+      {"word": "extenuate", "note": "원래 '정상참작하다'인데, '얇게 만들다'라는 어원이 같아서 통함"}
+    ],
+    "tips": [
+      "`at-`(~쪽으로) + `tenu-`(얇은, thin) → 점점 얇게, 약하게 만드는 거야. `tenuous`(희박한)와 같은 뿌리!",
+      "`The signal attenuates over distance` = 신호가 거리에 따라 약해진다. 물리적·추상적 약화 모두에 쓰여."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "attest",
+    "pos": "v.",
+    "head_meanings": [
+      "증명하다",
+      "입증하다",
+      "증언하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "corroborate", "note": "추가 증거로 뒷받침하다"},
+      {"word": "substantiate", "note": "실질적 증거를 대다"},
+      {"word": "verify", "note": "사실인지 확인하다"},
+      {"word": "certify", "note": "공식적으로 증명하다"},
+      {"word": "vouch for", "note": "~을 보증하다, 책임지고 증언하다"},
+      {"word": "authenticate", "note": "진품임을 증명하다"}
+    ],
+    "tips": [
+      "`at-`(~쪽으로) + `test-`(증인, testify의 test) → 증인석으로 나가서 증언하는 이미지야.",
+      "`attest to` = ~을 증명하다. `The ruins attest to the city's former glory` = 유적이 과거의 영광을 증명한다."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "attribute",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 특질, 속성",
+      "v.) (~의 탓으로/덕분으로) 돌리다"
+    ],
+    "synonyms_from_image": [
+      {"word": "characteristic", "note": "특성, 특징"},
+      {"word": "trait", "note": "성격·외모의 특성"},
+      {"word": "quality", "note": "품질, 자질"},
+      {"word": "ascribe", "note": "원인을 ~에 돌리다"},
+      {"word": "impute", "note": "원래 '~의 탓으로 돌리다'인데, 부정적 뉘앙스가 강함"},
+      {"word": "credit", "note": "원래 '공로를 인정하다'인데, 긍정적 원인 귀속 맥락에서 만남"}
+    ],
+    "tips": [
+      "`attribute`는 뜻이 두 갈래야:\n1) 명사: 특질, 속성 (attributes of a good leader)\n2) 동사(attribute to): 원인을 ~에 돌리다 (attribute the success to hard work)",
+      "`at-`(~쪽으로) + `tribut-`(주다, tribute) → 어떤 성질을 ~에게 '부여하다/돌리다'가 핵심이야."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "attrition",
+    "pos": "n.",
+    "head_meanings": [
+      "마멸",
+      "마찰",
+      "(인원의) 자연 감소",
+      "소모"
+    ],
+    "synonyms_from_image": [
+      {"word": "erosion", "note": "서서히 깎여 나가는 것"},
+      {"word": "abrasion", "note": "문질러서 닳는 것"},
+      {"word": "friction", "note": "마찰"},
+      {"word": "disintegration", "note": "서서히 분해되는 것"}
+    ],
+    "tips": [
+      "`at-`(~쪽으로) + `trit-`(문지르다, 갈다) → 계속 갈아서 닳게 하는 거야.",
+      "`war of attrition` = 소모전. `attrition rate` = (직원의) 자연 감소율. GRE에서 두 맥락 모두 나와.",
+      "물리적 마멸에서 비유적으로 '인력/자원의 점진적 감소'로 확장된 단어야."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "atypical",
+    "pos": "adj.",
+    "head_meanings": [
+      "비전형적인",
+      "정상적이지 않은",
+      "변칙적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "unconventional", "note": "관습에 따르지 않는"},
+      {"word": "anomalous", "note": "정상에서 벗어난"},
+      {"word": "aberrant", "note": "일탈적인"},
+      {"word": "unorthodox", "note": "정통에서 벗어난"},
+      {"word": "peculiar", "note": "독특하고 이상한"}
+    ],
+    "tips": [
+      "`a-`(없는) + `typical`(전형적인) → 전형에서 벗어난. 단순하지만 GRE에 꽤 자주 나와.",
+      "`atypical behavior` = 평소와 다른 행동. 과학 지문에서 '비전형적 사례'를 설명할 때 자주 등장해."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "audacious",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 대담한, 용감한",
+      "adj.) 뻔뻔스러운, 파렴치한",
+      "adj.) 기발한, 독창적인",
+      "n.) audacity: 대담함, 뻔뻔스러움"
+    ],
+    "synonyms_from_image": [
+      {"word": "bold", "note": "두려움 없이 과감한"},
+      {"word": "daring", "note": "위험을 무릅쓰는"},
+      {"word": "intrepid", "note": "겁 없이 용감한"},
+      {"word": "brazen", "note": "뻔뻔하게 당당한"},
+      {"word": "impudent", "note": "무례하고 건방진"},
+      {"word": "presumptuous", "note": "주제넘은"},
+      {"word": "venturesome", "note": "모험적인"}
+    ],
+    "tips": [
+      "`audacious`는 뜻이 세 갈래야, 핵심은 '두려움 없이 나서는 것':\n1) 긍정적: 대담한, 용감한 (an audacious rescue mission)\n2) 부정적: 뻔뻔한, 무례한 (the audacity to lie)\n3) 창의적: 기발한, 파격적인 (an audacious design)",
+      "라틴어 `audax`(과감한) ← `audere`(감히 하다)에서 왔어. `audacity`가 명사형이야.",
+      "GRE에서는 맥락에 따라 긍정/부정이 갈리니까 주변 단어의 톤을 잘 봐야 해!"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "augment",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 증대하다, 늘리다",
+      "n.) augmentation: 증가, 증대"
+    ],
+    "synonyms_from_image": [
+      {"word": "enlarge", "note": "크기를 키우다"},
+      {"word": "heighten", "note": "높이를 올리듯 강화하다"},
+      {"word": "intensify", "note": "강도를 높이다"},
+      {"word": "supplement", "note": "보충해서 늘리다"}
+    ],
+    "tips": [
+      "`aug-`(증가하다) → `August`(8월, 로마 황제 아우구스투스가 위엄을 '높이려고' 자기 이름을 붙인 달)와 같은 뿌리야!",
+      "`augment one's income` = 수입을 늘리다. 기존에 있는 것에 더해서 키우는 느낌이야."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "augury",
+    "pos": "n.",
+    "head_meanings": [
+      "전조",
+      "징조",
+      "점(占)"
+    ],
+    "synonyms_from_image": [
+      {"word": "portent", "note": "중대한 일의 전조"},
+      {"word": "premonition", "note": "불길한 예감"},
+      {"word": "forewarning", "note": "미리 경고하는 징조"},
+      {"word": "omen", "note": "길흉의 징조"}
+    ],
+    "tips": [
+      "고대 로마에서 새(avis)의 비행 패턴을 보고 길흉을 점치던 것에서 유래했어! `augur`(점치다)가 동사형이야.",
+      "`augur well/ill` = 좋은/나쁜 전조가 되다. `This augurs well for the future` = 미래에 좋은 징조다."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "august",
+    "pos": "adj.",
+    "head_meanings": [
+      "위엄 있는",
+      "존엄한",
+      "당당한"
+    ],
+    "synonyms_from_image": [
+      {"word": "majestic", "note": "왕처럼 장엄한"},
+      {"word": "venerable", "note": "존경받을 만한"},
+      {"word": "eminent", "note": "뛰어나고 저명한"},
+      {"word": "exalted", "note": "높이 받들어진"},
+      {"word": "regal", "note": "왕다운, 왕족 같은"},
+      {"word": "lofty", "note": "원래 '높은'인데, 품격이 고상하다는 맥락에서 만남"}
+    ],
+    "tips": [
+      "GRE 함정 단어! 8월(August)이 아니라 '위엄 있는'이라는 뜻이야. 소문자 august에 주의!",
+      "로마 황제 Augustus(아우구스투스)에서 유래. '존엄한 자'라는 칭호였어. `an august institution` = 위엄 있는 기관."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "aura",
+    "pos": "n.",
+    "head_meanings": [
+      "분위기",
+      "아우라",
+      "독특한 기운"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `aura`(바람, 숨결)에서 왔어. 사람이나 장소에서 풍기는 보이지 않는 '기운' 같은 거야.",
+      "`an aura of mystery` = 신비로운 분위기. GRE에서는 추상적 '분위기'로 주로 나와."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "auspicious",
+    "pos": "adj.",
+    "head_meanings": [
+      "길조의",
+      "상서로운",
+      "유리한"
+    ],
+    "synonyms_from_image": [
+      {"word": "propitious", "note": "조건이 유리한, 길한"},
+      {"word": "favorable", "note": "호의적인, 유리한"},
+      {"word": "promising", "note": "장래가 밝은"},
+      {"word": "opportune", "note": "시기적절한"},
+      {"word": "felicitous", "note": "원래 '적절한/행복한'인데, 좋은 결과를 암시하는 맥락에서 만남"},
+      {"word": "providential", "note": "섭리적인, 천우신조의"}
+    ],
+    "tips": [
+      "라틴어 `auspex`(새를 보는 사람) ← `avis`(새) + `specere`(보다). augury와 같은 뿌리야! 새점이 좋게 나왔다는 거지.",
+      "`an auspicious start` = 상서로운 출발. 반의어 `inauspicious`도 함께 알아둬.",
+      "`propitious`와 거의 같은 뜻인데, auspicious는 '징조'에 초점, propitious는 '조건'에 초점이야."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "austere",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 꾸밈없는, 간결한, 소박한",
+      "adj.) 엄격한, 엄숙한, 금욕적인",
+      "adj.) 검소한, 내핍의",
+      "n.) austerity: 긴축, 내핍, 엄격"
+    ],
+    "synonyms_from_image": [
+      {"word": "ascetic", "note": "금욕적인, 수도승 같은"},
+      {"word": "abstemious", "note": "절제하는, 검소한"},
+      {"word": "unadorned", "note": "장식 없는, 꾸밈없는"},
+      {"word": "severe", "note": "가혹할 정도로 엄격한"},
+      {"word": "stern", "note": "엄하고 단호한"},
+      {"word": "forbidding", "note": "원래 '겁나게 하는'인데, austere의 '다가가기 어려운 엄격함' 맥락에서 만남"},
+      {"word": "spartan", "note": "스파르타식으로 검소한"}
+    ],
+    "tips": [
+      "`austere`는 핵심이 '군더더기를 걷어낸 상태'야:\n1) 건물/디자인에 쓰이면 → 꾸밈없는, 소박한 (austere architecture)\n2) 사람/성격에 쓰이면 → 엄격한, 금욕적인 (an austere monk)\n3) 경제에 쓰이면 → 긴축의, 내핍의 (austerity measures = 긴축 정책)",
+      "`austerity`는 특히 경제 용어로 많이 나와. 정부의 지출 삭감 정책을 뜻해."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "auteur",
+    "pos": "n.",
+    "head_meanings": [
+      "개성파 영화 감독",
+      "독창적인 영화감독"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "프랑스어로 '작가(author)'라는 뜻이야. 영화를 단순 연출이 아닌 '작가의 예술'로 만드는 감독을 가리켜.",
+      "`auteur theory` = 감독 작가론. 히치콕, 큐브릭 같은 감독이 대표적인 auteur야. GRE 예술/문화 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "authenticate",
+    "pos": "v.",
+    "head_meanings": [
+      "진짜임을 증명하다",
+      "인증하다",
+      "확인하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "verify", "note": "사실인지 확인하다"},
+      {"word": "corroborate", "note": "추가 증거로 확인하다"},
+      {"word": "ratify", "note": "원래 '비준하다'인데, 공식적으로 유효하다고 확인하는 맥락에서 만남"},
+      {"word": "validate", "note": "유효함을 확인하다"}
+    ],
+    "tips": [
+      "`authentic`(진짜의) + `-ate`(동사화) → 진짜인지 확인하는 행위야.",
+      "`authenticate a painting` = 그림의 진품 여부를 감정하다. `authenticate a user` = 사용자 인증."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "authentic",
+    "pos": "adj.",
+    "head_meanings": [
+      "진짜의",
+      "진정한",
+      "믿을 만한"
+    ],
+    "synonyms_from_image": [
+      {"word": "genuine", "note": "가짜가 아닌 진짜인"},
+      {"word": "bona fide", "note": "라틴어로 '선의의', 즉 진심으로 진짜인"},
+      {"word": "veritable", "note": "진정한, 틀림없는"},
+      {"word": "legitimate", "note": "합법적이고 정당한"}
+    ],
+    "tips": [
+      "그리스어 `authentikos`(원본의, 진짜의)에서 왔어. '작가(author) 본인이 만든 것'이라는 이미지로 기억해.",
+      "`authentic experience` = 진정한 경험. GRE에서 '가짜가 아닌 진짜'와 '진정성 있는' 두 뜻 다 나와."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "authoritarian",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 독재주의적인, 권위주의적인",
+      "n.) 독재주의자",
+      "n.) authoritarianism: 권위주의"
+    ],
+    "synonyms_from_image": [
+      {"word": "dictatorial", "note": "독재자처럼 행동하는"},
+      {"word": "tyrannical", "note": "폭군 같은"},
+      {"word": "dogmatic", "note": "독단적인, 자기 생각만 옳다고 우기는"},
+      {"word": "despotic", "note": "전제적인, 폭군적인"}
+    ],
+    "tips": [
+      "`authoritative`(권위 있는)와 헷갈리기 쉬워! authoritarian은 부정적(독재적), authoritative는 긍정적(신뢰할 만한)이야.",
+      "`authoritarian regime` = 권위주의 정권. GRE 정치 지문의 단골 단어야."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "authoritative",
+    "pos": "adj.",
+    "head_meanings": [
+      "권위 있는",
+      "믿을 만한",
+      "명령적인",
+      "위압적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "reliable", "note": "신뢰할 수 있는"},
+      {"word": "definitive", "note": "최종적이고 결정적인"},
+      {"word": "commanding", "note": "지휘하듯 당당한"},
+      {"word": "imperious", "note": "원래 '거만한'인데, 권위적으로 명령하는 맥락에서 만남"},
+      {"word": "masterful", "note": "능숙하고 지배적인"}
+    ],
+    "tips": [
+      "`authoritative`는 뜻이 두 갈래야:\n1) 긍정적: 권위 있는, 믿을 만한 (an authoritative source = 신뢰할 만한 출처)\n2) 부정적: 위압적인, 강압적인 (an authoritative tone = 명령조)",
+      "`authoritarian`(독재적)과 반드시 구별해! authoritative는 '실력에서 나오는 권위', authoritarian은 '힘으로 누르는 권위'야."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "authority",
+    "pos": "n.",
+    "head_meanings": [
+      "권력",
+      "권한",
+      "권위",
+      "당국",
+      "대가(大家)"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`authority`는 뜻이 여러 갈래인데 핵심은 '정당한 힘'이야:\n1) 힘/권한 → 권력, 직권 (have the authority to)\n2) 기관 → 당국, 관계 기관 (the authorities)\n3) 사람 → 대가, 권위자 (an authority on linguistics)",
+      "GRE에서 'an authority on X' = 'X 분야의 대가'라는 뜻으로 자주 나와. 놓치기 쉬운 뜻이야!"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "autocracy",
+    "pos": "n.",
+    "head_meanings": [
+      "독재정치",
+      "독재국가",
+      "전제 권력"
+    ],
+    "synonyms_from_image": [
+      {"word": "absolutism", "note": "절대주의, 절대 권력 체제"},
+      {"word": "totalitarianism", "note": "전체주의"},
+      {"word": "dictatorship", "note": "독재 체제"},
+      {"word": "despotism", "note": "전제정치"},
+      {"word": "tyranny", "note": "폭정"}
+    ],
+    "tips": [
+      "`auto-`(스스로) + `-cracy`(통치) → 한 사람이 혼자 다 통치하는 체제야.",
+      "`democracy`(민주주의), `plutocracy`(금권정치), `theocracy`(신정정치)와 함께 `-cracy` 패밀리로 묶어 외우면 좋아."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "autocrat",
+    "pos": "n.",
+    "head_meanings": [
+      "독재자",
+      "전제군주",
+      "독선가"
+    ],
+    "synonyms_from_image": [
+      {"word": "tyrant", "note": "폭군"},
+      {"word": "despot", "note": "전제군주"},
+      {"word": "dictator", "note": "독재자"},
+      {"word": "overlord", "note": "최고 지배자"}
+    ],
+    "tips": [
+      "`auto-`(스스로) + `-crat`(지배자) → 혼자서 모든 걸 지배하는 사람.",
+      "`autocratic`(독재적인)이 형용사형이야. `an autocratic leader` = 독재적 지도자."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "autonomous",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 자치권이 있는, 자율적인",
+      "n.) autonomy: 자치, 자율, 자치권"
+    ],
+    "synonyms_from_image": [
+      {"word": "independent", "note": "독립적인"},
+      {"word": "sovereign", "note": "주권이 있는"},
+      {"word": "self-governing", "note": "자치하는"},
+      {"word": "self-reliant", "note": "자립적인"}
+    ],
+    "tips": [
+      "`auto-`(스스로) + `nomos`(법) → 스스로 법을 만드는, 즉 자기 일을 자기가 결정하는 거야.",
+      "`autonomous region` = 자치구. `personal autonomy` = 개인의 자율성. GRE에서 정치적 자치와 개인적 자율 두 맥락 모두 나와."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "autumnal",
+    "pos": "adj.",
+    "head_meanings": [
+      "가을의",
+      "초로기의",
+      "한물간"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! 단순히 '가을의'가 아니라, 비유적으로 '인생의 가을 = 중년 이후, 한물간'이라는 뜻이야.",
+      "`autumnal years` = 인생의 황혼기. `an autumnal mood` = 쓸쓸한 가을 같은 분위기."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "auxiliary",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 보조의, 예비의",
+      "n.) 보조원, 조수"
+    ],
+    "synonyms_from_image": [
+      {"word": "ancillary", "note": "보조적인, 부수적인"},
+      {"word": "supplementary", "note": "보충하는"},
+      {"word": "subsidiary", "note": "부차적인, 종속적인"},
+      {"word": "subordinate", "note": "하위의, 부수적인"}
+    ],
+    "tips": [
+      "라틴어 `auxilium`(도움)에서 왔어. `auxiliary verb` = 조동사(do, have, be 같은 보조 동사)야.",
+      "`ancillary`와 거의 동의어인데, auxiliary는 '예비/지원' 뉘앙스가 강하고 ancillary는 '부수적/종속적' 뉘앙스가 강해."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "avant-courier",
+    "pos": "n.",
+    "head_meanings": [
+      "선구자",
+      "선발대",
+      "전위",
+      "척후"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "프랑스어 `avant`(앞) + `courier`(전달자) → 앞서 달려가는 사람. `precursor`와 같은 뜻이야.",
+      "`avant-garde`와 같은 `avant-`(앞) 계열 단어야. 둘 다 '앞서 나가는 것'이 핵심."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "avant-garde",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "n.) 전위파, 아방가르드 예술가들",
+      "adj.) 전위적인, 실험적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "innovative", "note": "혁신적인"},
+      {"word": "experimental", "note": "실험적인"},
+      {"word": "pioneering", "note": "개척하는"},
+      {"word": "revolutionary", "note": "혁명적인"},
+      {"word": "unconventional", "note": "기존 관습을 따르지 않는"},
+      {"word": "progressive", "note": "진보적인"}
+    ],
+    "tips": [
+      "프랑스어로 '전위부대(advance guard)'라는 뜻이야. 군대 선봉처럼 예술에서 가장 앞서 나가는 사람들을 가리켜.",
+      "GRE 예술/문학 지문에서 자주 나와. `avant-garde art` = 전위 예술. 기존 전통을 깨는 실험적 시도를 뜻해."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "avarice",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "n.) 탐욕, 허욕",
+      "adj.) avaricious: 탐욕스러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "rapacity", "note": "약탈적 탐욕"},
+      {"word": "covetousness", "note": "남의 것을 탐내는 욕심"},
+      {"word": "cupidity", "note": "돈에 대한 강한 탐욕"},
+      {"word": "greed", "note": "탐욕"}
+    ],
+    "tips": [
+      "라틴어 `avere`(갈망하다)에서 왔어. 특히 '돈이나 재물에 대한 탐욕'을 가리키는 단어야.",
+      "`greed`보다 격식체이고 더 부정적이야. `corporate avarice` = 기업의 탐욕. GRE에서 자주 나오는 고급 어휘야.",
+      "`avaricious`(형용사)도 함께 알아둬. `rapacious`(약탈적인)와 비슷한 느낌이야."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "avatar",
+    "pos": "n.",
+    "head_meanings": [
+      "화신(化身)",
+      "구현",
+      "구체화"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "산스크리트어 `avatara`(하강)에서 왔어. 힌두교에서 신이 인간의 몸으로 내려오는 것을 뜻해. 비슈누 신의 10가지 avatar가 유명해.",
+      "GRE에서는 '~의 화신/구현' 뜻으로 나와. `She was the avatar of grace` = 그녀는 우아함의 화신이었다."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "avenge",
+    "pos": "v.",
+    "head_meanings": [
+      "복수하다",
+      "원수를 갚다",
+      "보복하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`a-`(~을 향해) + `venge`(벌하다, vengeance) → 잘못에 대해 벌을 내리는 거야.",
+      "`avenge`와 `revenge` 차이: avenge는 '정의를 위한 복수'(타인을 위해), revenge는 '개인적 앙갚음' 뉘앙스야. `avenge the victims` vs `take revenge`."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "aver",
+    "pos": "v.",
+    "head_meanings": [
+      "단언하다",
+      "자신 있게 말하다",
+      "진실이라고 확언하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "assert", "note": "강하게 주장하다"},
+      {"word": "affirm", "note": "사실이라고 확인하다"},
+      {"word": "declare", "note": "공식적으로 선언하다"},
+      {"word": "avouch", "note": "보증하며 단언하다"},
+      {"word": "maintain", "note": "원래 '유지하다'인데, '~이 사실이라고 주장하다' 뜻도 있어서 통함"}
+    ],
+    "tips": [
+      "라틴어 `ad-`(~쪽으로) + `verus`(진실) → 진실 쪽으로 가리키며 말하는 거야. `verify`(확인하다)와 같은 뿌리!",
+      "`aver`, `avow`, `avouch`가 GRE에서 헷갈리는 삼총사야. aver = 진실이라고 단언, avow = 공개적으로 인정, avouch = 보증하며 확인."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "averse",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 싫어하는, 꺼리는, 반대하는",
+      "n.) aversion: 혐오, 반감"
+    ],
+    "synonyms_from_image": [
+      {"word": "reluctant", "note": "마지못한, 꺼리는"},
+      {"word": "unwilling", "note": "하기 싫은"},
+      {"word": "antipathetic", "note": "반감을 가진"},
+      {"word": "loath", "note": "몹시 싫어하는"},
+      {"word": "disinclined", "note": "마음이 내키지 않는"}
+    ],
+    "tips": [
+      "`a-`(~로부터) + `verse`(돌리다) → 얼굴을 돌려버리는 거야. 뭔가가 싫어서 외면하는 이미지!",
+      "`averse to` = ~을 싫어하는. `risk-averse` = 위험을 꺼리는. `aversion`은 명사형이야.",
+      "`adverse`(불리한)와 헷갈리지 마! averse는 '감정적으로 싫은', adverse는 '상황이 불리한'이야."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "avert",
+    "pos": "v.",
+    "head_meanings": [
+      "(눈·시선을) 돌리다",
+      "피하다",
+      "막다"
+    ],
+    "synonyms_from_image": [
+      {"word": "forestall", "note": "미리 손써서 막다"},
+      {"word": "prevent", "note": "방지하다"},
+      {"word": "preclude", "note": "가능성 자체를 차단하다"},
+      {"word": "ward off", "note": "물리치다, 쫓아내다"},
+      {"word": "deflect", "note": "방향을 틀어 빗겨가게 하다"}
+    ],
+    "tips": [
+      "`a-`(~로부터) + `vert`(돌리다) → 고개를 돌리다, 위험을 비켜가게 하다. `averse`와 같은 뿌리야!",
+      "두 가지 핵심 용법을 기억해:\n1) `avert one's eyes/gaze` = 시선을 돌리다\n2) `avert a disaster/crisis` = 재난을 막다"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "avid",
+    "pos": "adj.",
+    "head_meanings": [
+      "열렬한",
+      "열심인",
+      "탐욕스러운",
+      "갈망하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "keen", "note": "열의가 넘치는"},
+      {"word": "eager", "note": "간절히 원하는"},
+      {"word": "ardent", "note": "열정적인"},
+      {"word": "zealous", "note": "열성적인"},
+      {"word": "insatiable", "note": "만족할 줄 모르는"},
+      {"word": "voracious", "note": "원래 '게걸스러운'인데, 지식이나 경험을 탐욕스럽게 원하는 맥락에서 만남"}
+    ],
+    "tips": [
+      "라틴어 `avidus`(갈망하는) ← `avere`(갈망하다). `avarice`(탐욕)와 같은 뿌리야!",
+      "`an avid reader` = 열렬한 독서가. `avid for knowledge` = 지식에 대한 갈망. 긍정적 맥락에서 자주 쓰여."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "avocation",
+    "pos": "n.",
+    "head_meanings": [
+      "부업",
+      "취미 삼아 하는 일",
+      "소일거리"
+    ],
+    "synonyms_from_image": [
+      {"word": "hobby", "note": "취미"},
+      {"word": "pastime", "note": "소일거리"},
+      {"word": "sideline", "note": "부업, 본업 외의 일"},
+      {"word": "diversion", "note": "원래 '전환'인데, 본업에서 벗어나 즐기는 일이라는 맥락에서 만남"}
+    ],
+    "tips": [
+      "GRE 함정 단어! `vocation`(천직, 본업)과 헷갈리기 쉬워. `a-`(~에서 벗어나) + `vocation`(소명) → 본업에서 벗어나 하는 일 = 취미, 부업.",
+      "`His avocation is painting` = 그의 취미는 그림 그리기야. vocation과 avocation의 차이를 묻는 문제가 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "avouch",
+    "pos": "v.",
+    "head_meanings": [
+      "사실임을 확인하다",
+      "단언하다",
+      "보증하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "affirm", "note": "사실이라고 확인하다"},
+      {"word": "proclaim", "note": "공개적으로 선언하다"},
+      {"word": "warrant", "note": "보증하다, 장담하다"}
+    ],
+    "tips": [
+      "`a-`(~쪽으로) + `vouch`(보증하다) → 나서서 보증하며 확인하는 거야.",
+      "`aver`, `avow`, `avouch` 삼총사: aver = 진실이라고 단언, avow = 공개적으로 인정, avouch = 책임지고 보증하며 확인. avouch가 가장 강한 뉘앙스야."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "avow",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 공언하다, 공개적으로 인정하다",
+      "v.) 솔직히 말하다",
+      "n.) avowal: 공언, 고백"
+    ],
+    "synonyms_from_image": [
+      {"word": "acknowledge", "note": "인정하다"},
+      {"word": "confess", "note": "고백하다"},
+      {"word": "declare", "note": "선언하다"},
+      {"word": "proclaim", "note": "공표하다"},
+      {"word": "profess", "note": "원래 '공언하다'인데, 공개적 표명이라는 맥락에서 만남"}
+    ],
+    "tips": [
+      "`a-`(~쪽으로) + `vow`(맹세하다) → 공개적으로 맹세하듯 인정하는 거야.",
+      "`avow`는 숨기지 않고 당당히 밝힌다는 뉘앙스야. `an avowed atheist` = 공개적으로 자처하는 무신론자.",
+      "`avowed` 형용사형도 GRE에 나와. '공공연한, 자인한'이라는 뜻이야."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "await",
+    "pos": "v.",
+    "head_meanings": [
+      "기다리다",
+      "(일 등이) 닥쳐오다",
+      "기대하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`a-`(~을 향해) + `wait`(기다리다). wait보다 격식체이고, '미래의 일이 다가오고 있다'는 느낌이 강해.",
+      "`A surprise awaits you` = 깜짝 선물이 너를 기다리고 있어. 주어가 '기다리는 것'이 될 수 있다는 점이 포인트야."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "awash",
+    "pos": "adj.",
+    "head_meanings": [
+      "물에 잠긴",
+      "침수된",
+      "~으로 가득 찬"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`a-`(상태) + `wash`(씻기다) → 물에 씻겨 잠긴 상태야.",
+      "GRE에서는 비유적 뜻이 중요해! `awash in/with` = ~으로 넘쳐나는. `The city was awash in corruption` = 도시가 부패로 넘쳐났다."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "awe",
+    "pos": "n.",
+    "head_meanings": [
+      "경외",
+      "경건한 두려움",
+      "외경심"
+    ],
+    "synonyms_from_image": [
+      {"word": "reverence", "note": "깊은 존경과 경외"},
+      {"word": "veneration", "note": "숭배하듯 공경하는 마음"},
+      {"word": "wonder", "note": "경이로움"}
+    ],
+    "tips": [
+      "awe는 '압도당할 정도의 경이로움 + 약간의 두려움'이 섞인 감정이야. awesome의 원래 뜻!",
+      "`in awe of` = ~에 경외심을 느끼며. `awe-inspiring` = 경외감을 불러일으키는. `awe-struck` = 경외감에 압도된."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "awkward",
+    "pos": "adj.",
+    "head_meanings": [
+      "어색한",
+      "서투른",
+      "다루기 힘든",
+      "불편한",
+      "거북한"
+    ],
+    "synonyms_from_image": [
+      {"word": "clumsy", "note": "동작이 서투른"},
+      {"word": "gauche", "note": "사회적으로 어색하고 세련되지 못한"},
+      {"word": "maladroit", "note": "솜씨 없는, 서투른"},
+      {"word": "ungainly", "note": "움직임이 우아하지 못한"},
+      {"word": "cumbersome", "note": "크고 다루기 불편한"},
+      {"word": "unwieldy", "note": "다루기 힘들 정도로 큰"}
+    ],
+    "tips": [
+      "`awkward`는 핵심이 '매끄럽지 않은 상태'야:\n1) 사람의 동작 → 서투른, 우둔한\n2) 사회적 상황 → 어색한, 거북한 (awkward silence)\n3) 사물 → 다루기 힘든, 불편한 (awkward to carry)",
+      "GRE에서 `gauche`와 `maladroit`가 awkward의 고급 동의어로 자주 출제돼."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "awry",
+    "pos": "adj./adv.",
+    "head_meanings": [
+      "비뚤어진",
+      "잘못된",
+      "빗나간"
+    ],
+    "synonyms_from_image": [
+      {"word": "askew", "note": "비스듬하게 기울어진"},
+      {"word": "crooked", "note": "구부러진, 비뚤어진"},
+      {"word": "amiss", "note": "잘못된, 뭔가 어긋난"}
+    ],
+    "tips": [
+      "`go awry` = 잘못되다, 빗나가다. 이 표현이 GRE에서 가장 자주 나와!",
+      "물리적 '비뚤어진'에서 비유적 '잘못된'으로 확장된 단어야. `The plan went awry` = 계획이 어긋났다."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "axiom",
+    "pos": "n.",
+    "head_meanings": [
+      "공리",
+      "자명한 진리",
+      "원리"
+    ],
+    "synonyms_from_image": [
+      {"word": "truism", "note": "너무 당연해서 말할 필요도 없는 진리"},
+      {"word": "postulate", "note": "증명 없이 전제하는 명제"},
+      {"word": "precept", "note": "행동의 원칙, 교훈"},
+      {"word": "maxim", "note": "격언, 행동 지침"}
+    ],
+    "tips": [
+      "그리스어 `axioma`(가치 있는 것, 당연한 것)에서 왔어. 수학에서 증명 없이 참으로 받아들이는 명제야.",
+      "`axiomatic` = 자명한. `It is axiomatic that...` = ~은 자명하다. GRE에서 이 형용사형이 더 자주 나와!"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "babble",
+    "pos": "v./n.",
+    "head_meanings": [
+      "재잘거리다",
+      "중얼거리다",
+      "알아들을 수 없는 말을 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "prattle", "note": "쉴 새 없이 재잘대다"},
+      {"word": "blather", "note": "의미 없는 말을 지껄이다"},
+      {"word": "gibber", "note": "알아들을 수 없게 중얼대다"},
+      {"word": "murmur", "note": "낮은 소리로 중얼거리다"}
+    ],
+    "tips": [
+      "아기가 '바바바' 하는 소리를 흉내 낸 의성어야. 바벨탑(Tower of Babel)과도 연관돼 — 서로 말이 안 통하는 혼란!",
+      "`babbling brook` = 졸졸 흐르는 시냇물. 물소리가 재잘거리는 것 같다는 비유야."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "backfire",
+    "pos": "v./n.",
+    "head_meanings": [
+      "(계획·기대 등이) 역효과를 내다",
+      "뜻대로 되지 않다",
+      "역화(逆火)"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 자동차 엔진에서 불꽃이 반대 방향으로 튀는 현상(역화)이야. 여기서 '역효과' 뜻이 나왔어.",
+      "`The plan backfired` = 계획이 역효과를 냈다. 의도와 정반대 결과가 나올 때 쓰는 단어야."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "backwater",
+    "pos": "n.",
+    "head_meanings": [
+      "오지",
+      "침체된 곳",
+      "정체된 물"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "강물이 역류해서 고여 있는 곳 → 발전이 멈춘 후진 지역이라는 비유야.",
+      "`a cultural backwater` = 문화적 오지. GRE에서는 비유적으로 '시대에 뒤처진 곳'이라는 뜻으로 나와."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "badger",
+    "pos": "v.",
+    "head_meanings": [
+      "괴롭히다",
+      "못살게 굴다",
+      "집적거리다"
+    ],
+    "synonyms_from_image": [
+      {"word": "pester", "note": "귀찮게 졸라대다"},
+      {"word": "harass", "note": "지속적으로 괴롭히다"},
+      {"word": "nag", "note": "잔소리하며 괴롭히다"},
+      {"word": "goad", "note": "원래 '막대기로 찌르다'인데, 자극해서 괴롭히는 맥락에서 만남"},
+      {"word": "hound", "note": "원래 '사냥개'인데, 사냥개처럼 끈질기게 쫓아다니며 괴롭히는 것"}
+    ],
+    "tips": [
+      "명사로는 '오소리(badger)'야! 과거 영국에서 오소리를 굴에서 끌어내 개와 싸우게 하는 잔인한 놀이(badger-baiting)에서 유래했어.",
+      "`badger someone into doing something` = ~에게 끈질기게 졸라서 하게 만들다."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "badinage",
+    "pos": "n.",
+    "head_meanings": [
+      "가벼운 농담",
+      "익살스러운 대화",
+      "장난"
+    ],
+    "synonyms_from_image": [
+      {"word": "banter", "note": "가벼운 농담을 주고받는 대화"},
+      {"word": "raillery", "note": "선의의 조롱, 놀림"},
+      {"word": "persiflage", "note": "가벼운 농담, 빈정거림"},
+      {"word": "repartee", "note": "재치 있는 응수"}
+    ],
+    "tips": [
+      "프랑스어 `badiner`(농담하다)에서 왔어. 발음이 '배디나쥬'야. 프랑스식 우아한 농담 느낌!",
+      "`banter`, `badinage`, `raillery`, `persiflage` — GRE에서 '가벼운 농담' 계열 동의어가 자주 출제돼. 묶어서 외우면 좋아."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "baffle",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "v.) 당황하게 하다, 어리둥절하게 하다",
+      "v.) 좌절시키다, 방해하다",
+      "adj.) baffling: 이해할 수 없는, 당황스러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "perplex", "note": "복잡하게 얽혀 혼란스럽게 하다"},
+      {"word": "bewilder", "note": "완전히 갈피를 못 잡게 하다"},
+      {"word": "confound", "note": "뒤섞어 혼란시키다"},
+      {"word": "nonplus", "note": "어찌할 바를 모르게 하다"},
+      {"word": "stump", "note": "원래 '그루터기'인데, 꼼짝 못하게 막아버리는 맥락에서 만남"},
+      {"word": "inscrutable", "note": "도저히 파악할 수 없는"},
+      {"word": "cryptic", "note": "숨겨진 의미가 있어 알기 어려운"}
+    ],
+    "tips": [
+      "16세기에 '조롱하다'에서 '혼란시키다'로 뜻이 바뀌었어. 명사로는 '방음판, 차단판'이라는 뜻도 있어 — 소리나 빛을 막아서 혼란스럽게 하는 거지.",
+      "`baffling`(이해 불가한)은 형용사로 아주 자주 쓰여. `a baffling mystery` = 도저히 풀 수 없는 미스터리."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "bait",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 괴롭히다, 못살게 굴다",
+      "v.) 미끼를 달다",
+      "n.) 미끼, 유인물"
+    ],
+    "synonyms_from_image": [
+      {"word": "torment", "note": "고통을 주며 괴롭히다"},
+      {"word": "tantalize", "note": "손에 닿을 듯 말 듯 애태우다"},
+      {"word": "vex", "note": "짜증나게 괴롭히다"},
+      {"word": "badger", "note": "끈질기게 졸라서 괴롭히다"}
+    ],
+    "tips": [
+      "`bait`은 핵심이 '미끼'야:\n1) 낚시/사냥에 쓰이면 → 미끼, 미끼를 달다\n2) 사람에게 쓰이면 → 괴롭히다, 약올리다 (미끼로 동물을 유인해 괴롭히던 것에서 유래)",
+      "`take the bait` = 미끼를 물다(속다). `clickbait` = 클릭을 유도하는 미끼성 제목."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "bale",
+    "pos": "n.",
+    "head_meanings": [
+      "재앙",
+      "불행",
+      "고통",
+      "(짐의) 큰 꾸러미"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "두 가지 다른 뜻이 있어:\n1) 문학적: 재앙, 불행 (고어체) → `baleful`(해로운)의 뿌리\n2) 일상적: 건초·면화 등의 큰 꾸러미 (a bale of hay)",
+      "GRE에서는 `baleful`을 통해 간접적으로 나올 수 있어. bale의 '재앙' 뜻을 알면 baleful이 쉬워져."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "baleful",
+    "pos": "adj.",
+    "head_meanings": [
+      "악의를 품은",
+      "해로운",
+      "불길한"
+    ],
+    "synonyms_from_image": [
+      {"word": "malicious", "note": "악의가 있는"},
+      {"word": "ominous", "note": "불길한 징조의"},
+      {"word": "malign", "note": "해로운, 악의적인"},
+      {"word": "sinister", "note": "불길하고 사악한"}
+    ],
+    "tips": [
+      "`bale`(재앙) + `-ful`(가득한) → 재앙으로 가득한 → 해로운, 불길한.",
+      "`a baleful glare` = 악의에 찬 노려봄. `baleful influence` = 해로운 영향. GRE에서 자주 나오는 고급 형용사야."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "balk",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "v.) 주저하다, 꺼리다",
+      "v.) 막다, 방해하다",
+      "adj.) balky: 고집센, 말을 안 듣는"
+    ],
+    "synonyms_from_image": [
+      {"word": "thwart", "note": "가로막아 좌절시키다"},
+      {"word": "foil", "note": "계획을 무산시키다"},
+      {"word": "frustrate", "note": "좌절시키다"},
+      {"word": "recoil", "note": "움찔하며 뒤로 물러나다"},
+      {"word": "flinch", "note": "겁나서 움찔하다"}
+    ],
+    "tips": [
+      "말이 장애물 앞에서 갑자기 뒷걸음질치며 멈추는 모습을 상상해봐. 그게 balk의 핵심 이미지야!",
+      "`balk at` = ~을 꺼리다/거부하다. `She balked at the high price` = 비싼 가격에 주저했다.",
+      "야구에서 `balk`는 투수가 부정 동작을 하는 것도 뜻해. '갑자기 멈추다/속이다'라는 공통 이미지야."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "balloon",
+    "pos": "v.",
+    "head_meanings": [
+      "급등하다",
+      "부풀다",
+      "팽창하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "swell", "note": "부풀어 오르다"},
+      {"word": "inflate", "note": "공기를 넣어 부풀리다"},
+      {"word": "expand", "note": "확장하다"},
+      {"word": "distend", "note": "팽팽하게 부풀다"}
+    ],
+    "tips": [
+      "GRE 함정 단어! 명사 '풍선'이 아니라 동사 '급등하다/부풀다'로 나와.",
+      "`The debt ballooned` = 부채가 급등했다. `ballooning costs` = 치솟는 비용. 경제 지문에서 자주 등장해."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "ballyhoo",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 떠들썩한 선전/광고, 야단법석",
+      "v.) 과대 선전하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "hype", "note": "과대 홍보"},
+      {"word": "publicity", "note": "홍보, 선전"},
+      {"word": "commotion", "note": "소동, 소란"},
+      {"word": "uproar", "note": "큰 소란, 떠들썩함"}
+    ],
+    "tips": [
+      "19세기 미국 서커스·유원지에서 호객꾼들이 떠들어대는 것에서 유래한 단어야.",
+      "`media ballyhoo` = 미디어의 떠들썩한 선전. 실속보다 소란이 큰 상황을 비꼴 때 써."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "balm",
+    "pos": "n.",
+    "head_meanings": [
+      "진통제",
+      "위안이 되는 것",
+      "향유",
+      "방향제"
+    ],
+    "synonyms_from_image": [
+      {"word": "solace", "note": "위안, 위로"},
+      {"word": "comfort", "note": "편안함, 위로"},
+      {"word": "anodyne", "note": "진통제, 고통을 덜어주는 것"},
+      {"word": "restorative", "note": "원기를 회복시키는 것"}
+    ],
+    "tips": [
+      "`balm`은 원래 상처에 바르는 '향유/연고'야. 여기서 '마음의 상처를 달래주는 것'으로 비유가 확장됐어.",
+      "`a balm for the soul` = 영혼의 위안. `lip balm`(립밤)의 그 balm이야!"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "balmy",
+    "pos": "adj.",
+    "head_meanings": [
+      "온화한",
+      "기분 좋은",
+      "향기로운"
+    ],
+    "synonyms_from_image": [
+      {"word": "clement", "note": "날씨가 온화한"},
+      {"word": "mild", "note": "부드럽고 온화한"},
+      {"word": "pleasant", "note": "기분 좋은"},
+      {"word": "gentle", "note": "부드러운, 순한"}
+    ],
+    "tips": [
+      "`balm`(향유) + `-y` → 향유처럼 부드럽고 따뜻한 느낌이야.",
+      "`a balmy evening` = 온화한 저녁. 주로 날씨가 쾌적할 때 써. 영국 속어로는 '미친'이라는 뜻도 있지만 GRE에서는 안 나와."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "banal",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 진부한, 케케묵은, 평범한",
+      "n.) banality: 진부한 표현, 상투적 문구"
+    ],
+    "synonyms_from_image": [
+      {"word": "hackneyed", "note": "너무 많이 써서 닳아빠진"},
+      {"word": "trite", "note": "진부하고 신선하지 않은"},
+      {"word": "pedestrian", "note": "원래 '보행자'인데, 비유적으로 '평범하고 재미없는'"},
+      {"word": "prosaic", "note": "원래 '산문적인'인데, '상상력 없이 평범한'이라는 뜻에서 만남"},
+      {"word": "vapid", "note": "김 빠진 것처럼 재미없고 생기 없는"},
+      {"word": "platitudinous", "note": "진부한 말만 늘어놓는"}
+    ],
+    "tips": [
+      "원래 프랑스어로 '영주의 가마솥에서 빵을 굽는(공동 사용의)' → 누구나 쓰는 것 → 흔한 것 → 진부한. 재밌는 어원이지?",
+      "GRE에서 `banal`, `hackneyed`, `trite`, `pedestrian`, `prosaic`은 모두 '진부한' 계열 동의어야. 매우 자주 출제되는 단어 그룹!",
+      "`the banality of evil` = 악의 평범성. 한나 아렌트의 유명한 개념이야. GRE 지문에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "bane",
+    "pos": "n.",
+    "head_meanings": [
+      "재앙의 원인",
+      "골칫거리",
+      "독",
+      "파멸"
+    ],
+    "synonyms_from_image": [
+      {"word": "torment", "note": "극심한 고통/괴로움의 원인"},
+      {"word": "nuisance", "note": "성가신 존재"},
+      {"word": "calamity", "note": "대재난"},
+      {"word": "scourge", "note": "재앙, 골칫거리"}
+    ],
+    "tips": [
+      "`the bane of my existence` = 내 인생 최대의 골칫거리. 이 관용구가 가장 흔한 용법이야.",
+      "고대 영어로 '독/죽음'이라는 뜻이었어. `wolfsbane`(늑대를 죽이는 독초)에 그 흔적이 남아있어."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "baneful",
+    "pos": "adj.",
+    "head_meanings": [
+      "해로운",
+      "유해한",
+      "파멸을 가져오는",
+      "치명적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "harmful", "note": "해를 끼치는"},
+      {"word": "ruinous", "note": "파멸적인"},
+      {"word": "pernicious", "note": "서서히 해를 끼치는"},
+      {"word": "deleterious", "note": "유해한, 해로운"},
+      {"word": "noxious", "note": "독성이 있는, 해로운"}
+    ],
+    "tips": [
+      "`bane`(재앙) + `-ful`(가득한) → 재앙을 가져오는. `baleful`과 거의 같은 뜻이야!",
+      "`baneful`과 `baleful` 차이: baneful은 '실질적 해를 끼치는' 뉘앙스, baleful은 '악의를 품고 위협하는' 뉘앙스야."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "banish",
+    "pos": "v.",
+    "head_meanings": [
+      "추방하다",
+      "쫓아내다",
+      "떨쳐버리다"
+    ],
+    "synonyms_from_image": [
+      {"word": "expel", "note": "강제로 내쫓다"},
+      {"word": "oust", "note": "직위/장소에서 몰아내다"},
+      {"word": "exile", "note": "고국에서 추방하다"},
+      {"word": "deport", "note": "타국으로 강제 송환하다"}
+    ],
+    "tips": [
+      "게르만어 `ban`(공식 포고)에서 왔어. 공식적으로 '나가!'라고 선포하는 거야.",
+      "물리적 추방과 비유적 추방 둘 다 가능해. `banish someone from the country` = 나라에서 추방하다. `banish fears` = 두려움을 떨쳐버리다."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "banter",
+    "pos": "v./n./adj.",
+    "head_meanings": [
+      "v.) 농담하다, 가볍게 놀리다",
+      "n.) 가벼운 농담, 유쾌한 대화",
+      "adj.) bantering: 농담 섞인, 장난의"
+    ],
+    "synonyms_from_image": [
+      {"word": "badinage", "note": "프랑스어에서 온 가벼운 농담"},
+      {"word": "raillery", "note": "선의의 놀림"},
+      {"word": "repartee", "note": "재치 있는 농담 주고받기"},
+      {"word": "jest", "note": "농담, 우스갯소리"}
+    ],
+    "tips": [
+      "`banter`는 서로 가볍게 농담을 주고받는 유쾌한 대화야. 악의 없는 놀림이 핵심!",
+      "`friendly banter` = 친근한 농담. `bantering tone` = 장난스러운 어조. GRE에서는 문학 비평 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "bar",
+    "pos": "v.",
+    "head_meanings": [
+      "막다",
+      "방해하다",
+      "금하다",
+      "제외하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! 술집이 아니라 동사 '막다/금지하다'로 나와.",
+      "`bar someone from entering` = 입장을 금하다. `barring unforeseen circumstances` = 예상치 못한 상황이 없는 한. 전치사 barring도 알아둬!"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "barb",
+    "pos": "n.",
+    "head_meanings": [
+      "(낚시바늘·화살촉의) 미늘",
+      "신랄한 말",
+      "비꼬는 말"
+    ],
+    "synonyms_from_image": [
+      {"word": "jibe", "note": "비꼬는 말, 조롱"},
+      {"word": "sarcasm", "note": "빈정거림"},
+      {"word": "insult", "note": "모욕"},
+      {"word": "affront", "note": "공개적 모욕"}
+    ],
+    "tips": [
+      "낚시바늘 끝에 있는 갈고리(미늘)처럼 꽂히면 빠지지 않는 가시 돋친 말이야.",
+      "`barbed` = 미늘이 있는, 신랄한. `barbed wire` = 철조망. `barbed comment` = 가시 돋친 말. GRE에서는 비유적 뜻이 중요해."
+    ]
+  }
+]

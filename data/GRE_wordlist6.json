@@ -1,0 +1,1664 @@
+[
+  {
+    "id": "001",
+    "word": "barefaced",
+    "pos": "adj.",
+    "head_meanings": [
+      "뻔뻔스러운",
+      "철면피한",
+      "노골적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "brazen", "note": "놋쇠처럼 두꺼운 면상 → 뻔뻔한"},
+      {"word": "impudent", "note": "부끄러움을 모르는"},
+      {"word": "unabashed", "note": "전혀 당황하지 않는"},
+      {"word": "shameless", "note": "수치심이 없는"}
+    ],
+    "tips": [
+      "`bare`(벗은) + `faced`(얼굴) → 가면도 안 쓰고 맨얼굴로 뻔뻔하게 나서는 이미지야.",
+      "`a barefaced lie` = 노골적인 거짓말. GRE에서는 이 관용구로 자주 나와."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "bargain",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 흥정하다, 교섭하다",
+      "n.) 거래, 싸게 산 물건"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`bargain for` = 예상하다. `more than I bargained for` = 예상보다 훨씬 큰 일. GRE에서는 이 비유적 용법이 중요해!",
+      "GRE 함정 단어! 단순히 '싸게 사다'가 아니라 '협상하다/예상하다'로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "baroque",
+    "pos": "adj.",
+    "head_meanings": [
+      "지나치게 장식이 화려한",
+      "기괴한",
+      "바로크식의"
+    ],
+    "synonyms_from_image": [
+      {"word": "extravagant", "note": "과도하게 화려한"},
+      {"word": "florid", "note": "장식이 지나치게 많은"},
+      {"word": "flamboyant", "note": "불꽃처럼 현란한"},
+      {"word": "ornate", "note": "장식이 많은"}
+    ],
+    "tips": [
+      "포르투갈어 `barroco`(일그러진 진주)에서 유래. 불규칙하고 과하게 화려한 느낌이 핵심이야.",
+      "GRE에서는 미술사 용어보다 '지나치게 복잡하고 화려한'이라는 비유적 뜻으로 나와. `baroque prose` = 현란한 문체."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "barrage",
+    "pos": "n.",
+    "head_meanings": [
+      "집중포화",
+      "일제 사격",
+      "(질문·비판 등의) 연속 공세"
+    ],
+    "synonyms_from_image": [
+      {"word": "bombardment", "note": "폭격, 집중 공격"},
+      {"word": "volley", "note": "일제 사격"},
+      {"word": "fusillade", "note": "연속 사격"},
+      {"word": "deluge", "note": "원래 '대홍수'인데, 쏟아지듯 밀려오는 맥락에서 만남"},
+      {"word": "torrent", "note": "급류처럼 쏟아지는 것"}
+    ],
+    "tips": [
+      "프랑스어 `barrer`(막다)에서 왔어. 포격으로 적의 진격을 '막는' 거야.",
+      "`a barrage of questions/criticism` = 쏟아지는 질문/비판. GRE에서는 비유적 용법이 자주 나와."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "barrel",
+    "pos": "v.",
+    "head_meanings": [
+      "쏜살같이 달리다",
+      "질주하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! 명사 '통(barrel)'이 아니라 동사 '고속으로 달리다'로 나와.",
+      "`The car barreled down the highway` = 차가 고속도로를 쏜살같이 달렸다. 통이 언덕을 굴러가듯 멈출 수 없이 빠른 이미지야."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "barren",
+    "pos": "adj.",
+    "head_meanings": [
+      "불모의",
+      "메마른",
+      "열매를 맺지 않는",
+      "불임의",
+      "흥미 없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "infertile", "note": "비옥하지 않은"},
+      {"word": "sterile", "note": "생산력이 없는"},
+      {"word": "desolate", "note": "황폐한"},
+      {"word": "arid", "note": "건조하고 메마른"}
+    ],
+    "tips": [
+      "`barren`은 핵심이 '아무것도 자라지 않는/나오지 않는' 상태야:\n1) 땅 → 불모의, 메마른\n2) 여성/동물 → 불임의\n3) 비유 → 성과 없는, 무익한 (barren discussion = 무익한 토론)",
+      "GRE에서 `a barren landscape`(물리적)과 `a barren effort`(비유적) 둘 다 나올 수 있어."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "barrister",
+    "pos": "n.",
+    "head_meanings": [
+      "법정 변호사",
+      "법률가"
+    ],
+    "synonyms_from_image": [
+      {"word": "attorney", "note": "변호사 (미국식)"},
+      {"word": "advocate", "note": "변호사, 옹호자"},
+      {"word": "counselor", "note": "법률 고문"}
+    ],
+    "tips": [
+      "영국 법률 용어야. `barrister`(법정 변론)와 `solicitor`(법률 자문/서류)로 역할이 나뉘어. 미국에서는 둘 다 `lawyer`야.",
+      "`bar`(법정의 칸막이)를 넘어 법정에 설 수 있는 사람이라는 뜻이야."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "barter",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 물물 교환하다",
+      "n.) 물물 교환"
+    ],
+    "synonyms_from_image": [
+      {"word": "trade", "note": "교환하다"},
+      {"word": "swap", "note": "맞바꾸다"},
+      {"word": "exchange", "note": "교환하다"}
+    ],
+    "tips": [
+      "돈 없이 물건끼리 직접 바꾸는 거야. 화폐 발명 이전의 경제 방식!",
+      "`barter system` = 물물교환 제도. GRE 경제/역사 지문에서 화폐경제와 대비될 때 나올 수 있어."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "base",
+    "pos": "adj.",
+    "head_meanings": [
+      "도덕적으로 저속한",
+      "비열한",
+      "천한",
+      "비겁한"
+    ],
+    "synonyms_from_image": [
+      {"word": "vile", "note": "극도로 비열하고 추한"},
+      {"word": "ignoble", "note": "비천하고 명예롭지 못한"},
+      {"word": "sordid", "note": "더럽고 비열한"},
+      {"word": "contemptible", "note": "경멸할 만한"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '기초/밑바닥'이 아니라 형용사 '비열한, 천한'으로 나와.",
+      "`base motives` = 비열한 동기. `base metals` = 비금속(귀금속이 아닌 천한 금속). 두 용법 다 GRE에 나올 수 있어.",
+      "라틴어 `bassus`(낮은)에서 왔어. '낮은 곳에 있는' → '도덕적으로 낮은' → 비열한."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "baseless",
+    "pos": "adj.",
+    "head_meanings": [
+      "근거 없는",
+      "이유 없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "groundless", "note": "기반(ground)이 없는"},
+      {"word": "unfounded", "note": "토대(foundation)가 없는"},
+      {"word": "unsubstantiated", "note": "실증되지 않은"},
+      {"word": "unwarranted", "note": "정당한 이유가 없는"},
+      {"word": "specious", "note": "그럴듯하지만 실은 거짓인"}
+    ],
+    "tips": [
+      "`base`(기초) + `-less`(없는) → 기초가 없는, 즉 근거가 없는.",
+      "`baseless accusations` = 근거 없는 비난. `groundless`, `unfounded`와 함께 GRE 단골 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "bask",
+    "pos": "v.",
+    "head_meanings": [
+      "(햇볕을) 쬐다",
+      "(애정·행복 등을) 만끽하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "revel", "note": "흠뻑 즐기다"},
+      {"word": "relish", "note": "맛있게 즐기다"},
+      {"word": "savor", "note": "음미하며 즐기다"},
+      {"word": "luxuriate", "note": "호사를 누리다"}
+    ],
+    "tips": [
+      "고양이가 햇볕 아래서 느긋하게 쬐는 모습을 상상해봐. 그게 bask의 핵심 이미지야!",
+      "`bask in the glory/attention` = 영광/관심을 만끽하다. GRE에서는 비유적 용법이 더 중요해."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "bastion",
+    "pos": "n.",
+    "head_meanings": [
+      "요새",
+      "성채",
+      "(신념·원칙의) 보루"
+    ],
+    "synonyms_from_image": [
+      {"word": "bulwark", "note": "방벽, 보루"},
+      {"word": "stronghold", "note": "요새, 거점"},
+      {"word": "citadel", "note": "성채, 요새"},
+      {"word": "fortress", "note": "요새"}
+    ],
+    "tips": [
+      "이탈리아어 `bastione`(성벽의 돌출 부분)에서 왔어. 성벽에서 삐죽 나온 방어 구조물이야.",
+      "GRE에서는 비유적으로 많이 쓰여. `a bastion of democracy` = 민주주의의 보루. `the last bastion of...` = ~의 마지막 보루."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "bate (= abate)",
+    "pos": "v.",
+    "head_meanings": [
+      "줄이다",
+      "억제하다",
+      "(숨을) 죽이다"
+    ],
+    "synonyms_from_image": [
+      {"word": "decrease", "note": "줄다"},
+      {"word": "reduce", "note": "감소시키다"},
+      {"word": "restrain", "note": "억제하다"},
+      {"word": "moderate", "note": "완화하다"}
+    ],
+    "tips": [
+      "`abate`의 줄임말이야. `with bated breath` = 숨을 죽이고(긴장해서). 이 관용구가 GRE에 나와!",
+      "`bated`를 `baited`로 잘못 쓰는 사람이 많아. '숨을 미끼로 쓰는' 게 아니라 '숨을 줄이는' 거야."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "bauble",
+    "pos": "n.",
+    "head_meanings": [
+      "싸구려 장신구",
+      "겉만 번지르르한 물건",
+      "시시한 것"
+    ],
+    "synonyms_from_image": [
+      {"word": "trinket", "note": "하찮은 장신구"},
+      {"word": "gewgaw", "note": "값싸고 번쩍이는 장식품"},
+      {"word": "gimcrack", "note": "겉만 그럴듯한 싸구려"},
+      {"word": "bagatelle", "note": "하찮은 것"}
+    ],
+    "tips": [
+      "중세 궁정 광대가 들고 다니던 방울 달린 막대기가 원래 bauble이었어. 화려하지만 실속 없는 것의 상징!",
+      "GRE에서 `bauble`, `trinket`, `gewgaw`, `gimcrack`은 '화려하지만 가치 없는 것' 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "bawdy",
+    "pos": "adj.",
+    "head_meanings": [
+      "외설적인",
+      "음란한",
+      "저속한"
+    ],
+    "synonyms_from_image": [
+      {"word": "ribald", "note": "거칠고 음란한"},
+      {"word": "lewd", "note": "음탕한"},
+      {"word": "coarse", "note": "거친, 상스러운"},
+      {"word": "vulgar", "note": "저속한"},
+      {"word": "raunchy", "note": "노골적으로 야한"}
+    ],
+    "tips": [
+      "중세 영어 `bawd`(포주, 매춘알선업자)에서 왔어. 성적으로 노골적이지만 유머가 섞인 느낌이야.",
+      "`bawdy humor` = 음란한 유머. 셰익스피어 작품에 bawdy jokes가 많아. GRE 문학 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "beatific",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 축복에 넘친, 황홀한, 더없이 행복한",
+      "n.) beatitude: 지복, 더없는 행복, 황홀경"
+    ],
+    "synonyms_from_image": [
+      {"word": "blissful", "note": "더없이 행복한"},
+      {"word": "serene", "note": "고요하고 평화로운"},
+      {"word": "sublime", "note": "숭고하고 황홀한"},
+      {"word": "rapturous", "note": "황홀경에 빠진"},
+      {"word": "ecstatic", "note": "극도의 기쁨에 찬"}
+    ],
+    "tips": [
+      "라틴어 `beatus`(축복받은) + `-fic`(만드는) → 축복을 주는/받은 상태야. `beatify`(시복하다, 가톨릭에서 성인 후보로 선언하다)와 같은 뿌리!",
+      "`a beatific smile` = 천사 같은 미소. 종교적 황홀경의 느낌이 있는 단어야.",
+      "`beatitude`는 명사형. 기독교의 '팔복(八福, Beatitudes)'이 대표적 용례야."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "bedeck",
+    "pos": "v.",
+    "head_meanings": [
+      "장식하다",
+      "꾸미다"
+    ],
+    "synonyms_from_image": [
+      {"word": "adorn", "note": "아름답게 꾸미다"},
+      {"word": "embellish", "note": "장식을 더해 꾸미다"},
+      {"word": "ornament", "note": "장식물로 꾸미다"},
+      {"word": "garnish", "note": "원래 '고명을 얹다'인데, 장식을 더하는 맥락에서 만남"}
+    ],
+    "tips": [
+      "`be-`(강조) + `deck`(꾸미다) → 화려하게 꾸미다. deck the halls(홀을 장식하다)의 deck이야!",
+      "`bedecked with flowers` = 꽃으로 장식된. 주로 과거분사 bedecked로 쓰여."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "bedizen",
+    "pos": "v.",
+    "head_meanings": [
+      "야하게 치장하다",
+      "화려하게 차려 입다"
+    ],
+    "synonyms_from_image": [
+      {"word": "bedeck", "note": "장식하다 (bedizen은 더 야한 뉘앙스)"},
+      {"word": "adorn", "note": "꾸미다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `dizen`(실을 감다, 옷을 입히다) → 과하게 치장하다. bedeck은 중립적이지만 bedizen은 '촌스럽게 과한' 부정적 뉘앙스야.",
+      "`bedizened in gaudy jewels` = 야한 보석으로 치장한. 격식체이고 문학적인 단어야."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "bedlam",
+    "pos": "n.",
+    "head_meanings": [
+      "난장판",
+      "소동",
+      "대혼란"
+    ],
+    "synonyms_from_image": [
+      {"word": "pandemonium", "note": "밀턴의 <실낙원>에서 악마들의 수도 → 대혼란"},
+      {"word": "mayhem", "note": "대혼란, 아수라장"},
+      {"word": "chaos", "note": "무질서, 혼돈"},
+      {"word": "turmoil", "note": "소란, 혼란"}
+    ],
+    "tips": [
+      "런던의 정신병원 `Bethlehem Hospital`의 줄임말이야! 중세 정신병원의 소란에서 '난장판'이라는 뜻이 나왔어.",
+      "`The classroom was bedlam` = 교실이 난장판이었다. `pandemonium`과 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "bedraggle",
+    "pos": "v.",
+    "head_meanings": [
+      "흠뻑 젖게 하다",
+      "(비·진흙으로) 더럽히다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`be-`(강조) + `draggle`(질질 끌다) → 비 맞으며 질질 끌려서 축 처진 모습이야.",
+      "`bedraggled` 형용사가 더 자주 쓰여. `a bedraggled appearance` = 비에 젖어 초라한 모습."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "bedrock",
+    "pos": "n.",
+    "head_meanings": [
+      "기반암",
+      "근본",
+      "토대"
+    ],
+    "synonyms_from_image": [
+      {"word": "foundation", "note": "토대, 기초"},
+      {"word": "cornerstone", "note": "초석, 근본"},
+      {"word": "basis", "note": "기초, 근거"}
+    ],
+    "tips": [
+      "`bed`(바닥) + `rock`(바위) → 땅 밑 가장 깊은 곳의 단단한 바위. 더 이상 파낼 수 없는 최하층이야.",
+      "GRE에서는 비유적으로 많이 나와. `the bedrock of democracy` = 민주주의의 근간. '가장 기본적이고 확고한 것'이라는 뜻이야."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "befuddle",
+    "pos": "v.",
+    "head_meanings": [
+      "어리둥절하게 하다",
+      "혼란스럽게 하다",
+      "정신을 흐리게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "perplex", "note": "복잡하게 얽혀 당황하게 하다"},
+      {"word": "bewilder", "note": "갈피를 못 잡게 하다"},
+      {"word": "baffle", "note": "이해할 수 없게 하다"},
+      {"word": "stupefy", "note": "멍하게 만들다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `fuddle`(술에 취하게 하다) → 술 취한 것처럼 정신을 못 차리게 하는 거야.",
+      "`befuddled by the instructions` = 지시에 어리둥절한. `befuddlement`는 명사형이야."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "beget",
+    "pos": "v.",
+    "head_meanings": [
+      "(결과를) 낳다",
+      "초래하다",
+      "(아버지가 자식을) 낳다"
+    ],
+    "synonyms_from_image": [
+      {"word": "engender", "note": "감정·상황을 야기하다"},
+      {"word": "generate", "note": "발생시키다"},
+      {"word": "sire", "note": "(아버지가) 자식을 낳다"},
+      {"word": "propagate", "note": "번식시키다, 퍼뜨리다"}
+    ],
+    "tips": [
+      "고대 영어 `begetan`에서 왔어. 과거형이 `begot/begat`, 과거분사가 `begotten`이야. `the only begotten Son` = 독생자(기독교 표현).",
+      "GRE에서는 '초래하다'가 핵심. `Violence begets violence` = 폭력은 폭력을 낳는다."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "begrudge",
+    "pos": "v.",
+    "head_meanings": [
+      "시기하다",
+      "부러워하다",
+      "아까워하다",
+      "주기 싫어하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "envy", "note": "부러워하며 시기하다"},
+      {"word": "covet", "note": "남의 것을 탐내다"},
+      {"word": "grudge", "note": "원한을 품다, 아까워하다"},
+      {"word": "resent", "note": "분하게 여기다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `grudge`(원한, 아까워하다) → 남이 가진 것을 못마땅하게 여기는 거야.",
+      "두 가지 핵심 용법:\n1) 남의 행복/성공을 시기하다: `begrudge someone their success`\n2) 주기 아까워하다: `begrudge every penny spent`"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "beguile",
+    "pos": "v.",
+    "head_meanings": [
+      "매혹하다",
+      "속이다",
+      "(시간을) 즐겁게 보내다"
+    ],
+    "synonyms_from_image": [
+      {"word": "enchant", "note": "마법을 걸듯 매혹하다"},
+      {"word": "captivate", "note": "마음을 사로잡다"},
+      {"word": "charm", "note": "매력으로 끌다"},
+      {"word": "deceive", "note": "속이다"},
+      {"word": "dupe", "note": "교묘하게 속여 넘기다"},
+      {"word": "beguiling", "note": "사람을 끌어들이는 매력이 있는"}
+    ],
+    "tips": [
+      "`be-`(강조) + `guile`(교활함, 속임수) → 교묘한 매력으로 속이거나 홀리는 거야.",
+      "`beguile`은 뜻이 두 갈래야:\n1) 긍정적: 매혹하다, 홀리다 (beguiling smile = 매혹적인 미소)\n2) 부정적: 속이다, 기만하다 (beguile someone into...)\nGRE에서는 맥락으로 구별해야 해!"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "behemoth",
+    "pos": "n.",
+    "head_meanings": [
+      "거대한 것",
+      "거인",
+      "거수(巨獸)"
+    ],
+    "synonyms_from_image": [
+      {"word": "leviathan", "note": "성경 속 거대한 바다 괴물 → 거대한 것"},
+      {"word": "colossus", "note": "거상, 엄청나게 큰 것"},
+      {"word": "titan", "note": "그리스 신화의 거인족 → 거대한 존재"},
+      {"word": "juggernaut", "note": "멈출 수 없는 거대한 힘"}
+    ],
+    "tips": [
+      "구약성경 욥기에 나오는 거대한 짐승이야. `leviathan`(바다 괴물)과 짝을 이루는 육지 괴물이지.",
+      "`a corporate behemoth` = 거대 기업. GRE에서는 '엄청나게 큰 것/조직'이라는 비유로 나와."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "behold",
+    "pos": "v.",
+    "head_meanings": [
+      "주시하다",
+      "바라보다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "고어체/문학체야. `Behold!` = 보라! 놀라운 것을 보여줄 때 쓰는 감탄사.",
+      "`lo and behold` = 이런! 놀랍게도! 이 관용구로 GRE에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "beholden",
+    "pos": "adj.",
+    "head_meanings": [
+      "은혜를 입은",
+      "신세를 진",
+      "빚진"
+    ],
+    "synonyms_from_image": [
+      {"word": "indebted", "note": "빚진, 은혜를 입은"},
+      {"word": "obliged", "note": "의무를 지게 된"},
+      {"word": "grateful", "note": "감사하는"}
+    ],
+    "tips": [
+      "`behold`(바라보다)의 옛 과거분사인데, '~에게 눈을 돌려야 할 은혜를 입은' 뜻으로 굳어졌어.",
+      "`beholden to` = ~에게 신세를 진. `I am beholden to no one` = 나는 아무에게도 빚진 게 없다. 독립성을 강조할 때 자주 써."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "behoove",
+    "pos": "v.",
+    "head_meanings": [
+      "~에게 마땅하다",
+      "~하는 것이 적합하다",
+      "~할 의무가 있다"
+    ],
+    "synonyms_from_image": [
+      {"word": "befit", "note": "~에 어울리다, 적합하다"},
+      {"word": "suit", "note": "~에 맞다"}
+    ],
+    "tips": [
+      "`It behooves you to...` = ~하는 것이 마땅하다. 이 구문으로만 거의 쓰여. 격식체야.",
+      "영국식은 `behove`, 미국식은 `behoove`야. `It behooves us to act quickly` = 빨리 행동하는 것이 마땅하다."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "belabor",
+    "pos": "v.",
+    "head_meanings": [
+      "(같은 말을) 질리도록 반복하다",
+      "집요하게 공격하다",
+      "세게 치다"
+    ],
+    "synonyms_from_image": [
+      {"word": "reiterate", "note": "반복해서 말하다"},
+      {"word": "rehash", "note": "같은 내용을 되풀이하다"},
+      {"word": "harp on", "note": "같은 말을 계속 우려먹다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `labor`(노동하다) → 지나치게 힘들여 반복하는 거야.",
+      "`belabor the point` = 요점을 질리도록 반복하다. GRE에서 가장 자주 나오는 용법이야. 이미 다 아는 얘기를 계속하는 부정적 뉘앙스야."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "belated",
+    "pos": "adj.",
+    "head_meanings": [
+      "뒤늦은",
+      "때늦은"
+    ],
+    "synonyms_from_image": [
+      {"word": "tardy", "note": "느린, 지각한"},
+      {"word": "overdue", "note": "기한이 지난"},
+      {"word": "delayed", "note": "지연된"}
+    ],
+    "tips": [
+      "`be-`(만들다) + `lated`(늦은, late) → 늦어진. `belated birthday wishes` = 뒤늦은 생일 축하가 대표적 용례야.",
+      "`a belated apology` = 뒤늦은 사과. 시기를 놓쳤다는 아쉬움이 담긴 단어야."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "beleaguer",
+    "pos": "v.",
+    "head_meanings": [
+      "포위 공격하다",
+      "괴롭히다",
+      "시달리게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "besiege", "note": "포위하다"},
+      {"word": "harass", "note": "지속적으로 괴롭히다"},
+      {"word": "pester", "note": "귀찮게 졸라대다"},
+      {"word": "plague", "note": "전염병처럼 끈질기게 괴롭히다"}
+    ],
+    "tips": [
+      "네덜란드어 `belegeren`(포위하다)에서 왔어. 군사적 포위에서 비유적 '시달림'으로 확장됐어.",
+      "`beleaguered` 형용사가 더 자주 쓰여. `the beleaguered president` = 사면초가의 대통령."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "belie",
+    "pos": "v.",
+    "head_meanings": [
+      "~와 모순되다",
+      "거짓임을 드러내다",
+      "실제와 다르게 보이게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "contradict", "note": "모순되다"},
+      {"word": "disprove", "note": "거짓임을 증명하다"},
+      {"word": "misrepresent", "note": "사실과 다르게 나타내다"},
+      {"word": "mask", "note": "실체를 숨기다"},
+      {"word": "confute", "note": "반박하여 논파하다"}
+    ],
+    "tips": [
+      "`be-`(~에 관해) + `lie`(거짓말) → 겉모습이 실제와 달라서 '거짓말하는' 거야.",
+      "`Her calm expression belied her inner turmoil` = 차분한 표정이 내면의 혼란과 모순됐다. GRE에서 정말 자주 나오는 단어야!",
+      "핵심 패턴: A belies B = A가 B의 실체를 감추거나 모순된다. 겉과 속이 다를 때 쓰는 단어야."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "belittle",
+    "pos": "v.",
+    "head_meanings": [
+      "얕보다",
+      "깎아내리다",
+      "가치를 떨어뜨리다"
+    ],
+    "synonyms_from_image": [
+      {"word": "disparage", "note": "가치를 깎아내리다"},
+      {"word": "denigrate", "note": "명예를 훼손하다"},
+      {"word": "deprecate", "note": "반대하며 가치를 낮추다"},
+      {"word": "decry", "note": "공개적으로 비난하며 깎아내리다"},
+      {"word": "diminish", "note": "원래 '줄이다'인데, 가치를 떨어뜨리는 맥락에서 만남"}
+    ],
+    "tips": [
+      "`be-`(만들다) + `little`(작은) → 작게 만들다, 즉 가치를 깎아내리다.",
+      "`belittle someone's achievements` = 누군가의 성과를 깎아내리다. `disparage`와 거의 같은 뜻이야. GRE 동의어 단골 조합!"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "bellicose",
+    "pos": "adj.",
+    "head_meanings": [
+      "호전적인",
+      "싸움을 좋아하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "pugnacious", "note": "주먹을 휘두르려는, 싸움꾼 같은"},
+      {"word": "combative", "note": "전투적인"},
+      {"word": "truculent", "note": "거칠고 호전적인"},
+      {"word": "belligerent", "note": "적대적이고 공격적인"},
+      {"word": "contentious", "note": "논쟁적인, 다투기 좋아하는"}
+    ],
+    "tips": [
+      "라틴어 `bellum`(전쟁) + `-cose`(경향이 있는) → 전쟁을 좋아하는. `bellicose`, `belligerent` 둘 다 `bellum`에서 왔어!",
+      "`bellicose rhetoric` = 호전적 언사. GRE에서 `bellicose`, `belligerent`, `pugnacious`, `truculent`은 '호전적' 동의어 단골 그룹이야."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "belligerent",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 호전적인, 적대적인",
+      "adj.) 교전 중인",
+      "n.) 교전국"
+    ],
+    "synonyms_from_image": [
+      {"word": "hostile", "note": "적대적인"},
+      {"word": "aggressive", "note": "공격적인"},
+      {"word": "pugnacious", "note": "싸움을 좋아하는"},
+      {"word": "bellicose", "note": "호전적인"},
+      {"word": "warlike", "note": "전쟁을 일삼는"}
+    ],
+    "tips": [
+      "라틴어 `bellum`(전쟁) + `gerere`(수행하다) → 전쟁을 수행하는. bellicose는 '싸우고 싶어하는 성향', belligerent는 '실제로 싸우고 있는/적대적인' 뉘앙스 차이가 있어.",
+      "명사로 쓰이면 '교전국/교전 당사자'라는 뜻이야. `the belligerents in the war` = 전쟁의 교전국들."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "bemoan",
+    "pos": "v.",
+    "head_meanings": [
+      "한탄하다",
+      "슬퍼하다",
+      "유감으로 여기다"
+    ],
+    "synonyms_from_image": [
+      {"word": "lament", "note": "비통하게 슬퍼하다"},
+      {"word": "bewail", "note": "울며 슬퍼하다"},
+      {"word": "deplore", "note": "개탄하다"},
+      {"word": "mourn", "note": "애도하다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `moan`(신음하다) → 신음하며 슬퍼하다.",
+      "`bemoan the loss of...` = ~의 상실을 한탄하다. `lament`과 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "bemused",
+    "pos": "adj.",
+    "head_meanings": [
+      "멍한",
+      "어리둥절한",
+      "생각에 잠긴"
+    ],
+    "synonyms_from_image": [
+      {"word": "bewildered", "note": "당황하여 갈피를 못 잡는"},
+      {"word": "perplexed", "note": "혼란스러운"},
+      {"word": "dazed", "note": "멍한, 정신이 혼미한"}
+    ],
+    "tips": [
+      "`be-`(강조) + `muse`(골똘히 생각하다) → 생각에 깊이 빠진 → 멍한. muse(뮤즈, 영감)와 같은 뿌리야.",
+      "주의! `amused`(재미있는)와 헷갈리는 사람이 많아. bemused는 '재미있는'이 아니라 '멍한/어리둥절한'이야!"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "benediction",
+    "pos": "n.",
+    "head_meanings": [
+      "축복",
+      "(식전·식후의) 감사 기도",
+      "축도"
+    ],
+    "synonyms_from_image": [
+      {"word": "blessing", "note": "축복"},
+      {"word": "benison", "note": "축복 (고어체)"},
+      {"word": "invocation", "note": "기원, 축원"}
+    ],
+    "tips": [
+      "라틴어 `bene-`(좋은) + `dict-`(말하다) → 좋은 말을 해주다 = 축복하다. `malediction`(저주)의 반의어야!",
+      "`pronounce a benediction` = 축도하다. 종교 의식 끝에 사제가 하는 축복 기도야."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "benefactor",
+    "pos": "n.",
+    "head_meanings": [
+      "후원자",
+      "은인",
+      "기부자"
+    ],
+    "synonyms_from_image": [
+      {"word": "patron", "note": "후원자"},
+      {"word": "sponsor", "note": "후원자, 스폰서"},
+      {"word": "donor", "note": "기부자"},
+      {"word": "philanthropist", "note": "박애주의자, 자선가"}
+    ],
+    "tips": [
+      "라틴어 `bene-`(좋은) + `factor`(행하는 사람) → 좋은 일을 하는 사람. 반의어는 `malefactor`(범죄자)야.",
+      "소설에서 주인공을 몰래 도와주는 익명의 후원자가 전형적인 benefactor야. 디킨스의 <위대한 유산>이 대표적!"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "beneficent",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 자비로운, 은혜를 베푸는",
+      "n.) beneficence: 선행, 자선, 자비"
+    ],
+    "synonyms_from_image": [
+      {"word": "benevolent", "note": "자애로운, 인정 많은"},
+      {"word": "philanthropic", "note": "박애적인"},
+      {"word": "charitable", "note": "자선적인"},
+      {"word": "generous", "note": "관대한, 너그러운"}
+    ],
+    "tips": [
+      "라틴어 `bene-`(좋은) + `-ficent`(만드는) → 좋은 것을 만들어주는. `beneficial`(유익한)과 헷갈리지 마!",
+      "`beneficent`은 '선행을 베푸는 사람/행위'에, `beneficial`은 '결과적으로 이로운 것'에 초점이야. `benevolent`(자비로운 마음)과도 구별해."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "beneficial",
+    "pos": "adj.",
+    "head_meanings": [
+      "유익한",
+      "이로운"
+    ],
+    "synonyms_from_image": [
+      {"word": "advantageous", "note": "유리한"},
+      {"word": "favorable", "note": "호의적인, 유리한"},
+      {"word": "helpful", "note": "도움이 되는"},
+      {"word": "profitable", "note": "이익이 되는"},
+      {"word": "salutary", "note": "건강/개선에 이로운"}
+    ],
+    "tips": [
+      "라틴어 `bene-`(좋은) + `-ficial`(만드는) → 좋은 결과를 만드는.",
+      "`mutually beneficial` = 상호 이익이 되는. `beneficial effects` = 이로운 효과. 매우 기본적이지만 GRE에서 동의어 관계로 자주 출제돼."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "beneficiary",
+    "pos": "n.",
+    "head_meanings": [
+      "수혜자",
+      "수익자",
+      "유산 상속인"
+    ],
+    "synonyms_from_image": [
+      {"word": "recipient", "note": "받는 사람"},
+      {"word": "legatee", "note": "유산 수령인"},
+      {"word": "heir", "note": "상속인"}
+    ],
+    "tips": [
+      "`benefit`(이익) + `-ary`(사람) → 이익을 받는 사람.",
+      "법률/보험 용어로 자주 쓰여. `the beneficiary of a will/insurance policy` = 유언장/보험의 수익자."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "benevolent",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 자비로운, 인정 많은, 박애의",
+      "n.) benevolence: 자비심, 박애, 선행"
+    ],
+    "synonyms_from_image": [
+      {"word": "compassionate", "note": "동정심이 깊은"},
+      {"word": "magnanimous", "note": "도량이 넓은"},
+      {"word": "altruistic", "note": "이타적인"},
+      {"word": "charitable", "note": "자선적인"},
+      {"word": "munificent", "note": "아낌없이 베푸는"}
+    ],
+    "tips": [
+      "라틴어 `bene-`(좋은) + `vol-`(원하다, volunteer의 vol) → 남에게 좋은 것을 원하는 마음이야.",
+      "`a benevolent dictator` = 자비로운 독재자(모순어법). `benevolent smile` = 자애로운 미소.",
+      "반의어 `malevolent`(악의적인)와 세트로 외우면 좋아. `bene-` vs `male-` = 좋은 vs 나쁜."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "benign",
+    "pos": "adj.",
+    "head_meanings": [
+      "자애로운",
+      "온화한",
+      "(종양이) 양성의",
+      "해가 없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "kindly", "note": "친절한, 다정한"},
+      {"word": "harmless", "note": "해가 없는"},
+      {"word": "innocuous", "note": "무해한"},
+      {"word": "auspicious", "note": "원래 '길조의'인데, 유리하고 좋은 맥락에서 만남"}
+    ],
+    "tips": [
+      "라틴어 `benignus` ← `bene`(좋은) + `genus`(태어난) → 좋은 성품으로 태어난. 반의어 `malignant`(악성의)!",
+      "`benign`은 뜻이 세 갈래야:\n1) 사람 → 자비로운, 친절한\n2) 의학 → 양성의 (benign tumor ↔ malignant tumor)\n3) 상황 → 해가 없는, 온화한 (benign neglect = 해가 없는 방치)",
+      "`benignant`는 benign의 동의어인데 거의 안 쓰여. benign만 알면 돼."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "bent",
+    "pos": "n.",
+    "head_meanings": [
+      "경향",
+      "성향",
+      "소질",
+      "재능"
+    ],
+    "synonyms_from_image": [
+      {"word": "inclination", "note": "기울어짐 → 경향"},
+      {"word": "propensity", "note": "~하는 성향"},
+      {"word": "tendency", "note": "경향, 추세"},
+      {"word": "aptitude", "note": "타고난 재능"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '구부러진'이 아니라 명사 '성향, 소질'로 나와.",
+      "`a bent for music` = 음악에 대한 소질. `have a natural bent toward...` = ~에 대한 타고난 경향이 있다."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "bequeath",
+    "pos": "v.",
+    "head_meanings": [
+      "유언으로 물려주다",
+      "후세에 남기다"
+    ],
+    "synonyms_from_image": [
+      {"word": "will", "note": "유언으로 남기다"},
+      {"word": "endow", "note": "자금/재산을 기부하다"},
+      {"word": "hand down", "note": "다음 세대에 전하다"},
+      {"word": "leave", "note": "남기다"}
+    ],
+    "tips": [
+      "고대 영어 `becwethan`(말로 전하다)에서 왔어. 죽기 전에 '말로 지정해서' 재산을 넘기는 거야.",
+      "물리적 유산과 비유적 유산 모두에 쓰여. `bequeath a fortune` = 재산을 유증하다. `bequeath a legacy of innovation` = 혁신의 유산을 남기다."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "berate",
+    "pos": "v.",
+    "head_meanings": [
+      "심하게 꾸짖다",
+      "호되게 나무라다"
+    ],
+    "synonyms_from_image": [
+      {"word": "upbraid", "note": "면전에서 꾸짖다"},
+      {"word": "castigate", "note": "가혹하게 비난하다"},
+      {"word": "chide", "note": "꾸짖다"},
+      {"word": "reproach", "note": "나무라다"},
+      {"word": "reprimand", "note": "공식적으로 질책하다"},
+      {"word": "admonish", "note": "충고하며 꾸짖다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `rate`(꾸짖다, 고어) → 맹렬하게 꾸짖다.",
+      "GRE에서 '꾸짖다' 계열 동의어가 매우 자주 나와: `berate`, `upbraid`, `castigate`, `chide`, `reproach`, `rebuke`, `reprimand`, `admonish`. 뉘앙스 차이를 알아두면 좋아."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "bereave",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) (죽음으로) 빼앗다, 잃게 하다",
+      "n.) bereavement: 사별, 상실",
+      "adj.) bereft: 빼앗긴, ~이 없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "deprive", "note": "빼앗다"},
+      {"word": "dispossess", "note": "소유물을 빼앗다"},
+      {"word": "divest", "note": "원래 '옷을 벗기다'인데, 빼앗는 맥락에서 만남"}
+    ],
+    "tips": [
+      "고대 영어 `bereafian`(약탈하다)에서 왔어. `rob`과 같은 어원이야!",
+      "`bereaved` = 사별한(사람). `bereft of` = ~을 빼앗긴, ~이 없는. `bereft of hope` = 희망을 잃은. GRE에서는 `bereft of`가 자주 나와."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "beseech",
+    "pos": "v.",
+    "head_meanings": [
+      "간청하다",
+      "탄원하다",
+      "애원하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "implore", "note": "눈물로 간청하다"},
+      {"word": "entreat", "note": "진심으로 부탁하다"},
+      {"word": "supplicate", "note": "무릎 꿇고 빌다"},
+      {"word": "plead", "note": "호소하다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `seech`(seek의 고형) → 간절히 구하다.",
+      "격식체/문학체야. `I beseech you` = 간청합니다. 셰익스피어 작품에 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "beset",
+    "pos": "v.",
+    "head_meanings": [
+      "괴롭히다",
+      "에워싸다",
+      "공격하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "plague", "note": "전염병처럼 끈질기게 괴롭히다"},
+      {"word": "beleaguer", "note": "포위하여 시달리게 하다"},
+      {"word": "assail", "note": "맹렬히 공격하다"},
+      {"word": "besiege", "note": "포위 공격하다"}
+    ],
+    "tips": [
+      "`be-`(주위에) + `set`(놓다) → 사방에서 에워싸듯 괴롭히는 거야.",
+      "`beset by/with problems` = 문제에 시달리는. `a besetting sin` = 고질적인 약점/습관. GRE에서 자주 나와."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "besiege",
+    "pos": "v.",
+    "head_meanings": [
+      "포위하다",
+      "에워싸다",
+      "(요청 등을) 쏟아붓다"
+    ],
+    "synonyms_from_image": [
+      {"word": "beleaguer", "note": "포위 공격하다"},
+      {"word": "blockade", "note": "봉쇄하다"},
+      {"word": "surround", "note": "둘러싸다"}
+    ],
+    "tips": [
+      "`be-`(주위에) + `siege`(포위 공격) → 성을 에워싸고 공격하는 거야.",
+      "비유적으로도 많이 쓰여. `besieged by reporters` = 기자들에게 둘러싸인. `besieged with requests` = 요청이 쏟아지는."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "besmirch",
+    "pos": "v.",
+    "head_meanings": [
+      "(명예·명성을) 더럽히다",
+      "훼손하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "tarnish", "note": "변색시키듯 명예를 더럽히다"},
+      {"word": "smear", "note": "더럽히다, 중상하다"},
+      {"word": "sully", "note": "더럽히다, 훼손하다"},
+      {"word": "taint", "note": "오점을 남기다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `smirch`(더럽히다) → 명예에 먹칠하다.",
+      "`besmirch someone's reputation` = 명성을 더럽히다. `tarnish`, `sully`, `smear`와 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "bestial",
+    "pos": "adj.",
+    "head_meanings": [
+      "야수적인",
+      "짐승 같은",
+      "잔인한"
+    ],
+    "synonyms_from_image": [
+      {"word": "savage", "note": "야만적인"},
+      {"word": "barbarous", "note": "미개하고 잔인한"},
+      {"word": "feral", "note": "야생의, 길들지 않은"},
+      {"word": "brutish", "note": "짐승처럼 거친"}
+    ],
+    "tips": [
+      "`beast`(짐승) + `-ial` → 짐승 같은. 인간성을 잃은 잔인한 행위에 쓰여.",
+      "`bestial cruelty` = 짐승 같은 잔인함. `brutish`와 비슷하지만 bestial이 더 강한 혐오감을 담고 있어."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "bestow",
+    "pos": "v.",
+    "head_meanings": [
+      "수여하다",
+      "기증하다",
+      "부여하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "confer", "note": "공식적으로 수여하다"},
+      {"word": "grant", "note": "허락하다, 부여하다"},
+      {"word": "award", "note": "상이나 영예를 주다"},
+      {"word": "endow", "note": "자질이나 재산을 부여하다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `stow`(놓다, 채우다) → 정중하게 놓아주다 → 수여하다.",
+      "`bestow an honor on someone` = 명예를 수여하다. `confer`와 거의 같은 뜻인데, bestow가 좀 더 '선물하듯 주는' 느낌이야."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "betoken",
+    "pos": "v.",
+    "head_meanings": [
+      "나타내다",
+      "보여주다",
+      "~의 전조가 되다"
+    ],
+    "synonyms_from_image": [
+      {"word": "portend", "note": "전조가 되다"},
+      {"word": "signify", "note": "의미하다"},
+      {"word": "indicate", "note": "가리키다"},
+      {"word": "augur", "note": "징조가 되다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `token`(표시) → 무언가의 표시가 되다, 즉 징조를 나타내다.",
+      "`Dark clouds betoken a storm` = 먹구름이 폭풍의 전조다. 격식체/문학체 단어야."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "betray",
+    "pos": "v.",
+    "head_meanings": [
+      "배반하다",
+      "폭로하다",
+      "은연중에 드러내다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`betray`의 GRE 핵심 뜻은 '배반하다'가 아니라 '(의도치 않게) 드러내다'야!",
+      "`Her voice betrayed her nervousness` = 목소리가 긴장을 드러냈다. `belie`(숨기다)와 반대야 — betray는 '드러내고', belie는 '숨겨'."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "betroth",
+    "pos": "v.",
+    "head_meanings": [
+      "약혼시키다",
+      "약혼하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "engage", "note": "약혼시키다"},
+      {"word": "pledge", "note": "맹세하다, 서약하다"},
+      {"word": "espouse", "note": "원래 '약혼하다'인데, '지지하다'는 뜻도 있음"}
+    ],
+    "tips": [
+      "`be-`(강조) + `troth`(맹세, truth의 고형) → 결혼을 맹세하다.",
+      "`betrothal` = 약혼. `betrothed` = 약혼한/약혼자. GRE 문학 지문에서 나올 수 있는 고어체야."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "bewail",
+    "pos": "v.",
+    "head_meanings": [
+      "비탄하다",
+      "울며 슬퍼하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "lament", "note": "비통하게 슬퍼하다"},
+      {"word": "bemoan", "note": "한탄하다"},
+      {"word": "mourn", "note": "애도하다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `wail`(울부짖다) → 울부짖으며 슬퍼하다. bemoan보다 더 격렬한 슬픔이야.",
+      "`bewail one's fate` = 운명을 한탄하다. 격식체/문학체 단어야."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "bewilder",
+    "pos": "v.",
+    "head_meanings": [
+      "당황하게 하다",
+      "어리둥절하게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "baffle", "note": "이해 불가하게 하다"},
+      {"word": "perplex", "note": "복잡하게 얽혀 당황하게 하다"},
+      {"word": "confound", "note": "뒤섞어 혼란시키다"},
+      {"word": "nonplus", "note": "어찌할 바를 모르게 하다"},
+      {"word": "discombobulate", "note": "정신을 쏙 빼놓다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `wilder`(길을 잃다, wilderness) → 숲속에서 길을 잃은 것처럼 갈피를 못 잡는 거야.",
+      "`bewildering array of choices` = 어리둥절할 정도로 많은 선택지. `bewildering` 형용사형도 자주 나와."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "bewitch",
+    "pos": "v.",
+    "head_meanings": [
+      "마법을 걸다",
+      "매혹하다",
+      "홀리다"
+    ],
+    "synonyms_from_image": [
+      {"word": "enchant", "note": "마법을 걸듯 매혹하다"},
+      {"word": "captivate", "note": "마음을 사로잡다"},
+      {"word": "mesmerize", "note": "최면 걸리듯 홀리다"}
+    ],
+    "tips": [
+      "`be-`(강조) + `witch`(마녀) → 마녀가 마법을 거는 것처럼 매혹하다.",
+      "`bewitching beauty` = 매혹적인 아름다움. `enchant`, `captivate`, `mesmerize`와 동의어야."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "bias",
+    "pos": "n./v./adj.",
+    "head_meanings": [
+      "n.) 편견, 선입관, 편향",
+      "v.) 편견을 갖게 하다",
+      "adj.) biased: 편파적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "prejudice", "note": "선입견, 편견"},
+      {"word": "partiality", "note": "편파성, 편애"},
+      {"word": "predisposition", "note": "미리 기울어진 성향"},
+      {"word": "slant", "note": "기울기, 편향"}
+    ],
+    "tips": [
+      "원래 볼링에서 공이 비스듬히 굴러가는 것을 뜻했어. 한쪽으로 '기울어진' 것이 핵심 이미지야.",
+      "`confirmation bias` = 확증 편향. `bias against/toward` = ~에 대한 편견. GRE 사회과학 지문의 핵심 개념이야."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "bibliography",
+    "pos": "n.",
+    "head_meanings": [
+      "참고문헌 목록",
+      "서지학"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `biblio-`(책) + `-graphy`(기록) → 책에 대한 기록. `Bible`(성경)과 같은 뿌리야!",
+      "학술 논문 끝에 달리는 참고문헌 목록이 bibliography야. GRE 학술 지문에서 등장할 수 있어."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "bicker",
+    "pos": "v.",
+    "head_meanings": [
+      "옥신각신하다",
+      "티격태격하다",
+      "하찮은 일로 다투다"
+    ],
+    "synonyms_from_image": [
+      {"word": "squabble", "note": "사소한 일로 다투다"},
+      {"word": "wrangle", "note": "언쟁하다"},
+      {"word": "spat", "note": "가벼운 말다툼"},
+      {"word": "quibble", "note": "사소한 것에 트집 잡다"}
+    ],
+    "tips": [
+      "어원 불확실하지만, 중세 영어에서 '싸우다'라는 뜻이었어. 핵심은 '사소한 일로 투닥거리는' 거야.",
+      "`bickering` 현재분사가 더 자주 쓰여. `constant bickering` = 끊임없는 옥신각신."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "biennial",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 2년마다의, 2년 계속되는",
+      "n.) 2년생 식물"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`bi-`(둘) + `ennial`(년, annual) → 2년마다. `biannual`(1년에 2번)과 헷갈리지 마!",
+      "`biennial` = 2년에 1번, `biannual` = 1년에 2번. GRE에서 이 차이를 물을 수 있어. Venice Biennale(베네치아 비엔날레)이 대표적인 biennial 행사야."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "bifurcate",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "v.) 두 갈래로 나누다",
+      "adj.) bifurcated: 두 갈래로 나뉜"
+    ],
+    "synonyms_from_image": [
+      {"word": "fork", "note": "갈래로 나뉘다"},
+      {"word": "divide", "note": "나누다"},
+      {"word": "split", "note": "쪼개다"}
+    ],
+    "tips": [
+      "`bi-`(둘) + `furca`(갈래, 포크) → 포크처럼 두 갈래로 갈라지는 거야.",
+      "`The road bifurcates` = 길이 두 갈래로 갈라진다. GRE 과학 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "bigotry",
+    "pos": "n.",
+    "head_meanings": [
+      "편협함",
+      "편견",
+      "고집불통"
+    ],
+    "synonyms_from_image": [
+      {"word": "prejudice", "note": "편견"},
+      {"word": "narrow-mindedness", "note": "속 좁음"},
+      {"word": "intolerance", "note": "불관용"},
+      {"word": "dogmatism", "note": "독단주의"}
+    ],
+    "tips": [
+      "`bigot`(편협한 사람) + `-ry`. 특히 인종·종교·성별에 대한 비합리적 편견과 차별을 가리켜.",
+      "`religious bigotry` = 종교적 편협. GRE 사회 지문에서 자주 나오는 개념이야."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "bilious",
+    "pos": "adj.",
+    "head_meanings": [
+      "성미가 까다로운",
+      "화를 잘 내는",
+      "담즙 관련의"
+    ],
+    "synonyms_from_image": [
+      {"word": "peevish", "note": "짜증 잘 내는"},
+      {"word": "petulant", "note": "심술 맞고 짜증스러운"},
+      {"word": "irascible", "note": "화를 잘 내는"},
+      {"word": "choleric", "note": "성질이 급한"}
+    ],
+    "tips": [
+      "라틴어 `bilis`(담즙)에서 왔어. 고대 의학에서 담즙이 과하면 화를 잘 낸다고 믿었거든.",
+      "`bilious temperament` = 화를 잘 내는 성미. `choleric`도 같은 체액설에서 나온 단어야(노란 담즙 → 화)."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "biting",
+    "pos": "adj.",
+    "head_meanings": [
+      "신랄한",
+      "통렬한",
+      "살을 에는 듯한"
+    ],
+    "synonyms_from_image": [
+      {"word": "caustic", "note": "부식시키듯 신랄한"},
+      {"word": "acerbic", "note": "시큼하게 신랄한"},
+      {"word": "mordant", "note": "물어뜯듯 날카로운"},
+      {"word": "trenchant", "note": "예리하고 통렬한"}
+    ],
+    "tips": [
+      "`bite`(물다)에서 파생. 말이 물어뜯듯이 아픈 거야.",
+      "`biting criticism` = 신랄한 비평. `biting wind` = 살을 에는 바람. 물리적·비유적 맥락 모두 가능해."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "bizarre",
+    "pos": "adj.",
+    "head_meanings": [
+      "기괴한",
+      "별난",
+      "기이한"
+    ],
+    "synonyms_from_image": [
+      {"word": "grotesque", "note": "기괴하고 흉측한"},
+      {"word": "outlandish", "note": "낯설고 이상한"},
+      {"word": "surreal", "note": "초현실적인"},
+      {"word": "eccentric", "note": "별난, 괴짜 같은"}
+    ],
+    "tips": [
+      "바스크어 `bizar`(수염이 난)에서 유래했다는 설이 있어. 스페인 병사들이 수염 기른 바스크인을 보고 '이상하다'고 한 데서 왔대!",
+      "`bizarre` 자체가 GRE 기출 단어이면서, `grotesque`, `outlandish` 등 동의어와 함께 나와."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "bland",
+    "pos": "adj.",
+    "head_meanings": [
+      "(맛·성격이) 밋밋한",
+      "(기후가) 온화한",
+      "(태도가) 부드러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "insipid", "note": "맛이 없고 흥미가 없는"},
+      {"word": "vapid", "note": "김 빠진 듯 재미없는"},
+      {"word": "tepid", "note": "원래 '미지근한'인데, 열정이 없는 맥락에서 만남"},
+      {"word": "anodyne", "note": "원래 '진통제'인데, 자극이 없고 밋밋한 맥락에서 만남"}
+    ],
+    "tips": [
+      "`bland`는 핵심이 '자극이 없는' 상태야:\n1) 음식 → 맛이 밋밋한\n2) 사람/태도 → 개성 없이 무난한\n3) 기후 → 온화한, 쾌적한 (이건 긍정적)",
+      "GRE에서는 주로 부정적 뜻(재미없고 밋밋한)으로 나와. `a bland performance` = 밋밋한 공연."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "blandishment",
+    "pos": "n.",
+    "head_meanings": [
+      "아첨",
+      "감언이설",
+      "알랑거림"
+    ],
+    "synonyms_from_image": [
+      {"word": "cajolery", "note": "구슬리며 알랑거리기"},
+      {"word": "flattery", "note": "아첨"},
+      {"word": "wheedling", "note": "감언으로 꼬시기"},
+      {"word": "coaxing", "note": "구슬려 달래기"}
+    ],
+    "tips": [
+      "`bland`(부드러운) + `-ishment` → 부드러운 말로 꼬시는 거야. bland의 '부드러운' 뜻에서 나왔어.",
+      "보통 복수형 `blandishments`로 쓰여. `resist blandishments` = 감언이설에 넘어가지 않다."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "blare",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 나팔 같은 요란한 소리",
+      "v.) 울려 퍼지다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "의성어에서 온 단어야. 트럼펫이 '빠~아' 울리는 소리를 떠올려봐.",
+      "`blaring music` = 요란하게 울리는 음악. `The horn blared` = 경적이 울려 퍼졌다."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "blasé",
+    "pos": "adj.",
+    "head_meanings": [
+      "싫증 난",
+      "물린",
+      "무관심한"
+    ],
+    "synonyms_from_image": [
+      {"word": "jaded", "note": "질려서 흥미를 잃은"},
+      {"word": "indifferent", "note": "무관심한"},
+      {"word": "apathetic", "note": "냉담한, 무감각한"},
+      {"word": "insouciant", "note": "태평스럽게 무관심한"},
+      {"word": "nonchalant", "note": "무심한, 태연한"}
+    ],
+    "tips": [
+      "프랑스어에서 왔어. '너무 많이 경험해서 이제 감흥이 없는' 상태야.",
+      "`blasé about luxury` = 사치에 물린. `jaded`와 거의 같은 뜻인데, blasé는 좀 더 '시크하게 무관심한' 뉘앙스야."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "blasphemous",
+    "pos": "adj.",
+    "head_meanings": [
+      "신성 모독의",
+      "불경한"
+    ],
+    "synonyms_from_image": [
+      {"word": "sacrilegious", "note": "신성한 것을 모독하는"},
+      {"word": "irreverent", "note": "경의를 보이지 않는"},
+      {"word": "profane", "note": "신성하지 않은, 세속적인"},
+      {"word": "impious", "note": "불경한"}
+    ],
+    "tips": [
+      "그리스어 `blasphemin`(악담하다) → 신에 대해 악담하는 거야. `blasphemy`가 명사형이야.",
+      "`blasphemous remarks` = 불경한 발언. 종교적 맥락에서 신성한 것을 모독하는 모든 행위를 가리켜."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "blatant",
+    "pos": "adj.",
+    "head_meanings": [
+      "노골적인",
+      "뻔뻔스러운",
+      "떠들썩한"
+    ],
+    "synonyms_from_image": [
+      {"word": "flagrant", "note": "너무 뻔해서 눈에 확 들어오는"},
+      {"word": "brazen", "note": "뻔뻔하게 드러내는"},
+      {"word": "glaring", "note": "눈부시게 눈에 띄는"},
+      {"word": "egregious", "note": "원래 '두드러진'인데, 너무 심하게 나쁜 맥락에서 만남"}
+    ],
+    "tips": [
+      "스펜서의 <요정 여왕>에 나오는 '떠들썩한 짐승(Blatant Beast)'에서 유래했다는 설이 있어.",
+      "`blatant lie/disregard` = 노골적인 거짓말/무시. `flagrant`과 거의 같은 뜻이야. 숨기지도 않고 대놓고 하는 느낌!"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "bleak",
+    "pos": "adj.",
+    "head_meanings": [
+      "황량한",
+      "쓸쓸한",
+      "암울한",
+      "음침한"
+    ],
+    "synonyms_from_image": [
+      {"word": "desolate", "note": "황폐하고 쓸쓸한"},
+      {"word": "grim", "note": "암울하고 엄혹한"},
+      {"word": "stark", "note": "삭막하고 적나라한"},
+      {"word": "dismal", "note": "음침하고 우울한"},
+      {"word": "dreary", "note": "따분하고 쓸쓸한"}
+    ],
+    "tips": [
+      "`bleak`은 핵심이 '춥고 텅 빈 느낌'이야:\n1) 풍경 → 황량한, 삭막한 (a bleak landscape)\n2) 전망 → 암울한, 희망 없는 (a bleak future)\n3) 날씨 → 음산하고 추운 (bleak winter)",
+      "디킨스 소설 <황량한 집(Bleak House)>이 이 단어의 느낌을 잘 보여줘."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "blemish",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 결점, 오점, 흠",
+      "v.) 흠집을 내다, 더럽히다"
+    ],
+    "synonyms_from_image": [
+      {"word": "flaw", "note": "결함, 흠"},
+      {"word": "defect", "note": "결점"},
+      {"word": "imperfection", "note": "불완전함"},
+      {"word": "stain", "note": "얼룩, 오점"},
+      {"word": "taint", "note": "오점, 더럽힘"},
+      {"word": "mar", "note": "흠집을 내어 망치다"}
+    ],
+    "tips": [
+      "고대 프랑스어 `blesmiss`(상처 입히다)에서 왔어. 물리적 흠집과 비유적 오점 모두에 쓰여.",
+      "`without blemish` = 흠 없는. `blemish someone's record` = 경력에 오점을 남기다."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "blight",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) (식물의) 역병, 황폐, 해악",
+      "v.) 시들게 하다, 망치다"
+    ],
+    "synonyms_from_image": [
+      {"word": "plague", "note": "전염병, 재앙"},
+      {"word": "scourge", "note": "재앙, 골칫거리"},
+      {"word": "curse", "note": "저주, 재앙"},
+      {"word": "ruin", "note": "파멸시키다"}
+    ],
+    "tips": [
+      "원래 감자 역병(potato blight) 같은 농작물 병해를 뜻했어. 아일랜드 대기근이 blight 때문이었지.",
+      "GRE에서는 비유적으로 많이 쓰여. `urban blight` = 도시 황폐화. `blight someone's hopes` = 희망을 꺾다.",
+      "`blighted` = 황폐화된, 망가진. `blighted area` = 슬럼화된 지역."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "blink",
+    "pos": "v.",
+    "head_meanings": [
+      "눈을 깜빡이다",
+      "(등불 등이) 명멸하다",
+      "(결점 등을) 못 본 체하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "flicker", "note": "깜빡깜빡하다"},
+      {"word": "twinkle", "note": "반짝반짝하다"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '눈 깜빡임'보다 `blink at` = 못 본 체하다, 무시하다가 GRE에서 중요해.",
+      "`on the blink` = 고장난. `not blink an eye` = 눈 하나 깜빡 안 하다(동요하지 않다). 관용구를 알아둬."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "bliss",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "n.) 더없는 기쁨, 지복, 행복",
+      "adj.) blissful: 더없이 행복한"
+    ],
+    "synonyms_from_image": [
+      {"word": "euphoria", "note": "극도의 행복감"},
+      {"word": "rapture", "note": "황홀경"},
+      {"word": "ecstasy", "note": "무아지경의 기쁨"},
+      {"word": "felicity", "note": "행복, 지복"}
+    ],
+    "tips": [
+      "고대 영어 `bliss`(기쁨). `bless`(축복하다)와 같은 뿌리야.",
+      "`ignorance is bliss` = 모르는 게 약이야. `blissful ignorance` = 행복한 무지. 이 유명한 표현을 알아둬!"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "blithe",
+    "pos": "adj.",
+    "head_meanings": [
+      "쾌활한",
+      "명랑한",
+      "태평스러운",
+      "경솔한"
+    ],
+    "synonyms_from_image": [
+      {"word": "cheerful", "note": "쾌활한"},
+      {"word": "carefree", "note": "근심 걱정 없는"},
+      {"word": "nonchalant", "note": "태연한, 무심한"},
+      {"word": "insouciant", "note": "걱정 없이 태평한"},
+      {"word": "breezy", "note": "산뜻하고 경쾌한"}
+    ],
+    "tips": [
+      "`blithe`는 뜻이 두 갈래야:\n1) 긍정적: 명랑한, 쾌활한 (blithe spirit = 쾌활한 영혼)\n2) 부정적: 태평스러운, 무책임한 (blithe disregard = 태평스러운 무시)",
+      "셸리의 시 'To a Skylark'에서 `blithe spirit`이라는 유명한 표현이 나와. GRE에서는 부정적 뜻(무관심한/경솔한)이 더 자주 출제돼."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "bloated",
+    "pos": "adj.",
+    "head_meanings": [
+      "부풀어 오른",
+      "비대한",
+      "거만해진"
+    ],
+    "synonyms_from_image": [
+      {"word": "swollen", "note": "부어오른"},
+      {"word": "distended", "note": "팽팽하게 부풀어 오른"},
+      {"word": "inflated", "note": "부풀려진"},
+      {"word": "tumid", "note": "부어오른, 과장된"}
+    ],
+    "tips": [
+      "`bloat`(부풀리다) + `-ed`. 물리적으로 부풀어 오르거나 비유적으로 과대해진 것 모두에 쓰여.",
+      "`bloated bureaucracy` = 비대해진 관료제. `bloated with pride` = 자만심으로 부풀어 오른. GRE에서는 비유적 용법이 중요해."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "blot",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 얼룩, 오점",
+      "v.) 더럽히다, 흡수지로 빨아들이다"
+    ],
+    "synonyms_from_image": [
+      {"word": "stain", "note": "얼룩"},
+      {"word": "blemish", "note": "흠, 오점"},
+      {"word": "smudge", "note": "번진 자국"}
+    ],
+    "tips": [
+      "`a blot on one's record` = 경력의 오점. `blot out` = 가리다, 지우다.",
+      "`blot out the sun` = 해를 가리다. `blot out a memory` = 기억을 지우다. 두 관용구 모두 GRE에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "bludgeon",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 곤봉",
+      "v.) 곤봉으로 치다",
+      "v.) 강제로 시키다, 위압하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "cudgel", "note": "짧은 곤봉"},
+      {"word": "coerce", "note": "강제하다"},
+      {"word": "browbeat", "note": "위압하여 굴복시키다"},
+      {"word": "bully", "note": "괴롭혀 강요하다"}
+    ],
+    "tips": [
+      "어원은 불확실하지만, 무거운 곤봉으로 마구 때리는 이미지야.",
+      "GRE에서는 비유적 뜻이 중요해. `bludgeon someone into agreeing` = 위압해서 동의하게 만들다. 정교함 없이 힘으로 밀어붙이는 느낌이야."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "bluff",
+    "pos": "n./v./adj.",
+    "head_meanings": [
+      "n.) 허세, 엄포",
+      "v.) 허세를 부리다, 속이다",
+      "adj.) 무뚝뚝한, 솔직한",
+      "n.) 절벽, 낭떠러지"
+    ],
+    "synonyms_from_image": [
+      {"word": "sham", "note": "거짓, 가장"},
+      {"word": "bluster", "note": "허세를 부리다"},
+      {"word": "cliff", "note": "절벽"},
+      {"word": "precipice", "note": "낭떠러지"}
+    ],
+    "tips": [
+      "`bluff`는 뜻이 다양한데, GRE에서 주로 나오는 건:\n1) 허세/엄포: `call someone's bluff` = 허세의 실체를 들추다\n2) 형용사: 무뚝뚝하지만 다정한 (`bluff and hearty`)",
+      "형용사 '무뚝뚝한(bluff)'은 GRE 함정 뜻이야. 절벽이 우뚝 솟은 것처럼 '거침없고 직설적인' 느낌이야."
+    ]
+  }
+]
