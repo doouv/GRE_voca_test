@@ -1,0 +1,981 @@
+[
+  {
+    "id": "001",
+    "word": "canvass",
+    "pos": "v.",
+    "head_meanings": [
+      "(투표·기부 등을) 부탁하고 다니다",
+      "면밀히 조사하다",
+      "검토하다",
+      "토론하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "scrutinize", "note": "꼼꼼히 살피다"},
+      {"word": "survey", "note": "조사하다, 개관하다"},
+      {"word": "examine", "note": "검토하다"},
+      {"word": "analyze", "note": "분석하다"}
+    ],
+    "tips": [
+      "원래 `canvas`(캔버스) 위에서 체로 거르듯 '꼼꼼히 조사하다'에서 왔어.",
+      "`canvass for votes` = 투표를 호소하다. `canvass the neighborhood` = 동네를 돌며 조사하다. 두 뜻 다 GRE에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "capacious",
+    "pos": "adj.",
+    "head_meanings": [
+      "널따란",
+      "넓은",
+      "포용력이 큰"
+    ],
+    "synonyms_from_image": [
+      {"word": "voluminous", "note": "부피가 큰, 방대한"},
+      {"word": "roomy", "note": "널찍한"},
+      {"word": "commodious", "note": "넓고 쾌적한"},
+      {"word": "ample", "note": "충분히 넓은"}
+    ],
+    "tips": [
+      "라틴어 `capax`(담을 수 있는) ← `capere`(잡다, 담다). `capacity`(용량)와 같은 뿌리야!",
+      "`a capacious bag` = 넉넉한 가방. `a capacious mind` = 포용력이 큰 마음. GRE에서는 비유적 용법도 나와."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "capitulate",
+    "pos": "v.",
+    "head_meanings": [
+      "(조건부로) 항복하다",
+      "굴복하다",
+      "단념하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "surrender", "note": "항복하다"},
+      {"word": "yield", "note": "굴복하다"},
+      {"word": "submit", "note": "복종하다"},
+      {"word": "concede", "note": "양보하다"}
+    ],
+    "tips": [
+      "라틴어 `capitulum`(항목, 조항)에서 왔어. 원래 '조항별로 합의하여 항복하다'라는 뜻이야.",
+      "`capitulate to demands` = 요구에 굴복하다. `capitulation` = 항복."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "caprice",
+    "pos": "n.",
+    "head_meanings": [
+      "변덕",
+      "일시적 기분",
+      "멋대로 함"
+    ],
+    "synonyms_from_image": [
+      {"word": "whim", "note": "갑작스러운 변덕"},
+      {"word": "whimsy", "note": "기발한 변덕"},
+      {"word": "vagary", "note": "예측 불가한 변화"},
+      {"word": "fickleness", "note": "변덕스러움"}
+    ],
+    "tips": [
+      "이탈리아어 `capriccio`(고슴도치 머리) ← `capra`(염소). 염소가 갑자기 방향을 바꾸며 뛰는 모습에서 유래!",
+      "`on a caprice` = 변덕으로. `capricious`(변덕스러운)와 함께 외워."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "capricious",
+    "pos": "adj.",
+    "head_meanings": [
+      "변덕스러운",
+      "예측할 수 없는",
+      "급변하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "fickle", "note": "변덕스러운"},
+      {"word": "mercurial", "note": "수은처럼 변하기 쉬운"},
+      {"word": "volatile", "note": "급변하는"},
+      {"word": "erratic", "note": "불규칙하고 예측 불가한"},
+      {"word": "whimsical", "note": "변덕스럽고 기발한"}
+    ],
+    "tips": [
+      "`caprice`(변덕) + `-ious` → 변덕스러운. GRE 단골 단어!",
+      "`capricious weather` = 변덕스러운 날씨. GRE에서 `fickle`, `mercurial`, `volatile`과 함께 '변덕스러운' 동의어 그룹으로 자주 출제돼."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "captious",
+    "pos": "adj.",
+    "head_meanings": [
+      "흠잡기를 좋아하는",
+      "트집 잡는",
+      "까다로운"
+    ],
+    "synonyms_from_image": [
+      {"word": "carping", "note": "남의 흠만 잡는"},
+      {"word": "caviling", "note": "사소한 것에 트집 잡는"},
+      {"word": "hypercritical", "note": "지나치게 비판적인"},
+      {"word": "nit-picking", "note": "사소한 결점만 들추는"}
+    ],
+    "tips": [
+      "라틴어 `captiosus`(속이는, 올가미에 걸리게 하는) ← `capere`(잡다). 남의 말꼬투리를 '잡는' 거야.",
+      "`captious critic` = 트집 잡는 비평가. `censorious`, `carping`과 동의어야."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "captive",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "n.) 포로, 죄수",
+      "adj.) 사로잡힌, 포로가 된"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `captivus`(사로잡힌) ← `capere`(잡다). `capture`(포획)와 같은 뿌리.",
+      "`captive audience` = (빠져나갈 수 없어서) 어쩔 수 없이 듣는 청중. GRE에서 이 관용구가 나올 수 있어."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "captivating",
+    "pos": "adj.",
+    "head_meanings": [
+      "매혹적인",
+      "마음을 사로잡는"
+    ],
+    "synonyms_from_image": [
+      {"word": "charming", "note": "매력적인"},
+      {"word": "enchanting", "note": "황홀하게 하는"},
+      {"word": "appealing", "note": "마음을 끄는"}
+    ],
+    "tips": [
+      "`captivate`(매혹하다)의 형용사형. 마음을 '사로잡는(captive)' 것처럼 매혹하는 거야.",
+      "`a captivating smile` = 매혹적인 미소."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "captivate",
+    "pos": "v.",
+    "head_meanings": [
+      "매혹하다",
+      "마음을 사로잡다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`captive`(포로) + `-ate`(동사화) → 포로로 만들듯 마음을 사로잡다.",
+      "`captivate an audience` = 청중을 매혹하다. `enchant`, `bewitch`, `mesmerize`와 동의어야."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "careen",
+    "pos": "v.",
+    "head_meanings": [
+      "(배·차가) 한쪽으로 기울다",
+      "흔들리며 질주하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "tilt", "note": "기울다"},
+      {"word": "stagger", "note": "비틀거리다"},
+      {"word": "hurtle", "note": "돌진하다"},
+      {"word": "lurch", "note": "갑자기 기울다"}
+    ],
+    "tips": [
+      "라틴어 `carina`(배의 용골)에서 왔어. 배를 옆으로 기울여 바닥을 수리하던 것에서 유래.",
+      "`The car careened down the hill` = 차가 언덕을 흔들리며 질주했다."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "carefree",
+    "pos": "adj.",
+    "head_meanings": [
+      "걱정 없는",
+      "낙천적인",
+      "태평스러운"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`care`(걱정) + `free`(없는) → 걱정이 없는. `careless`(부주의한)와 헷갈리지 마!",
+      "carefree = 긍정적(걱정 없이 행복한), careless = 부정적(부주의한). GRE에서 이 차이를 물을 수 있어."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "careless",
+    "pos": "adj.",
+    "head_meanings": [
+      "부주의한",
+      "조심성 없는",
+      "무관심한"
+    ],
+    "synonyms_from_image": [
+      {"word": "negligent", "note": "태만한"},
+      {"word": "inattentive", "note": "주의를 기울이지 않는"},
+      {"word": "thoughtless", "note": "생각 없는"},
+      {"word": "remiss", "note": "해야 할 일을 소홀히 하는"}
+    ],
+    "tips": [
+      "`careless` ≠ `carefree`. careless는 '주의가 부족한(부정적)', carefree는 '걱정이 없는(긍정적)'.",
+      "`careless mistake` = 부주의한 실수."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "caricature",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 풍자 만화, 희화",
+      "v.) 풍자하다, 희화화하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "parody", "note": "원작을 우습게 흉내 내기"},
+      {"word": "satire", "note": "풍자"},
+      {"word": "lampoon", "note": "신랄하게 풍자하다"},
+      {"word": "burlesque", "note": "우스꽝스럽게 패러디하다"}
+    ],
+    "tips": [
+      "이탈리아어 `caricare`(과장하다, 짐을 싣다)에서 왔어. 특징을 과장해서 우습게 그리는 거야.",
+      "`a caricature of a politician` = 정치인 풍자화. GRE에서 `parody`, `burlesque`, `lampoon`과 동의어 그룹!"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "carnage",
+    "pos": "n.",
+    "head_meanings": [
+      "대학살",
+      "대량 살육"
+    ],
+    "synonyms_from_image": [
+      {"word": "massacre", "note": "대학살"},
+      {"word": "slaughter", "note": "도살, 학살"},
+      {"word": "butchery", "note": "잔인한 살육"},
+      {"word": "bloodbath", "note": "피의 목욕, 대학살"}
+    ],
+    "tips": [
+      "라틴어 `caro`(살, 고기) → 살이 낭자한 현장. `carnal`(육체의)과 같은 뿌리야.",
+      "`the carnage of war` = 전쟁의 대학살."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "carnal",
+    "pos": "adj.",
+    "head_meanings": [
+      "육체의",
+      "육욕적인",
+      "속세의"
+    ],
+    "synonyms_from_image": [
+      {"word": "sensual", "note": "감각적인, 관능적인"},
+      {"word": "lascivious", "note": "음란한"},
+      {"word": "libidinous", "note": "호색적인"}
+    ],
+    "tips": [
+      "라틴어 `carnalis`(고기의, 육체의) ← `caro`(살). `carnage`(학살), `carnivorous`(육식의)와 같은 뿌리!",
+      "`carnal desires` = 육체적 욕망. 정신적/영적인 것의 반대 개념이야."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "carnivorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "육식성의"
+    ],
+    "synonyms_from_image": [
+      {"word": "predatory", "note": "포식성의"},
+      {"word": "predaceous", "note": "다른 동물을 잡아먹는"}
+    ],
+    "tips": [
+      "라틴어 `caro`(고기) + `vorare`(먹다) → 고기를 먹는. `herbivorous`(초식), `omnivorous`(잡식)와 세트로 외워.",
+      "GRE 과학 지문에서 생태계 설명할 때 나올 수 있어."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "carousal",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 흥청거리는 술잔치, 흥청방청",
+      "v.) carouse: 떠들썩하게 마시고 놀다"
+    ],
+    "synonyms_from_image": [
+      {"word": "revelry", "note": "흥청대는 잔치"},
+      {"word": "debauch", "note": "방탕한 술판"},
+      {"word": "bacchanal", "note": "주신 바커스의 축제 → 술잔치"},
+      {"word": "spree", "note": "흥청거리기"}
+    ],
+    "tips": [
+      "독일어 `garaus`(다 마시다!)에서 왔어. 술을 '원샷' 하라는 외침에서 유래!",
+      "`a night of carousal` = 밤새 흥청거린 술판. `carouse` = 동사형."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "carping",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 흠잡는, 트집 잡는",
+      "n.) 흠잡기"
+    ],
+    "synonyms_from_image": [
+      {"word": "caviling", "note": "사소한 트집"},
+      {"word": "quibbling", "note": "시시한 것에 따지기"},
+      {"word": "faultfinding", "note": "결점 찾기"},
+      {"word": "nitpicking", "note": "사소한 흠집 잡기"}
+    ],
+    "tips": [
+      "고대 노르드어 `karpa`(떠벌리다)에서 왔어. `carp at` = ~에 트집 잡다.",
+      "`captious`, `censorious`, `caviling`과 동의어야. GRE에서 '흠잡는' 계열 단어가 자주 나와."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "castigate",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 엄하게 꾸짖다, 징벌하다",
+      "n.) castigation: 징벌, 혹평"
+    ],
+    "synonyms_from_image": [
+      {"word": "rebuke", "note": "꾸짖다"},
+      {"word": "reprimand", "note": "공식적으로 질책하다"},
+      {"word": "chastise", "note": "벌하며 꾸짖다"},
+      {"word": "upbraid", "note": "면전에서 꾸짖다"}
+    ],
+    "tips": [
+      "라틴어 `castigare`(순수하게 만들다) ← `castus`(순수한). 벌을 줘서 '순수하게/바르게' 만드는 거야.",
+      "`castigate the government` = 정부를 맹렬히 비난하다. `berate`, `upbraid`, `chide`와 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "casual",
+    "pos": "adj.",
+    "head_meanings": [
+      "우연한",
+      "격식 없는",
+      "무관심한",
+      "부정기의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! '편한/캐주얼한'보다 '우연한(= accidental)'과 '무관심한(= nonchalant)' 뜻이 중요해.",
+      "`a casual remark` = 무심코 한 말. `casual indifference` = 태연한 무관심."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "casualty",
+    "pos": "n.",
+    "head_meanings": [
+      "사상자",
+      "피해자",
+      "불의의 사고"
+    ],
+    "synonyms_from_image": [
+      {"word": "fatality", "note": "사망자"},
+      {"word": "victim", "note": "피해자"}
+    ],
+    "tips": [
+      "`casual`(우연한) + `-ty` → 우연한 불행을 당한 사람.",
+      "`civilian casualties` = 민간인 사상자. `casualties of war` = 전쟁 피해자."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "cataclysm",
+    "pos": "n.",
+    "head_meanings": [
+      "대변동",
+      "격변",
+      "대홍수"
+    ],
+    "synonyms_from_image": [
+      {"word": "catastrophe", "note": "대참사"},
+      {"word": "calamity", "note": "재앙"},
+      {"word": "debacle", "note": "대실패, 대붕괴"},
+      {"word": "upheaval", "note": "대변동"}
+    ],
+    "tips": [
+      "그리스어 `kataklysmos`(대홍수) ← `kata-`(아래로) + `klyzein`(씻다) → 물이 쓸어가는 대홍수.",
+      "`a political cataclysm` = 정치적 대격변. 자연재해뿐 아니라 사회적 격변에도 쓰여."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "cataclysmic",
+    "pos": "adj.",
+    "head_meanings": [
+      "격변의",
+      "대변동의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`cataclysm`의 형용사형. `catastrophic`과 거의 같은 뜻이야.",
+      "`cataclysmic event` = 대격변적 사건."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "catalyst",
+    "pos": "n.",
+    "head_meanings": [
+      "촉매",
+      "기폭제",
+      "변화를 일으키는 계기"
+    ],
+    "synonyms_from_image": [
+      {"word": "stimulus", "note": "자극, 촉진제"},
+      {"word": "impetus", "note": "추진력"},
+      {"word": "incentive", "note": "동기, 유인"}
+    ],
+    "tips": [
+      "그리스어 `katalysis`(용해) ← `kata-`(아래로) + `lyein`(풀다). 화학에서 반응을 촉진하는 물질이야.",
+      "GRE에서는 비유적 뜻이 핵심! `a catalyst for change` = 변화의 촉매/기폭제."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "catalyze",
+    "pos": "v.",
+    "head_meanings": [
+      "촉매 작용을 하다",
+      "(변화를) 촉진하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`catalyst`의 동사형. `catalyze a reaction` = 반응을 촉진하다.",
+      "비유적으로 `catalyze social change` = 사회 변화를 촉진하다."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "catastrophe",
+    "pos": "n.",
+    "head_meanings": [
+      "대재해",
+      "참사",
+      "파국"
+    ],
+    "synonyms_from_image": [
+      {"word": "disaster", "note": "재난"},
+      {"word": "calamity", "note": "재앙"},
+      {"word": "devastation", "note": "대파괴"},
+      {"word": "havoc", "note": "대혼란, 파괴"}
+    ],
+    "tips": [
+      "그리스어 `katastrophe`(뒤집어짐) ← `kata-`(아래로) + `strophein`(돌다). 모든 것이 뒤집어지는 거야.",
+      "원래 그리스 비극의 '대단원/파국'이라는 문학 용어였어. `catastrophic` = 파국적인."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "catchall",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "n.) 잡동사니 넣는 곳",
+      "adj.) 포괄적인, 다목적의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`catch`(잡다) + `all`(모든 것) → 뭐든 다 담는 것.",
+      "GRE에서는 `a catchall term/category` = 포괄적 용어/범주. '뭐든 다 집어넣는' 비유로 나와."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "categorical",
+    "pos": "adj.",
+    "head_meanings": [
+      "단언적인",
+      "무조건적인",
+      "절대적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "unequivocal", "note": "모호하지 않은, 명백한"},
+      {"word": "unconditional", "note": "무조건적인"},
+      {"word": "absolute", "note": "절대적인"}
+    ],
+    "tips": [
+      "`category`(범주)와 같은 뿌리인데 뜻이 많이 달라! '범주에 딱 넣을 수 있을 만큼 명확한' → 단언적인.",
+      "`a categorical denial` = 단호한 부인. `categorically` = 단호히."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "cater (to)",
+    "pos": "v.",
+    "head_meanings": [
+      "요구를 충족시키다",
+      "음식·서비스를 제공하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 핵심 용법: `cater to` = (특정 취향·요구에) 영합하다. 부정적 뉘앙스로 자주 나와!",
+      "`cater to popular taste` = 대중 취향에 영합하다. `pander to`와 비슷해."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "caterwaul",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 야옹야옹 울다, 시끄럽게 떠들다",
+      "n.) 고양이 울음 같은 소리"
+    ],
+    "synonyms_from_image": [
+      {"word": "shriek", "note": "비명 지르다"},
+      {"word": "howl", "note": "울부짖다"},
+      {"word": "wail", "note": "울며 소리치다"}
+    ],
+    "tips": [
+      "`cater`(고양이, 고어) + `waul`(울다) → 고양이가 밤에 야옹거리는 소리.",
+      "비유적으로 '시끄럽게 불평하다'라는 뜻으로도 쓰여."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "catharsis",
+    "pos": "n.",
+    "head_meanings": [
+      "카타르시스",
+      "(감정의) 정화",
+      "배설"
+    ],
+    "synonyms_from_image": [
+      {"word": "purgation", "note": "정화, 배출"},
+      {"word": "purification", "note": "순화"},
+      {"word": "venting", "note": "감정 분출"}
+    ],
+    "tips": [
+      "그리스어 `katharsis`(정화). 아리스토텔레스가 비극을 보면서 감정이 '정화'된다고 한 데서 유명해졌어.",
+      "`emotional catharsis` = 감정적 정화. `cathartic` = 정화하는, 카타르시스를 주는. GRE 문학 지문 단골!"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "catholic",
+    "pos": "adj.",
+    "head_meanings": [
+      "폭넓은",
+      "포용력 있는",
+      "보편적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "broad", "note": "넓은"},
+      {"word": "comprehensive", "note": "포괄적인"},
+      {"word": "universal", "note": "보편적인"},
+      {"word": "eclectic", "note": "다양한 것에서 취하는"}
+    ],
+    "tips": [
+      "GRE 함정 단어! 대문자 Catholic(가톨릭)이 아니라 소문자 catholic = '폭넓은, 보편적인'이야.",
+      "`catholic tastes` = 폭넓은 취향. `a man of catholic interests` = 관심사가 다양한 사람."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "causal",
+    "pos": "adj.",
+    "head_meanings": [
+      "원인의",
+      "인과의",
+      "원인이 되는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`cause`(원인) + `-al` → 원인과 관련된. `casual`(우연한)과 헷갈리지 마!",
+      "`causal relationship` = 인과관계. `causality` = 인과성. GRE 과학/논리 지문 핵심 용어야."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "caustic",
+    "pos": "adj.",
+    "head_meanings": [
+      "부식성의",
+      "신랄한",
+      "통렬한"
+    ],
+    "synonyms_from_image": [
+      {"word": "corrosive", "note": "부식시키는"},
+      {"word": "acrimonious", "note": "통렬하고 신랄한"},
+      {"word": "mordant", "note": "물어뜯듯 날카로운"},
+      {"word": "acerbic", "note": "시큼하게 신랄한"}
+    ],
+    "tips": [
+      "그리스어 `kaustikos`(태우는) ← `kaiein`(태우다). 산(acid)이 태우듯 신랄한 거야.",
+      "`caustic remark` = 신랄한 말. `caustic wit` = 독설. GRE에서 `acerbic`, `mordant`, `trenchant`과 동의어 그룹!"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "cavalier",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "adj.) 거만한, 무심한, 경솔한",
+      "n.) 기사"
+    ],
+    "synonyms_from_image": [
+      {"word": "haughty", "note": "거만한"},
+      {"word": "disdainful", "note": "경멸하는"},
+      {"word": "condescending", "note": "잘난 체하며 깔보는"},
+      {"word": "insouciant", "note": "태평스럽게 무관심한"},
+      {"word": "supercilious", "note": "거들먹거리는"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '기사다운(용감한)'이 아니라 '거만하고 무심한'으로 주로 나와.",
+      "`a cavalier attitude` = 건방지고 무심한 태도. `cavalier disregard for rules` = 규칙에 대한 경솔한 무시."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "caveat",
+    "pos": "n.",
+    "head_meanings": [
+      "경고",
+      "주의 사항",
+      "단서"
+    ],
+    "synonyms_from_image": [
+      {"word": "warning", "note": "경고"},
+      {"word": "proviso", "note": "단서 조건"},
+      {"word": "stipulation", "note": "조건, 규정"},
+      {"word": "qualification", "note": "제한 조건"}
+    ],
+    "tips": [
+      "라틴어 `caveat`(조심하라!) ← `cavere`(조심하다). `Caveat emptor` = 구매자 조심(매수인 위험부담 원칙).",
+      "`with the caveat that...` = ~라는 단서 하에. GRE에서 매우 자주 나오는 단어!"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "cave in",
+    "pos": "v.",
+    "head_meanings": [
+      "함몰하다",
+      "무너지다",
+      "굴복하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "물리적으로 '동굴(cave)처럼 안으로 무너지다' → 비유적으로 '압력에 굴복하다'.",
+      "`cave in to pressure` = 압력에 굴복하다."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "cavil",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 트집 잡다, 시시한 것에 따지다",
+      "n.) 사소한 트집"
+    ],
+    "synonyms_from_image": [
+      {"word": "carp", "note": "흠잡다"},
+      {"word": "quibble", "note": "사소한 것에 따지다"},
+      {"word": "nitpick", "note": "사소한 결점을 찾다"},
+      {"word": "grouse", "note": "투덜대다"}
+    ],
+    "tips": [
+      "라틴어 `cavillari`(조롱하다, 트집 잡다)에서 왔어.",
+      "`cavil at/about` = ~에 트집 잡다. `captious`, `carping`과 같은 계열이야."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "cede",
+    "pos": "v.",
+    "head_meanings": [
+      "양도하다",
+      "(영토를) 할양하다",
+      "양보하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "relinquish", "note": "포기하다"},
+      {"word": "surrender", "note": "항복하며 넘기다"},
+      {"word": "yield", "note": "양보하다"},
+      {"word": "hand over", "note": "넘겨주다"}
+    ],
+    "tips": [
+      "라틴어 `cedere`(가다, 양보하다). `concede`(인정하다), `precede`(앞서다), `recede`(물러나다) 모두 같은 뿌리!",
+      "`cede territory` = 영토를 할양하다. `cede control to` = ~에게 통제권을 넘기다."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "celerity",
+    "pos": "n.",
+    "head_meanings": [
+      "신속",
+      "민첩"
+    ],
+    "synonyms_from_image": [
+      {"word": "swiftness", "note": "빠름"},
+      {"word": "alacrity", "note": "원래 '기꺼이 하는 민첩함'인데, 빠른 행동이라는 맥락에서 만남"},
+      {"word": "haste", "note": "서두름"},
+      {"word": "expedition", "note": "원래 '원정'인데, 신속한 처리라는 뜻도 있음"}
+    ],
+    "tips": [
+      "라틴어 `celeritas`(빠름). `accelerate`(가속하다)와 같은 뿌리야!",
+      "`with celerity` = 신속하게. 격식체 단어야. GRE에서 `alacrity`와 함께 나올 수 있어."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "celestial",
+    "pos": "adj.",
+    "head_meanings": [
+      "하늘의",
+      "천체의",
+      "천국의",
+      "거룩한"
+    ],
+    "synonyms_from_image": [
+      {"word": "astral", "note": "별의, 천체의"},
+      {"word": "stellar", "note": "별의"},
+      {"word": "divine", "note": "신성한"},
+      {"word": "heavenly", "note": "천국의"}
+    ],
+    "tips": [
+      "라틴어 `caelestis`(하늘의) ← `caelum`(하늘). `celestial bodies` = 천체.",
+      "물리적 '천체의'와 종교적 '천국의' 두 뜻 다 GRE에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "censor",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 검열관",
+      "v.) 검열하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "expurgator", "note": "불온 부분을 삭제하는 사람"},
+      {"word": "inspector", "note": "검사관"}
+    ],
+    "tips": [
+      "`censure`(비난하다)와 헷갈리지 마! censor = 검열하다, censure = 비난하다.",
+      "`censor the media` = 언론을 검열하다. `censorship` = 검열 제도."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "censorious",
+    "pos": "adj.",
+    "head_meanings": [
+      "지나치게 비판적인",
+      "트집 잡는"
+    ],
+    "synonyms_from_image": [
+      {"word": "hypercritical", "note": "지나치게 비판적인"},
+      {"word": "captious", "note": "흠잡기를 좋아하는"},
+      {"word": "carping", "note": "트집 잡는"},
+      {"word": "faultfinding", "note": "결점을 찾는"}
+    ],
+    "tips": [
+      "`censure`(비난) + `-ious` → 비난하기를 좋아하는. 로마의 검열관(censor)처럼 남을 심판하는 거야.",
+      "`a censorious tone` = 비판적인 어조. `captious`, `carping`과 동의어 그룹."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "censorship",
+    "pos": "n.",
+    "head_meanings": [
+      "검열",
+      "검열 제도"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`censor`(검열관) + `-ship`(제도). 정부나 기관이 표현의 자유를 통제하는 것.",
+      "GRE 사회/정치 지문에서 자주 등장하는 개념이야."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "censure",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 비난하다, 꾸짖다",
+      "n.) 비난, 문책"
+    ],
+    "synonyms_from_image": [
+      {"word": "condemn", "note": "강하게 비난하다"},
+      {"word": "denounce", "note": "공개적으로 비난하다"},
+      {"word": "reproach", "note": "나무라다"},
+      {"word": "reprimand", "note": "공식 질책하다"}
+    ],
+    "tips": [
+      "`censor`(검열)와 헷갈리지 마! censure = 비난/문책, censor = 검열.",
+      "`a vote of censure` = 불신임 투표. `censure someone for negligence` = 태만을 문책하다."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "cerebral",
+    "pos": "adj.",
+    "head_meanings": [
+      "지적인",
+      "대뇌의"
+    ],
+    "synonyms_from_image": [
+      {"word": "intellectual", "note": "지적인"},
+      {"word": "rational", "note": "이성적인"},
+      {"word": "analytical", "note": "분석적인"}
+    ],
+    "tips": [
+      "라틴어 `cerebrum`(뇌)에서 왔어. GRE에서는 '지적인, 사색적인'이라는 비유적 뜻이 핵심!",
+      "`cerebral approach` = 지적인 접근. 감정보다 이성에 기반한 느낌이야."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "cerebration",
+    "pos": "n.",
+    "head_meanings": [
+      "사고",
+      "사색",
+      "두뇌 활동"
+    ],
+    "synonyms_from_image": [
+      {"word": "cogitation", "note": "깊은 사색"},
+      {"word": "deliberation", "note": "숙고"},
+      {"word": "contemplation", "note": "명상, 깊은 생각"}
+    ],
+    "tips": [
+      "`cerebrum`(뇌) + `-ation` → 뇌의 활동 = 사고/사색.",
+      "격식체야. `cogitation`과 거의 같은 뜻."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "ceremonious",
+    "pos": "adj.",
+    "head_meanings": [
+      "격식적인",
+      "의례적인",
+      "딱딱한"
+    ],
+    "synonyms_from_image": [
+      {"word": "formal", "note": "격식을 차린"},
+      {"word": "solemn", "note": "엄숙한"},
+      {"word": "stiff", "note": "딱딱한"}
+    ],
+    "tips": [
+      "`ceremonial`(의식의)과 구별해! ceremonial = 의식과 관련된(중립), ceremonious = 지나치게 격식적인(약간 부정적).",
+      "`a ceremonious bow` = 격식 차린 인사."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "certitude",
+    "pos": "n.",
+    "head_meanings": [
+      "확신",
+      "확실성"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `certitudo`(확실함) ← `certus`(확실한). `certainty`의 격식체 버전이야.",
+      "`with certitude` = 확신을 갖고. `moral certitude` = 도덕적 확신."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "cessation",
+    "pos": "n.",
+    "head_meanings": [
+      "정지",
+      "중지",
+      "중단"
+    ],
+    "synonyms_from_image": [
+      {"word": "halt", "note": "멈춤"},
+      {"word": "discontinuance", "note": "중단"},
+      {"word": "standstill", "note": "정지 상태"}
+    ],
+    "tips": [
+      "라틴어 `cessare`(그만두다) ← `cedere`(가다). `cease`(그만두다)와 같은 뿌리.",
+      "`cessation of hostilities` = 적대 행위 중지 = 휴전. GRE 정치 지문에서 나오는 격식 표현이야."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "cession",
+    "pos": "n.",
+    "head_meanings": [
+      "할양",
+      "양도"
+    ],
+    "synonyms_from_image": [
+      {"word": "transfer", "note": "이전, 양도"},
+      {"word": "relinquishment", "note": "포기"},
+      {"word": "surrender", "note": "항복, 양도"}
+    ],
+    "tips": [
+      "`cede`(양도하다)의 명사형. `cessation`(중지)과 헷갈리지 마!",
+      "`cession of territory` = 영토 할양. `session`(회의)과도 구별해야 해."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "chagrin",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 분함, 억울함, 당혹감",
+      "v.) 분하게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "mortification", "note": "굴욕감"},
+      {"word": "humiliation", "note": "수치"},
+      {"word": "vexation", "note": "짜증, 속상함"},
+      {"word": "embarrassment", "note": "당혹감"}
+    ],
+    "tips": [
+      "프랑스어에서 왔어. 기대와 달리 실망·굴욕을 느끼는 감정이야.",
+      "`much to my chagrin` = 분하게도. `chagrined` = 분해하는, 억울해하는. GRE에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "challenge",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 도전하다, 이의를 제기하다",
+      "n.) 도전, 난제"
+    ],
+    "synonyms_from_image": [
+      {"word": "dispute", "note": "이의를 제기하다"},
+      {"word": "question", "note": "의문을 제기하다"},
+      {"word": "contest", "note": "다투다, 이의를 제기하다"}
+    ],
+    "tips": [
+      "GRE에서 중요한 뜻: `challenge an assumption` = 가정에 이의를 제기하다. 단순 '도전'보다 '반박/의문 제기' 뜻이 핵심!",
+      "`challenge the status quo` = 현상에 이의를 제기하다."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "challenging",
+    "pos": "adj.",
+    "head_meanings": [
+      "도전적인",
+      "힘든",
+      "해볼 만한"
+    ],
+    "synonyms_from_image": [
+      {"word": "demanding", "note": "많은 것을 요구하는"},
+      {"word": "taxing", "note": "힘을 빼는"},
+      {"word": "exacting", "note": "까다롭고 힘든"},
+      {"word": "formidable", "note": "만만찮은"}
+    ],
+    "tips": [
+      "`challenging`은 difficult의 완곡한 표현이야. '힘들지만 해볼 만한' 긍정적 뉘앙스가 있어.",
+      "`a challenging task` = 도전적인 과제."
+    ]
+  }
+]

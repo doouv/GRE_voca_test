@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "001",
+    "word": "capillary",
+    "pos": "adj./n.",
+    "head_meanings": ["모세관의", "털 모양의", "모세혈관"],
+    "synonyms_from_image": [
+      {"word": "threadlike", "note": "실처럼 가느다란"},
+      {"word": "hairlike", "note": "머리카락처럼 가는"}
+    ],
+    "tips": [
+      "라틴어 `capillus`(머리카락)에서 왔어. 머리카락처럼 가는 관 = 모세관!",
+      "`capillary action` = 모세관 현상. GRE 과학 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "caption",
+    "pos": "n.",
+    "head_meanings": ["표제", "제목", "(사진·그림의) 설명문"],
+    "synonyms_from_image": [
+      {"word": "headline", "note": "표제, 머리기사"},
+      {"word": "title", "note": "제목"}
+    ],
+    "tips": [
+      "라틴어 `captio`(잡기) ← `capere`(잡다). 독자의 눈을 '잡는' 제목이야.",
+      "`photo caption` = 사진 설명문. `captioning` = 자막 넣기."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "carcinogenic",
+    "pos": "adj.",
+    "head_meanings": ["발암성의"],
+    "synonyms_from_image": [
+      {"word": "cancerogenic", "note": "암을 일으키는"},
+      {"word": "cancer-forming", "note": "암을 형성하는"}
+    ],
+    "tips": [
+      "그리스어 `karkinos`(게, 암) + `genesis`(발생) → 암을 발생시키는.",
+      "`carcinogen` = 발암물질. GRE 과학 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "cardinal",
+    "pos": "adj./n.",
+    "head_meanings": ["주요한", "기본적인", "으뜸의", "추기경", "홍관조"],
+    "synonyms_from_image": [
+      {"word": "basic", "note": "기본적인"},
+      {"word": "primary", "note": "제1의, 주요한"},
+      {"word": "elementary", "note": "기초적인"},
+      {"word": "dominant", "note": "지배적인"},
+      {"word": "preeminent", "note": "탁월한"}
+    ],
+    "tips": [
+      "GRE 함정 단어! 추기경/새가 아니라 형용사 '주요한, 으뜸의'로 나와.",
+      "라틴어 `cardo`(경첩, 중심축)에서 왔어. 문이 경첩을 중심으로 돌듯 가장 핵심적인 거야. `cardinal sin` = 대죄."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "carrion",
+    "pos": "n.",
+    "head_meanings": ["썩은 고기", "부패한 시체"],
+    "synonyms_from_image": [
+      {"word": "offal", "note": "도살 후 남은 부산물"},
+      {"word": "rot", "note": "부패물"},
+      {"word": "carcass", "note": "동물 사체"}
+    ],
+    "tips": [
+      "라틴어 `caro`(살, 고기)에서 왔어. `carnal`, `carnage`와 같은 뿌리!",
+      "`carrion crow` = 시체를 먹는 까마귀. 독수리(vulture)가 먹는 것이 carrion이야."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "cartographer",
+    "pos": "n.",
+    "head_meanings": ["지도 제작자"],
+    "synonyms_from_image": [
+      {"word": "mapper", "note": "지도를 만드는 사람"}
+    ],
+    "tips": [
+      "그리스어 `chartēs`(종이) + `graphein`(쓰다) → 종이 위에 그리는 사람 = 지도 제작자.",
+      "`cartography` = 지도 제작술. GRE 역사/과학 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "champion",
+    "pos": "v./n.",
+    "head_meanings": ["v.) 옹호하다, 지지하다", "n.) 옹호자, 우승자"],
+    "synonyms_from_image": [
+      {"word": "advocate", "note": "옹호하다/옹호자"},
+      {"word": "supporter", "note": "지지자"},
+      {"word": "defend", "note": "방어하다, 옹호하다"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '우승자'가 아니라 동사 '옹호하다/지지하다'로 나와.",
+      "`champion a cause` = 대의를 옹호하다. `advocate`와 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "chancy",
+    "pos": "adj.",
+    "head_meanings": ["불확실한", "위험한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`chance`(우연) + `-y` → 우연에 맡겨진 → 불확실한.",
+      "`a chancy investment` = 위험한 투자. `risky`, `precarious`와 비슷해."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "chaotic",
+    "pos": "adj.",
+    "head_meanings": ["혼돈된", "무질서한"],
+    "synonyms_from_image": [
+      {"word": "confused", "note": "뒤죽박죽인"},
+      {"word": "formless", "note": "형태가 없는"},
+      {"word": "lawless", "note": "무법의"},
+      {"word": "muddled", "note": "뒤엉킨"},
+      {"word": "disarranged", "note": "어지러운"}
+    ],
+    "tips": [
+      "그리스어 `khaos`(공허, 혼돈)에서 왔어. `chaos`의 형용사형.",
+      "`chaotic situation` = 혼란스러운 상황."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "characteristic",
+    "pos": "adj./n.",
+    "head_meanings": ["adj.) 특징적인, 전형적인", "n.) 특징, 특성"],
+    "synonyms_from_image": [
+      {"word": "typical", "note": "전형적인"},
+      {"word": "usual", "note": "보통의"},
+      {"word": "normal", "note": "정상적인"},
+      {"word": "predictable", "note": "예측 가능한"},
+      {"word": "habitual", "note": "습관적인"},
+      {"word": "distinctive", "note": "독특한"},
+      {"word": "particular", "note": "특유의"},
+      {"word": "special", "note": "특별한"},
+      {"word": "peculiar", "note": "독특한"},
+      {"word": "idiosyncratic", "note": "개인 특유의"},
+      {"word": "singular", "note": "유일한, 독특한"},
+      {"word": "unique", "note": "유일무이한"},
+      {"word": "attribute", "note": "속성"},
+      {"word": "feature", "note": "특색"},
+      {"word": "quality", "note": "자질"},
+      {"word": "property", "note": "성질"},
+      {"word": "trait", "note": "특성"},
+      {"word": "aspect", "note": "측면"},
+      {"word": "element", "note": "요소"},
+      {"word": "habit", "note": "습성"},
+      {"word": "idiosyncrasy", "note": "개인 특성"},
+      {"word": "peculiarity", "note": "특이점"}
+    ],
+    "tips": [
+      "`character`(성격) + `-istic` → 성격에서 드러나는 것.",
+      "형용사(~에 전형적인)와 명사(특성) 두 쓰임 다 GRE에 나와."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "charity",
+    "pos": "n.",
+    "head_meanings": ["자비심", "박애", "관용", "자선행위", "자선사업"],
+    "synonyms_from_image": [
+      {"word": "philanthropy", "note": "박애, 자선"},
+      {"word": "humanitarianism", "note": "인도주의"},
+      {"word": "altruism", "note": "이타주의"},
+      {"word": "benevolence", "note": "자비심"},
+      {"word": "beneficence", "note": "선행"},
+      {"word": "munificence", "note": "아낌없는 베풂"},
+      {"word": "goodwill", "note": "선의"},
+      {"word": "compassion", "note": "동정심"},
+      {"word": "kindness", "note": "친절"},
+      {"word": "sympathy", "note": "동정"},
+      {"word": "indulgence", "note": "관용"},
+      {"word": "tolerance", "note": "관대함"},
+      {"word": "leniency", "note": "너그러움"},
+      {"word": "largesse", "note": "후한 기부"}
+    ],
+    "tips": [
+      "라틴어 `caritas`(사랑, 소중히 여김)에서 왔어. 기독교의 핵심 덕목 중 하나!",
+      "GRE에서는 '자선단체' 뜻보다 '관용/자비심'이라는 추상적 뜻이 더 중요해."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "charlatan",
+    "pos": "n.",
+    "head_meanings": ["사기꾼", "돌팔이", "허풍선이"],
+    "synonyms_from_image": [
+      {"word": "con artist", "note": "사기꾼"},
+      {"word": "impostor", "note": "사칭자"},
+      {"word": "fake", "note": "가짜"},
+      {"word": "mountebank", "note": "원래 '벤치 위의 약장수' → 돌팔이 사기꾼"},
+      {"word": "fraud", "note": "사기꾼"},
+      {"word": "swindler", "note": "사기치는 사람"},
+      {"word": "deceiver", "note": "속이는 사람"},
+      {"word": "cheat", "note": "사기꾼"}
+    ],
+    "tips": [
+      "이탈리아어 `ciarlatano`(수다쟁이, 돌팔이 약장수)에서 왔어.",
+      "`mountebank`과 거의 같은 뜻이야. GRE에서 자주 나오는 단어!"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "chary",
+    "pos": "adj.",
+    "head_meanings": ["신중한", "조심하는", "삼가는", "인색한", "아끼는"],
+    "synonyms_from_image": [
+      {"word": "prudent", "note": "신중한"},
+      {"word": "cagey", "note": "속을 안 드러내는"},
+      {"word": "leery", "note": "의심하며 조심하는"},
+      {"word": "alert", "note": "경계하는"},
+      {"word": "heedful", "note": "주의 깊은"},
+      {"word": "wary", "note": "경계하는"},
+      {"word": "shy", "note": "부끄러워하는"},
+      {"word": "vigilant", "note": "방심하지 않는"}
+    ],
+    "tips": [
+      "고대 영어 `cearig`(걱정하는)에서 왔어. `wary`와 거의 같은 뜻이야.",
+      "`chary of` = ~을 꺼리는/조심하는. `She was chary of lending money` = 돈 빌려주기를 꺼렸다."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "chasm",
+    "pos": "n.",
+    "head_meanings": ["깊은 틈", "균열", "단절", "큰 차이"],
+    "synonyms_from_image": [
+      {"word": "crack", "note": "갈라진 틈"},
+      {"word": "fissure", "note": "좁고 깊은 균열"},
+      {"word": "split", "note": "쪼개진 틈"},
+      {"word": "pit", "note": "구멍"},
+      {"word": "gulf", "note": "깊은 만 → 큰 격차"},
+      {"word": "gap", "note": "틈, 격차"},
+      {"word": "crevasse", "note": "빙하의 깊은 틈"},
+      {"word": "crater", "note": "분화구"}
+    ],
+    "tips": [
+      "그리스어 `khasma`(벌어진 틈)에서 왔어.",
+      "GRE에서는 비유적 뜻이 중요해! `a chasm between rich and poor` = 빈부 격차."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "chasten",
+    "pos": "v.",
+    "head_meanings": ["단련하다", "벌하다", "잘 되라고 혼내주다", "겸손하게 만들다"],
+    "synonyms_from_image": [
+      {"word": "discipline", "note": "훈련시키다, 벌하다"},
+      {"word": "rebuke", "note": "꾸짖다"},
+      {"word": "admonish", "note": "충고하며 나무라다"},
+      {"word": "humble", "note": "겸손하게 만들다"}
+    ],
+    "tips": [
+      "라틴어 `castigare`(순수하게 하다)에서 왔어. `chaste`(순결한)와 같은 뿌리! 벌을 줘서 순수하게 만드는 거야.",
+      "`a chastening experience` = 겸손하게 만드는 경험. `chastise`보다 부드러운 뉘앙스야."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "chastise",
+    "pos": "v.",
+    "head_meanings": ["벌하다", "엄하게 꾸짖다", "혼내주다"],
+    "synonyms_from_image": [
+      {"word": "scold", "note": "꾸짖다"},
+      {"word": "upbraid", "note": "면전에서 꾸짖다"},
+      {"word": "berate", "note": "맹렬히 꾸짖다"},
+      {"word": "reprimand", "note": "공식 질책하다"},
+      {"word": "rebuke", "note": "꾸짖다"},
+      {"word": "castigate", "note": "엄하게 비난하다"}
+    ],
+    "tips": [
+      "`chasten`보다 강하고, `castigate`와 비슷한 강도야. 물리적 벌과 언어적 질책 모두 포함해.",
+      "`chastise someone for laziness` = 게으름을 꾸짖다."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "chatty",
+    "pos": "adj.",
+    "head_meanings": ["수다스러운", "이야기가 많은", "허물없는"],
+    "synonyms_from_image": [
+      {"word": "talkative", "note": "말이 많은"},
+      {"word": "communicative", "note": "대화를 좋아하는"},
+      {"word": "expansive", "note": "원래 '넓은'인데, 말을 아끼지 않는 맥락에서 만남"},
+      {"word": "garrulous", "note": "쓸데없는 말이 많은"},
+      {"word": "loquacious", "note": "수다스러운"},
+      {"word": "voluble", "note": "유창하게 말 많은"},
+      {"word": "verbose", "note": "장황한"},
+      {"word": "conversational", "note": "대화체의"}
+    ],
+    "tips": [
+      "`chat`(수다) + `-ty` → 수다스러운. 부정적이라기보다 친근한 느낌이야.",
+      "GRE에서 `garrulous`, `loquacious`, `voluble`은 '말 많은' 동의어 단골 그룹이야."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "chauvinist",
+    "pos": "n.",
+    "head_meanings": ["광신적 배타주의자", "맹목적 애국자"],
+    "synonyms_from_image": [
+      {"word": "jingo", "note": "호전적 애국주의자"},
+      {"word": "jingoist", "note": "호전적 애국주의자"},
+      {"word": "ultranationalist", "note": "극단적 민족주의자"},
+      {"word": "patriot", "note": "원래 '애국자'인데, 맹목적 애국 맥락에서 만남"},
+      {"word": "nationalist", "note": "민족주의자"}
+    ],
+    "tips": [
+      "나폴레옹의 열렬한 병사 Nicolas Chauvin에서 유래! 맹목적으로 충성하는 사람이야.",
+      "`male chauvinist` = 남성 우월주의자. GRE에서는 '맹목적 애국자' 뜻이 더 중요해."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "check",
+    "pos": "v./n.",
+    "head_meanings": ["제지하다", "억제하다", "견제하다"],
+    "synonyms_from_image": [
+      {"word": "halt", "note": "멈추게 하다"},
+      {"word": "constrain", "note": "제약하다"},
+      {"word": "rein", "note": "고삐로 제어하듯 억제하다"},
+      {"word": "curb", "note": "억제하다"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '확인하다'가 아니라 '억제하다/제지하다'로 나와.",
+      "`check the spread of disease` = 질병 확산을 억제하다. `checks and balances` = 견제와 균형."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "cherish",
+    "pos": "v.",
+    "head_meanings": ["소중히 하다", "자상히 돌보다", "마음에 품다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 프랑스어 `cherir`(소중히 하다) ← `cher`(소중한)에서 왔어.",
+      "`cherish a hope` = 희망을 마음에 품다. `cherished belief` = 소중히 여기는 신념."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "chic",
+    "pos": "adj./n.",
+    "head_meanings": ["멋진", "세련된", "우아한", "유행하는"],
+    "synonyms_from_image": [
+      {"word": "stylish", "note": "멋진"},
+      {"word": "smart", "note": "말쑥한"},
+      {"word": "elegant", "note": "우아한"},
+      {"word": "sophisticated", "note": "세련된"},
+      {"word": "dressy", "note": "차려입은"},
+      {"word": "dapper", "note": "깔끔하고 말쑥한"},
+      {"word": "fashionable", "note": "유행하는"},
+      {"word": "trendy", "note": "최신 유행의"},
+      {"word": "natty", "note": "말쑥한, 깔끔한"}
+    ],
+    "tips": [
+      "프랑스어에서 왔어. 발음은 '시크'. 프랑스식 세련됨의 느낌!",
+      "`chic` 자체가 패션 용어로 유명하지만 GRE에서도 나올 수 있어."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "chicanery",
+    "pos": "n.",
+    "head_meanings": ["교활한 수법", "속임수", "궤변"],
+    "synonyms_from_image": [
+      {"word": "dishonesty", "note": "부정직"},
+      {"word": "sophistry", "note": "궤변"},
+      {"word": "stratagem", "note": "교묘한 계략"},
+      {"word": "deception", "note": "속임수"},
+      {"word": "fraud", "note": "사기"}
+    ],
+    "tips": [
+      "프랑스어 `chicaner`(트집 잡다)에서 왔어. 법적·정치적 속임수를 가리킬 때 많이 써.",
+      "`legal chicanery` = 법적 술수. `trickery`, `subterfuge`와 동의어야. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "Chicano",
+    "pos": "n.",
+    "head_meanings": ["멕시코계 미국인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`Mexican-American`의 자기 정체성 표현이야. 1960~70년대 시민권 운동에서 자부심을 담아 쓰기 시작했어.",
+      "GRE 미국사/문화 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "chide",
+    "pos": "v.",
+    "head_meanings": ["꾸짖다", "잔소리하다", "나무라다"],
+    "synonyms_from_image": [
+      {"word": "reprove", "note": "나무라다"},
+      {"word": "rebuke", "note": "꾸짖다"},
+      {"word": "reprimand", "note": "공식 질책하다"},
+      {"word": "admonish", "note": "충고하며 나무라다"},
+      {"word": "lecture", "note": "잔소리하다"},
+      {"word": "upbraid", "note": "면전에서 꾸짖다"}
+    ],
+    "tips": [
+      "고대 영어에서 왔어. '꾸짖다' 계열 중 비교적 가벼운 편이야.",
+      "`chide someone for being late` = 지각했다고 나무라다. `castigate`보다 훨씬 부드러운 뉘앙스."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "chimera",
+    "pos": "n.",
+    "head_meanings": ["근거 없는 환상", "망상", "키메라"],
+    "synonyms_from_image": [
+      {"word": "illusion", "note": "환상, 착각"}
+    ],
+    "tips": [
+      "그리스 신화의 키메라(사자 머리+염소 몸+뱀 꼬리) 괴물에서 유래. 존재할 수 없는 것 → 망상!",
+      "`chimerical` = 비현실적인, 몽상적인. GRE에서 이 형용사형도 나올 수 있어."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "chivalrous",
+    "pos": "adj.",
+    "head_meanings": ["예의 바른", "기사도적인", "여성에게 정중한"],
+    "synonyms_from_image": [
+      {"word": "gallant", "note": "용감하고 예의 바른"},
+      {"word": "polite", "note": "예의 바른"},
+      {"word": "mannerly", "note": "예절 바른"}
+    ],
+    "tips": [
+      "프랑스어 `chevalier`(기사) ← `cheval`(말). 말 타는 기사의 예절에서 유래!",
+      "`chivalry` = 기사도. GRE에서는 '여성에 대한 정중함'보다 '고귀한 행동 규범'이라는 넓은 뜻으로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "choleric",
+    "pos": "adj.",
+    "head_meanings": ["성마른", "화를 잘 내는", "격하기 쉬운"],
+    "synonyms_from_image": [
+      {"word": "irascible", "note": "화를 잘 내는"},
+      {"word": "bad-tempered", "note": "성질 나쁜"},
+      {"word": "irritable", "note": "짜증 잘 내는"},
+      {"word": "crotchety", "note": "까칠한"},
+      {"word": "cranky", "note": "짜증스러운"},
+      {"word": "wrathful", "note": "분노에 찬"},
+      {"word": "tetchy", "note": "신경질적인"},
+      {"word": "testy", "note": "성질 급한"},
+      {"word": "touchy", "note": "예민한"},
+      {"word": "cantankerous", "note": "심술궂은"},
+      {"word": "curmudgeonly", "note": "까다롭고 심술궂은"},
+      {"word": "peevish", "note": "짜증 많은"},
+      {"word": "fractious", "note": "투정부리는"},
+      {"word": "crabbed", "note": "성격이 뒤틀린"},
+      {"word": "waspish", "note": "말벌처럼 쏘아붙이는"}
+    ],
+    "tips": [
+      "그리스어 `khole`(담즙)에서 왔어. 고대 의학에서 노란 담즙(choler)이 과하면 화를 잘 낸다고 봤거든.",
+      "`bilious`(담즙의 → 화 잘 내는)와 같은 체액설에서 나온 단어야. GRE에서 '성질 나쁜' 동의어 그룹의 핵심!"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "choreography",
+    "pos": "n.",
+    "head_meanings": ["안무", "무용 구성"],
+    "synonyms_from_image": [
+      {"word": "ballet", "note": "발레"},
+      {"word": "dancing", "note": "무용"}
+    ],
+    "tips": [
+      "그리스어 `khoreia`(춤) + `graphein`(쓰다) → 춤을 기록하다 = 안무.",
+      "`choreographer` = 안무가. GRE 예술 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "chronic",
+    "pos": "adj.",
+    "head_meanings": ["만성적인", "장기간에 걸친", "고질적인"],
+    "synonyms_from_image": [
+      {"word": "persistent", "note": "지속적인"},
+      {"word": "long-standing", "note": "오래된"},
+      {"word": "long-term", "note": "장기적인"},
+      {"word": "incurable", "note": "치료 불가한"},
+      {"word": "constant", "note": "끊임없는"},
+      {"word": "continuing", "note": "계속되는"},
+      {"word": "ceaseless", "note": "끊이지 않는"},
+      {"word": "unabating", "note": "수그러들지 않는"},
+      {"word": "inveterate", "note": "뿌리 깊은, 고질적인"},
+      {"word": "incorrigible", "note": "교정 불가한"},
+      {"word": "compulsive", "note": "강박적인"}
+    ],
+    "tips": [
+      "그리스어 `khronos`(시간)에서 왔어. 시간이 오래 지속되는 거야. `acute`(급성의)의 반의어!",
+      "GRE에서는 의학적 '만성의' 외에 `chronic liar` = 상습적 거짓말쟁이처럼 비유적으로도 나와."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "chronicle",
+    "pos": "v./n.",
+    "head_meanings": ["v.) 연대기에 기록하다", "n.) 연대기"],
+    "synonyms_from_image": [
+      {"word": "note", "note": "기록하다"},
+      {"word": "set down", "note": "적어두다"},
+      {"word": "list", "note": "목록화하다"},
+      {"word": "recount", "note": "이야기하다"},
+      {"word": "relate", "note": "서술하다"},
+      {"word": "narrate", "note": "서술하다"}
+    ],
+    "tips": [
+      "그리스어 `khronos`(시간) → 시간 순서대로 기록한 것. `chronic`과 같은 뿌리!",
+      "`chronicle the events` = 사건을 연대기적으로 기록하다."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "chronology",
+    "pos": "n.",
+    "head_meanings": ["연대기", "연표", "사건의 연대순 배열"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`khronos`(시간) + `-logy`(학문) → 시간의 학문 = 연대학.",
+      "`in chronological order` = 연대순으로. `chronological`(연대순의)이 형용사형이야."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "churlish",
+    "pos": "adj.",
+    "head_meanings": ["무례한", "야비한", "인색한", "심술궂은"],
+    "synonyms_from_image": [
+      {"word": "rude", "note": "무례한"},
+      {"word": "ill-mannered", "note": "예의 없는"},
+      {"word": "impolite", "note": "무례한"},
+      {"word": "uncivil", "note": "버릇없는"},
+      {"word": "inconsiderate", "note": "배려 없는"},
+      {"word": "gruff", "note": "거칠고 무뚝뚝한"},
+      {"word": "brusque", "note": "퉁명스러운"},
+      {"word": "surly", "note": "불친절하고 무뚝뚝한"},
+      {"word": "sullen", "note": "뚱한, 침울한"}
+    ],
+    "tips": [
+      "고대 영어 `ceorl`(농부, 하인)에서 왔어. '촌뜨기처럼 무례한' 뉘앙스야.",
+      "`It would be churlish to refuse` = 거절하면 예의 없는 거야. `boorish`와 비슷해."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "churn",
+    "pos": "v./n.",
+    "head_meanings": ["v.) 휘젓다, 격동시키다", "n.) 격동, 버터 만드는 통"],
+    "synonyms_from_image": [
+      {"word": "stir", "note": "휘젓다"},
+      {"word": "swirl", "note": "소용돌이치다"},
+      {"word": "agitate", "note": "격렬히 흔들다"}
+    ],
+    "tips": [
+      "원래 버터 만들 때 우유를 '휘젓는' 통(churn)에서 왔어.",
+      "`churn out` = 대량 생산하다. `stomach churning` = 속이 뒤집히는. GRE에서 비유적으로 나와.",
+      "`churning`은 형용사로 '소용돌이치는, 격동하는'이라는 뜻도 있어. `churning waters` = 소용돌이치는 물."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "cipher",
+    "pos": "n.",
+    "head_meanings": ["암호", "부호", "보잘것없는 사람", "0"],
+    "synonyms_from_image": [
+      {"word": "cryptogram", "note": "암호문"},
+      {"word": "cryptograph", "note": "암호 장치"},
+      {"word": "nobody", "note": "보잘것없는 사람"},
+      {"word": "nullity", "note": "무가치한 존재"},
+      {"word": "naught", "note": "영(0), 무"}
+    ],
+    "tips": [
+      "아랍어 `sifr`(빈 것, 0)에서 왔어. `zero`와 같은 어원! 0 → 암호 → 하찮은 사람으로 뜻이 확장됐어.",
+      "GRE에서는 '보잘것없는 사람(nobody)' 뜻이 중요해. `He was a mere cipher` = 그는 그냥 허수아비에 불과했다."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "circuitous",
+    "pos": "adj.",
+    "head_meanings": ["우회하는", "에두르는", "간접적인"],
+    "synonyms_from_image": [
+      {"word": "indirect", "note": "간접적인"},
+      {"word": "oblique", "note": "빗나간, 간접적인"},
+      {"word": "circumlocutory", "note": "돌려 말하는"},
+      {"word": "periphrastic", "note": "우회적 표현의"},
+      {"word": "roundabout", "note": "빙 돌아가는"},
+      {"word": "winding", "note": "구불구불한"},
+      {"word": "meandering", "note": "이리저리 굽이치는"},
+      {"word": "serpentine", "note": "뱀처럼 구불거리는"},
+      {"word": "tortuous", "note": "꼬불꼬불한"}
+    ],
+    "tips": [
+      "`circuit`(회로, 순회) + `-ous` → 빙 돌아가는. 직선이 아니라 돌아서 가는 거야.",
+      "`a circuitous route` = 우회로. `circuitous reasoning` = 빙 돌리는 논리. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "circumlocution",
+    "pos": "n.",
+    "head_meanings": ["완곡한 표현", "돌려 말하기"],
+    "synonyms_from_image": [
+      {"word": "verbiage", "note": "장황한 말"},
+      {"word": "digression", "note": "본론에서 벗어남"},
+      {"word": "periphrasis", "note": "우회적 표현"}
+    ],
+    "tips": [
+      "`circum-`(주위를) + `locution`(말하기) → 빙빙 돌려서 말하기.",
+      "`without circumlocution` = 빙 돌리지 않고 직접적으로. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "circumscribe",
+    "pos": "v.",
+    "head_meanings": ["제한하다", "한계를 정하다", "주위에 선을 긋다"],
+    "synonyms_from_image": [
+      {"word": "restrict", "note": "제한하다"},
+      {"word": "confine", "note": "가두다, 한정하다"},
+      {"word": "restrain", "note": "억제하다"},
+      {"word": "constrict", "note": "조이다, 좁히다"},
+      {"word": "bound", "note": "경계를 짓다"},
+      {"word": "curb", "note": "억제하다"}
+    ],
+    "tips": [
+      "`circum-`(주위에) + `scribe`(쓰다/그리다) → 주위에 선을 그어 한계를 정하는 거야.",
+      "`circumscribed by law` = 법으로 제한된. GRE에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "circumspect",
+    "pos": "adj.",
+    "head_meanings": ["조심성 있는", "신중한", "사려 깊은"],
+    "synonyms_from_image": [
+      {"word": "careful", "note": "조심하는"},
+      {"word": "judicious", "note": "분별력 있는"},
+      {"word": "prudent", "note": "신중한"},
+      {"word": "sagacious", "note": "현명한"},
+      {"word": "watchful", "note": "경계하는"}
+    ],
+    "tips": [
+      "`circum-`(주위를) + `spect`(보다) → 주위를 살피는 = 조심스러운.",
+      "`a circumspect approach` = 신중한 접근. `chary`, `wary`, `prudent`와 동의어야."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "circumvent",
+    "pos": "v.",
+    "head_meanings": ["피하다", "우회하다", "법망을 뚫다"],
+    "synonyms_from_image": [
+      {"word": "sidestep", "note": "옆으로 비켜 피하다"},
+      {"word": "bypass", "note": "우회하다"},
+      {"word": "avoid", "note": "피하다"},
+      {"word": "evade", "note": "교묘히 피하다"},
+      {"word": "dodge", "note": "재빠르게 피하다"},
+      {"word": "thwart", "note": "좌절시키다"},
+      {"word": "frustrate", "note": "좌절시키다"}
+    ],
+    "tips": [
+      "`circum-`(주위를) + `vent`(가다) → 주위를 돌아서 가다 = 우회하다.",
+      "`circumvent the law` = 법을 교묘히 피하다. 부정적 뉘앙스가 강해."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "citadel",
+    "pos": "n.",
+    "head_meanings": ["성채", "요새"],
+    "synonyms_from_image": [
+      {"word": "stronghold", "note": "요새, 거점"},
+      {"word": "fastness", "note": "난공불락의 요새"},
+      {"word": "bastion", "note": "보루"},
+      {"word": "castle", "note": "성"},
+      {"word": "rampart", "note": "성벽"},
+      {"word": "fort", "note": "요새"},
+      {"word": "fortification", "note": "방어 시설"}
+    ],
+    "tips": [
+      "라틴어 `civitas`(도시)에서 왔어. 도시를 지키는 요새가 citadel이야.",
+      "비유적으로 `a citadel of learning` = 학문의 보루."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "cite",
+    "pos": "v.",
+    "head_meanings": ["인용하다", "예로 들다", "언급하다"],
+    "synonyms_from_image": [
+      {"word": "allude to", "note": "간접적으로 언급하다"},
+      {"word": "refer to", "note": "언급하다"},
+      {"word": "specify", "note": "구체적으로 명시하다"},
+      {"word": "mention", "note": "언급하다"},
+      {"word": "exemplify", "note": "예시하다"}
+    ],
+    "tips": [
+      "라틴어 `citare`(부르다, 소환하다)에서 왔어.",
+      "`cite an example` = 예를 들다. `citation` = 인용, 소환장. 학술 논문의 인용도 cite야."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "civic",
+    "pos": "adj.",
+    "head_meanings": ["시민의", "공민의", "도시의"],
+    "synonyms_from_image": [
+      {"word": "municipal", "note": "시(市)의"},
+      {"word": "urban", "note": "도시의"},
+      {"word": "metropolitan", "note": "대도시의"},
+      {"word": "public", "note": "공공의"},
+      {"word": "civil", "note": "시민의"}
+    ],
+    "tips": [
+      "라틴어 `civis`(시민)에서 왔어. `civil`, `civilization`과 같은 뿌리!",
+      "`civic duty` = 시민의 의무. `civic engagement` = 시민 참여."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "civil",
+    "pos": "adj.",
+    "head_meanings": ["시민의", "민간의", "민사의", "공손한", "예의 바른"],
+    "synonyms_from_image": [
+      {"word": "communal", "note": "공동체의"},
+      {"word": "municipal", "note": "시의"},
+      {"word": "civic", "note": "시민의"},
+      {"word": "public", "note": "공공의"},
+      {"word": "genial", "note": "상냥한"},
+      {"word": "cordial", "note": "다정한"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '시민의' 외에 '공손한/예의 바른' 뜻이 있어. 이 뜻이 GRE에 나와!",
+      "`civil` = 최소한의 예의는 갖춘. `polite`보다 약해 — '친절하진 않지만 무례하지도 않은' 정도야."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "clairvoyant",
+    "pos": "adj./n.",
+    "head_meanings": ["천리안의", "통찰력 있는", "예지력 있는 사람"],
+    "synonyms_from_image": [
+      {"word": "foreseeing", "note": "미리 내다보는"},
+      {"word": "intuitive", "note": "직관적인"},
+      {"word": "psychic", "note": "초능력의"},
+      {"word": "prophetic", "note": "예언적인"},
+      {"word": "oracular", "note": "신탁의, 예언의"}
+    ],
+    "tips": [
+      "프랑스어 `clair`(맑은) + `voyant`(보는) → 맑게 보는 = 투시하는.",
+      "`clairvoyance` = 투시력, 예지력. GRE에서는 '뛰어난 통찰력'이라는 비유적 뜻으로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "clamor",
+    "pos": "n./v.",
+    "head_meanings": ["n.) 소란, 떠들썩한 소리", "v.) 시끄럽게 요구하다"],
+    "synonyms_from_image": [
+      {"word": "uproar", "note": "소란"},
+      {"word": "din", "note": "소음"},
+      {"word": "shout", "note": "외치다"},
+      {"word": "bellow", "note": "고함치다"},
+      {"word": "yell", "note": "소리치다"}
+    ],
+    "tips": [
+      "라틴어 `clamare`(외치다)에서 왔어. `exclaim`(외치다)과 같은 뿌리!",
+      "`clamor for change` = 변화를 시끄럽게 요구하다."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "clamorous",
+    "pos": "adj.",
+    "head_meanings": ["떠들썩한", "시끄러운", "시끄럽게 요구하는"],
+    "synonyms_from_image": [
+      {"word": "noisy", "note": "시끄러운"},
+      {"word": "loud", "note": "소리가 큰"},
+      {"word": "vociferous", "note": "큰 소리로 주장하는"},
+      {"word": "raucous", "note": "거칠고 시끄러운"},
+      {"word": "rowdy", "note": "소란스러운"},
+      {"word": "importunate", "note": "끈질기게 조르는"},
+      {"word": "demanding", "note": "요구하는"},
+      {"word": "insistent", "note": "고집스럽게 주장하는"},
+      {"word": "vehement", "note": "격렬한"}
+    ],
+    "tips": [
+      "`clamor`의 형용사형. `vociferous`와 거의 같은 뜻이야.",
+      "`clamorous crowds` = 떠들썩한 군중."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "clan",
+    "pos": "n.",
+    "head_meanings": ["씨족", "일족", "당파"],
+    "synonyms_from_image": [
+      {"word": "tribe", "note": "부족"},
+      {"word": "kinship group", "note": "혈연 집단"},
+      {"word": "circle", "note": "모임"},
+      {"word": "clique", "note": "배타적 도당"},
+      {"word": "coterie", "note": "소규모 동인 그룹"}
+    ],
+    "tips": [
+      "게일어 `clann`(자손, 가족)에서 왔어. 스코틀랜드 씨족이 대표적이야.",
+      "비유적으로 `a clan of supporters` = 지지자 무리."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "clandestine",
+    "pos": "adj.",
+    "head_meanings": ["비밀의", "남몰래 하는", "은밀한"],
+    "synonyms_from_image": [
+      {"word": "covert", "note": "은밀한"},
+      {"word": "surreptitious", "note": "몰래 하는"},
+      {"word": "undercover", "note": "잠입한, 비밀의"},
+      {"word": "furtive", "note": "눈치를 보며 숨기는"},
+      {"word": "stealthy", "note": "살금살금하는"},
+      {"word": "secret", "note": "비밀의"}
+    ],
+    "tips": [
+      "라틴어 `clam`(몰래)에서 왔어.",
+      "`clandestine meeting` = 비밀 회합. GRE에서 `covert`, `surreptitious`, `furtive`와 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "clangor",
+    "pos": "n.",
+    "head_meanings": ["쨍그랑 하는 소리", "금속성의 요란한 소리"],
+    "synonyms_from_image": [
+      {"word": "ringing", "note": "울림"},
+      {"word": "clash", "note": "부딪치는 소리"},
+      {"word": "din", "note": "소음"},
+      {"word": "clank", "note": "철커덕 소리"}
+    ],
+    "tips": [
+      "라틴어 `clangor`(울리는 소리)에서 왔어. 금속이 부딪치는 날카로운 소리야.",
+      "`clangorous` = 쨍그랑 소리를 내는(형용사)."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "clarion",
+    "pos": "adj./n.",
+    "head_meanings": ["맑고 높은", "낭랑한", "나팔"],
+    "synonyms_from_image": [
+      {"word": "clear", "note": "맑은"},
+      {"word": "high-pitched", "note": "높은 음의"},
+      {"word": "ringing", "note": "울려 퍼지는"},
+      {"word": "sharp", "note": "날카로운"},
+      {"word": "resonant", "note": "울림이 있는"},
+      {"word": "sonorous", "note": "울려 퍼지는"}
+    ],
+    "tips": [
+      "라틴어 `clarus`(맑은)에서 왔어. 원래 중세의 맑은 음색 나팔이야.",
+      "`a clarion call` = 분명하고 강한 호소. GRE에서 이 관용구가 나올 수 있어."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "clear-cut",
+    "pos": "adj.",
+    "head_meanings": ["분명한", "명확한", "뚜렷한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`clear`(맑은) + `cut`(잘라낸) → 깔끔하게 잘라낸 듯 분명한.",
+      "`a clear-cut answer` = 명확한 답."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "cleave",
+    "pos": "v.",
+    "head_meanings": ["쪼개다", "틈을 내다", "붙어서다", "고수하다"],
+    "synonyms_from_image": [
+      {"word": "halve", "note": "반으로 나누다"},
+      {"word": "slit", "note": "쪼개다"},
+      {"word": "slice", "note": "자르다"},
+      {"word": "bisect", "note": "이등분하다"},
+      {"word": "crack", "note": "갈라지다"},
+      {"word": "hack", "note": "도끼로 쪼개다"},
+      {"word": "tear", "note": "찢다"}
+    ],
+    "tips": [
+      "GRE 함정 단어! cleave는 정반대 뜻 두 개를 가진 희귀한 단어야:\n1) 쪼개다, 가르다 (cleave wood)\n2) 달라붙다, 고수하다 (cleave to one's beliefs)",
+      "이렇게 정반대 뜻을 가진 단어를 'contronym'이라고 해. GRE 출제자가 좋아하는 유형이야!"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "cleft",
+    "pos": "n./adj.",
+    "head_meanings": ["n.) 쪼개진 틈, 갈라진 금", "adj.) 쪼개진"],
+    "synonyms_from_image": [
+      {"word": "notch", "note": "홈, 새김눈"},
+      {"word": "crack", "note": "갈라진 틈"},
+      {"word": "crevice", "note": "좁은 틈"},
+      {"word": "fissure", "note": "균열"}
+    ],
+    "tips": [
+      "`cleave`(쪼개다)의 과거분사에서 온 명사/형용사야.",
+      "`a cleft in the rock` = 바위의 갈라진 틈."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "clemency",
+    "pos": "n.",
+    "head_meanings": ["관대함", "인자함", "관대한 처분"],
+    "synonyms_from_image": [
+      {"word": "mercifulness", "note": "자비로움"},
+      {"word": "humaneness", "note": "인도적임"},
+      {"word": "leniency", "note": "관대함"},
+      {"word": "charity", "note": "자비"},
+      {"word": "gentleness", "note": "온유함"}
+    ],
+    "tips": [
+      "라틴어 `clemens`(온화한)에서 왔어. `clement`(온화한)의 명사형.",
+      "`grant clemency` = 관대한 처분을 내리다. 주로 법적 맥락에서 '감형/사면'을 뜻해."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "clement",
+    "pos": "adj.",
+    "head_meanings": ["온화한", "관대한", "(기후가) 온화한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`clemency`의 형용사형. 사람과 날씨 모두에 쓸 수 있어.",
+      "`clement weather` = 온화한 날씨. `inclement`(궂은)의 반의어."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "cliché",
+    "pos": "n.",
+    "head_meanings": ["진부한 표현", "상투적 문구"],
+    "synonyms_from_image": [
+      {"word": "platitude", "note": "진부한 말"},
+      {"word": "truism", "note": "너무 당연한 진리"},
+      {"word": "hackneyed expression", "note": "진부한 표현"},
+      {"word": "bromide", "note": "진부한 말, 진정제"}
+    ],
+    "tips": [
+      "프랑스어 인쇄 용어에서 왔어. 같은 판(cliché)으로 찍어내듯 반복되는 말이야.",
+      "`avoid clichés` = 진부한 표현을 피하라. `banal`, `hackneyed`, `trite`와 관련 단어 그룹이야."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "clientele",
+    "pos": "n.",
+    "head_meanings": ["단골손님", "고객층"],
+    "synonyms_from_image": [
+      {"word": "customers", "note": "고객들"},
+      {"word": "patrons", "note": "단골, 후원자"}
+    ],
+    "tips": [
+      "프랑스어에서 왔어. 발음은 '클리언텔'.",
+      "`a loyal clientele` = 충성스러운 고객층. 집합명사로 고객 전체를 가리켜."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "climactic",
+    "pos": "adj.",
+    "head_meanings": ["절정의", "클라이맥스의"],
+    "synonyms_from_image": [
+      {"word": "peak", "note": "정점의"},
+      {"word": "culminating", "note": "최고조에 달하는"}
+    ],
+    "tips": [
+      "`climax`(절정) + `-tic` → 절정의. `climatic`(기후의)과 헷갈리지 마!",
+      "climactic = 절정의 (climax), climatic = 기후의 (climate). GRE에서 이 차이를 물을 수 있어!"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "clique",
+    "pos": "n.",
+    "head_meanings": ["배타적인 도당", "파벌"],
+    "synonyms_from_image": [
+      {"word": "coterie", "note": "소규모 동인 그룹"},
+      {"word": "circle", "note": "모임"},
+      {"word": "gang", "note": "무리"},
+      {"word": "faction", "note": "파벌"},
+      {"word": "cabal", "note": "비밀결사"},
+      {"word": "junto", "note": "정치적 도당"}
+    ],
+    "tips": [
+      "프랑스어 `cliquer`(찰깍 소리내다)에서 왔어. '찰깍' 맞는 사람들끼리만 모이는 거야.",
+      "`cliquish` = 배타적인. GRE에서 `coterie`, `cabal`과 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "cliquish",
+    "pos": "adj.",
+    "head_meanings": ["파벌적인", "배타적인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`clique`(도당) + `-ish` → 도당처럼 배타적인.",
+      "`a cliquish group` = 배타적인 집단. `exclusive`, `insular`와 비슷해."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "cloak",
+    "pos": "v./n.",
+    "head_meanings": ["v.) 은폐하다, 감추다", "n.) 망토, 위장"],
+    "synonyms_from_image": [],
+    "tips": [
+      "망토(cloak)로 몸을 덮듯 무언가를 '감추다'가 비유적 뜻이야.",
+      "`cloak-and-dagger` = 스파이물의, 비밀공작의. `cloaked in mystery` = 미스터리에 싸인."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "clog",
+    "pos": "v./n.",
+    "head_meanings": ["v.) 막히게 하다, 방해하다", "n.) 나막신"],
+    "synonyms_from_image": [],
+    "tips": [
+      "나막신(clog)이 무겁고 거추장스러운 것에서 '방해하다/막히다'가 나왔어.",
+      "`clog the pipes` = 파이프를 막다. `clog the system` = 시스템을 정체시키다."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "clot",
+    "pos": "v./n.",
+    "head_meanings": ["v.) 응고하다", "n.) 덩어리"],
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 영어 `clott`(덩어리)에서 왔어. `blood clot` = 혈전.",
+      "GRE 과학 지문에서 `clot formation` = 혈전 형성 맥락으로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "clout",
+    "pos": "n.",
+    "head_meanings": ["권력", "영향력"],
+    "synonyms_from_image": [
+      {"word": "power", "note": "권력"},
+      {"word": "potency", "note": "힘, 효력"},
+      {"word": "weight", "note": "비중, 영향력"},
+      {"word": "effect", "note": "효과, 영향"},
+      {"word": "ascendancy", "note": "우위, 지배력"}
+    ],
+    "tips": [
+      "원래 '한 방 치다'라는 뜻이었어. 한 방에 상황을 바꿀 수 있는 '힘' → 영향력!",
+      "`political clout` = 정치적 영향력. GRE에서 자주 나오는 단어야."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "cloying",
+    "pos": "adj.",
+    "head_meanings": ["싫증나게 하는", "물리게 하는", "지나치게 달콤한"],
+    "synonyms_from_image": [
+      {"word": "mawkish", "note": "감상적이어서 역겨운"},
+      {"word": "sentimental", "note": "지나치게 감상적인"},
+      {"word": "sappy", "note": "눈물 짜는 듯 감상적인"}
+    ],
+    "tips": [
+      "원래 `cloy`(물리게 하다) ← 중세 프랑스어 '못을 박다(encloyer)' → 너무 꽉 차서 질리는.",
+      "`cloying sweetness` = 물릴 정도로 달콤한. 음식뿐 아니라 감정·태도가 과한 것에도 써."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "clumsy",
+    "pos": "adj.",
+    "head_meanings": ["서투른", "어설픈", "다루기 힘든"],
+    "synonyms_from_image": [
+      {"word": "awkward", "note": "어색한, 서투른"},
+      {"word": "ungainly", "note": "우아하지 못한"},
+      {"word": "graceless", "note": "우아함이 없는"},
+      {"word": "inelegant", "note": "세련되지 못한"},
+      {"word": "inept", "note": "솜씨 없는"},
+      {"word": "maladroit", "note": "재주 없는"},
+      {"word": "unwieldy", "note": "다루기 힘든"},
+      {"word": "cumbersome", "note": "번거롭고 무거운"},
+      {"word": "gauche", "note": "사회적으로 서투른"},
+      {"word": "uncouth", "note": "교양 없는"},
+      {"word": "boorish", "note": "상스러운"},
+      {"word": "crass", "note": "둔감하고 조잡한"},
+      {"word": "tactless", "note": "눈치 없는"}
+    ],
+    "tips": [
+      "중세 영어 `clumse`(손이 얼어붙은)에서 왔어. 손이 얼어서 서투른 이미지야.",
+      "물리적 '서투른'과 사회적 '눈치 없는' 두 뜻 다 GRE에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "coagulate",
+    "pos": "v.",
+    "head_meanings": ["응고시키다", "굳히다"],
+    "synonyms_from_image": [
+      {"word": "curdle", "note": "우유가 응고하다"},
+      {"word": "solidify", "note": "고체화하다"},
+      {"word": "set", "note": "굳다"},
+      {"word": "harden", "note": "딱딱해지다"},
+      {"word": "gel", "note": "젤 상태로 굳다"}
+    ],
+    "tips": [
+      "라틴어 `coagulare`(응고시키다)에서 왔어. `coagulant` = 응고제.",
+      "`blood coagulates` = 피가 응고한다. GRE 과학 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "coalesce",
+    "pos": "v.",
+    "head_meanings": ["합체하다", "융합하다", "하나로 합치다"],
+    "synonyms_from_image": [
+      {"word": "blend", "note": "섞다"},
+      {"word": "unify", "note": "통합하다"},
+      {"word": "integrate", "note": "통합하다"},
+      {"word": "merge", "note": "합병하다"},
+      {"word": "consolidate", "note": "통합·강화하다"}
+    ],
+    "tips": [
+      "라틴어 `co-`(함께) + `alescere`(성장하다) → 함께 자라서 하나가 되다.",
+      "`The parties coalesced into one` = 정당들이 하나로 합쳐졌다. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "coarse",
+    "pos": "adj.",
+    "head_meanings": ["거친", "교양 없는", "상스러운", "조잡한"],
+    "synonyms_from_image": [
+      {"word": "oafish", "note": "미련하고 둔한"},
+      {"word": "loutish", "note": "무식하고 거친"},
+      {"word": "boorish", "note": "상스러운"},
+      {"word": "uncouth", "note": "세련되지 못한"},
+      {"word": "rude", "note": "무례한"},
+      {"word": "vulgar", "note": "저속한"},
+      {"word": "crude", "note": "거칠고 투박한"},
+      {"word": "crass", "note": "둔감하고 조잡한"},
+      {"word": "indelicate", "note": "세심하지 못한"}
+    ],
+    "tips": [
+      "`coarse`는 핵심이 '거친/세련되지 못한'이야:\n1) 물질 → 입자가 굵은 (coarse sand)\n2) 사람/말 → 상스러운 (coarse language)",
+      "`boorish`, `uncouth`, `vulgar`와 동의어야."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "coax",
+    "pos": "v.",
+    "head_meanings": ["구슬리다", "달래서 ~하게 하다"],
+    "synonyms_from_image": [
+      {"word": "persuade", "note": "설득하다"},
+      {"word": "wheedle", "note": "감언으로 꼬시다"},
+      {"word": "cajole", "note": "구슬려 꼬시다"},
+      {"word": "beguile", "note": "매혹하여 속이다"},
+      {"word": "seduce", "note": "유혹하다"},
+      {"word": "inveigle", "note": "감언이설로 꾀다"}
+    ],
+    "tips": [
+      "16세기 속어 `cokes`(바보)에서 왔다는 설이 있어. 바보를 다루듯 살살 달래는 거야.",
+      "`coax someone into doing` = 구슬려서 ~하게 만들다. `cajole`과 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "coddle",
+    "pos": "v.",
+    "head_meanings": ["귀여워하다", "과보호하다", "응석 받아주다"],
+    "synonyms_from_image": [
+      {"word": "pamper", "note": "응석 받아주다"},
+      {"word": "cosset", "note": "귀여워하다"},
+      {"word": "mollycoddle", "note": "지나치게 보호하다"},
+      {"word": "spoil", "note": "버릇없이 기르다"},
+      {"word": "indulge", "note": "마음대로 하게 하다"},
+      {"word": "overindulge", "note": "지나치게 봐주다"}
+    ],
+    "tips": [
+      "원래 '약한 불로 삶다(달걀 등)'라는 뜻이었어. 조심조심 다루는 이미지 → 과보호하다!",
+      "`coddle children` = 아이를 과보호하다. `pamper`와 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "codify",
+    "pos": "v.",
+    "head_meanings": ["법전으로 편찬하다", "체계화하다", "분류 정리하다"],
+    "synonyms_from_image": [
+      {"word": "catalog", "note": "목록화하다"},
+      {"word": "organize", "note": "정리하다"},
+      {"word": "categorize", "note": "분류하다"},
+      {"word": "systematize", "note": "체계화하다"},
+      {"word": "arrange", "note": "배열하다"},
+      {"word": "classify", "note": "분류하다"}
+    ],
+    "tips": [
+      "`code`(법전) + `-ify`(~화하다) → 법전으로 만들다, 체계화하다.",
+      "`codify the rules` = 규칙을 성문화하다. 흩어진 것을 체계적으로 정리하는 거야."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "coercion",
+    "pos": "n.",
+    "head_meanings": ["강제", "압박", "위압", "협박"],
+    "synonyms_from_image": [
+      {"word": "intimidation", "note": "겁주기, 위협"},
+      {"word": "compulsion", "note": "강제"},
+      {"word": "constraint", "note": "제약, 강압"},
+      {"word": "pressure", "note": "압력"},
+      {"word": "threats", "note": "위협"}
+    ],
+    "tips": [
+      "라틴어 `coercere`(억누르다) ← `co-`(함께) + `arcere`(가두다). 힘으로 눌러서 시키는 거야.",
+      "`coerce` = 강요하다(동사). `coercive` = 강압적인(형용사)."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "cogent",
+    "pos": "adj.",
+    "head_meanings": ["설득력 있는", "납득이 가는", "유력한"],
+    "synonyms_from_image": [
+      {"word": "effective", "note": "효과적인"},
+      {"word": "powerful", "note": "강력한"},
+      {"word": "forceful", "note": "힘 있는"},
+      {"word": "valid", "note": "타당한"},
+      {"word": "trenchant", "note": "예리하고 강력한"}
+    ],
+    "tips": [
+      "라틴어 `cogere`(함께 모으다) → 논거를 촘촘히 모아서 설득력 있게 만드는 거야.",
+      "`a cogent argument` = 설득력 있는 논증. GRE에서 매우 자주 나오는 단어!"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "cogitate",
+    "pos": "v.",
+    "head_meanings": ["숙고하다", "깊이 생각하다"],
+    "synonyms_from_image": [
+      {"word": "deliberate", "note": "심사숙고하다"},
+      {"word": "mull over", "note": "곰곰이 생각하다"},
+      {"word": "ponder", "note": "숙고하다"}
+    ],
+    "tips": [
+      "라틴어 `cogitare`(생각하다). 데카르트의 `Cogito, ergo sum`(나는 생각한다, 고로 존재한다)의 그 cogito!",
+      "`cogitation` = 숙고, 사색. 격식체야."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "cognate",
+    "pos": "adj./n.",
+    "head_meanings": ["같은 어원/혈통의", "동족어"],
+    "synonyms_from_image": [
+      {"word": "related", "note": "관련된"},
+      {"word": "akin", "note": "유사한, 동류의"},
+      {"word": "kindred", "note": "혈연의, 유사한"},
+      {"word": "consanguine", "note": "같은 피의, 혈연의"}
+    ],
+    "tips": [
+      "라틴어 `co-`(함께) + `gnatus`(태어난) → 함께 태어난 = 같은 뿌리의.",
+      "언어학에서 `cognate words` = 동족어(night와 독일어 Nacht처럼). GRE 언어학 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "cognitive",
+    "pos": "adj.",
+    "head_meanings": ["인식의", "인지의"],
+    "synonyms_from_image": [
+      {"word": "perceptive", "note": "지각하는"},
+      {"word": "intellectual", "note": "지적인"}
+    ],
+    "tips": [
+      "라틴어 `cognoscere`(알다)에서 왔어. `recognize`와 같은 뿌리!",
+      "`cognitive ability` = 인지 능력. `cognitive dissonance` = 인지 부조화. GRE 심리학 지문 핵심 용어!"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "cognizance",
+    "pos": "n.",
+    "head_meanings": ["인식", "인지", "지식"],
+    "synonyms_from_image": [
+      {"word": "cognition", "note": "인지"},
+      {"word": "notice", "note": "주목"},
+      {"word": "attention", "note": "주의"},
+      {"word": "awareness", "note": "인식"},
+      {"word": "heed", "note": "주의, 유의"}
+    ],
+    "tips": [
+      "라틴어 `cognoscere`(알다)에서 왔어. `cognitive`와 같은 뿌리!",
+      "`take cognizance of` = ~을 인지하다/고려하다. 격식체야."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "cognizant",
+    "pos": "adj.",
+    "head_meanings": ["알고 있는", "인식하고 있는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`cognizance`의 형용사형. `aware`와 같은 뜻이야.",
+      "`cognizant of the risks` = 위험을 인식하고 있는."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "cohere",
+    "pos": "v.",
+    "head_meanings": ["밀착하다", "응집하다", "일관성을 갖다"],
+    "synonyms_from_image": [
+      {"word": "adhere", "note": "달라붙다"},
+      {"word": "cling", "note": "달라붙다"},
+      {"word": "congeal", "note": "응고하다"}
+    ],
+    "tips": [
+      "라틴어 `co-`(함께) + `haerere`(달라붙다) → 함께 붙어있다. `adhere`(달라붙다)와 같은 뿌리!",
+      "`The argument doesn't cohere` = 논리가 일관성이 없다. 물리적·논리적 '결합'에 모두 쓰여."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "coherent",
+    "pos": "adj.",
+    "head_meanings": ["일관성 있는", "조리 있는", "응집성의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`cohere`의 형용사형. `incoherent`(일관성 없는)의 반의어!",
+      "`a coherent argument` = 조리 있는 논증. GRE에서 아주 자주 나오는 단어야."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "coherence",
+    "pos": "n.",
+    "head_meanings": ["일관성", "응집력"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`coherent`의 명사형. 글이나 논리가 처음부터 끝까지 '하나로 붙어있는' 거야.",
+      "`lack of coherence` = 일관성 부족. GRE 작문에서도 중요한 개념이야."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "cohesion",
+    "pos": "n.",
+    "head_meanings": ["결속", "응집력", "단결력"],
+    "synonyms_from_image": [
+      {"word": "adherence", "note": "달라붙음, 고수"},
+      {"word": "adhesion", "note": "점착, 접착"},
+      {"word": "coherence", "note": "일관성, 응집"},
+      {"word": "congruity", "note": "일치, 조화"},
+      {"word": "cohesiveness", "note": "응집성"}
+    ],
+    "tips": [
+      "라틴어 `cohaesio`(함께 붙음). `coherence`와 비슷하지만 cohesion은 더 '물리적 결합/단결' 느낌이야.",
+      "`social cohesion` = 사회적 결속. `team cohesion` = 팀 단결력."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "cohorts",
+    "pos": "n.",
+    "head_meanings": ["(같은 특성을 가진) 집단", "동료", "공범자", "로마 보병대"],
+    "synonyms_from_image": [
+      {"word": "accomplice", "note": "공범"},
+      {"word": "associate", "note": "동료"},
+      {"word": "companion", "note": "동반자"},
+      {"word": "friend", "note": "친구"},
+      {"word": "military unit", "note": "군사 단위"}
+    ],
+    "tips": [
+      "원래 로마군의 보병 부대(600명)를 뜻했어. 지금은 '같은 나이/특성의 집단'이나 '동료/공범'으로 써.",
+      "GRE에서는 통계학의 `cohort study` = 코호트 연구(동일 집단 추적 조사)로도 나올 수 있어."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "coincident",
+    "pos": "adj.",
+    "head_meanings": ["일치하는", "동시에 일어나는"],
+    "synonyms_from_image": [
+      {"word": "accompanying", "note": "수반하는"},
+      {"word": "simultaneous", "note": "동시의"},
+      {"word": "synchronous", "note": "동시 발생의"},
+      {"word": "concurrent", "note": "동시에 진행하는"},
+      {"word": "identical", "note": "동일한"}
+    ],
+    "tips": [
+      "라틴어 `co-`(함께) + `incidere`(떨어지다) → 함께 떨어지는 = 동시에 일어나는.",
+      "`coincident with` = ~와 동시에 일어나는. `coincidence`(우연의 일치)의 형용사형."
+    ]
+  }
+]

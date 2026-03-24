@@ -1,0 +1,1786 @@
+[
+  {
+    "id": "001",
+    "word": "blunder",
+    "pos": "n./v.",
+    "head_meanings": [
+      "큰 실수",
+      "터무니없는 실수",
+      "실수하다",
+      "일을 그르치다"
+    ],
+    "synonyms_from_image": [
+      {"word": "gaffe", "note": "사회적으로 민망한 실수"},
+      {"word": "indiscretion", "note": "분별없는 행동/실수"},
+      {"word": "slip", "note": "사소한 실수"}
+    ],
+    "tips": [
+      "중세 영어에서 '눈이 멀다, 비틀거리다'에서 왔어. 앞을 못 보고 비틀대다가 실수하는 이미지야.",
+      "`blunder`는 단순 실수가 아니라 '큰' 실수야. `a diplomatic blunder` = 외교적 대실수."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "blunt",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "adj.) 무딘, 둔한",
+      "adj.) 무뚝뚝한, 직설적인",
+      "v.) 무디게 하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`blunt`는 핵심이 '날이 안 선' 상태야:\n1) 물리적 → 무딘 (a blunt knife)\n2) 말투 → 무뚝뚝하고 직설적인 (blunt criticism)\n3) 감정 → 둔화시키다 (blunt the pain)",
+      "GRE에서는 '직설적인'과 '둔화시키다' 뜻이 중요해."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "blur",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 흐리게 하다, 모호하게 하다",
+      "n.) 흐릿한 것"
+    ],
+    "synonyms_from_image": [
+      {"word": "smear", "note": "문질러 번지게 하다"},
+      {"word": "smudge", "note": "얼룩지게 번지다"}
+    ],
+    "tips": [
+      "`blur the line/boundary` = 경계를 모호하게 하다. GRE에서 이 비유적 용법이 자주 나와.",
+      "`blurred` = 흐릿한, 모호한. `a blurred distinction` = 모호한 구분."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "blurt",
+    "pos": "v.",
+    "head_meanings": [
+      "불쑥 말하다",
+      "무심코 말하다",
+      "비밀을 누설하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "divulge", "note": "비밀을 폭로하다"},
+      {"word": "reveal", "note": "드러내다"},
+      {"word": "disclose", "note": "공개하다"},
+      {"word": "betray", "note": "원래 '배반하다'인데, 비밀을 누설하는 맥락에서 만남"}
+    ],
+    "tips": [
+      "`blurt out` = 불쑥 내뱉다. 생각 없이 튀어나오는 느낌이야. 의성어적 단어!",
+      "`She blurted out the secret` = 비밀을 무심코 내뱉었다."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "bluster",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 으르렁거리다, 허세를 부리다",
+      "v.) (바람이) 거세게 몰아치다",
+      "n.) 허세, 호통"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "바람이 세차게 불어대듯, 사람이 큰소리로 으르렁대는 거야. 실속 없이 겉만 세게 나오는 느낌.",
+      "`all bluster and no action` = 허세만 있고 행동은 없는. `blustering` = 허세 부리는."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "boast",
+    "pos": "v./n.",
+    "head_meanings": [
+      "자랑하다",
+      "과장하다",
+      "큰소리치다"
+    ],
+    "synonyms_from_image": [
+      {"word": "brag", "note": "자랑하다, 허풍치다"},
+      {"word": "swagger", "note": "으스대다"},
+      {"word": "gloat", "note": "남의 불행을 보고 고소해하며 자랑하다"},
+      {"word": "exaggerate", "note": "과장하다"}
+    ],
+    "tips": [
+      "`boast of/about` = ~을 자랑하다. `boast`에는 긍정적 뜻도 있어: `The city boasts a fine museum` = 이 도시에는 훌륭한 박물관이 있다.",
+      "GRE 함정 뜻! '자랑하다' 외에 '~을 갖추고 있다(자랑거리로 가지다)'라는 뜻도 있어."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "bode",
+    "pos": "v.",
+    "head_meanings": [
+      "전조가 되다",
+      "예시하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "foretell", "note": "미리 알리다"},
+      {"word": "prophesy", "note": "예언하다"},
+      {"word": "herald", "note": "~의 도래를 알리다"},
+      {"word": "adumbrate", "note": "어렴풋이 암시하다"},
+      {"word": "portend", "note": "전조가 되다"}
+    ],
+    "tips": [
+      "고대 영어 `bodian`(알리다)에서 왔어. `bode well/ill` = 좋은/나쁜 전조가 되다.",
+      "`This bodes well for the future` = 이것은 미래에 좋은 징조다. 거의 이 패턴으로만 쓰여."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "boggle",
+    "pos": "v.",
+    "head_meanings": [
+      "깜짝 놀라다",
+      "멈칫하다",
+      "망설이다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`mind-boggling` = 상상을 초월하는, 놀라운. 이 합성어가 GRE에서 가장 자주 나와!",
+      "`The mind boggles` = 정신이 아찔하다. 너무 놀라서 머리가 멈추는 느낌이야."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "bogus",
+    "pos": "adj.",
+    "head_meanings": [
+      "가짜의",
+      "위조의",
+      "사기의"
+    ],
+    "synonyms_from_image": [
+      {"word": "fraudulent", "note": "사기성의"},
+      {"word": "spurious", "note": "겉으로만 진짜 같은 가짜"},
+      {"word": "forged", "note": "위조된"},
+      {"word": "counterfeit", "note": "모조품인"}
+    ],
+    "tips": [
+      "19세기 미국에서 위조 화폐 만드는 기계를 `bogus`라 불렀던 데서 유래했어.",
+      "`bogus claims` = 허위 주장. `spurious`와 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "boisterous",
+    "pos": "adj.",
+    "head_meanings": [
+      "떠들썩한",
+      "시끄러운",
+      "거친",
+      "사나운"
+    ],
+    "synonyms_from_image": [
+      {"word": "rambunctious", "note": "통제 안 될 정도로 떠들썩한"},
+      {"word": "clamorous", "note": "시끄럽게 떠드는"},
+      {"word": "rowdy", "note": "소란스러운"}
+    ],
+    "tips": [
+      "중세 영어 `boistous`(거친, 투박한)에서 왔어. 에너지가 넘쳐서 시끄러운 느낌이야.",
+      "`boisterous laughter` = 호탕한 웃음. `boisterous crowd` = 떠들썩한 군중."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "bolster",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 보강하다, 든든하게 하다, 지지하다",
+      "n.) 뒷베개, 받침"
+    ],
+    "synonyms_from_image": [
+      {"word": "buttress", "note": "버팀벽으로 받치듯 지지하다"},
+      {"word": "reinforce", "note": "강화하다"},
+      {"word": "sustain", "note": "유지하다, 떠받치다"},
+      {"word": "shore up", "note": "무너지지 않게 받쳐주다"}
+    ],
+    "tips": [
+      "원래 '긴 베개(뒷베개)'라는 뜻이야. 베개로 받쳐주듯 '지지하다/보강하다'가 된 거야.",
+      "`bolster confidence` = 자신감을 북돋다. `bolster an argument` = 논거를 보강하다. GRE에서 매우 자주 나오는 단어!"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "bombastic",
+    "pos": "adj.",
+    "head_meanings": [
+      "과장된",
+      "허풍 떠는",
+      "거창한 말만 늘어놓는"
+    ],
+    "synonyms_from_image": [
+      {"word": "pompous", "note": "거드름 피우는"},
+      {"word": "grandiloquent", "note": "거창한 말투의"},
+      {"word": "turgid", "note": "부풀려진, 과장된"},
+      {"word": "orotund", "note": "거창하고 울림 있는"},
+      {"word": "pretentious", "note": "잘난 체하는"}
+    ],
+    "tips": [
+      "원래 `bombast`는 솜을 넣어 부풀리는 '충전재'였어. 속은 텅 비었는데 겉만 부풀린 → 과장된 말.",
+      "`bombastic rhetoric` = 거창하기만 한 수사. GRE에서 `grandiloquent`, `turgid`, `pompous`와 함께 '과장된 문체' 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "bombard",
+    "pos": "v.",
+    "head_meanings": [
+      "포격하다",
+      "(질문·요청 등을) 퍼붓다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`bombard someone with questions` = 질문을 퍼붓다. GRE에서는 비유적 뜻이 더 중요해.",
+      "`bombardment` = 폭격, 집중 공세. `barrage`와 비슷한 이미지야."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "bombshell",
+    "pos": "n.",
+    "head_meanings": [
+      "충격적인 소식",
+      "폭탄선언"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`bomb`(폭탄) + `shell`(탄피) → 폭탄이 떨어진 것 같은 충격적 소식.",
+      "`drop a bombshell` = 폭탄선언을 하다."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "bona fide",
+    "pos": "adj.",
+    "head_meanings": [
+      "진실한",
+      "진짜의",
+      "진품의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어로 '선의로(in good faith)'라는 뜻이야. 법률 용어에서 왔어.",
+      "`a bona fide offer` = 진정한 제안. `authentic`, `genuine`과 동의어야."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "bonanza",
+    "pos": "n.",
+    "head_meanings": [
+      "뜻밖의 행운",
+      "횡재",
+      "풍부한 광맥"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "스페인어로 '좋은 날씨/번영'이라는 뜻이야. 미국 서부 금광 시대에 큰 광맥을 발견했을 때 쓰던 말!",
+      "`an oil bonanza` = 석유 횡재. `windfall`과 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "bonhomie",
+    "pos": "n.",
+    "head_meanings": [
+      "상냥함",
+      "쾌활함",
+      "따뜻한 친근감"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "프랑스어 `bon`(좋은) + `homme`(사람) → 좋은 사람다운 따뜻한 분위기. 발음은 '보너미'.",
+      "`an air of bonhomie` = 친근하고 쾌활한 분위기."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "bookish",
+    "pos": "adj.",
+    "head_meanings": [
+      "독서에 몰두하는",
+      "학자풍의",
+      "탁상공론의",
+      "실제적이지 않은"
+    ],
+    "synonyms_from_image": [
+      {"word": "pedantic", "note": "학식을 뽐내는, 현학적인"},
+      {"word": "academic", "note": "학문적인, 현실과 동떨어진"},
+      {"word": "erudite", "note": "박식한"}
+    ],
+    "tips": [
+      "`bookish`는 두 가지 뉘앙스가 있어:\n1) 중립/긍정: 독서를 좋아하는, 학구적인\n2) 부정: 현실 감각 없이 책에만 빠진, 탁상공론의",
+      "GRE에서는 부정적 뉘앙스('실제 경험 없이 책으로만 아는')로 나올 가능성이 높아."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "boon",
+    "pos": "n.",
+    "head_meanings": [
+      "혜택",
+      "은혜",
+      "이로운 것"
+    ],
+    "synonyms_from_image": [
+      {"word": "blessing", "note": "축복, 은혜"},
+      {"word": "benefit", "note": "이익, 혜택"},
+      {"word": "advantage", "note": "이점"},
+      {"word": "asset", "note": "자산, 이로운 것"}
+    ],
+    "tips": [
+      "고대 노르드어 `bón`(기도, 청원)에서 왔어. 기도해서 받은 은혜라는 느낌!",
+      "`a boon to/for` = ~에게 큰 혜택. `The new highway was a boon for commuters`."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "boorish",
+    "pos": "adj.",
+    "head_meanings": [
+      "거친",
+      "상스러운",
+      "촌스러운",
+      "무례한"
+    ],
+    "synonyms_from_image": [
+      {"word": "crude", "note": "거칠고 세련되지 못한"},
+      {"word": "oafish", "note": "미련하고 둔한"},
+      {"word": "coarse", "note": "상스러운, 거친"},
+      {"word": "ill-bred", "note": "교양 없는"}
+    ],
+    "tips": [
+      "`boor`(촌뜨기) + `-ish`. 네덜란드어 `boer`(농부)에서 왔어.",
+      "`boorish behavior` = 무례하고 상스러운 행동. `churlish`, `uncouth`와 동의어야."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "bootless",
+    "pos": "adj.",
+    "head_meanings": [
+      "쓸모없는",
+      "무익한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! '부츠 없는'이 아니라 '이익(boot, 고어) 없는' → 쓸모없는.",
+      "`a bootless effort` = 헛된 노력. `futile`, `vain`과 동의어야."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "boost",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 밀어 올리다, 격려하다, 증대하다",
+      "n.) 격려, 부양, 증가"
+    ],
+    "synonyms_from_image": [
+      {"word": "elevate", "note": "높이다"},
+      {"word": "promote", "note": "촉진하다"},
+      {"word": "encourage", "note": "격려하다"}
+    ],
+    "tips": [
+      "`boost morale/confidence` = 사기/자신감을 북돋다. `bolster`와 비슷하지만 boost가 더 일상적이야.",
+      "`a boost to the economy` = 경제 부양."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "border (on)",
+    "pos": "v.",
+    "head_meanings": [
+      "~에 가깝다",
+      "거의 ~같다",
+      "인접하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 핵심 용법: `border on` = 거의 ~에 가깝다. `His behavior borders on insanity` = 그의 행동은 미친 짓에 가깝다.",
+      "'국경'이라는 명사 뜻은 다 알지만, '~에 근접하다'라는 동사 뜻이 GRE 포인트야."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "boring",
+    "pos": "adj.",
+    "head_meanings": [
+      "지루한",
+      "따분한"
+    ],
+    "synonyms_from_image": [
+      {"word": "tedious", "note": "길고 지루한"},
+      {"word": "monotonous", "note": "단조로운"},
+      {"word": "jejune", "note": "유치하고 재미없는"},
+      {"word": "insipid", "note": "맛없고 흥미없는"},
+      {"word": "humdrum", "note": "단조롭고 지루한"},
+      {"word": "dreary", "note": "쓸쓸하고 지루한"},
+      {"word": "pedestrian", "note": "원래 '보행자'인데, 평범하고 재미없는 맥락에서 만남"}
+    ],
+    "tips": [
+      "GRE에서 boring의 고급 동의어를 아는 것이 중요해: `tedious`, `monotonous`, `jejune`, `insipid`, `humdrum`, `pedestrian`, `prosaic`.",
+      "뉘앙스 차이: tedious=길어서 지루, monotonous=반복이라 지루, jejune=유치해서 지루, insipid=맛없어서 지루."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "bountiful",
+    "pos": "adj.",
+    "head_meanings": [
+      "풍부한",
+      "관대한",
+      "자애로운"
+    ],
+    "synonyms_from_image": [
+      {"word": "lavish", "note": "아낌없이 풍부한"},
+      {"word": "copious", "note": "양이 많은"},
+      {"word": "profuse", "note": "넘칠 정도로 풍부한"},
+      {"word": "plentiful", "note": "충분하고 풍부한"}
+    ],
+    "tips": [
+      "`bounty`(관대함, 풍족함) + `-ful` → 풍족함으로 가득한.",
+      "`a bountiful harvest` = 풍성한 수확. `bounteous`는 같은 뜻의 동의어야."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "bounty",
+    "pos": "n.",
+    "head_meanings": [
+      "관대함",
+      "풍족함",
+      "현상금",
+      "보상금"
+    ],
+    "synonyms_from_image": [
+      {"word": "generosity", "note": "관대함"},
+      {"word": "munificence", "note": "아낌없는 베풂"},
+      {"word": "largesse", "note": "후한 선물/기부"},
+      {"word": "reward", "note": "보상, 포상금"}
+    ],
+    "tips": [
+      "라틴어 `bonitas`(선함)에서 왔어. 핵심이 '넘치도록 주는 것'이야:\n1) 자연/사람의 관대함 → 풍족, 관대\n2) 정부/기관이 주는 → 현상금, 보상금",
+      "`bounty hunter` = 현상금 사냥꾼. `nature's bounty` = 자연의 풍요."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "bowdlerize",
+    "pos": "v.",
+    "head_meanings": [
+      "(책에서 불온·외설 부분을) 삭제 수정하다",
+      "검열하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "censor", "note": "검열하다"},
+      {"word": "expurgate", "note": "불온한 부분을 삭제하다"},
+      {"word": "excise", "note": "잘라내다"},
+      {"word": "purge", "note": "제거하다"}
+    ],
+    "tips": [
+      "토머스 바우들러(Thomas Bowdler)가 셰익스피어 작품에서 '부적절한' 부분을 잘라낸 데서 유래!",
+      "GRE 단골 단어! `expurgate`와 거의 같은 뜻이야. 원작을 함부로 수정한다는 부정적 뉘앙스."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "brace",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 기운을 북돋다, 강화하다, 대비하다",
+      "n.) 버팀대, 보조기"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`brace`는 핵심이 '단단히 버티다/받치다'야. `brace yourself` = 마음의 준비를 해.",
+      "`bracing` = 기운을 북돋는, 상쾌한. `bracing cold air` = 상쾌한 찬 공기."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "brackish",
+    "pos": "adj.",
+    "head_meanings": [
+      "소금기 있는",
+      "맛없는",
+      "불쾌한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "바다와 민물이 섞이는 기수(汽水) 지역의 물이 brackish water야.",
+      "GRE 과학 지문에서 `brackish water` = 기수(바다·민물 혼합)로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "braggadocio",
+    "pos": "n.",
+    "head_meanings": [
+      "큰 허풍",
+      "지나친 자랑",
+      "허풍선이"
+    ],
+    "synonyms_from_image": [
+      {"word": "swaggering", "note": "으스댐"},
+      {"word": "boastfulness", "note": "자랑벽"},
+      {"word": "big talk", "note": "큰소리"},
+      {"word": "cockiness", "note": "건방진 자신감"}
+    ],
+    "tips": [
+      "스펜서의 시 <요정 여왕>에 나오는 허풍쟁이 캐릭터 이름에서 유래했어!",
+      "`mere braggadocio` = 허풍에 불과한. `bravado`와 비슷하지만 braggadocio는 '자랑' 쪽, bravado는 '가짜 용기' 쪽."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "braggart",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "n.) 허풍선이",
+      "adj.) 자랑하는, 허풍 떠는"
+    ],
+    "synonyms_from_image": [
+      {"word": "boaster", "note": "자랑하는 사람"},
+      {"word": "blowhard", "note": "허풍쟁이"},
+      {"word": "swagger", "note": "으스대는 사람"},
+      {"word": "poseur", "note": "잘난 체하는 사람"}
+    ],
+    "tips": [
+      "`brag`(자랑하다) + `-art`(사람) → 자랑하는 사람.",
+      "`braggadocio`가 '허풍 행위/말' 자체라면, `braggart`는 '허풍을 치는 사람'이야."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "brash",
+    "pos": "adj.",
+    "head_meanings": [
+      "성급한",
+      "경솔한",
+      "뻔뻔스러운",
+      "건방진"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`brash`는 '어리고 겁 없이 나서는' 느낌이야. audacious보다 더 부정적.",
+      "`a brash young man` = 건방지고 경솔한 젊은이."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "brassy",
+    "pos": "adj.",
+    "head_meanings": [
+      "뻔뻔스러운",
+      "놋쇠 같은",
+      "거슬리는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`brass`(놋쇠) + `-y` → 놋쇠처럼 번쩍거리고 시끄러운 → 뻔뻔한.",
+      "`brazen`과 비슷하지만 brassy는 좀 더 '시끄럽고 천박한' 뉘앙스야. `a brassy voice` = 귀에 거슬리는 목소리."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "bravado",
+    "pos": "n.",
+    "head_meanings": [
+      "허세",
+      "허장성세"
+    ],
+    "synonyms_from_image": [
+      {"word": "bluster", "note": "허세, 으르렁대기"},
+      {"word": "bombast", "note": "과장된 허세"},
+      {"word": "braggadocio", "note": "지나친 허풍"},
+      {"word": "swagger", "note": "으스댐"}
+    ],
+    "tips": [
+      "스페인어 `bravada`에서 왔어. 용감한 척하지만 속으로는 두려운 '가짜 용기'야.",
+      "`false bravado` = 거짓 허세. `bluster`와 비슷하지만 bravado는 '두려움을 숨기려는 허세' 뉘앙스가 강해."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "brawn",
+    "pos": "n.",
+    "head_meanings": [
+      "억센 근육",
+      "완력",
+      "체력"
+    ],
+    "synonyms_from_image": [
+      {"word": "muscles", "note": "근육"},
+      {"word": "robustness", "note": "튼튼함"},
+      {"word": "stamina", "note": "체력, 지구력"}
+    ],
+    "tips": [
+      "고대 프랑스어 `braon`(살코기)에서 왔어. `brawny` = 근육질의.",
+      "`brains vs brawn` = 두뇌 대 완력. GRE에서 이 대비 구조로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "brazen",
+    "pos": "adj.",
+    "head_meanings": [
+      "뻔뻔스러운",
+      "파렴치한",
+      "놋쇠의"
+    ],
+    "synonyms_from_image": [
+      {"word": "impudent", "note": "부끄러움을 모르는"},
+      {"word": "shameless", "note": "수치심이 없는"},
+      {"word": "audacious", "note": "원래 '대담한'인데, 뻔뻔한 맥락에서 만남"},
+      {"word": "barefaced", "note": "맨얼굴로 노골적인"}
+    ],
+    "tips": [
+      "원래 '놋쇠(brass)로 만든'이야. 놋쇠처럼 두꺼운 면상 → 뻔뻔한!",
+      "`brazen lie` = 뻔뻔한 거짓말. `brazen it out` = 뻔뻔하게 버티다."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "breach",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 위반, 불이행",
+      "n.) (성벽 등의) 균열, 틈",
+      "v.) 위반하다, 뚫다"
+    ],
+    "synonyms_from_image": [
+      {"word": "violation", "note": "위반"},
+      {"word": "infraction", "note": "규칙 위반"},
+      {"word": "transgression", "note": "법/도덕의 위반"},
+      {"word": "infringement", "note": "권리 침해"}
+    ],
+    "tips": [
+      "`breach`는 핵심이 '깨뜨리고 뚫는 것'이야:\n1) 법/계약 → 위반 (breach of contract)\n2) 관계 → 균열 (breach of trust)\n3) 물리적 → 돌파구 (breach in the wall)",
+      "`breach of protocol` = 의전 위반. GRE에서 매우 자주 나오는 단어!"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "breadth",
+    "pos": "n.",
+    "head_meanings": [
+      "넓이",
+      "폭",
+      "(지식·경험의) 폭, 범위"
+    ],
+    "synonyms_from_image": [
+      {"word": "scope", "note": "범위"},
+      {"word": "range", "note": "범위, 폭"},
+      {"word": "latitude", "note": "원래 '위도'인데, 범위/여유의 폭이라는 맥락에서 만남"}
+    ],
+    "tips": [
+      "`broad`(넓은) + `-th`(명사화) → 넓이. `width`가 물리적 폭이라면, breadth는 비유적 폭도 포함해.",
+      "`breadth of knowledge` = 지식의 폭. `depth and breadth` = 깊이와 넓이."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "breakthrough",
+    "pos": "n.",
+    "head_meanings": [
+      "돌파",
+      "비약적 발전",
+      "획기적 진전"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`break`(깨다) + `through`(관통하여) → 장벽을 깨고 관통하는 것.",
+      "`a scientific breakthrough` = 과학적 혁신."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "brevity",
+    "pos": "n.",
+    "head_meanings": [
+      "간결함",
+      "(시간의) 짧음"
+    ],
+    "synonyms_from_image": [
+      {"word": "shortness", "note": "짧음"},
+      {"word": "transience", "note": "일시성, 덧없음"},
+      {"word": "ephemerality", "note": "순간적임, 덧없음"},
+      {"word": "conciseness", "note": "간결함"}
+    ],
+    "tips": [
+      "라틴어 `brevis`(짧은)에서 왔어. `brief`와 같은 뿌리!",
+      "`Brevity is the soul of wit` = 간결함은 재치의 핵심이다 (셰익스피어 <햄릿>)."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "bridgeable",
+    "pos": "adj.",
+    "head_meanings": [
+      "다리를 놓을 수 있는",
+      "메워질 수 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`bridge`(다리, 잇다) + `-able` → 연결할 수 있는.",
+      "`a bridgeable gap` = 메울 수 있는 격차. 반의어 `unbridgeable`도 알아둬."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "bridle",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 억제하다, 고삐를 채우다",
+      "v.) 발끈하다",
+      "n.) 고삐, 굴레"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "말에 채우는 고삐(bridle)로 말을 통제하듯 감정이나 행동을 '억제하다'는 뜻이야.",
+      "`bridle one's anger` = 분노를 억제하다. `bridle at` = ~에 발끈하다."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "brisk",
+    "pos": "adj.",
+    "head_meanings": [
+      "활발한",
+      "활기찬",
+      "(날씨가) 상쾌한",
+      "(장사가) 번창하는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`a brisk walk` = 빠르고 활기찬 걸음. `brisk business` = 잘 되는 장사.",
+      "`brisk pace` = 빠른 속도. GRE 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "bristle",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 성내다, 발끈하다",
+      "v.) 털을 곤두세우다",
+      "v.) ~으로 가득 차다",
+      "n.) 억센 털"
+    ],
+    "synonyms_from_image": [
+      {"word": "irate", "note": "분노한"},
+      {"word": "infuriated", "note": "격분한"}
+    ],
+    "tips": [
+      "고양이가 화나면 등 털을 곤두세우는 모습이 bristle이야. 여기서 '성내다'가 나왔어.",
+      "`bristle at` = ~에 발끈하다. `The area bristles with police` = 경찰로 가득하다."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "brittle",
+    "pos": "adj.",
+    "head_meanings": [
+      "부서지기 쉬운",
+      "깨지기 쉬운",
+      "(태도가) 차갑고 완고한"
+    ],
+    "synonyms_from_image": [
+      {"word": "fragile", "note": "연약한, 깨지기 쉬운"},
+      {"word": "frangible", "note": "부서지기 쉬운"},
+      {"word": "friable", "note": "바스러지기 쉬운"}
+    ],
+    "tips": [
+      "`brittle`은 fragile과 비슷하지만 '탄력 없이 딱 부러지는' 느낌이 강해.",
+      "`a brittle smile` = 겉으로만 짓는 차가운 미소. `brittle relationship` = 금방이라도 깨질 관계."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "broach",
+    "pos": "v.",
+    "head_meanings": [
+      "(화제를) 꺼내다",
+      "제기하다",
+      "발의하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "mention", "note": "언급하다"},
+      {"word": "propose", "note": "제안하다"},
+      {"word": "suggest", "note": "제의하다"}
+    ],
+    "tips": [
+      "원래 '통에 구멍을 뚫어 술을 따르다'라는 뜻이었어. 닫힌 것을 뚫어 열듯 '화제를 꺼내다'가 된 거야.",
+      "`broach the subject` = 화제를 꺼내다. `breach`(위반)와 헷갈리지 마!"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "bromide",
+    "pos": "n.",
+    "head_meanings": [
+      "진부한 말",
+      "상투적 문구",
+      "진정제"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "19세기에 브롬화칼륨이 진정제로 쓰였어. 진정제처럼 자극 없고 지루한 → '진부한 말'.",
+      "`platitude`, `cliché`, `truism`과 동의어야."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "brook",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 참다, 견디다",
+      "n.) 시내, 개울"
+    ],
+    "synonyms_from_image": [
+      {"word": "tolerate", "note": "참다, 견디다"},
+      {"word": "bear", "note": "감당하다"},
+      {"word": "abide", "note": "견디다"},
+      {"word": "stomach", "note": "원래 '위장'인데, (불쾌한 것을) 참다는 맥락에서 만남"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '시내'가 아니라 동사 '참다/견디다'로 나와.",
+      "`brook no opposition` = 반대를 용납하지 않다. 보통 부정문에서 쓰여."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "browbeat",
+    "pos": "v.",
+    "head_meanings": [
+      "위협하다",
+      "윽박지르다",
+      "위압하여 굴복시키다"
+    ],
+    "synonyms_from_image": [
+      {"word": "intimidate", "note": "겁을 주다"},
+      {"word": "domineer", "note": "횡포를 부리다"},
+      {"word": "tyrannize", "note": "폭군처럼 군림하다"},
+      {"word": "bully", "note": "약자를 괴롭히다"}
+    ],
+    "tips": [
+      "`brow`(이마) + `beat`(때리다) → 이마를 찌푸리며 노려봐서 기를 꺾는 거야.",
+      "`browbeat someone into submission` = 위압해서 굴복시키다."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "brusque",
+    "pos": "adj.",
+    "head_meanings": [
+      "무뚝뚝한",
+      "퉁명스러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "gruff", "note": "거칠고 무뚝뚝한"},
+      {"word": "curt", "note": "짧고 퉁명스러운"},
+      {"word": "terse", "note": "원래 '간결한'인데, 무뚝뚝하게 짧은 맥락에서 만남"},
+      {"word": "crusty", "note": "성격이 딱딱하고 퉁명스러운"}
+    ],
+    "tips": [
+      "이탈리아어 `brusco`(거친)에서 왔어. 발음은 '브러스크'.",
+      "`a brusque manner` = 무뚝뚝한 태도. `curt`, `gruff`, `blunt`와 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "bucolic",
+    "pos": "adj.",
+    "head_meanings": [
+      "목가적인",
+      "전원생활의",
+      "시골의"
+    ],
+    "synonyms_from_image": [
+      {"word": "pastoral", "note": "목자의, 전원적인"},
+      {"word": "rustic", "note": "시골풍의"},
+      {"word": "Arcadian", "note": "그리스 아르카디아 같은 이상적 전원의"},
+      {"word": "rural", "note": "시골의"}
+    ],
+    "tips": [
+      "그리스어 `boukolos`(소치는 사람)에서 왔어. 소를 치며 한가로이 사는 전원 풍경이야.",
+      "`bucolic landscape` = 목가적 풍경. `pastoral`과 거의 같은 뜻. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "buffet",
+    "pos": "v.",
+    "head_meanings": [
+      "(반복적으로) 때리다",
+      "(바람·파도가) 흔들다",
+      "시련을 가하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정 단어! 뷔페(buffet, 뷔페이)가 아니라 '때리다'(버핏)로 나와. 발음이 달라!",
+      "`buffeted by storms/criticism` = 폭풍/비판에 시달리는."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "buffoonery",
+    "pos": "n.",
+    "head_meanings": [
+      "익살",
+      "해학",
+      "어릿광대짓"
+    ],
+    "synonyms_from_image": [
+      {"word": "drollery", "note": "우스꽝스러운 말/행동"},
+      {"word": "waggishness", "note": "장난기 넘치는 익살"},
+      {"word": "jocularity", "note": "우스갯소리, 익살"},
+      {"word": "clowning", "note": "광대짓"}
+    ],
+    "tips": [
+      "이탈리아어 `buffone`(광대)에서 왔어. `buffoon` = 어릿광대.",
+      "단순한 유머가 아니라 '품위 없는 우스꽝스러운 행동'이라는 부정적 뉘앙스."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "bully",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 약자를 괴롭히다, 협박하다",
+      "n.) 깡패"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래는 '사랑하는 사람'이라는 긍정적 뜻이었는데 완전히 반대로 바뀌었어!",
+      "`bully someone into doing` = 괴롭혀서 ~하게 만들다."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "bulwark",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 성채, 보루, 방벽",
+      "v.) 보호하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "rampart", "note": "성벽"},
+      {"word": "fortification", "note": "요새"},
+      {"word": "buttress", "note": "버팀벽"},
+      {"word": "safeguard", "note": "보호 수단"}
+    ],
+    "tips": [
+      "중세 독일어/네덜란드어에서 '나무 널빤지로 만든 방벽'이 원래 뜻이야.",
+      "`a bulwark against tyranny` = 독재에 대한 보루. `bastion`과 동의어야."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "bumbling",
+    "pos": "adj.",
+    "head_meanings": [
+      "실수를 많이 하는",
+      "서투른",
+      "덜렁대는"
+    ],
+    "synonyms_from_image": [
+      {"word": "inept", "note": "솜씨 없는"},
+      {"word": "clumsy", "note": "서투른"},
+      {"word": "maladroit", "note": "재주 없는"},
+      {"word": "bungling", "note": "일을 망치는"}
+    ],
+    "tips": [
+      "`bumble`(서투르게 하다) + `-ing`. `bumblebee`(호박벌)의 그 bumble!",
+      "`a bumbling fool` = 덜렁대는 바보."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "bumptious",
+    "pos": "adj.",
+    "head_meanings": [
+      "거만한",
+      "건방진",
+      "주제넘은"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`bump`(부딪치다) + `-tious` → 남에게 부딪칠 정도로 나대는 거야.",
+      "`a bumptious young official` = 건방진 젊은 관리."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "bungle",
+    "pos": "v.",
+    "head_meanings": [
+      "서투르게 하다",
+      "실수하다",
+      "일을 망치다"
+    ],
+    "synonyms_from_image": [
+      {"word": "blunder", "note": "큰 실수를 하다"},
+      {"word": "fumble", "note": "더듬거리며 실수하다"},
+      {"word": "botch", "note": "망쳐놓다"}
+    ],
+    "tips": [
+      "스웨덴어 `bangla`(힘없이 일하다)에서 왔다는 설이 있어.",
+      "`bungle an operation` = 작전을 망치다."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "buoy",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 부표",
+      "v.) 기운을 북돋우다, 떠받치다"
+    ],
+    "synonyms_from_image": [
+      {"word": "hearten", "note": "용기를 북돋다"},
+      {"word": "encourage", "note": "격려하다"},
+      {"word": "uplift", "note": "기분을 들어올리다"},
+      {"word": "invigorate", "note": "활력을 주다"}
+    ],
+    "tips": [
+      "`buoy up` = 기운을 북돋다. 바다에서 부표가 떠 있듯이 '가라앉지 않게 떠받치는' 이미지야.",
+      "`buoyant` = 낙관적인, 활기찬. `buoyant economy` = 활황 경제."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "buoyancy",
+    "pos": "n.",
+    "head_meanings": [
+      "부력",
+      "활기",
+      "낙관"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`buoy`(부표) + `-ancy` → 물에 뜨는 힘, 또는 비유적으로 활기·낙관.",
+      "`buoyancy of the market` = 시장 활황. 물리적 '부력'과 비유적 '활기' 두 뜻 다 GRE에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "burdensome",
+    "pos": "adj.",
+    "head_meanings": [
+      "부담이 큰",
+      "귀찮은",
+      "고된"
+    ],
+    "synonyms_from_image": [
+      {"word": "onerous", "note": "짐이 되는, 부담스러운"},
+      {"word": "taxing", "note": "힘을 빼는"},
+      {"word": "arduous", "note": "힘든, 고된"},
+      {"word": "laborious", "note": "많은 노력이 드는"},
+      {"word": "grueling", "note": "녹초가 되게 하는"}
+    ],
+    "tips": [
+      "`burden`(짐) + `-some`(~하는) → 짐이 되는.",
+      "`burdensome regulations` = 부담스러운 규제. `onerous`가 GRE에서 가장 자주 나오는 동의어야."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "bureaucracy",
+    "pos": "n.",
+    "head_meanings": [
+      "관료주의",
+      "관료제",
+      "번잡한 절차"
+    ],
+    "synonyms_from_image": [
+      {"word": "red tape", "note": "번잡한 행정 절차"},
+      {"word": "officialism", "note": "관료주의"}
+    ],
+    "tips": [
+      "프랑스어 `bureau`(사무실) + 그리스어 `-cracy`(지배) → 사무실이 지배하는 체제.",
+      "`bureaucratic red tape` = 관료주의적 번잡한 절차."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "bureaucratic",
+    "pos": "adj.",
+    "head_meanings": [
+      "관료적인",
+      "절차가 복잡한"
+    ],
+    "synonyms_from_image": [
+      {"word": "administrative", "note": "행정의"},
+      {"word": "official", "note": "공식적인"},
+      {"word": "rigid", "note": "융통성 없는"},
+      {"word": "rule-bound", "note": "규칙에 얽매인"}
+    ],
+    "tips": [
+      "`bureaucratic obstacles` = 관료주의적 장애. `bureaucratic inertia` = 관료주의적 타성.",
+      "GRE 지문에서 정부/기관의 비효율성을 비판할 때 자주 등장하는 단어야."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "burgeon",
+    "pos": "v.",
+    "head_meanings": [
+      "싹트다",
+      "급성장하다",
+      "번성하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "flourish", "note": "번성하다"},
+      {"word": "bloom", "note": "꽃피다"},
+      {"word": "blossom", "note": "꽃이 피다, 발전하다"},
+      {"word": "proliferate", "note": "급속히 번식/증가하다"}
+    ],
+    "tips": [
+      "고대 프랑스어 `burjon`(봉오리)에서 왔어. 봉오리가 터져 급성장하는 이미지야.",
+      "GRE 단골 단어! `The economy is burgeoning` = 경제가 급성장하고 있다."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "burgeoning",
+    "pos": "adj.",
+    "head_meanings": [
+      "급증하는",
+      "급성장하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "expanding", "note": "확장하는"}
+    ],
+    "tips": [
+      "`burgeon`의 현재분사가 형용사로 굳어진 형태. 독립적으로 매우 자주 쓰여.",
+      "`a burgeoning industry` = 급성장하는 산업. `burgeoning population` = 급증하는 인구."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "burlesque",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 풍자극, 희화",
+      "v.) 희화화하다, 풍자하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "parody", "note": "원작을 우스꽝스럽게 흉내 내기"},
+      {"word": "caricature", "note": "특징을 과장해서 그리기"},
+      {"word": "lampoon", "note": "신랄하게 풍자하다"},
+      {"word": "satire", "note": "풍자"}
+    ],
+    "tips": [
+      "이탈리아어 `burlesco`(우스꽝스러운)에서 왔어. 진지한 것을 우스꽝스럽게 바꾸는 거야.",
+      "`parody`, `satire`, `lampoon`, `caricature`, `burlesque` — '풍자/패러디' 동의어 그룹이야."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "burly",
+    "pos": "adj.",
+    "head_meanings": [
+      "건장한",
+      "몸집이 크고 튼튼한"
+    ],
+    "synonyms_from_image": [
+      {"word": "brawny", "note": "근육질의"},
+      {"word": "sturdy", "note": "튼튼한"},
+      {"word": "strapping", "note": "건장한"},
+      {"word": "stocky", "note": "땅딸막하고 튼튼한"}
+    ],
+    "tips": [
+      "중세 영어에서 '당당한, 위엄 있는'이라는 뜻이었어. 지금은 '덩치 크고 힘센' 뜻.",
+      "`a burly bodyguard` = 건장한 경호원."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "burnish",
+    "pos": "v.",
+    "head_meanings": [
+      "닦다",
+      "윤을 내다",
+      "(명성을) 빛나게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "polish", "note": "닦아 광을 내다"},
+      {"word": "buff", "note": "문질러 광을 내다"},
+      {"word": "shine", "note": "빛나게 하다"}
+    ],
+    "tips": [
+      "고대 프랑스어 `burnir`(빛나게 하다)에서 왔어.",
+      "GRE에서는 비유적 뜻이 중요해! `burnish one's reputation` = 명성을 빛나게 하다. `tarnish`(더럽히다)의 반의어야."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "bustle",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 부산하게 움직이다",
+      "n.) 법석, 부산스러움"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`bustle with activity` = 활기로 붐비다. `a bustling city` = 활기찬 도시.",
+      "`hustle and bustle` = 분주함과 법석."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "buttress",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 지지하다, 보강하다",
+      "n.) 버팀벽, 지지물"
+    ],
+    "synonyms_from_image": [
+      {"word": "bolster", "note": "든든하게 받쳐주다"},
+      {"word": "shore up", "note": "무너지지 않게 받치다"},
+      {"word": "reinforce", "note": "강화하다"},
+      {"word": "prop", "note": "받쳐 세우다"}
+    ],
+    "tips": [
+      "고대 프랑스어 `bouterez`(밀어 받치는 것)에서 왔어. 성당 외벽의 flying buttress가 대표적이야.",
+      "`buttress an argument` = 논거를 뒷받침하다. `bolster`와 거의 같은 뜻. GRE에서 매우 자주 나와!"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "buxom",
+    "pos": "adj.",
+    "head_meanings": [
+      "풍만한",
+      "건강하고 쾌활한"
+    ],
+    "synonyms_from_image": [
+      {"word": "voluptuous", "note": "관능적으로 풍만한"},
+      {"word": "curvaceous", "note": "곡선미가 있는"}
+    ],
+    "tips": [
+      "중세 영어에서 '유순한, 고분고분한'이라는 뜻이었는데, '쾌활한' → '건강하고 풍만한'으로 변했어.",
+      "주로 여성의 풍만한 체형을 묘사할 때 쓰이는 다소 구식 표현이야."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "byzantine",
+    "pos": "adj.",
+    "head_meanings": [
+      "극도로 복잡한",
+      "권모술수의",
+      "비잔틴풍의"
+    ],
+    "synonyms_from_image": [
+      {"word": "labyrinthine", "note": "미로 같은"},
+      {"word": "intricate", "note": "복잡하게 얽힌"},
+      {"word": "convoluted", "note": "꼬이고 뒤틀린"}
+    ],
+    "tips": [
+      "비잔틴 제국의 복잡한 궁중 정치에서 유래! 소문자 byzantine은 '극도로 복잡한/음모적인'이라는 뜻이야.",
+      "`byzantine regulations` = 극도로 복잡한 규제. `labyrinthine`과 거의 같은 뜻. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "by no means",
+    "pos": "adv.",
+    "head_meanings": [
+      "결코 ~이 아닌",
+      "절대로 ~않는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`by no means` = in no way = not at all. 강한 부정을 나타내.",
+      "`This is by no means certain` = 이것은 결코 확실하지 않다."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "bypass",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 우회하다, 무시하다, 회피하다",
+      "n.) 우회로"
+    ],
+    "synonyms_from_image": [
+      {"word": "circumvent", "note": "교묘하게 우회하다"},
+      {"word": "sidestep", "note": "옆으로 비켜 피하다"},
+      {"word": "evade", "note": "교묘히 피하다"},
+      {"word": "skirt", "note": "가장자리를 돌아가다"}
+    ],
+    "tips": [
+      "`by`(옆으로) + `pass`(지나가다) → 곁을 돌아 지나가다.",
+      "`bypass the rules` = 규칙을 우회하다. `circumvent`와 비슷해."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "by-product",
+    "pos": "n.",
+    "head_meanings": [
+      "부산물",
+      "뜻밖의 부차적 결과"
+    ],
+    "synonyms_from_image": [
+      {"word": "spin-off", "note": "파생물"},
+      {"word": "ramification", "note": "파급 효과"},
+      {"word": "repercussion", "note": "여파, 반향"},
+      {"word": "corollary", "note": "자연스러운 귀결"}
+    ],
+    "tips": [
+      "`by-`(부차적인) + `product`(생산물) → 주요 생산물의 부차적 결과물.",
+      "`Resistance was a by-product of the policy` = 저항은 그 정책의 부산물이었다."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "cabal",
+    "pos": "n.",
+    "head_meanings": [
+      "비밀결사",
+      "음모 집단",
+      "음모"
+    ],
+    "synonyms_from_image": [
+      {"word": "faction", "note": "파벌"},
+      {"word": "clique", "note": "도당, 패거리"},
+      {"word": "intrigue", "note": "음모"},
+      {"word": "conspiracy", "note": "공모, 모의"}
+    ],
+    "tips": [
+      "히브리어 `kabbalah`(유대 신비주의)에서 유래했다는 설이 있어.",
+      "`a cabal of conspirators` = 음모자들의 비밀 결사."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "cache",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 은닉처, 저장물",
+      "v.) 숨겨두다, 저장하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "hoard", "note": "비축물"},
+      {"word": "stockpile", "note": "비축, 저장량"},
+      {"word": "stash", "note": "숨겨둔 물건"}
+    ],
+    "tips": [
+      "프랑스어 `cacher`(숨기다)에서 왔어. 발음은 '캐시'(컴퓨터 캐시의 그 cache!).",
+      "`a cache of weapons` = 무기 은닉처."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "cachet",
+    "pos": "n.",
+    "head_meanings": [
+      "위신",
+      "명성",
+      "명망",
+      "특별한 품격"
+    ],
+    "synonyms_from_image": [
+      {"word": "prestige", "note": "명성, 위신"},
+      {"word": "kudos", "note": "명성, 영예"},
+      {"word": "eminence", "note": "저명함"},
+      {"word": "distinction", "note": "탁월함"}
+    ],
+    "tips": [
+      "프랑스어로 '인장(도장)'이라는 뜻이야. 왕실 인장이 찍히면 특별한 가치가 부여되듯.",
+      "`social cachet` = 사회적 위신. `cache`(저장소)와 헷갈리지 마! 발음도 다르: '카셰이'."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "cacophony",
+    "pos": "n.",
+    "head_meanings": [
+      "불협화음",
+      "귀에 거슬리는 소리"
+    ],
+    "synonyms_from_image": [
+      {"word": "dissonance", "note": "불협화음"},
+      {"word": "discordance", "note": "부조화"},
+      {"word": "din", "note": "소음"}
+    ],
+    "tips": [
+      "그리스어 `kakos`(나쁜) + `phone`(소리) → 나쁜 소리. 반의어 `euphony`(좋은 소리)와 세트로 외워!",
+      "`a cacophony of voices` = 시끄러운 목소리의 불협화음. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "cacophonous",
+    "pos": "adj.",
+    "head_meanings": [
+      "불협화음의",
+      "귀에 거슬리는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`cacophony`의 형용사형. `discordant`, `dissonant`와 동의어야.",
+      "`cacophonous sounds` = 귀에 거슬리는 소리들. `melodious`(감미로운)의 반의어."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "cagey",
+    "pos": "adj.",
+    "head_meanings": [
+      "조심스러운",
+      "터놓지 않는",
+      "빈틈없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "secretive", "note": "비밀스러운"},
+      {"word": "guarded", "note": "경계하며 조심하는"},
+      {"word": "reticent", "note": "말수가 적은"},
+      {"word": "evasive", "note": "회피하는, 얼버무리는"}
+    ],
+    "tips": [
+      "`cage`(새장)에서 왔다는 설이 있어. 새장에 갇힌 것처럼 속을 안 드러내는 거야.",
+      "`cagey about one's plans` = 계획에 대해 입을 다무는."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "cajole",
+    "pos": "v.",
+    "head_meanings": [
+      "구슬리다",
+      "감언이설로 꼬시다",
+      "알랑거리며 설득하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "coax", "note": "달래며 구슬리다"},
+      {"word": "wheedle", "note": "감언으로 꼬시다"},
+      {"word": "flatter", "note": "아첨하다"},
+      {"word": "sweet-talk", "note": "살살 달래다"}
+    ],
+    "tips": [
+      "프랑스어 `cajoler`(까치처럼 재잘거리다)에서 왔어.",
+      "`cajole someone into doing` = 구슬려서 ~하게 만들다. `cajolery` = 감언이설."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "calamity",
+    "pos": "n.",
+    "head_meanings": [
+      "재난",
+      "재앙",
+      "참사"
+    ],
+    "synonyms_from_image": [
+      {"word": "catastrophe", "note": "대참사"},
+      {"word": "cataclysm", "note": "대격변"},
+      {"word": "tragedy", "note": "비극"},
+      {"word": "adversity", "note": "역경"}
+    ],
+    "tips": [
+      "라틴어 `calamitas`(피해)에서 왔어. 원래 농작물 피해를 뜻했대.",
+      "`natural calamity` = 천재지변."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "calamitous",
+    "pos": "adj.",
+    "head_meanings": [
+      "재앙의",
+      "비참한",
+      "불행을 가져오는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`calamity`(재난) + `-ous` → 재난을 일으키는.",
+      "`calamitous consequences` = 참혹한 결과. `catastrophic`, `disastrous`와 동의어야."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "calculated",
+    "pos": "adj.",
+    "head_meanings": [
+      "면밀히 계획된",
+      "고의적인",
+      "계산된"
+    ],
+    "synonyms_from_image": [
+      {"word": "deliberate", "note": "의도적인"},
+      {"word": "premeditated", "note": "미리 계획한"},
+      {"word": "intentional", "note": "의도적인"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '계산된'이라는 수학적 뜻이 아니라 '미리 계획된/고의적인'으로 나와.",
+      "`a calculated risk` = 계산된 위험. `a calculated insult` = 의도적인 모욕."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "calligraphy",
+    "pos": "n.",
+    "head_meanings": [
+      "서예",
+      "달필",
+      "서도"
+    ],
+    "synonyms_from_image": [
+      {"word": "penmanship", "note": "글씨 솜씨"},
+      {"word": "handwriting", "note": "필적"}
+    ],
+    "tips": [
+      "그리스어 `kallos`(아름다운) + `graphein`(쓰다) → 아름답게 쓰는 기술.",
+      "GRE 예술/문화 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "callous",
+    "pos": "adj.",
+    "head_meanings": [
+      "무감각한",
+      "냉담한",
+      "(피부가) 굳은"
+    ],
+    "synonyms_from_image": [
+      {"word": "heartless", "note": "무정한"},
+      {"word": "unfeeling", "note": "감정이 없는"},
+      {"word": "thick-skinned", "note": "둔감한"},
+      {"word": "insensitive", "note": "무감각한"}
+    ],
+    "tips": [
+      "라틴어 `callosus`(피부가 딱딱한)에서 왔어. 굳은살(callus)이 박이면 감각이 둔해지듯.",
+      "`callous disregard for others` = 타인에 대한 냉담한 무관심. GRE에서 자주 나오는 단어!"
+    ]
+  },
+  {
+    "id": "088",
+    "word": "callow",
+    "pos": "adj.",
+    "head_meanings": [
+      "미숙한",
+      "풋내기의",
+      "세상 물정 모르는"
+    ],
+    "synonyms_from_image": [
+      {"word": "inexperienced", "note": "경험 없는"},
+      {"word": "raw", "note": "날것의, 미숙한"},
+      {"word": "green", "note": "풋내기의"},
+      {"word": "juvenile", "note": "어린, 미성숙한"}
+    ],
+    "tips": [
+      "원래 '깃털이 아직 안 난 새끼새'라는 뜻이야. 날지도 못하는 풋내기 새 이미지!",
+      "`a callow youth` = 철없는 젊은이. `callous`(냉담한)와 헷갈리지 마!"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "calumny",
+    "pos": "n.",
+    "head_meanings": [
+      "중상",
+      "비방",
+      "무고"
+    ],
+    "synonyms_from_image": [
+      {"word": "defamation", "note": "명예 훼손"},
+      {"word": "vilification", "note": "악의적 비방"},
+      {"word": "slander", "note": "구두 중상"},
+      {"word": "libel", "note": "문서 명예훼손"}
+    ],
+    "tips": [
+      "라틴어 `calumnia`(속임수, 중상)에서 왔어. `calumniate` = 중상하다(동사).",
+      "`spread calumny` = 중상모략을 퍼뜨리다."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "camaraderie",
+    "pos": "n.",
+    "head_meanings": [
+      "동지애",
+      "우정",
+      "유대감"
+    ],
+    "synonyms_from_image": [
+      {"word": "solidarity", "note": "연대감"},
+      {"word": "companionship", "note": "동반자 의식"},
+      {"word": "brotherhood", "note": "형제애"}
+    ],
+    "tips": [
+      "프랑스어 `camarade`(동지)에서 왔어. 같이 고생한 전우 사이의 따뜻한 유대감이야.",
+      "`team camaraderie` = 팀의 동지애. 발음은 '카머라더리'."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "camouflage",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 위장, 변장",
+      "v.) 위장하다, 감추다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "프랑스어 `camoufler`(위장하다)에서 왔어. 1차 세계대전 군사 용어에서 널리 퍼졌어.",
+      "비유적으로 '본질을 감추다'로도 쓰여. `camouflage one's true intentions` = 진짜 의도를 감추다."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "canard",
+    "pos": "n.",
+    "head_meanings": [
+      "꾸며낸 이야기",
+      "헛소문",
+      "유언비어"
+    ],
+    "synonyms_from_image": [
+      {"word": "fabrication", "note": "지어낸 이야기"},
+      {"word": "fiction", "note": "허구"},
+      {"word": "hoax", "note": "속임수, 날조"}
+    ],
+    "tips": [
+      "프랑스어로 '오리'라는 뜻이야! '오리를 반값에 팔다' = 속이다, 에서 유래했대.",
+      "`political canard` = 정치적 유언비어."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "candid",
+    "pos": "adj.",
+    "head_meanings": [
+      "솔직한",
+      "정직한",
+      "숨김없는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `candidus`(하얀, 순수한)에서 왔어. `candidate`(후보자)도 같은 뿌리.",
+      "`candid opinion` = 솔직한 의견. `frank`, `forthright`와 동의어야."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "candor",
+    "pos": "n.",
+    "head_meanings": [
+      "솔직함",
+      "정직",
+      "담백함"
+    ],
+    "synonyms_from_image": [
+      {"word": "honesty", "note": "정직"},
+      {"word": "forthrightness", "note": "거리낌 없는 솔직함"},
+      {"word": "artlessness", "note": "꾸밈없음"},
+      {"word": "fairness", "note": "공정함"}
+    ],
+    "tips": [
+      "`candid`(솔직한)의 명사형. 라틴어 `candor`(밝음, 순백)에서 왔어.",
+      "`speak with candor` = 솔직하게 말하다. `frankness`와 동의어야."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "canned",
+    "pos": "adj.",
+    "head_meanings": [
+      "미리 준비된",
+      "판에 박힌",
+      "통조림된"
+    ],
+    "synonyms_from_image": [
+      {"word": "formulaic", "note": "공식적이고 판에 박힌"}
+    ],
+    "tips": [
+      "GRE 함정 단어! '통조림된'이 아니라 '미리 준비된/판에 박힌'으로 나와.",
+      "`canned response` = 준비된 답변(진심이 아닌). `canned laughter` = 녹음된 웃음소리."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "cannibalism",
+    "pos": "n.",
+    "head_meanings": [
+      "식인",
+      "동족상잔",
+      "잔인한 행위"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "카리브해 원주민 `Canib`족에서 유래. 콜럼버스가 이들을 식인종으로 묘사한 데서 왔어.",
+      "비유적으로 `corporate cannibalism` = 같은 회사 제품끼리 시장을 잠식하는 것으로도 쓰여."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "canny",
+    "pos": "adj.",
+    "head_meanings": [
+      "빈틈없는",
+      "신중한",
+      "영리한",
+      "돈에 약삭빠른"
+    ],
+    "synonyms_from_image": [
+      {"word": "astute", "note": "기민하고 빈틈없는"},
+      {"word": "shrewd", "note": "실리에 밝은"},
+      {"word": "cunning", "note": "교활한"},
+      {"word": "frugal", "note": "원래 '검소한'인데, 돈에 약삭빠른 맥락에서 만남"}
+    ],
+    "tips": [
+      "`can`(알다)에서 왔어. '아는 것이 많은' → '빈틈없는'.",
+      "`a canny investor` = 빈틈없는 투자자. `uncanny`(기이한)와 헷갈리지 마!"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "cant",
+    "pos": "n.",
+    "head_meanings": [
+      "위선적인 말투",
+      "점잖은 체하는 말",
+      "은어",
+      "전문 용어"
+    ],
+    "synonyms_from_image": [
+      {"word": "hypocrisy", "note": "위선"},
+      {"word": "insincerity", "note": "불성실"},
+      {"word": "jargon", "note": "전문 용어"},
+      {"word": "slang", "note": "속어"}
+    ],
+    "tips": [
+      "`cant`는 두 가지 뜻이 있어:\n1) 위선적 말투 → 진심이 아닌 도덕적/종교적 말\n2) 은어/전문어 → 특정 집단만 쓰는 말",
+      "GRE에서는 '위선적 말투' 뜻이 더 중요해."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "cantankerous",
+    "pos": "adj.",
+    "head_meanings": [
+      "심술궂은",
+      "성질 고약한",
+      "다투기 좋아하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "irascible", "note": "화를 잘 내는"},
+      {"word": "crotchety", "note": "까칠하고 짜증 잘 내는"},
+      {"word": "peevish", "note": "짜증 많은"},
+      {"word": "curmudgeonly", "note": "심술궂은 노인 같은"},
+      {"word": "fractious", "note": "성미가 까다롭고 투정부리는"},
+      {"word": "querulous", "note": "불평 많은"}
+    ],
+    "tips": [
+      "어원이 불확실하지만, 중세 영어 `contekour`(다투는 사람)에서 왔다는 설이 있어.",
+      "`a cantankerous old man` = 심술궂은 노인. GRE에서 `irascible`, `peevish`, `petulant`과 함께 '성질 나쁜' 동의어 그룹이야."
+    ]
+  }
+]
