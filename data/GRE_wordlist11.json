@@ -1,0 +1,4220 @@
+[
+  {
+    "id": "001",
+    "word": "congregate",
+    "pos": "v.",
+    "head_meanings": [
+      "모이다",
+      "집합하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "gather together",
+        "note": "함께 모이다"
+      },
+      {
+        "word": "mass",
+        "note": "큰 무리로 모이다"
+      },
+      {
+        "word": "collect",
+        "note": "한곳에 모으다"
+      },
+      {
+        "word": "assemble",
+        "note": "정돈된 형태로 모이다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `greg`(무리, flock)에서 온 말이야. 양 떼가 한곳에 모이는 이미지를 떠올려봐.",
+      "congregation(집회, 신도 모임)이랑 같은 어근이야. 교회에서 사람들이 모이는 장면 생각하면 쉽게 외워져!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "conglomeration",
+    "pos": "n.",
+    "head_meanings": [
+      "집적",
+      "병합",
+      "혼합물"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "accumulation",
+        "note": "쌓여서 모인 것"
+      },
+      {
+        "word": "cohesion",
+        "note": "서로 결합하여 하나가 됨"
+      },
+      {
+        "word": "joining",
+        "note": "합쳐짐, 결합"
+      },
+      {
+        "word": "mixture",
+        "note": "여러 가지가 섞인 것"
+      },
+      {
+        "word": "hodgepodge",
+        "note": "뒤죽박죽 뒤섞인 것"
+      },
+      {
+        "word": "collection",
+        "note": "모아놓은 것"
+      },
+      {
+        "word": "assortment",
+        "note": "다양한 종류의 모음"
+      },
+      {
+        "word": "combination",
+        "note": "결합, 조합"
+      },
+      {
+        "word": "aggregate",
+        "note": "모아서 합친 총체"
+      },
+      {
+        "word": "aggregation",
+        "note": "모아놓은 집합체"
+      },
+      {
+        "word": "potpourri",
+        "note": "잡다한 것의 모음"
+      },
+      {
+        "word": "jumble",
+        "note": "뒤죽박죽 섞인 것"
+      },
+      {
+        "word": "mishmash",
+        "note": "이것저것 뒤범벅"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `glomer`(공 모양으로 뭉치다)에서 왔어. 여러 가지가 공처럼 뭉쳐진 덩어리야.",
+      "conglomerate(복합기업)이랑 같은 어근이야. 여러 회사가 하나로 뭉쳐진 게 복합기업이잖아, 그 뭉쳐진 상태가 conglomeration이야!"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "conglomerate",
+    "pos": "v./n.",
+    "head_meanings": [
+      "결합하다",
+      "응집하다",
+      "복합기업"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`con-`(함께) + `glomerate`(뭉치다)야. 삼성 같은 복합기업이 여러 사업을 하나로 뭉친 거 생각해봐.",
+      "GRE에서는 동사 '뭉치다'보다 명사 '복합기업, 혼합물' 뜻으로 더 자주 나와. 두 의미 다 알아둬!"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "congruence",
+    "pos": "n.",
+    "head_meanings": [
+      "일치",
+      "조화",
+      "합동"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "agreement",
+        "note": "의견이나 상태가 일치함"
+      },
+      {
+        "word": "sameness",
+        "note": "같음, 동일함"
+      },
+      {
+        "word": "accord",
+        "note": "조화로운 일치"
+      },
+      {
+        "word": "harmony",
+        "note": "서로 어울리는 조화"
+      },
+      {
+        "word": "concord",
+        "note": "합의, 화합"
+      },
+      {
+        "word": "unanimity",
+        "note": "만장일치"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `gru`(맞다, fit)에서 왔어. 서로 딱 맞아떨어지는 상태가 congruence야.",
+      "수학에서 삼각형 합동을 congruence라고 해. 두 도형이 완벽히 겹치는 이미지를 떠올리면 돼!"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "congruous",
+    "pos": "adj.",
+    "head_meanings": [
+      "일치하는",
+      "조화하는",
+      "적당한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "congruence의 형용사 형태야. '딱 맞는, 어울리는'이라는 느낌으로 기억해.",
+      "반의어 incongruous(어울리지 않는)가 GRE에서 더 자주 나오니까 같이 외워두면 좋아!"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "conjecture",
+    "pos": "n./v.",
+    "head_meanings": [
+      "추측",
+      "억측",
+      "추측하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "speculation",
+        "note": "근거가 부족한 추측"
+      },
+      {
+        "word": "inference",
+        "note": "정보를 바탕으로 한 추론"
+      },
+      {
+        "word": "supposition",
+        "note": "가정에 기반한 추측"
+      },
+      {
+        "word": "deduction",
+        "note": "논리적 추론"
+      },
+      {
+        "word": "guesswork",
+        "note": "어림짐작"
+      },
+      {
+        "word": "assumption",
+        "note": "당연하다고 여기는 가정"
+      },
+      {
+        "word": "hypothesis",
+        "note": "검증 전의 가설"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `ject`(던지다)에서 왔어. 생각을 이리저리 던져보는 게 추측이야.",
+      "GRE에서 conjecture는 '확실한 근거 없이 하는 추측'이라는 뉘앙스가 강해. evidence 없이 guess하는 거라고 생각해!"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "conjectural",
+    "pos": "adj.",
+    "head_meanings": [
+      "추측의",
+      "확정적이지 않은"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "speculative",
+        "note": "확실한 근거 없이 추측에 기반한"
+      }
+    ],
+    "tips": [
+      "conjecture(추측)의 형용사형이야. '추측에 불과한, 확정 안 된'이라는 뜻이지.",
+      "GRE에서 conjectural evidence라고 하면 확실하지 않은 증거를 말해. 반대는 conclusive(결정적인)야!"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "conjunction",
+    "pos": "n.",
+    "head_meanings": [
+      "결합",
+      "동시발생",
+      "접속사"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`con-`(함께) + `junct`(연결하다)야. 두 가지가 함께 연결되는 거지.",
+      "'in conjunction with ~'는 '~와 함께, ~와 연합하여'라는 뜻이야. GRE 독해에서 자주 보이니까 숙어로 외워둬!"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "conjure (up)",
+    "pos": "v.",
+    "head_meanings": [
+      "마법으로 불러오다",
+      "상상으로 나타나게 하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "bewitch",
+        "note": "마법을 걸다"
+      },
+      {
+        "word": "charm",
+        "note": "매혹하다, 주문을 걸다"
+      },
+      {
+        "word": "put under a spell",
+        "note": "주문에 걸리게 하다"
+      },
+      {
+        "word": "cast a spell on",
+        "note": "마법을 걸다"
+      },
+      {
+        "word": "evoke",
+        "note": "불러일으키다, 환기시키다"
+      },
+      {
+        "word": "imagine",
+        "note": "마음속에 그려내다"
+      }
+    ],
+    "tips": [
+      "해리포터에서 마법사가 주문으로 뭔가를 나타나게 하는 장면 생각해봐. 그게 conjure야.",
+      "'conjure up an image'는 '이미지를 떠올리다'라는 뜻이야. 마법처럼 머릿속에 딱 나타나게 한다는 느낌이지!"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "connivance",
+    "pos": "n.",
+    "head_meanings": [
+      "묵인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "acquiescence",
+        "note": "소극적으로 받아들임"
+      },
+      {
+        "word": "consent",
+        "note": "동의, 승낙"
+      },
+      {
+        "word": "sufferance",
+        "note": "참으면서 묵인함"
+      },
+      {
+        "word": "toleration",
+        "note": "못 본 척 용인함"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `nivere`(눈을 감다)에서 왔어. 잘못된 일에 눈을 감아주는 게 묵인이야.",
+      "connive(묵인하다, 공모하다) 동사도 같이 외워둬. 나쁜 일을 알면서도 모른 척하는 거라는 부정적 뉘앙스가 있어!"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "connoisseur",
+    "pos": "n.",
+    "head_meanings": [
+      "감정가",
+      "전문가"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "critic",
+        "note": "비평가, 평론가"
+      },
+      {
+        "word": "expert",
+        "note": "전문가"
+      },
+      {
+        "word": "judge",
+        "note": "심사자, 감별가"
+      },
+      {
+        "word": "authority",
+        "note": "권위자"
+      },
+      {
+        "word": "epicure",
+        "note": "미식가"
+      },
+      {
+        "word": "gourmet",
+        "note": "미식가, 음식 감정가"
+      }
+    ],
+    "tips": [
+      "프랑스어에서 온 말이야. 와인이나 예술에 대해 빠삭한 사람, 그게 connoisseur야.",
+      "그냥 expert랑 다른 점은 '미적 감각이 뛰어난 전문가'라는 뉘앙스야. 와인, 예술, 음식 등 감성적 분야의 전문가라고 생각해!"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "connotation",
+    "pos": "n.",
+    "head_meanings": [
+      "함축",
+      "내포"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "implication",
+        "note": "암시, 내포된 의미"
+      },
+      {
+        "word": "significance",
+        "note": "중요한 의미"
+      },
+      {
+        "word": "import",
+        "note": "내포된 뜻"
+      },
+      {
+        "word": "undertone",
+        "note": "이면에 깔린 느낌"
+      }
+    ],
+    "tips": [
+      "denotation(사전적 의미)의 반대 개념이야. connotation은 단어에 숨어 있는 감정이나 뉘앙스를 말해.",
+      "예를 들어 'home'의 denotation은 '집'이지만, connotation은 '따뜻함, 안식처' 같은 느낌이야. 이 차이를 알면 GRE 독해가 쉬워져!"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "consanguinity",
+    "pos": "n.",
+    "head_meanings": [
+      "혈족관계"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "relationship",
+        "note": "관계, 유대"
+      },
+      {
+        "word": "common ancestry",
+        "note": "공통 조상을 가짐"
+      },
+      {
+        "word": "kinship",
+        "note": "혈연관계, 친족관계"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `sanguin`(피, blood)이야. 같은 피를 나눈 관계, 즉 혈족이라는 뜻이지.",
+      "sanguine(낙관적인)이랑 어근이 같아. 중세에 '피가 많으면 성격이 밝다'고 믿었거든. consanguinity는 '같은 피' = 혈족!"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "conscientious",
+    "pos": "adj.",
+    "head_meanings": [
+      "양심적인",
+      "성실한",
+      "꼼꼼한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "diligent",
+        "note": "부지런한"
+      },
+      {
+        "word": "industrious",
+        "note": "근면한"
+      },
+      {
+        "word": "punctilious",
+        "note": "세세한 것까지 꼼꼼한"
+      },
+      {
+        "word": "painstaking",
+        "note": "공들이는, 정성스러운"
+      },
+      {
+        "word": "sedulous",
+        "note": "끈기 있게 노력하는"
+      },
+      {
+        "word": "assiduous",
+        "note": "꾸준히 열심히 하는"
+      },
+      {
+        "word": "dedicated",
+        "note": "헌신적인"
+      },
+      {
+        "word": "careful",
+        "note": "주의 깊은"
+      },
+      {
+        "word": "meticulous",
+        "note": "극도로 꼼꼼한"
+      },
+      {
+        "word": "thorough",
+        "note": "빈틈없이 철저한"
+      },
+      {
+        "word": "attentive",
+        "note": "주의를 기울이는"
+      },
+      {
+        "word": "hard-working",
+        "note": "열심히 일하는"
+      },
+      {
+        "word": "rigorous",
+        "note": "엄격하고 철저한"
+      },
+      {
+        "word": "responsible",
+        "note": "책임감 있는"
+      },
+      {
+        "word": "upright",
+        "note": "올바른, 정직한"
+      },
+      {
+        "word": "strict",
+        "note": "엄격한"
+      },
+      {
+        "word": "exact",
+        "note": "정확한"
+      },
+      {
+        "word": "fastidious",
+        "note": "까다롭게 꼼꼼한"
+      }
+    ],
+    "tips": [
+      "`conscience`(양심)에서 나온 말이야. 양심에 따라 성실하게 행동하는 사람이 conscientious한 사람이지.",
+      "'conscientious objector'는 양심적 병역 거부자야. 양심 → 성실 → 꼼꼼이라는 의미 확장 흐름을 기억해!"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "consecrate",
+    "pos": "v.",
+    "head_meanings": [
+      "신성하게 하다",
+      "봉헌하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "declare sacred",
+        "note": "신성하다고 선언하다"
+      },
+      {
+        "word": "hallow",
+        "note": "거룩하게 하다"
+      },
+      {
+        "word": "bless",
+        "note": "축복하다"
+      },
+      {
+        "word": "glorify",
+        "note": "영광스럽게 하다"
+      },
+      {
+        "word": "immortalize",
+        "note": "불멸하게 하다"
+      },
+      {
+        "word": "devote",
+        "note": "바치다, 헌신하다"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `secrate`(sacred, 신성한)야. 완전히 신성하게 만드는 행위가 consecrate야.",
+      "desecrate(신성 모독하다)는 정반대 뜻이야. consecrate ↔ desecrate, 이 쌍으로 외우면 둘 다 잡을 수 있어!"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "consensus",
+    "pos": "n.",
+    "head_meanings": [
+      "합의",
+      "여론"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "accord",
+        "note": "합의, 일치"
+      },
+      {
+        "word": "majority opinion",
+        "note": "다수의 의견"
+      },
+      {
+        "word": "general opinion",
+        "note": "일반적 의견"
+      },
+      {
+        "word": "unanimity",
+        "note": "만장일치"
+      },
+      {
+        "word": "common consent",
+        "note": "공통된 동의"
+      },
+      {
+        "word": "concord",
+        "note": "화합, 합의"
+      },
+      {
+        "word": "concurrence",
+        "note": "동의, 일치"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `sensus`(느끼다)야. 다 같이 같은 것을 느끼는 상태, 즉 합의야.",
+      "'reach a consensus'는 '합의에 도달하다'라는 뜻이야. 투표가 아니라 모두가 동의하는 상태를 강조하는 단어야!"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "consequential",
+    "pos": "adj.",
+    "head_meanings": [
+      "결과로서의",
+      "뽐내는",
+      "거만한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ostentatious",
+        "note": "과시하는, 뽐내는"
+      },
+      {
+        "word": "pretentious",
+        "note": "잘난 척하는"
+      },
+      {
+        "word": "haughty",
+        "note": "오만한, 거드름 피우는"
+      },
+      {
+        "word": "arrogant",
+        "note": "건방진, 거만한"
+      },
+      {
+        "word": "snobbish",
+        "note": "속물적으로 잘난 체하는"
+      }
+    ],
+    "tips": [
+      "consequence(결과, 중요성)에서 왔어. '중요한'이라는 뜻도 있지만, GRE에서는 '잘난 척하는'이라는 뜻도 자주 나와.",
+      "자기가 중요한(consequential) 사람이라고 뽐내는 거야. '나 중요한 사람이야'라고 으스대는 이미지로 기억해!"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "conservative",
+    "pos": "adj.",
+    "head_meanings": [
+      "보수적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`conserve`(보존하다)에서 왔어. 기존 것을 보존하려는 성향이 보수적인 거지.",
+      "GRE에서는 정치적 의미보다 '조심스러운, 신중한'이라는 뜻으로도 나와. 'a conservative estimate' = 신중한 추정!"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "conservatism",
+    "pos": "n.",
+    "head_meanings": [
+      "보수주의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "conservative의 명사형이야. 변화보다 전통을 지키려는 태도나 사상을 뜻해.",
+      "GRE 지문에서 사회적 변화에 대한 저항을 설명할 때 자주 등장해. radicalism(급진주의)과 대비되는 개념이야!"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "considerable",
+    "pos": "adj.",
+    "head_meanings": [
+      "상당한",
+      "중요한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`consider`(숙고하다) + `-able`이야. 숙고할 만큼 상당한 양이나 중요성이 있다는 뜻이지.",
+      "'considerable amount'는 '상당한 양'이야. 꽤 많다는 뉘앙스로 GRE 독해에서 자주 보여!"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "consign",
+    "pos": "v.",
+    "head_meanings": [
+      "넘겨주다",
+      "위탁하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "hand over",
+        "note": "넘겨주다"
+      },
+      {
+        "word": "transfer",
+        "note": "이전하다, 옮기다"
+      },
+      {
+        "word": "entrust",
+        "note": "맡기다, 위임하다"
+      },
+      {
+        "word": "commit",
+        "note": "맡기다, 위탁하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `sign`(표시하다)에서 왔어. 서명해서 물건을 넘기는 이미지야.",
+      "'consign to oblivion'은 '망각 속에 던져버리다'라는 뜻이야. 넘겨주다 → 보내버리다라는 확장 의미도 알아둬!"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "consistency",
+    "pos": "n.",
+    "head_meanings": [
+      "일관성",
+      "농도"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "compatibility",
+        "note": "양립 가능성, 적합성"
+      },
+      {
+        "word": "congruity",
+        "note": "일치, 조화"
+      },
+      {
+        "word": "density",
+        "note": "밀도, 농도"
+      },
+      {
+        "word": "viscosity",
+        "note": "점성, 끈적함의 정도"
+      },
+      {
+        "word": "stiffness",
+        "note": "뻣뻣함, 경직도"
+      },
+      {
+        "word": "compactness",
+        "note": "치밀함, 밀집도"
+      }
+    ],
+    "tips": [
+      "두 가지 뜻이 있어. ① 일관성: 변하지 않고 한결같음, ② 농도: 물질의 되기(되다/묽다).",
+      "GRE에서는 주로 '일관성' 의미로 나오지만, 과학 지문에서는 '농도' 의미도 나올 수 있어. 두 뜻 다 잡아둬!"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "consistent (with)",
+    "pos": "adj.",
+    "head_meanings": [
+      "일관된",
+      "양립하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "constant",
+        "note": "변함없는"
+      },
+      {
+        "word": "uniform",
+        "note": "균일한, 한결같은"
+      },
+      {
+        "word": "steady",
+        "note": "꾸준한"
+      },
+      {
+        "word": "stable",
+        "note": "안정적인"
+      },
+      {
+        "word": "unchanging",
+        "note": "변하지 않는"
+      },
+      {
+        "word": "undeviating",
+        "note": "벗어나지 않는"
+      },
+      {
+        "word": "dependable",
+        "note": "의지할 수 있는"
+      },
+      {
+        "word": "reliable",
+        "note": "믿을 수 있는"
+      },
+      {
+        "word": "predictable",
+        "note": "예측 가능한"
+      },
+      {
+        "word": "compatible",
+        "note": "양립하는, 조화하는"
+      },
+      {
+        "word": "congruous",
+        "note": "일치하는, 적합한"
+      },
+      {
+        "word": "consonant",
+        "note": "조화하는, 일치하는"
+      },
+      {
+        "word": "in tune",
+        "note": "조화를 이루는"
+      },
+      {
+        "word": "in line",
+        "note": "일치하는, 부합하는"
+      },
+      {
+        "word": "reconcilable",
+        "note": "조화시킬 수 있는"
+      },
+      {
+        "word": "corresponding to",
+        "note": "~에 상응하는"
+      },
+      {
+        "word": "conforming to",
+        "note": "~에 부합하는"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `sist`(서다)야. 함께 서 있다 → 같은 방향으로 일관되게 서 있다는 뜻이야.",
+      "'consistent with the evidence'는 '증거와 일치하는'이야. GRE에서 'consistent with ~' 형태로 정말 자주 나와!"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "console",
+    "pos": "v.",
+    "head_meanings": [
+      "달래다",
+      "위로하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "solace",
+        "note": "슬픔을 달래주는 위로"
+      },
+      {
+        "word": "comfort",
+        "note": "편안하게 해주다"
+      },
+      {
+        "word": "soothe",
+        "note": "진정시키다, 달래다"
+      },
+      {
+        "word": "calm",
+        "note": "차분하게 해주다"
+      },
+      {
+        "word": "cheer",
+        "note": "기운을 북돋아주다"
+      },
+      {
+        "word": "sympathize",
+        "note": "공감하다, 동정하다"
+      },
+      {
+        "word": "lament with",
+        "note": "함께 슬퍼하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `sol`(위로하다)에서 왔어. 슬픈 사람 곁에 함께 있어주면서 위로하는 거야.",
+      "명사 consolation(위로)이랑 같이 외워. '위로의 상'을 consolation prize라고 하잖아, 그걸 떠올리면 쉬워!"
+    ]
+  },
+  {
+    "id": "025",
+    "word": "consolation",
+    "pos": "n.",
+    "head_meanings": [
+      "위로",
+      "위안"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "comfort",
+        "note": "편안함, 위안"
+      },
+      {
+        "word": "solace",
+        "note": "슬픔을 달래주는 위로"
+      },
+      {
+        "word": "sympathy",
+        "note": "동정, 공감"
+      },
+      {
+        "word": "compassion",
+        "note": "연민, 측은함"
+      },
+      {
+        "word": "pity",
+        "note": "불쌍히 여김"
+      },
+      {
+        "word": "commiseration",
+        "note": "동정, 함께 슬퍼함"
+      },
+      {
+        "word": "relief",
+        "note": "안도, 고통 경감"
+      },
+      {
+        "word": "help",
+        "note": "도움"
+      },
+      {
+        "word": "encouragement",
+        "note": "격려, 용기 북돋움"
+      }
+    ],
+    "tips": [
+      "console(위로하다)의 명사형이야. 슬프거나 실망한 사람에게 주는 위로를 뜻해.",
+      "'consolation prize'(위로상)를 떠올려봐. 1등은 못 했지만 위안이 되는 상이잖아. 그 느낌이야!"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "consolidate",
+    "pos": "v.",
+    "head_meanings": [
+      "통합하다",
+      "강화하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "strengthen",
+        "note": "강하게 하다"
+      },
+      {
+        "word": "secure",
+        "note": "확보하다, 안전하게 하다"
+      },
+      {
+        "word": "stabilize",
+        "note": "안정시키다"
+      },
+      {
+        "word": "reinforce",
+        "note": "보강하다"
+      },
+      {
+        "word": "fortify",
+        "note": "강화하다, 요새화하다"
+      },
+      {
+        "word": "enhance",
+        "note": "향상시키다"
+      },
+      {
+        "word": "improve",
+        "note": "개선하다"
+      },
+      {
+        "word": "combine",
+        "note": "결합하다"
+      },
+      {
+        "word": "unite",
+        "note": "통합하다"
+      },
+      {
+        "word": "merge",
+        "note": "합병하다"
+      },
+      {
+        "word": "integrate",
+        "note": "통합하다"
+      },
+      {
+        "word": "amalgamate",
+        "note": "합병하다, 융합하다"
+      },
+      {
+        "word": "fuse",
+        "note": "녹여서 합치다"
+      },
+      {
+        "word": "synthesize",
+        "note": "합성하다, 종합하다"
+      },
+      {
+        "word": "bring together",
+        "note": "한데 모으다"
+      },
+      {
+        "word": "unify",
+        "note": "하나로 통일하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `solid`(단단한)에서 왔어. 여러 개를 하나로 합쳐서 단단하게 만드는 거야.",
+      "두 의미를 연결해서 외워: 여러 것을 통합하면(combine) → 당연히 더 강해지잖아(strengthen). 통합 + 강화가 핵심이야!"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "consonance",
+    "pos": "n.",
+    "head_meanings": [
+      "조화",
+      "일치",
+      "협화음"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "accord",
+        "note": "합치, 일치"
+      },
+      {
+        "word": "correspondence",
+        "note": "대응, 일치"
+      },
+      {
+        "word": "coherence",
+        "note": "논리적 일관성"
+      },
+      {
+        "word": "concord",
+        "note": "화합, 조화"
+      },
+      {
+        "word": "congruity",
+        "note": "적합, 일치"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `son`(소리)에서 왔어. 소리가 함께 어울리면 협화음, 의견이 함께 어울리면 조화야.",
+      "반의어 dissonance(불협화음, 불일치)가 GRE에서 더 자주 나와. 같이 묶어서 외우면 효율적이야!"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "consonant",
+    "pos": "adj.",
+    "head_meanings": [
+      "조화하는",
+      "자음의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "consonance의 형용사형이야. '~와 조화하는, 일치하는'이라는 뜻이지.",
+      "'consonant with ~'는 '~와 일치하는'이야. consistent with랑 비슷한 뜻으로 GRE에 나와!"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "consort",
+    "pos": "v./n.",
+    "head_meanings": [
+      "사귀다",
+      "배우자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "accompany",
+        "note": "동행하다"
+      },
+      {
+        "word": "keep company",
+        "note": "함께 지내다"
+      },
+      {
+        "word": "fraternize",
+        "note": "친하게 어울리다"
+      },
+      {
+        "word": "mingle",
+        "note": "어울려 섞이다"
+      },
+      {
+        "word": "mix",
+        "note": "섞이다, 어울리다"
+      },
+      {
+        "word": "spouse",
+        "note": "배우자"
+      },
+      {
+        "word": "mate",
+        "note": "짝, 동반자"
+      },
+      {
+        "word": "partner",
+        "note": "파트너, 동반자"
+      },
+      {
+        "word": "companion",
+        "note": "동반자, 벗"
+      },
+      {
+        "word": "associate",
+        "note": "동료, 교제하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `sort`(운명, lot)에서 왔어. 운명을 함께하는 사람이 배우자야.",
+      "영국 왕실에서 왕의 배우자를 'Prince Consort'라고 불러. 이 이미지로 기억하면 쉬워!"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "conspicuous",
+    "pos": "adj.",
+    "head_meanings": [
+      "눈에 띄는",
+      "두드러진"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "marked",
+        "note": "뚜렷한, 현저한"
+      },
+      {
+        "word": "evident",
+        "note": "명백한"
+      },
+      {
+        "word": "noticeable",
+        "note": "눈에 띄는"
+      },
+      {
+        "word": "discernible",
+        "note": "식별 가능한"
+      },
+      {
+        "word": "manifest",
+        "note": "명백한, 분명한"
+      },
+      {
+        "word": "obvious",
+        "note": "명확한"
+      },
+      {
+        "word": "pronounced",
+        "note": "뚜렷한, 현저한"
+      },
+      {
+        "word": "prominent",
+        "note": "두드러진, 눈에 잘 띄는"
+      },
+      {
+        "word": "patent",
+        "note": "명백한, 분명한"
+      },
+      {
+        "word": "striking",
+        "note": "인상적으로 눈에 띄는"
+      },
+      {
+        "word": "distinct",
+        "note": "뚜렷이 구별되는"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `spic`(보다, look)에서 왔어. 완전히 잘 보인다 → 눈에 띄는이야.",
+      "'conspicuous consumption'(과시적 소비)은 GRE 단골 표현이야. 반의어 inconspicuous(눈에 안 띄는)도 같이 외워!"
+    ]
+  },
+  {
+    "id": "031",
+    "word": "conspiracy",
+    "pos": "n.",
+    "head_meanings": [
+      "공모",
+      "음모"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "criminal plot",
+        "note": "범죄적 계략"
+      },
+      {
+        "word": "collusion",
+        "note": "비밀 공모, 결탁"
+      },
+      {
+        "word": "machination",
+        "note": "책략, 음모"
+      },
+      {
+        "word": "intrigue",
+        "note": "음모, 술책"
+      },
+      {
+        "word": "treachery",
+        "note": "배반, 배신행위"
+      },
+      {
+        "word": "sedition",
+        "note": "선동, 반란 선동"
+      },
+      {
+        "word": "treason",
+        "note": "반역, 국가 반역죄"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `spire`(숨쉬다)야. 함께 숨을 죽이고 몰래 꾸미는 게 음모야.",
+      "conspiracy theory(음모론)라는 표현 많이 들어봤지? 그 conspiracy야. 몰래 함께 나쁜 짓을 계획하는 거!"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "conspire",
+    "pos": "v.",
+    "head_meanings": [
+      "공모하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "conspiracy의 동사형이야. 여러 사람이 비밀리에 나쁜 계획을 짜는 거지.",
+      "'conspire against ~'는 '~에 대항하여 음모를 꾸미다'야. 또 'events conspired to ~'는 '사건들이 겹쳐서 ~한 결과를 초래하다'라는 뜻도 있어!"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "consternation",
+    "pos": "n.",
+    "head_meanings": [
+      "대경실색",
+      "깜짝 놀람"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`con-`(완전히) + `stern`(별, star)에서 왔어. 별이 다 쏟아지는 것처럼 완전히 놀라는 거야.",
+      "그냥 놀라는 게 아니라 '충격과 당혹감이 섞인 놀라움'이야. shock + anxiety가 합쳐진 느낌으로 기억해!"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "constituent",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "선거구민",
+      "구성요소"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "constituent parts",
+        "note": "구성 부분들"
+      },
+      {
+        "word": "component",
+        "note": "구성 요소"
+      },
+      {
+        "word": "integral",
+        "note": "필수적인 부분"
+      },
+      {
+        "word": "elemental",
+        "note": "기본적인, 근본적인"
+      },
+      {
+        "word": "basic",
+        "note": "기초적인"
+      },
+      {
+        "word": "essential",
+        "note": "필수적인"
+      },
+      {
+        "word": "inherent",
+        "note": "본질적인, 내재된"
+      },
+      {
+        "word": "voter",
+        "note": "투표자"
+      },
+      {
+        "word": "elector",
+        "note": "선거인"
+      },
+      {
+        "word": "member of a constituency",
+        "note": "선거구의 구성원"
+      },
+      {
+        "word": "ingredient",
+        "note": "재료, 성분"
+      },
+      {
+        "word": "element",
+        "note": "요소"
+      },
+      {
+        "word": "part",
+        "note": "부분"
+      },
+      {
+        "word": "piece",
+        "note": "조각, 부분"
+      },
+      {
+        "word": "section",
+        "note": "부분, 구역"
+      },
+      {
+        "word": "portion",
+        "note": "일부분"
+      },
+      {
+        "word": "adherent",
+        "note": "지지자, 추종자"
+      }
+    ],
+    "tips": [
+      "`constitute`(구성하다)에서 나온 말이야. 전체를 구성하는 개별 요소가 constituent야.",
+      "두 뜻이 있어: ① 구성 요소, ② 선거구민. 국가를 구성하는 시민이 선거구민이라고 연결하면 자연스러워!"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "constraint",
+    "pos": "n.",
+    "head_meanings": [
+      "제한",
+      "속박",
+      "강제"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "confinement",
+        "note": "감금, 가두어 제한함"
+      },
+      {
+        "word": "restraint",
+        "note": "억제, 제약"
+      },
+      {
+        "word": "coercion",
+        "note": "강제, 강압"
+      },
+      {
+        "word": "force",
+        "note": "힘, 강제력"
+      },
+      {
+        "word": "obligation",
+        "note": "의무, 해야 할 구속"
+      },
+      {
+        "word": "pressure",
+        "note": "압박"
+      },
+      {
+        "word": "enforcement",
+        "note": "시행, 강제 집행"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `strain`(조이다)에서 왔어. 꽉 조여서 움직이지 못하게 하는 게 constraint야.",
+      "'budget constraints'(예산 제약), 'time constraints'(시간 제약) 같은 표현이 GRE 독해에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "construe",
+    "pos": "v.",
+    "head_meanings": [
+      "해석하다",
+      "추론하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "interpret",
+        "note": "의미를 해석하다"
+      },
+      {
+        "word": "elucidate",
+        "note": "분명히 밝혀 해석하다"
+      },
+      {
+        "word": "take",
+        "note": "~로 받아들이다"
+      },
+      {
+        "word": "understand",
+        "note": "이해하다"
+      },
+      {
+        "word": "decipher",
+        "note": "해독하다"
+      },
+      {
+        "word": "translate",
+        "note": "번역하다, 옮기다"
+      },
+      {
+        "word": "read",
+        "note": "읽어내다, 해석하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `strue`(쌓다, build)에서 왔어. 단어를 하나하나 쌓아서 의미를 만들어내는 게 해석이야.",
+      "'construe A as B'는 'A를 B로 해석하다'야. 'His silence was construed as agreement'(그의 침묵은 동의로 해석되었다) 같은 식으로 써!"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "consummate",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "완벽한",
+      "흠잡을 데 없는",
+      "달성하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "finished",
+        "note": "완성된, 더할 나위 없는"
+      },
+      {
+        "word": "absolute",
+        "note": "절대적인, 완전한"
+      },
+      {
+        "word": "accomplished",
+        "note": "숙달된, 뛰어난"
+      },
+      {
+        "word": "perfect",
+        "note": "완벽한"
+      },
+      {
+        "word": "faultless",
+        "note": "결점이 없는"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `summate`(최고점, summit)에서 왔어. 최고점에 완전히 도달한 거야.",
+      "형용사일 때는 '컨서밋', 동사일 때는 '컨서메이트'로 발음이 달라. GRE에서는 형용사 '완벽한' 뜻이 자주 나와!"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "contagion",
+    "pos": "n.",
+    "head_meanings": [
+      "전염",
+      "감염"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "outbreak",
+        "note": "발생, 발발"
+      },
+      {
+        "word": "communication",
+        "note": "전달, 전파"
+      },
+      {
+        "word": "transmission",
+        "note": "전염, 전파"
+      },
+      {
+        "word": "epidemic",
+        "note": "유행병, 전염병"
+      },
+      {
+        "word": "spread",
+        "note": "확산, 퍼짐"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `tag`(만지다, touch)에서 왔어. 접촉을 통해 함께 퍼지는 게 전염이야.",
+      "병뿐만 아니라 감정이나 아이디어의 전파에도 써. 'emotional contagion'(감정 전염)도 GRE에서 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "contagious",
+    "pos": "adj.",
+    "head_meanings": [
+      "전염성의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "contagion의 형용사형이야. 접촉으로 퍼지는 성질을 가진 거지.",
+      "'Her laughter is contagious'(그녀의 웃음은 전염성이 있다)처럼 긍정적 맥락에서도 많이 써. 웃음이 퍼지는 이미지!"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "contaminate",
+    "pos": "v.",
+    "head_meanings": [
+      "오염시키다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "adulterate",
+        "note": "불순물을 섞어 질을 떨어뜨리다"
+      },
+      {
+        "word": "corrupt",
+        "note": "부패시키다, 타락시키다"
+      },
+      {
+        "word": "defile",
+        "note": "더럽히다, 모독하다"
+      },
+      {
+        "word": "infect",
+        "note": "감염시키다"
+      },
+      {
+        "word": "taint",
+        "note": "오점을 남기다, 더럽히다"
+      },
+      {
+        "word": "besmirch",
+        "note": "더럽히다, 명예를 훼손하다"
+      },
+      {
+        "word": "dirty",
+        "note": "더럽히다"
+      },
+      {
+        "word": "soil",
+        "note": "더럽히다, 얼룩지게 하다"
+      },
+      {
+        "word": "befoul",
+        "note": "더럽히다, 오염시키다"
+      },
+      {
+        "word": "foul",
+        "note": "불결하게 만들다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `tamin`(만지다)에서 왔어. 나쁜 것이 접촉해서 함께 퍼지는 거야.",
+      "물, 공기, 음식 등의 물리적 오염뿐 아니라 도덕적 타락에도 써. 'contaminated evidence'(오염된 증거)처럼 추상적 의미도 알아둬!"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "contempt",
+    "pos": "n.",
+    "head_meanings": [
+      "경멸",
+      "모욕"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "dishonor",
+        "note": "불명예, 모욕"
+      },
+      {
+        "word": "shame",
+        "note": "수치, 창피"
+      },
+      {
+        "word": "derision",
+        "note": "조롱, 비웃음"
+      },
+      {
+        "word": "ridicule",
+        "note": "조소, 놀림"
+      },
+      {
+        "word": "humiliation",
+        "note": "굴욕"
+      },
+      {
+        "word": "disgrace",
+        "note": "망신, 불명예"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `tempt`(멸시하다)에서 왔어. 완전히 깔보는 감정이 contempt야.",
+      "'contempt of court'(법정 모욕)라는 법률 용어가 있어. 법정을 깔보고 무시하는 행위를 뜻해!"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "contemptuous",
+    "pos": "adj.",
+    "head_meanings": [
+      "경멸적인",
+      "오만한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "scornful",
+        "note": "경멸하는"
+      },
+      {
+        "word": "disdainful",
+        "note": "업신여기는"
+      },
+      {
+        "word": "disrespectful",
+        "note": "무례한"
+      },
+      {
+        "word": "insulting",
+        "note": "모욕적인"
+      },
+      {
+        "word": "insolent",
+        "note": "거만한, 무례한"
+      },
+      {
+        "word": "derisive",
+        "note": "조롱하는"
+      },
+      {
+        "word": "mocking",
+        "note": "비웃는"
+      },
+      {
+        "word": "sneering",
+        "note": "비꼬는, 냉소적인"
+      },
+      {
+        "word": "scoffing",
+        "note": "비웃는, 조소하는"
+      },
+      {
+        "word": "scathing",
+        "note": "신랄한, 가혹한"
+      },
+      {
+        "word": "condescending",
+        "note": "잘난 척하며 깔보는"
+      },
+      {
+        "word": "supercilious",
+        "note": "거만한, 남을 깔보는"
+      },
+      {
+        "word": "proud",
+        "note": "자만하는"
+      },
+      {
+        "word": "haughty",
+        "note": "거만한"
+      },
+      {
+        "word": "superior",
+        "note": "우월감에 찬"
+      },
+      {
+        "word": "arrogant",
+        "note": "교만한"
+      },
+      {
+        "word": "dismissive",
+        "note": "무시하는, 대수롭지 않게 여기는"
+      },
+      {
+        "word": "aloof",
+        "note": "냉담한, 거리를 두는"
+      },
+      {
+        "word": "contumelious",
+        "note": "모욕적인, 오만한"
+      }
+    ],
+    "tips": [
+      "contempt(경멸)의 형용사형이야. 남을 깔보는 태도를 보이는 거지.",
+      "contemptuous(경멸하는) vs contemptible(경멸받을 만한)을 헷갈리지 마! -ous는 '하는 쪽', -ible은 '당하는 쪽'이야!"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "contemn",
+    "pos": "v.",
+    "head_meanings": [
+      "경멸하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "contempt(경멸)의 동사형이야. 남을 깔보고 멸시하는 행위를 뜻해.",
+      "condemn(비난하다)이랑 헷갈리기 쉬운데, contemn은 '경멸'이고 condemn은 '비난, 유죄 선고'야. 철자를 잘 봐!"
+    ]
+  },
+  {
+    "id": "044",
+    "word": "contemplate",
+    "pos": "v.",
+    "head_meanings": [
+      "심사숙고하다",
+      "관찰하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "ponder",
+        "note": "곰곰이 생각하다"
+      },
+      {
+        "word": "reflect on",
+        "note": "돌이켜 생각하다"
+      },
+      {
+        "word": "deliberate",
+        "note": "신중하게 검토하다"
+      },
+      {
+        "word": "meditate",
+        "note": "명상하다, 깊이 생각하다"
+      },
+      {
+        "word": "ruminate",
+        "note": "되새기며 곰곰이 생각하다"
+      },
+      {
+        "word": "consider",
+        "note": "고려하다"
+      },
+      {
+        "word": "examine",
+        "note": "자세히 살피다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `temple`(사원)에서 왔어. 사원에서 조용히 깊이 생각하는 이미지야.",
+      "'contemplate doing ~'은 '~할 것을 심사숙고하다'야. 그냥 think보다 훨씬 깊이 생각하는 느낌이야!"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "contend",
+    "pos": "v.",
+    "head_meanings": [
+      "다투다",
+      "주장하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "jostle",
+        "note": "밀치며 다투다"
+      },
+      {
+        "word": "skirmish",
+        "note": "소규모로 충돌하다"
+      },
+      {
+        "word": "fight",
+        "note": "싸우다"
+      },
+      {
+        "word": "tussle",
+        "note": "몸싸움하다"
+      },
+      {
+        "word": "wrestle",
+        "note": "씨름하다"
+      },
+      {
+        "word": "strive",
+        "note": "애쓰다, 분투하다"
+      },
+      {
+        "word": "contest",
+        "note": "겨루다"
+      },
+      {
+        "word": "combat",
+        "note": "전투하다"
+      },
+      {
+        "word": "vie",
+        "note": "경쟁하다"
+      },
+      {
+        "word": "declare",
+        "note": "선언하다, 주장하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `tend`(뻗다)에서 왔어. 서로를 향해 팔을 뻗으며 다투는 이미지야.",
+      "GRE에서는 '다투다'보다 '주장하다(argue, assert)' 뜻으로 더 자주 나와. 'He contends that ~'(그는 ~라고 주장한다)!"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "content",
+    "pos": "n./adj./v.",
+    "head_meanings": [
+      "내용",
+      "만족한",
+      "만족시키다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "기본 단어지만 품사에 따라 발음이 달라. 명사 '컨텐트'(내용), 형용사 '컨텐트'(만족한).",
+      "GRE에서는 형용사 '만족한' 뜻이 자주 나와. content = satisfied. 'content with ~'(~에 만족하는) 형태로 기억해!"
+    ]
+  },
+  {
+    "id": "047",
+    "word": "contentious",
+    "pos": "adj.",
+    "head_meanings": [
+      "다투기 좋아하는",
+      "논쟁적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "controversial",
+        "note": "논란이 되는"
+      },
+      {
+        "word": "truculent",
+        "note": "호전적인, 공격적인"
+      },
+      {
+        "word": "pugnacious",
+        "note": "싸우기 좋아하는"
+      },
+      {
+        "word": "disputatious",
+        "note": "논쟁하기 좋아하는"
+      },
+      {
+        "word": "combative",
+        "note": "투쟁적인"
+      },
+      {
+        "word": "bellicose",
+        "note": "호전적인"
+      },
+      {
+        "word": "argumentative",
+        "note": "말다툼 잘 하는"
+      },
+      {
+        "word": "belligerent",
+        "note": "적대적인, 호전적인"
+      },
+      {
+        "word": "warlike",
+        "note": "전쟁을 좋아하는"
+      },
+      {
+        "word": "tendentious",
+        "note": "편향적인, 논쟁을 유발하는"
+      }
+    ],
+    "tips": [
+      "`contend`(다투다)에서 나온 형용사야. 다투기를 좋아하는 성격이나, 논쟁을 불러일으키는 주제를 묘사해.",
+      "GRE에서 두 뜻 다 나와: ① 사람이 contentious → 싸움을 걸기 좋아하는, ② 주제가 contentious → 논쟁이 많은!"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "contest",
+    "pos": "v./n.",
+    "head_meanings": [
+      "다투다",
+      "이의를 제기하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "competition",
+        "note": "경쟁, 대회"
+      },
+      {
+        "word": "fight",
+        "note": "싸움"
+      },
+      {
+        "word": "compete for",
+        "note": "~을 놓고 경쟁하다"
+      },
+      {
+        "word": "contend",
+        "note": "다투다, 경쟁하다"
+      },
+      {
+        "word": "vie",
+        "note": "겨루다"
+      },
+      {
+        "word": "debate",
+        "note": "토론하다, 논쟁하다"
+      },
+      {
+        "word": "argue",
+        "note": "논쟁하다"
+      },
+      {
+        "word": "dispute",
+        "note": "이의를 제기하다"
+      },
+      {
+        "word": "call in question",
+        "note": "의문을 제기하다"
+      },
+      {
+        "word": "challenge",
+        "note": "이의를 제기하다"
+      },
+      {
+        "word": "oppose",
+        "note": "반대하다"
+      },
+      {
+        "word": "controvert",
+        "note": "논박하다"
+      }
+    ],
+    "tips": [
+      "명사 '컨테스트'(대회)는 다 알지? 동사로 쓰면 '이의를 제기하다, 경쟁하다'야.",
+      "GRE에서는 동사 '이의를 제기하다' 뜻이 중요해. 'contest the results'는 '결과에 이의를 제기하다'야!"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "context",
+    "pos": "n.",
+    "head_meanings": [
+      "문맥",
+      "상황",
+      "배경"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "circumstance",
+        "note": "상황, 환경"
+      },
+      {
+        "word": "environment",
+        "note": "환경"
+      },
+      {
+        "word": "milieu",
+        "note": "사회적 환경"
+      },
+      {
+        "word": "situation",
+        "note": "상황"
+      },
+      {
+        "word": "background",
+        "note": "배경"
+      },
+      {
+        "word": "conditions",
+        "note": "조건, 상황"
+      },
+      {
+        "word": "setting",
+        "note": "배경, 무대"
+      },
+      {
+        "word": "atmosphere",
+        "note": "분위기"
+      },
+      {
+        "word": "ambience",
+        "note": "분위기, 환경"
+      },
+      {
+        "word": "connection",
+        "note": "연결, 관계"
+      },
+      {
+        "word": "relationship",
+        "note": "관계"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `text`(직물, 짜다)야. 단어들이 함께 엮여서 만드는 맥락이 context야.",
+      "'out of context'는 '문맥에서 벗어난'이야. GRE 독해에서 문맥 파악이 핵심이니까 이 단어 자체가 중요해!"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "contiguous",
+    "pos": "adj.",
+    "head_meanings": [
+      "인접하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "conterminous",
+        "note": "경계를 같이 하는"
+      },
+      {
+        "word": "neighboring",
+        "note": "이웃하는"
+      },
+      {
+        "word": "abutting",
+        "note": "접하는, 맞닿은"
+      },
+      {
+        "word": "adjoining",
+        "note": "인접한"
+      },
+      {
+        "word": "bordering",
+        "note": "접경의"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `tig`(만지다, touch)에서 왔어. 서로 만지듯 붙어있는 거야.",
+      "'the contiguous United States'는 알래스카와 하와이를 빼고 서로 붙어있는 48개 주를 말해. 이 표현으로 외워!"
+    ]
+  },
+  {
+    "id": "051",
+    "word": "continence",
+    "pos": "n.",
+    "head_meanings": [
+      "자제",
+      "절제",
+      "금욕"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "abstinence",
+        "note": "금욕, 절제"
+      },
+      {
+        "word": "moderation",
+        "note": "절도, 적당함"
+      },
+      {
+        "word": "forbearance",
+        "note": "인내, 자제"
+      },
+      {
+        "word": "temperance",
+        "note": "절제, 금주"
+      },
+      {
+        "word": "purity",
+        "note": "순결, 청결"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `tin`(잡다, hold)에서 왔어. 자기 자신을 꽉 잡고 있는 상태가 자제야.",
+      "continent(대륙)이랑 어원이 같아. 땅을 하나로 잡아두는 게 대륙, 욕구를 잡아두는 게 절제. incontinent는 '자제력 없는'이야!"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "contingent",
+    "pos": "adj.",
+    "head_meanings": [
+      "조건부인",
+      "우연적"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "circumstantial",
+        "note": "상황에 따른"
+      },
+      {
+        "word": "conditional",
+        "note": "조건부의"
+      },
+      {
+        "word": "dependent",
+        "note": "의존적인"
+      },
+      {
+        "word": "subject to",
+        "note": "~에 달린, ~에 좌우되는"
+      },
+      {
+        "word": "controlled by",
+        "note": "~에 의해 좌우되는"
+      },
+      {
+        "word": "possible",
+        "note": "가능한, 일어날 수도 있는"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `tingent`(닿다, touch)야. 어떤 조건에 닿아야(충족해야) 일어나는 거야.",
+      "'contingent on/upon ~'은 '~에 달린, ~을 조건으로 하는'이야. 'Success is contingent on effort'(성공은 노력에 달려있다)!"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "contingency",
+    "pos": "n.",
+    "head_meanings": [
+      "우연성",
+      "우발사건"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "contingent의 명사형이야. 예상치 못하게 일어날 수 있는 사건이나 상황을 말해.",
+      "'contingency plan'(비상 대책)이라는 표현 많이 쓰지? 만약의 사태에 대비한 계획이야!"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "continuum",
+    "pos": "n.",
+    "head_meanings": [
+      "연속체"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "continue(계속하다)에서 나온 말이야. 끊기지 않고 쭉 이어지는 것이 continuum이야.",
+      "'on a continuum'은 '연속선상에서'야. 흑백이 아니라 스펙트럼처럼 연속적으로 변하는 것을 설명할 때 써!"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "contortion",
+    "pos": "n.",
+    "head_meanings": [
+      "비틀기",
+      "왜곡"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "deformation",
+        "note": "변형, 형태가 일그러짐"
+      },
+      {
+        "word": "warp",
+        "note": "뒤틀림, 비틀어짐"
+      },
+      {
+        "word": "perversion",
+        "note": "왜곡, 변질"
+      },
+      {
+        "word": "falsification",
+        "note": "위조, 사실 왜곡"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `tort`(비틀다)에서 왔어. 완전히 비틀어진 상태가 contortion이야.",
+      "서커스에서 몸을 이상하게 비트는 사람을 contortionist(연체 곡예사)라고 해. 그 이미지로 기억하면 돼!"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "contract",
+    "pos": "v.",
+    "head_meanings": [
+      "계약하다",
+      "수축시키다",
+      "병에 걸리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`con-`(함께) + `tract`(끌다)야. 서로를 끌어당겨 묶는 게 계약이고, 안으로 끌어당기는 게 수축이야.",
+      "GRE에서는 '수축하다'와 '병에 걸리다' 뜻이 중요해. 'contract a disease'(병에 걸리다)는 꼭 알아둬!"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "contradict",
+    "pos": "v.",
+    "head_meanings": [
+      "부정하다",
+      "반박하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "deny",
+        "note": "부인하다"
+      },
+      {
+        "word": "refute",
+        "note": "논박하다"
+      },
+      {
+        "word": "rebut",
+        "note": "반박하다"
+      },
+      {
+        "word": "dispute",
+        "note": "이의를 제기하다"
+      },
+      {
+        "word": "challenge",
+        "note": "이의를 제기하다"
+      },
+      {
+        "word": "counter",
+        "note": "반박하다"
+      },
+      {
+        "word": "controvert",
+        "note": "논박하다"
+      },
+      {
+        "word": "gainsay",
+        "note": "부인하다, 부정하다"
+      },
+      {
+        "word": "argue against",
+        "note": "~에 반대 논거를 대다"
+      },
+      {
+        "word": "oppose",
+        "note": "반대하다"
+      },
+      {
+        "word": "conflict with",
+        "note": "~와 충돌하다"
+      },
+      {
+        "word": "be at odds with",
+        "note": "~와 불일치하다"
+      },
+      {
+        "word": "be at variance with",
+        "note": "~와 상충하다"
+      },
+      {
+        "word": "be inconsistent with",
+        "note": "~와 모순되다"
+      }
+    ],
+    "tips": [
+      "`contra-`(반대) + `dict`(말하다)야. 반대로 말하는 게 반박이야. 정말 직관적인 어원이지.",
+      "GRE에서 contradict는 사람뿐 아니라 사실이나 증거에도 써. 'The evidence contradicts the theory'(증거가 이론에 반한다)!"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "contradiction",
+    "pos": "n.",
+    "head_meanings": [
+      "모순",
+      "부정"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "contradict의 명사형이야. 두 가지가 서로 반대되어 양립할 수 없는 상태가 모순이야.",
+      "'contradiction in terms'는 '모순어법'이야. 예를 들어 'deafening silence'(귀청이 터질 듯한 침묵) 같은 거야!"
+    ]
+  },
+  {
+    "id": "059",
+    "word": "contradictory",
+    "pos": "adj.",
+    "head_meanings": [
+      "모순된"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "opposed",
+        "note": "반대되는"
+      },
+      {
+        "word": "in opposition",
+        "note": "대립하는"
+      },
+      {
+        "word": "opposite",
+        "note": "정반대의"
+      },
+      {
+        "word": "antithetical",
+        "note": "정반대의, 대조적인"
+      },
+      {
+        "word": "contrary",
+        "note": "반대의"
+      },
+      {
+        "word": "contrasting",
+        "note": "대비되는"
+      },
+      {
+        "word": "conflicting",
+        "note": "상충하는"
+      },
+      {
+        "word": "at odds",
+        "note": "불일치하는"
+      },
+      {
+        "word": "opposing",
+        "note": "반대하는"
+      },
+      {
+        "word": "divergent",
+        "note": "갈라지는, 다른 방향의"
+      },
+      {
+        "word": "inconsistent",
+        "note": "일관되지 않는"
+      },
+      {
+        "word": "incompatible",
+        "note": "양립할 수 없는"
+      },
+      {
+        "word": "irreconcilable",
+        "note": "화해할 수 없는, 양립 불가한"
+      }
+    ],
+    "tips": [
+      "contradiction의 형용사형이야. 두 가지가 서로 정면으로 충돌하는 상태를 묘사해.",
+      "'contradictory statements'는 '모순된 진술'이야. GRE 논리 문제에서 두 주장이 양립할 수 없을 때 이 단어가 나와!"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "contrary",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "반대의",
+      "정반대"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "opposite",
+        "note": "정반대의"
+      },
+      {
+        "word": "contradictory",
+        "note": "모순되는"
+      },
+      {
+        "word": "antithetical",
+        "note": "정반대의"
+      },
+      {
+        "word": "incompatible",
+        "note": "양립할 수 없는"
+      },
+      {
+        "word": "irreconcilable",
+        "note": "조화시킬 수 없는"
+      },
+      {
+        "word": "perverse",
+        "note": "심술궂은, 비뚤어진"
+      },
+      {
+        "word": "unhelpful",
+        "note": "도움이 안 되는, 비협조적인"
+      },
+      {
+        "word": "obstinate",
+        "note": "고집 센"
+      },
+      {
+        "word": "mulish",
+        "note": "노새처럼 고집 센"
+      },
+      {
+        "word": "stubborn",
+        "note": "완고한"
+      },
+      {
+        "word": "intractable",
+        "note": "다루기 어려운"
+      },
+      {
+        "word": "reverse",
+        "note": "반대, 뒤집힌"
+      },
+      {
+        "word": "converse",
+        "note": "반대의 것"
+      },
+      {
+        "word": "antithesis",
+        "note": "정반대, 대조"
+      }
+    ],
+    "tips": [
+      "`contra-`(반대)에서 온 말이야. '반대의' 뜻이 기본이고, 사람한테 쓰면 '심술궂은, 반항적인' 뜻도 돼.",
+      "'on the contrary'는 '그와 반대로'야. 'to the contrary'는 '그와 반대되는'이야. 둘 다 GRE에서 자주 보여!"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "contravene",
+    "pos": "v.",
+    "head_meanings": [
+      "위반하다",
+      "거역하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "infringe",
+        "note": "침해하다, 위반하다"
+      },
+      {
+        "word": "breach",
+        "note": "위반하다, 어기다"
+      },
+      {
+        "word": "offend",
+        "note": "법을 어기다"
+      },
+      {
+        "word": "oppose",
+        "note": "반대하다"
+      },
+      {
+        "word": "gainsay",
+        "note": "부인하다"
+      },
+      {
+        "word": "disown",
+        "note": "부인하다"
+      },
+      {
+        "word": "repudiate",
+        "note": "거부하다, 부인하다"
+      },
+      {
+        "word": "deny",
+        "note": "부정하다"
+      }
+    ],
+    "tips": [
+      "`contra-`(반대) + `vene`(오다, come)야. 규칙에 반대 방향으로 오는 것, 즉 위반하는 거야.",
+      "주로 법이나 규칙을 어길 때 써. 'contravene the law'(법을 위반하다). violate, infringe와 비슷한 뜻이야!"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "contrite",
+    "pos": "adj.",
+    "head_meanings": [
+      "뉘우치는",
+      "후회하는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "apologetic",
+        "note": "사과하는, 미안해하는"
+      },
+      {
+        "word": "chastened",
+        "note": "반성하게 된, 혼나서 뉘우치는"
+      },
+      {
+        "word": "repentant",
+        "note": "뉘우치는, 회개하는"
+      },
+      {
+        "word": "remorseful",
+        "note": "후회하는, 양심의 가책을 느끼는"
+      },
+      {
+        "word": "regretful",
+        "note": "유감스러워하는"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `trite`(갈다, grind)에서 왔어. 양심에 완전히 갈려서 가루가 된 느낌이야.",
+      "잘못을 저지른 후 진심으로 뉘우치는 상태야. 'a contrite apology'(진심 어린 사과)라는 표현을 기억해!"
+    ]
+  },
+  {
+    "id": "063",
+    "word": "contrition",
+    "pos": "n.",
+    "head_meanings": [
+      "뉘우침",
+      "회개"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "remorse",
+        "note": "깊은 후회, 양심의 가책"
+      },
+      {
+        "word": "remorsefulness",
+        "note": "후회에 가득 찬 상태"
+      },
+      {
+        "word": "repentance",
+        "note": "회개, 참회"
+      },
+      {
+        "word": "penitence",
+        "note": "뉘우침, 참회"
+      },
+      {
+        "word": "sorrow",
+        "note": "슬픔, 후회의 감정"
+      },
+      {
+        "word": "regret",
+        "note": "유감, 후회"
+      },
+      {
+        "word": "ruefulness",
+        "note": "후회스러움"
+      },
+      {
+        "word": "pangs of conscience",
+        "note": "양심의 가책"
+      },
+      {
+        "word": "shame",
+        "note": "수치심"
+      },
+      {
+        "word": "guilt",
+        "note": "죄책감"
+      },
+      {
+        "word": "compunction",
+        "note": "양심의 가책, 후회"
+      },
+      {
+        "word": "rue",
+        "note": "후회, 뉘우침"
+      }
+    ],
+    "tips": [
+      "contrite(뉘우치는)의 명사형이야. 잘못에 대한 깊은 뉘우침과 후회를 뜻해.",
+      "기독교에서 고해성사의 핵심 개념이 contrition이야. 진심으로 죄를 뉘우치는 마음이라고 생각하면 돼!"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "contrived",
+    "pos": "adj.",
+    "head_meanings": [
+      "인위적인",
+      "부자연스러운"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "man-made",
+        "note": "인공적인, 사람이 만든"
+      },
+      {
+        "word": "manufactured",
+        "note": "만들어낸, 인위적인"
+      },
+      {
+        "word": "artificial",
+        "note": "인위적인, 자연스럽지 않은"
+      }
+    ],
+    "tips": [
+      "contrive(고안하다)의 과거분사 형용사야. 너무 일부러 만든 느낌이라 부자연스럽다는 뉘앙스야.",
+      "'a contrived plot'은 '억지스러운 줄거리'야. 자연스럽지 않고 꾸며낸 느낌이 들 때 이 단어를 써!"
+    ]
+  },
+  {
+    "id": "065",
+    "word": "contrive",
+    "pos": "v.",
+    "head_meanings": [
+      "고안하다",
+      "꾸미다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "bring about",
+        "note": "일으키다, 초래하다"
+      },
+      {
+        "word": "manufacture",
+        "note": "만들어내다"
+      },
+      {
+        "word": "engineer",
+        "note": "교묘하게 계획하다"
+      },
+      {
+        "word": "orchestrate",
+        "note": "조율하며 꾸미다"
+      },
+      {
+        "word": "create",
+        "note": "만들다"
+      },
+      {
+        "word": "devise",
+        "note": "고안하다, 궁리하다"
+      },
+      {
+        "word": "concoct",
+        "note": "꾸며내다, 조작하다"
+      },
+      {
+        "word": "construct",
+        "note": "구성하다, 짓다"
+      },
+      {
+        "word": "plan",
+        "note": "계획하다"
+      },
+      {
+        "word": "fabricate",
+        "note": "꾸며내다, 날조하다"
+      },
+      {
+        "word": "plot",
+        "note": "음모를 꾸미다"
+      }
+    ],
+    "tips": [
+      "중세 영어에서 '발명하다, 고안하다'라는 뜻으로 쓰였어. 머리를 굴려서 계획이나 장치를 만들어내는 거야.",
+      "긍정적(고안하다)과 부정적(꾸미다, 조작하다) 뉘앙스 둘 다 있어. 문맥에 따라 판단해야 해!"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "contrivance",
+    "pos": "n.",
+    "head_meanings": [
+      "고안",
+      "계략"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "pretext",
+        "note": "구실, 핑계"
+      },
+      {
+        "word": "device",
+        "note": "장치, 수단"
+      },
+      {
+        "word": "scheme",
+        "note": "계획, 책략"
+      }
+    ],
+    "tips": [
+      "contrive(고안하다)의 명사형이야. 고안해낸 장치나 교묘한 계략을 뜻해.",
+      "기계적 장치(device)뿐 아니라 계략이나 꾸며낸 핑계(pretext)까지 폭넓게 쓰여. 두 뜻 다 알아둬!"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "controversy",
+    "pos": "n.",
+    "head_meanings": [
+      "논쟁"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`contra-`(반대) + `vers`(돌다)에서 왔어. 의견이 반대 방향으로 돌아가며 부딪히는 게 논쟁이야.",
+      "발음 주의! 미국식은 '칸트러버시', 영국식은 '컨트로버시'야. GRE에서 controversy는 정말 자주 나오는 단어야!"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "controversial",
+    "pos": "adj.",
+    "head_meanings": [
+      "논쟁적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "controversy(논쟁)의 형용사형이야. 논란을 불러일으키는 주제나 인물에 쓰이지.",
+      "'a controversial decision'(논란이 되는 결정)처럼 자주 써. contentious랑 비슷한 뜻이니까 같이 외워!"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "controvert",
+    "pos": "v.",
+    "head_meanings": [
+      "논박하다",
+      "부인하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "disaffirm",
+        "note": "부인하다, 취소하다"
+      },
+      {
+        "word": "refute",
+        "note": "반박하다, 논박하다"
+      },
+      {
+        "word": "deny",
+        "note": "부정하다"
+      },
+      {
+        "word": "confute",
+        "note": "논파하다"
+      },
+      {
+        "word": "gainsay",
+        "note": "부인하다, 반박하다"
+      },
+      {
+        "word": "contravene",
+        "note": "위반하다, 반대하다"
+      },
+      {
+        "word": "disprove",
+        "note": "반증하다"
+      },
+      {
+        "word": "rebut",
+        "note": "반박하다"
+      }
+    ],
+    "tips": [
+      "`contra-`(반대) + `vert`(돌리다)야. 상대의 주장을 반대 방향으로 돌려서 꺾는 게 논박이야.",
+      "incontrovertible(논박할 수 없는, 명백한)이 GRE에서 더 자주 나와. '반박 불가한' = 확실한이라는 뜻이야!"
+    ]
+  },
+  {
+    "id": "070",
+    "word": "contumacious",
+    "pos": "adj.",
+    "head_meanings": [
+      "반항하는",
+      "고집부리는"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "recalcitrant",
+        "note": "고집 세게 반항하는"
+      },
+      {
+        "word": "obstreperous",
+        "note": "시끄럽게 반항하는"
+      },
+      {
+        "word": "refractory",
+        "note": "다루기 어려운, 반항적인"
+      },
+      {
+        "word": "unruly",
+        "note": "제멋대로인, 통제 불능의"
+      },
+      {
+        "word": "factious",
+        "note": "파벌적인, 분열을 일으키는"
+      }
+    ],
+    "tips": [
+      "`con-`(강조) + `tumac`(부풀다, swell)에서 왔어. 자존심이 부풀어서 권위에 반항하는 이미지야.",
+      "법정에서 판사의 명령에 불복하는 걸 contumacious라고 해. 권위에 완고하게 저항하는 거야!"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "contumely",
+    "pos": "n.",
+    "head_meanings": [
+      "오만",
+      "모욕"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "contumacious와 어원이 같아. 자존심이 부풀어서 남을 깔보며 모욕하는 거야.",
+      "셰익스피어 '햄릿'에서 'the proud man's contumely'(오만한 자의 모욕)라는 대사가 나와. 그 장면으로 기억해!"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "conundrum",
+    "pos": "n.",
+    "head_meanings": [
+      "수수께끼",
+      "난제"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "riddle",
+        "note": "수수께끼"
+      },
+      {
+        "word": "enigma",
+        "note": "불가사의, 수수께끼"
+      },
+      {
+        "word": "puzzle",
+        "note": "퍼즐, 난제"
+      },
+      {
+        "word": "mystery",
+        "note": "미스터리, 신비"
+      },
+      {
+        "word": "rebus",
+        "note": "그림 문자 수수께끼"
+      },
+      {
+        "word": "problem",
+        "note": "문제"
+      },
+      {
+        "word": "difficult question",
+        "note": "어려운 질문"
+      },
+      {
+        "word": "vexed question",
+        "note": "골치 아픈 문제"
+      },
+      {
+        "word": "difficulty",
+        "note": "어려움, 난관"
+      },
+      {
+        "word": "quandary",
+        "note": "곤경, 딜레마"
+      },
+      {
+        "word": "dilemma",
+        "note": "진퇴양난, 딜레마"
+      },
+      {
+        "word": "poser",
+        "note": "난제, 어려운 문제"
+      }
+    ],
+    "tips": [
+      "어원이 불확실한 재미있는 단어야. 16세기 대학생들이 장난으로 만든 가짜 라틴어라는 설이 있어.",
+      "그냥 puzzle보다 더 복잡하고 답이 없는 느낌이야. 'a moral conundrum'(도덕적 난제)처럼 심각한 문제에 자주 써!"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "convalesce",
+    "pos": "v.",
+    "head_meanings": [
+      "서서히 회복되다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`con-`(완전히) + `valesce`(강해지다, 건강해지다)야. 병 후에 서서히 건강을 되찾는 거야.",
+      "valiant(용감한), valid(유효한)와 어근이 같아. 다 '강하다, 건강하다'에서 나온 거야. convalesce = 다시 강해지다!"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "convene",
+    "pos": "v.",
+    "head_meanings": [
+      "소집하다",
+      "소환하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "summon",
+        "note": "소환하다, 불러모으다"
+      },
+      {
+        "word": "muster",
+        "note": "소집하다, 집합시키다"
+      },
+      {
+        "word": "convoke",
+        "note": "공식적으로 소집하다"
+      },
+      {
+        "word": "hold a session",
+        "note": "회의를 열다"
+      },
+      {
+        "word": "gather",
+        "note": "모으다, 모이다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `vene`(오다, come)야. 사람들이 함께 오게 하는 게 소집이야.",
+      "convention(관습, 대회)이랑 같은 어근이야. 사람들을 convene해서 모인 것이 convention(대회)이라고 연결해!"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "convey",
+    "pos": "v.",
+    "head_meanings": [
+      "나르다",
+      "전달하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "carry",
+        "note": "나르다, 운반하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `vey`(길, way)에서 왔어. 길을 따라 함께 가져가는 게 운반이야.",
+      "물리적 운반뿐 아니라 '의미를 전달하다' 뜻도 중요해. 'convey a message'(메시지를 전달하다)는 GRE 필수 표현이야!"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "conventional",
+    "pos": "adj.",
+    "head_meanings": [
+      "관습적인",
+      "전통적인",
+      "상투적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "customary",
+        "note": "관례적인"
+      },
+      {
+        "word": "traditional",
+        "note": "전통적인"
+      },
+      {
+        "word": "accepted",
+        "note": "받아들여진, 통용되는"
+      },
+      {
+        "word": "routine",
+        "note": "일상적인"
+      },
+      {
+        "word": "normal",
+        "note": "보통의"
+      },
+      {
+        "word": "standard",
+        "note": "표준적인"
+      },
+      {
+        "word": "regular",
+        "note": "규칙적인, 일반적인"
+      },
+      {
+        "word": "usual",
+        "note": "평소의, 보통의"
+      }
+    ],
+    "tips": [
+      "convention(관습, 대회)의 형용사형이야. 관습을 따르는, 기존 방식대로의 라는 뜻이야.",
+      "GRE에서는 부정적 뉘앙스로 '틀에 박힌, 독창적이지 못한'이라는 뜻으로도 나와. unconventional(비관습적인)과 대비해서 기억해!"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "converge",
+    "pos": "v.",
+    "head_meanings": [
+      "모이다",
+      "수렴하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "meet",
+        "note": "만나다, 합류하다"
+      },
+      {
+        "word": "approach",
+        "note": "접근하다"
+      },
+      {
+        "word": "focus",
+        "note": "초점을 맞추다"
+      },
+      {
+        "word": "concentrate",
+        "note": "집중시키다"
+      },
+      {
+        "word": "bring together",
+        "note": "한데 모으다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `verge`(기울다, 향하다)야. 여러 방향에서 한 점을 향해 기우는 게 수렴이야.",
+      "반의어 diverge(갈라지다)와 한 쌍으로 외워. converge ↔ diverge. 한 점으로 모이느냐, 퍼지느냐의 차이야!"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "conversant",
+    "pos": "adj.",
+    "head_meanings": [
+      "정통한",
+      "친숙한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "skilled",
+        "note": "숙련된"
+      },
+      {
+        "word": "privy to",
+        "note": "~을 알고 있는"
+      },
+      {
+        "word": "versed in",
+        "note": "~에 정통한"
+      },
+      {
+        "word": "practiced",
+        "note": "숙달된"
+      },
+      {
+        "word": "erudite",
+        "note": "박식한"
+      },
+      {
+        "word": "tutored",
+        "note": "가르침을 받은, 훈련된"
+      }
+    ],
+    "tips": [
+      "`converse`(대화하다)에서 왔어. 어떤 분야에 대해 대화할 수 있을 정도로 잘 아는 거야.",
+      "'conversant with ~'는 '~에 정통한'이야. 'conversant with the latest trends'(최신 트렌드에 밝은)처럼 써!"
+    ]
+  },
+  {
+    "id": "079",
+    "word": "converse",
+    "pos": "n./v.",
+    "head_meanings": [
+      "반대",
+      "이야기하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "reverse",
+        "note": "반대, 역"
+      },
+      {
+        "word": "contrary",
+        "note": "정반대"
+      },
+      {
+        "word": "antithesis",
+        "note": "정반대의 것"
+      },
+      {
+        "word": "counter",
+        "note": "반대되는 것"
+      },
+      {
+        "word": "inverse",
+        "note": "역, 반대"
+      }
+    ],
+    "tips": [
+      "두 뜻이 완전히 달라! ① 동사: 대화하다(talk), ② 명사/형용사: 반대, 역(opposite).",
+      "GRE에서는 명사 '반대' 뜻이 더 중요해. 'the converse is also true'(그 역도 성립한다)는 논리 표현이야!"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "convert",
+    "pos": "v./n.",
+    "head_meanings": [
+      "전환하다",
+      "개종자"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "apostate",
+        "note": "배교자, 변절자"
+      },
+      {
+        "word": "renegade",
+        "note": "배신자, 탈당자"
+      },
+      {
+        "word": "backslider",
+        "note": "옛 습관으로 돌아간 사람"
+      },
+      {
+        "word": "recreant",
+        "note": "배신자, 비겁한 자"
+      },
+      {
+        "word": "turncoat",
+        "note": "변절자"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `vert`(돌다, turn)야. 방향을 완전히 돌리는 거 → 전환하다, 개종하다.",
+      "명사로 쓰이면 '개종자, 전향자'야. 동의어들이 부정적(배신자)이지만, convert 자체는 중립적이야. 맥락을 봐야 해!"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "conveyance",
+    "pos": "n.",
+    "head_meanings": [
+      "운송",
+      "전달"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "transportation",
+        "note": "운송, 수송"
+      },
+      {
+        "word": "carriage",
+        "note": "운반, 마차"
+      },
+      {
+        "word": "movement",
+        "note": "이동"
+      },
+      {
+        "word": "transmission",
+        "note": "전달, 전송"
+      }
+    ],
+    "tips": [
+      "convey(나르다, 전달하다)의 명사형이야. 운송 행위나 운송 수단을 뜻해.",
+      "법률에서는 '재산 양도'라는 뜻으로도 써. 'conveyance of property'(재산 양도)는 법률 지문에서 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "conviction",
+    "pos": "n.",
+    "head_meanings": [
+      "확신",
+      "유죄 판결"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "opinion",
+        "note": "의견, 견해"
+      },
+      {
+        "word": "view",
+        "note": "견해, 관점"
+      },
+      {
+        "word": "creed",
+        "note": "신조, 신념"
+      },
+      {
+        "word": "doctrine",
+        "note": "교리, 주의"
+      },
+      {
+        "word": "dogma",
+        "note": "독단적 교리"
+      },
+      {
+        "word": "certitude",
+        "note": "확실함, 확신"
+      }
+    ],
+    "tips": [
+      "`convince`(확신시키다)에서 나온 말이야. 마음속 깊이 확신하는 믿음이 conviction이야.",
+      "두 뜻을 연결해: 배심원이 '확신'하면 → '유죄 판결'을 내려. conviction = 확신 + 유죄 판결!"
+    ]
+  },
+  {
+    "id": "083",
+    "word": "convince",
+    "pos": "v.",
+    "head_meanings": [
+      "확신시키다",
+      "설득하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "persuade",
+        "note": "설득하다"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `vince`(이기다, conquer)야. 논리로 상대를 완전히 이겨서 마음을 바꾸게 하는 거야.",
+      "convince vs persuade: convince는 '머리로 믿게 하다', persuade는 '행동하게 하다'야. GRE에서 이 차이가 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "convincing",
+    "pos": "adj.",
+    "head_meanings": [
+      "설득력 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "convince의 현재분사 형용사형이야. 남을 설득할 만큼 논리적이고 강력한 거지.",
+      "'a convincing argument'(설득력 있는 주장)은 GRE에서 아주 자주 나오는 표현이야. compelling과 비슷한 뜻!"
+    ]
+  },
+  {
+    "id": "085",
+    "word": "convivial",
+    "pos": "adj.",
+    "head_meanings": [
+      "유쾌한",
+      "쾌활한",
+      "사교적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "sociable",
+        "note": "사교적인"
+      },
+      {
+        "word": "genial",
+        "note": "상냥한, 친절한"
+      },
+      {
+        "word": "gregarious",
+        "note": "사교적인, 무리 짓기 좋아하는"
+      },
+      {
+        "word": "jovial",
+        "note": "명랑한, 쾌활한"
+      },
+      {
+        "word": "festal",
+        "note": "축제의, 즐거운"
+      },
+      {
+        "word": "merry",
+        "note": "즐거운, 유쾌한"
+      },
+      {
+        "word": "jolly",
+        "note": "명랑한"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `viv`(살다, live)에서 왔어. 함께 살면서 즐겁게 지내는 분위기야.",
+      "잔치나 파티에서 다 함께 먹고 마시며 즐거운 분위기를 convivial하다고 해. '함께 살자! 즐겁게!' 이미지로 외워!"
+    ]
+  },
+  {
+    "id": "086",
+    "word": "convoke",
+    "pos": "v.",
+    "head_meanings": [
+      "소집하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "meet",
+        "note": "모이다"
+      },
+      {
+        "word": "gather",
+        "note": "모으다"
+      },
+      {
+        "word": "summon",
+        "note": "소환하다"
+      },
+      {
+        "word": "assemble",
+        "note": "모으다, 집합시키다"
+      },
+      {
+        "word": "convene",
+        "note": "소집하다"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `voke`(부르다, call)야. 함께 불러 모으는 게 소집이야. invoke, revoke랑 같은 어근!",
+      "convene이랑 거의 같은 뜻이야. 다만 convoke가 좀 더 공식적인 느낌이야. 의회를 소집할 때 쓰는 격식체라고 생각해!"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "convoluted",
+    "pos": "adj.",
+    "head_meanings": [
+      "복잡한",
+      "뒤얽힌"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "tortuous",
+        "note": "꼬불꼬불한, 복잡한"
+      },
+      {
+        "word": "intricate",
+        "note": "복잡하게 얽힌"
+      },
+      {
+        "word": "complicated",
+        "note": "복잡한"
+      },
+      {
+        "word": "complex",
+        "note": "복합적인"
+      },
+      {
+        "word": "involved",
+        "note": "복잡하게 얽힌"
+      },
+      {
+        "word": "elaborate",
+        "note": "정교하고 복잡한"
+      },
+      {
+        "word": "serpentine",
+        "note": "뱀처럼 구불구불한"
+      },
+      {
+        "word": "labyrinthine",
+        "note": "미로 같은"
+      },
+      {
+        "word": "tangled",
+        "note": "엉킨"
+      },
+      {
+        "word": "winding",
+        "note": "구불구불한"
+      },
+      {
+        "word": "sinuous",
+        "note": "굽이치는"
+      },
+      {
+        "word": "Byzantine",
+        "note": "지나치게 복잡한"
+      },
+      {
+        "word": "confused",
+        "note": "혼란스러운"
+      },
+      {
+        "word": "muddled",
+        "note": "뒤죽박죽인"
+      },
+      {
+        "word": "confusing",
+        "note": "혼란을 주는"
+      },
+      {
+        "word": "bewildering",
+        "note": "당혹스럽게 복잡한"
+      },
+      {
+        "word": "baffling",
+        "note": "어리둥절하게 하는"
+      },
+      {
+        "word": "difficult to understand",
+        "note": "이해하기 어려운"
+      }
+    ],
+    "tips": [
+      "`con-`(함께) + `volute`(감다, roll)에서 왔어. 여러 겹으로 감겨서 풀기 어려운 상태가 convoluted야.",
+      "'a convoluted argument'는 '꼬인 논리, 복잡한 주장'이야. 뇌의 주름을 convolution이라고 하는 것도 같은 어원이야!"
+    ]
+  },
+  {
+    "id": "088",
+    "word": "convulsion",
+    "pos": "n.",
+    "head_meanings": [
+      "격동",
+      "경련"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "upheaval",
+        "note": "대격변, 큰 변동"
+      },
+      {
+        "word": "eruption",
+        "note": "폭발, 분출"
+      },
+      {
+        "word": "cataclysm",
+        "note": "대격변"
+      },
+      {
+        "word": "turmoil",
+        "note": "혼란, 소동"
+      },
+      {
+        "word": "turbulence",
+        "note": "격동, 난기류"
+      },
+      {
+        "word": "tumult",
+        "note": "소란, 소동"
+      },
+      {
+        "word": "disruption",
+        "note": "붕괴, 혼란"
+      },
+      {
+        "word": "agitation",
+        "note": "동요, 선동"
+      },
+      {
+        "word": "disturbance",
+        "note": "혼란, 방해"
+      },
+      {
+        "word": "unrest",
+        "note": "불안, 소요"
+      },
+      {
+        "word": "disorder",
+        "note": "무질서, 혼란"
+      },
+      {
+        "word": "fits of laughter",
+        "note": "웃음 발작"
+      },
+      {
+        "word": "paroxysms of laughter",
+        "note": "폭소 발작"
+      },
+      {
+        "word": "uncontrollable laughter",
+        "note": "참을 수 없는 웃음"
+      },
+      {
+        "word": "hysterics",
+        "note": "히스테리, 발작적 웃음"
+      },
+      {
+        "word": "fit",
+        "note": "발작"
+      },
+      {
+        "word": "seizure",
+        "note": "발작, 경련"
+      },
+      {
+        "word": "paroxysm",
+        "note": "발작, 격발"
+      },
+      {
+        "word": "spasm",
+        "note": "경련"
+      },
+      {
+        "word": "attack",
+        "note": "발작"
+      }
+    ],
+    "tips": [
+      "`con-`(완전히) + `vuls`(잡아당기다, pull)에서 왔어. 근육이 마구 잡아당겨지는 게 경련이야.",
+      "신체적 경련뿐 아니라 사회적 격동에도 써. 'political convulsions'(정치적 격동)처럼 비유적으로도 자주 쓰여!"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "copious",
+    "pos": "adj.",
+    "head_meanings": [
+      "풍부한",
+      "방대한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "plentiful",
+        "note": "풍부한"
+      },
+      {
+        "word": "profuse",
+        "note": "넘치도록 많은"
+      },
+      {
+        "word": "abundant",
+        "note": "풍부한"
+      },
+      {
+        "word": "bountiful",
+        "note": "넉넉한, 풍성한"
+      },
+      {
+        "word": "extensive",
+        "note": "광범위한, 방대한"
+      },
+      {
+        "word": "full",
+        "note": "가득한"
+      },
+      {
+        "word": "ample",
+        "note": "넉넉한, 충분한"
+      }
+    ],
+    "tips": [
+      "`cop-`(풍요, abundance)에서 왔어. cornucopia(풍요의 뿔)의 copia와 같은 어원이야.",
+      "'copious notes'는 '방대한 양의 메모'야. 양이 아주 많다는 뜻이지, 질이 좋다는 뜻은 아니야!"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "cornucopia",
+    "pos": "n.",
+    "head_meanings": [
+      "풍요의 뿔",
+      "풍부"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "horn of plenty",
+        "note": "풍요의 뿔(그리스 신화)"
+      },
+      {
+        "word": "abundance",
+        "note": "풍부함"
+      },
+      {
+        "word": "wealth",
+        "note": "부유함, 풍요"
+      },
+      {
+        "word": "richness",
+        "note": "풍성함"
+      },
+      {
+        "word": "opulence",
+        "note": "호화로움, 풍요"
+      }
+    ],
+    "tips": [
+      "`cornu`(뿔) + `copia`(풍요)야. 그리스 신화에서 염소 뿔에 과일이 가득 쏟아지는 이미지야.",
+      "추수감사절(Thanksgiving) 장식에 과일이 가득한 뿔 모양 바구니 본 적 있지? 그게 cornucopia야!"
+    ]
+  },
+  {
+    "id": "091",
+    "word": "corporeal",
+    "pos": "adj.",
+    "head_meanings": [
+      "육체적인",
+      "물질적인"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "physical",
+        "note": "물리적인, 신체의"
+      },
+      {
+        "word": "mortal",
+        "note": "유한한, 인간의"
+      },
+      {
+        "word": "worldly",
+        "note": "세속적인"
+      },
+      {
+        "word": "nonspiritual",
+        "note": "정신적이지 않은"
+      },
+      {
+        "word": "perceptible",
+        "note": "감각으로 느낄 수 있는"
+      }
+    ],
+    "tips": [
+      "`corpus`(몸, body)에서 왔어. 정신이 아닌 몸에 속하는, 물질적인이라는 뜻이야.",
+      "corpse(시체), corporation(법인=법적 '몸')과 같은 어근이야. corporeal ↔ incorporeal(비물질적인)로 쌍으로 외워!"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "corpulent",
+    "pos": "adj.",
+    "head_meanings": [
+      "뚱뚱한",
+      "비대한"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "stout",
+        "note": "땅딸막하고 뚱뚱한"
+      },
+      {
+        "word": "thick",
+        "note": "두꺼운, 통통한"
+      },
+      {
+        "word": "obese",
+        "note": "비만의"
+      },
+      {
+        "word": "plump",
+        "note": "통통한"
+      }
+    ],
+    "tips": [
+      "`corpus`(몸)에서 왔어. 몸이 큰, 즉 뚱뚱한이야. corporeal이랑 같은 어근이지만 뜻이 다르지.",
+      "fat이라고 직접 말하면 실례니까 corpulent라고 돌려 말하는 거야. 격식체 '비만'이라고 생각해!"
+    ]
+  },
+  {
+    "id": "093",
+    "word": "correlation",
+    "pos": "n.",
+    "head_meanings": [
+      "상관관계"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "interrelationship",
+        "note": "상호관계"
+      },
+      {
+        "word": "tie-in",
+        "note": "연관, 관련"
+      },
+      {
+        "word": "dependence",
+        "note": "의존관계"
+      },
+      {
+        "word": "comparison",
+        "note": "비교, 대조"
+      },
+      {
+        "word": "reciprocation",
+        "note": "상호 작용"
+      }
+    ],
+    "tips": [
+      "`co-`(함께) + `relation`(관계)이야. 두 가지가 함께 관련되어 있는 거지.",
+      "'correlation does not imply causation'(상관관계가 인과관계를 의미하지 않는다)은 GRE 필수 개념이야. 꼭 알아둬!"
+    ]
+  },
+  {
+    "id": "094",
+    "word": "correspond",
+    "pos": "v.",
+    "head_meanings": [
+      "일치하다",
+      "통신하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`co-`(함께) + `respond`(응답하다)야. 서로 응답하듯 일치하거나 편지를 주고받는 거야.",
+      "'correspond to ~'는 '~에 해당하다', 'correspond with ~'는 '~와 서신을 교환하다'야. 전치사에 따라 뜻이 달라!"
+    ]
+  },
+  {
+    "id": "095",
+    "word": "corridor",
+    "pos": "n.",
+    "head_meanings": [
+      "복도",
+      "회랑"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "이탈리아어 `corridore`(달리는 곳)에서 왔어. 길게 달릴 수 있는 통로가 복도야.",
+      "'corridors of power'는 '권력의 회랑'이라는 관용표현이야. 정치적 영향력이 행사되는 곳을 비유적으로 가리켜!"
+    ]
+  },
+  {
+    "id": "096",
+    "word": "corroborate",
+    "pos": "v.",
+    "head_meanings": [
+      "확증하다",
+      "보강하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "confirm",
+        "note": "확인하다"
+      },
+      {
+        "word": "prove",
+        "note": "증명하다"
+      },
+      {
+        "word": "verify",
+        "note": "검증하다"
+      },
+      {
+        "word": "uphold",
+        "note": "지지하다"
+      },
+      {
+        "word": "support",
+        "note": "지지하다, 뒷받침하다"
+      },
+      {
+        "word": "sustain",
+        "note": "유지하다, 뒷받침하다"
+      },
+      {
+        "word": "affirm",
+        "note": "긍정하다, 확인하다"
+      },
+      {
+        "word": "endorse",
+        "note": "보증하다, 지지하다"
+      },
+      {
+        "word": "ratify",
+        "note": "비준하다, 승인하다"
+      },
+      {
+        "word": "authenticate",
+        "note": "인증하다"
+      },
+      {
+        "word": "validate",
+        "note": "유효하게 하다"
+      },
+      {
+        "word": "certify",
+        "note": "증명하다"
+      },
+      {
+        "word": "attest to",
+        "note": "~을 증언하다"
+      },
+      {
+        "word": "testify to",
+        "note": "~을 증언하다"
+      },
+      {
+        "word": "vouch for",
+        "note": "~을 보증하다"
+      },
+      {
+        "word": "substantiate",
+        "note": "실증하다, 입증하다"
+      }
+    ],
+    "tips": [
+      "`co-`(함께) + `robor`(힘, strength)에서 왔어. 함께 힘을 보태서 더 강하게 만드는 거야.",
+      "GRE 최빈출 단어 중 하나야! '증거로 뒷받침하다'라는 뜻이야. 'corroborating evidence'(뒷받침하는 증거)는 꼭 외워!"
+    ]
+  },
+  {
+    "id": "097",
+    "word": "corrosive",
+    "pos": "adj.",
+    "head_meanings": [
+      "부식성의"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "erodent",
+        "note": "침식하는"
+      },
+      {
+        "word": "caustic",
+        "note": "부식성의, 신랄한"
+      }
+    ],
+    "tips": [
+      "`cor-`(완전히) + `ros`(갉아먹다, gnaw)에서 왔어. 금속이 녹슬며 서서히 닳아가는 거야.",
+      "비유적으로 '해로운, 파괴적인'이라는 뜻도 있어. 'corrosive criticism'(파괴적인 비판)처럼 부정적 영향을 묘사할 때 써!"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "coruscate",
+    "pos": "v.",
+    "head_meanings": [
+      "번쩍이다",
+      "반짝 빛나다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "sparkle",
+        "note": "반짝반짝 빛나다"
+      },
+      {
+        "word": "glitter",
+        "note": "번쩍번쩍 빛나다"
+      },
+      {
+        "word": "flash",
+        "note": "번쩍이다"
+      }
+    ],
+    "tips": [
+      "라틴어 `coruscare`(번쩍이다)에서 왔어. 보석이나 별이 반짝반짝 빛나는 이미지야.",
+      "비유적으로 재치 있는 대화가 번뜩일 때도 써. 'coruscating wit'(번뜩이는 재치)는 GRE에서 볼 수 있는 표현이야!"
+    ]
+  },
+  {
+    "id": "099",
+    "word": "cosset",
+    "pos": "v.",
+    "head_meanings": [
+      "응석받이로 기르다",
+      "귀여워하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 '애완 양'이라는 뜻에서 왔어. 어린 양을 품에 안고 귀여워하듯 과하게 돌봐주는 거야.",
+      "pamper, coddle, spoil이랑 비슷한 뜻이야. 너무 과보호해서 키우는 느낌이라고 생각해!"
+    ]
+  },
+  {
+    "id": "100",
+    "word": "coterie",
+    "pos": "n.",
+    "head_meanings": [
+      "동아리",
+      "사교 모임"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "clique",
+        "note": "배타적인 소그룹"
+      },
+      {
+        "word": "clan",
+        "note": "일가, 파벌"
+      },
+      {
+        "word": "set",
+        "note": "특정 부류의 그룹"
+      },
+      {
+        "word": "faction",
+        "note": "파벌, 분파"
+      },
+      {
+        "word": "camp",
+        "note": "진영"
+      },
+      {
+        "word": "crowd",
+        "note": "무리, 패거리"
+      },
+      {
+        "word": "group",
+        "note": "집단"
+      },
+      {
+        "word": "band",
+        "note": "무리, 일당"
+      },
+      {
+        "word": "crew",
+        "note": "패거리, 일행"
+      },
+      {
+        "word": "club",
+        "note": "클럽, 동호회"
+      }
+    ],
+    "tips": [
+      "프랑스어에서 온 말이야. 공통 관심사를 가진 배타적인 소규모 모임을 뜻해.",
+      "clique와 비슷하지만 coterie가 좀 더 지적이고 문화적인 모임 느낌이야. 문학 coterie, 예술 coterie처럼!"
+    ]
+  },
+  {
+    "id": "101",
+    "word": "countenance",
+    "pos": "v./n.",
+    "head_meanings": [
+      "찬성하다",
+      "용모",
+      "표정"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "endorse",
+        "note": "지지하다, 승인하다"
+      },
+      {
+        "word": "support",
+        "note": "지지하다"
+      },
+      {
+        "word": "encourage",
+        "note": "격려하다"
+      },
+      {
+        "word": "permit",
+        "note": "허락하다"
+      },
+      {
+        "word": "promote",
+        "note": "촉진하다"
+      },
+      {
+        "word": "further",
+        "note": "진전시키다"
+      },
+      {
+        "word": "profile",
+        "note": "옆모습, 윤곽"
+      },
+      {
+        "word": "silhouette",
+        "note": "실루엣, 윤곽"
+      },
+      {
+        "word": "features",
+        "note": "이목구비"
+      },
+      {
+        "word": "contours",
+        "note": "윤곽선"
+      },
+      {
+        "word": "visage",
+        "note": "얼굴, 용모"
+      },
+      {
+        "word": "appearance",
+        "note": "외모, 외관"
+      }
+    ],
+    "tips": [
+      "명사: 얼굴, 표정 / 동사: 찬성하다, 용인하다. 전혀 다른 두 뜻이 있으니 주의해!",
+      "동사 뜻은 '얼굴을 찡그리지 않고 받아들이다'에서 나왔어. 찬성하는 표정을 짓는다 → 용인하다로 연결해봐!"
+    ]
+  },
+  {
+    "id": "102",
+    "word": "counter",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "반대하다",
+      "반격하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "oppose",
+        "note": "반대하다"
+      },
+      {
+        "word": "dispute",
+        "note": "이의를 제기하다"
+      },
+      {
+        "word": "argue against/with",
+        "note": "~에 반론하다"
+      },
+      {
+        "word": "contradict",
+        "note": "반박하다"
+      },
+      {
+        "word": "negate",
+        "note": "부정하다"
+      },
+      {
+        "word": "challenge",
+        "note": "이의를 제기하다"
+      },
+      {
+        "word": "contest",
+        "note": "다투다, 이의 제기하다"
+      },
+      {
+        "word": "gainsay",
+        "note": "부인하다"
+      },
+      {
+        "word": "confute",
+        "note": "논파하다"
+      },
+      {
+        "word": "respond to",
+        "note": "~에 대응하다"
+      },
+      {
+        "word": "parry",
+        "note": "받아치다, 막다"
+      },
+      {
+        "word": "retort to",
+        "note": "~에 맞받아치다"
+      },
+      {
+        "word": "answer",
+        "note": "응답하다, 맞서다"
+      },
+      {
+        "word": "opposing",
+        "note": "반대하는"
+      },
+      {
+        "word": "opposed",
+        "note": "반대되는"
+      },
+      {
+        "word": "opposite",
+        "note": "정반대의"
+      }
+    ],
+    "tips": [
+      "`contra-`(반대)에서 온 말이야. 상대의 공격이나 주장에 반대 방향으로 맞서는 거야.",
+      "'counter an argument'는 '주장에 반박하다'야. 명사(계산대), 부사(반대로)로도 쓰이니까 품사별 뜻을 다 알아둬!"
+    ]
+  },
+  {
+    "id": "103",
+    "word": "counteract",
+    "pos": "v.",
+    "head_meanings": [
+      "상쇄하다",
+      "방해하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "prevent",
+        "note": "방지하다"
+      },
+      {
+        "word": "thwart",
+        "note": "좌절시키다"
+      },
+      {
+        "word": "frustrate",
+        "note": "좌절시키다"
+      },
+      {
+        "word": "foil",
+        "note": "저지하다"
+      },
+      {
+        "word": "impede",
+        "note": "방해하다"
+      },
+      {
+        "word": "curb",
+        "note": "억제하다"
+      },
+      {
+        "word": "hinder",
+        "note": "방해하다"
+      },
+      {
+        "word": "hamper",
+        "note": "방해하다"
+      },
+      {
+        "word": "check",
+        "note": "저지하다"
+      },
+      {
+        "word": "defeat",
+        "note": "무찌르다"
+      },
+      {
+        "word": "offset",
+        "note": "상쇄하다"
+      },
+      {
+        "word": "counterbalance",
+        "note": "균형을 맞추다"
+      },
+      {
+        "word": "balance (out)",
+        "note": "균형을 이루게 하다"
+      },
+      {
+        "word": "cancel out",
+        "note": "상쇄시키다"
+      },
+      {
+        "word": "even out",
+        "note": "균등하게 하다"
+      },
+      {
+        "word": "counterpoise",
+        "note": "평형을 이루게 하다"
+      },
+      {
+        "word": "countervail",
+        "note": "상쇄하다, 대항하다"
+      },
+      {
+        "word": "compensate for",
+        "note": "보상하다"
+      },
+      {
+        "word": "make up for",
+        "note": "보충하다, 만회하다"
+      },
+      {
+        "word": "neutralize",
+        "note": "중화시키다"
+      },
+      {
+        "word": "nullify",
+        "note": "무효화하다"
+      },
+      {
+        "word": "negate",
+        "note": "부정하다, 무효로 하다"
+      },
+      {
+        "word": "invalidate",
+        "note": "무효화하다"
+      }
+    ],
+    "tips": [
+      "`counter-`(반대) + `act`(행동하다)야. 반대 방향으로 행동해서 효과를 없애는 거야.",
+      "약의 부작용을 counteract한다고 해. 나쁜 효과를 반대 방향의 힘으로 상쇄시키는 이미지로 기억해!"
+    ]
+  },
+  {
+    "id": "104",
+    "word": "counterfeit",
+    "pos": "adj./n./v.",
+    "head_meanings": [
+      "위조의",
+      "가짜의",
+      "위조하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "fake",
+        "note": "가짜의"
+      },
+      {
+        "word": "bogus",
+        "note": "위조된, 가짜의"
+      },
+      {
+        "word": "forged",
+        "note": "위조된"
+      },
+      {
+        "word": "imitation",
+        "note": "모조의"
+      },
+      {
+        "word": "substitute",
+        "note": "대용품의"
+      },
+      {
+        "word": "ersatz",
+        "note": "대용의, 모조의"
+      },
+      {
+        "word": "phoney",
+        "note": "가짜의, 엉터리의"
+      },
+      {
+        "word": "fraud",
+        "note": "사기, 사기꾼"
+      },
+      {
+        "word": "sham",
+        "note": "가짜, 허위"
+      },
+      {
+        "word": "feign",
+        "note": "~인 척하다"
+      },
+      {
+        "word": "simulate",
+        "note": "가장하다, 흉내내다"
+      },
+      {
+        "word": "pretend",
+        "note": "~인 체하다"
+      }
+    ],
+    "tips": [
+      "`counter-`(반대) + `feit`(만들다, make)야. 진짜에 반대되는 것을 만드는 거, 즉 위조야.",
+      "위조지폐를 counterfeit money라고 해. 진짜를 속이려고 교묘하게 모방한다는 점이 핵심이야!"
+    ]
+  },
+  {
+    "id": "105",
+    "word": "counterforce",
+    "pos": "n.",
+    "head_meanings": [
+      "대항 세력",
+      "저항력"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "opposition",
+        "note": "반대, 대항"
+      },
+      {
+        "word": "resistance",
+        "note": "저항, 반발"
+      }
+    ],
+    "tips": [
+      "`counter-`(반대) + `force`(힘)야. 말 그대로 반대 방향의 힘, 즉 대항 세력이야.",
+      "물리학에서는 반작용력, 정치에서는 견제 세력을 의미해. 어떤 힘에 맞서는 힘이라고 기억해!"
+    ]
+  },
+  {
+    "id": "106",
+    "word": "countermand",
+    "pos": "v.",
+    "head_meanings": [
+      "명령을 취소하다"
+    ],
+    "synonyms_from_image": [
+      {
+        "word": "repeal",
+        "note": "폐지하다"
+      },
+      {
+        "word": "thwart",
+        "note": "좌절시키다"
+      },
+      {
+        "word": "annul",
+        "note": "무효화하다"
+      },
+      {
+        "word": "recall",
+        "note": "소환하다, 철회하다"
+      },
+      {
+        "word": "rescind",
+        "note": "취소하다, 철회하다"
+      },
+      {
+        "word": "abrogate",
+        "note": "폐기하다"
+      },
+      {
+        "word": "overrule",
+        "note": "기각하다, 뒤집다"
+      },
+      {
+        "word": "call back",
+        "note": "철회하다"
+      },
+      {
+        "word": "abolish",
+        "note": "폐지하다"
+      }
+    ],
+    "tips": [
+      "`counter-`(반대) + `mand`(명령하다, command)야. 이전 명령에 반대되는 명령을 내리는 거야.",
+      "군대에서 'countermand an order'(명령을 철회하다)라고 써. 이미 내려진 명령을 취소하는 거라는 걸 기억해!"
+    ]
+  }
+]
