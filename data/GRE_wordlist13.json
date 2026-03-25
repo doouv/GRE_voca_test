@@ -1,0 +1,2476 @@
+[
+  {
+    "id": "001",
+    "word": "deception",
+    "pos": "n.",
+    "head_meanings": [
+      "속임",
+      "기만",
+      "거짓말",
+      "속고 있음",
+      "속은 상태"
+    ],
+    "synonyms_from_image": [
+      { "word": "deceit", "note": "고의적 속임수" },
+      { "word": "deceitfulness", "note": "속이는 성질" },
+      { "word": "duplicity", "note": "이중적 태도로 속임" },
+      { "word": "double-dealing", "note": "양다리 걸치며 속이기" },
+      { "word": "fraud", "note": "사기, 부정행위" },
+      { "word": "trickery", "note": "교묘한 속임수" },
+      { "word": "chicanery", "note": "법적·교묘한 속임수" },
+      { "word": "deviousness", "note": "교활하게 속이는 성질" },
+      { "word": "slyness", "note": "은밀한 교활함" },
+      { "word": "wiliness", "note": "약삭빠른 교활함" },
+      { "word": "guile", "note": "교활한 꾀" },
+      { "word": "bluff", "note": "허세로 속이기" },
+      { "word": "lying", "note": "거짓말" },
+      { "word": "pretence", "note": "가장, 꾸밈" },
+      { "word": "treachery", "note": "배신적 속임" },
+      { "word": "trick", "note": "속임수, 꾀" },
+      { "word": "sham", "note": "가짜, 위장" },
+      { "word": "hoax", "note": "장난식 사기" },
+      { "word": "fake", "note": "위조, 가짜" },
+      { "word": "artifice", "note": "책략, 술책" },
+      { "word": "stratagem", "note": "전략적 속임수" },
+      { "word": "ruse", "note": "계략, 꾀" },
+      { "word": "scheme", "note": "음모, 계획" },
+      { "word": "dodge", "note": "교묘한 회피·속임" },
+      { "word": "machination", "note": "음모, 책략" },
+      { "word": "subterfuge", "note": "구실을 대며 속이기" },
+      { "word": "cheat", "note": "속임수, 사기" },
+      { "word": "swindle", "note": "돈을 노린 사기" },
+      { "word": "con", "note": "신용사기" }
+    ],
+    "tips": [
+      "de-(강조) + cept(잡다)에서 왔어. 상대를 '잡아서 속이는' 거라고 생각하면 돼.",
+      "GRE에서 deception은 chicanery, subterfuge 같은 고급 동의어랑 묶여서 자주 나와. 세트로 외워두면 좋아!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "deceptive",
+    "pos": "adj.",
+    "head_meanings": [
+      "남을 속이는",
+      "남의 판단을 그르치게 하는",
+      "오해를 낳는",
+      "현혹시키는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 동의어 목록이 전부 명사(deceit, fraud 등)라서 형용사인 deceptive랑 품사가 안 맞아. 그래서 비워뒀어.",
+      "deceptive appearance(겉보기와 다른 외모)처럼 '겉과 속이 다르다'는 맥락에서 많이 써."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "decimate",
+    "pos": "v.",
+    "head_meanings": [
+      "많은 사람을 죽이다",
+      "엄명에 한 명 꼴로 죽이다"
+    ],
+    "synonyms_from_image": [
+      { "word": "ruin", "note": "완전히 망치다" },
+      { "word": "destroy", "note": "파괴하다" },
+      { "word": "demolish", "note": "때려 부수다" },
+      { "word": "exterminate", "note": "씨를 말리다, 근절하다" },
+      { "word": "slaughter", "note": "대량 학살하다" },
+      { "word": "annihilate", "note": "전멸시키다" }
+    ],
+    "tips": [
+      "deci-는 '10분의 1'이라는 뜻이야. 로마 군대에서 반란 시 10명 중 1명을 처형한 데서 유래했어.",
+      "현대 영어에서는 '10분의 1'이 아니라 '대부분을 파괴하다'라는 뜻으로 써. GRE에서도 이 뜻으로 나와!"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "decipher",
+    "pos": "v.",
+    "head_meanings": [
+      "암호를 풀다",
+      "해독하다",
+      "번역하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "decode", "note": "암호를 풀다" },
+      { "word": "decrypt", "note": "복호화하다" },
+      { "word": "cryptanalyze", "note": "암호를 분석하다" },
+      { "word": "translate", "note": "번역하다, 옮기다" },
+      { "word": "construe", "note": "해석하다, 풀이하다" }
+    ],
+    "tips": [
+      "de-(제거) + cipher(암호)야. 암호를 '제거'해서 뜻을 알아내는 거지.",
+      "GRE에서는 물리적 암호뿐 아니라 '난해한 글이나 현상을 해석하다'라는 뜻으로도 나와."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "decisive",
+    "pos": "adj.",
+    "head_meanings": [
+      "결정적인",
+      "중대한",
+      "단호한",
+      "과단성 있는",
+      "명확한",
+      "압도적인"
+    ],
+    "synonyms_from_image": [
+      { "word": "unmistakable", "note": "틀림없는, 명확한" }
+    ],
+    "tips": [
+      "decide(결정하다)에서 나온 형용사야. '칼로 자르듯 확실한' 느낌을 떠올려봐.",
+      "decisive victory(결정적 승리), decisive person(단호한 사람) 두 가지 용법 다 GRE에서 나와."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "decline",
+    "pos": "v./n.",
+    "head_meanings": [
+      "거절하다",
+      "아래로 향하게 하다",
+      "쇠퇴하다",
+      "감퇴하다",
+      "떨어지다",
+      "저하하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "waning", "note": "점점 줄어듦" },
+      { "word": "turn down", "note": "거절하다" },
+      { "word": "refuse", "note": "단호히 거절하다" },
+      { "word": "degenerate", "note": "퇴화하다, 악화하다" },
+      { "word": "deteriorate", "note": "나빠지다, 악화하다" },
+      { "word": "fail", "note": "실패하다, 약해지다" },
+      { "word": "fall", "note": "떨어지다" },
+      { "word": "weaken", "note": "약해지다" },
+      { "word": "decrease", "note": "감소하다" },
+      { "word": "diminish", "note": "줄어들다" },
+      { "word": "lessen", "note": "줄이다, 감소시키다" }
+    ],
+    "tips": [
+      "de-(아래로) + cline(기울다)야. 아래로 기울어지니까 '쇠퇴하다', '거절하다' 둘 다 돼.",
+      "GRE에서 decline은 '거절'보다 '쇠퇴, 감소'의 뜻으로 더 자주 나와. 문맥 잘 봐야 해!"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "decode",
+    "pos": "v.",
+    "head_meanings": [
+      "암호 등을 번역하다",
+      "해독하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "de-(제거) + code(암호)야. 코드를 풀어내는 거지. decipher랑 거의 같은 뜻이야.",
+      "비유적으로 '숨은 의미를 파악하다'라는 뜻으로도 쓰여. decode body language 같은 표현도 있어."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "decomposition",
+    "pos": "n.",
+    "head_meanings": [
+      "부패",
+      "분해"
+    ],
+    "synonyms_from_image": [
+      { "word": "decay", "note": "썩음, 부패" },
+      { "word": "rot", "note": "부패, 썩음" },
+      { "word": "putrefaction", "note": "부패, 악취 나는 썩음" },
+      { "word": "disintegration", "note": "붕괴, 분해" },
+      { "word": "corruption", "note": "변질, 부패" },
+      { "word": "corrosion", "note": "부식, 침식" }
+    ],
+    "tips": [
+      "de-(분리) + composition(구성)이야. 구성이 분리되니까 '분해, 부패'가 되는 거지.",
+      "화학에서는 '분해 반응', 생물에서는 '사체 부패' 뜻으로 쓰여. GRE에서는 보통 비유적으로 '쇠락' 맥락이야."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "decorative",
+    "pos": "adj.",
+    "head_meanings": [
+      "장식용의",
+      "장식적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "decor(장식) + -ative(~의 성질을 가진)야. 실용성보다 꾸미기 위한 거라는 뉘앙스가 있어.",
+      "GRE에서 decorative는 보통 '실질적 기능 없이 외관만 꾸미는'이라는 약간 부정적 뉘앙스로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "decorum",
+    "pos": "n.",
+    "head_meanings": [
+      "단정",
+      "예의 바름",
+      "에티켓",
+      "예절",
+      "적당함",
+      "알맞음",
+      "어울림"
+    ],
+    "synonyms_from_image": [
+      { "word": "propriety", "note": "적절함, 예의 바름" },
+      { "word": "seemliness", "note": "격에 맞음, 알맞음" },
+      { "word": "decency", "note": "점잖음, 예절" },
+      { "word": "correctness", "note": "올바름, 정확함" },
+      { "word": "politeness", "note": "공손함, 예의" },
+      { "word": "courtesy", "note": "정중한 태도" },
+      { "word": "good manners", "note": "좋은 매너, 예절" },
+      { "word": "dignity", "note": "품위, 위엄" },
+      { "word": "respectability", "note": "존경받을 만함" },
+      { "word": "modesty", "note": "겸손, 단정함" },
+      { "word": "demureness", "note": "얌전함, 조신함" },
+      { "word": "etiquette", "note": "에티켓, 예법" },
+      { "word": "protocol", "note": "의전, 격식" },
+      { "word": "custom", "note": "관습, 관례" },
+      { "word": "convention", "note": "관례, 관행" },
+      { "word": "formalities", "note": "격식, 의례" },
+      { "word": "fitness", "note": "적합함, 어울림" }
+    ],
+    "tips": [
+      "decor(어울림, 적절함)에서 왔어. '자리에 어울리는 행동거지'가 decorum이야.",
+      "a breach of decorum(예절 위반)이라는 표현이 GRE에서 자주 나와. propriety랑 세트로 외워!"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "decorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "예의 바른",
+      "단정한",
+      "품위 있는",
+      "근엄한"
+    ],
+    "synonyms_from_image": [
+      { "word": "proper", "note": "적절한, 올바른" },
+      { "word": "seemly", "note": "격에 맞는" },
+      { "word": "decent", "note": "점잖은, 단정한" },
+      { "word": "becoming", "note": "어울리는, 알맞은" },
+      { "word": "befitting", "note": "적합한, 걸맞은" },
+      { "word": "tasteful", "note": "품위 있는, 세련된" },
+      { "word": "correct", "note": "올바른, 적절한" },
+      { "word": "appropriate", "note": "적절한" },
+      { "word": "suitable", "note": "적합한" },
+      { "word": "fitting", "note": "어울리는, 합당한" },
+      { "word": "tactful", "note": "요령 있는, 재치 있는" },
+      { "word": "polite", "note": "공손한, 예의 바른" },
+      { "word": "well mannered", "note": "매너 좋은" },
+      { "word": "genteel", "note": "점잖은, 우아한" },
+      { "word": "respectable", "note": "존경할 만한" },
+      { "word": "modest", "note": "겸손한, 단정한" },
+      { "word": "demure", "note": "얌전한, 조신한" },
+      { "word": "gentlemanly", "note": "신사적인" },
+      { "word": "ladylike", "note": "숙녀다운" }
+    ],
+    "tips": [
+      "decorum(예절)의 형용사형이야. '-ous'가 붙어서 '예절 있는' 느낌이 된 거지.",
+      "decorous behavior = 격식에 맞는 행동. GRE에서 propriety, seemly 같은 단어랑 자주 엮여."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "decouple",
+    "pos": "v.",
+    "head_meanings": [
+      "분리하다",
+      "전기 결합을 없애다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "de-(분리) + couple(연결하다)야. 연결된 걸 떼어놓는 거지.",
+      "경제 뉴스에서 'decouple from'(~와 분리되다) 표현 자주 나와. 예: 경제가 세계 시장과 decouple됐다."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "decoy",
+    "pos": "n./v.",
+    "head_meanings": [
+      "물오리 따위를 꾀어 잡는 장치",
+      "미끼",
+      "꾀다",
+      "유혹하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "allurement", "note": "유혹, 매혹" },
+      { "word": "bait", "note": "미끼, 유인물" },
+      { "word": "seducement", "note": "유혹, 꾀어냄" },
+      { "word": "allure", "note": "유혹하다, 매혹하다" },
+      { "word": "entice", "note": "꾀어내다, 유인하다" },
+      { "word": "entrap", "note": "함정에 빠뜨리다" },
+      { "word": "fake", "note": "가짜, 위장물" },
+      { "word": "snare", "note": "올가미, 함정" },
+      { "word": "trap", "note": "덫, 함정" }
+    ],
+    "tips": [
+      "사냥에서 가짜 오리를 놓아 진짜 오리를 유인하는 데서 온 말이야. 그래서 '미끼, 유인물' 뜻이 된 거지.",
+      "decoy는 명사(미끼)로도, 동사(유인하다)로도 써. GRE에서는 명사가 더 흔해."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "decrepitude",
+    "pos": "n.",
+    "head_meanings": [
+      "노쇠",
+      "노후",
+      "늙어빠짐"
+    ],
+    "synonyms_from_image": [
+      { "word": "senescence", "note": "노화, 노쇠" },
+      { "word": "infirmity", "note": "허약함, 쇠약" },
+      { "word": "debility", "note": "쇠약, 허약" },
+      { "word": "feebleness", "note": "나약함, 허약" },
+      { "word": "unhealthiness", "note": "건강하지 못함" }
+    ],
+    "tips": [
+      "decrepit(노쇠한) + -ude(상태)야. 완전히 낡고 허물어진 상태를 뜻해.",
+      "사람뿐 아니라 건물이나 시스템이 낡아빠진 것도 decrepitude라고 해. 노후 인프라 얘기할 때 나와."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "decry",
+    "pos": "v.",
+    "head_meanings": [
+      "비난하다",
+      "깎아내리다"
+    ],
+    "synonyms_from_image": [
+      { "word": "censure", "note": "공식적으로 비난하다" },
+      { "word": "condemn", "note": "강하게 비난하다" },
+      { "word": "depreciate", "note": "가치를 깎아내리다" },
+      { "word": "belittle", "note": "깔보다, 과소평가하다" },
+      { "word": "abuse", "note": "욕하다, 학대하다" }
+    ],
+    "tips": [
+      "de-(아래로) + cry(외치다)야. '아래로 깎아내리며 외치다' = 공개적으로 비난하다.",
+      "decry는 공개적 비난이라는 점이 포인트야. 뒤에서 몰래 까는 게 아니라 대놓고 깎아내리는 거지."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "deducible",
+    "pos": "adj.",
+    "head_meanings": [
+      "추론할 수 있는"
+    ],
+    "synonyms_from_image": [
+      { "word": "deductive", "note": "연역적인" },
+      { "word": "a priori", "note": "선험적인, 경험 이전의" },
+      { "word": "derivable", "note": "도출할 수 있는" },
+      { "word": "reasoned", "note": "논리적으로 추론된" }
+    ],
+    "tips": [
+      "deduce(추론하다) + -ible(~할 수 있는)이야. 논리적으로 끌어낼 수 있다는 뜻이지.",
+      "a priori(선험적)랑 같이 나오면, 경험 없이도 논리만으로 알 수 있다는 뉘앙스야."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "deduce",
+    "pos": "v.",
+    "head_meanings": [
+      "연역추론하다",
+      "유래를 찾다",
+      "계통을 따지다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "de-(아래로) + duce(이끌다)야. 일반 원리에서 아래로 끌어내려서 결론을 도출하는 게 연역이지.",
+      "deduce vs. induce: deduce는 '일반→특수'(연역), induce는 '특수→일반'(귀납). GRE 논리 문제에서 중요해!"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "deduction",
+    "pos": "n.",
+    "head_meanings": [
+      "연역",
+      "추론"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "deduce의 명사형이야. 셜록 홈즈가 맨날 하는 그 '추리'가 바로 deduction이지.",
+      "세금에서는 '공제'라는 뜻도 있어. tax deduction = 세금 공제. GRE에서는 보통 '추론' 뜻으로 나와."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "deem",
+    "pos": "v.",
+    "head_meanings": [
+      "생각하다",
+      "여기다",
+      "이러한 의견을 가지다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "격식체에서 consider 대신 쓰는 단어야. 'be deemed necessary' = 필요하다고 여겨지다.",
+      "법률·공식 문서에서 자주 나오는 단어야. GRE 지문에서도 격식 표현으로 등장해."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "deface",
+    "pos": "v.",
+    "head_meanings": [
+      "더럽히다",
+      "손상하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "disfeature", "note": "외관을 훼손하다" },
+      { "word": "damage", "note": "손상시키다" }
+    ],
+    "tips": [
+      "de-(제거) + face(얼굴, 표면)야. 표면을 망가뜨리는 거지. 건물 벽에 낙서하는 게 대표적인 deface야.",
+      "동상이나 공공시설을 훼손할 때 주로 써. 'deface a monument'처럼."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "de facto",
+    "pos": "adj./adv.",
+    "head_meanings": [
+      "사실상의",
+      "실제로는",
+      "법적으로 어떻든 사실은 존재하는",
+      "현존하는"
+    ],
+    "synonyms_from_image": [
+      { "word": "in fact", "note": "사실상, 실제로" },
+      { "word": "in reality", "note": "현실적으로, 실제로는" }
+    ],
+    "tips": [
+      "라틴어에서 온 표현이야. 반대말은 de jure(법률상의)인데, 둘이 세트로 외우면 좋아.",
+      "de facto leader = 공식 직함은 없지만 사실상 리더인 사람. GRE 지문에서 이런 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "defalcate",
+    "pos": "v.",
+    "head_meanings": [
+      "공금이나 재산 등을 부정하게 사용하다",
+      "부당 유용하다",
+      "횡령하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "de-(떼어내다) + falc(낫)에서 왔어. 낫으로 슬쩍 베어가듯 남의 돈을 횡령하는 거야.",
+      "embezzle이랑 같은 뜻이야. 둘 다 '공금 횡령'인데 defalcate가 더 격식체고 GRE 수준의 단어야."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "defamation",
+    "pos": "n.",
+    "head_meanings": [
+      "명예훼손",
+      "욕설",
+      "중상",
+      "비방",
+      "모독"
+    ],
+    "synonyms_from_image": [
+      { "word": "libel", "note": "문서에 의한 명예훼손" },
+      { "word": "slander", "note": "구두 명예훼손" },
+      { "word": "calumny", "note": "중상모략" },
+      { "word": "vilification", "note": "악랄한 비방" },
+      { "word": "smear", "note": "중상, 흠집내기" },
+      { "word": "slur", "note": "모욕적 발언" },
+      { "word": "detraction", "note": "헐뜯기, 비방" },
+      { "word": "aspersions", "note": "중상, 비방" },
+      { "word": "belittlement", "note": "과소평가, 폄하" },
+      { "word": "disparagement", "note": "깎아내림, 폄하" },
+      { "word": "denigration", "note": "명예훼손, 비방" }
+    ],
+    "tips": [
+      "de-(아래로) + fam(명성)이야. 명성을 아래로 끌어내리는 거 = 명예훼손.",
+      "libel(문서)과 slander(구두)가 defamation의 두 가지 형태야. 법률 지문에서 이 구분 나올 수 있어."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "defamatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "중상하는",
+      "비방하는",
+      "남을 헐뜯는"
+    ],
+    "synonyms_from_image": [
+      { "word": "libel", "note": "문서로 명예를 훼손하는" },
+      { "word": "slander", "note": "구두로 비방하는" },
+      { "word": "calumny", "note": "중상모략의" },
+      { "word": "vilification", "note": "악의적 비방의" },
+      { "word": "smear", "note": "중상하는" },
+      { "word": "slur", "note": "모욕적인" },
+      { "word": "detraction", "note": "헐뜯는" },
+      { "word": "aspersions", "note": "중상하는" },
+      { "word": "belittlement", "note": "과소평가하는" },
+      { "word": "disparagement", "note": "깎아내리는" },
+      { "word": "denigration", "note": "비방하는" }
+    ],
+    "tips": [
+      "defamation(명예훼손)의 형용사형이야. defamatory remarks = 명예를 훼손하는 발언.",
+      "GRE에서 defamatory는 calumnious, slanderous 같은 단어와 동의어로 묶여서 나와."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "default",
+    "pos": "n./v.",
+    "head_meanings": [
+      "의무 등을 이행하지 않음",
+      "태만",
+      "법정 경기 등의 결석",
+      "기권",
+      "재정불이행",
+      "결석하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "neglect", "note": "방치, 태만" },
+      { "word": "absence", "note": "부재, 결석" },
+      { "word": "debt", "note": "빚, 부채" },
+      { "word": "nonpayment", "note": "미지급, 불이행" },
+      { "word": "delinquency", "note": "의무 불이행, 체납" },
+      { "word": "nonobservance", "note": "준수하지 않음" },
+      { "word": "oversight", "note": "간과, 실수" }
+    ],
+    "tips": [
+      "de-(떨어져) + fault(잘못)야. 해야 할 걸 안 하는 잘못 = 의무 불이행, 기권.",
+      "금융에서 default는 '채무불이행'이야. sovereign default(국가 부도) 같은 표현 GRE 지문에 나와."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "defect",
+    "pos": "n.",
+    "head_meanings": [
+      "결점",
+      "단점",
+      "약점",
+      "결함",
+      "흠",
+      "결여",
+      "결핍",
+      "부족"
+    ],
+    "synonyms_from_image": [
+      { "word": "fault", "note": "결함, 잘못" },
+      { "word": "neglect", "note": "소홀, 부주의" },
+      { "word": "delinquency", "note": "과실, 태만" }
+    ],
+    "tips": [
+      "de-(떨어져) + fect(만들다)야. 제대로 만들어지지 못한 부분 = 결함, 결점.",
+      "defect는 명사(결점)와 동사(변절하다)로 뜻이 완전 달라. 동사 뜻은 defection(탈당) 참고해!"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "defective",
+    "pos": "adj.",
+    "head_meanings": [
+      "결점이 있는",
+      "불완전한",
+      "모자라는 점이 있는",
+      "불량품"
+    ],
+    "synonyms_from_image": [
+      { "word": "wanting", "note": "부족한, 모자라는" }
+    ],
+    "tips": [
+      "defect(결함) + -ive야. 결함이 있는 상태를 나타내지. defective product = 불량품.",
+      "defective reasoning(결함 있는 논리)처럼 추상적으로도 써. GRE 논리 문제에서 볼 수 있어."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "defection",
+    "pos": "n.",
+    "head_meanings": [
+      "탈당",
+      "탈퇴",
+      "변절",
+      "의무 불이행",
+      "태만"
+    ],
+    "synonyms_from_image": [
+      { "word": "apostasy", "note": "변절, 배교" },
+      { "word": "change", "note": "전향, 변화" },
+      { "word": "conversion", "note": "전향, 개종" },
+      { "word": "fault", "note": "과실, 잘못" },
+      { "word": "neglect", "note": "태만, 방치" },
+      { "word": "delinquency", "note": "의무 불이행" }
+    ],
+    "tips": [
+      "defect(변절하다, 동사)의 명사형이야. 조직이나 나라를 배신하고 떠나는 거지.",
+      "냉전 시대 소련에서 서방으로 넘어간 사람을 defector(변절자)라고 불렀어. 그 맥락으로 기억해!"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "defer",
+    "pos": "v.",
+    "head_meanings": [
+      "경의를 표하다",
+      "남의 의견 희망에 따르다",
+      "양보하다",
+      "연기하다",
+      "미루다",
+      "지불을 연기하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "respect", "note": "존중하다" },
+      { "word": "honor", "note": "경의를 표하다" },
+      { "word": "yield", "note": "양보하다" },
+      { "word": "submit", "note": "따르다, 복종하다" },
+      { "word": "give way", "note": "양보하다" },
+      { "word": "surrender", "note": "항복하다, 양도하다" },
+      { "word": "capitulate", "note": "굴복하다" },
+      { "word": "acquiesce", "note": "묵묵히 따르다" },
+      { "word": "postpone", "note": "연기하다" },
+      { "word": "put off", "note": "미루다" },
+      { "word": "delay", "note": "지연시키다" }
+    ],
+    "tips": [
+      "defer는 뜻이 두 갈래야: defer to(~에게 양보하다) vs. defer(연기하다). 둘 다 중요해!",
+      "defer to someone's judgment = 누군가의 판단에 따르다. GRE에서 deference와 함께 자주 나와."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "deference",
+    "pos": "n.",
+    "head_meanings": [
+      "존경",
+      "경의",
+      "복종"
+    ],
+    "synonyms_from_image": [
+      { "word": "respect", "note": "존경, 존중" },
+      { "word": "honor", "note": "명예, 경의" },
+      { "word": "homage", "note": "경의, 존경의 표시" },
+      { "word": "submission", "note": "복종, 순종" },
+      { "word": "obeisance", "note": "경의, 절" }
+    ],
+    "tips": [
+      "defer(경의를 표하다)의 명사형이야. in deference to = ~에 대한 경의로.",
+      "GRE에서 deference는 obsequiousness(아첨)과 구별돼. deference는 진정한 존경, obsequiousness는 아부야."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "deferential",
+    "pos": "adj.",
+    "head_meanings": [
+      "정중한",
+      "공손한",
+      "존중하는",
+      "양보하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "respect", "note": "존중하는" },
+      { "word": "honor", "note": "경의를 표하는" },
+      { "word": "homage", "note": "경의의" },
+      { "word": "submission", "note": "복종하는" },
+      { "word": "obeisance", "note": "경의를 표하는" }
+    ],
+    "tips": [
+      "deference(경의)의 형용사형이야. deferential tone = 공손한 어조.",
+      "deferential vs. obsequious: 전자는 진심 어린 공손함, 후자는 과도한 아첨. GRE에서 이 차이 물어봐!"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "deferrable",
+    "pos": "adj.",
+    "head_meanings": [
+      "연기할 수 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "defer(연기하다) + -able이야. 미룰 수 있는 일이라는 뜻이지.",
+      "deferrable maintenance = 당장 안 해도 되는 유지보수. 실생활에서도 쓰이는 표현이야."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "defiant",
+    "pos": "adj.",
+    "head_meanings": [
+      "도전적인",
+      "반항적인",
+      "시비조의",
+      "대담한",
+      "오만한",
+      "거만한"
+    ],
+    "synonyms_from_image": [
+      { "word": "intransigent", "note": "타협하지 않는" },
+      { "word": "resistant", "note": "저항하는" },
+      { "word": "obstinate", "note": "완고한, 고집 센" },
+      { "word": "non-compliant", "note": "따르지 않는" },
+      { "word": "recalcitrant", "note": "반항적인, 다루기 힘든" },
+      { "word": "obstreperous", "note": "떠들썩하게 반항하는" },
+      { "word": "truculent", "note": "호전적인, 공격적인" },
+      { "word": "dissenting", "note": "반대 의견을 가진" },
+      { "word": "disobedient", "note": "불복종하는" },
+      { "word": "insubordinate", "note": "명령 불복종의" },
+      { "word": "subversive", "note": "체제 전복적인" },
+      { "word": "rebellious", "note": "반항하는, 모반의" },
+      { "word": "mutinous", "note": "폭동을 일으키는" }
+    ],
+    "tips": [
+      "defy(반항하다) + -ant야. 권위에 맞서는 태도를 나타내지.",
+      "GRE에서 defiant는 recalcitrant, intransigent랑 동의어 세트로 자주 나와. 다 '말 안 듣는' 느낌이야."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "deficiency",
+    "pos": "n.",
+    "head_meanings": [
+      "부족한 상태",
+      "결핍",
+      "부족",
+      "불완전",
+      "결함"
+    ],
+    "synonyms_from_image": [
+      { "word": "insufficiency", "note": "불충분함" },
+      { "word": "lack", "note": "부족, 결여" },
+      { "word": "shortage", "note": "부족, 결핍" },
+      { "word": "want", "note": "부족, 결핍" },
+      { "word": "dearth", "note": "부족, 결핍" },
+      { "word": "inadequacy", "note": "부적합, 불충분" },
+      { "word": "deficit", "note": "적자, 부족분" },
+      { "word": "scarcity", "note": "희소, 부족" },
+      { "word": "paucity", "note": "소량, 부족" },
+      { "word": "deprivation", "note": "박탈, 결핍" },
+      { "word": "shortness", "note": "부족함" },
+      { "word": "defect", "note": "결함, 결점" },
+      { "word": "fault", "note": "결함, 잘못" },
+      { "word": "flaw", "note": "흠, 결점" },
+      { "word": "imperfection", "note": "불완전함" },
+      { "word": "weakness", "note": "약점, 취약함" },
+      { "word": "weak point", "note": "약점" },
+      { "word": "shortcoming", "note": "결점, 단점" },
+      { "word": "limitation", "note": "한계, 제한" }
+    ],
+    "tips": [
+      "deficient(부족한) + -cy야. 뭔가가 모자란 상태를 뜻해. vitamin deficiency = 비타민 결핍.",
+      "GRE에서 dearth, paucity, deficiency는 거의 같은 뜻으로 쓰여. '부족' 동의어 세트로 묶어서 외워!"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "defile",
+    "pos": "v.",
+    "head_meanings": [
+      "불결하게 하다",
+      "신성을 모독하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "corrupt", "note": "타락시키다, 더럽히다" },
+      { "word": "demoralize", "note": "사기를 꺾다, 타락시키다" },
+      { "word": "dirty", "note": "더럽히다" }
+    ],
+    "tips": [
+      "de-(아래로, 나쁘게) + file(더럽히다)야. 깨끗하고 신성한 것을 더럽히는 거지.",
+      "defile a temple(사원을 모독하다)처럼 종교·성스러운 것을 더럽힐 때 주로 써. desecrate랑 비슷해!"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "definitive",
+    "pos": "adj.",
+    "head_meanings": [
+      "한정적인",
+      "결정적인",
+      "명확한",
+      "완성된",
+      "최종의"
+    ],
+    "synonyms_from_image": [
+      { "word": "authoritative", "note": "권위 있는, 최종적인" },
+      { "word": "limiting", "note": "한정하는" },
+      { "word": "outright", "note": "완전한, 명백한" },
+      { "word": "concluding", "note": "마무리하는, 최종의" },
+      { "word": "determining", "note": "결정하는" },
+      { "word": "terminal", "note": "최종의, 끝의" }
+    ],
+    "tips": [
+      "definite(확실한)이랑 헷갈리지 마. definitive는 '최종적이고 권위 있는'이라는 뉘앙스가 더 강해.",
+      "the definitive guide = 최종 결정판 가이드. GRE에서 authoritative의 동의어로 나와."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "deflate",
+    "pos": "v.",
+    "head_meanings": [
+      "공기 가스를 빼다",
+      "풀을 오므라들게 하다",
+      "긴장을 가라앉히다",
+      "의욕을 꺾다",
+      "기를 꺾다",
+      "전반시키다"
+    ],
+    "synonyms_from_image": [
+      { "word": "soothe", "note": "진정시키다, 달래다" }
+    ],
+    "tips": [
+      "de-(제거) + flat(부풀다, inflate의 반대)야. 부풀어 있던 걸 쭈그러뜨리는 거지.",
+      "비유적으로 'deflate someone's ego'(자존심을 꺾다) 같은 표현이 GRE에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "deflect",
+    "pos": "v.",
+    "head_meanings": [
+      "본 코스에서 빗나가다",
+      "굴절시키다",
+      "편향시키다",
+      "구부리다"
+    ],
+    "synonyms_from_image": [
+      { "word": "curve", "note": "휘다, 구부러지다" },
+      { "word": "pivot", "note": "방향을 틀다" },
+      { "word": "avert", "note": "돌리다, 피하다" },
+      { "word": "divert", "note": "방향을 바꾸다" },
+      { "word": "oblique", "note": "비스듬히 가다" },
+      { "word": "sheer", "note": "급히 방향을 바꾸다" },
+      { "word": "veer", "note": "방향을 틀다" },
+      { "word": "swerve", "note": "급히 방향을 바꾸다" }
+    ],
+    "tips": [
+      "de-(떨어져) + flect(구부리다)야. 원래 방향에서 벗어나게 구부리는 거지.",
+      "deflect criticism = 비판을 피해가다. 물리적 빗나감뿐 아니라 추상적으로도 많이 써."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "defray",
+    "pos": "v.",
+    "head_meanings": [
+      "비용",
+      "경비 등을 지불하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "pay", "note": "지불하다" },
+      { "word": "remit", "note": "송금하다, 지불하다" },
+      { "word": "settle", "note": "정산하다, 해결하다" },
+      { "word": "foot the bill", "note": "비용을 부담하다" }
+    ],
+    "tips": [
+      "defray는 특히 '남의 비용을 대신 내주다'라는 뉘앙스가 있어. defray expenses = 경비를 충당하다.",
+      "GRE에서 드물지만 나오면 어려운 단어야. '비용을 지불하다/충당하다'로 기억해둬!"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "deft",
+    "pos": "adj.",
+    "head_meanings": [
+      "손재주가 좋은",
+      "교묘한",
+      "능숙한"
+    ],
+    "synonyms_from_image": [
+      { "word": "adroit", "note": "솜씨 좋은, 능숙한" },
+      { "word": "apt", "note": "적절한, 재능 있는" },
+      { "word": "expert", "note": "숙련된, 전문적인" },
+      { "word": "dexterous", "note": "손재주 있는" },
+      { "word": "able", "note": "유능한" },
+      { "word": "quick", "note": "재빠른, 민첩한" }
+    ],
+    "tips": [
+      "짧고 강한 단어야. adroit, dexterous랑 같은 뜻인데 더 일상적으로 많이 쓰여.",
+      "deft touch(능숙한 손길), deft handling(교묘한 처리)처럼 써. GRE에서 adroit의 동의어로 나와."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "defunct",
+    "pos": "adj.",
+    "head_meanings": [
+      "이제는 없는",
+      "작고한",
+      "소멸한"
+    ],
+    "synonyms_from_image": [
+      { "word": "ended", "note": "끝난" },
+      { "word": "dead", "note": "죽은, 사라진" },
+      { "word": "past", "note": "과거의, 지나간" },
+      { "word": "lifeless", "note": "생명이 없는" },
+      { "word": "deceased", "note": "사망한" },
+      { "word": "extinct", "note": "멸종한, 소멸한" }
+    ],
+    "tips": [
+      "de-(완전히) + funct(기능하다)야. 더 이상 기능하지 않는 = 소멸한, 폐지된.",
+      "a defunct company = 폐업한 회사. 사람보다는 조직·제도·법률이 '더 이상 존재하지 않을 때' 주로 써."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "defuse",
+    "pos": "v.",
+    "head_meanings": [
+      "폭탄, 지뢰에서 신관을 제거하다",
+      "위험, 긴장을 완화시키다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "de-(제거) + fuse(신관, 도화선)야. 도화선을 제거하면 폭발 안 하니까 '긴장을 완화하다'가 된 거지.",
+      "defuse a crisis(위기를 완화하다)가 GRE에서 나올 수 있는 표현이야. diffuse(확산하다)랑 헷갈리지 마!"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "defy",
+    "pos": "v.",
+    "head_meanings": [
+      "공공연하게 무시하다",
+      "문제시하지 않다",
+      "반대하다",
+      "거부하다",
+      "용감히 맞서다"
+    ],
+    "synonyms_from_image": [
+      { "word": "disregard", "note": "무시하다" },
+      { "word": "confront", "note": "맞서다, 직면하다" },
+      { "word": "flout", "note": "조롱하며 무시하다" },
+      { "word": "disobey", "note": "불복종하다" },
+      { "word": "resist", "note": "저항하다" },
+      { "word": "rebel", "note": "반항하다" },
+      { "word": "ignore", "note": "무시하다" },
+      { "word": "challenge", "note": "도전하다" },
+      { "word": "dare", "note": "감히 ~하다" },
+      { "word": "violate", "note": "위반하다" },
+      { "word": "contravene", "note": "위반하다, 어기다" },
+      { "word": "breach", "note": "위반하다" },
+      { "word": "infringe", "note": "침해하다, 위반하다" },
+      { "word": "elude", "note": "교묘히 피하다" },
+      { "word": "escape", "note": "벗어나다" },
+      { "word": "defeat", "note": "물리치다" },
+      { "word": "frustrate", "note": "좌절시키다" },
+      { "word": "thwart", "note": "방해하다, 좌절시키다" },
+      { "word": "baffle", "note": "당혹하게 하다" }
+    ],
+    "tips": [
+      "de-(반대) + fy(신뢰)에서 왔어. 신뢰를 거부하고 맞서는 거야.",
+      "defy gravity(중력을 무시하다), defy expectations(예상을 뒤엎다)처럼 GRE에서 다양한 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "degenerate",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "퇴화하다",
+      "퇴보하다",
+      "타락하다",
+      "변성하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "disintegrate", "note": "붕괴하다, 분해되다" },
+      { "word": "decline", "note": "쇠퇴하다" },
+      { "word": "retrograde", "note": "퇴보하다, 퇴행하다" }
+    ],
+    "tips": [
+      "de-(아래로) + generate(만들다, 낳다)야. 아래로 향해 만들어지는 거 = 퇴화, 타락.",
+      "형용사로 쓰면 '타락한'이라는 뜻이야. degenerate behavior = 타락한 행동. 동사·형용사 둘 다 알아둬!"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "degenerative",
+    "pos": "adj.",
+    "head_meanings": [
+      "퇴화적인",
+      "퇴행성의",
+      "타락성의"
+    ],
+    "synonyms_from_image": [
+      { "word": "disintegrate", "note": "붕괴하는" },
+      { "word": "decline", "note": "쇠퇴하는" },
+      { "word": "retrograde", "note": "퇴행하는" }
+    ],
+    "tips": [
+      "degenerate + -ive야. 의학에서 degenerative disease(퇴행성 질환)라는 표현이 대표적이야.",
+      "퇴행성 관절염 같은 거 생각하면 돼. 시간이 갈수록 점점 나빠지는 성질을 말해."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "degraded",
+    "pos": "adj.",
+    "head_meanings": [
+      "타락한",
+      "퇴화한",
+      "지위가 강등된"
+    ],
+    "synonyms_from_image": [
+      { "word": "corrupt", "note": "부패한, 타락한" },
+      { "word": "vicious", "note": "악의적인, 사악한" },
+      { "word": "rotten", "note": "썩은, 부패한" },
+      { "word": "depraved", "note": "타락한, 부도덕한" },
+      { "word": "deteriorative", "note": "악화하는" },
+      { "word": "demoted", "note": "강등된" }
+    ],
+    "tips": [
+      "degrade(떨어뜨리다)의 과거분사 형용사야. 품격이나 질이 떨어진 상태를 말해.",
+      "degraded environment(황폐해진 환경)처럼 환경 관련 지문에서 자주 나와."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "degradation",
+    "pos": "n.",
+    "head_meanings": [
+      "저하",
+      "파면",
+      "하락",
+      "강등",
+      "타락",
+      "퇴폐",
+      "퇴보",
+      "분해"
+    ],
+    "synonyms_from_image": [
+      { "word": "corrupt", "note": "부패, 타락" },
+      { "word": "vicious", "note": "악의적인 상태" },
+      { "word": "rotten", "note": "부패한 상태" },
+      { "word": "depraved", "note": "타락한 상태" },
+      { "word": "deteriorative", "note": "악화" },
+      { "word": "demoted", "note": "강등된 상태" }
+    ],
+    "tips": [
+      "de-(아래로) + grad(등급) + -ation이야. 등급이 아래로 떨어지는 거 = 저하, 타락.",
+      "environmental degradation(환경 파괴)은 GRE 지문에서 아주 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "dehydrate",
+    "pos": "v.",
+    "head_meanings": [
+      "탈수하다",
+      "에서 수분을 빼다"
+    ],
+    "synonyms_from_image": [
+      { "word": "dry", "note": "건조시키다" },
+      { "word": "desiccate", "note": "바싹 말리다" },
+      { "word": "parch", "note": "바짝 마르게 하다" },
+      { "word": "sear", "note": "태우듯 말리다" }
+    ],
+    "tips": [
+      "de-(제거) + hydrate(수분)야. 물기를 제거하는 거지. desiccate랑 거의 같은 뜻이야.",
+      "GRE에서 desiccate가 더 고급 단어로 나오지만 dehydrate도 알아둬야 해. 둘 다 '바싹 말리다'야."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "deify",
+    "pos": "v.",
+    "head_meanings": [
+      "신으로 모시다",
+      "숭상하다",
+      "신성시하다",
+      "신으로 만들다",
+      "신격화하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "worship", "note": "숭배하다" },
+      { "word": "revere", "note": "깊이 존경하다" },
+      { "word": "venerate", "note": "공경하다, 숭배하다" },
+      { "word": "reverence", "note": "경외하다" },
+      { "word": "immortalize", "note": "불멸화하다" },
+      { "word": "idolize", "note": "우상화하다" },
+      { "word": "lionize", "note": "떠받들다, 유명인 대접하다" },
+      { "word": "extol", "note": "극찬하다" },
+      { "word": "idealize", "note": "이상화하다" },
+      { "word": "glorify", "note": "영광스럽게 하다" },
+      { "word": "aggrandize", "note": "높이다, 과대하게 칭송하다" },
+      { "word": "apotheosize", "note": "신격화하다" },
+      { "word": "adore", "note": "숭배하다, 사랑하다" }
+    ],
+    "tips": [
+      "dei-(신) + -fy(만들다)야. 사람을 신으로 만드는 거지. deity(신)와 같은 어근이야.",
+      "GRE에서 venerate, revere, deify는 '극도로 존경하다' 세트야. apotheosize도 같은 의미!"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "deign",
+    "pos": "v.",
+    "head_meanings": [
+      "자신을 낮추어 무엇을 하다",
+      "자존심을 버리고",
+      "체면 불구하고"
+    ],
+    "synonyms_from_image": [
+      { "word": "stoop", "note": "몸을 낮추다, 자존심을 굽히다" },
+      { "word": "lower oneself", "note": "스스로를 낮추다" },
+      { "word": "condescend", "note": "겸손을 가장하며 내려오다" },
+      { "word": "vouchsafe", "note": "은혜를 베풀듯 허락하다" }
+    ],
+    "tips": [
+      "deign은 '격이 낮은 일을 마지못해 하다'라는 뉘앙스야. He didn't deign to reply = 대답할 가치도 없다는 듯.",
+      "condescend랑 비슷하지만 deign이 더 짧고 강해. 둘 다 '높은 사람이 아래로 내려오다' 느낌이야."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "deject",
+    "pos": "v.",
+    "head_meanings": [
+      "낙담시키다",
+      "사기를 꺾다"
+    ],
+    "synonyms_from_image": [
+      { "word": "dispirit", "note": "기를 꺾다" },
+      { "word": "dishearten", "note": "낙담시키다" }
+    ],
+    "tips": [
+      "de-(아래로) + ject(던지다)야. 기분을 아래로 던져버리는 거 = 낙담시키다.",
+      "deject보다 dejected(낙담한) 형태가 GRE에서 훨씬 자주 나와. 둘 다 알아두면 좋아!"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "dejected",
+    "pos": "adj.",
+    "head_meanings": [
+      "낙담한",
+      "풀이 죽은"
+    ],
+    "synonyms_from_image": [
+      { "word": "dispirited", "note": "기가 꺾인" },
+      { "word": "disheartened", "note": "낙담한" }
+    ],
+    "tips": [
+      "deject(낙담시키다)의 과거분사 형용사야. 완전히 기운이 빠진 상태를 말해.",
+      "dejected look = 풀 죽은 표정. GRE에서 despondent, crestfallen 같은 단어랑 동의어로 묶여."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "delectable",
+    "pos": "adj.",
+    "head_meanings": [
+      "기쁜",
+      "즐거운",
+      "기호품용의",
+      "유쾌한",
+      "맛있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "delight(기쁨)과 어원이 같아. '기쁨을 주는' → 맛있는, 즐거운.",
+      "음식에 대해 쓸 때는 delicious보다 격식 있는 표현이야. delectable feast = 맛있는 연회."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "delegate",
+    "pos": "n./v.",
+    "head_meanings": [
+      "대표자",
+      "정치적 의회 등의 대표자",
+      "대리인으로서 파견하다",
+      "대표하다",
+      "권한, 의무 등을 남에게 위임하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "representative", "note": "대표자, 대리인" },
+      { "word": "envoy", "note": "사절, 외교관" },
+      { "word": "emissary", "note": "밀사, 특사" },
+      { "word": "commissioner", "note": "위원, 대리인" },
+      { "word": "deputy", "note": "대리인, 부관" },
+      { "word": "ambassador", "note": "대사, 사절" },
+      { "word": "plenipotentiary", "note": "전권대사" },
+      { "word": "authorize", "note": "권한을 부여하다" },
+      { "word": "commission", "note": "위임하다, 임명하다" },
+      { "word": "depute", "note": "대리로 임명하다" },
+      { "word": "appoint", "note": "임명하다" },
+      { "word": "nominate", "note": "지명하다, 추천하다" },
+      { "word": "empowering", "note": "권한을 부여하는" },
+      { "word": "designate", "note": "지정하다, 지명하다" },
+      { "word": "assign", "note": "배정하다, 할당하다" },
+      { "word": "entrust", "note": "맡기다, 위탁하다" },
+      { "word": "hand over", "note": "넘겨주다" },
+      { "word": "turn over", "note": "인계하다" },
+      { "word": "devolve", "note": "권한을 이양하다" },
+      { "word": "transfer", "note": "이전하다, 넘기다" }
+    ],
+    "tips": [
+      "de-(떨어져) + leg(보내다)에서 왔어. '대신 보낸 사람' = 대표자, 대리인.",
+      "delegate authority(권한을 위임하다)가 비즈니스·GRE에서 핵심 표현이야. 명사·동사 둘 다 중요해!"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "delete",
+    "pos": "v.",
+    "head_meanings": [
+      "삭제하다",
+      "지우다"
+    ],
+    "synonyms_from_image": [
+      { "word": "annul", "note": "무효화하다" },
+      { "word": "black out", "note": "검게 칠해 지우다" },
+      { "word": "blot out", "note": "얼룩져 지우다" },
+      { "word": "obliterate", "note": "완전히 지우다, 말살하다" },
+      { "word": "efface", "note": "표면을 지우다" }
+    ],
+    "tips": [
+      "라틴어 delere(파괴하다)에서 왔어. 컴퓨터 delete 키 생각하면 쉽지.",
+      "GRE에서는 obliterate, efface 같은 고급 동의어로 나와. 다 '완전히 지워버리다' 뜻이야."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "deleterious",
+    "pos": "adj.",
+    "head_meanings": [
+      "해로운",
+      "유독한"
+    ],
+    "synonyms_from_image": [
+      { "word": "disadvantageous", "note": "불리한" },
+      { "word": "hurtful", "note": "해로운, 상처를 주는" },
+      { "word": "injurious", "note": "해로운, 유해한" },
+      { "word": "damaging", "note": "손상을 주는" },
+      { "word": "nocuous", "note": "유해한" },
+      { "word": "detrimental", "note": "해로운" },
+      { "word": "harmful", "note": "해로운" },
+      { "word": "bad", "note": "나쁜" },
+      { "word": "adverse", "note": "불리한, 부정적인" },
+      { "word": "unfavorable", "note": "불리한, 바람직하지 않은" }
+    ],
+    "tips": [
+      "delete(삭제하다)랑 어원이 같아. '파괴하는' → 해로운. GRE 단골 단어야!",
+      "deleterious effects = 해로운 영향. detrimental, pernicious, noxious랑 동의어 세트로 외워!"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "deliberate",
+    "pos": "v./adj.",
+    "head_meanings": [
+      "깊이 생각하다",
+      "숙고하다",
+      "곰곰이 생각하다",
+      "신중한",
+      "사려깊은",
+      "침착한",
+      "고의의",
+      "계획적인"
+    ],
+    "synonyms_from_image": [
+      { "word": "contemplate", "note": "심사숙고하다" },
+      { "word": "ruminate", "note": "곰곰이 생각하다" },
+      { "word": "meditate", "note": "명상하다, 깊이 생각하다" },
+      { "word": "cogitate", "note": "숙고하다" }
+    ],
+    "tips": [
+      "동사(숙고하다)와 형용사(고의적인, 신중한) 두 가지 용법 다 GRE에서 나와.",
+      "deliberate pace = 천천히 신중한 걸음. deliberate lie = 고의적인 거짓말. 문맥에 따라 뜻이 달라져!"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "deliberation",
+    "pos": "n.",
+    "head_meanings": [
+      "숙고",
+      "곰곰이 생각함",
+      "심의",
+      "토의",
+      "신중함",
+      "동작의 완만함"
+    ],
+    "synonyms_from_image": [
+      { "word": "calculation", "note": "계산, 신중한 고려" },
+      { "word": "thought", "note": "생각, 사고" },
+      { "word": "consideration", "note": "고려, 숙고" },
+      { "word": "reflection", "note": "반성, 깊은 생각" },
+      { "word": "contemplation", "note": "심사숙고" },
+      { "word": "meditation", "note": "명상, 묵상" },
+      { "word": "rumination", "note": "반추, 곰곰이 생각함" },
+      { "word": "cogitation", "note": "숙고, 깊은 생각" },
+      { "word": "care", "note": "주의, 신중함" },
+      { "word": "carefulness", "note": "조심성, 신중함" },
+      { "word": "caution", "note": "주의, 조심" },
+      { "word": "steadiness", "note": "침착함, 안정" }
+    ],
+    "tips": [
+      "deliberate(숙고하다)의 명사형이야. after much deliberation = 충분히 숙고한 후에.",
+      "법정에서 배심원이 평결을 위해 토의하는 것도 deliberation이야. jury deliberation = 배심원 심의."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "delicacy",
+    "pos": "n.",
+    "head_meanings": [
+      "맛있는 것",
+      "진미",
+      "배려",
+      "사양",
+      "조심함",
+      "연약함",
+      "허약함",
+      "여림",
+      "가늘음",
+      "세공함",
+      "미묘함",
+      "다루기 힘듦",
+      "섬세함",
+      "정교함",
+      "정밀함",
+      "고상함",
+      "우아함"
+    ],
+    "synonyms_from_image": [
+      { "word": "frailty", "note": "연약함, 허약함" },
+      { "word": "fragility", "note": "깨지기 쉬움, 허약" },
+      { "word": "daintiness", "note": "우아함, 섬세함" },
+      { "word": "gracefulness", "note": "우아함, 기품" }
+    ],
+    "tips": [
+      "delicacy는 뜻이 아주 많아. '진미'(음식), '섬세함', '미묘함', '연약함' 다 돼.",
+      "a matter of great delicacy = 매우 미묘한 문제. GRE에서는 '섬세함, 미묘함' 뜻이 자주 나와."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "delicate",
+    "pos": "adj.",
+    "head_meanings": [
+      "섬세한",
+      "고운",
+      "우아한",
+      "고상한",
+      "연약한",
+      "가냘픈",
+      "허약한",
+      "비위가 예민한",
+      "조심스러운",
+      "부드러운",
+      "연한",
+      "정밀한",
+      "미묘한",
+      "세심한",
+      "주의가 필요한",
+      "교묘한"
+    ],
+    "synonyms_from_image": [
+      { "word": "fine", "note": "섬세한, 정교한" },
+      { "word": "exquisite", "note": "정교한, 절묘한" },
+      { "word": "dainty", "note": "우아한, 섬세한" },
+      { "word": "diaphanous", "note": "반투명한, 얇은" },
+      { "word": "flimsy", "note": "얇고 약한" },
+      { "word": "subtle", "note": "미묘한, 은근한" },
+      { "word": "soft", "note": "부드러운, 연한" },
+      { "word": "fragile", "note": "깨지기 쉬운" },
+      { "word": "breakable", "note": "깨지기 쉬운" },
+      { "word": "sickly", "note": "병약한" },
+      { "word": "unhealthy", "note": "건강하지 않은" },
+      { "word": "feeble", "note": "허약한, 연약한" },
+      { "word": "debilitated", "note": "쇠약해진" },
+      { "word": "infirm", "note": "허약한, 병약한" },
+      { "word": "difficult", "note": "어려운, 까다로운" },
+      { "word": "sensitive", "note": "민감한, 예민한" },
+      { "word": "careful", "note": "조심스러운" },
+      { "word": "tactful", "note": "재치 있는" },
+      { "word": "discreet", "note": "신중한, 조심스러운" },
+      { "word": "discriminating", "note": "안목 있는" },
+      { "word": "discerning", "note": "감식력 있는" },
+      { "word": "fastidious", "note": "까다로운" },
+      { "word": "precision", "note": "정밀함" },
+      { "word": "precise", "note": "정확한, 정밀한" }
+    ],
+    "tips": [
+      "delicate는 뜻이 엄청 다양해. 문맥에 따라 '섬세한', '연약한', '미묘한', '까다로운' 다 될 수 있어.",
+      "a delicate situation = 미묘한 상황, delicate health = 허약한 건강. GRE에서 어떤 뜻인지 문맥으로 판단해!"
+    ]
+  },
+  {
+    "id": "061",
+    "word": "delight (in)",
+    "pos": "n./v.",
+    "head_meanings": [
+      "기쁨",
+      "즐거움",
+      "환희",
+      "좋아하다",
+      "기뻐 생각하다",
+      "음식을 맛있게 먹다",
+      "맛보다",
+      "풍미를 더하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "relish", "note": "즐기다, 맛보다" }
+    ],
+    "tips": [
+      "delight in은 '~을 아주 좋아하다, 즐기다'야. She delights in reading = 그녀는 독서를 즐긴다.",
+      "명사로는 to one's delight(기쁘게도)라는 표현이 자주 나와. GRE에서 다양한 형태로 등장해."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "delightful",
+    "pos": "adj.",
+    "head_meanings": [
+      "매우 기쁜",
+      "즐거운",
+      "몹시 유쾌한",
+      "매혹적인",
+      "귀여운"
+    ],
+    "synonyms_from_image": [
+      { "word": "pleasant", "note": "기분 좋은, 쾌적한" },
+      { "word": "lovely", "note": "사랑스러운, 아름다운" },
+      { "word": "pleasurable", "note": "즐거운, 기분 좋은" },
+      { "word": "enjoyable", "note": "즐길 만한" },
+      { "word": "amusing", "note": "재미있는" },
+      { "word": "entertaining", "note": "흥미로운, 즐거운" },
+      { "word": "diverting", "note": "기분 전환이 되는" },
+      { "word": "gratifying", "note": "만족스러운" },
+      { "word": "satisfying", "note": "만족을 주는" },
+      { "word": "marvelous", "note": "놀라운, 훌륭한" },
+      { "word": "wonderful", "note": "멋진, 경이로운" },
+      { "word": "splendid", "note": "화려한, 훌륭한" },
+      { "word": "sublime", "note": "숭고한, 장엄한" },
+      { "word": "thrilling", "note": "흥분되는, 전율하는" },
+      { "word": "fabulous", "note": "환상적인" },
+      { "word": "terrific", "note": "대단한, 멋진" },
+      { "word": "charming", "note": "매력적인" },
+      { "word": "enchanted", "note": "매혹된" },
+      { "word": "captivating", "note": "마음을 사로잡는" },
+      { "word": "bewitching", "note": "홀리는, 매혹적인" },
+      { "word": "appealing", "note": "매력적인, 흥미로운" },
+      { "word": "sweet", "note": "달콤한, 상냥한" },
+      { "word": "endearing", "note": "사랑스러운" },
+      { "word": "cute", "note": "귀여운" },
+      { "word": "adorable", "note": "사랑스러운" },
+      { "word": "delectable", "note": "아주 맛있는, 즐거운" },
+      { "word": "delicious", "note": "맛있는, 즐거운" },
+      { "word": "gorgeous", "note": "아주 멋진, 화려한" },
+      { "word": "ravishing", "note": "황홀한, 매혹적인" },
+      { "word": "beautiful", "note": "아름다운" }
+    ],
+    "tips": [
+      "delight(기쁨) + -ful이야. '기쁨으로 가득 찬' 느낌이지.",
+      "delightful은 동의어가 엄청 많아. GRE에서 captivating, enchanting 같은 고급 동의어랑 묶여서 나와."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "delineate",
+    "pos": "v.",
+    "head_meanings": [
+      "윤곽을 그리다",
+      "정확하게 서술하다",
+      "설명하다",
+      "나타내다"
+    ],
+    "synonyms_from_image": [
+      { "word": "outline", "note": "윤곽을 그리다" },
+      { "word": "sketch", "note": "스케치하다, 개략 묘사하다" },
+      { "word": "diagram", "note": "도표로 나타내다" },
+      { "word": "draft", "note": "초안을 작성하다" },
+      { "word": "plot", "note": "도면에 그리다" },
+      { "word": "blueprint", "note": "청사진을 그리다" },
+      { "word": "describe", "note": "묘사하다, 서술하다" },
+      { "word": "depict", "note": "묘사하다, 그리다" },
+      { "word": "represent", "note": "나타내다, 표현하다" },
+      { "word": "define", "note": "정의하다, 명확히 하다" },
+      { "word": "etch", "note": "새기다, 선명히 그리다" }
+    ],
+    "tips": [
+      "de-(완전히) + line(선)에서 왔어. 선으로 윤곽을 완전히 그려내는 거야.",
+      "GRE에서 delineate는 '명확히 구분짓다, 정확히 묘사하다' 뜻으로 자주 나와. depict보다 격식체야."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "delirium",
+    "pos": "n.",
+    "head_meanings": [
+      "일시적인 정신 착란",
+      "명렬한 흥분 상태"
+    ],
+    "synonyms_from_image": [
+      { "word": "insaneness", "note": "미침, 정신 이상" },
+      { "word": "excitement", "note": "흥분, 들뜸" },
+      { "word": "enthusiasm", "note": "열광, 열정" },
+      { "word": "frenzy", "note": "광란, 열광" },
+      { "word": "furor", "note": "격분, 열광" }
+    ],
+    "tips": [
+      "de-(벗어나) + lira(밭고랑)에서 왔어. 밭고랑에서 벗어나다 → 정상에서 벗어나다 → 정신 착란.",
+      "delirium tremens(알코올 금단 섬망)이라는 의학 용어도 있어. GRE에서는 주로 '극도의 흥분' 맥락이야."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "delude",
+    "pos": "v.",
+    "head_meanings": [
+      "속이다",
+      "현혹시키다",
+      "기만하다",
+      "착각하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "beguile", "note": "매혹하여 속이다" },
+      { "word": "trick", "note": "속이다, 꾀다" },
+      { "word": "hoax", "note": "장난으로 속이다" },
+      { "word": "dupe", "note": "쉽게 속이다" },
+      { "word": "humbug", "note": "사기치다, 현혹하다" },
+      { "word": "take in", "note": "속이다, 기만하다" },
+      { "word": "misjudge", "note": "잘못 판단하다" }
+    ],
+    "tips": [
+      "de-(떨어져) + lude(놀다)야. 상대를 '놀려서' 잘못된 방향으로 빠지게 하는 거지.",
+      "delude oneself = 자기 자신을 속이다(자기기만). delusion(망상)과 세트로 외워!"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "deluge",
+    "pos": "n.",
+    "head_meanings": [
+      "대홍수",
+      "호우"
+    ],
+    "synonyms_from_image": [
+      { "word": "inundation", "note": "범람, 홍수" },
+      { "word": "torrent", "note": "급류, 폭우" },
+      { "word": "spate", "note": "갑작스러운 홍수, 쏟아짐" },
+      { "word": "cataract", "note": "폭포, 큰 물줄기" }
+    ],
+    "tips": [
+      "노아의 방주 때의 대홍수를 the Deluge라고 불러. 그만큼 엄청난 규모의 물을 뜻해.",
+      "비유적으로 a deluge of complaints = 쏟아지는 불만. GRE에서 '엄청난 양이 쏟아지다' 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "delusion",
+    "pos": "n.",
+    "head_meanings": [
+      "현혹",
+      "기만",
+      "잘못된 신념",
+      "망상",
+      "착각",
+      "오해"
+    ],
+    "synonyms_from_image": [
+      { "word": "miscalculation", "note": "오산, 착오" },
+      { "word": "misapprehension", "note": "오해, 착각" },
+      { "word": "misconception", "note": "잘못된 생각, 오해" },
+      { "word": "misunderstanding", "note": "오해" },
+      { "word": "mistake", "note": "실수, 착오" },
+      { "word": "misinterpretation", "note": "잘못된 해석" },
+      { "word": "misbelieve", "note": "잘못된 믿음" },
+      { "word": "fallacy", "note": "오류, 잘못된 논리" },
+      { "word": "illusion", "note": "환상, 착각" },
+      { "word": "deception", "note": "기만, 속임" },
+      { "word": "phantasm", "note": "환영, 허깨비" },
+      { "word": "thing imagined", "note": "상상의 산물" },
+      { "word": "hallucination", "note": "환각" }
+    ],
+    "tips": [
+      "delude(속이다)의 명사형이야. delusion of grandeur = 과대망상. 심리학 용어로도 자주 나와.",
+      "illusion vs. delusion: illusion은 잘못 보는 거, delusion은 잘못 믿는 거. 둘 다 GRE에서 나와!"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "delusive",
+    "pos": "adj.",
+    "head_meanings": [
+      "기만적인",
+      "허위의",
+      "망상적인",
+      "남을 그릇 인도하는"
+    ],
+    "synonyms_from_image": [
+      { "word": "erroneous", "note": "잘못된, 틀린" },
+      { "word": "illusory", "note": "환상에 불과한" },
+      { "word": "misleading", "note": "오해를 불러일으키는" },
+      { "word": "illusional", "note": "환상적인, 착각의" },
+      { "word": "false", "note": "거짓된, 허위의" },
+      { "word": "fallacious", "note": "오류에 기반한" }
+    ],
+    "tips": [
+      "delusion(망상)의 형용사형이야. delusive hope = 헛된 희망.",
+      "illusory랑 거의 같은 뜻이야. 둘 다 '실제가 아닌, 환상에 불과한'이라는 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "delve (into)",
+    "pos": "v.",
+    "head_meanings": [
+      "파다",
+      "탐구하다",
+      "연구에 몰두하다",
+      "깊이 파고들다"
+    ],
+    "synonyms_from_image": [
+      { "word": "search", "note": "찾다, 탐색하다" },
+      { "word": "probe", "note": "조사하다, 탐침하다" },
+      { "word": "examine", "note": "조사하다, 검토하다" },
+      { "word": "explore", "note": "탐험하다, 탐구하다" },
+      { "word": "look into", "note": "조사하다, 알아보다" }
+    ],
+    "tips": [
+      "원래 '땅을 파다'라는 뜻이었는데 지금은 '깊이 파고들어 조사하다'라는 뜻으로 주로 써.",
+      "delve into the archives = 기록을 뒤지다. GRE에서 probe, investigate 같은 단어의 동의어로 나와."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "demanding",
+    "pos": "adj.",
+    "head_meanings": [
+      "사람이 요구가 지나친",
+      "지나친 요구를 하는",
+      "일이 큰 노력을 요하는"
+    ],
+    "synonyms_from_image": [
+      { "word": "exacting", "note": "엄격한, 까다로운" },
+      { "word": "challenging", "note": "도전적인, 힘든" },
+      { "word": "onerous", "note": "부담스러운, 힘든" },
+      { "word": "taxing", "note": "힘든, 부담되는" },
+      { "word": "hard", "note": "어려운, 힘든" },
+      { "word": "difficult", "note": "어려운" }
+    ],
+    "tips": [
+      "demand(요구하다) + -ing이야. 사람에게 쓰면 '요구가 많은', 일에 쓰면 '힘든'이라는 뜻이야.",
+      "a demanding boss = 요구가 까다로운 상사. a demanding task = 힘든 과제. 맥락에 따라 달라져!"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "demarcate",
+    "pos": "v.",
+    "head_meanings": [
+      "경계선을 긋다",
+      "경계를 정하다",
+      "구획하다",
+      "분리, 구분하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "separate", "note": "분리하다" },
+      { "word": "divide", "note": "나누다" },
+      { "word": "delineate", "note": "경계를 그리다" },
+      { "word": "bound", "note": "경계를 정하다" }
+    ],
+    "tips": [
+      "de-(완전히) + marc(표시하다, mark)에서 왔어. 경계를 확실히 표시하는 거지.",
+      "demarcation line = 경계선, 분계선. 38선 같은 거 생각하면 돼. GRE에서도 '구분짓다' 뜻으로 나와."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "demagogue",
+    "pos": "n.",
+    "head_meanings": [
+      "선동 정치가",
+      "군중 지도자",
+      "demagogue로서 행동하다",
+      "과장해서 말하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "instigator", "note": "선동자, 부추기는 사람" },
+      { "word": "public speaker", "note": "대중 연설가" },
+      { "word": "inciter", "note": "선동하는 사람" },
+      { "word": "rabble-rouser", "note": "군중을 선동하는 사람" },
+      { "word": "agitator", "note": "선동가" }
+    ],
+    "tips": [
+      "demo-(민중) + agogue(이끄는 사람)야. 민중을 이끄는 사람인데 부정적인 뉘앙스가 강해.",
+      "GRE에서 demagogue는 항상 부정적이야. 감정에 호소해서 대중을 조종하는 정치인을 뜻해."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "demean",
+    "pos": "v.",
+    "head_meanings": [
+      "품위, 인격을 떨어뜨리다"
+    ],
+    "synonyms_from_image": [
+      { "word": "humble", "note": "겸손하게 만들다, 창피주다" },
+      { "word": "abase", "note": "품위를 떨어뜨리다" },
+      { "word": "debase", "note": "가치를 떨어뜨리다" },
+      { "word": "lower", "note": "낮추다, 떨어뜨리다" }
+    ],
+    "tips": [
+      "demean oneself = 자기 품위를 떨어뜨리다. '수준 이하의 일을 하다'라는 뉘앙스야.",
+      "debase, degrade, demean은 다 '가치를 떨어뜨리다' 세트야. GRE에서 같이 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "demeanor",
+    "pos": "n.",
+    "head_meanings": [
+      "행실",
+      "품행",
+      "태도"
+    ],
+    "synonyms_from_image": [
+      { "word": "looks", "note": "외모, 겉모습" },
+      { "word": "conduct", "note": "행동, 품행" },
+      { "word": "deportment", "note": "몸가짐, 행동거지" },
+      { "word": "carriage", "note": "자세, 몸가짐" },
+      { "word": "actions", "note": "행동, 처신" }
+    ],
+    "tips": [
+      "demean(처신하다)에서 나온 명사야. 겉으로 보이는 태도와 분위기를 뜻해.",
+      "calm demeanor = 차분한 태도. GRE 지문에서 인물의 성격이나 태도를 묘사할 때 나오는 단어야."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "demented",
+    "pos": "adj.",
+    "head_meanings": [
+      "정신을 잃은",
+      "실성한",
+      "발광한"
+    ],
+    "synonyms_from_image": [
+      { "word": "lunatic", "note": "미친, 정신 나간" },
+      { "word": "crazy", "note": "미친, 정신 이상의" },
+      { "word": "deranged", "note": "정신이 나간, 미친" }
+    ],
+    "tips": [
+      "de-(벗어나) + ment(정신)에서 왔어. 정신에서 벗어난 = 미친, 제정신이 아닌.",
+      "dementia(치매)랑 같은 어원이야. demented는 '완전히 이성을 잃은'이라는 강한 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "demise",
+    "pos": "n.",
+    "head_meanings": [
+      "사망",
+      "서거",
+      "소멸",
+      "종말",
+      "활동 정지",
+      "재산권 등의 양도"
+    ],
+    "synonyms_from_image": [
+      { "word": "dying", "note": "죽음, 사망" },
+      { "word": "decease", "note": "사망(격식)" },
+      { "word": "passing", "note": "서거, 별세(완곡)" },
+      { "word": "expiration", "note": "만료, 사망" },
+      { "word": "collapse", "note": "붕괴, 무너짐" },
+      { "word": "ruin", "note": "파멸, 몰락" }
+    ],
+    "tips": [
+      "death의 격식체라고 생각하면 돼. the demise of the empire = 제국의 멸망.",
+      "사람의 죽음뿐 아니라 조직·제도의 '종말'을 뜻할 때도 써. GRE에서는 비유적 용법이 더 흔해."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "demographic",
+    "pos": "adj.",
+    "head_meanings": [
+      "인구 통계학상의",
+      "인구 통계적인"
+    ],
+    "synonyms_from_image": [
+      { "word": "anthropologic", "note": "인류학적인" },
+      { "word": "human ecological", "note": "인간 생태학적인" }
+    ],
+    "tips": [
+      "demo-(민중) + graphic(기록의)야. 인구에 관한 통계 데이터를 다루는 거지.",
+      "demographic shift(인구 변화), demographic trend(인구 추세) 같은 표현이 GRE 사회과학 지문에 자주 나와."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "demolition",
+    "pos": "n.",
+    "head_meanings": [
+      "파괴",
+      "해체",
+      "폭파",
+      "타파"
+    ],
+    "synonyms_from_image": [
+      { "word": "demolishment", "note": "파괴, 철거" },
+      { "word": "ruin", "note": "파멸, 폐허" },
+      { "word": "dismantlement", "note": "해체, 분해" },
+      { "word": "unmaking", "note": "파괴, 해체" }
+    ],
+    "tips": [
+      "demolish(파괴하다)의 명사형이야. 건물을 완전히 부수는 '철거'가 대표적인 뜻이야.",
+      "비유적으로 demolition of an argument = 논리를 완전히 무너뜨림. GRE 논리 맥락에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "demoniac",
+    "pos": "adj.",
+    "head_meanings": [
+      "악마의",
+      "악마 같은",
+      "흉악한"
+    ],
+    "synonyms_from_image": [
+      { "word": "cruel", "note": "잔인한" },
+      { "word": "damnable", "note": "저주받을, 끔찍한" },
+      { "word": "diabolic", "note": "악마 같은" },
+      { "word": "wicked", "note": "사악한" }
+    ],
+    "tips": [
+      "demon(악마) + -iac야. 악마에게 씌인 것 같은, 광폭한 느낌을 나타내.",
+      "demoniac laughter = 악마 같은 웃음. demonic이랑 거의 같은 뜻인데 demoniac이 더 문학적이야."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "demoralizing",
+    "pos": "adj.",
+    "head_meanings": [
+      "용기를 꺾는",
+      "곤혹하게 하는",
+      "타락시키는",
+      "혼란시키는"
+    ],
+    "synonyms_from_image": [
+      { "word": "dishearten", "note": "낙담시키는 행위" },
+      { "word": "dispirit", "note": "기를 꺾는 행위" },
+      { "word": "deject", "note": "우울하게 만드는 행위" },
+      { "word": "cast down", "note": "기운을 꺾는 행위" },
+      { "word": "depress", "note": "우울하게 하는 행위" },
+      { "word": "dismay", "note": "당황·낙담시키는 행위" },
+      { "word": "discourage", "note": "의욕을 꺾는 행위" }
+    ],
+    "tips": [
+      "demoralize(사기를 꺾다)의 현재분사 형용사야. a demoralizing defeat = 사기를 꺾는 패배.",
+      "동의어들이 동사 형태인데, 이건 원본 데이터가 demoralize에서 복사된 거야. '사기를 꺾는' 느낌으로 이해하면 돼."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "demoralize",
+    "pos": "v.",
+    "head_meanings": [
+      "사기를 꺾다",
+      "혼란시키다",
+      "어리둥절하게 하다",
+      "풍속을 문란시키다"
+    ],
+    "synonyms_from_image": [
+      { "word": "dishearten", "note": "낙담시키다" },
+      { "word": "dispirit", "note": "기를 꺾다" },
+      { "word": "deject", "note": "우울하게 하다" },
+      { "word": "cast down", "note": "기운을 꺾다" },
+      { "word": "depress", "note": "우울하게 하다" },
+      { "word": "dismay", "note": "당황시키다, 낙담시키다" },
+      { "word": "discourage", "note": "의욕을 꺾다" }
+    ],
+    "tips": [
+      "de-(제거) + moral(사기) + -ize야. 사기를 제거하다 = 사기를 꺾다.",
+      "demoralize the troops = 군대의 사기를 꺾다. GRE에서 dishearten, dispirit과 동의어로 나와."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "demote",
+    "pos": "v.",
+    "head_meanings": [
+      "강등시키다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "de-(아래로) + mote(움직이다, promote의 반대)야. promote(승진)의 반대가 demote(강등)이지.",
+      "demote vs. depose: demote는 한 단계 내리는 거고, depose는 아예 자리에서 쫓아내는 거야."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "demotic",
+    "pos": "adj.",
+    "head_meanings": [
+      "민중의",
+      "통속적인",
+      "고대 이집트의 민용 문자의"
+    ],
+    "synonyms_from_image": [
+      { "word": "popular", "note": "대중적인, 인기 있는" },
+      { "word": "public", "note": "공공의, 대중의" },
+      { "word": "common", "note": "일반적인, 보통의" },
+      { "word": "general", "note": "일반적인, 보편적인" }
+    ],
+    "tips": [
+      "demo-(민중)에서 온 단어야. democracy(민주주의)랑 같은 어근이지.",
+      "demotic language = 서민이 쓰는 일상어. 학술적·격식적 언어의 반대 개념이야."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "demur",
+    "pos": "v./n.",
+    "head_meanings": [
+      "단점을 표하다",
+      "이의를 제기하다",
+      "반대하다",
+      "망설이다",
+      "주저하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "object", "note": "이의를 제기하다" },
+      { "word": "take issue", "note": "문제를 삼다" },
+      { "word": "challenge", "note": "이의를 제기하다" },
+      { "word": "protest", "note": "항의하다" },
+      { "word": "dissent", "note": "반대 의견을 내다" },
+      { "word": "voice reservations", "note": "유보 의견을 말하다" },
+      { "word": "be unwilling", "note": "내키지 않다" },
+      { "word": "be reluctant", "note": "꺼리다" },
+      { "word": "baulk", "note": "주저하다, 거부하다" },
+      { "word": "think twice", "note": "재고하다" },
+      { "word": "refuse", "note": "거절하다" },
+      { "word": "objection", "note": "이의, 반대" },
+      { "word": "protestation", "note": "항의, 이의 제기" },
+      { "word": "complaint", "note": "불만, 불평" },
+      { "word": "dispute", "note": "논쟁, 분쟁" },
+      { "word": "opposition", "note": "반대" },
+      { "word": "resistance", "note": "저항" },
+      { "word": "reservation", "note": "유보, 의구심" },
+      { "word": "hesitation", "note": "망설임, 주저" },
+      { "word": "reluctance", "note": "꺼림, 주저함" },
+      { "word": "disinclination", "note": "내키지 않음" },
+      { "word": "doubts", "note": "의심, 의구심" },
+      { "word": "qualms", "note": "거리낌, 양심의 가책" },
+      { "word": "misgivings", "note": "불안, 의구심" },
+      { "word": "second thoughts", "note": "재고, 다시 생각함" }
+    ],
+    "tips": [
+      "demur는 격하게 반대하는 게 아니라 '조심스럽게 이의를 제기하다'라는 느낌이야.",
+      "without demur = 이의 없이. demure(얌전한)랑 철자가 비슷한데 뜻이 완전 달라! 헷갈리지 마."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "demure",
+    "pos": "adj.",
+    "head_meanings": [
+      "조심스러운",
+      "조용한",
+      "얌전한",
+      "점잖 빼는",
+      "조신한"
+    ],
+    "synonyms_from_image": [
+      { "word": "prudish", "note": "점잖 빼는, 까다로운" },
+      { "word": "shy", "note": "수줍은" },
+      { "word": "solemn", "note": "근엄한, 점잖은" }
+    ],
+    "tips": [
+      "demure는 특히 여성이 조신하고 수줍은 태도를 보일 때 자주 써. demure smile = 수줍은 미소.",
+      "demur(이의 제기)랑 철자가 비슷하니까 주의해! demure는 형용사(얌전한), demur는 동사(반대하다)야."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "demystify",
+    "pos": "v.",
+    "head_meanings": [
+      "신비성, 매력을 제거하다",
+      "편견을 제거하다",
+      "계몽하다",
+      "명백히 하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "clarify", "note": "명확히 하다" }
+    ],
+    "tips": [
+      "de-(제거) + mystify(신비화하다)야. 신비로운 베일을 벗겨내서 이해하기 쉽게 만드는 거지.",
+      "demystify science = 과학을 쉽게 풀어주다. GRE 지문에서 '복잡한 것을 명쾌하게 설명하다' 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "denigrate",
+    "pos": "v.",
+    "head_meanings": [
+      "명예를 훼손하다",
+      "헐뜯다",
+      "더럽히다",
+      "모욕하다",
+      "검게 하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "darken", "note": "어둡게 하다, 검게 하다" },
+      { "word": "libel", "note": "문서로 명예훼손하다" },
+      { "word": "asperse", "note": "중상하다, 비방하다" },
+      { "word": "slander", "note": "구두로 중상하다" },
+      { "word": "tear down", "note": "헐뜯다" },
+      { "word": "traduce", "note": "중상모략하다" },
+      { "word": "revile", "note": "욕하다, 비난하다" },
+      { "word": "vilify", "note": "중상하다, 비방하다" }
+    ],
+    "tips": [
+      "de-(완전히) + nigr(검다, niger)에서 왔어. '검게 칠하다' → 명예를 더럽히다.",
+      "GRE에서 denigrate는 vilify, malign, disparage랑 동의어 세트로 자주 나와. 다 '비방하다' 뜻이야."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "denigration",
+    "pos": "n.",
+    "head_meanings": [
+      "훼손",
+      "모욕",
+      "비방",
+      "폄하"
+    ],
+    "synonyms_from_image": [
+      { "word": "darken", "note": "어둡게 함, 명예 실추" },
+      { "word": "libel", "note": "문서에 의한 명예훼손" },
+      { "word": "asperse", "note": "중상, 비방" },
+      { "word": "slander", "note": "구두 중상" },
+      { "word": "tear down", "note": "헐뜯기" },
+      { "word": "traduce", "note": "중상모략" },
+      { "word": "revile", "note": "욕설, 비난" },
+      { "word": "vilify", "note": "비방, 중상" }
+    ],
+    "tips": [
+      "denigrate(비방하다)의 명사형이야. 누군가의 명예를 훼손하는 행위를 뜻해.",
+      "the denigration of one's character = 인격 훼손. defamation과 비슷한 맥락으로 쓰여."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "denizen",
+    "pos": "n.",
+    "head_meanings": [
+      "주민",
+      "주거자",
+      "공민",
+      "거류민"
+    ],
+    "synonyms_from_image": [
+      { "word": "inhabitant", "note": "주민, 거주자" },
+      { "word": "dweller", "note": "거주자" },
+      { "word": "tenant", "note": "세입자, 임차인" },
+      { "word": "occupant", "note": "거주자, 점유자" },
+      { "word": "resident", "note": "거주자, 주민" }
+    ],
+    "tips": [
+      "denizen은 '그곳에 사는 사람·동물'을 뜻하는 격식체야. denizens of the deep = 심해 생물들.",
+      "citizen은 '시민권을 가진 사람'이고, denizen은 그냥 '거기 사는 존재'야. 동물에도 쓸 수 있어!"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "denotation",
+    "pos": "n.",
+    "head_meanings": [
+      "언어의 문자 그대로의 뜻",
+      "명시적 의미",
+      "명칭",
+      "호칭",
+      "표시",
+      "지시",
+      "기호로 표시되는 것"
+    ],
+    "synonyms_from_image": [
+      { "word": "name", "note": "이름, 명칭" },
+      { "word": "content", "note": "내용, 의미" },
+      { "word": "essence", "note": "본질, 핵심" },
+      { "word": "sign", "note": "기호, 표시" },
+      { "word": "signification", "note": "의미, 뜻" }
+    ],
+    "tips": [
+      "denotation vs. connotation: denotation은 '사전적 의미', connotation은 '함축적 의미'야.",
+      "GRE 언어학 지문에서 이 구분이 나와. denotation = 객관적 의미, connotation = 주관적·감정적 연상."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "denouement",
+    "pos": "n.",
+    "head_meanings": [
+      "연극, 소설 등의 대단원",
+      "사건의 해결",
+      "종국"
+    ],
+    "synonyms_from_image": [
+      { "word": "end", "note": "끝, 결말" },
+      { "word": "result", "note": "결과" },
+      { "word": "solution", "note": "해결" },
+      { "word": "finale", "note": "마지막, 피날레" },
+      { "word": "conclusion", "note": "결론, 종결" },
+      { "word": "termination", "note": "종료, 끝" }
+    ],
+    "tips": [
+      "프랑스어에서 온 단어야. '매듭을 푸는 것(dénouement)'이 원뜻이야. 이야기의 매듭이 풀리는 부분이지.",
+      "GRE 문학 관련 지문에서 자주 나와. climax(절정) 다음에 오는 해결 부분이 denouement야."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "denounce",
+    "pos": "v.",
+    "head_meanings": [
+      "공공연히 비난하다",
+      "규탄하다",
+      "고발하다",
+      "적발하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "lambaste", "note": "혹평하다, 맹비난하다" },
+      { "word": "berate", "note": "호되게 꾸짖다" },
+      { "word": "vituperate", "note": "악담하다, 맹비난하다" },
+      { "word": "excoriate", "note": "신랄하게 비판하다" },
+      { "word": "censure", "note": "공식적으로 비난하다" },
+      { "word": "vilify", "note": "중상하다, 비방하다" },
+      { "word": "accuse", "note": "고발하다, 비난하다" }
+    ],
+    "tips": [
+      "de-(강조) + nounce(알리다)야. 대중 앞에서 강하게 알리며 비난하는 거지.",
+      "denounce는 '공개적 비난'이 핵심이야. censure, condemn, decry랑 동의어 세트로 GRE에서 나와."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "dense",
+    "pos": "adj.",
+    "head_meanings": [
+      "농후한",
+      "짙은",
+      "밀집한",
+      "불투명한",
+      "우둔한",
+      "머리 나쁜",
+      "문장이 난해한"
+    ],
+    "synonyms_from_image": [
+      { "word": "concentrated", "note": "농축된, 밀집한" },
+      { "word": "impenetrable", "note": "뚫을 수 없는, 난해한" }
+    ],
+    "tips": [
+      "dense는 물리적(밀집한)으로도, 비유적(우둔한, 난해한)으로도 써.",
+      "dense fog(짙은 안개), dense prose(난해한 문장), dense person(둔한 사람) 전부 GRE에서 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "094",
+    "word": "deny",
+    "pos": "v.",
+    "head_meanings": [
+      "부정하다",
+      "거절하다",
+      "응하지 않다",
+      "욕망을 억제하다",
+      "절제하다",
+      "참다"
+    ],
+    "synonyms_from_image": [
+      { "word": "contradict", "note": "반박하다, 모순되다" },
+      { "word": "negate", "note": "부정하다" },
+      { "word": "nullify", "note": "무효화하다" },
+      { "word": "disagree with", "note": "동의하지 않다" },
+      { "word": "disclaim", "note": "부인하다" },
+      { "word": "refute", "note": "반박하다" },
+      { "word": "controvert", "note": "논박하다" },
+      { "word": "repudiate", "note": "거부하다, 부인하다" },
+      { "word": "refuse", "note": "거절하다" },
+      { "word": "reject", "note": "거부하다" },
+      { "word": "turn down", "note": "거절하다" },
+      { "word": "dismiss", "note": "기각하다, 무시하다" },
+      { "word": "repulse", "note": "거부하다, 물리치다" },
+      { "word": "decline", "note": "거절하다" },
+      { "word": "veto", "note": "거부권을 행사하다" }
+    ],
+    "tips": [
+      "deny는 '사실 부정'과 '요청 거절' 두 가지 큰 뜻이 있어. 문맥으로 구분해야 해.",
+      "deny oneself = 자기 욕구를 억누르다. self-denial(자기 부정, 금욕)이라는 명사도 GRE에 나와."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "dependable",
+    "pos": "adj.",
+    "head_meanings": [
+      "믿음직한",
+      "신뢰할 만한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "depend(의존하다) + -able이야. 의존해도 될 만큼 믿음직한 거지.",
+      "reliable랑 거의 같은 뜻이야. a dependable ally = 믿을 만한 동맹. 간단하지만 GRE에서도 나와."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "depict",
+    "pos": "v.",
+    "head_meanings": [
+      "묘사하다",
+      "그리다"
+    ],
+    "synonyms_from_image": [
+      { "word": "draw", "note": "그리다" },
+      { "word": "limn", "note": "정밀하게 그리다" },
+      { "word": "describe", "note": "서술하다, 묘사하다" },
+      { "word": "picture", "note": "그림으로 묘사하다" },
+      { "word": "represent", "note": "나타내다, 표현하다" }
+    ],
+    "tips": [
+      "de-(완전히) + pict(그리다)야. picture랑 같은 어원이지. 완전히 그려내다 = 묘사하다.",
+      "depict는 그림뿐 아니라 글로 묘사하는 것도 포함해. the novel depicts = 소설이 묘사하다."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "deplete",
+    "pos": "v.",
+    "head_meanings": [
+      "써버리다",
+      "저장하고 있는 것을 감소시키다",
+      "고갈시키다"
+    ],
+    "synonyms_from_image": [
+      { "word": "consume", "note": "소비하다" },
+      { "word": "exhaust", "note": "고갈시키다, 소진하다" },
+      { "word": "waste", "note": "낭비하다" },
+      { "word": "spend", "note": "쓰다, 소비하다" },
+      { "word": "expend", "note": "지출하다, 소비하다" },
+      { "word": "use up", "note": "다 써버리다" }
+    ],
+    "tips": [
+      "de-(완전히) + plete(채우다)야. 채워진 걸 완전히 비우는 거지. replete(가득 찬)의 반대야.",
+      "deplete resources = 자원을 고갈시키다. GRE 환경 지문에서 아주 자주 나오는 단어야!"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "deplore",
+    "pos": "v.",
+    "head_meanings": [
+      "깊이 후회하다",
+      "애통하다",
+      "한탄하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "grieve for", "note": "슬퍼하다, 애도하다" },
+      { "word": "lament", "note": "한탄하다, 애통해하다" },
+      { "word": "mourn", "note": "애도하다, 슬퍼하다" },
+      { "word": "bewail", "note": "통곡하다, 슬피 울다" }
+    ],
+    "tips": [
+      "de-(강조) + plore(울다)야. '크게 울다' → 한탄하다, 비통해하다.",
+      "deplore는 단순 슬픔이 아니라 '비난하며 한탄하다'라는 뉘앙스가 있어. lament보다 비판적이야."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "deplorable",
+    "pos": "adj.",
+    "head_meanings": [
+      "비통한",
+      "비참한",
+      "지독한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 동의어가 deplore(동사)의 유의어(grieve for, lament 등)라서 형용사인 deplorable과 품사가 안 맞아. 비워뒀어.",
+      "deplorable conditions = 비참한 환경. '한탄할 정도로 끔찍한'이라는 뜻이야. GRE에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "100",
+    "word": "deploy",
+    "pos": "v.",
+    "head_meanings": [
+      "전개하다",
+      "배치하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "allocate", "note": "배분하다, 할당하다" },
+      { "word": "diverge", "note": "분산하다, 펼치다" },
+      { "word": "order", "note": "정렬하다, 배치하다" },
+      { "word": "prepare", "note": "준비하다" },
+      { "word": "spread", "note": "펼치다, 전개하다" }
+    ],
+    "tips": [
+      "군사 용어에서 온 단어야. 병력을 전략적으로 배치하는 게 원뜻이지.",
+      "현대에는 deploy resources(자원을 배치하다), deploy software(소프트웨어를 배포하다)처럼 넓게 써."
+    ]
+  },
+  {
+    "id": "101",
+    "word": "redeploy",
+    "pos": "v.",
+    "head_meanings": [
+      "재배치하다",
+      "재배치되다",
+      "다시 배치하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "allocate", "note": "재배분하다" },
+      { "word": "diverge", "note": "분산하다" },
+      { "word": "order", "note": "재정렬하다" },
+      { "word": "prepare", "note": "재준비하다" },
+      { "word": "spread", "note": "다시 펼치다" }
+    ],
+    "tips": [
+      "re-(다시) + deploy(배치하다)야. 한 번 배치한 걸 다시 다른 곳에 배치하는 거지.",
+      "redeploy troops = 병력을 재배치하다. 비즈니스에서는 인력이나 자원을 재배치할 때 써."
+    ]
+  },
+  {
+    "id": "102",
+    "word": "depose",
+    "pos": "v.",
+    "head_meanings": [
+      "고위직에서 면직하다",
+      "왕을 퇴위시키다"
+    ],
+    "synonyms_from_image": [
+      { "word": "oust", "note": "쫓아내다, 축출하다" },
+      { "word": "unseat", "note": "자리에서 끌어내리다" },
+      { "word": "discrown", "note": "왕관을 벗기다" },
+      { "word": "dethrone", "note": "왕좌에서 끌어내리다" }
+    ],
+    "tips": [
+      "de-(아래로) + pose(놓다)야. 높은 자리에서 아래로 끌어내리는 거지.",
+      "depose a king = 왕을 퇴위시키다. 법률에서는 '증언하다'라는 뜻도 있어(deposition 참고)."
+    ]
+  },
+  {
+    "id": "103",
+    "word": "deposition",
+    "pos": "n.",
+    "head_meanings": [
+      "선서 증언",
+      "증언증술서",
+      "면직",
+      "폐위",
+      "퇴적물",
+      "침전물",
+      "공탁",
+      "기탁"
+    ],
+    "synonyms_from_image": [
+      { "word": "affirmation", "note": "확인, 선서 진술" },
+      { "word": "certification", "note": "증명, 인증" },
+      { "word": "certificate", "note": "증명서" },
+      { "word": "deposal", "note": "면직, 폐위" }
+    ],
+    "tips": [
+      "deposition은 뜻이 여러 갈래야: 법률(선서 증언), 정치(폐위), 과학(퇴적). 문맥이 중요해.",
+      "give a deposition = 선서 증언을 하다. GRE 법률 지문에서 이 뜻으로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "104",
+    "word": "depravity",
+    "pos": "n.",
+    "head_meanings": [
+      "타락",
+      "부패",
+      "비행"
+    ],
+    "synonyms_from_image": [
+      { "word": "baseness", "note": "비열함, 저열함" },
+      { "word": "immorality", "note": "부도덕, 비윤리" },
+      { "word": "turpitude", "note": "사악함, 비열함" }
+    ],
+    "tips": [
+      "de-(완전히) + prav(나쁜, 비뚤어진)에서 왔어. 도덕적으로 완전히 비뚤어진 상태야.",
+      "moral depravity = 도덕적 타락. turpitude랑 거의 같은 뜻이야. GRE 고급 동의어 세트로 외워!"
+    ]
+  },
+  {
+    "id": "105",
+    "word": "deprecate",
+    "pos": "v.",
+    "head_meanings": [
+      "비난하다",
+      "달갑지 않게 반대하다",
+      "헐뜯다",
+      "경시하다",
+      "업신여기다"
+    ],
+    "synonyms_from_image": [
+      { "word": "underestimate", "note": "과소평가하다" },
+      { "word": "ridicule", "note": "조롱하다" },
+      { "word": "disparage", "note": "깎아내리다" },
+      { "word": "despise", "note": "경멸하다" },
+      { "word": "condemn", "note": "비난하다" }
+    ],
+    "tips": [
+      "deprecate vs. depreciate: deprecate는 '비난·반대하다', depreciate는 '가치를 떨어뜨리다'야. 헷갈리기 쉬워!",
+      "self-deprecating humor = 자기 비하 유머. GRE에서 이 표현 자주 나와."
+    ]
+  },
+  {
+    "id": "106",
+    "word": "deprecatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "항의하는",
+      "반대하는",
+      "비난하는",
+      "경시적인",
+      "반항적인"
+    ],
+    "synonyms_from_image": [
+      { "word": "detracting", "note": "가치를 깎아내리는" }
+    ],
+    "tips": [
+      "deprecate(비난하다)의 형용사형이야. deprecatory remark = 비난조의 발언.",
+      "self-deprecatory = 자기를 낮추는. 겸손한 척하면서 자기를 깎아내리는 태도를 말해."
+    ]
+  },
+  {
+    "id": "107",
+    "word": "depreciate",
+    "pos": "v.",
+    "head_meanings": [
+      "가치를 저하시키다",
+      "시가를 떨어뜨리다"
+    ],
+    "synonyms_from_image": [
+      { "word": "cheapen", "note": "가치를 낮추다, 싸구려로 만들다" },
+      { "word": "deprecate", "note": "비난하다, 깎아내리다" },
+      { "word": "discount", "note": "할인하다, 가치를 낮추다" },
+      { "word": "reduce", "note": "줄이다, 감소시키다" },
+      { "word": "subtract", "note": "빼다, 감하다" }
+    ],
+    "tips": [
+      "de-(아래로) + preci(가격, price)야. 가격이 아래로 내려가는 거 = 가치 하락.",
+      "currency depreciation = 화폐 가치 하락. 경제학 지문에서 자주 나오는 단어야. appreciate(가치 상승)의 반대!"
+    ]
+  }
+]
