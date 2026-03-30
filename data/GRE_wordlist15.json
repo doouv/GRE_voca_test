@@ -3,142 +3,177 @@
     "id": "001",
     "word": "dishearten",
     "pos": "v.",
-    "head_meanings": ["낙심(낙담)시키다", "용기를 잃게 하다", "실망케하다"],
+    "head_meanings": [
+      "낙심(낙담)시키다",
+      "용기를 잃게 하다",
+      "실망케하다"
+    ],
     "synonyms_from_image": [
       {"word": "depress", "note": "기분을 가라앉히다"},
       {"word": "discourage", "note": "의욕을 꺾다"},
-      {"word": "deject", "note": "풀이 죽게 만들다"},
+      {"word": "deject", "note": "격식체로 낙담시키다"},
       {"word": "demoralize", "note": "사기를 떨어뜨리다"},
-      {"word": "disparage", "note": "깎아내려 의욕을 꺾다"},
-      {"word": "dispirit", "note": "기운을 빼앗다"},
+      {"word": "disparage", "note": "깎아내려 의기소침하게 만들다"},
+      {"word": "dispirit", "note": "열정·기운을 빼앗다"},
       {"word": "disappoint", "note": "기대를 저버리다"},
-      {"word": "dismay", "note": "당황·낙담시키다"},
-      {"word": "deter", "note": "단념시키다"},
-      {"word": "unnerve", "note": "불안하게 만들다"},
-      {"word": "daunt", "note": "기죽이다"},
-      {"word": "intimidate", "note": "겁을 줘서 위축시키다"},
-      {"word": "cow", "note": "겁먹게 하다"}
+      {"word": "dismay", "note": "경악·낙담시키다"},
+      {"word": "deter", "note": "겁줘서 단념시키다"},
+      {"word": "unnerve", "note": "신경을 흔들어 불안하게 하다"},
+      {"word": "daunt", "note": "위압감으로 기죽이다"},
+      {"word": "intimidate", "note": "위협해서 겁먹게 하다"},
+      {"word": "cow", "note": "겁줘서 복종시키다"}
     ],
     "tips": [
-      "`dis-`(반대) + `hearten`(용기를 주다) → 용기를 빼앗는 거야. heart에서 힘을 빼는 느낌으로 기억해.",
-      "GRE에서 `disheartened`(기가 꺾인) 형태로도 자주 나와. `dispirited`, `dejected`랑 같이 묶어서 외워두면 좋아."
+      "`dis-`(반대) + `hearten`(용기를 주다) = 용기를 빼앗다. 반대말 `hearten`(격려하다)이랑 세트로 외워.",
+      "GRE에서 `disheartening`(낙담시키는)보다 동사 `dishearten`이 직접 출제돼. discourage, demoralize랑 동의어 세트로 자주 나와."
     ]
   },
   {
     "id": "002",
     "word": "disheveled",
     "pos": "adj.",
-    "head_meanings": ["헝클어진", "단정치 못한"],
+    "head_meanings": [
+      "(머리털 등이) 흐트러진",
+      "헝클어진",
+      "(옷차림 등이) 단정치 못한"
+    ],
     "synonyms_from_image": [
       {"word": "unkempt", "note": "손질 안 된, 지저분한"},
-      {"word": "messy", "note": "어수선한"},
+      {"word": "messy", "note": "어질러진"},
       {"word": "untidy", "note": "정돈 안 된"},
       {"word": "mussed up", "note": "구겨지고 헝클어진"},
       {"word": "rumpled", "note": "구겨진"},
-      {"word": "matted", "note": "엉킨, 뭉친"}
+      {"word": "matted", "note": "(머리카락 등이) 엉킨"}
     ],
     "tips": [
-      "프랑스어 `deschevelé`(머리카락이 풀린)에서 왔어. 머리카락이 마구 헝클어진 모습을 떠올려봐.",
-      "`unkempt`이랑 거의 같은 뜻이야. 둘 다 GRE 단골 단어니까 세트로 외워."
+      "프랑스어 `deschevelé`(머리카락이 풀린)에서 왔어. `chevel` = 머리카락이니까, 머리가 헝클어진 이미지로 기억해.",
+      "`unkempt`가 GRE 단골 동의어야. 둘 다 '단정하지 못한 외모'를 뜻해."
     ]
   },
   {
     "id": "003",
     "word": "disillusion",
     "pos": "v.",
-    "head_meanings": ["환상을 버리게 하다", "미몽 깨우치다", "냉정적으로 돌아오게 하다", "환멸을 느끼게 하다"],
+    "head_meanings": [
+      "(남의) 환상을 버리게 하다",
+      "미몽을 깨우치다",
+      "…를 제정신으로 돌아오게 하다",
+      "<남에게> 환멸을 느끼게 하다"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`dis-`(제거) + `illusion`(환상) → 환상을 깨뜨려버리는 거야. 완전 직관적인 단어지.",
-      "`disillusioned with politics` = 정치에 환멸을 느낀. GRE 지문에서 이상주의자가 현실에 부딪히는 맥락에서 자주 나와."
+      "`dis-`(제거) + `illusion`(환상) = 환상을 깨뜨리다. 구조가 뜻 그대로라 외우기 쉬워.",
+      "GRE에서 `become disillusioned with`(~에 환멸을 느끼다) 형태로 자주 나와. 부정적 깨달음의 뉘앙스야."
     ]
   },
   {
     "id": "004",
     "word": "disinclination",
     "pos": "n.",
-    "head_meanings": ["마음이 내키지 않음", "싫증"],
+    "head_meanings": [
+      "마음이 내키지 않음",
+      "싫증"
+    ],
     "synonyms_from_image": [
-      {"word": "reluctance", "note": "꺼림, 주저함"},
+      {"word": "reluctance", "note": "내키지 않음, 꺼림"},
       {"word": "unwillingness", "note": "하기 싫음"},
-      {"word": "indisposition", "note": "내키지 않음"},
+      {"word": "indisposition", "note": "격식체로 내키지 않음"},
       {"word": "hesitation", "note": "망설임"},
-      {"word": "hesitancy", "note": "주저하는 태도"},
-      {"word": "antipathy", "note": "반감, 혐오"},
-      {"word": "aversion", "note": "강한 싫음"},
+      {"word": "hesitancy", "note": "주저함"},
+      {"word": "antipathy", "note": "반감"},
+      {"word": "aversion", "note": "혐오, 강한 싫음"},
       {"word": "dislike", "note": "싫어함"},
       {"word": "distaste", "note": "불쾌감, 혐오"},
       {"word": "objection", "note": "이의, 반대"},
-      {"word": "demur", "note": "이의를 제기함"},
-      {"word": "resistance", "note": "저항, 거부감"},
+      {"word": "demur", "note": "격식체로 이의를 제기함"},
+      {"word": "resistance", "note": "저항"},
       {"word": "opposition", "note": "반대"}
     ],
     "tips": [
-      "`dis-`(반대) + `inclination`(성향, 마음이 끌림) → 마음이 안 끌리는 거야. inclination의 정반대.",
-      "`reluctance`랑 비슷한데 좀 더 격식체야. `a disinclination to cooperate` = 협력할 마음이 없음."
+      "`dis-`(반대) + `inclination`(성향, 기울어짐) = 마음이 기울지 않음. inclination의 반대말이야.",
+      "GRE에서 `reluctance`, `aversion`이랑 동의어 세트로 자주 묶여. `a disinclination to ~` = ~하기 싫어하는 마음."
     ]
   },
   {
     "id": "005",
     "word": "disinfect",
     "pos": "v.",
-    "head_meanings": ["소독하다", "살균하다"],
+    "head_meanings": [
+      "소독하다",
+      "살균하다"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`dis-`(제거) + `infect`(감염시키다) → 감염을 없애는 거야. 완전 직관적인 조합이지.",
-      "코로나 때 많이 들었던 `disinfectant`(소독제)에서 `-ant`만 빼면 동사야. 일상에서 이미 아는 단어!"
+      "`dis-`(제거) + `infect`(감염시키다) = 감염을 제거하다 → 소독하다. 구조 자체가 뜻이야.",
+      "반대말 `infect`(감염시키다)랑 세트로 외워. 명사형은 `disinfectant`(소독제)야."
     ]
   },
   {
     "id": "006",
     "word": "disingenuous",
     "pos": "adj.",
-    "head_meanings": ["솔직하지 않은", "부정직/불성실한", "엄큼한", "음흉한", "계산적인"],
+    "head_meanings": [
+      "솔직하지 않은",
+      "부정직한",
+      "성실치 않은",
+      "엄큼한",
+      "음흉한",
+      "계산적인"
+    ],
     "synonyms_from_image": [
       {"word": "insincere", "note": "진심이 아닌"},
-      {"word": "mendacious", "note": "거짓말하는"},
-      {"word": "dishonest", "note": "정직하지 않은"},
-      {"word": "immoral", "note": "도덕적이지 않은"}
+      {"word": "mendacious", "note": "거짓말을 하는"},
+      {"word": "dishonest", "note": "부정직한"},
+      {"word": "immoral", "note": "비도덕적인"}
     ],
     "tips": [
-      "`dis-`(반대) + `ingenuous`(순진하고 솔직한) → 순진한 척하면서 속으론 딴생각하는 거야. 완전 음흉한 느낌.",
-      "GRE 초빈출 단어! `ingenuous`(순진한) ≠ `disingenuous`(교활한). `ingenious`(독창적인)랑 헷갈리지 마."
+      "`dis-` + `ingenuous`(순진한, 솔직한) = 솔직하지 않은. `ingenuous`(순수한)의 반대말이야. `ingenious`(독창적인)랑 헷갈리지 마!",
+      "GRE 단골 단어! 겉으로는 순진한 척하면서 속으로 계산적인 뉘앙스야. `insincere`랑 꼭 같이 외워."
     ]
   },
   {
     "id": "007",
     "word": "disintegrate",
     "pos": "v.",
-    "head_meanings": ["분해/붕괴하다", "허물어져 (...)이 되다"],
+    "head_meanings": [
+      "분해붕괴하다",
+      "허물어져 (...)이 되다"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`dis-`(분리) + `integrate`(통합하다) → 통합의 반대, 즉 산산이 부서지는 거야.",
-      "물리적으로 부서지는 것(건물 붕괴)부터 비유적으로 무너지는 것(관계 붕괴)까지 다 쓸 수 있어."
+      "`dis-`(분리) + `integrate`(통합하다) = 통합의 반대 → 분해·붕괴하다. `integrate`의 정반대야.",
+      "물리적(건물 붕괴)이든 추상적(관계 와해)이든 다 쓸 수 있어. GRE에서는 비유적 의미로도 나와."
     ]
   },
   {
     "id": "008",
     "word": "disinter",
     "pos": "v.",
-    "head_meanings": ["파내다"],
+    "head_meanings": [
+      "…을 (땅속·무덤에서) 파내다"
+    ],
     "synonyms_from_image": [
-      {"word": "exhume", "note": "시체를 발굴하다"},
+      {"word": "exhume", "note": "(시체를) 발굴하다"},
       {"word": "hollow out", "note": "속을 파내다"},
-      {"word": "excavate", "note": "땅을 파다, 발굴하다"},
-      {"word": "bring to the surface", "note": "표면으로 드러내다"}
+      {"word": "excavate", "note": "발굴·굴착하다"},
+      {"word": "bring to the surface", "note": "표면으로 끌어올리다"}
     ],
     "tips": [
-      "`dis-`(반대) + `inter`(매장하다) → 묻은 걸 다시 파내는 거야. inter가 '땅에 묻다'란 뜻이야.",
-      "`exhume`이랑 같이 외워. 둘 다 무덤에서 파낸다는 뜻인데, disinter는 비유적으로 '잊혀진 걸 되살리다'로도 써."
+      "`dis-`(반대) + `inter`(매장하다) = 매장의 반대 → 파내다. `inter`(묻다)를 먼저 알면 쉬워.",
+      "GRE에서 `exhume`이랑 동의어로 자주 나와. 비유적으로 '오래된 사실을 다시 꺼내다'라는 뜻으로도 써."
     ]
   },
   {
     "id": "009",
     "word": "disinterest",
     "pos": "n.",
-    "head_meanings": ["공평 무사", "무관심", "냉담"],
+    "head_meanings": [
+      "공평 무사",
+      "무관심",
+      "냉담"
+    ],
     "synonyms_from_image": [
-      {"word": "impartiality", "note": "편파적이지 않음"},
+      {"word": "impartiality", "note": "공평함, 편견 없음"},
       {"word": "neutrality", "note": "중립"},
       {"word": "objectivity", "note": "객관성"},
       {"word": "detachment", "note": "초연함"},
@@ -148,169 +183,232 @@
       {"word": "open-mindedness", "note": "열린 마음"},
       {"word": "fairness", "note": "공정함"},
       {"word": "equity", "note": "형평성"},
-      {"word": "even-handedness", "note": "공평한 대우"},
+      {"word": "even-handedness", "note": "공평한 처우"},
       {"word": "indifference", "note": "무관심"},
-      {"word": "lack of interest", "note": "관심 없음"},
+      {"word": "lack of interest", "note": "관심 부재"},
       {"word": "unconcern", "note": "무관심, 개의치 않음"},
       {"word": "impassivity", "note": "무감동"},
       {"word": "boredom", "note": "지루함"},
-      {"word": "apathy", "note": "무감각, 무관심"}
+      {"word": "apathy", "note": "무관심, 냉담"}
     ],
     "tips": [
-      "이 단어 뜻이 두 갈래야! ①공평무사(편견 없음) ②무관심. GRE에선 ①번 뜻이 더 중요해.",
-      "`disinterest` vs `uninterest` — disinterest는 '사심 없는 공정함'이 원래 뜻이고, uninterest가 '흥미 없음'이야. 구분해둬."
+      "`disinterest`는 두 가지 뜻이 있어: ①공평무사(사심 없음) ②무관심. GRE에서는 ①번 뜻이 더 자주 나와!",
+      "`disinterest` ≠ `uninterest`. disinterest는 '이해관계가 없어서 공정한' 뉘앙스가 핵심이야."
     ]
   },
   {
     "id": "010",
     "word": "disinterested",
     "pos": "adj.",
-    "head_meanings": ["사심이 없는", "편견이 없는", "공정한", "비자기적인", "흥미 없는", "무관심한", "냉담한"],
+    "head_meanings": [
+      "사심이 없는",
+      "편견이 없는",
+      "공정한",
+      "제3자적인",
+      "흥미 없는",
+      "무관심한",
+      "냉담한"
+    ],
     "synonyms_from_image": [
       {"word": "impartial", "note": "편파적이지 않은"},
       {"word": "unbiased", "note": "편견 없는"},
       {"word": "unprejudiced", "note": "선입견 없는"},
       {"word": "neutral", "note": "중립적인"},
-      {"word": "non-partisan", "note": "특정 당파에 치우치지 않는"},
+      {"word": "non-partisan", "note": "당파적이지 않은"},
       {"word": "detached", "note": "초연한"},
       {"word": "uninvolved", "note": "관여하지 않는"},
       {"word": "objective", "note": "객관적인"},
-      {"word": "dispassionate", "note": "감정에 휘둘리지 않는"},
-      {"word": "open-minded", "note": "열린 마음의"},
+      {"word": "dispassionate", "note": "감정에 치우치지 않는"},
+      {"word": "open-minded", "note": "열린 사고의"},
       {"word": "fair", "note": "공정한"},
       {"word": "just", "note": "정의로운"},
       {"word": "even-handed", "note": "공평한"},
-      {"word": "aloof", "note": "냉담하게 거리 두는"},
-      {"word": "uninterested", "note": "흥미 없는"},
+      {"word": "aloof", "note": "냉담한, 거리를 두는"},
+      {"word": "uninterested", "note": "관심 없는"},
       {"word": "indifferent", "note": "무관심한"},
       {"word": "unconcerned", "note": "개의치 않는"},
       {"word": "unresponsive", "note": "반응이 없는"},
       {"word": "unmoved", "note": "동요하지 않는"},
-      {"word": "impassive", "note": "무표정한, 무감동의"},
-      {"word": "lukewarm", "note": "미지근한, 열의 없는"},
+      {"word": "impassive", "note": "무표정한, 감정 없는"},
+      {"word": "lukewarm", "note": "미지근한, 시큰둥한"},
       {"word": "bored", "note": "지루해하는"},
       {"word": "apathetic", "note": "무관심한, 냉담한"}
     ],
     "tips": [
-      "GRE 최다 출제 함정! `disinterested` ≠ `uninterested`. disinterested의 핵심 뜻은 '사심 없는, 공정한'이야.",
-      "`a disinterested judge` = 공정한 판사. 이해관계가 없어서 객관적으로 판단할 수 있다는 뜻이야."
+      "GRE 최빈출 함정 단어! `disinterested` ≠ `uninterested`. disinterested = 사심 없이 공정한, uninterested = 그냥 관심 없는.",
+      "`a disinterested judge` = 사심 없는 판사. 이 문맥에서 '무관심한 판사'로 해석하면 오답이야!"
     ]
   },
   {
     "id": "011",
     "word": "disjunctive",
     "pos": "adj.",
-    "head_meanings": ["분리식의", "분리하는", "구별을 하는", "이접적인"],
+    "head_meanings": [
+      "분리성의",
+      "분리하는",
+      "구별을 하는",
+      "이접적인",
+      "선언적인"
+    ],
     "synonyms_from_image": [
       {"word": "dividing", "note": "나누는, 분리하는"}
     ],
     "tips": [
-      "`dis-`(분리) + `junct`(결합, join) + `-ive` → 연결을 끊는 거야. junction(교차로)에서 떼어내는 느낌.",
-      "논리학에서 'A 또는 B' 같은 선언적 명제를 disjunctive라고 해. `or`로 연결된 구조를 떠올려."
+      "`dis-`(분리) + `junct`(접합) + `-ive` = 접합을 끊는 → 분리하는. `conjunction`(접속)의 반대 개념이야.",
+      "논리학에서 `disjunctive`는 'A 또는 B' 같은 선택적 연결을 뜻해. `or` 관계라고 생각하면 돼."
     ]
   },
   {
     "id": "012",
     "word": "disjunction",
     "pos": "n.",
-    "head_meanings": ["이접적 접속사", "선언명제"],
+    "head_meanings": [
+      "이접적 접속사",
+      "선언명제",
+      "분리",
+      "분열",
+      "선언적 판단",
+      "이질",
+      "괴리",
+      "차이"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "disjunctive의 명사형이야. 논리학에서 'A or B' 형태의 명제를 뜻해.",
-      "`a disjunction between theory and practice` = 이론과 실제의 괴리. GRE 지문에서 이런 맥락으로 나올 수 있어."
+      "`dis-`(분리) + `junction`(접합점) = 접합이 끊어진 상태 → 분리, 괴리. junction의 반대야.",
+      "GRE에서 `a disjunction between theory and practice`(이론과 실제의 괴리) 같은 표현으로 나올 수 있어."
     ]
   },
   {
     "id": "013",
     "word": "dislocate",
     "pos": "v.",
-    "head_meanings": ["위치를 바꾸다", "옮기다", "탈구시키다", "분리케 하다"],
+    "head_meanings": [
+      "…의 위치를 바꾸다",
+      "…을 옮기다",
+      "(뼈의 정상 상태를) 뒤틀어 놓다",
+      "탈골시키다",
+      "…을 교란혼란시키다",
+      "탈구시키다"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`dis-`(분리) + `locate`(위치시키다) → 제자리에서 빠지는 거야. 어깨 탈구를 생각해봐.",
-      "물리적 '탈구'뿐만 아니라 비유적으로 '질서를 어지럽히다'라는 뜻도 있어. `dislocate the economy` = 경제를 혼란시키다."
+      "`dis-`(벗어남) + `locate`(위치시키다) = 제자리에서 벗어나게 하다. 뼈가 빠지는 '탈구'가 대표 이미지야.",
+      "물리적 탈구뿐만 아니라 추상적으로 '체제를 교란하다'라는 뜻도 있어. `dislocate the economy` = 경제를 혼란시키다."
     ]
   },
   {
     "id": "014",
     "word": "dislodge",
     "pos": "v.",
-    "head_meanings": ["이전시키다", "쫓아내다", "퇴거시키다"],
+    "head_meanings": [
+      "…을 이전시키다",
+      "(은신처 따위에서) …을 쫓아내다",
+      "…을 떼어내다(from)"
+    ],
     "synonyms_from_image": [
       {"word": "leave", "note": "떠나다"},
-      {"word": "go away", "note": "물러나다"},
+      {"word": "go away", "note": "물러가다"},
       {"word": "withdraw", "note": "철수하다"}
     ],
     "tips": [
-      "`dis-`(제거) + `lodge`(자리잡다, 묵다) → 자리 잡고 있는 걸 억지로 빼내는 거야.",
-      "`dislodge a dictator` = 독재자를 몰아내다. 단단히 박혀있는 걸 강제로 떼어낸다는 뉘앙스가 강해."
+      "`dis-`(제거) + `lodge`(머물게 하다) = 머물던 곳에서 빼내다. lodge(숙박시키다)의 반대야.",
+      "단단히 박힌 것을 억지로 빼내는 느낌이야. `dislodge a stone from a wall` = 벽에서 돌을 빼내다."
     ]
   },
   {
     "id": "015",
     "word": "dismal",
     "pos": "adj.",
-    "head_meanings": ["음침한", "음울한", "칙칙한", "우울한", "불길한", "무서운"],
+    "head_meanings": [
+      "음침음산한",
+      "음울한",
+      "침울한",
+      "황량한",
+      "우울한",
+      "서투른",
+      "솜씨없는",
+      "불길한",
+      "무서운"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "중세 라틴어 `dies mali`(불길한 날들)에서 왔어. 날씨가 칙칙하고 우중충한 날을 떠올려봐.",
-      "`dismal performance` = 형편없는 성과. '우울한'에서 '형편없는'으로 뜻이 확장된 용법도 GRE에서 나와."
+      "라틴어 `dies mali`(나쁜 날들)에서 왔어. '재수 없는 날'의 느낌 → 음침하고 우울한 분위기야.",
+      "`dismal failure` = 참담한 실패. GRE에서 '음울한' 뜻과 '형편없는' 뜻 둘 다 나올 수 있어."
     ]
   },
   {
     "id": "016",
     "word": "dismantle",
     "pos": "v.",
-    "head_meanings": ["제거하다", "철거하다", "분해하다", "해체하다"],
+    "head_meanings": [
+      "(기구·설비 따위를) …에서 제거하다",
+      "철거하다",
+      "분해하다",
+      "해체하다"
+    ],
     "synonyms_from_image": [
-      {"word": "divest", "note": "벗기다, 박탈하다"},
-      {"word": "strip", "note": "벗기다, 제거하다"},
-      {"word": "denude", "note": "발가벗기다"},
+      {"word": "divest", "note": "벗기다, 제거하다"},
+      {"word": "strip", "note": "벗겨내다"},
+      {"word": "denude", "note": "벌거벗기다"},
       {"word": "bare", "note": "드러내다"},
       {"word": "disassemble", "note": "분해하다"},
-      {"word": "disperse", "note": "흩뜨리다"},
-      {"word": "dissipate", "note": "흩어지게 하다"}
+      {"word": "disperse", "note": "흩어지게 하다"},
+      {"word": "dissipate", "note": "흩뜨리다"}
     ],
     "tips": [
-      "`dis-`(제거) + `mantle`(망토, 덮개) → 망토를 벗기듯 하나씩 해체하는 거야.",
-      "`dismantle a nuclear weapon` = 핵무기를 해체하다. 복잡한 구조물을 체계적으로 분해하는 느낌이야."
+      "`dis-`(제거) + `mantle`(망토, 덮개) = 덮개를 벗기다 → 해체하다. 원래 갑옷을 벗기는 뜻이었어.",
+      "GRE에서 비유적으로 `dismantle a system/argument`(체제/논거를 해체하다) 형태로 자주 출제돼."
     ]
   },
   {
     "id": "017",
     "word": "dismay",
-    "pos": "v./n.",
-    "head_meanings": ["당황케 하다", "불안하게 하다", "낙담하게 하다"],
+    "pos": "v. / n.",
+    "head_meanings": [
+      "걱정",
+      "공포 등이 <사람을> 크게(깜짝) 놀라게 하다",
+      "…을 겁먹게 하다",
+      "불안하게 하다",
+      "낙담하게 하다",
+      "당황하다",
+      "경악",
+      "당황",
+      "의기 소침",
+      "낙담"
+    ],
     "synonyms_from_image": [
-      {"word": "disconcert", "note": "당황하게 만들다"},
+      {"word": "disconcert", "note": "당황하게 하다"},
       {"word": "startle", "note": "깜짝 놀라게 하다"},
       {"word": "surprise", "note": "놀라게 하다"},
       {"word": "shock", "note": "충격을 주다"},
       {"word": "disturb", "note": "불안하게 하다"},
-      {"word": "perturb", "note": "마음을 어지럽히다"},
+      {"word": "perturb", "note": "심란하게 하다"},
       {"word": "upset", "note": "속상하게 하다"},
-      {"word": "unsettle", "note": "불안정하게 만들다"},
+      {"word": "unsettle", "note": "불안하게 만들다"},
       {"word": "alarm", "note": "경각심을 주다"},
       {"word": "frighten", "note": "겁먹게 하다"},
       {"word": "discourage", "note": "의욕을 꺾다"},
-      {"word": "dishearten", "note": "낙심시키다"},
-      {"word": "dispirit", "note": "기운을 빼다"},
+      {"word": "dishearten", "note": "낙담시키다"},
+      {"word": "dispirit", "note": "기운을 빼앗다"},
       {"word": "depress", "note": "우울하게 하다"},
-      {"word": "daunt", "note": "기죽이다"}
+      {"word": "daunt", "note": "위압감으로 기죽이다"}
     ],
     "tips": [
-      "`dis-`(부정) + 고대 프랑스어 `may`(힘) → 힘을 빼앗아 당황하고 낙담하게 만드는 거야.",
-      "`to my dismay` = 실망스럽게도. 이 표현 GRE 독해에서 엄청 자주 보여. 놀람+실망이 섞인 감정이야."
+      "원래 `des-`(제거) + `may`(힘, 능력) = 힘을 빼앗다 → 기가 죽게 하다. 놀라움+낙담이 합쳐진 감정이야.",
+      "`to one's dismay` = ~가 낙담하게도. GRE 독해에서 이 숙어 표현이 자주 나와."
     ]
   },
   {
     "id": "018",
     "word": "dismember",
     "pos": "v.",
-    "head_meanings": ["팔다리를 따로따로 자르다", "분할(해체)하다"],
+    "head_meanings": [
+      "팔다리를 따로따로 하다",
+      "(나라 등을) 분할(해체)하다"
+    ],
     "synonyms_from_image": [
       {"word": "maim", "note": "불구로 만들다"},
-      {"word": "cripple", "note": "심하게 다치게 하다"},
+      {"word": "cripple", "note": "장애를 입히다"},
       {"word": "dislimb", "note": "팔다리를 자르다"},
       {"word": "shred", "note": "갈기갈기 찢다"},
       {"word": "tear apart", "note": "찢어 분리하다"},
@@ -319,15 +417,21 @@
       {"word": "dismantle", "note": "해체하다"}
     ],
     "tips": [
-      "`dis-`(분리) + `member`(구성원, 팔다리) → 몸의 부분들을 분리하는 거야. member에 '팔다리'란 뜻이 있어.",
-      "물리적으로 '사지를 절단하다'뿐만 아니라 비유적으로 국가나 조직을 '해체하다'로도 써."
+      "`dis-`(분리) + `member`(사지, 구성원) = 사지를 분리하다. member가 '팔다리'라는 뜻도 있어.",
+      "비유적으로 나라나 조직을 해체할 때도 써. `dismember an empire` = 제국을 분할하다."
     ]
   },
   {
     "id": "019",
     "word": "dismiss",
     "pos": "v.",
-    "head_meanings": ["포기하다", "제거하다", "잊어버리다", "해산시키다", "기각하다"],
+    "head_meanings": [
+      "(마음먹었던 것을) 포기하다",
+      "제거하다",
+      "잊어버리다",
+      "…인 사람 등을 해산시키다",
+      "기각하다"
+    ],
     "synonyms_from_image": [
       {"word": "refuse", "note": "거부하다"},
       {"word": "reject", "note": "거절하다"},
@@ -339,343 +443,512 @@
       {"word": "dissolve", "note": "해체하다"}
     ],
     "tips": [
-      "`dis-`(떨어져) + `miss`(보내다, mission과 같은 어근) → 멀리 보내버리는 거야. 내쫓거나 무시하는 느낌.",
-      "GRE에선 '기각하다(dismiss a claim)'나 '대수롭지 않게 여기다(dismiss as irrelevant)' 뜻이 많이 나와."
+      "`dis-`(떨어져) + `miss`(보내다) = 보내버리다. 사람을 해고하든, 주장을 기각하든 '내쳐 보내는' 느낌이야.",
+      "GRE에서 `dismiss an argument/claim` = 주장을 일축하다. 법적 맥락에서는 `dismiss a case` = 소송을 기각하다."
     ]
   },
   {
     "id": "020",
     "word": "disorient",
     "pos": "v.",
-    "head_meanings": ["방향 감각을 혼란시키다", "갈피를 못잡게 하다", "어리둥절하게 하다"],
+    "head_meanings": [
+      "…의 방향 감각을 혼란시키다",
+      "(낯선 상황에 처하게 하여) 갈피를 못잡게 하다",
+      "어리둥절하게 하다",
+      "(정신의학) …에게 시간·장소·관계에 대한 인식 기능을 잃게 하다"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`dis-`(반대) + `orient`(방향을 잡다) → 방향을 잃게 만드는 거야. 완전 직관적인 구조지.",
-      "`disoriented`(방향감각을 잃은) 형태가 더 자주 쓰여. 갑자기 낯선 곳에서 두리번거리는 느낌이야."
+      "`dis-`(반대) + `orient`(방향을 잡다) = 방향 감각을 잃게 하다. orient의 반대야.",
+      "물리적 길 잃음뿐 아니라 심리적 혼란에도 써. `The sudden change disoriented everyone.` = 갑작스러운 변화에 모두 어리둥절했다."
     ]
   },
   {
     "id": "021",
     "word": "disparage",
     "pos": "v.",
-    "head_meanings": ["깔보다", "과소 평가하다", "헐뜯다", "비난하다"],
+    "head_meanings": [
+      "깔보다",
+      "과소 평가하다",
+      "헐뜯다",
+      "비난하다"
+    ],
     "synonyms_from_image": [
-      {"word": "belittle", "note": "하찮게 여기다"},
+      {"word": "belittle", "note": "깎아내리다"},
       {"word": "slight", "note": "무시하다, 경시하다"},
-      {"word": "abuse", "note": "욕하다, 남용하다"},
-      {"word": "depreciate", "note": "가치를 깎아내리다"},
+      {"word": "abuse", "note": "욕하다"},
+      {"word": "deprecate", "note": "비난하다, 반대하다"},
       {"word": "disrespect", "note": "무례하게 대하다"},
       {"word": "disdain", "note": "경멸하다"},
-      {"word": "derogate", "note": "격을 떨어뜨리다"}
+      {"word": "derogate", "note": "격하하다, 깎아내리다"}
     ],
     "tips": [
-      "프랑스어 `desparage`(동등하지 않은 사람과 결혼하다)에서 왔어. 상대를 '격이 안 맞는 사람'으로 깔보는 거야.",
-      "GRE 초빈출! `belittle`, `depreciate`, `denigrate`랑 같이 묶어서 외워. 다 '깎아내리다' 계열이야."
+      "GRE 최빈출! `dis-` + 옛프랑스어 `parage`(동등한 지위) = 지위를 깎아내리다. 남을 '격하'시키는 뉘앙스야.",
+      "`belittle`, `denigrate`, `deprecate`랑 동의어 세트로 꼭 외워. `disparaging remarks` = 비하 발언."
     ]
   },
   {
     "id": "022",
     "word": "disparate",
     "pos": "adj.",
-    "head_meanings": ["이종의", "본질적으로 다른", "연관이 없는", "부동의"],
+    "head_meanings": [
+      "이종의",
+      "본질적으로 다른",
+      "연관이 없는",
+      "부동의"
+    ],
     "synonyms_from_image": [
       {"word": "heterogeneous", "note": "이질적인"},
       {"word": "diverse", "note": "다양한"},
-      {"word": "distinct", "note": "뚜렷이 다른"},
-      {"word": "divergent", "note": "갈라지는, 상이한"},
+      {"word": "distinct", "note": "별개의"},
+      {"word": "divergent", "note": "갈라지는"},
       {"word": "dissimilar", "note": "비슷하지 않은"},
-      {"word": "unequal", "note": "동등하지 않은"},
-      {"word": "discrepant", "note": "모순되는, 불일치하는"}
+      {"word": "unequal", "note": "불평등한"},
+      {"word": "discrepant", "note": "모순되는"},
+      {"word": "differing", "note": "서로 다른"},
+      {"word": "varying", "note": "변화하는"},
+      {"word": "different", "note": "다른"},
+      {"word": "unlike", "note": "같지 않은"},
+      {"word": "contrasting", "note": "대조적인"},
+      {"word": "contrastive", "note": "대비되는"},
+      {"word": "conflictive", "note": "충돌하는"},
+      {"word": "incompatible", "note": "양립할 수 없는"},
+      {"word": "contradictory", "note": "모순되는"},
+      {"word": "at odds", "note": "상충하는"},
+      {"word": "at variance", "note": "일치하지 않는"},
+      {"word": "separate", "note": "분리된"},
+      {"word": "splitting off", "note": "갈라져 나가는"}
     ],
     "tips": [
-      "`disparage`(깔보다)랑 헷갈리지 마! disparate는 '본질적으로 다른'이야. 발음도 다르니까 주의해.",
-      "`disparate elements` = 이질적인 요소들. 서로 공통점이 없는 것들을 한데 모을 때 쓰는 표현이야."
+      "`dis-`(분리) + `par`(동등한) = 동등하지 않은 → 본질적으로 다른. `parity`(동등)랑 어근이 같아.",
+      "GRE에서 `disparate`(형용사)와 `disparity`(명사)가 모두 자주 나와. '근본적으로 다른, 비교 불가능한' 뉘앙스야."
     ]
   },
   {
     "id": "023",
     "word": "disparity",
     "pos": "n.",
-    "head_meanings": ["불일치", "불평등", "불균형", "상이", "부동"],
+    "head_meanings": [
+      "불일치",
+      "불평등",
+      "불균형",
+      "상이",
+      "부동"
+    ],
     "synonyms_from_image": [
-      {"word": "variance", "note": "차이, 불일치"},
+      {"word": "variance", "note": "차이, 변동"},
+      {"word": "difference", "note": "차이"},
+      {"word": "condition of inequality", "note": "불평등 상태"},
       {"word": "discrepancy", "note": "불일치, 모순"},
-      {"word": "inconsistency", "note": "일관성 없음"},
+      {"word": "inconsistency", "note": "불일치"},
       {"word": "inequality", "note": "불평등"},
       {"word": "misunderstanding", "note": "오해"},
-      {"word": "dissent", "note": "의견 불일치"},
+      {"word": "dissent", "note": "의견 차이"},
       {"word": "dissimilarity", "note": "비유사성"},
-      {"word": "divergence", "note": "차이, 분기"},
-      {"word": "dissimilitude", "note": "비유사, 상이함"}
+      {"word": "divergence", "note": "분기, 차이"},
+      {"word": "dissimilitude", "note": "비유사성(격식)"}
     ],
     "tips": [
-      "`dis-`(반대) + `parity`(동등함) → 동등하지 않은 상태, 즉 격차야. parity(대등)의 반대!",
-      "`income disparity` = 소득 격차. GRE 사회과학 지문에서 불평등을 다룰 때 단골로 나오는 단어야."
+      "`dis-`(반대) + `parity`(동등) = 동등하지 않음 → 격차. `income disparity` = 소득 격차.",
+      "GRE 사회과학 지문에서 자주 등장해. `disparity between A and B` = A와 B 사이의 격차."
     ]
   },
   {
     "id": "024",
     "word": "dispassionate",
     "pos": "adj.",
-    "head_meanings": ["감정에 좌우되지 않는", "냉정한", "공정한"],
+    "head_meanings": [
+      "감정에 좌우되지 않는",
+      "냉정한"
+    ],
     "synonyms_from_image": [
       {"word": "fair", "note": "공정한"},
       {"word": "undisturbed", "note": "동요하지 않는"},
-      {"word": "unprejudiced", "note": "편견 없는"}
+      {"word": "unprejudiced", "note": "편견 없는"},
+      {"word": "impassive", "note": "감정을 드러내지 않는"}
     ],
     "tips": [
-      "`dis-`(없는) + `passionate`(열정적인) → 열정/감정이 없는 상태, 즉 냉정하고 객관적인 거야.",
-      "`a dispassionate analysis` = 감정을 배제한 냉정한 분석. `disinterested`랑 비슷하게 '공정한'이란 뜻도 있어."
+      "`dis-`(없음) + `passionate`(열정적인) = 감정 없이 → 냉정한, 객관적인. passion이 빠진 상태야.",
+      "GRE에서 `dispassionate analysis/observer` = 냉정한 분석/관찰자. 긍정적 뉘앙스(공정한)로 더 자주 써."
     ]
   },
   {
     "id": "025",
     "word": "dispatch",
-    "pos": "v./n.",
-    "head_meanings": ["급파하다", "발송하다", "신속히 처리하다", "처형하다", "급파", "특파", "급송", "속달", "살해"],
+    "pos": "v. / n.",
+    "head_meanings": [
+      "급파(특파)하다",
+      "[물건]을 발송하다",
+      "[총 등을] 재빨리 해치우다",
+      "신속히 처리하다",
+      "처형하다",
+      "죽이다",
+      "급파",
+      "특파",
+      "급송",
+      "속달",
+      "급보",
+      "특전",
+      "처리",
+      "신속",
+      "날랜 처리",
+      "살해"
+    ],
     "synonyms_from_image": [
-      {"word": "expedition", "note": "신속함, 원정"},
-      {"word": "celerity", "note": "민첩함"},
+      {"word": "expedition", "note": "신속함"},
+      {"word": "celerity", "note": "민첩함(격식)"},
       {"word": "hurry", "note": "서두름"},
-      {"word": "hustle", "note": "분주하게 움직임"},
-      {"word": "rustle", "note": "부스럭거리며 서두름"},
+      {"word": "hustle", "note": "서둘러 움직임"},
+      {"word": "rustle", "note": "바스락거리며 재빨리"},
       {"word": "speed", "note": "속도"},
-      {"word": "expedite", "note": "신속히 처리하다"},
+      {"word": "expedite", "note": "촉진하다"},
       {"word": "mail", "note": "우편으로 보내다"},
       {"word": "kill", "note": "죽이다"}
     ],
     "tips": [
-      "뜻이 다양해서 헷갈리는 단어야! 핵심은 '빠르게 보내다/처리하다'. 신속함이 키워드야.",
-      "`with dispatch` = 신속하게. GRE에선 명사로 '신속함'이란 뜻이 나올 수 있어. `celerity`랑 같이 외워."
+      "GRE에서 `with dispatch` = 신속하게. 이 숙어가 핵심이야. '보내다'보다 '빠르게 처리하다'가 더 자주 출제돼.",
+      "`dispatch` 하나로 '보내다', '신속히 처리하다', '죽이다'까지 뜻이 다양해. 문맥으로 판단해야 해."
     ]
   },
   {
     "id": "026",
     "word": "dispel",
     "pos": "v.",
-    "head_meanings": ["떨쳐버리다", "없애다"],
+    "head_meanings": [
+      "…을 쫓아 버리다",
+      "사방으로 흩어지게 하다",
+      "(공포·불안·근심 따위를) 떨쳐버리다",
+      "없애다",
+      "(안개 등을) 헤쳐 없애다"
+    ],
     "synonyms_from_image": [
       {"word": "drive away", "note": "몰아내다"},
-      {"word": "diffuse", "note": "흩뜨리다"},
-      {"word": "expel", "note": "추방하다"},
+      {"word": "diffuse", "note": "퍼뜨려 흩어지게 하다"},
+      {"word": "expel", "note": "쫓아내다"},
       {"word": "repel", "note": "물리치다"},
-      {"word": "rout", "note": "패주시키다"},
+      {"word": "rout", "note": "완전히 격퇴하다"},
       {"word": "drive off", "note": "쫓아내다"},
       {"word": "banish", "note": "추방하다"},
       {"word": "eliminate", "note": "제거하다"},
-      {"word": "allay", "note": "가라앉히다"},
+      {"word": "allay", "note": "(불안을) 가라앉히다"},
       {"word": "ease", "note": "완화하다"},
       {"word": "quell", "note": "진압하다"}
     ],
     "tips": [
-      "`dis-`(분리) + `pel`(밀다, propel의 pel) → 밀어서 쫓아내는 거야. 안개나 두려움을 흩뜨리는 느낌.",
-      "`dispel doubts/fears/rumors` = 의심/두려움/소문을 없애다. 추상적인 것을 날려버릴 때 주로 써."
+      "`dis-`(사방으로) + `pel`(밀다, propel의 pel) = 사방으로 밀어내다 → 흩어지게 하다. expel, repel이랑 어근이 같아.",
+      "GRE에서 `dispel doubts/fears/myths` = 의심/공포/미신을 떨쳐내다. 추상적 대상을 없애는 맥락이 대부분이야."
     ]
   },
   {
     "id": "027",
     "word": "dispensable",
     "pos": "adj.",
-    "head_meanings": ["없어도 되는", "꼭 그렇지 않아도 되는", "생략될 수 있는", "지워질 수 있는"],
+    "head_meanings": [
+      "없어도 되는",
+      "필요 없는",
+      "중요하지 않은"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`indispensable`(필수적인)의 반대야. '없어도 그만'이라는 뜻이야. indispensable이 더 자주 나오지만 같이 알아둬.",
-      "`dispensable workers` = 대체 가능한 인력. 좀 서글픈 단어지만 GRE에선 냉정하게 쓰여."
+      "`dispense`(나눠주다) + `-able` → 나눠줘도 되는 → 없어도 되는. 반대말 `indispensable`(필수적인)이 GRE에서 더 자주 나와.",
+      "`expendable`이랑 동의어야. 둘 다 '대체 가능한, 없어도 되는'이라는 뜻이야."
     ]
   },
   {
     "id": "028",
     "word": "dispense with",
     "pos": "v. phr.",
-    "head_meanings": ["없이 지내다", "수고를 덜다", "필요 없게 하다", "적용을 면제하다"],
+    "head_meanings": [
+      "없이 지내다(do without)",
+      "…의 수고를 덜다",
+      "필요 없게 하다(do away with)",
+      "<법 등의> 적용을 면제하다"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`dispense with formalities` = 형식적 절차를 생략하다. '~을 안 해도 되게 하다'라는 뜻이야.",
-      "`with`가 붙으면 뜻이 완전 달라져! dispense(분배하다) vs dispense with(없이 지내다). 숙어로 외워야 해."
+      "`dispense with` = ~없이 해내다. `dispense`(분배하다)랑 뜻이 완전 다르니까 주의해!",
+      "`Let's dispense with formalities.` = 형식은 생략하자. GRE에서 이 숙어 형태로 나올 수 있어."
     ]
   },
   {
     "id": "029",
     "word": "dispense",
     "pos": "v.",
-    "head_meanings": ["분배하다", "베풀다", "시행하다", "집행하다", "내주게 되어 있다", "판매하고 있다", "조제하다", "면하게 하다", "특별히 면제하다"],
+    "head_meanings": [
+      "…을 (…에게) 분배하다",
+      "배풀다",
+      "<법>을 시행하다",
+      "적용하다",
+      "<의식을> 집행하다",
+      "[기계·용기 등이] [물건을] 내주게 되어 있다",
+      "<약을> 조제하다",
+      "[남을] <의무 등으로부터> 면하게 하다"
+    ],
     "synonyms_from_image": [],
     "tips": [
-      "`dis-`(분리) + `pense`(무게를 달다, expenditure와 같은 어근) → 무게를 재서 나눠주는 거야.",
-      "`dispense justice` = 정의를 집행하다, `dispense medicine` = 약을 조제하다. 맥락에 따라 뜻이 달라져."
+      "라틴어 `dispensare`(무게를 재서 나눠주다)에서 왔어. '공정하게 분배하다'가 핵심 이미지야.",
+      "`dispense justice` = 정의를 실현하다, `dispense medicine` = 약을 조제하다. 문맥에 따라 뜻이 달라져."
     ]
   },
   {
     "id": "030",
-    "word": "disperse",
-    "pos": "v.",
-    "head_meanings": ["흩어지게 하다", "산란시키다"],
-    "synonyms_from_image": [
-      {"word": "disseminate", "note": "퍼뜨리다"},
-      {"word": "dissipate", "note": "흩어지게 하다"},
-      {"word": "dispel", "note": "떨쳐내다"},
-      {"word": "disband", "note": "해산시키다"},
-      {"word": "scatter", "note": "흩뿌리다"}
+    "word": "dispenser",
+    "pos": "n.",
+    "head_meanings": [
+      "약사",
+      "제조사",
+      "분배자",
+      "베푸는 사람",
+      "자동판매기",
+      "디스펜서"
     ],
+    "synonyms_from_image": [],
     "tips": [
-      "`dis-`(사방으로) + `sperse`(뿌리다, sparse와 같은 어근) → 사방으로 뿌려서 흩어지게 하는 거야.",
-      "`disperse a crowd` = 군중을 해산시키다. `scatter`보다 좀 더 격식체야. 빛의 분산에도 써."
+      "`dispense`(분배하다) + `-er`(~하는 사람/것) = 분배하는 사람 또는 기계. 물 디스펜서 생각하면 돼.",
+      "약사(pharmacist)를 `dispenser`라고도 해. 약을 조제해서 나눠주는 사람이라서야."
     ]
   },
   {
     "id": "031",
-    "word": "dispersive",
-    "pos": "adj.",
-    "head_meanings": ["분산하는", "전파성의"],
-    "synonyms_from_image": [],
+    "word": "disperse",
+    "pos": "v.",
+    "head_meanings": [
+      "…을 흩어지게 하다",
+      "산란시키다"
+    ],
+    "synonyms_from_image": [
+      {"word": "disseminate", "note": "널리 퍼뜨리다"},
+      {"word": "dissipate", "note": "흩어지게 하다"},
+      {"word": "dispel", "note": "쫓아 흩뜨리다"},
+      {"word": "disband", "note": "해산시키다"},
+      {"word": "scatter", "note": "흩뿌리다"}
+    ],
     "tips": [
-      "disperse의 형용사형이야. 주로 과학 용어로 쓰여. `dispersive medium` = 분산 매질.",
-      "프리즘이 빛을 무지개색으로 나누는 게 dispersive한 거야. 물리학 지문에서 나올 수 있어."
+      "`dis-`(사방으로) + `sperse`(뿌리다) = 사방으로 뿌리다 → 흩어지게 하다. `sparse`(드문)랑 어근이 같아.",
+      "GRE에서 `disperse a crowd` = 군중을 해산시키다. `scatter`, `disseminate`랑 동의어 세트로 외워."
     ]
   },
   {
     "id": "032",
-    "word": "dispirited",
+    "word": "dispersive",
     "pos": "adj.",
-    "head_meanings": ["기가 꺾인", "풀이 죽은"],
-    "synonyms_from_image": [
-      {"word": "crestfallen", "note": "몹시 실망한"},
-      {"word": "bored", "note": "지루해하는"},
-      {"word": "dejected", "note": "낙담한"},
-      {"word": "weary", "note": "지친"},
-      {"word": "tired", "note": "피곤한"},
-      {"word": "sick of", "note": "질려버린"},
-      {"word": "depressed", "note": "우울한"},
-      {"word": "discouraged", "note": "의욕을 잃은"},
-      {"word": "disheartened", "note": "낙심한"}
+    "head_meanings": [
+      "분산하는",
+      "전파성의"
     ],
+    "synonyms_from_image": [],
     "tips": [
-      "`dis-`(제거) + `spirited`(기운찬) → 기운이 쏙 빠진 거야. spirit(정신, 기운)이 없어진 상태.",
-      "`crestfallen`, `dejected`, `disheartened`랑 완전 같은 느낌이야. 이 '풀죽은' 계열 단어 GRE에서 자주 나와."
+      "`disperse`(흩뜨리다) + `-ive`(~하는 성질) = 분산시키는 성질이 있는. 물리학에서 빛의 분산에 써.",
+      "일상보다 과학 용어로 더 많이 쓰여. `dispersive medium` = 분산 매질."
     ]
   },
   {
     "id": "033",
-    "word": "displace",
-    "pos": "v.",
-    "head_meanings": ["추방하다", "옮기다", "대신하다", "대신 들어서다", "떨어뜨리다", "해임(파면)하다"],
-    "synonyms_from_image": [],
+    "word": "dispirited",
+    "pos": "adj.",
+    "head_meanings": [
+      "기가 꺾인",
+      "풀이 죽은"
+    ],
+    "synonyms_from_image": [
+      {"word": "crestfallen", "note": "몹시 낙담한"},
+      {"word": "bored", "note": "지루해하는"},
+      {"word": "dejected", "note": "의기소침한"},
+      {"word": "weary", "note": "지친"},
+      {"word": "tired", "note": "피곤한"},
+      {"word": "sick of", "note": "~에 질린"},
+      {"word": "depressed", "note": "우울한"},
+      {"word": "discouraged", "note": "낙담한"},
+      {"word": "disheartened", "note": "실망한"}
+    ],
     "tips": [
-      "`dis-`(분리) + `place`(장소) → 원래 자리에서 밀어내는 거야. 직관적이지?",
-      "`displaced people` = 실향민, 난민. GRE 사회 지문에서 자주 나오는 표현이야. `supplant`(대체하다)랑 비슷해."
+      "`dis-`(없음) + `spirited`(기운 넘치는) = 기운이 빠진. spirit(기운)이 사라진 상태야.",
+      "`crestfallen`, `dejected`, `despondent`랑 동의어 세트로 자주 출제돼. 모두 '풀 죽은' 뉘앙스야."
     ]
   },
   {
     "id": "034",
+    "word": "dispirit",
+    "pos": "v.",
+    "head_meanings": [
+      "열정",
+      "사기",
+      "희망 등을 잃게 하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`(제거) + `spirit`(정신, 기운) = 기운을 빼앗다. `dishearten`, `demoralize`랑 같은 뜻이야.",
+      "`dispirited`(형용사: 기가 꺾인)가 더 자주 나오지만, 동사 `dispirit`도 알아둬."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "displace",
+    "pos": "v.",
+    "head_meanings": [
+      "(조국 등에서) 추방하다",
+      "(평소의 위치에서) 옮기다",
+      "대신하다(substitute)",
+      "대신 들어서다",
+      "(직위째) 쫓아버리다",
+      "해임하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`(떠나) + `place`(자리) = 자리에서 밀어내다. `displaced people` = 실향민, 난민.",
+      "GRE에서 '대체하다(supplant, supersede)' 뜻으로도 나와. `Technology displaced manual labor.`"
+    ]
+  },
+  {
+    "id": "036",
     "word": "displease",
     "pos": "v.",
-    "head_meanings": ["불쾌하게 하다", "비위를 거스르다", "성나게 하다", "불쾌하다", "기분이 상하다"],
+    "head_meanings": [
+      "불쾌하게 하다",
+      "…의 비위를 거스르다",
+      "성나게 하다"
+    ],
     "synonyms_from_image": [
       {"word": "annoy", "note": "짜증나게 하다"},
       {"word": "irritate", "note": "신경 거슬리게 하다"},
       {"word": "anger", "note": "화나게 하다"},
       {"word": "irk", "note": "짜증나게 하다"},
       {"word": "vex", "note": "속 태우게 하다"},
-      {"word": "pique", "note": "자존심을 건드리다"},
-      {"word": "gall", "note": "분하게 하다"},
-      {"word": "nettle", "note": "쐐기풀처럼 따끔하게 짜증내게 하다"},
+      {"word": "pique", "note": "기분 상하게 하다"},
+      {"word": "gall", "note": "분노하게 하다"},
+      {"word": "nettle", "note": "따끔하게 건드리다"},
       {"word": "upset", "note": "속상하게 하다"},
       {"word": "aggravate", "note": "악화시키다, 짜증나게 하다"},
       {"word": "peeve", "note": "짜증나게 하다"}
     ],
     "tips": [
-      "`dis-`(반대) + `please`(기쁘게 하다) → 기쁘게 하는 것의 반대야. 완전 쉽지?",
-      "동의어 `irk`, `vex`, `pique`, `gall`, `nettle` 다 GRE에서 따로따로 나오는 단어들이야. 이 기회에 같이 외워."
-    ]
-  },
-  {
-    "id": "035",
-    "word": "disposable",
-    "pos": "adj.",
-    "head_meanings": ["처분할 수 있는", "마음대로 쓸 수 있는", "자유로이 쓸 수 있는", "일회용"],
-    "synonyms_from_image": [
-      {"word": "throwaway", "note": "버릴 수 있는, 일회용의"},
-      {"word": "expendable", "note": "소모성의"},
-      {"word": "available", "note": "이용 가능한"},
-      {"word": "usable", "note": "사용할 수 있는"},
-      {"word": "spendable", "note": "쓸 수 있는"}
-    ],
-    "tips": [
-      "일회용 컵을 `disposable cup`이라고 하지? 쓰고 처분(dispose)할 수 있다는 뜻이야.",
-      "`disposable income` = 가처분 소득. 이건 '일회용'이 아니라 '자유롭게 쓸 수 있는' 돈이란 뜻이야. 구별해둬."
-    ]
-  },
-  {
-    "id": "036",
-    "word": "dispose",
-    "pos": "v.",
-    "head_meanings": ["배치하다", "배열하다", "할 마음이 나게 하다", "경향을 갖게 하다", "영향을 받기 쉽게 하다", "처리하다"],
-    "synonyms_from_image": [],
-    "tips": [
-      "`dispose of` = 처분하다, 처리하다. `dispose`만 쓰면 '배치하다' 또는 '~할 마음이 들게 하다'야.",
-      "`be disposed to` = ~할 성향이 있다. `He is disposed to agree` = 그는 동의할 마음이야. 이 용법 알아둬."
+      "`dis-`(반대) + `please`(기쁘게 하다) = 기쁘게 하는 것의 반대 → 불쾌하게 하다. 구조가 직관적이야.",
+      "`vex`, `irk`, `pique`, `nettle` 같은 GRE 동의어들을 한꺼번에 외워두면 효율적이야."
     ]
   },
   {
     "id": "037",
-    "word": "disposition",
-    "pos": "n.",
-    "head_meanings": ["기질", "성질", "취향", "성향", "배치", "배열", "처분", "매각", "양도", "증여"],
+    "word": "disposable",
+    "pos": "adj.",
+    "head_meanings": [
+      "처분할 수 있는",
+      "마음대로 쓸 수 있는",
+      "(소득 등이) 세금을 제한하고 자유로이 쓸 수 있는",
+      "(종이 제품 등이) 사용 후 버릴 수 있는"
+    ],
     "synonyms_from_image": [
-      {"word": "temperament", "note": "기질, 성미"},
-      {"word": "character", "note": "성격"},
-      {"word": "nature", "note": "본성, 천성"},
-      {"word": "inclination", "note": "성향, 경향"},
-      {"word": "tendency", "note": "경향"},
-      {"word": "proneness", "note": "~하기 쉬운 성질"},
-      {"word": "propensity", "note": "~하는 경향"},
-      {"word": "proclivity", "note": "~에 대한 성벽"},
-      {"word": "arrangement", "note": "배치, 배열"},
-      {"word": "positioning", "note": "위치 잡기"},
-      {"word": "configuration", "note": "배치, 구성"},
-      {"word": "layout", "note": "배치도"},
-      {"word": "array", "note": "배열"},
-      {"word": "distribution", "note": "분배"},
-      {"word": "disposal", "note": "처분"},
-      {"word": "allocation", "note": "할당"},
-      {"word": "transfer", "note": "이전, 양도"},
-      {"word": "sale", "note": "매각"},
-      {"word": "auction", "note": "경매"}
+      {"word": "throwaway", "note": "일회용의"},
+      {"word": "expendable", "note": "소모 가능한"},
+      {"word": "available", "note": "이용 가능한"},
+      {"word": "usable", "note": "사용할 수 있는"},
+      {"word": "spendable", "note": "지출할 수 있는"}
     ],
     "tips": [
-      "뜻이 세 갈래야! ①기질/성향 ②배치/배열 ③처분/양도. GRE에선 ①번 뜻이 제일 중요해.",
-      "`a cheerful disposition` = 밝은 성격. `temperament`, `propensity`, `proclivity` 다 같이 나오는 단어들이야."
+      "`dispose`(처분하다) + `-able` = 처분 가능한. `disposable income` = 가처분 소득(세후 자유롭게 쓸 수 있는 돈).",
+      "GRE 경제 지문에서 `disposable income`이 나올 수 있어. 일회용품 뜻보다 이쪽이 더 중요해."
     ]
   },
   {
     "id": "038",
-    "word": "disproportionate to",
-    "pos": "adj. phr.",
-    "head_meanings": ["불균형인", "어울리지 않게 큰", "과도한", "너무 작은"],
-    "synonyms_from_image": [
-      {"word": "incommensurate with", "note": "비례하지 않는"},
-      {"word": "incommensurable", "note": "비교 불가능한"},
-      {"word": "out of proportion to", "note": "비율이 안 맞는"},
-      {"word": "not appropriate to", "note": "적절하지 않은"},
-      {"word": "relatively too large/small for", "note": "상대적으로 너무 크거나 작은"},
-      {"word": "inordinate", "note": "과도한"},
-      {"word": "unreasonable", "note": "불합리한"},
-      {"word": "excessive", "note": "지나친"},
-      {"word": "undue", "note": "부당한, 과도한"}
+    "word": "dispose",
+    "pos": "v.",
+    "head_meanings": [
+      "[군대, 물건을] 배치하다",
+      "배열하다",
+      "…할 마음이 내키게 하다",
+      "[사람에게] …의 경향을 받기 쉽게 하다",
+      "[사무, 문제 등을] 처리하다"
     ],
+    "synonyms_from_image": [],
     "tips": [
-      "`dis-`(반대) + `proportionate`(비례하는) → 비례가 안 맞는 거야. 너무 크거나 너무 작거나.",
-      "`a disproportionate response` = 과잉 대응. 원인에 비해 결과가 지나칠 때 쓰는 표현이야."
+      "`dis-`(따로) + `pose`(놓다) = 따로 놓다 → 배치하다, 처분하다. `dispose of` = ~을 처분하다, 버리다.",
+      "`be disposed to ~` = ~할 마음이 있다. GRE에서 이 형태로 나오면 '성향이 있다'라는 뜻이야."
     ]
   },
   {
     "id": "039",
+    "word": "disposition",
+    "pos": "n.",
+    "head_meanings": [
+      "기질",
+      "성질",
+      "취향",
+      "성격",
+      "성향",
+      "(~하고 싶은) 생각",
+      "의향",
+      "배치(the disposition of troops)",
+      "군대의 배치",
+      "배열",
+      "처분",
+      "매각",
+      "양도",
+      "증여"
+    ],
+    "synonyms_from_image": [
+      {"word": "temperament", "note": "기질, 성미"},
+      {"word": "character", "note": "성격"},
+      {"word": "nature", "note": "본성"},
+      {"word": "inclination", "note": "성향, 기울어짐"},
+      {"word": "tendency", "note": "경향"},
+      {"word": "proneness", "note": "~하기 쉬운 경향"},
+      {"word": "propensity", "note": "타고난 성향"},
+      {"word": "proclivity", "note": "(부정적) 성향"},
+      {"word": "arrangement", "note": "배치, 배열"},
+      {"word": "positioning", "note": "위치 설정"},
+      {"word": "configuration", "note": "배치 구성"},
+      {"word": "layout", "note": "배치도"},
+      {"word": "array", "note": "정렬, 배열"},
+      {"word": "distribution", "note": "분배"},
+      {"word": "disposal", "note": "처분"},
+      {"word": "allocation", "note": "할당"},
+      {"word": "transfer", "note": "이전"},
+      {"word": "sale", "note": "매각"},
+      {"word": "auction", "note": "경매"}
+    ],
+    "tips": [
+      "GRE에서 가장 자주 나오는 뜻은 '기질, 성향(temperament)'이야. `a cheerful disposition` = 쾌활한 기질.",
+      "`propensity`, `proclivity`, `inclination`이랑 동의어 세트로 외워. 모두 '~하려는 성향'이야."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "disproportionate to",
+    "pos": "adj.",
+    "head_meanings": [
+      "(크기, 수량 등에서) …과 불균형인",
+      "어울리지 않게 큰(많은)",
+      "어울리지 않는 <to>",
+      "과잉한",
+      "너무 작은"
+    ],
+    "synonyms_from_image": [
+      {"word": "incommensurate with", "note": "~에 비례하지 않는"},
+      {"word": "incommensurable", "note": "비교 불가능한"},
+      {"word": "out of proportion to", "note": "~에 비해 불균형인"},
+      {"word": "not appropriate to", "note": "~에 적합하지 않은"},
+      {"word": "relatively too large/small for", "note": "상대적으로 너무 크거나 작은"},
+      {"word": "inordinate", "note": "지나친, 과도한"},
+      {"word": "unreasonable", "note": "불합리한"},
+      {"word": "excessive", "note": "과도한"},
+      {"word": "undue", "note": "부당한, 과도한"}
+    ],
+    "tips": [
+      "`dis-`(반대) + `proportionate`(비례하는) = 비례하지 않는 → 불균형한. proportion(비율)을 알면 쉬워.",
+      "GRE에서 `disproportionate impact/effect` = 불균형한 영향. 사회 과학 지문에서 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "041",
     "word": "disputable",
     "pos": "adj.",
-    "head_meanings": ["논쟁의 여지가 있는", "의심스러운"],
+    "head_meanings": [
+      "논쟁(의론)의 여지가 있는",
+      "의심스러운"
+    ],
     "synonyms_from_image": [
-      {"word": "debatable", "note": "토론할 만한"},
-      {"word": "arguable", "note": "논쟁할 여지가 있는"},
+      {"word": "debatable", "note": "논란의 여지가 있는"},
+      {"word": "arguable", "note": "논쟁할 수 있는"},
       {"word": "contestable", "note": "이의를 제기할 수 있는"},
       {"word": "moot", "note": "논쟁의 여지가 있는"},
       {"word": "questionable", "note": "의문스러운"},
@@ -683,93 +956,127 @@
       {"word": "controvertible", "note": "반박 가능한"}
     ],
     "tips": [
-      "`dispute`(논쟁) + `-able`(할 수 있는) → 논쟁할 수 있는, 확실하지 않은 거야.",
-      "`indisputable` = 논쟁의 여지가 없는, 확실한. GRE에선 반의어 `indisputable`이 더 자주 나올 수도 있어."
+      "`dispute`(논쟁하다) + `-able` = 논쟁할 수 있는. 반대말 `indisputable` = 논쟁의 여지가 없는, 확실한.",
+      "`moot`가 GRE에서 동의어로 자주 나와. 둘 다 '논쟁 가능한, 미해결의' 뜻이야."
     ]
   },
   {
-    "id": "040",
+    "id": "042",
     "word": "disputatious",
     "pos": "adj.",
-    "head_meanings": ["논쟁적인", "논쟁을 좋아하는", "논쟁하는 대상이 되는"],
+    "head_meanings": [
+      "논쟁적인",
+      "논쟁을 좋아하는",
+      "논쟁하는 대상이 되는"
+    ],
     "synonyms_from_image": [
-      {"word": "contentious", "note": "논쟁을 일으키는"},
+      {"word": "contentious", "note": "논쟁적인, 다투기 좋아하는"},
       {"word": "quarrelsome", "note": "싸움을 좋아하는"},
       {"word": "belligerent", "note": "호전적인"},
       {"word": "bellicose", "note": "전투적인"}
     ],
     "tips": [
-      "`disputable`(논쟁 가능한)과 구별해! disputatious는 '논쟁을 좋아하는 사람의 성격'을 말하는 거야.",
-      "`contentious`, `quarrelsome`, `pugnacious` 다 '싸움 좋아하는' 계열이야. 한꺼번에 외워두면 좋아."
-    ]
-  },
-  {
-    "id": "041",
-    "word": "dispute",
-    "pos": "v./n.",
-    "head_meanings": ["논쟁하다", "반론하다", "의문을 말하다", "의문을 품다", "이의를 제기하다", "주장하다", "거부하다", "논쟁", "논의", "분쟁", "항쟁", "싸움"],
-    "synonyms_from_image": [],
-    "tips": [
-      "`dis-`(반대) + `pute`(생각하다, compute의 pute) → 반대로 생각하다, 즉 이의를 제기하는 거야.",
-      "`beyond dispute` = 논쟁의 여지 없이. `in dispute` = 분쟁 중인. 이 숙어들 GRE 독해에서 자주 나와."
-    ]
-  },
-  {
-    "id": "042",
-    "word": "disregard",
-    "pos": "v./n.",
-    "head_meanings": ["주의하지 않다", "무시하다"],
-    "synonyms_from_image": [
-      {"word": "defy", "note": "거역하다, 무시하다"},
-      {"word": "ignore", "note": "모른 체하다"},
-      {"word": "pay no attention/heed to", "note": "주의를 기울이지 않다"},
-      {"word": "overlook", "note": "간과하다"},
-      {"word": "gloss over", "note": "대충 넘기다"},
-      {"word": "inattention", "note": "부주의"},
-      {"word": "neglect", "note": "방치, 소홀"},
-      {"word": "negligence", "note": "태만"},
-      {"word": "indifference", "note": "무관심"},
-      {"word": "heedlessness", "note": "부주의함"}
-    ],
-    "tips": [
-      "`dis-`(반대) + `regard`(주의를 기울이다) → 주의를 안 기울이는 거야. 완전 직관적이지.",
-      "동사로 '무시하다', 명사로 '무시'도 돼. `with disregard for safety` = 안전을 무시하고."
+      "`dispute`(논쟁) + `-atious`(~하는 경향의) = 논쟁을 좋아하는. `contentious`랑 가장 가까운 동의어야.",
+      "사람에게 쓰면 '시비 걸기 좋아하는', 주제에 쓰면 '논란이 되는'이야. GRE에서 둘 다 나올 수 있어."
     ]
   },
   {
     "id": "043",
+    "word": "dispute",
+    "pos": "v. / n.",
+    "head_meanings": [
+      "논쟁(토론)하다",
+      "…에 대해 반론하다",
+      "이의를 말하다",
+      "[사실 등에] 이의를 품다",
+      "이의를 제기하다",
+      "저항하다",
+      "논쟁",
+      "논의",
+      "분쟁",
+      "항쟁",
+      "싸움"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`(떨어져) + `pute`(생각하다, compute의 pute) = 다르게 생각하다 → 논쟁하다.",
+      "`beyond dispute` = 논란의 여지가 없는. `in dispute` = 논쟁 중인. 이 숙어들 기억해둬."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "disregard",
+    "pos": "v. / n.",
+    "head_meanings": [
+      "…에 주의하지 않다",
+      "…을 무시하다(ignore)",
+      "…을 경시하다(neglect)"
+    ],
+    "synonyms_from_image": [
+      {"word": "defy", "note": "거역하다"},
+      {"word": "ignore", "note": "무시하다"},
+      {"word": "pay no attention/heed to", "note": "~에 주의를 기울이지 않다"},
+      {"word": "overlook", "note": "간과하다"},
+      {"word": "gloss over", "note": "대충 넘기다"},
+      {"word": "shrug off", "note": "대수롭지 않게 여기다"},
+      {"word": "inattention", "note": "부주의"},
+      {"word": "neglect", "note": "방치, 태만"},
+      {"word": "negligence", "note": "과실, 태만"},
+      {"word": "indifference", "note": "무관심"},
+      {"word": "heedlessness", "note": "부주의"}
+    ],
+    "tips": [
+      "`dis-`(반대) + `regard`(주의를 기울이다) = 주의를 기울이지 않다 → 무시하다. regard의 반대야.",
+      "GRE에서 명사로 `in disregard of ~` = ~을 무시하고. `disregard for safety` = 안전 경시."
+    ]
+  },
+  {
+    "id": "045",
     "word": "disrupt",
     "pos": "v.",
-    "head_meanings": ["혼란시키다", "봉쇄시키다", "분리하다", "혼란", "중단", "불협동", "파괴된"],
+    "head_meanings": [
+      "…을 혼란시키다",
+      "<국가, 정부 등을> 붕괴시키다",
+      "<물건을> 분리하다",
+      "잡아 찢다"
+    ],
     "synonyms_from_image": [
-      {"word": "throw into confusion/disorder/disarray", "note": "혼란에 빠뜨리다"},
-      {"word": "cause confusion/turmoil", "note": "혼란을 야기하다"},
+      {"word": "throw into confusion", "note": "혼란에 빠뜨리다"},
+      {"word": "disorder", "note": "어지럽히다"},
+      {"word": "disarray", "note": "혼란 상태로 만들다"},
+      {"word": "cause confusion", "note": "혼란을 야기하다"},
+      {"word": "turmoil", "note": "소란, 혼란"},
       {"word": "disturb", "note": "방해하다"},
-      {"word": "interfere with", "note": "간섭하다"},
+      {"word": "interfere with", "note": "~을 방해하다"},
       {"word": "upset", "note": "뒤엎다"},
-      {"word": "unsettle", "note": "불안정하게 하다"},
+      {"word": "unsettle", "note": "불안하게 하다"},
       {"word": "impede", "note": "방해하다"},
       {"word": "delay", "note": "지연시키다"},
       {"word": "interrupt", "note": "중단시키다"},
       {"word": "distort", "note": "왜곡하다"},
       {"word": "damage", "note": "손상시키다"},
-      {"word": "buckle", "note": "구부러뜨리다"},
-      {"word": "warp", "note": "뒤틀리게 하다"},
-      {"word": "shatter", "note": "산산이 부수다"},
+      {"word": "buckle", "note": "구부러지다"},
+      {"word": "warp", "note": "뒤틀리다"},
+      {"word": "shatter", "note": "산산조각 내다"},
       {"word": "sunder", "note": "갈라놓다"}
     ],
     "tips": [
-      "`dis-`(분리) + `rupt`(부수다, rupture와 같은 어근) → 부숴서 갈라놓는 거야. 질서를 깨뜨리는 느낌.",
-      "`disruptive innovation` = 파괴적 혁신. 요즘 경영학에서 핫한 개념이지? GRE 비즈니스 지문에서도 나와."
+      "`dis-`(분리) + `rupt`(깨뜨리다, rupture의 rupt) = 깨뜨려 흩어지게 하다 → 혼란시키다.",
+      "요즘 `disruptive innovation`(파괴적 혁신)이란 표현 많이 들어봤지? 기존 질서를 깨뜨리는 거야."
     ]
   },
   {
-    "id": "044",
+    "id": "046",
     "word": "dissect",
     "pos": "v.",
-    "head_meanings": ["절개하다", "해부하다", "상세히 분석/비평하다", "세밀하게 조사하다"],
+    "head_meanings": [
+      "절개하다",
+      "해부하다",
+      "상세히 분석비평하다",
+      "세밀하게 조사하다"
+    ],
     "synonyms_from_image": [
-      {"word": "anatomize", "note": "해부하다, 정밀 분석하다"},
+      {"word": "anatomize", "note": "해부하다, 상세 분석하다"},
       {"word": "dismember", "note": "절단하다"},
       {"word": "vivisect", "note": "생체 해부하다"},
       {"word": "analyze", "note": "분석하다"},
@@ -779,77 +1086,100 @@
       {"word": "investigate", "note": "조사하다"}
     ],
     "tips": [
-      "`dis-`(분리) + `sect`(자르다, section과 같은 어근) → 잘라서 나누는 거야. 개구리 해부 생각해봐.",
-      "비유적으로 '면밀히 분석하다'란 뜻이 더 자주 쓰여. `dissect an argument` = 주장을 꼼꼼히 분석하다."
+      "`dis-`(분리) + `sect`(자르다, section의 sect) = 잘라서 분리하다 → 해부하다. 비유적으로 '분석하다'야.",
+      "GRE에서는 비유적 뜻이 더 자주 나와. `dissect an argument` = 논증을 세밀하게 분석하다."
     ]
   },
   {
-    "id": "045",
+    "id": "047",
     "word": "dissection",
     "pos": "n.",
-    "head_meanings": ["절개", "해부", "해체", "분석", "비평"],
+    "head_meanings": [
+      "절개",
+      "해부",
+      "해체",
+      "분석",
+      "비평"
+    ],
     "synonyms_from_image": [
       {"word": "breakdown", "note": "분석, 분해"},
-      {"word": "breakup", "note": "분해, 해체"},
+      {"word": "breakup", "note": "해체"},
       {"word": "analysis", "note": "분석"},
       {"word": "criticism", "note": "비평"},
       {"word": "inspection", "note": "검사, 점검"}
     ],
     "tips": [
-      "dissect의 명사형이야. 해부(물리적) + 분석(비유적) 두 뜻 다 있어.",
-      "`a careful dissection of the evidence` = 증거에 대한 세밀한 분석. GRE에선 비유적 의미가 더 자주 나와."
-    ]
-  },
-  {
-    "id": "046",
-    "word": "dissemble",
-    "pos": "v.",
-    "head_meanings": ["숨기다", "가장하다"],
-    "synonyms_from_image": [
-      {"word": "dissimulate", "note": "본심을 감추다"},
-      {"word": "mask", "note": "가면을 쓰다"},
-      {"word": "cloak", "note": "망토로 가리듯 숨기다"},
-      {"word": "conceal", "note": "감추다"},
-      {"word": "camouflage", "note": "위장하다"},
-      {"word": "feign", "note": "~인 척하다"}
-    ],
-    "tips": [
-      "`dissemble` ≠ `disassemble`(분해하다)! dissemble은 '본심을 숨기다, ~인 척하다'야. 완전 다른 단어야.",
-      "052번 `dissimulate`랑 거의 같은 뜻이야. 둘 다 '속마음을 감추고 가장하다'라는 뜻으로 GRE에서 나와."
-    ]
-  },
-  {
-    "id": "047",
-    "word": "disseminate",
-    "pos": "v.",
-    "head_meanings": ["퍼뜨리다", "전파하다"],
-    "synonyms_from_image": [
-      {"word": "transmit", "note": "전달하다"},
-      {"word": "communicate", "note": "소통하다"},
-      {"word": "spread", "note": "퍼뜨리다"},
-      {"word": "disperse", "note": "분산시키다"},
-      {"word": "plant", "note": "심다"},
-      {"word": "publish", "note": "출판·공표하다"},
-      {"word": "transfer", "note": "전달하다"},
-      {"word": "diffuse", "note": "널리 퍼뜨리다"}
-    ],
-    "tips": [
-      "라틴어 `disseminare`(씨를 뿌리다)에서 왔어. `semin`(씨앗, seminar와 같은 어근) → 씨앗을 사방에 뿌리듯 정보를 퍼뜨리는 거야.",
-      "`disseminate information/knowledge` = 정보/지식을 전파하다. 학술 지문에서 엄청 자주 나오는 단어야."
+      "`dissect`(해부하다)의 명사형이야. 물리적 해부보다 '정밀 분석'이라는 뜻으로 더 자주 써.",
+      "`a careful dissection of the evidence` = 증거의 면밀한 분석. GRE 독해에서 이런 맥락으로 나와."
     ]
   },
   {
     "id": "048",
-    "word": "dissent",
-    "pos": "v./n.",
-    "head_meanings": ["의견을 달리하다", "동의하지 않다", "이의를 말하다", "반대하다", "불찬성", "의견차이", "이의", "반대"],
+    "word": "dissemble",
+    "pos": "v.",
+    "head_meanings": [
+      "(성격·행위·감정 따위를) 숨기다",
+      "가장하다"
+    ],
     "synonyms_from_image": [
-      {"word": "differ", "note": "다르다, 의견이 갈리다"},
+      {"word": "dissimulate", "note": "감정을 숨기다"},
+      {"word": "mask", "note": "가리다"},
+      {"word": "cloak", "note": "은폐하다"},
+      {"word": "conceal", "note": "숨기다"},
+      {"word": "camouflage", "note": "위장하다"},
+      {"word": "feign", "note": "~인 척하다"}
+    ],
+    "tips": [
+      "`dissemble` ≠ `disassemble`(분해하다)! dissemble은 '속마음을 숨기다'야. 철자가 비슷하니까 주의해.",
+      "GRE 단골 단어! `dissemble one's true feelings` = 진짜 감정을 숨기다. `dissimulate`와 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "disseminate",
+    "pos": "v.",
+    "head_meanings": [
+      "(주장·의견 따위를) 퍼뜨리다",
+      "전파(전도)하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "transmit", "note": "전송하다"},
+      {"word": "communicate", "note": "전달하다"},
+      {"word": "spread", "note": "퍼뜨리다"},
+      {"word": "disperse", "note": "흩뿌리다"},
+      {"word": "plant", "note": "심다, 퍼뜨리다"},
+      {"word": "publish", "note": "출판·공개하다"},
+      {"word": "transfer", "note": "전달하다"},
+      {"word": "diffuse", "note": "확산시키다"}
+    ],
+    "tips": [
+      "`dis-`(사방으로) + `semin`(씨앗, seminar와 같은 어근) = 씨앗을 뿌리듯 퍼뜨리다. 씨 뿌리는 이미지야.",
+      "GRE에서 `disseminate information/knowledge` = 정보/지식을 퍼뜨리다. `propagate`랑 동의어야."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "dissent",
+    "pos": "v. / n.",
+    "head_meanings": [
+      "의견을 달리하다",
+      "동의하지 않다(from)",
+      "이의를 말하다(disagree)",
+      "국교에 반대하다",
+      "불찬성",
+      "의견차이",
+      "이의",
+      "국교 반대"
+    ],
+    "synonyms_from_image": [
+      {"word": "disagreement", "note": "불일치, 의견 대립"},
+      {"word": "differ", "note": "의견이 다르다"},
       {"word": "disagree", "note": "동의하지 않다"},
       {"word": "demur", "note": "이의를 제기하다"},
-      {"word": "fail to agree", "note": "합의에 실패하다"},
+      {"word": "fail to agree", "note": "합의에 이르지 못하다"},
       {"word": "take issue", "note": "이의를 제기하다"},
-      {"word": "decline/refuse to support", "note": "지지를 거부하다"},
+      {"word": "decline", "note": "거절하다"},
+      {"word": "refuse to support", "note": "지지를 거부하다"},
       {"word": "protest", "note": "항의하다"},
       {"word": "object", "note": "반대하다"},
       {"word": "dispute", "note": "논쟁하다"},
@@ -857,32 +1187,67 @@
       {"word": "oppose", "note": "반대하다"}
     ],
     "tips": [
-      "`dis-`(반대) + `sent`(느끼다, sentiment와 같은 어근) → 다르게 느끼다, 즉 의견을 달리하는 거야.",
-      "`dissenting opinion` = 반대 의견(법률 용어). `consent`(동의)의 반대야. 같이 외우면 쉬워."
+      "`dis-`(반대) + `sent`(느끼다, sentiment의 sent) = 다르게 느끼다 → 반대 의견을 갖다.",
+      "GRE에서 `dissenting opinion` = 반대 의견(특히 법원 판결에서). `a voice of dissent` = 반대의 목소리."
     ]
   },
   {
-    "id": "049",
+    "id": "051",
+    "word": "dissension",
+    "pos": "n.",
+    "head_meanings": [
+      "불찬성",
+      "의견차이",
+      "이의",
+      "국교 반대"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dissent`의 명사형이야. 집단 내부의 의견 대립·불화를 강조하는 뉘앙스가 있어.",
+      "`sow dissension` = 불화의 씨를 뿌리다. GRE에서 이런 관용 표현으로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "dissentient",
+    "pos": "adj. / n.",
+    "head_meanings": [
+      "불찬성자"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dissent`(반대하다) + `-ient` = 반대하는 (사람). `dissident`와 비슷한 뜻이야.",
+      "`dissentient voice` = 반대 의견. `dissenter`보다 격식체이고 드문 단어야."
+    ]
+  },
+  {
+    "id": "053",
     "word": "dissertation",
     "pos": "n.",
-    "head_meanings": ["논문", "논설"],
+    "head_meanings": [
+      "(특히 박사 학위) 논문",
+      "논설"
+    ],
     "synonyms_from_image": [
-      {"word": "treatise", "note": "학술 논문"},
-      {"word": "discourse", "note": "담론, 논설"},
+      {"word": "treatise", "note": "논문, 학술서"},
+      {"word": "discourse", "note": "논의, 담론"},
       {"word": "thesis", "note": "학위 논문"},
-      {"word": "essay", "note": "수필, 에세이"},
-      {"word": "study", "note": "연구, 논문"}
+      {"word": "essay", "note": "수필, 소논문"},
+      {"word": "study", "note": "연구"}
     ],
     "tips": [
-      "대학원에서 쓰는 '박사 논문'이 바로 dissertation이야. thesis보다 더 길고 본격적인 논문을 가리켜.",
-      "라틴어 `dissertare`(논하다)에서 왔어. `treatise`(학술 논문)랑 비슷한데, dissertation은 학위 취득용 논문이야."
+      "라틴어 `dissertare`(토론하다)에서 왔어. 미국에서는 주로 박사 논문, 영국에서는 석사 논문을 가리켜.",
+      "`treatise`가 GRE 동의어로 나올 수 있어. 둘 다 '특정 주제에 대한 체계적인 글'이야."
     ]
   },
   {
-    "id": "050",
+    "id": "054",
     "word": "dissident",
-    "pos": "n./adj.",
-    "head_meanings": ["의견을 달리하는", "반대하는"],
+    "pos": "adj. / n.",
+    "head_meanings": [
+      "의견을 달리하는",
+      "반대하는"
+    ],
     "synonyms_from_image": [
       {"word": "heretical", "note": "이단적인"},
       {"word": "nonconformist", "note": "체제에 순응하지 않는"},
@@ -891,48 +1256,1860 @@
       {"word": "disagreeing", "note": "동의하지 않는"}
     ],
     "tips": [
-      "`dis-`(반대) + `sid`(앉다, preside와 같은 어근) → 반대편에 앉아있는 사람, 즉 반체제 인사야.",
-      "구소련의 반체제 인사들을 `dissidents`라고 불렀어. 정치적 맥락에서 '체제에 반대하는 사람'으로 GRE에 나와."
+      "`dis-`(떨어져) + `sid`(앉다, reside의 sid) = 따로 앉다 → 다른 편에 서다. 체제에 반대하는 사람이야.",
+      "GRE에서 정치적 맥락(반체제 인사)으로 자주 나와. `political dissidents` = 정치적 반체제 인사."
     ]
   },
   {
-    "id": "051",
+    "id": "055",
     "word": "dissimilar",
     "pos": "adj.",
-    "head_meanings": ["비슷하지 않은", "다른"],
+    "head_meanings": [
+      "~와 비슷하지 않은",
+      "다른"
+    ],
     "synonyms_from_image": [
       {"word": "heterogeneous", "note": "이질적인"},
       {"word": "different", "note": "다른"},
       {"word": "unalike", "note": "닮지 않은"},
-      {"word": "variant", "note": "변형된, 다른"},
+      {"word": "variant", "note": "변형된"},
       {"word": "diverse", "note": "다양한"},
       {"word": "divergent", "note": "갈라지는"},
       {"word": "disparate", "note": "본질적으로 다른"},
       {"word": "unrelated", "note": "관련 없는"},
-      {"word": "distinct", "note": "뚜렷이 다른"},
+      {"word": "distinct", "note": "별개의"},
       {"word": "contrasting", "note": "대조적인"}
     ],
     "tips": [
-      "`dis-`(반대) + `similar`(비슷한) → 비슷하지 않은. 이건 너무 쉽지? 직관 그대로야.",
-      "`disparate`보다 약한 느낌이야. dissimilar는 그냥 '다른' 정도, disparate는 '본질적으로 완전히 다른'이야."
+      "`dis-`(반대) + `similar`(비슷한) = 비슷하지 않은. 구조가 뜻 그대로라 외우기 쉬워.",
+      "GRE에서 `dissimilar`, `disparate`, `divergent`가 동의어 세트로 자주 나와. 미세한 뉘앙스 차이에 주의해."
     ]
   },
   {
-    "id": "052",
+    "id": "056",
     "word": "dissimulate",
     "pos": "v.",
-    "head_meanings": ["숨기다", "인 체 하다"],
+    "head_meanings": [
+      "(감정 등을) 숨기다",
+      "…인 체 하다"
+    ],
     "synonyms_from_image": [
-      {"word": "dissemble", "note": "본심을 감추다"},
+      {"word": "dissemble", "note": "본심을 숨기다"},
       {"word": "feign", "note": "~인 척하다"},
       {"word": "conceal", "note": "감추다"},
-      {"word": "dress up", "note": "꾸미다, 가장하다"},
+      {"word": "dress up", "note": "꾸미다, 위장하다"},
       {"word": "disguise", "note": "변장하다"},
       {"word": "hide", "note": "숨기다"}
     ],
     "tips": [
-      "`dis-`(반대) + `simulate`(흉내내다) → 진짜가 아닌 걸 진짜처럼 꾸미는 거야. simulate의 어두운 버전이라고 생각해.",
-      "`dissemble`이랑 거의 쌍둥이야. 둘 다 '감추고 가장하다'란 뜻인데, dissimulate가 좀 더 격식체야."
+      "`dis-`(완전히) + `simulate`(흉내 내다) = 완전히 흉내 내서 숨기다. `dissemble`과 거의 같은 뜻이야.",
+      "`simulate` = 있는 척하다(없는 걸), `dissimulate` = 없는 척하다(있는 걸). 방향이 반대야!"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "dissipate",
+    "pos": "v.",
+    "head_meanings": [
+      "(구름·안개 따위를) 흩뜨리다",
+      "낭비하다",
+      "탕진하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "scatter", "note": "흩뿌리다"},
+      {"word": "dispel", "note": "쫓아 흩뜨리다"},
+      {"word": "disperse", "note": "흩어지게 하다"},
+      {"word": "be unchaste", "note": "방탕하다"},
+      {"word": "waste", "note": "낭비하다"},
+      {"word": "carouse", "note": "흥청망청 마시다"},
+      {"word": "overindulge", "note": "지나치게 탐닉하다"}
+    ],
+    "tips": [
+      "`dis-`(사방으로) + `sipate`(던지다) = 사방으로 던져버리다 → 흩뜨리다, 낭비하다. 두 가지 뜻이 있어.",
+      "GRE에서 ①안개가 걷히다(`The fog dissipated`) ②재산을 탕진하다(`dissipate a fortune`) 둘 다 나와."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "dissolute",
+    "pos": "adj.",
+    "head_meanings": [
+      "방종한",
+      "방탕한",
+      "무절제한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`(풀려) + `solute`(풀다, dissolve의 solute) = 도덕적 제약이 풀린 → 방탕한. 자기 절제가 없는 거야.",
+      "GRE에서 `profligate`, `debauched`, `licentious`랑 동의어 세트로 외워. 모두 '방탕한'이야."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "dissolution",
+    "pos": "n.",
+    "head_meanings": [
+      "(의회, 단체, 조합 등의) 해산",
+      "(기능의) 소멸",
+      "사멸",
+      "분리"
+    ],
+    "synonyms_from_image": [
+      {"word": "disconnection", "note": "단절"},
+      {"word": "detachment", "note": "분리"},
+      {"word": "dismissal", "note": "해산, 해고"}
+    ],
+    "tips": [
+      "`dissolve`(용해하다, 해산하다)의 명사형이야. 조직이 녹아 없어지듯 해체되는 이미지.",
+      "GRE에서 `the dissolution of Parliament` = 의회 해산. 법적·정치적 맥락에서 자주 나와."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "dissolve",
+    "pos": "v.",
+    "head_meanings": [
+      "녹이다",
+      "액화시키다",
+      "무효화하다",
+      "폐기하다",
+      "<관계를> 끊다",
+      "<의회, 조직을> 해산시키다",
+      "분해하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`(분리) + `solve`(풀다) = 풀어서 분리하다 → 녹이다, 해산하다. 물리적·비유적 둘 다 써.",
+      "`dissolve a partnership/marriage` = 동업/결혼을 해소하다. GRE에서 비유적 의미가 더 중요해."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "dissonance",
+    "pos": "n.",
+    "head_meanings": [
+      "불협화음",
+      "부조화"
+    ],
+    "synonyms_from_image": [
+      {"word": "cacophony", "note": "불쾌한 소음"},
+      {"word": "inharmoniousness", "note": "부조화"},
+      {"word": "discordance", "note": "불일치, 부조화"},
+      {"word": "difference", "note": "차이"},
+      {"word": "disagreement", "note": "불일치"}
+    ],
+    "tips": [
+      "`dis-`(반대) + `sonance`(소리, sonic의 son) = 소리가 안 맞음 → 불협화음. 반대말은 `consonance`(조화).",
+      "GRE에서 `cognitive dissonance`(인지 부조화)가 심리학 지문에 나올 수 있어. 매우 중요한 개념이야."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "dissonant",
+    "pos": "adj.",
+    "head_meanings": [
+      "<소리가> 조화되지 않는",
+      "귀에 거슬리는",
+      "불협화음의",
+      "부조화의",
+      "일치하지 않는",
+      "상반/모순되는",
+      "불화의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dissonance`의 형용사형이야. 소리뿐 아니라 의견·가치관이 안 맞을 때도 써.",
+      "반대말 `consonant`(조화로운)랑 세트로 외워. `dissonant voices` = 불협화음 같은 (대립하는) 목소리들."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "dissuade",
+    "pos": "v.",
+    "head_meanings": [
+      "충고(설득)하여 …을 단념시키다"
+    ],
+    "synonyms_from_image": [
+      {"word": "discourage", "note": "의욕을 꺾다"},
+      {"word": "persuade not to", "note": "~하지 않도록 설득하다"},
+      {"word": "urge not to", "note": "~하지 말라고 촉구하다"},
+      {"word": "advise against", "note": "~을 만류하다"}
+    ],
+    "tips": [
+      "`dis-`(반대) + `suade`(설득하다, persuade의 suade) = 반대로 설득하다 → 단념시키다. `persuade`의 반대야.",
+      "GRE에서 `dissuade A from B` = A가 B를 하지 못하게 말리다. `deter`와 비슷하지만 dissuade가 더 부드러워."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "distant",
+    "pos": "adj.",
+    "head_meanings": [
+      "(거리적으로) 떨어진",
+      "먼",
+      "(태도가) 쌀쌀한"
+    ],
+    "synonyms_from_image": [
+      {"word": "far-off", "note": "먼 곳의"},
+      {"word": "remote", "note": "멀리 떨어진"},
+      {"word": "detached", "note": "초연한, 거리 두는"},
+      {"word": "restrained", "note": "절제된, 자제하는"},
+      {"word": "cool", "note": "쌀쌀한"},
+      {"word": "unsociable", "note": "비사교적인"}
+    ],
+    "tips": [
+      "GRE에서 물리적 거리('먼')보다 감정적 거리('쌀쌀한, 냉담한')로 더 자주 나와.",
+      "`aloof`, `detached`, `standoffish`랑 동의어 세트야. 모두 '거리를 두는' 태도를 뜻해."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "distend",
+    "pos": "v.",
+    "head_meanings": [
+      "팽창(확장)시키다(하다)",
+      "부풀다(부르게 하다)"
+    ],
+    "synonyms_from_image": [
+      {"word": "become larger", "note": "더 커지다"},
+      {"word": "be elastic", "note": "탄력이 있다"},
+      {"word": "bulge", "note": "볼록 튀어나오다"},
+      {"word": "make larger", "note": "크게 만들다"},
+      {"word": "billow", "note": "부풀어 오르다"}
+    ],
+    "tips": [
+      "`dis-`(밖으로) + `tend`(늘이다, extend의 tend) = 밖으로 늘이다 → 팽창시키다. 풍선이 부푸는 이미지야.",
+      "의학에서 `distended abdomen` = 팽창된 복부. GRE에서는 비유적으로 '과도하게 부풀리다'로도 나올 수 있어."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "distill",
+    "pos": "v.",
+    "head_meanings": [
+      "…을 증류하다",
+      "…을 만들다[정제하다]",
+      "증류하여 [불순물을] 제거하다",
+      "…의 정수를 빼내다",
+      "추출하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "evaporate", "note": "증발시키다"},
+      {"word": "condense", "note": "응축하다"},
+      {"word": "vaporize", "note": "기화시키다"},
+      {"word": "separate by evaporation", "note": "증발로 분리하다"},
+      {"word": "purify by distillation", "note": "증류로 정제하다"}
+    ],
+    "tips": [
+      "라틴어 `distillare`(방울방울 떨어지다)에서 왔어. 핵심만 뽑아내는 이미지야.",
+      "GRE에서 `distill the essence` = 정수를 추출하다. 비유적으로 '핵심만 간추리다'라는 뜻으로 자주 써."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "distinct (from)",
+    "pos": "adj.",
+    "head_meanings": [
+      "(성질, 종류가) 별개의",
+      "(전혀) 다른(different)",
+      "독특한",
+      "뚜렷한",
+      "명료한",
+      "명백한"
+    ],
+    "synonyms_from_image": [
+      {"word": "discrete", "note": "개별적인, 별개의"},
+      {"word": "separate", "note": "분리된"},
+      {"word": "different", "note": "다른"},
+      {"word": "clear", "note": "명확한"},
+      {"word": "well defined", "note": "잘 정의된"},
+      {"word": "unmistakable", "note": "틀림없는"},
+      {"word": "easily distinguishable", "note": "쉽게 구별되는"},
+      {"word": "recognizable", "note": "알아볼 수 있는"},
+      {"word": "obvious", "note": "명백한"},
+      {"word": "pronounced", "note": "뚜렷한"},
+      {"word": "prominent", "note": "눈에 띄는"}
+    ],
+    "tips": [
+      "GRE 함정! `distinct` ≠ `distinctive`. distinct = 별개의/뚜렷한, distinctive = 독특한(특유의). 뉘앙스가 달라!",
+      "`discrete`(별개의)랑 발음이 같아서 헷갈리기 쉬워. 둘 다 '분리된'이라는 뜻이 있어서 동의어로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "distinctive",
+    "pos": "adj.",
+    "head_meanings": [
+      "뚜렷한 구별이 되는",
+      "특유의",
+      "특이한",
+      "독특한",
+      "특색있는",
+      "차이(차별)를 나타내는"
+    ],
+    "synonyms_from_image": [
+      {"word": "distinguishing", "note": "구별 짓는"},
+      {"word": "characteristic", "note": "특징적인"},
+      {"word": "typical", "note": "전형적인"},
+      {"word": "peculiar", "note": "독특한, 특이한"},
+      {"word": "unique", "note": "유일무이한"}
+    ],
+    "tips": [
+      "`distinctive` = 남들과 확실히 구별되는 독특함. `a distinctive style` = 독특한 스타일.",
+      "`distinct`(별개의)랑 혼동하지 마! `distinctive`는 '특별히 눈에 띄는' 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "distortion",
+    "pos": "n.",
+    "head_meanings": [
+      "왜곡",
+      "뒤틀림"
+    ],
+    "synonyms_from_image": [
+      {"word": "blemish", "note": "흠, 결점"},
+      {"word": "contortion", "note": "비틀림, 일그러짐"},
+      {"word": "deflection", "note": "편향, 굴절"},
+      {"word": "error", "note": "오류"},
+      {"word": "falsification", "note": "위조, 변조"},
+      {"word": "misrepresentation", "note": "잘못된 표현, 오도"}
+    ],
+    "tips": [
+      "`distort`(왜곡하다)의 명사형. `dis-`(비틀어) + `tort`(비틀다, torture의 tort) = 비틀림 → 왜곡.",
+      "GRE에서 `distortion of facts` = 사실 왜곡. `misrepresentation`이랑 동의어로 자주 나와."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "distort",
+    "pos": "v.",
+    "head_meanings": [
+      "사실",
+      "진리",
+      "의미 등을 왜곡하다",
+      "곡해하다",
+      "비틀다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`(나쁘게) + `tort`(비틀다) = 나쁘게 비틀다 → 왜곡하다. `torture`(고문)이랑 어근이 같아.",
+      "`distort the truth/facts` = 진실/사실을 왜곡하다. GRE에서 이 표현이 자주 나와."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "distract",
+    "pos": "v.",
+    "head_meanings": [
+      "<마음, 주의>를 흩어지게 하다",
+      "<사람, 주의>를 …에서 딴 데로 돌리다",
+      "<사람, 마음>을 혼미시키다",
+      "미치게 하다",
+      "즐겁게 하다",
+      "위안을 주다(amuse)"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`(떨어져) + `tract`(끌다, attract의 tract) = 끌어서 떨어뜨리다 → 주의를 딴 데로 돌리다.",
+      "`divert`와 거의 같은 뜻이야. `distract A from B` = A의 주의를 B에서 딴 데로 돌리다."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "distrait",
+    "pos": "adj.",
+    "head_meanings": [
+      "멍한",
+      "방심 상태의"
+    ],
+    "synonyms_from_image": [
+      {"word": "preoccupied", "note": "딴 생각에 빠진"},
+      {"word": "abstracted", "note": "멍한, 방심한"},
+      {"word": "bemused", "note": "어리둥절한"},
+      {"word": "lost", "note": "(생각에) 빠진"},
+      {"word": "upset", "note": "동요한"}
+    ],
+    "tips": [
+      "프랑스어에서 온 단어야. `distracted`의 격식/문학적 버전이라고 생각하면 돼.",
+      "`abstracted`, `preoccupied`랑 동의어야. 걱정이나 생각에 빠져서 멍하니 있는 상태를 말해."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "distraught",
+    "pos": "adj.",
+    "head_meanings": [
+      "마음이 산란한",
+      "미친(듯한)"
+    ],
+    "synonyms_from_image": [
+      {"word": "distressed", "note": "고통스러운"},
+      {"word": "agitated", "note": "동요한"},
+      {"word": "distracted", "note": "주의가 산만한"},
+      {"word": "frantic", "note": "미친 듯이 날뛰는"},
+      {"word": "seething", "note": "속이 부글부글 끓는"},
+      {"word": "frenzied", "note": "광란의"}
+    ],
+    "tips": [
+      "`distrait`보다 훨씬 강한 감정이야. distrait은 '멍한', distraught는 '제정신이 아닌' 수준이야.",
+      "GRE에서 `distraught with grief/worry` = 슬픔/걱정으로 미칠 것 같은. 극도의 감정 상태를 표현해."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "distressing",
+    "pos": "adj.",
+    "head_meanings": [
+      "괴로움을 주는",
+      "비참한",
+      "애처로운"
+    ],
+    "synonyms_from_image": [
+      {"word": "upsetting", "note": "속상하게 하는"},
+      {"word": "harrowing", "note": "참혹한, 끔찍한"},
+      {"word": "agonizing", "note": "극심한 고통의"},
+      {"word": "disquieting", "note": "불안하게 하는"},
+      {"word": "disturbing", "note": "마음을 어지럽히는"},
+      {"word": "sad", "note": "슬픈"}
+    ],
+    "tips": [
+      "`distress`(고통) + `-ing` = 고통을 주는. 남에게 고통을 유발하는 상황이나 소식에 써.",
+      "`harrowing`이 GRE 동의어로 나올 수 있어. 둘 다 '마음 아프게 하는' 뉘앙스야."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "distribute",
+    "pos": "v.",
+    "head_meanings": [
+      "분배하다",
+      "배분하다",
+      "배당하다",
+      "배포하다",
+      "공급하다",
+      "살포하다",
+      "분류하다",
+      "배치하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "allocate", "note": "할당하다"},
+      {"word": "allot", "note": "배당하다"},
+      {"word": "apportion", "note": "배분하다"},
+      {"word": "divide out/up", "note": "나누다"},
+      {"word": "parcel out", "note": "꾸러미로 나누다"},
+      {"word": "circulate", "note": "유통시키다"},
+      {"word": "issue", "note": "발행·배포하다"},
+      {"word": "hand out", "note": "나눠주다"},
+      {"word": "deliver", "note": "배달하다"},
+      {"word": "disperse", "note": "흩뿌리다"},
+      {"word": "scatter", "note": "흩뿌리다"},
+      {"word": "spread", "note": "퍼뜨리다"}
+    ],
+    "tips": [
+      "`dis-`(사이에) + `tribute`(부여하다, contribute의 tribute) = 여러 곳에 나눠 부여하다 → 분배하다.",
+      "GRE에서 `allocate`, `apportion`, `allot`이랑 동의어 세트로 자주 나와. 모두 '나눠주다'야."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "disturbed",
+    "pos": "adj.",
+    "head_meanings": [
+      "어지러운",
+      "거칠어진",
+      "(마음이) 산란한",
+      "동요한",
+      "불안한",
+      "정신(정서) 장애가 있는"
+    ],
+    "synonyms_from_image": [
+      {"word": "disrupted", "note": "혼란된"},
+      {"word": "interrupted", "note": "중단된"},
+      {"word": "troubled", "note": "고민하는"},
+      {"word": "distressed", "note": "고통받는"},
+      {"word": "upset", "note": "속상한"},
+      {"word": "distraught", "note": "제정신이 아닌"},
+      {"word": "unbalanced", "note": "균형 잃은, 불안정한"},
+      {"word": "unstable", "note": "불안정한"}
+    ],
+    "tips": [
+      "`disturb`(방해하다, 동요시키다) + `-ed` = 동요된 상태. 심리적으로 불안정한 뉘앙스가 강해.",
+      "GRE에서 `emotionally disturbed` = 정서적으로 불안정한. 정신건강 관련 맥락에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "diurnal",
+    "pos": "adj.",
+    "head_meanings": [
+      "매일의",
+      "날마다의",
+      "대낮의",
+      "하루 동안"
+    ],
+    "synonyms_from_image": [
+      {"word": "everyday", "note": "매일의"},
+      {"word": "quotidian", "note": "일상적인, 매일의"},
+      {"word": "circadian", "note": "24시간 주기의"},
+      {"word": "per diem", "note": "하루당"}
+    ],
+    "tips": [
+      "라틴어 `diurnus`(낮의)에서 왔어. 반대말은 `nocturnal`(야행성의). GRE에서 이 대비로 자주 나와!",
+      "`quotidian`이 GRE 동의어로 자주 출제돼. 둘 다 '매일의'라는 뜻이지만, quotidian은 '평범한'이라는 추가 뜻도 있어."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "diverge",
+    "pos": "v.",
+    "head_meanings": [
+      "갈라져 나오다",
+      "분기하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "be changed", "note": "변하다"},
+      {"word": "swerve", "note": "급히 방향을 틀다"},
+      {"word": "deviate", "note": "벗어나다"},
+      {"word": "differ", "note": "다르다"},
+      {"word": "disperse", "note": "흩어지다"},
+      {"word": "divide", "note": "나뉘다"}
+    ],
+    "tips": [
+      "`di-`(떨어져) + `verge`(기울다) = 서로 다른 방향으로 기울다 → 갈라지다. 반대말은 `converge`(합류하다).",
+      "GRE에서 `diverge from the norm` = 규범에서 벗어나다. `deviate`랑 동의어 세트로 외워."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "divergent",
+    "pos": "adj.",
+    "head_meanings": [
+      "분기하는",
+      "갈라지는",
+      "(관습에서) 벗어난",
+      "이탈한",
+      "의견이 다른",
+      "(수학) 발산의"
+    ],
+    "synonyms_from_image": [
+      {"word": "inconsistent", "note": "일관성 없는"},
+      {"word": "incongruent", "note": "합치하지 않는"},
+      {"word": "disparate", "note": "본질적으로 다른"},
+      {"word": "differing", "note": "서로 다른"},
+      {"word": "varying", "note": "다양한"},
+      {"word": "different", "note": "다른"},
+      {"word": "dissimilar", "note": "비슷하지 않은"},
+      {"word": "unlike", "note": "같지 않은"},
+      {"word": "contrasting", "note": "대조적인"},
+      {"word": "contrastive", "note": "대비되는"},
+      {"word": "conflictive", "note": "충돌하는"},
+      {"word": "incompatible", "note": "양립 불가능한"},
+      {"word": "contradictory", "note": "모순되는"},
+      {"word": "at odds", "note": "상충하는"},
+      {"word": "at variance", "note": "일치하지 않는"},
+      {"word": "separate", "note": "분리된"},
+      {"word": "splitting off", "note": "갈라져 나가는"}
+    ],
+    "tips": [
+      "`diverge`의 형용사형. GRE에서 `divergent opinions/views` = 서로 다른 의견들. 자주 나오는 표현이야.",
+      "반대말 `convergent`(수렴하는)랑 세트로 외워. `divergent thinking` = 확산적 사고(창의력 관련)."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "diverse",
+    "pos": "adj.",
+    "head_meanings": [
+      "같지 않은",
+      "다양한"
+    ],
+    "synonyms_from_image": [
+      {"word": "different", "note": "다른"},
+      {"word": "nonuniform", "note": "균일하지 않은"},
+      {"word": "varied", "note": "다양한"},
+      {"word": "dissimilar", "note": "비슷하지 않은"},
+      {"word": "disparate", "note": "이질적인"}
+    ],
+    "tips": [
+      "라틴어 `diversus`(서로 다른 방향을 향한)에서 왔어. '다양성'을 뜻하는 가장 일반적인 단어야.",
+      "GRE에서 `diverse perspectives` = 다양한 관점. `heterogeneous`, `multifarious`랑도 동의어야."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "diversion",
+    "pos": "n.",
+    "head_meanings": [
+      "다른 데로 돌리기",
+      "주위를 딴 데로 돌리기",
+      "전환",
+      "기분 전환",
+      "오락"
+    ],
+    "synonyms_from_image": [
+      {"word": "drawing away", "note": "끌어가기"},
+      {"word": "turning aside", "note": "옆으로 돌리기"},
+      {"word": "deflection", "note": "편향, 방향 전환"},
+      {"word": "amusement", "note": "오락, 즐거움"},
+      {"word": "distraction", "note": "주의 분산, 오락"},
+      {"word": "hobby", "note": "취미"},
+      {"word": "avocation", "note": "부업, 취미"}
+    ],
+    "tips": [
+      "`divert`(전환하다)의 명사형. ①방향 전환 ②기분 전환·오락 두 가지 뜻이 있어.",
+      "GRE에서 `create a diversion` = 주의를 딴 데로 돌리다(속임수). 전략적 뉘앙스로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "diversity",
+    "pos": "n.",
+    "head_meanings": [
+      "다양성",
+      "변화(variety)",
+      "상이(점)",
+      "이질의 다양함"
+    ],
+    "synonyms_from_image": [
+      {"word": "change", "note": "변화"},
+      {"word": "difference", "note": "차이"},
+      {"word": "disagreement", "note": "불일치"},
+      {"word": "variousness", "note": "다양함"},
+      {"word": "dissimilarity", "note": "비유사성"},
+      {"word": "divergence", "note": "분기, 차이"}
+    ],
+    "tips": [
+      "`diverse`(다양한)의 명사형. `biological diversity` = 생물 다양성. GRE 과학 지문에서 자주 나와.",
+      "`variety`, `heterogeneity`, `multiplicity`랑 동의어야. 모두 '다양함'을 뜻해."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "divert",
+    "pos": "v.",
+    "head_meanings": [
+      "<진로 등을> 딴 데로 돌리다",
+      "<사람, 주의>를 …에서 딴 데로 돌리다",
+      "전환시키다",
+      "즐겁게 해주다",
+      "위안하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`di-`(떨어져) + `vert`(돌다, convert의 vert) = 다른 방향으로 돌리다. `distract`과 거의 같은 뜻이야.",
+      "GRE에서 `divert attention from ~` = ~에서 주의를 딴 데로 돌리다. '즐겁게 하다(amuse)' 뜻도 기억해."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "diverting",
+    "pos": "adj.",
+    "head_meanings": [
+      "기분 전환이 되는",
+      "즐거운",
+      "재미있는"
+    ],
+    "synonyms_from_image": [
+      {"word": "amusing", "note": "재미있는"},
+      {"word": "entertaining", "note": "흥미로운, 즐거운"},
+      {"word": "enjoyable", "note": "즐길 만한"},
+      {"word": "pleasing", "note": "기분 좋은"},
+      {"word": "delightful", "note": "매우 즐거운"},
+      {"word": "absorbing", "note": "몰두하게 하는"},
+      {"word": "intriguing", "note": "호기심을 자극하는"}
+    ],
+    "tips": [
+      "`divert`의 '즐겁게 하다' 뜻에서 온 형용사야. '방향을 돌리는'이 아니라 '재미있는'이야!",
+      "GRE에서 `a diverting anecdote` = 재미있는 일화. `amusing`, `entertaining`이랑 동의어야."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "divest",
+    "pos": "v.",
+    "head_meanings": [
+      "…을 벗기다",
+      "…로부터 제거하다",
+      "(권리, 재산, 계급 등을) 박탈하다",
+      "빼앗다",
+      "(의무 등으로부터) 벗어나게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "deprive", "note": "빼앗다"},
+      {"word": "strip", "note": "벗기다"},
+      {"word": "dispossess", "note": "재산을 빼앗다"},
+      {"word": "rob", "note": "강탈하다"},
+      {"word": "remove", "note": "제거하다"},
+      {"word": "uncover", "note": "드러내다"},
+      {"word": "expose", "note": "노출시키다"},
+      {"word": "despoil", "note": "약탈하다"}
+    ],
+    "tips": [
+      "`di-`(제거) + `vest`(옷을 입히다, invest의 vest) = 옷을 벗기다 → 박탈하다. `invest`(투자하다)의 반대야.",
+      "GRE에서 `divest oneself of ~` = ~을 버리다/벗어나다. 경제 용어로 `divest`(매각하다)도 중요해."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "divine",
+    "pos": "v. / adj.",
+    "head_meanings": [
+      "점치다",
+      "예언하다",
+      "추측하다",
+      "신의",
+      "신성의",
+      "종교적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "foresee", "note": "예견하다"},
+      {"word": "anticipate", "note": "예상하다"},
+      {"word": "apprehend", "note": "감지하다"},
+      {"word": "see", "note": "알아채다"},
+      {"word": "visualize", "note": "마음속으로 그리다"}
+    ],
+    "tips": [
+      "GRE 함정! '신성한'이라는 형용사 뜻 말고, 동사로 '(직감으로) 알아차리다, 예견하다'라는 뜻이 있어.",
+      "`divine the truth` = 진실을 감지하다. 동사 뜻은 `intuit`(직감하다)와 비슷해."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "divulge",
+    "pos": "v.",
+    "head_meanings": [
+      "[비밀 등을] 누설하다(reveal)",
+      "폭로하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "disclose", "note": "공개하다"},
+      {"word": "reveal", "note": "밝히다"},
+      {"word": "indicate", "note": "나타내다"},
+      {"word": "make public", "note": "공개하다"},
+      {"word": "give out", "note": "알리다"},
+      {"word": "break the news", "note": "소식을 전하다"},
+      {"word": "betray", "note": "(비밀을) 누설하다"},
+      {"word": "uncover", "note": "밝혀내다"},
+      {"word": "let slip", "note": "무심코 말하다"}
+    ],
+    "tips": [
+      "`di-`(밖으로) + `vulge`(대중, vulgar의 vulg) = 대중에게 내놓다 → 비밀을 누설하다.",
+      "GRE에서 `divulge a secret/information` = 비밀/정보를 누설하다. `disclose`, `reveal`이랑 동의어 세트야."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "docile",
+    "pos": "adj.",
+    "head_meanings": [
+      "유순한",
+      "가르치기 쉬운",
+      "다루기 쉬운"
+    ],
+    "synonyms_from_image": [
+      {"word": "manageable", "note": "다루기 쉬운"},
+      {"word": "tractable", "note": "다루기 쉬운, 유순한"},
+      {"word": "compliant", "note": "순응하는"},
+      {"word": "agreeable", "note": "기꺼이 따르는"}
+    ],
+    "tips": [
+      "라틴어 `docilis`(가르치기 쉬운)에서 왔어. `doctor`(가르치는 사람)랑 어근이 같아.",
+      "GRE에서 `tractable`이 핵심 동의어야. 반대말은 `intractable`(다루기 힘든), `recalcitrant`(반항적인)."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "doctrinaire",
+    "pos": "adj. / n.",
+    "head_meanings": [
+      "비현실적인",
+      "이론(원리)에 고집하는",
+      "공론적인",
+      "광신적인",
+      "순이론가",
+      "공론가"
+    ],
+    "synonyms_from_image": [
+      {"word": "dogmatic", "note": "독단적인"},
+      {"word": "inflexible", "note": "융통성 없는"},
+      {"word": "dictatorial", "note": "독재적인"},
+      {"word": "arbitrary", "note": "독단적인"},
+      {"word": "absolute", "note": "절대적인"}
+    ],
+    "tips": [
+      "`doctrine`(교리) + `-aire` = 교리에 지나치게 집착하는. 현실을 무시하고 이론만 고집하는 사람이야.",
+      "GRE에서 `dogmatic`과 미세한 차이가 있어. dogmatic = 자기 주장이 강한, doctrinaire = 이론에만 매달리는."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "doctrine",
+    "pos": "n.",
+    "head_meanings": [
+      "교리",
+      "교의",
+      "주의",
+      "신조",
+      "학설",
+      "견해",
+      "정책",
+      "교훈",
+      "가르침"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `doctrina`(가르침)에서 왔어. `doctor`(교사→의사)랑 어근이 같아.",
+      "GRE에서 `the Monroe Doctrine` 같은 정치적 원칙이나 종교적 교리 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "document",
+    "pos": "v.",
+    "head_meanings": [
+      "상세히 기록(보도)하다",
+      "문서(증거, 필요서류)를 첨부하다",
+      "…를 증거로 입증하다",
+      "문서(증거 서류)로 증명하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "record", "note": "기록하다"},
+      {"word": "register", "note": "등록하다"},
+      {"word": "log", "note": "기록하다"},
+      {"word": "chronicle", "note": "연대순으로 기록하다"},
+      {"word": "archive", "note": "보관하다"},
+      {"word": "detail", "note": "상세히 서술하다"},
+      {"word": "describe", "note": "기술하다"},
+      {"word": "support", "note": "뒷받침하다"},
+      {"word": "substantiate", "note": "입증하다"},
+      {"word": "back up", "note": "뒷받침하다"},
+      {"word": "give weight to", "note": "무게를 더하다"},
+      {"word": "verify", "note": "검증하다"},
+      {"word": "certify", "note": "증명하다"}
+    ],
+    "tips": [
+      "명사 '문서'보다 동사 '기록하다, 입증하다' 뜻이 GRE에서 더 중요해.",
+      "`well-documented` = 충분히 기록된/입증된. `substantiate`랑 비슷한 뉘앙스야."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "documentary",
+    "pos": "adj. / n.",
+    "head_meanings": [
+      "문서의",
+      "서류[증서]의",
+      "[영화, 문학] 사실을 기록한",
+      "[영화, 텔레비전 등의] 기록물",
+      "기록 영화",
+      "실록"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`document`(문서) + `-ary` = 문서에 기반한. 명사로는 다큐멘터리(기록 영화)야.",
+      "`documentary evidence` = 문서에 의한 증거. GRE 법률 지문에서 나올 수 있는 표현이야."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "dodge",
+    "pos": "v.",
+    "head_meanings": [
+      "(사람, 공격 등을 피하기 위해) 재빨리 몸을 비키다",
+      "교묘히 …을 피하다",
+      "속이다",
+      "발뺌하다",
+      "둘러대다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "닷지볼(dodgeball) 생각하면 돼! 공을 피하듯 재빨리 비키는 거야.",
+      "GRE에서 물리적 회피보다 `dodge a question/responsibility` = 질문/책임을 회피하다. 이 비유적 뜻이 중요해."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "doff",
+    "pos": "v.",
+    "head_meanings": [
+      "(모자를) 벗다",
+      "(습관 따위를) 버리다",
+      "폐지하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "remove", "note": "제거하다"},
+      {"word": "put off", "note": "벗다"},
+      {"word": "unwrap", "note": "풀다"},
+      {"word": "undo", "note": "되돌리다"},
+      {"word": "abolish", "note": "폐지하다"},
+      {"word": "discard", "note": "버리다"}
+    ],
+    "tips": [
+      "`do off`의 축약형이야. 반대말 `don`(`do on` = 입다)이랑 세트로 외워! doff = 벗다, don = 입다.",
+      "GRE에서 `doff one's hat` = 모자를 벗다(경의를 표하다). 비유적으로 '오래된 것을 버리다'도 돼."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "dogged",
+    "pos": "adj.",
+    "head_meanings": [
+      "고집 센",
+      "완고한"
+    ],
+    "synonyms_from_image": [
+      {"word": "stubborn", "note": "고집 센"},
+      {"word": "rigid", "note": "경직된"},
+      {"word": "inflexible", "note": "융통성 없는"},
+      {"word": "adamant", "note": "단호한, 요지부동의"},
+      {"word": "unbending", "note": "굽히지 않는"}
+    ],
+    "tips": [
+      "'개(dog)처럼 끈질긴'이라는 이미지야. 발음은 /ˈdɔːɡɪd/ 2음절이야, /dɔːɡd/가 아니야!",
+      "GRE에서 `dogged determination/persistence` = 끈질긴 결의/인내. `tenacious`, `pertinacious`랑 동의어야."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "dogmatic",
+    "pos": "adj.",
+    "head_meanings": [
+      "독단적인",
+      "교리에 관한",
+      "교의상의"
+    ],
+    "synonyms_from_image": [
+      {"word": "opinionated", "note": "자기 의견을 강하게 고집하는"},
+      {"word": "peremptory", "note": "유무를 허용하지 않는"},
+      {"word": "assertive", "note": "단정적인"},
+      {"word": "insistent", "note": "고집하는"},
+      {"word": "adamant", "note": "요지부동의"},
+      {"word": "doctrinaire", "note": "이론에 고집하는"},
+      {"word": "authoritarian", "note": "권위주의적인"},
+      {"word": "imperious", "note": "거만한, 오만한"},
+      {"word": "dictatorial", "note": "독재적인"},
+      {"word": "uncompromising", "note": "타협하지 않는"},
+      {"word": "unyielding", "note": "굽히지 않는"},
+      {"word": "inflexible", "note": "융통성 없는"},
+      {"word": "rigid", "note": "경직된"},
+      {"word": "believing", "note": "확신하는"},
+      {"word": "certain", "note": "확실한"},
+      {"word": "doctrinal", "note": "교리의"},
+      {"word": "obstinate", "note": "완고한"},
+      {"word": "orthodox", "note": "정통의"}
+    ],
+    "tips": [
+      "`dogma`(교리, 독단) + `-tic` = 독단적인. 남의 의견을 듣지 않고 자기 주장만 고집하는 거야.",
+      "GRE 최빈출! `opinionated`, `doctrinaire`, `peremptory`랑 동의어 세트로 자주 나와."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "doldrums",
+    "pos": "n.",
+    "head_meanings": [
+      "침체",
+      "정체",
+      "우울",
+      "침울(기상학) 무풍지대"
+    ],
+    "synonyms_from_image": [
+      {"word": "depression", "note": "우울, 침체"},
+      {"word": "stagnation", "note": "정체, 침체"},
+      {"word": "abeyance", "note": "중지, 보류"},
+      {"word": "gloom", "note": "침울함"},
+      {"word": "melancholy", "note": "우울"},
+      {"word": "dumps", "note": "우울한 상태"}
+    ],
+    "tips": [
+      "항해 용어에서 왔어. 적도 부근 바람이 없는 해역에서 배가 못 움직이는 상태 → 정체·침체.",
+      "`in the doldrums` = 침체 상태에. GRE에서 경제·감정 모두에 쓸 수 있어. `The economy is in the doldrums.`"
+    ]
+  },
+  {
+    "id": "098",
+    "word": "doleful",
+    "pos": "adj.",
+    "head_meanings": [
+      "슬픔에 잠긴",
+      "침침한",
+      "음울한",
+      "우울한"
+    ],
+    "synonyms_from_image": [
+      {"word": "mournful", "note": "슬퍼하는"},
+      {"word": "woeful", "note": "비통한"},
+      {"word": "sorrowful", "note": "슬픈"},
+      {"word": "sad", "note": "슬픈"},
+      {"word": "depressed", "note": "우울한"},
+      {"word": "gloomy", "note": "음울한"},
+      {"word": "morose", "note": "시무룩한"},
+      {"word": "melancholy", "note": "우울한"},
+      {"word": "forlorn", "note": "쓸쓸한"},
+      {"word": "woebegone", "note": "시름에 찬"},
+      {"word": "despondent", "note": "낙담한"},
+      {"word": "dejected", "note": "의기소침한"},
+      {"word": "disconsolate", "note": "위로할 수 없이 슬픈"},
+      {"word": "downcast", "note": "풀이 죽은"},
+      {"word": "crestfallen", "note": "몹시 낙담한"},
+      {"word": "blue", "note": "우울한"},
+      {"word": "dolorous", "note": "비통한"}
+    ],
+    "tips": [
+      "`dole`(슬픔) + `-ful`(가득한) = 슬픔으로 가득한. `dolorous`랑 어근이 같아.",
+      "GRE '슬픔' 동의어 대축제! `mournful`, `woeful`, `lugubrious`, `doleful`, `dolorous` 한꺼번에 외워."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "dolorous",
+    "pos": "adj.",
+    "head_meanings": [
+      "슬픈",
+      "비통한",
+      "애처로운",
+      "괴로운",
+      "고통스러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "unpleasant", "note": "불쾌한"},
+      {"word": "doleful", "note": "슬픔에 잠긴"},
+      {"word": "grievous", "note": "비통한, 심각한"},
+      {"word": "harrowing", "note": "참혹한"}
+    ],
+    "tips": [
+      "라틴어 `dolor`(고통)에서 왔어. 스페인어 `dolor`(아픔)를 알면 기억하기 쉬워.",
+      "`doleful`보다 좀 더 격식체이고 문학적이야. GRE에서 둘 다 '슬픔/고통'의 동의어로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "100",
+    "word": "domicile",
+    "pos": "n.",
+    "head_meanings": [
+      "주소",
+      "주거",
+      "집"
+    ],
+    "synonyms_from_image": [
+      {"word": "abode", "note": "거처"},
+      {"word": "habitation", "note": "주거지"},
+      {"word": "dwelling", "note": "거주지"},
+      {"word": "residence", "note": "주택, 거주"},
+      {"word": "lodging", "note": "숙소"}
+    ],
+    "tips": [
+      "라틴어 `domicilium`(집)에서 왔어. `domus`(집) = `domestic`(가정의)이랑 어근이 같아.",
+      "GRE에서 `abode`, `dwelling`, `domicile`이 동의어 세트야. 모두 격식체로 '거주지'를 뜻해."
+    ]
+  },
+  {
+    "id": "101",
+    "word": "domineer",
+    "pos": "v.",
+    "head_meanings": [
+      "권세를 부리다",
+      "뻐기다",
+      "우뚝서다"
+    ],
+    "synonyms_from_image": [
+      {"word": "dictate", "note": "지시하다"},
+      {"word": "command", "note": "명령하다"},
+      {"word": "tyrannize", "note": "폭정을 행하다"},
+      {"word": "rule", "note": "지배하다"},
+      {"word": "dominate", "note": "지배하다"},
+      {"word": "reign", "note": "군림하다"}
+    ],
+    "tips": [
+      "`dominate`(지배하다)에서 파생됐어. dominate보다 더 부정적이야. 폭군처럼 권세를 부리는 느낌.",
+      "`domineer over ~` = ~에게 권세를 부리다. `tyrannize`랑 가장 가까운 동의어야."
+    ]
+  },
+  {
+    "id": "102",
+    "word": "domineering",
+    "pos": "adj.",
+    "head_meanings": [
+      "지배(군림)하려는",
+      "거만한",
+      "오만한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`domineer`(권세를 부리다)의 형용사형. 남을 지배하려 드는 성격을 묘사해.",
+      "`a domineering boss/parent` = 지배적인 상사/부모. `overbearing`, `imperious`랑 동의어야."
+    ]
+  },
+  {
+    "id": "103",
+    "word": "don",
+    "pos": "v.",
+    "head_meanings": [
+      "입다",
+      "쓰다"
+    ],
+    "synonyms_from_image": [
+      {"word": "take on", "note": "착용하다"},
+      {"word": "clothe", "note": "옷을 입히다"},
+      {"word": "dress", "note": "옷을 입다"},
+      {"word": "garment", "note": "옷을 입히다"},
+      {"word": "wear", "note": "착용하다"},
+      {"word": "pull on", "note": "끌어당겨 입다"}
+    ],
+    "tips": [
+      "`do on`의 축약형이야. 반대말 `doff`(`do off` = 벗다)랑 세트로 외워! don = 입다, doff = 벗다.",
+      "GRE에서 `don a disguise` = 변장하다. 비유적으로 '역할을 맡다'라는 뜻으로도 나올 수 있어."
+    ]
+  },
+  {
+    "id": "104",
+    "word": "doodle",
+    "pos": "v. / n.",
+    "head_meanings": [
+      "(딴 생각하면서) 낙서하다",
+      "빈둥거리다",
+      "맥없이 연주하다",
+      "낙서",
+      "하찮은 것",
+      "시시한 소리"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "회의 중에 종이 귀퉁이에 무의식적으로 그리는 그림, 그게 doodle이야. 구글 두들 로고도 여기서 온 거야.",
+      "`dawdle`(꾸물거리다)이랑 헷갈리지 마! doodle = 낙서하다, dawdle = 빈둥거리다."
+    ]
+  },
+  {
+    "id": "105",
+    "word": "doom",
+    "pos": "n. / v.",
+    "head_meanings": [
+      "운명",
+      "예언",
+      "비운",
+      "파멸",
+      "멸망",
+      "죽음",
+      "판결",
+      "(죄의) 선고",
+      "최후의 심판(the last Judgment)",
+      "운명짓다",
+      "운명을 정하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 영어 `dōm`(판결)에서 왔어. 원래 '판결'이었는데 → '불길한 운명' → '파멸'로 뜻이 변했어.",
+      "`a sense of doom` = 파멸의 예감. `doom and gloom` = 암울한 전망. GRE에서 부정적 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "106",
+    "word": "doomed",
+    "pos": "adj.",
+    "head_meanings": [
+      "운이 다한",
+      "불운한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`doom`(파멸)의 형용사형. 이미 운명이 정해져서 피할 수 없는 뉘앙스야.",
+      "`doomed to fail` = 실패할 운명인. GRE에서 `be doomed to ~` 패턴으로 자주 나와."
+    ]
+  },
+  {
+    "id": "107",
+    "word": "dormant",
+    "pos": "adj.",
+    "head_meanings": [
+      "잠자는 (듯한)",
+      "수면 상태의",
+      "잠재적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "languid", "note": "나른한"},
+      {"word": "do-nothing", "note": "아무것도 안 하는"},
+      {"word": "inert", "note": "비활성의"},
+      {"word": "somnolent", "note": "졸린, 나른한"},
+      {"word": "latent", "note": "잠재적인"},
+      {"word": "potential", "note": "잠재적인"}
+    ],
+    "tips": [
+      "라틴어 `dormire`(잠자다)에서 왔어. `dormitory`(기숙사)랑 어근이 같아. 잠자는 상태야.",
+      "GRE에서 `dormant volcano` = 휴화산, `dormant talent` = 잠재된 재능. `latent`랑 동의어로 자주 나와."
+    ]
+  },
+  {
+    "id": "108",
+    "word": "dote",
+    "pos": "v.",
+    "head_meanings": [
+      "맹목적으로 사랑하다(on)",
+      "노망하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "adore", "note": "숭배하듯 사랑하다"},
+      {"word": "love dearly", "note": "깊이 사랑하다"},
+      {"word": "idolize", "note": "우상화하다"},
+      {"word": "cherish", "note": "소중히 여기다"},
+      {"word": "worship", "note": "숭배하다"},
+      {"word": "like", "note": "좋아하다"},
+      {"word": "bestow excessive love on", "note": "과도한 사랑을 쏟다"},
+      {"word": "indulge", "note": "제멋대로 하게 하다"},
+      {"word": "spoil", "note": "버릇 망치다"},
+      {"word": "pamper", "note": "과하게 보살피다"},
+      {"word": "be senile", "note": "노망하다"},
+      {"word": "be in one's dotage", "note": "노망 상태이다"}
+    ],
+    "tips": [
+      "`dote on` = ~을 맹목적으로 사랑하다. 이성적 판단 없이 과도하게 사랑하는 뉘앙스야.",
+      "GRE에서 `a doting parent` = 아이를 맹목적으로 사랑하는 부모. 부정적 뉘앙스가 있을 수 있어."
+    ]
+  },
+  {
+    "id": "109",
+    "word": "dotage",
+    "pos": "n.",
+    "head_meanings": [
+      "노망"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dote`(노망하다) + `-age`(상태) = 노망 상태. `in one's dotage` = 노망 든 상태로.",
+      "나이 들어 판단력이 흐려진 상태를 말해. `senility`(노쇠)랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "110",
+    "word": "doughty",
+    "pos": "adj.",
+    "head_meanings": [
+      "용맹하고",
+      "과감한",
+      "대담"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 영어에서 온 단어야. 발음은 /ˈdaʊti/. `dough`(반죽)와 무관해!",
+      "약간 구식/유머러스한 뉘앙스가 있어. `a doughty warrior` = 용맹한 전사. `valiant`, `intrepid`랑 동의어야."
+    ]
+  },
+  {
+    "id": "111",
+    "word": "dour",
+    "pos": "adj.",
+    "head_meanings": [
+      "침울한",
+      "시무룩한",
+      "완고한",
+      "엄한",
+      "가혹한"
+    ],
+    "synonyms_from_image": [
+      {"word": "gloomy", "note": "음울한"},
+      {"word": "morose", "note": "시무룩한"},
+      {"word": "firm", "note": "단호한"},
+      {"word": "strict", "note": "엄격한"},
+      {"word": "unkind", "note": "불친절한"},
+      {"word": "unyielding", "note": "굽히지 않는"}
+    ],
+    "tips": [
+      "발음 주의! 미국식 /dʊr/, 영국식 /daʊr/. 스코틀랜드 영어에서 왔어.",
+      "GRE에서 `a dour expression/manner` = 무뚝뚝한 표정/태도. `stern`, `austere`랑 비슷한 뉘앙스야."
+    ]
+  },
+  {
+    "id": "112",
+    "word": "douse",
+    "pos": "v.",
+    "head_meanings": [
+      "…을 물에 처넣다",
+      "…에 (물 등을) 끼얹다",
+      "(구어) (등불)을 끄다"
+    ],
+    "synonyms_from_image": [
+      {"word": "extinguish", "note": "(불을) 끄다"},
+      {"word": "drench", "note": "흠뻑 적시다"},
+      {"word": "wet", "note": "적시다"},
+      {"word": "submerge", "note": "물에 잠그다"},
+      {"word": "immerse", "note": "담그다"},
+      {"word": "soak", "note": "물에 적시다"},
+      {"word": "souse", "note": "물에 담그다"},
+      {"word": "saturate", "note": "완전히 적시다"},
+      {"word": "splash", "note": "물을 끼얹다"},
+      {"word": "put out", "note": "(불을) 끄다"},
+      {"word": "quench", "note": "(불을) 끄다"},
+      {"word": "smother", "note": "질식시키다"},
+      {"word": "dampen down", "note": "불기운을 죽이다"}
+    ],
+    "tips": [
+      "물을 확 끼얹는 이미지야. 불을 끌 때도, 사람을 흠뻑 적실 때도 써.",
+      "`douse the flames` = 불길을 끄다. `quench`랑 동의어야. 비유적으로 '열정을 식히다'도 가능해."
+    ]
+  },
+  {
+    "id": "113",
+    "word": "dovish",
+    "pos": "adj.",
+    "head_meanings": [
+      "비둘기 같은",
+      "온건 평화파의"
+    ],
+    "synonyms_from_image": [
+      {"word": "pacific", "note": "평화적인"},
+      {"word": "peaceful", "note": "평화로운"}
+    ],
+    "tips": [
+      "`dove`(비둘기, 평화의 상징) + `-ish` = 비둘기파의. 반대말은 `hawkish`(매파의, 강경한).",
+      "GRE 정치/경제 지문에서 나올 수 있어. `dovish monetary policy` = 완화적 통화 정책."
+    ]
+  },
+  {
+    "id": "114",
+    "word": "downcast",
+    "pos": "adj.",
+    "head_meanings": [
+      "의기소침한",
+      "풀이 죽은"
+    ],
+    "synonyms_from_image": [
+      {"word": "bad", "note": "기분이 안 좋은"},
+      {"word": "blue", "note": "우울한"},
+      {"word": "depressed", "note": "우울한"},
+      {"word": "low", "note": "기분이 처진"},
+      {"word": "soul-sick", "note": "마음이 아픈"},
+      {"word": "sunk", "note": "가라앉은"},
+      {"word": "disconsolate", "note": "위로할 수 없이 슬픈"}
+    ],
+    "tips": [
+      "`down`(아래로) + `cast`(던져진) = 아래로 던져진 → (눈이) 내리깔린, (기분이) 처진.",
+      "`downcast eyes` = 내리깔은 눈. `dejected`, `dispirited`랑 동의어로 GRE에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "115",
+    "word": "downplay",
+    "pos": "v.",
+    "head_meanings": [
+      "…을 알보다",
+      "중시하지 않다(play down)",
+      "경시하다",
+      "줄잡다"
+    ],
+    "synonyms_from_image": [
+      {"word": "understate", "note": "축소해서 말하다"},
+      {"word": "de-emphasize", "note": "덜 강조하다"},
+      {"word": "underrate", "note": "과소평가하다"},
+      {"word": "play down", "note": "대수롭지 않게 하다"}
+    ],
+    "tips": [
+      "`down`(낮추다) + `play`(표현하다) = 낮추어 표현하다 → 경시하다. `play down`과 같은 뜻이야.",
+      "GRE에서 `downplay the significance/importance` = 중요성을 축소하다. `understate`랑 동의어야."
+    ]
+  },
+  {
+    "id": "116",
+    "word": "drab",
+    "pos": "adj.",
+    "head_meanings": [
+      "단조로운",
+      "시시한",
+      "기운 없는",
+      "칙칙한",
+      "재미 없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "colorless", "note": "색채 없는, 무미건조한"},
+      {"word": "dull", "note": "따분한"},
+      {"word": "flat", "note": "밋밋한"},
+      {"word": "lifeless", "note": "생기 없는"},
+      {"word": "desolate", "note": "황량한"},
+      {"word": "dispirited", "note": "기운 없는"}
+    ],
+    "tips": [
+      "원래 '생베 색(칙칙한 갈색)'이라는 뜻이었어. 거기서 '칙칙한, 단조로운'으로 확장됐어.",
+      "GRE에서 `a drab existence/landscape` = 단조로운 삶/황량한 풍경. `dreary`, `monotonous`랑 동의어야."
+    ]
+  },
+  {
+    "id": "117",
+    "word": "draconian",
+    "pos": "adj.",
+    "head_meanings": [
+      "<법이> 엄한",
+      "<벌, 조치가> 아주 엄격한",
+      "가혹한"
+    ],
+    "synonyms_from_image": [
+      {"word": "harsh", "note": "가혹한"},
+      {"word": "severe", "note": "엄격한"},
+      {"word": "strict", "note": "엄한"},
+      {"word": "stringent", "note": "엄격한"},
+      {"word": "ruthless", "note": "무자비한"},
+      {"word": "oppressive", "note": "억압적인"},
+      {"word": "relentless", "note": "가차 없는"},
+      {"word": "punitive", "note": "처벌적인"},
+      {"word": "authoritarian", "note": "권위주의적인"},
+      {"word": "despotic", "note": "독재적인"},
+      {"word": "tyrannical", "note": "폭군 같은"}
+    ],
+    "tips": [
+      "고대 아테네의 드라콘(Draco) 입법자에서 유래했어. 사소한 범죄도 사형에 처할 정도로 엄한 법을 만들었거든.",
+      "GRE에서 `draconian measures/laws` = 가혹한 조치/법. 항상 '지나치게 엄격한' 부정적 뉘앙스야."
+    ]
+  },
+  {
+    "id": "118",
+    "word": "drag on",
+    "pos": "v. phr.",
+    "head_meanings": [
+      "오래 끌다",
+      "지루하게 계속하다",
+      "질질 오래 끌다"
+    ],
+    "synonyms_from_image": [
+      {"word": "persist", "note": "지속되다"},
+      {"word": "continue", "note": "계속되다"},
+      {"word": "go on", "note": "계속되다"},
+      {"word": "carry on", "note": "계속하다"},
+      {"word": "extend", "note": "연장되다"},
+      {"word": "be protracted", "note": "오래 끌리다"},
+      {"word": "endure", "note": "지속하다"},
+      {"word": "prevail", "note": "지배하다, 만연하다"},
+      {"word": "prolong", "note": "연장하다"},
+      {"word": "protract", "note": "질질 끌다"},
+      {"word": "lengthen", "note": "길어지다"}
+    ],
+    "tips": [
+      "`drag`(끌다) + `on`(계속) = 질질 끌다. 지루할 정도로 오래 계속되는 뉘앙스가 있어.",
+      "`protract`가 GRE 동의어로 나올 수 있어. `The meeting dragged on for hours.` = 회의가 몇 시간이나 질질 끌렸다."
+    ]
+  },
+  {
+    "id": "119",
+    "word": "drain",
+    "pos": "v. / n.",
+    "head_meanings": [
+      "…액체가 서서히 흘러나가다",
+      "소모시키다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "물이 빠지는 배수구(drain) 이미지야. 비유적으로 에너지·자원이 서서히 빠져나가는 것도 drain이야.",
+      "`brain drain` = 두뇌 유출. GRE에서 `drain resources/energy` = 자원/에너지를 소모시키다."
+    ]
+  },
+  {
+    "id": "120",
+    "word": "dreary",
+    "pos": "adj.",
+    "head_meanings": [
+      "[풍경, 날씨 등이] 적적한",
+      "쓸쓸한",
+      "음울한",
+      "황량한",
+      "[시간 등이] 지루한",
+      "[이야기 등이] 따분한"
+    ],
+    "synonyms_from_image": [
+      {"word": "tedious", "note": "지루한, 따분한"}
+    ],
+    "tips": [
+      "고대 영어 `drēorig`(피 묻은, 슬픈)에서 왔어. 비 오는 날 회색 하늘 같은 느낌이야.",
+      "`drab`, `dismal`, `bleak`랑 동의어야. 모두 '칙칙하고 우울한' 분위기를 표현해."
+    ]
+  },
+  {
+    "id": "121",
+    "word": "drench",
+    "pos": "v.",
+    "head_meanings": [
+      "…를 적시다(soak)",
+      "…을 (액체에) 담그다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "비에 홀딱 젖는 것, 그게 drench야. `get drenched` = 흠뻑 젖다.",
+      "`soak`, `saturate`, `douse`랑 동의어야. 모두 '완전히 적시다'라는 뜻이야."
+    ]
+  },
+  {
+    "id": "122",
+    "word": "dribble",
+    "pos": "v.",
+    "head_meanings": [
+      "뚝뚝 떨어지다",
+      "적하(滴下)하다",
+      "<돈, 정력 등을> 조금씩 내다",
+      "조금씩 쓰다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "농구 드리블 생각하면 돼! 공이 통통 튀듯 액체가 뚝뚝 떨어지는 거야.",
+      "`trickle`(졸졸 흐르다)이랑 비슷해. 비유적으로 `money dribbled away` = 돈이 조금씩 빠져나갔다."
+    ]
+  },
+  {
+    "id": "123",
+    "word": "droll",
+    "pos": "adj.",
+    "head_meanings": [
+      "익살맞은",
+      "익살떠는",
+      "우스광스러운",
+      "단조로운 말투로 이야기하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "humorous", "note": "유머러스한"},
+      {"word": "witty", "note": "재치 있는"},
+      {"word": "whimsical", "note": "기발한, 엉뚱한"},
+      {"word": "funny", "note": "웃긴"},
+      {"word": "amusing", "note": "재미있는"},
+      {"word": "comical", "note": "우스꽝스러운"},
+      {"word": "jocular", "note": "익살맞은"},
+      {"word": "joking", "note": "농담하는"},
+      {"word": "facetious", "note": "익살스러운, 진지하지 않은"}
+    ],
+    "tips": [
+      "네덜란드어 `drol`(익살꾼)에서 왔어. 시무룩한 표정으로 웃긴 말을 하는 '시니컬한 유머' 느낌이야.",
+      "GRE에서 `droll humor` = 건조한 유머. `wry`, `sardonic` 같은 유머 관련 단어들과 구별해서 외워."
+    ]
+  },
+  {
+    "id": "124",
+    "word": "drollery",
+    "pos": "n.",
+    "head_meanings": [
+      "익살스러움",
+      "재담"
+    ],
+    "synonyms_from_image": [
+      {"word": "quip", "note": "재치 있는 말, 농담"}
+    ],
+    "tips": [
+      "`droll`(익살맞은) + `-ery`(~한 것) = 익살스러운 행위나 말. droll의 명사형이야.",
+      "격식체/문학적 표현이야. `a moment of drollery` = 익살스러운 순간."
+    ]
+  },
+  {
+    "id": "125",
+    "word": "drone",
+    "pos": "n. / v.",
+    "head_meanings": [
+      "게으름뱅이",
+      "농땡이",
+      "(낮고 단조로운 소리로) …을 이야기하다",
+      "맴맴하다",
+      "…을 빈둥빈둥 보내다",
+      "무위도식하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "idler", "note": "게으름뱅이"},
+      {"word": "sluggard", "note": "게으른 사람"},
+      {"word": "loafer", "note": "빈둥대는 사람"},
+      {"word": "parasite", "note": "기생충 같은 사람"},
+      {"word": "loiterer", "note": "어슬렁거리는 사람"},
+      {"word": "malingerer", "note": "꾀병부리는 사람"},
+      {"word": "hum", "note": "윙윙거리다"},
+      {"word": "bumble", "note": "웅웅거리다"},
+      {"word": "buzz", "note": "윙윙대다"},
+      {"word": "whir", "note": "윙윙 소리내다"},
+      {"word": "vibrate", "note": "진동하다"},
+      {"word": "idle", "note": "빈둥거리다"},
+      {"word": "loiter", "note": "어슬렁거리다"}
+    ],
+    "tips": [
+      "꿀벌 수컷(drone)은 일 안 하고 빈둥대잖아? 거기서 ①게으름뱅이 ②웅웅거리는 소리 두 뜻이 나왔어.",
+      "GRE에서 `drone on` = 지루하게 말을 계속하다. 요즘 '무인기' 뜻도 있지만 시험에선 원래 뜻이 중요해."
+    ]
+  },
+  {
+    "id": "126",
+    "word": "dross",
+    "pos": "n.",
+    "head_meanings": [
+      "쇠 찌꺼기",
+      "불순물",
+      "가치 없는 것"
+    ],
+    "synonyms_from_image": [
+      {"word": "ashes", "note": "재, 잔해"},
+      {"word": "residue", "note": "잔여물"},
+      {"word": "rest", "note": "나머지"},
+      {"word": "remainder", "note": "나머지"},
+      {"word": "remnant", "note": "잔존물"}
+    ],
+    "tips": [
+      "금속을 녹일 때 위에 뜨는 찌꺼기가 dross야. 비유적으로 '쓸모없는 것'이라는 뜻이야.",
+      "GRE에서 `separate the wheat from the dross` = 알곡과 쭉정이를 가리다. 가치 있는 것과 없는 것의 대비야."
+    ]
+  },
+  {
+    "id": "127",
+    "word": "dubious",
+    "pos": "adj.",
+    "head_meanings": [
+      "수상스러운",
+      "의심의 정도가 심함",
+      "미덥지 않은",
+      "모호한",
+      "분명치 않은",
+      "의심을 품은"
+    ],
+    "synonyms_from_image": [
+      {"word": "questionable", "note": "의심스러운"},
+      {"word": "suspicious", "note": "수상한"},
+      {"word": "unreliable", "note": "믿을 수 없는"},
+      {"word": "doubtful", "note": "의심스러운"},
+      {"word": "uncertain", "note": "불확실한"},
+      {"word": "unsure", "note": "확신이 없는"},
+      {"word": "hesitant", "note": "망설이는"},
+      {"word": "skeptical", "note": "회의적인"},
+      {"word": "equivocal", "note": "모호한"},
+      {"word": "ambiguous", "note": "애매한"},
+      {"word": "indefinite", "note": "불확정의"},
+      {"word": "unclear", "note": "불분명한"},
+      {"word": "vague", "note": "막연한"},
+      {"word": "untrustworthy", "note": "신뢰할 수 없는"}
+    ],
+    "tips": [
+      "라틴어 `dubius`(두 가지 중 흔들리는)에서 왔어. `doubt`(의심)랑 어원이 같아.",
+      "GRE에서 두 가지 뜻을 구별해! ①의심을 품은(I'm dubious about it) ②수상한(dubious methods)."
+    ]
+  },
+  {
+    "id": "128",
+    "word": "ductility",
+    "pos": "n.",
+    "head_meanings": [
+      "(금속의) 연성",
+      "유연성",
+      "유순",
+      "고분고분함"
+    ],
+    "synonyms_from_image": [
+      {"word": "softness", "note": "부드러움"},
+      {"word": "suppleness", "note": "유연함"},
+      {"word": "pliability", "note": "잘 구부러짐"},
+      {"word": "elasticity", "note": "탄성"}
+    ],
+    "tips": [
+      "`ductile`(잘 늘어나는)의 명사형. 금속이 끊어지지 않고 늘어나는 성질이야.",
+      "비유적으로 사람의 '유순함, 순응성'을 뜻할 수 있어. `pliability`, `malleability`랑 동의어야."
+    ]
+  },
+  {
+    "id": "129",
+    "word": "ductile",
+    "pos": "adj.",
+    "head_meanings": [
+      "(금속 등이) 때리거나 늘릴 수 있는",
+      "연성"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `ductilis`(끌어당겨 늘릴 수 있는)에서 왔어. 금이나 구리처럼 얇게 늘릴 수 있는 성질이야.",
+      "GRE에서 비유적으로 '유순한, 잘 따르는'이라는 뜻도 있어. `malleable`(순응하는)이랑 동의어야."
+    ]
+  },
+  {
+    "id": "130",
+    "word": "dulcet",
+    "pos": "adj.",
+    "head_meanings": [
+      "달콤한",
+      "상쾌한",
+      "기분 좋은",
+      "마음을 누그러뜨리는",
+      "향기로운"
+    ],
+    "synonyms_from_image": [
+      {"word": "pleasing", "note": "기분 좋은"},
+      {"word": "mellifluous", "note": "감미로운"},
+      {"word": "melodic", "note": "선율적인"},
+      {"word": "engaging", "note": "매력적인"},
+      {"word": "euphonic", "note": "듣기 좋은"},
+      {"word": "luscious", "note": "감미로운, 달콤한"}
+    ],
+    "tips": [
+      "라틴어 `dulcis`(달콤한)에서 왔어. 이탈리아어 `dolce`(달콤한)랑 같은 어원이야. 돌체라떼 생각해봐!",
+      "GRE에서 `dulcet tones/sounds` = 감미로운 음색/소리. `mellifluous`랑 동의어로 자주 나와."
+    ]
+  },
+  {
+    "id": "131",
+    "word": "duly",
+    "pos": "adv.",
+    "head_meanings": [
+      "정식으로",
+      "정당하게",
+      "적절히",
+      "알맞게",
+      "충분히",
+      "마땅히",
+      "마땅한 때에",
+      "시간/기일에 맞게"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`due`(마땅한) + `-ly` = 마땅히, 적절히. `duly noted` = 잘 알겠습니다(격식체).",
+      "GRE에서 `duly authorized` = 정식으로 권한을 부여받은. 법률·격식 문맥에서 나와."
+    ]
+  },
+  {
+    "id": "132",
+    "word": "dum(b)founder",
+    "pos": "v.",
+    "head_meanings": [
+      "…을(…으로) 말이 안나올 정도로 깜짝 놀라게 하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dumb`(말 못하는) + `confound`(당황하게 하다) = 말이 안 나올 정도로 놀라게 하다. 합성어야.",
+      "`dumbfound`라고도 써. `flabbergast`, `astound`랑 동의어야. 모두 '경악시키다'라는 뜻이야."
+    ]
+  },
+  {
+    "id": "133",
+    "word": "dupe",
+    "pos": "n. / v.",
+    "head_meanings": [
+      "속기 쉬운 사람",
+      "봉",
+      "얼뜨기",
+      "얼간이",
+      "속이다"
+    ],
+    "synonyms_from_image": [
+      {"word": "fool", "note": "바보"},
+      {"word": "butt", "note": "웃음거리"},
+      {"word": "fall guy", "note": "희생양"},
+      {"word": "chump", "note": "멍청이"},
+      {"word": "pigeon", "note": "쉽게 속는 사람"},
+      {"word": "pawn", "note": "졸, 이용당하는 사람"},
+      {"word": "patsy", "note": "봉, 이용당하는 사람"}
+    ],
+    "tips": [
+      "프랑스어 `duper`(속이다)에서 왔어. 명사(속기 쉬운 사람)와 동사(속이다) 둘 다 써.",
+      "GRE에서 `gullible`(잘 속는)한 사람이 `dupe`야. 동사로는 `deceive`, `beguile`이랑 동의어야."
+    ]
+  },
+  {
+    "id": "134",
+    "word": "duplicate",
+    "pos": "v. / n. / adj.",
+    "head_meanings": [
+      "이중(2배)으로 하다",
+      "두 번 되풀이하다",
+      "복사(제)하다",
+      "중복되다",
+      "사본",
+      "복사",
+      "복제(품)",
+      "중복의",
+      "이중의",
+      "한 쌍의",
+      "똑 같은",
+      "꼭 닮은",
+      "복제의"
+    ],
+    "synonyms_from_image": [
+      {"word": "copy", "note": "복사하다"},
+      {"word": "reproduce", "note": "복제하다"},
+      {"word": "replicate", "note": "똑같이 만들다"},
+      {"word": "repeat", "note": "반복하다"},
+      {"word": "do again", "note": "다시 하다"},
+      {"word": "replica", "note": "복제품"},
+      {"word": "reproduction", "note": "복제"},
+      {"word": "clone", "note": "복제"},
+      {"word": "matching", "note": "일치하는"},
+      {"word": "identical", "note": "동일한"},
+      {"word": "twin", "note": "쌍둥이의"},
+      {"word": "corresponding", "note": "대응하는"},
+      {"word": "equivalent", "note": "동등한"}
+    ],
+    "tips": [
+      "라틴어 `duplicare`(두 배로 하다)에서 왔어. `du-`(둘) + `plic`(겹) = 두 겹 → 복제.",
+      "`replicate`가 GRE에서 가장 가까운 동의어야. `in duplicate` = 2부로, 사본 포함."
+    ]
+  },
+  {
+    "id": "135",
+    "word": "duplicity",
+    "pos": "n.",
+    "head_meanings": [
+      "일구이언",
+      "표리부동",
+      "불성실",
+      "이중성",
+      "중복"
+    ],
+    "synonyms_from_image": [
+      {"word": "deceit", "note": "속임"},
+      {"word": "deceitfulness", "note": "기만적임"},
+      {"word": "deception", "note": "기만"},
+      {"word": "dishonesty", "note": "부정직"},
+      {"word": "duality", "note": "이중성"},
+      {"word": "fraud", "note": "사기"},
+      {"word": "fraudulence", "note": "사기성"},
+      {"word": "guile", "note": "교활함"},
+      {"word": "cunning", "note": "교활함"},
+      {"word": "double-dealing", "note": "이중 거래"},
+      {"word": "chicanery", "note": "속임수"},
+      {"word": "trickery", "note": "사기, 속임"},
+      {"word": "subterfuge", "note": "구실, 속임수"},
+      {"word": "skullduggery", "note": "부정행위"},
+      {"word": "treachery", "note": "배신"}
+    ],
+    "tips": [
+      "`du-`(둘) + `plic`(겹) = 두 겹 → 겉과 속이 다름, 표리부동. `duplicate`와 어원이 같아!",
+      "GRE 최빈출! `guile`, `chicanery`, `perfidy`랑 동의어 세트야. 모두 '기만·속임'이야."
+    ]
+  },
+  {
+    "id": "136",
+    "word": "duplicitous",
+    "pos": "adj.",
+    "head_meanings": [
+      "불성실한",
+      "사기의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`duplicity`(표리부동)의 형용사형. 겉과 속이 다른, 이중적인 사람을 묘사해.",
+      "`a duplicitous politician` = 표리부동한 정치인. `deceitful`, `two-faced`랑 동의어야."
+    ]
+  },
+  {
+    "id": "137",
+    "word": "dwarf",
+    "pos": "v. / n. / adj.",
+    "head_meanings": [
+      "작게하다",
+      "…의 성장을 방해하다",
+      "위축시키다",
+      "작아지다",
+      "난장이",
+      "소형의",
+      "위축된",
+      "(천문) 왜성의"
+    ],
+    "synonyms_from_image": [
+      {"word": "overshadow", "note": "그늘지게 하다, 무색하게 하다"},
+      {"word": "outshine", "note": "빛을 가리다"},
+      {"word": "surpass", "note": "능가하다"},
+      {"word": "exceed", "note": "초과하다"},
+      {"word": "outstrip", "note": "앞지르다"},
+      {"word": "outdo", "note": "이기다"},
+      {"word": "transcend", "note": "초월하다"},
+      {"word": "diminish", "note": "축소시키다"},
+      {"word": "minimize", "note": "최소화하다"},
+      {"word": "dominate", "note": "압도하다"},
+      {"word": "loom over", "note": "위압적으로 우뚝 서다"}
+    ],
+    "tips": [
+      "GRE에서 동사 뜻이 핵심이야! `dwarf` = (비교해서) 작아 보이게 하다. `The skyscraper dwarfs the old buildings.`",
+      "`overshadow`가 가장 가까운 동의어야. 물리적 크기뿐 아니라 업적·중요성에서도 '무색하게 하다'로 써."
     ]
   }
 ]
