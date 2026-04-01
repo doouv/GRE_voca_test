@@ -1,0 +1,2046 @@
+[
+  {
+    "id": "001",
+    "word": "dwindle",
+    "pos": "v.",
+    "head_meanings": [
+      "줄다, 감소되다, 점점 작아지다"
+    ],
+    "synonyms_from_image": [
+      { "word": "contracting", "note": "수축하며 줄어드는 느낌" },
+      { "word": "diminish", "note": "양이나 정도가 줄다" },
+      { "word": "decrease", "note": "수치·양이 감소하다" },
+      { "word": "decline", "note": "서서히 쇠퇴하다" },
+      { "word": "lessen", "note": "정도가 줄어들다" },
+      { "word": "become smaller", "note": "크기가 작아지다" },
+      { "word": "wane", "note": "힘·영향력이 약해지다" }
+    ],
+    "tips": [
+      "dwindle은 '서서히' 줄어드는 느낌이야. 갑자기 확 줄어드는 게 아니라 점점 사그라드는 거지.",
+      "GRE에서 자주 나오는 단어야. '점차 감소하다'라는 뉘앙스를 기억해둬!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "dynamic",
+    "pos": "adj.",
+    "head_meanings": [
+      "동력의",
+      "역동적인",
+      "역학의",
+      "동태적인"
+    ],
+    "synonyms_from_image": [
+      { "word": "energetic", "note": "에너지가 넘치는" },
+      { "word": "vital", "note": "활력이 있는" },
+      { "word": "enterprising", "note": "적극적이고 진취적인" },
+      { "word": "vigorous", "note": "힘차고 정력적인" },
+      { "word": "powerful", "note": "강력한, 힘 있는" }
+    ],
+    "tips": [
+      "dynamic은 '움직임·변화가 활발한'이라는 뜻이야. static(정적인)의 반대라고 외워둬.",
+      "명사로 쓰이면 '역학, 원동력'이라는 뜻도 돼. group dynamics = 집단 역학."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "dysfunctional",
+    "pos": "adj.",
+    "head_meanings": [
+      "제대로 기능을 하지 않는",
+      "고장이 난"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "dys-(나쁜) + functional(기능하는)이야. '기능이 비정상적인' 느낌으로 외워.",
+      "가족 관계에서도 자주 써. dysfunctional family = 기능이 망가진 가정."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "dyspeptic",
+    "pos": "adj.",
+    "head_meanings": [
+      "소화 불량의",
+      "위염에 걸린",
+      "우울하고 화를 잘 내는"
+    ],
+    "synonyms_from_image": [
+      { "word": "bad-tempered", "note": "성질이 나쁜" },
+      { "word": "ill-natured", "note": "심술궂은, 못된" },
+      { "word": "irritable", "note": "쉽게 짜증 내는" }
+    ],
+    "tips": [
+      "dys-(나쁜) + peptic(소화의)에서 왔어. 소화가 안 되면 짜증나잖아? 그래서 '불쾌한, 화를 잘 내는' 뜻도 돼.",
+      "GRE에서는 '소화불량'보다 '성격이 까칠한' 뜻으로 더 자주 나와."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "eager",
+    "pos": "adj.",
+    "head_meanings": [
+      "갈망하는",
+      "열심인",
+      "열렬한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "eager는 '뭔가를 하고 싶어 안달난' 느낌이야. eager to learn = 배우고 싶어 근질근질.",
+      "avid, keen과 비슷한 뉘앙스인데, eager가 제일 일상적으로 쓰여."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "earthly",
+    "pos": "adj.",
+    "head_meanings": [
+      "지상의",
+      "세속적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "earthly는 '이 세상의, 세속적인'이야. heavenly(천상의)의 반대로 기억해.",
+      "no earthly reason이라고 하면 '어떤 이유도 없는'이라는 강조 표현이야."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "earthy",
+    "pos": "adj.",
+    "head_meanings": [
+      "거친",
+      "야비한",
+      "상스러운",
+      "자연 그대로의",
+      "꾸밈없는"
+    ],
+    "synonyms_from_image": [
+      { "word": "vulgar", "note": "저속한, 천박한" },
+      { "word": "rough", "note": "거칠고 투박한" },
+      { "word": "worldly", "note": "세속적인" },
+      { "word": "primitive", "note": "원시적인, 소박한" },
+      { "word": "earthlike", "note": "흙 같은, 자연스러운" },
+      { "word": "terrene", "note": "세속적인, 지상의" },
+      { "word": "unsophisticated", "note": "세련되지 않은, 투박한" }
+    ],
+    "tips": [
+      "earthly(지상의)와 헷갈리지 마! earthy는 '흙냄새 나는, 꾸밈없는' 느낌이야.",
+      "earthy humor = 거칠고 상스러운 유머. 세련됨과는 거리가 먼 투박한 느낌."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "easygoing",
+    "pos": "adj.",
+    "head_meanings": [
+      "태평스러운",
+      "근심 걱정이 없고 평안한",
+      "느긋한",
+      "안이한"
+    ],
+    "synonyms_from_image": [
+      { "word": "affable", "note": "상냥하고 붙임성 있는" },
+      { "word": "amiable", "note": "호감 가는, 다정한" },
+      { "word": "undemanding", "note": "까다롭지 않은" },
+      { "word": "even-tempered", "note": "감정 기복이 없는" },
+      { "word": "placid", "note": "차분하고 평온한" },
+      { "word": "carefree", "note": "걱정 없는, 근심 없는" }
+    ],
+    "tips": [
+      "easy + going이야. 말 그대로 '편하게 흘러가는' 성격을 뜻해.",
+      "laid-back이랑 거의 같은 뜻이야. 느긋하고 별로 신경 안 쓰는 타입!"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "ebb",
+    "pos": "v./n.",
+    "head_meanings": [
+      "감퇴하다",
+      "쇠퇴하다",
+      "줄다",
+      "기울다",
+      "(조수가) 빠지다",
+      "썰물",
+      "건조"
+    ],
+    "synonyms_from_image": [
+      { "word": "wane", "note": "힘·영향력이 줄어들다" },
+      { "word": "diminish", "note": "양이나 정도가 줄다" },
+      { "word": "dwindle", "note": "점차 작아지다" },
+      { "word": "fade away", "note": "서서히 사라지다" },
+      { "word": "decline", "note": "쇠퇴하다" },
+      { "word": "abate", "note": "약해지다, 줄다" },
+      { "word": "subside", "note": "가라앉다, 잦아들다" },
+      { "word": "flag", "note": "기운이 떨어지다" },
+      { "word": "decrease", "note": "감소하다" },
+      { "word": "weaken", "note": "약해지다" }
+    ],
+    "tips": [
+      "ebb는 원래 '썰물'이야. 밀물이 flow, 썰물이 ebb. ebb and flow = 성쇠, 오르내림.",
+      "비유적으로 '기운·열정 등이 빠져나가다'라는 뜻으로 많이 써."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "ebullient",
+    "pos": "adj.",
+    "head_meanings": [
+      "(원기 따위가) 끓어 넘치는",
+      "용솟음치는",
+      "활기 있는",
+      "비등하는"
+    ],
+    "synonyms_from_image": [
+      { "word": "exuberant", "note": "넘치도록 활기찬" },
+      { "word": "buoyant", "note": "쾌활한, 낙천적인" },
+      { "word": "cheerful", "note": "밝고 쾌활한" },
+      { "word": "joyful", "note": "기쁨에 찬" },
+      { "word": "merry", "note": "명랑한, 즐거운" },
+      { "word": "jolly", "note": "유쾌한" },
+      { "word": "jaunty", "note": "경쾌하고 자신감 있는" },
+      { "word": "elated", "note": "신이 난, 들뜬" },
+      { "word": "animated", "note": "생기 있는, 활발한" },
+      { "word": "sparkling", "note": "반짝이는, 생기 넘치는" },
+      { "word": "vivacious", "note": "활발하고 매력적인" },
+      { "word": "peppy", "note": "활력 넘치는" },
+      { "word": "upbeat", "note": "낙관적인, 밝은" },
+      { "word": "excited", "note": "흥분한, 신난" },
+      { "word": "hot", "note": "뜨거운, 열정적인" },
+      { "word": "lively", "note": "활기찬, 생동감 있는" },
+      { "word": "thrilled", "note": "감격한, 전율하는" },
+      { "word": "stirred", "note": "감동받은, 고무된" },
+      { "word": "impulsive", "note": "충동적인" }
+    ],
+    "tips": [
+      "e-(밖으로) + bull-(끓다)에서 왔어. 감정이 끓어서 밖으로 넘쳐나는 거야!",
+      "ebullient는 단순히 기쁜 게 아니라 '열정이 끓어 넘치는' 강한 느낌이야."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "ebullience",
+    "pos": "n.",
+    "head_meanings": [
+      "비등",
+      "(감정 등의) 격렬한 발로"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "ebullient의 명사형이야. '끓어 넘치는 열정, 활기'라는 뜻이지.",
+      "ebullience of youth = 젊음의 넘치는 활력. 이렇게 of와 같이 쓰이는 경우가 많아."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "eccentric",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "괴상한",
+      "(행동 따위가) 상궤를 벗어난",
+      "변덕스러운",
+      "불규칙적인",
+      "(천문) (천체가, 궤도가) 이심적인",
+      "괴짜",
+      "기인"
+    ],
+    "synonyms_from_image": [
+      { "word": "peculiar", "note": "독특하고 이상한" },
+      { "word": "queer", "note": "기묘한, 색다른" },
+      { "word": "weird", "note": "기이한, 괴상한" },
+      { "word": "bizarre", "note": "극히 이상한, 기괴한" },
+      { "word": "extraordinary", "note": "보통이 아닌, 비범한" }
+    ],
+    "tips": [
+      "ec-(밖으로) + centric(중심)이야. 중심에서 벗어난 → 괴짜! 궤도를 벗어난 느낌.",
+      "명사로 쓰면 '괴짜, 기인'이라는 뜻이야. 형용사/명사 둘 다 알아둬."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "eccentricity",
+    "pos": "n.",
+    "head_meanings": [
+      "(옷차림 행동 따위의) 괴벽",
+      "기괴함",
+      "괴이한 것"
+    ],
+    "synonyms_from_image": [
+      { "word": "abnormality", "note": "비정상, 이상함" },
+      { "word": "unconformity", "note": "관습에 따르지 않음" },
+      { "word": "curiosity", "note": "기이한 것, 호기심" },
+      { "word": "queerness", "note": "기묘함" },
+      { "word": "unnaturalness", "note": "부자연스러움" },
+      { "word": "bizarreness", "note": "기괴함" },
+      { "word": "irregularity", "note": "불규칙성, 비정상" }
+    ],
+    "tips": [
+      "eccentric의 명사형이야. 괴짜스러운 행동이나 성격 그 자체를 가리켜.",
+      "과학에서는 '이심률'이라는 뜻도 있어. 궤도가 원에서 얼마나 벗어났는지 나타내는 값이지."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "ecclesiastic",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "(그리스도) 교회에 관한",
+      "성직의",
+      "(그리스도교의) 성직자",
+      "목사",
+      "성직",
+      "교회 신도"
+    ],
+    "synonyms_from_image": [
+      { "word": "churchly", "note": "교회의, 교회다운" },
+      { "word": "ministerial", "note": "성직자의, 목사의" },
+      { "word": "templelike", "note": "사원 같은, 성전 같은" },
+      { "word": "religious", "note": "종교적인" },
+      { "word": "clerical", "note": "성직자의" },
+      { "word": "parochial", "note": "교구의, 편협한" }
+    ],
+    "tips": [
+      "ecclesia는 그리스어로 '교회, 집회'야. 교회와 관련된 모든 것을 가리켜.",
+      "명사로 쓰면 '성직자' 자체를 뜻해. 형용사/명사 둘 다 가능한 단어야."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "eclectic",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "(여러 가지 재료에서) 취사선택하는",
+      "절충자",
+      "(예술 등이) 각종 재료를 음미해서 선택하는",
+      "절충주의의",
+      "절충적인",
+      "(취미 의견 등이) 남에게 치우치지 않는",
+      "다방면에 걸친"
+    ],
+    "synonyms_from_image": [
+      { "word": "wide-ranging", "note": "범위가 넓은" },
+      { "word": "extensive", "note": "광범위한" },
+      { "word": "comprehensive", "note": "포괄적인" },
+      { "word": "varied", "note": "다양한" },
+      { "word": "diverse", "note": "다채로운" },
+      { "word": "catholic", "note": "보편적인, 폭넓은" },
+      { "word": "all-embracing", "note": "모든 것을 아우르는" },
+      { "word": "multifaceted", "note": "다면적인" },
+      { "word": "multifarious", "note": "매우 다양한" },
+      { "word": "heterogeneous", "note": "이질적인 요소가 섞인" },
+      { "word": "miscellaneous", "note": "잡다한, 여러 가지의" },
+      { "word": "assorted", "note": "갖가지의, 여러 종류의" }
+    ],
+    "tips": [
+      "ec-(밖에서) + lect-(고르다)야. 여러 곳에서 골라 뽑는 거지. 취향이 다양한 사람!",
+      "GRE 단골 단어야. '이것저것 다양한 곳에서 골라 쓰는' 절충적인 스타일을 뜻해."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "eclecticism",
+    "pos": "n.",
+    "head_meanings": [
+      "(취미 의견 등의) 절충주의",
+      "(특히) 기술적 예술가 등이 각종 재료를 음미한 선택",
+      "(작품 등이) 취사 선택하여 만들어진 것"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "eclectic의 명사형이야. 여러 스타일을 섞어 쓰는 '절충주의'를 뜻해.",
+      "예술·건축에서 eclecticism이라고 하면 다양한 양식을 혼합하는 사조를 말해."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "eclipse",
+    "pos": "v./n.",
+    "head_meanings": [
+      "(빛을) 어둡게 하다",
+      "(남의 명성의) 빛을 압도하다",
+      "(남을) 능가하다",
+      "명예의 실추",
+      "(천문) 식"
+    ],
+    "synonyms_from_image": [
+      { "word": "cast a shadow upon", "note": "그림자를 드리우다" },
+      { "word": "cover", "note": "덮다, 가리다" },
+      { "word": "mask", "note": "가면처럼 가리다" },
+      { "word": "cloak", "note": "망토처럼 감추다" },
+      { "word": "conceal", "note": "숨기다" },
+      { "word": "hide", "note": "감추다" },
+      { "word": "obscure", "note": "흐릿하게 하다" },
+      { "word": "override", "note": "무시하고 넘어가다" },
+      { "word": "surpass", "note": "능가하다, 뛰어넘다" },
+      { "word": "exceed", "note": "초과하다, 넘어서다" },
+      { "word": "excel", "note": "뛰어나다, 탁월하다" }
+    ],
+    "tips": [
+      "일식·월식의 eclipse야! 해나 달을 가리듯이 '남의 빛을 가리다, 능가하다'라는 뜻이 돼.",
+      "GRE에서는 주로 비유적 의미로 나와. His fame eclipsed... = 그의 명성이 ~을 압도했다."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "ecologist",
+    "pos": "n.",
+    "head_meanings": [
+      "생태학자"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "eco-(생태) + -logist(학자)야. 환경·생태계를 연구하는 사람이지.",
+      "ecology(생태학)의 파생어야. 요즘은 환경운동가라는 뉘앙스로도 쓰여."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "economical",
+    "pos": "adj.",
+    "head_meanings": [
+      "경제적인",
+      "검소한",
+      "간결한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "economic(경제의)과 헷갈리지 마! economical은 '절약하는, 낭비 없는'이라는 뜻이야.",
+      "economical with the truth라는 표현은 '사실을 숨기는'이라는 완곡어법이야. 알아두면 재밌어!"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "economy",
+    "pos": "n.",
+    "head_meanings": [
+      "절약",
+      "검약",
+      "효율적인 사용",
+      "경제",
+      "(하늘의) 섭리",
+      "조화"
+    ],
+    "synonyms_from_image": [
+      { "word": "thrift", "note": "알뜰한 절약" },
+      { "word": "frugality", "note": "검소함, 절약" },
+      { "word": "forehandedness", "note": "미리 대비하는 절약" },
+      { "word": "carefulness", "note": "신중함, 조심성" },
+      { "word": "prudence", "note": "분별력 있는 절약" },
+      { "word": "dispensation", "note": "배분, 관리" }
+    ],
+    "tips": [
+      "economy는 '경제' 말고도 '절약, 검약'이라는 뜻이 중요해. economy of words = 말을 아끼는 것.",
+      "GRE에서는 '절약, 효율적 사용'이라는 의미로 나올 확률이 높아."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "ecstasy",
+    "pos": "n.",
+    "head_meanings": [
+      "무아의 경지",
+      "황홀경",
+      "미칠듯한 기쁨"
+    ],
+    "synonyms_from_image": [
+      { "word": "seventh heaven", "note": "최고의 행복 상태" },
+      { "word": "excitement", "note": "흥분, 들뜸" },
+      { "word": "happiness", "note": "행복" },
+      { "word": "trance", "note": "무아지경, 황홀 상태" }
+    ],
+    "tips": [
+      "ec-(밖으로) + stasy(서다)야. 자기 자신 밖으로 나가 서 있는 것 → 무아지경!",
+      "ecstasy는 단순한 기쁨이 아니라 '정신이 나갈 정도로 황홀한' 극도의 기쁨이야."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "ecstatic",
+    "pos": "adj.",
+    "head_meanings": [
+      "무아지경에 빠진",
+      "황홀한",
+      "잘 도취하는",
+      "(황홀경에) 달한"
+    ],
+    "synonyms_from_image": [
+      { "word": "euphoria", "note": "행복감에 도취된 상태" }
+    ],
+    "tips": [
+      "ecstasy의 형용사형이야. '황홀할 정도로 기쁜' 상태를 나타내.",
+      "She was ecstatic about the result. 이런 식으로 about과 같이 많이 써."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "ecumenical",
+    "pos": "adj.",
+    "head_meanings": [
+      "세계적인",
+      "전반적인",
+      "보편적인"
+    ],
+    "synonyms_from_image": [
+      { "word": "universal", "note": "보편적인, 전 세계적인" },
+      { "word": "catholic", "note": "보편적인 (종교적 의미 아님)" },
+      { "word": "all-embracing", "note": "모든 것을 포용하는" },
+      { "word": "all-inclusive", "note": "모두를 포함하는" },
+      { "word": "general", "note": "일반적인, 전반적인" }
+    ],
+    "tips": [
+      "원래는 '전 기독교 교회의 통합'을 뜻하는 종교 용어야. ecumenical council = 공의회.",
+      "일반적으로는 '보편적인, 세계적인'이라는 뜻으로 확장돼서 쓰여."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "edible",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "먹을 수 있는",
+      "식용에 알맞은",
+      "식용의",
+      "식료품"
+    ],
+    "synonyms_from_image": [
+      { "word": "comestible", "note": "먹을 수 있는 (격식체)" },
+      { "word": "safe to eat", "note": "먹어도 안전한" },
+      { "word": "consumable", "note": "소비 가능한, 먹을 수 있는" },
+      { "word": "digestible", "note": "소화 가능한" },
+      { "word": "palatable", "note": "맛이 괜찮은, 먹을 만한" }
+    ],
+    "tips": [
+      "ed-(먹다) + -ible(할 수 있는)이야. '먹을 수 있는'이라는 뜻이지.",
+      "반의어 inedible(먹을 수 없는)도 같이 외워두면 좋아."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "edify",
+    "pos": "v.",
+    "head_meanings": [
+      "덕성을 기르다",
+      "교화시키다"
+    ],
+    "synonyms_from_image": [
+      { "word": "enlighten", "note": "깨우치다, 계몽하다" },
+      { "word": "indoctrinate", "note": "사상을 주입하다" },
+      { "word": "inculcate", "note": "반복해서 가르치다" },
+      { "word": "teach", "note": "가르치다" },
+      { "word": "implant", "note": "(생각을) 심어주다" }
+    ],
+    "tips": [
+      "edify는 '도덕적·지적으로 향상시키다'라는 뜻이야. 건물(edifice)을 세우듯 인격을 쌓는 느낌!",
+      "edifying experience = 교훈적인 경험. GRE에서 꽤 자주 나오는 단어야."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "educe",
+    "pos": "v.",
+    "head_meanings": [
+      "<잠재적 능력, 성능 등을> 끌어내다",
+      "<결론 등을> (자료, 사실에서) 끌어내다",
+      "추론하다",
+      "추출하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "elicit", "note": "이끌어 내다" },
+      { "word": "bring out", "note": "꺼내다, 드러내다" },
+      { "word": "deduce", "note": "추론하다, 연역하다" }
+    ],
+    "tips": [
+      "e-(밖으로) + duce(이끌다)야. educate(교육하다)와 같은 어근이지.",
+      "elicit과 비슷한데, educe는 좀 더 '잠재된 것을 논리적으로 끌어낸다'는 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "eerie",
+    "pos": "adj.",
+    "head_meanings": [
+      "등골이 오싹하는",
+      "무시무시한",
+      "기분 나쁜",
+      "섬뜩한"
+    ],
+    "synonyms_from_image": [
+      { "word": "awesome", "note": "경외감을 주는 (무서운 쪽)" },
+      { "word": "creepy", "note": "소름 끼치는" },
+      { "word": "deathly", "note": "죽음 같은, 섬뜩한" }
+    ],
+    "tips": [
+      "eerie는 '설명할 수 없는 으스스함'을 나타내. 귀신 나올 것 같은 분위기!",
+      "eerie silence = 으스스한 침묵. 공포 영화에서 자주 쓰이는 분위기 묘사 단어야."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "efface",
+    "pos": "v.",
+    "head_meanings": [
+      "지우다",
+      "말살하다",
+      "삭제하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "obliterate", "note": "완전히 없애다" },
+      { "word": "expunge", "note": "기록을 삭제하다" },
+      { "word": "erase", "note": "지우다" },
+      { "word": "blot out", "note": "지워 없애다" },
+      { "word": "wipe out", "note": "쓸어버리다, 없애다" }
+    ],
+    "tips": [
+      "ef-(밖으로) + face(얼굴)야. 얼굴(표면)에서 지워버리는 거지!",
+      "self-effacing이라고 하면 '겸손한, 자기를 드러내지 않는'이라는 뜻이야. GRE 필수!"
+    ]
+  },
+  {
+    "id": "029",
+    "word": "effectual",
+    "pos": "adj.",
+    "head_meanings": [
+      "유효한",
+      "효과 있는",
+      "충분한"
+    ],
+    "synonyms_from_image": [
+      { "word": "efficient", "note": "효율적인" },
+      { "word": "operative", "note": "작동하는, 유효한" },
+      { "word": "practical", "note": "실용적인" },
+      { "word": "influential", "note": "영향력 있는" },
+      { "word": "effective", "note": "효과적인" },
+      { "word": "powerful", "note": "강력한" },
+      { "word": "strong", "note": "강한" }
+    ],
+    "tips": [
+      "effective와 비슷한데, effectual은 '의도한 결과를 확실히 내는'이라는 뉘앙스가 더 강해.",
+      "반의어 ineffectual(무력한, 효과 없는)도 GRE에서 자주 나와."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "effeminate",
+    "pos": "adj.",
+    "head_meanings": [
+      "<남자가> (행위, 취미, 배치, 태도 등에서) 사랑스러운",
+      "연약한",
+      "여성적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "ef- + femina(여성)에서 왔어. 남자가 여성스러운 특성을 보이는 것을 가리켜.",
+      "주의! 이 단어는 부정적 뉘앙스가 있어. GRE 지문에서 비판적 맥락으로 나올 수 있어."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "effervesce",
+    "pos": "v.",
+    "head_meanings": [
+      "(탄산수 따위가) 비등하다",
+      "거품이 일며 나오다",
+      "(사람이) 흥분하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "be enthusiastic", "note": "열정적이다" },
+      { "word": "fizz", "note": "거품이 나다, 치직거리다" },
+      { "word": "ferment", "note": "발효하다, 들끓다" },
+      { "word": "seethe", "note": "부글부글 끓다" },
+      { "word": "foam", "note": "거품이 일다" }
+    ],
+    "tips": [
+      "ef-(밖으로) + fervesc-(끓다)야. 탄산음료처럼 거품이 '부글부글' 나오는 거지!",
+      "비유적으로 사람이 '들뜬 흥분 상태'일 때도 써. 에너지가 넘치는 느낌!"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "effervescence",
+    "pos": "n.",
+    "head_meanings": [
+      "활기",
+      "쾌활",
+      "흥분",
+      "비등",
+      "거품이 남"
+    ],
+    "synonyms_from_image": [
+      { "word": "vivacity", "note": "활발함, 생기" },
+      { "word": "vigor", "note": "활력, 정력" },
+      { "word": "liveliness", "note": "활기, 생동감" },
+      { "word": "ebullience", "note": "넘치는 활기" },
+      { "word": "buoyancy", "note": "쾌활함, 낙천성" }
+    ],
+    "tips": [
+      "effervesce의 명사형이야. 탄산음료의 기포처럼 '톡톡 튀는 활기'를 뜻해.",
+      "문학적 표현에서 '넘치는 생명력·쾌활함'을 묘사할 때 쓰여."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "effete",
+    "pos": "adj.",
+    "head_meanings": [
+      "무력해진",
+      "쇠퇴한",
+      "생산력이 없는",
+      "<남자가> 여성적인",
+      "나약한"
+    ],
+    "synonyms_from_image": [
+      { "word": "deteriorating", "note": "악화되는, 퇴화하는" },
+      { "word": "ineffective", "note": "효과 없는, 무력한" },
+      { "word": "decayed", "note": "부패한, 쇠퇴한" },
+      { "word": "spent", "note": "기력이 다한" },
+      { "word": "enervated", "note": "기운이 빠진" }
+    ],
+    "tips": [
+      "ef-(밖으로) + fete(낳다)에서 왔어. '더 이상 생산할 수 없는' → 기운이 다한, 쇠퇴한.",
+      "GRE에서 자주 나와! '무력해진, 나약한'이라는 뜻을 꼭 기억해둬."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "efficacy",
+    "pos": "n.",
+    "head_meanings": [
+      "효험",
+      "효능",
+      "효용"
+    ],
+    "synonyms_from_image": [
+      { "word": "effectiveness", "note": "효과성" },
+      { "word": "cogency", "note": "설득력, 타당성" },
+      { "word": "urgency", "note": "긴급함, 절박함" },
+      { "word": "usefulness", "note": "유용성" },
+      { "word": "capability", "note": "능력, 역량" },
+      { "word": "potency", "note": "효력, 잠재력" }
+    ],
+    "tips": [
+      "efficacy는 '실제로 효과를 내는 능력'이야. 약의 efficacy = 약효.",
+      "efficiency(효율성)와 헷갈리지 마! efficacy는 '효과가 있느냐', efficiency는 '얼마나 효율적이냐'야."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "efficacious",
+    "pos": "adj.",
+    "head_meanings": [
+      "효과적인",
+      "효능 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "efficacy의 형용사형이야. '실제로 효과를 내는'이라는 뜻이지.",
+      "effective보다 격식적인 표현이야. 주로 의학·학술 맥락에서 많이 써."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "efflorescent",
+    "pos": "adj.",
+    "head_meanings": [
+      "꽃이 피어 있는",
+      "<문명 등이> 개화한",
+      "왕성하는",
+      "발전한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "ef-(밖으로) + flor-(꽃) + -escent(되어가는)야. 꽃이 활짝 피어나는 느낌!",
+      "비유적으로 문화·문명이 '꽃을 피우다, 번성하다'라는 뜻으로 쓰여."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "effrontery",
+    "pos": "n.",
+    "head_meanings": [
+      "뻔뻔스러움"
+    ],
+    "synonyms_from_image": [
+      { "word": "insolence", "note": "건방짐, 무례함" },
+      { "word": "audacity", "note": "대담무쌍함" },
+      { "word": "presumption", "note": "주제넘음, 건방짐" },
+      { "word": "arrogance", "note": "오만함" },
+      { "word": "hubris", "note": "교만, 자만" },
+      { "word": "temerity", "note": "무모한 대담함" },
+      { "word": "nerve", "note": "뻔뻔한 배짱" },
+      { "word": "impudence", "note": "뻔뻔스러움, 건방짐" }
+    ],
+    "tips": [
+      "ef-(밖으로) + front(이마, 앞면)에서 왔어. 이마를 내밀고 뻔뻔하게 나서는 거지!",
+      "GRE 고빈도 단어야. audacity, temerity, impudence와 함께 '뻔뻔함 패밀리'로 외워."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "effusion",
+    "pos": "n.",
+    "head_meanings": [
+      "(액체의) 유출(흘림)",
+      "(언어·감정 따위의) 토로",
+      "분산"
+    ],
+    "synonyms_from_image": [
+      { "word": "pour", "note": "쏟아부음" },
+      { "word": "stream", "note": "줄줄 흐르는 것" },
+      { "word": "spate", "note": "갑자기 쏟아지는 것" },
+      { "word": "flow", "note": "흐름, 유출" }
+    ],
+    "tips": [
+      "ef-(밖으로) + fus-(붓다)야. 감정이나 액체가 밖으로 쏟아져 나오는 거지.",
+      "effusion of blood = 출혈, effusion of gratitude = 감사의 토로. 물리적·감정적 둘 다 가능해."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "effusive",
+    "pos": "adj.",
+    "head_meanings": [
+      "(감정 등) 분출하는",
+      "(심정을) 토로하는",
+      "분출한"
+    ],
+    "synonyms_from_image": [
+      { "word": "emotional", "note": "감정적인" },
+      { "word": "diffuse", "note": "퍼지는, 장황한" },
+      { "word": "outgoing", "note": "외향적인, 사교적인" },
+      { "word": "talkative", "note": "수다스러운" },
+      { "word": "unrestrained", "note": "억제되지 않은" },
+      { "word": "profuse", "note": "넘치는, 풍부한" }
+    ],
+    "tips": [
+      "effusion의 형용사형이야. 감정을 걸러 내지 않고 '와르르' 쏟아내는 느낌.",
+      "effusive praise = 과도한 칭찬. 너무 감정을 쏟아내서 부담스러울 수도 있다는 뉘앙스."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "egalitarian",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "평등주의의",
+      "평등주의자"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "equal(평등한)과 같은 어원이야. 모든 사람이 동등한 권리를 가져야 한다는 사상이지.",
+      "egalitarian society = 평등 사회. GRE 지문에서 사회 이론 다룰 때 자주 나와."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "egoism",
+    "pos": "n.",
+    "head_meanings": [
+      "이기주의",
+      "이기심"
+    ],
+    "synonyms_from_image": [
+      { "word": "pride", "note": "자존심, 자만" },
+      { "word": "vanity", "note": "허영심" },
+      { "word": "conceit", "note": "자만, 자부" },
+      { "word": "self-going", "note": "자기 중심적 태도" },
+      { "word": "self-importance", "note": "자기 과시, 잘난 체" }
+    ],
+    "tips": [
+      "ego(자아) + -ism(주의)이야. 철학에서는 '자기 이익을 도덕의 기초로 보는 윤리설'이야.",
+      "egotism과 헷갈려! egoism은 철학적 이기주의, egotism은 일상적 자기 자랑에 가까워."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "egotism",
+    "pos": "n.",
+    "head_meanings": [
+      "자기중심의 성벽",
+      "자만",
+      "자부",
+      "자기 본위"
+    ],
+    "synonyms_from_image": [
+      { "word": "selfishness", "note": "이기심" },
+      { "word": "vainness", "note": "허영, 자만" },
+      { "word": "boasting", "note": "자랑, 허풍" },
+      { "word": "self-pride", "note": "자존심, 자부심" },
+      { "word": "arrogance", "note": "오만함" }
+    ],
+    "tips": [
+      "ego(자아) + -tism이야. '나나나' 하면서 자기 얘기만 하는 사람을 떠올려봐.",
+      "egoism보다 더 일상적이고 부정적인 느낌이야. '잘난 척, 자기 자랑'에 가까워."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "egregious",
+    "pos": "adj.",
+    "head_meanings": [
+      "지독한",
+      "언어 도단의",
+      "얼토당토 않는",
+      "어처구니 없는"
+    ],
+    "synonyms_from_image": [
+      { "word": "flagrant", "note": "노골적으로 나쁜" },
+      { "word": "bad", "note": "나쁜" },
+      { "word": "excessive", "note": "과도한" },
+      { "word": "outright", "note": "완전한, 노골적인" },
+      { "word": "stark", "note": "극명한, 완전한" },
+      { "word": "intolerable", "note": "참을 수 없는" },
+      { "word": "outrageous", "note": "터무니없는, 분노케 하는" },
+      { "word": "extreme", "note": "극단적인" },
+      { "word": "gross", "note": "심한, 역겨운" }
+    ],
+    "tips": [
+      "e-(밖으로) + greg-(무리)에서 왔어. 무리에서 튀어나올 만큼 '두드러지게 나쁜' 거야!",
+      "GRE 필수 단어! 항상 부정적 의미로 쓰여. egregious error = 너무 심한 실수."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "elaboration",
+    "pos": "n.",
+    "head_meanings": [
+      "고심하여 만들어냄",
+      "공들임",
+      "복잡함",
+      "정교",
+      "면밀",
+      "고심작",
+      "노작",
+      "상술",
+      "(추가한) 상세한 말",
+      "(생리)합성"
+    ],
+    "synonyms_from_image": [
+      { "word": "particularity", "note": "세부 사항, 꼼꼼함" },
+      { "word": "clarification", "note": "명확한 설명" },
+      { "word": "exquisiteness", "note": "정교함, 섬세함" }
+    ],
+    "tips": [
+      "elaborate(정교하게 만들다)의 명사형이야. '자세한 설명'이나 '정교한 작업'을 뜻해.",
+      "Could you provide some elaboration? = 좀 더 자세히 설명해 주시겠어요? 이런 식으로 써."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "elegant",
+    "pos": "adj.",
+    "head_meanings": [
+      "품위 있는",
+      "우아한",
+      "고상한",
+      "(예술 문학 등이) 기품 있는",
+      "격조 높은",
+      "훌륭한",
+      "멋진",
+      "명쾌한"
+    ],
+    "synonyms_from_image": [
+      { "word": "stylish", "note": "세련된, 멋스러운" },
+      { "word": "graceful", "note": "우아한, 품위 있는" },
+      { "word": "sophisticated", "note": "세련된, 교양 있는" },
+      { "word": "chic", "note": "시크한, 세련된" },
+      { "word": "fashionable", "note": "유행하는, 멋진" },
+      { "word": "modish", "note": "최신 유행의" },
+      { "word": "refined", "note": "세련된, 고상한" },
+      { "word": "dignified", "note": "위엄 있는, 품위 있는" },
+      { "word": "aesthetic", "note": "미적인, 심미적인" },
+      { "word": "cultivated", "note": "교양 있는, 세련된" },
+      { "word": "polished", "note": "다듬어진, 세련된" },
+      { "word": "cultured", "note": "교양 있는" },
+      { "word": "debonair", "note": "상냥하고 세련된" },
+      { "word": "suave", "note": "부드럽고 세련된" },
+      { "word": "urbane", "note": "도시적으로 세련된" },
+      { "word": "neat", "note": "깔끔한, 정돈된" },
+      { "word": "simple", "note": "간결한, 단순한" },
+      { "word": "effective", "note": "효과적인" },
+      { "word": "ingenious", "note": "기발한, 독창적인" },
+      { "word": "clever", "note": "영리한, 기발한" },
+      { "word": "deft", "note": "솜씨 좋은, 능숙한" },
+      { "word": "intelligent", "note": "지적인" },
+      { "word": "inventive", "note": "창의적인" }
+    ],
+    "tips": [
+      "elegant는 '외모의 우아함'뿐 아니라 '해법이 명쾌한'이라는 뜻도 있어. elegant solution = 깔끔한 해법.",
+      "동의어가 정말 많은 단어야. 문맥에 따라 '세련된/품위 있는/명쾌한' 중에 골라 해석해."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "elastic",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "탄성 있는",
+      "탄력적인",
+      "변동 가능한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "고무줄처럼 늘었다 줄었다 하는 거야. 비유적으로 '유연한, 융통성 있는'이라는 뜻도 돼.",
+      "elastic demand(탄력적 수요)처럼 경제학에서도 많이 쓰이는 단어야."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "elated",
+    "pos": "adj.",
+    "head_meanings": [
+      "신이 난",
+      "우쭐대는",
+      "의기양양한"
+    ],
+    "synonyms_from_image": [
+      { "word": "jubilant", "note": "환호하는, 기뻐 날뛰는" },
+      { "word": "exalted", "note": "높아진, 고양된" },
+      { "word": "exhilarated", "note": "매우 기분 좋은" },
+      { "word": "ecstatic", "note": "황홀한" },
+      { "word": "blissful", "note": "더없이 행복한" }
+    ],
+    "tips": [
+      "e-(밖으로) + lat-(나르다)에서 왔어. 기분이 하늘 위로 날아오르는 느낌!",
+      "elated at/by/with 형태로 많이 써. He was elated at the news. = 그 소식에 신이 났다."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "elegy",
+    "pos": "n.",
+    "head_meanings": [
+      "(남의 죽음을 애도하는) 애가",
+      "(명상적인) 비가"
+    ],
+    "synonyms_from_image": [
+      { "word": "requiem", "note": "진혼곡, 레퀴엠" },
+      { "word": "funeral song", "note": "장례식 노래" },
+      { "word": "lament for the dead", "note": "죽은 이를 위한 애도" }
+    ],
+    "tips": [
+      "elegy는 '죽은 사람을 그리워하며 쓴 시'야. 슬프고 애틋한 분위기.",
+      "eulogy(추도사)와 헷갈리지 마! elegy는 '시', eulogy는 '추모 연설'이야."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "elegiac",
+    "pos": "adj.",
+    "head_meanings": [
+      "애가의",
+      "애수적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "elegy의 형용사형이야. '슬프고 애절한' 분위기를 묘사할 때 써.",
+      "elegiac tone = 애수 어린 어조. 문학 비평에서 자주 나오는 표현이야."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "elevated",
+    "pos": "adj.",
+    "head_meanings": [
+      "고상한",
+      "고귀한",
+      "<사상이> 숭고한",
+      "의기양양한",
+      "우쭐한",
+      "쾌활한",
+      "(병 등 지면보다) 높은"
+    ],
+    "synonyms_from_image": [
+      { "word": "raised", "note": "높인, 올려진" },
+      { "word": "aloft", "note": "높이, 위로" },
+      { "word": "lofty", "note": "매우 높은, 고결한" },
+      { "word": "exalted", "note": "고귀한, 숭고한" },
+      { "word": "sublime", "note": "숭고한, 장엄한" },
+      { "word": "bombastic", "note": "거창한, 과장된" },
+      { "word": "orotund", "note": "거창한 (말투)" },
+      { "word": "pompous", "note": "허세 부리는, 거만한" },
+      { "word": "inflated", "note": "부풀려진, 과장된" },
+      { "word": "high", "note": "높은" },
+      { "word": "eminent", "note": "저명한, 뛰어난" },
+      { "word": "grand", "note": "웅장한, 위대한" },
+      { "word": "noble", "note": "고귀한, 숭고한" }
+    ],
+    "tips": [
+      "elevate(높이다)의 과거분사형이야. '물리적으로 높은' + '정신적으로 고상한' 두 뜻 다 있어.",
+      "elevated language = 격식 높은 언어. 때로는 '과장된, 허세 부리는' 부정적 뉘앙스도 있어."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "elicit",
+    "pos": "v.",
+    "head_meanings": [
+      "(진리 등을 논리적으로) 도출하다",
+      "이끌어 내다",
+      "자아내다",
+      "(사실, 대답, 웃음 등을) 유도해 내다"
+    ],
+    "synonyms_from_image": [
+      { "word": "draw", "note": "끌어내다" },
+      { "word": "evoke", "note": "감정·기억을 불러일으키다" },
+      { "word": "induce", "note": "유도하다, 이끌어 내다" },
+      { "word": "prompt", "note": "촉발하다, 유발하다" },
+      { "word": "call up", "note": "불러내다" },
+      { "word": "summon up", "note": "불러 모으다" },
+      { "word": "bring out", "note": "꺼내다, 드러내다" },
+      { "word": "extract", "note": "추출하다, 뽑아내다" },
+      { "word": "engender", "note": "야기하다, 발생시키다" },
+      { "word": "trigger", "note": "촉발하다" },
+      { "word": "educe", "note": "끌어내다, 추론하다" }
+    ],
+    "tips": [
+      "e-(밖으로) + licit(유인하다)에서 왔어. 숨겨진 것을 밖으로 '끌어내는' 거야.",
+      "GRE 필수! elicit a response = 반응을 이끌어 내다. evoke와 비슷하지만 더 의도적인 느낌."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "elision",
+    "pos": "n.",
+    "head_meanings": [
+      "[문법] (모음, 음절 등의) 생략",
+      "<일반적으로> 삭제",
+      "탈락"
+    ],
+    "synonyms_from_image": [
+      { "word": "lacuna", "note": "빠진 부분, 공백" }
+    ],
+    "tips": [
+      "elidere(부딪쳐 빼다)에서 왔어. 발음할 때 음절을 빼먹는 거야. I'm = I am의 elision.",
+      "문학·언어학 지문에서 나올 수 있어. '의도적 생략·삭제'라는 넓은 뜻도 있어."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "elitism",
+    "pos": "n.",
+    "head_meanings": [
+      "정예주의",
+      "엘리트주의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "elite(엘리트) + -ism(주의)이야. 소수 엘리트가 지배해야 한다는 사상이지.",
+      "보통 부정적 뉘앙스로 쓰여. '특권의식, 선민의식'에 가까운 느낌."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "elixir",
+    "pos": "n.",
+    "head_meanings": [
+      "만병통치약",
+      "정수",
+      "진수"
+    ],
+    "synonyms_from_image": [
+      { "word": "remedy for every ill", "note": "모든 병을 고치는 약" },
+      { "word": "panacea", "note": "만병통치약" },
+      { "word": "nostrum", "note": "비법약, 만능약" },
+      { "word": "therapy", "note": "치료법" }
+    ],
+    "tips": [
+      "중세 연금술사들이 찾던 '불로장생의 묘약'이야. elixir of life = 불로장생약.",
+      "비유적으로 '핵심 정수, 특효약' 같은 뜻으로도 써. panacea와 함께 외워두면 좋아."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "ellipsis",
+    "pos": "n.",
+    "head_meanings": [
+      "(문법)생략(법)",
+      "생략부호"
+    ],
+    "synonyms_from_image": [
+      { "word": "abbreviation", "note": "축약, 줄임" },
+      { "word": "reduced form", "note": "축소된 형태" },
+      { "word": "shortening", "note": "단축, 줄임" },
+      { "word": "clipping", "note": "잘라냄, 축약" },
+      { "word": "cutting", "note": "잘라냄" }
+    ],
+    "tips": [
+      "...이 바로 ellipsis야! 문장에서 말을 줄이거나 생략할 때 쓰는 부호이자 기법이지.",
+      "복수형은 ellipses야. 문법·수사학에서 자주 나오는 개념이야."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "elliptical",
+    "pos": "adj.",
+    "head_meanings": [
+      "타원의",
+      "장원의",
+      "생략한",
+      "생략적인",
+      "알기 어려운"
+    ],
+    "synonyms_from_image": [
+      { "word": "ellipsoidal", "note": "타원체의" },
+      { "word": "ovular", "note": "달걀 모양의" },
+      { "word": "curved", "note": "곡선의" },
+      { "word": "rounded", "note": "둥근" },
+      { "word": "abbreviating", "note": "축약하는" }
+    ],
+    "tips": [
+      "두 가지 뜻이 있어! ①타원형의 ②(말이) 생략이 많아 알기 어려운. GRE에서는 ②가 중요해.",
+      "elliptical writing = 생략이 많은 글. 핵심만 남기고 나머지를 다 빼버린 느낌이야."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "elongate",
+    "pos": "v.",
+    "head_meanings": [
+      "길게 하다",
+      "연장하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "e-(밖으로) + long(긴) + -ate(동사)야. 말 그대로 '길게 늘리다'!",
+      "elongated shadows = 길게 늘어진 그림자. 형용사형 elongated도 자주 써."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "eloquence",
+    "pos": "n.",
+    "head_meanings": [
+      "설득력",
+      "웅변",
+      "능변",
+      "달변",
+      "유창한 이야기",
+      "감동시키는 말",
+      "수사"
+    ],
+    "synonyms_from_image": [
+      { "word": "oratory", "note": "웅변술" },
+      { "word": "persuasion", "note": "설득(력)" },
+      { "word": "forcefulness", "note": "힘 있는 표현력" },
+      { "word": "fluency", "note": "유창함" }
+    ],
+    "tips": [
+      "eloquent(유창한, 달변의)의 명사형이야. '말로 사람을 감동시키는 능력'을 뜻해.",
+      "GRE에서 수사학 관련 지문에 자주 나와. rhetoric과 연결해서 기억해둬."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "elucidate",
+    "pos": "v.",
+    "head_meanings": [
+      "(사실 의도)를 명백히 하다",
+      "명료하게 하다",
+      "밝히다",
+      "설명하다",
+      "해명하다",
+      "천명하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "make clear", "note": "명확하게 하다" },
+      { "word": "expound", "note": "상세히 설명하다" },
+      { "word": "spell out", "note": "자세히 풀어서 말하다" },
+      { "word": "illustrate", "note": "예를 들어 설명하다" },
+      { "word": "clarify", "note": "분명히 하다" }
+    ],
+    "tips": [
+      "e-(밖으로) + lucid(명확한) + -ate(동사)야. 어둠을 빛으로 밝히듯 명확하게 만드는 거지!",
+      "GRE 고빈도 단어야. clarify보다 격식적인 표현이고, 학술적 맥락에서 많이 써."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "elude",
+    "pos": "v.",
+    "head_meanings": [
+      "<위험, 추적, 추궁, 법률, 의무 등을> 잘 피하다",
+      "교묘하게 벗어나다",
+      "<사물이> <사람에게> 이해되지 않다",
+      "관점을 붙잡을 수 없다"
+    ],
+    "synonyms_from_image": [
+      { "word": "shy away (from)", "note": "피하다, 움츠리다" },
+      { "word": "evade", "note": "회피하다, 피하다" },
+      { "word": "avoid", "note": "피하다" },
+      { "word": "dodge", "note": "재빨리 피하다" },
+      { "word": "escape from", "note": "~에서 탈출하다" },
+      { "word": "shun", "note": "의도적으로 피하다" },
+      { "word": "shirk", "note": "의무를 회피하다" }
+    ],
+    "tips": [
+      "e-(밖으로) + lude(놀다)에서 왔어. 교묘하게 '놀듯이' 빠져나가는 느낌!",
+      "The answer eludes me. = 답이 떠오르지 않는다. '이해가 안 되다'라는 뜻도 중요해."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "elusive",
+    "pos": "adj.",
+    "head_meanings": [
+      "(교묘히) 회피하는",
+      "알 수 없는",
+      "이해하기 어려운",
+      "잡히지 않는"
+    ],
+    "synonyms_from_image": [
+      { "word": "slippery", "note": "미끄러지듯 잡기 어려운" },
+      { "word": "evasive", "note": "교묘히 피하는" },
+      { "word": "elusory", "note": "잡히지 않는" },
+      { "word": "shirking", "note": "회피하는" },
+      { "word": "intangible", "note": "만질 수 없는, 감지 어려운" },
+      { "word": "imponderable", "note": "측정하기 어려운" },
+      { "word": "incomprehensible", "note": "이해할 수 없는" }
+    ],
+    "tips": [
+      "elude의 형용사형이야. '잡으려 해도 자꾸 빠져나가는' 느낌을 기억해.",
+      "elusive dream = 잡히지 않는 꿈. GRE에서 정말 자주 나오는 고빈도 단어야!"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "elysian",
+    "pos": "adj.",
+    "head_meanings": [
+      "지복의",
+      "더할 나위 없이 즐거운"
+    ],
+    "synonyms_from_image": [
+      { "word": "delightful", "note": "매우 즐거운" },
+      { "word": "heavenly", "note": "천국 같은" },
+      { "word": "happy", "note": "행복한" }
+    ],
+    "tips": [
+      "그리스 신화의 Elysium(엘리시움, 낙원)에서 왔어. 죽은 영웅들이 가는 행복한 세계야.",
+      "elysian fields = 낙원, 극락. 문학·시 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "emaciated",
+    "pos": "adj.",
+    "head_meanings": [
+      "야윈",
+      "쇠약한",
+      "마른"
+    ],
+    "synonyms_from_image": [
+      { "word": "cadaverous", "note": "시체 같이 야윈" },
+      { "word": "skeletal", "note": "뼈만 남은 듯한" },
+      { "word": "peaked", "note": "야윈, 핼쑥한" },
+      { "word": "starved", "note": "굶주린" },
+      { "word": "sickly", "note": "병약한" },
+      { "word": "lean", "note": "야윈, 군살 없는" }
+    ],
+    "tips": [
+      "e-(밖으로) + maciare(마르게 하다)에서 왔어. 살이 쪽 빠져서 뼈만 남은 상태야.",
+      "단순히 '마른'이 아니라 '병이나 굶주림으로 극도로 야윈' 심각한 상태를 뜻해."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "emanate",
+    "pos": "v.",
+    "head_meanings": [
+      "발산하다",
+      "퍼지다",
+      "나오다"
+    ],
+    "synonyms_from_image": [
+      { "word": "come after", "note": "뒤따라 나오다" },
+      { "word": "emerge", "note": "나타나다, 드러나다" },
+      { "word": "radiate", "note": "방사하다, 뿜어내다" },
+      { "word": "result", "note": "결과로 나오다" },
+      { "word": "rise", "note": "솟아오르다" }
+    ],
+    "tips": [
+      "e-(밖으로) + manare(흐르다)에서 왔어. 빛·냄새·소리 등이 '발산되어 나오는' 거야.",
+      "A strange smell emanated from the room. 이런 식으로 from과 같이 많이 써."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "emancipate",
+    "pos": "v.",
+    "head_meanings": [
+      "해방하다",
+      "석방하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "liberate", "note": "자유롭게 하다" },
+      { "word": "free", "note": "풀어주다, 해방하다" },
+      { "word": "deliver", "note": "구출하다" },
+      { "word": "rescue", "note": "구조하다" },
+      { "word": "release", "note": "석방하다, 놓아주다" },
+      { "word": "manumit", "note": "노예를 해방하다" }
+    ],
+    "tips": [
+      "e-(밖으로) + manus(손) + capere(잡다)에서 왔어. 손아귀에서 벗어나게 해주는 거야!",
+      "Emancipation Proclamation = 노예해방선언. 링컨 대통령의 그 유명한 선언!"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "emancipation",
+    "pos": "n.",
+    "head_meanings": [
+      "해방",
+      "석방"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "emancipate의 명사형이야. '속박에서 풀려남'을 뜻해.",
+      "여성 해방(women's emancipation), 노예 해방 등 역사·사회 지문에서 자주 나와."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "embark",
+    "pos": "v.",
+    "head_meanings": [
+      "(사람이) 나서다",
+      "착수하다",
+      "(…을 배·비행기 따위에) 태우다",
+      "…에 승선시키다",
+      "탑승시키다"
+    ],
+    "synonyms_from_image": [
+      { "word": "start", "note": "시작하다" },
+      { "word": "commence", "note": "개시하다 (격식)" },
+      { "word": "undertake", "note": "맡아서 하다" },
+      { "word": "board", "note": "탑승하다" },
+      { "word": "entrain", "note": "기차에 타다" }
+    ],
+    "tips": [
+      "em-(안으로) + bark(배)야. 배에 올라타다 → 새로운 일에 착수하다!",
+      "embark on/upon ~으로 많이 써. embark on a new career = 새 직업에 뛰어들다."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "embarrass",
+    "pos": "v.",
+    "head_meanings": [
+      "당황하게 하다",
+      "난처하게 만들다",
+      "불쾌하게 하다",
+      "(운동, 행동 등을) 방해하다",
+      "(기능 등) 저해하다",
+      "이해하기 어렵게하다",
+      "…을 (금전 문제로) 곤궁하게 하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "upset", "note": "당황하게 하다" },
+      { "word": "disconcert", "note": "당혹하게 하다" },
+      { "word": "discompose", "note": "마음을 어지럽히다" },
+      { "word": "confuse", "note": "혼란스럽게 하다" },
+      { "word": "agitate", "note": "동요시키다" },
+      { "word": "distress", "note": "괴롭히다" },
+      { "word": "shame", "note": "부끄럽게 하다" },
+      { "word": "humiliate", "note": "굴욕을 주다" },
+      { "word": "mortify", "note": "크게 창피를 주다" },
+      { "word": "abash", "note": "무안하게 하다" },
+      { "word": "chagrin", "note": "분하고 부끄럽게 하다" },
+      { "word": "discomfit", "note": "당혹하게 하다" },
+      { "word": "discountenance", "note": "면목을 잃게 하다" }
+    ],
+    "tips": [
+      "원래 '방해하다, 곤란하게 하다'에서 온 말이야. 지금은 '창피하게 하다'가 주된 뜻.",
+      "financially embarrassed = 돈이 궁한. 이 오래된 뜻도 GRE에 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "embed",
+    "pos": "v.",
+    "head_meanings": [
+      "[물건을] 깊숙이 박다",
+      "파묻다",
+      "(마음을) 깊이 새겨두다",
+      "깊이 간직하다",
+      "…을 꽂아끼워 넣다",
+      "묻다"
+    ],
+    "synonyms_from_image": [
+      { "word": "implant", "note": "심다, 이식하다" },
+      { "word": "lodge", "note": "박히다, 끼이다" },
+      { "word": "insert", "note": "삽입하다" },
+      { "word": "include", "note": "포함시키다" },
+      { "word": "inject", "note": "주입하다" },
+      { "word": "infuse", "note": "스며들게 하다" }
+    ],
+    "tips": [
+      "em-(안으로) + bed(바닥)이야. 바닥에 깊숙이 박아 넣는 거지!",
+      "IT에서 embed는 '코드나 미디어를 삽입하다'라는 뜻으로 많이 써. embedded system = 임베디드 시스템."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "embellish",
+    "pos": "v.",
+    "head_meanings": [
+      "장식하다",
+      "아름답게 꾸미다",
+      "(이야기 따위를) 윤색하다",
+      "수식하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "beautify", "note": "아름답게 하다" },
+      { "word": "elaborate", "note": "정교하게 꾸미다" },
+      { "word": "decorate", "note": "장식하다" },
+      { "word": "garnish", "note": "장식을 곁들이다" },
+      { "word": "ornament", "note": "장식하다" },
+      { "word": "trim", "note": "장식을 달다, 다듬다" }
+    ],
+    "tips": [
+      "em-(만들다) + bell-(아름다운)에서 왔어. '아름답게 만들다'가 원래 뜻이야.",
+      "GRE에서는 '이야기를 윤색하다(과장하다)' 뜻이 중요해. embellish the truth = 사실을 부풀리다."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "embellishment",
+    "pos": "n.",
+    "head_meanings": [
+      "장식"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "embellish의 명사형이야. '장식' 또는 '윤색, 과장'이라는 뜻이지.",
+      "without embellishment = 과장 없이, 있는 그대로. 사실만 말할 때 쓰는 표현이야."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "embezzlement",
+    "pos": "n.",
+    "head_meanings": [
+      "착복",
+      "횡령"
+    ],
+    "synonyms_from_image": [
+      { "word": "misuse", "note": "남용, 오용" },
+      { "word": "theft", "note": "도둑질, 절도" },
+      { "word": "mishandling", "note": "부당한 취급" },
+      { "word": "misemployment", "note": "부당 사용" },
+      { "word": "defalcation", "note": "공금 횡령" },
+      { "word": "misappropriation", "note": "유용, 착복" }
+    ],
+    "tips": [
+      "맡겨진 돈이나 재산을 몰래 빼돌리는 거야. 일반 절도와 달리 '신뢰를 악용한 범죄'야.",
+      "embezzle(횡령하다)가 동사형이야. 법률·비즈니스 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "emblematic",
+    "pos": "adj.",
+    "head_meanings": [
+      "상징의",
+      "상징적인",
+      "(..을) 상징하는"
+    ],
+    "synonyms_from_image": [
+      { "word": "totemic", "note": "토템적인, 상징적인" },
+      { "word": "symbolic", "note": "상징적인" }
+    ],
+    "tips": [
+      "emblem(상징, 문장)의 형용사형이야. '~을 대표하는, 상징하는'이라는 뜻.",
+      "emblematic of ~으로 많이 써. This is emblematic of the era. = 이것은 그 시대를 상징한다."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "emblem",
+    "pos": "n.",
+    "head_meanings": [
+      "상징"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "emblem은 '조직·개념을 대표하는 상징물'이야. national emblem = 국가 문장(紋章).",
+      "symbol보다 좀 더 '공식적인 마크·로고' 느낌이 강해."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "embody",
+    "pos": "v.",
+    "head_meanings": [
+      "구체화하다",
+      "구현하다",
+      "포함하다",
+      "통합하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "em-(안으로) + body(몸)야. 추상적인 것을 '몸'으로 만들어 구체화하는 거지!",
+      "She embodies grace. = 그녀는 우아함의 화신이다. '체현하다'라는 뜻으로 자주 써."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "embolden",
+    "pos": "v.",
+    "head_meanings": [
+      "<남을> 대담하게 만들다",
+      "<남을> ...하도록 격려하다",
+      "용기를 불어 넣어 주다"
+    ],
+    "synonyms_from_image": [
+      { "word": "fortify", "note": "강화하다, 용기를 주다" },
+      { "word": "make brave", "note": "용감하게 만들다" },
+      { "word": "encourage", "note": "격려하다, 용기를 주다" },
+      { "word": "hearten", "note": "기운을 북돋우다" },
+      { "word": "strengthen", "note": "강화하다" },
+      { "word": "stimulate", "note": "자극하다, 고무하다" },
+      { "word": "cheer", "note": "응원하다, 격려하다" },
+      { "word": "rally", "note": "다시 힘을 모으다" },
+      { "word": "animate", "note": "활기를 불어넣다" },
+      { "word": "inspirit", "note": "용기를 불어넣다" },
+      { "word": "invigorate", "note": "활력을 주다" }
+    ],
+    "tips": [
+      "em-(만들다) + bold(대담한) + -en(동사)이야. '대담하게 만들다'라는 뜻이 그대로 담겨 있어.",
+      "Emboldened by success, he tried again. = 성공에 용기를 얻어 다시 도전했다. 이런 패턴 자주 나와."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "embrace",
+    "pos": "v./n.",
+    "head_meanings": [
+      "기꺼이 받아들이다",
+      "채택하다",
+      "포괄하다",
+      "둘러싸다",
+      "포옹하다",
+      "껴안다",
+      "갈망하다",
+      "흔쾌히 승낙하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "welcome", "note": "환영하다" },
+      { "word": "adopt", "note": "채택하다, 받아들이다" },
+      { "word": "espouse", "note": "지지하다, 옹호하다" },
+      { "word": "support", "note": "지지하다" },
+      { "word": "champion", "note": "옹호하다, 지지하다" },
+      { "word": "include", "note": "포함하다" },
+      { "word": "encompass", "note": "포괄하다" },
+      { "word": "hug", "note": "껴안다" }
+    ],
+    "tips": [
+      "GRE에서는 '포옹하다'보다 '기꺼이 받아들이다, 포괄하다'라는 뜻이 훨씬 중요해!",
+      "embrace change = 변화를 받아들이다. embrace a wide range of = 광범위하게 포괄하다."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "embryonic",
+    "pos": "adj.",
+    "head_meanings": [
+      "태아의",
+      "배태아의",
+      "발달이 되지 않은",
+      "미발달의",
+      "초기의",
+      "배아기의",
+      "미숙한",
+      "무르익지 않은"
+    ],
+    "synonyms_from_image": [
+      { "word": "rudimentary", "note": "초보적인, 기초적인" },
+      { "word": "germinal", "note": "싹트는, 초기의" },
+      { "word": "beginning", "note": "시작 단계의" },
+      { "word": "incipient", "note": "초기의, 발단의" },
+      { "word": "incomplete", "note": "불완전한" },
+      { "word": "immature", "note": "미성숙한" }
+    ],
+    "tips": [
+      "embryo(배아, 태아)의 형용사형이야. '아직 완전히 발달하지 않은 초기 단계'를 뜻해.",
+      "embryonic stage = 초기 단계. 계획이나 프로젝트가 아직 형태를 갖추지 못했을 때 써."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "emend",
+    "pos": "v.",
+    "head_meanings": [
+      "교정하다",
+      "수정하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "amend", "note": "수정하다, 개정하다" },
+      { "word": "revise", "note": "개정하다, 수정하다" },
+      { "word": "polish", "note": "다듬다, 연마하다" },
+      { "word": "redress", "note": "바로잡다" },
+      { "word": "right", "note": "바로잡다" },
+      { "word": "rectify", "note": "교정하다, 시정하다" },
+      { "word": "remedy", "note": "고치다, 치료하다" }
+    ],
+    "tips": [
+      "amend와 헷갈려! emend는 '텍스트·원고의 오류를 고치다'에 특화된 단어야.",
+      "amend는 법률·규칙을 '개정하다', emend는 글의 '오자·탈자를 교정하다'. 범위가 달라!"
+    ]
+  },
+  {
+    "id": "080",
+    "word": "emendation",
+    "pos": "n.",
+    "head_meanings": [
+      "교정",
+      "수정",
+      "교정한 것"
+    ],
+    "synonyms_from_image": [
+      { "word": "revision", "note": "수정, 개정" },
+      { "word": "correction", "note": "정정, 교정" },
+      { "word": "amendment", "note": "수정, 개정" }
+    ],
+    "tips": [
+      "emend의 명사형이야. 텍스트를 교정한 것이나 교정 행위 자체를 가리켜.",
+      "학술 지문에서 원전 교정을 다룰 때 나올 수 있어. textual emendation = 본문 교정."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "eminent",
+    "pos": "adj.",
+    "head_meanings": [
+      "신분이 높은",
+      "고위의",
+      "저명한",
+      "뛰어난"
+    ],
+    "synonyms_from_image": [
+      { "word": "authoritative", "note": "권위 있는" },
+      { "word": "exalted", "note": "고귀한, 높은" },
+      { "word": "famous", "note": "유명한" },
+      { "word": "important", "note": "중요한" },
+      { "word": "prominent", "note": "두드러진, 저명한" },
+      { "word": "superior", "note": "우수한, 상위의" },
+      { "word": "notable", "note": "주목할 만한" }
+    ],
+    "tips": [
+      "imminent(임박한), eminent(저명한), immanent(내재하는) — 이 세 개 반드시 구분해!",
+      "eminent domain = 토지수용권. 법학 지문에서 나올 수 있는 표현이야."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "empathy",
+    "pos": "n.",
+    "head_meanings": [
+      "(배역 등에의) 감정 이입",
+      "(남에 대한) 공감",
+      "이해"
+    ],
+    "synonyms_from_image": [
+      { "word": "sympathy", "note": "동정, 연민" },
+      { "word": "compassion", "note": "깊은 동정심" },
+      { "word": "understanding", "note": "이해, 공감" }
+    ],
+    "tips": [
+      "em-(안으로) + pathy(감정)야. 상대방의 감정 '안으로' 들어가는 거지!",
+      "sympathy(동정)와 다른 점: empathy는 '상대의 입장에서 느끼는 것', sympathy는 '불쌍히 여기는 것'."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "empirical",
+    "pos": "adj.",
+    "head_meanings": [
+      "경험적",
+      "경험상의",
+      "경험주의의",
+      "실증적인",
+      "경험(실험)에 의한"
+    ],
+    "synonyms_from_image": [
+      { "word": "experimental", "note": "실험에 의한" },
+      { "word": "practical", "note": "실용적인, 실제적인" },
+      { "word": "experiential", "note": "경험에 기초한" },
+      { "word": "pragmatic", "note": "실용주의적인" },
+      { "word": "first-hand", "note": "직접 경험한" },
+      { "word": "observed", "note": "관찰된" },
+      { "word": "seen", "note": "목격된" }
+    ],
+    "tips": [
+      "empirical evidence = 경험적 증거. 이론이 아니라 실험·관찰로 얻은 데이터를 말해.",
+      "GRE 과학 지문 단골 단어야! theoretical(이론적인)의 반대 개념으로 기억해."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "empiricism",
+    "pos": "n.",
+    "head_meanings": [
+      "경험주의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "empirical의 명사형이야. 지식은 경험을 통해서만 얻을 수 있다는 철학 사조.",
+      "rationalism(합리주의)과 대비되는 개념이야. 로크, 흄 같은 철학자들이 대표적."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "empower",
+    "pos": "v.",
+    "head_meanings": [
+      "(법률상) ...에게 권능을 부여하다",
+      "...할 권력을 위임하다",
+      "...할 수 있도록 하다",
+      "...할 능력을 주다",
+      "...할 것을 ...에게 허용하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "authorize", "note": "권한을 부여하다" },
+      { "word": "entitle", "note": "자격을 주다" },
+      { "word": "permit", "note": "허가하다" },
+      { "word": "allow", "note": "허용하다" },
+      { "word": "license", "note": "면허를 주다" },
+      { "word": "sanction", "note": "공식 허가하다" },
+      { "word": "warrant", "note": "정당한 근거를 주다" },
+      { "word": "commission", "note": "위임하다" },
+      { "word": "delegate", "note": "위임하다, 대리를 세우다" },
+      { "word": "qualify", "note": "자격을 갖추게 하다" },
+      { "word": "enable", "note": "가능하게 하다" },
+      { "word": "equip", "note": "갖추게 하다" },
+      { "word": "emancipate", "note": "해방하다" },
+      { "word": "unshackle", "note": "족쇄를 풀다" },
+      { "word": "set free", "note": "자유롭게 하다" },
+      { "word": "liberate", "note": "해방하다" }
+    ],
+    "tips": [
+      "em-(만들다) + power(힘)야. 힘을 불어넣어 주는 거지. 요즘 아주 자주 쓰이는 단어!",
+      "women empowerment = 여성 역량 강화. 사회·정치 지문에서 정말 많이 나와."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "emulate",
+    "pos": "v.",
+    "head_meanings": [
+      "...의 경쟁하다",
+      "(우열의) 다투다",
+      "모방하다",
+      "열심히 흉내내다",
+      "...에 필적하다"
+    ],
+    "synonyms_from_image": [
+      { "word": "compete", "note": "경쟁하다" },
+      { "word": "vie with", "note": "겨루다" },
+      { "word": "follow", "note": "따르다, 본받다" },
+      { "word": "copy", "note": "모방하다" },
+      { "word": "imitate", "note": "흉내 내다" },
+      { "word": "mimic", "note": "모방하다" },
+      { "word": "match", "note": "필적하다" },
+      { "word": "parallel", "note": "비등하다, 나란히 하다" }
+    ],
+    "tips": [
+      "emulate는 단순 '따라하기'가 아니라 '능가하려고 따라하는' 거야. 경쟁심이 담긴 모방!",
+      "IT에서는 emulator가 '다른 시스템을 흉내 내는 프로그램'이라는 뜻이야."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "emulation",
+    "pos": "n.",
+    "head_meanings": [
+      "경쟁, 모방"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "emulate의 명사형이야. '경쟁적 모방'이라는 뜻이지.",
+      "in emulation of = ~을 따라서, ~을 본받아. 격식체에서 쓰이는 표현이야."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "enamored",
+    "pos": "adj.",
+    "head_meanings": [
+      "반한",
+      "매혹된",
+      "사랑에 빠진"
+    ],
+    "synonyms_from_image": [
+      { "word": "favored", "note": "호의를 보이는" },
+      { "word": "charmed", "note": "매료된" },
+      { "word": "fond of", "note": "좋아하는" },
+      { "word": "fascinated", "note": "매혹된" },
+      { "word": "smitten", "note": "홀딱 반한" },
+      { "word": "mashed", "note": "완전히 빠진 (구어체)" }
+    ],
+    "tips": [
+      "enamor(반하게 하다)의 과거분사형이야. be enamored of/with = ~에 반하다, 빠지다.",
+      "사람뿐 아니라 아이디어·장소에도 써. She was enamored of the city. = 그 도시에 반했다."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "enamor",
+    "pos": "v.",
+    "head_meanings": [
+      "...을 (...으로) 반하게 하다",
+      "매혹하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "en-(만들다) + amor(사랑)에서 왔어. '사랑에 빠지게 만들다'라는 뜻이야.",
+      "주로 수동태 be enamored of로 쓰여. 능동태보다 수동태가 훨씬 자주 나와."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "encapsulate",
+    "pos": "v.",
+    "head_meanings": [
+      "요약하다",
+      "캡슐에 싸다",
+      "(캡슐에 싸듯이) 조심스럽게 보호하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "en-(안에) + capsule(캡슐) + -ate(동사)야. 캡슐 안에 넣듯 '핵심을 압축해서 담는' 거지.",
+      "This sentence encapsulates the theme. = 이 문장이 주제를 요약한다. 학술 글에서 유용해."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "enchant",
+    "pos": "v.",
+    "head_meanings": [
+      "마음을 사로잡다",
+      "...을 (...로) 매혹하다",
+      "요술을 걸다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "en-(안으로) + chant(노래)에서 왔어. 주문을 외워 마법을 거는 것처럼 매혹하는 거야!",
+      "enchanted forest = 마법의 숲. 동화에서 자주 나오는 표현이지."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "enchanting",
+    "pos": "adj.",
+    "head_meanings": [
+      "매혹적인",
+      "황홀하게 하는"
+    ],
+    "synonyms_from_image": [
+      { "word": "captivating", "note": "사로잡는, 매혹적인" },
+      { "word": "attractive", "note": "매력적인" },
+      { "word": "appealing", "note": "마음을 끄는" },
+      { "word": "engaging", "note": "호감을 주는" },
+      { "word": "winsome", "note": "사랑스럽고 매력적인" },
+      { "word": "fascinating", "note": "넋을 빼앗는" }
+    ],
+    "tips": [
+      "enchant의 현재분사 형용사야. '마법에 걸린 듯 매력적인' 느낌!",
+      "charming, captivating, fascinating과 비슷한데 좀 더 '동화적인' 분위기가 있어."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "encomiastic",
+    "pos": "adj.",
+    "head_meanings": [
+      "칭찬하는",
+      "아첨하는"
+    ],
+    "synonyms_from_image": [
+      { "word": "laudatory", "note": "칭찬하는, 찬양하는" },
+      { "word": "praiseful", "note": "칭찬이 가득한" },
+      { "word": "panegyrical", "note": "찬사를 보내는" },
+      { "word": "flattering", "note": "아부하는, 치켜세우는" }
+    ],
+    "tips": [
+      "encomium(찬사)의 형용사형이야. '칭찬하는, 찬양조의'라는 뜻이지.",
+      "laudatory와 거의 같은 뜻이야. GRE에서 '찬양하는' 계열 단어를 묶어서 외워두면 좋아."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "encomium",
+    "pos": "n.",
+    "head_meanings": [
+      "칭찬하는 말",
+      "찬사"
+    ],
+    "synonyms_from_image": [
+      { "word": "tribute", "note": "헌사, 경의의 표시" },
+      { "word": "eulogy", "note": "추도사, 찬사" },
+      { "word": "panegyric", "note": "격찬, 찬사" },
+      { "word": "paean", "note": "찬가, 칭송" },
+      { "word": "accolade", "note": "칭찬, 영예" },
+      { "word": "praise", "note": "칭찬" },
+      { "word": "acclaim", "note": "환호, 갈채" },
+      { "word": "acclamation", "note": "환호, 만장일치 찬성" },
+      { "word": "homage", "note": "경의, 존경" },
+      { "word": "laudation", "note": "칭찬, 찬양" },
+      { "word": "plaudit", "note": "갈채, 칭찬" },
+      { "word": "kudos", "note": "명성, 영광" },
+      { "word": "applause", "note": "박수갈채, 칭찬" }
+    ],
+    "tips": [
+      "GRE 고빈도 단어야! eulogy, panegyric, paean과 함께 '찬사 패밀리'로 묶어 외워.",
+      "복수형은 encomiums 또는 encomia야. 격식적인 글에서 쓰이는 고급 어휘지."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "encompass",
+    "pos": "v.",
+    "head_meanings": [
+      "에워싸다",
+      "포위하다",
+      "둘러싸다"
+    ],
+    "synonyms_from_image": [
+      { "word": "besiege", "note": "포위하다" },
+      { "word": "circle", "note": "둘러싸다" },
+      { "word": "enclose", "note": "에워싸다, 동봉하다" },
+      { "word": "include", "note": "포함하다" },
+      { "word": "circumscribe", "note": "제한하다, 둘러싸다" },
+      { "word": "ring", "note": "고리처럼 둘러싸다" },
+      { "word": "girdle", "note": "띠처럼 두르다" },
+      { "word": "fence in", "note": "울타리로 가두다" },
+      { "word": "wall in", "note": "벽으로 에워싸다" },
+      { "word": "hem in", "note": "둘러싸서 가두다" }
+    ],
+    "tips": [
+      "en-(안에) + compass(범위)야. 범위 안에 다 넣는 것 → '포괄하다, 에워싸다'!",
+      "GRE에서는 '포괄하다(include)'라는 뜻이 가장 중요해. The course encompasses many topics."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "encroachment",
+    "pos": "n.",
+    "head_meanings": [
+      "잠식",
+      "침해",
+      "침입"
+    ],
+    "synonyms_from_image": [
+      { "word": "usurpation", "note": "강탈, 침탈" },
+      { "word": "interference", "note": "간섭, 방해" },
+      { "word": "invasion", "note": "침략, 침입" },
+      { "word": "intrusion", "note": "침입, 침해" },
+      { "word": "trespass", "note": "무단 침입" },
+      { "word": "infringement", "note": "침해, 위반" }
+    ],
+    "tips": [
+      "en-(안으로) + croach(갈고리로 잡다)에서 왔어. 슬금슬금 남의 영역을 잡아먹는 거지.",
+      "encroachment on/upon ~으로 써. encroachment on civil liberties = 시민 자유의 침해."
+    ]
+  }
+]
