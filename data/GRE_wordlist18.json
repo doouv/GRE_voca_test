@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "001",
+    "word": "eulogy",
+    "pos": "n.",
+    "head_meanings": [
+      "칭찬, 찬양, 찬사",
+      "추도 연설"
+    ],
+    "synonyms_from_image": [
+      {"word": "encomium", "note": "격식 있는 찬사"},
+      {"word": "eulogium", "note": "찬사→eulogy의 라틴형"},
+      {"word": "salutation", "note": "인사→경의를 표하는 말"},
+      {"word": "tribute", "note": "헌사→경의를 바치는 말"},
+      {"word": "glorification", "note": "찬양→높이 기림"}
+    ],
+    "tips": [
+      "`eu-`(좋은) + `log-`(말) = 좋은 말이야. 원래 장례식 추도사를 뜻해.",
+      "encomium, panegyric이랑 한 세트로 외워두면 GRE에서 유리해!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "euphemism",
+    "pos": "n.",
+    "head_meanings": [
+      "완곡어법",
+      "완곡한 어구"
+    ],
+    "synonyms_from_image": [
+      {"word": "nice-nellyism", "note": "지나치게 완곡한 표현→euphemism의 구어적 표현"}
+    ],
+    "tips": [
+      "`eu-`(좋은) + `phem-`(말하다) = 좋게 말하기야.",
+      "'passed away'가 'died'의 euphemism인 것처럼, 직접 말하기 꺼려지는 걸 돌려 말하는 거야."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "euphony",
+    "pos": "n.",
+    "head_meanings": [
+      "듣기 좋은 음조",
+      "좋은 울림"
+    ],
+    "synonyms_from_image": [
+      {"word": "harmony", "note": "조화→소리의 조화"},
+      {"word": "consonance", "note": "조화→자음의 어울림"}
+    ],
+    "tips": [
+      "`eu-`(좋은) + `phon-`(소리) = 좋은 소리야.",
+      "cacophony(불협화음)가 반의어거든. 이 쌍으로 외워둬!"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "euphoria",
+    "pos": "n.",
+    "head_meanings": [
+      "행복감",
+      "다행증(多幸症)",
+      "병적 쾌감"
+    ],
+    "synonyms_from_image": [
+      {"word": "ecstasy", "note": "황홀감"},
+      {"word": "exhilaration", "note": "들뜬 기분"},
+      {"word": "elation", "note": "의기양양함"},
+      {"word": "exaltation", "note": "고양감"},
+      {"word": "intoxication", "note": "도취→취한 듯한 기분"}
+    ],
+    "tips": [
+      "`eu-`(좋은) + `phor-`(나르다) = 좋은 것을 나르는 기분이야.",
+      "dysphoria(불쾌감)가 반의어야. 의학 용어로도 자주 쓰여."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "euphoric",
+    "pos": "adj.",
+    "head_meanings": [
+      "행복감에 도취된"
+    ],
+    "synonyms_from_image": [
+      {"word": "elated", "note": "의기양양한"},
+      {"word": "happy", "note": "행복한"},
+      {"word": "joyful", "note": "기쁨에 찬"},
+      {"word": "delighted", "note": "매우 기쁜"},
+      {"word": "gleeful", "note": "신이 난"},
+      {"word": "excited", "note": "흥분한"},
+      {"word": "exhilarated", "note": "들뜬"},
+      {"word": "jubilant", "note": "환희에 찬"},
+      {"word": "exultant", "note": "기뻐 날뛰는"},
+      {"word": "ecstatic", "note": "황홀한"},
+      {"word": "blissful", "note": "더없이 행복한"},
+      {"word": "rapturous", "note": "열광적인"},
+      {"word": "transported", "note": "넋을 잃을 만큼 기쁜"}
+    ],
+    "tips": [
+      "euphoria의 형용사형이야.",
+      "GRE에서 tone 문제 나올 때 euphoric은 극도로 긍정적인 톤을 뜻해."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "evanescent",
+    "pos": "adj.",
+    "head_meanings": [
+      "차츰 사라져 가는",
+      "속절없는",
+      "덧없는",
+      "극히 미미한"
+    ],
+    "synonyms_from_image": [
+      {"word": "momentary", "note": "순간적인"},
+      {"word": "ephemeral", "note": "하루살이 같은→금세 사라지는"},
+      {"word": "fleeting", "note": "순식간에 지나가는"},
+      {"word": "short-lived", "note": "수명이 짧은"},
+      {"word": "short-term", "note": "단기적인"},
+      {"word": "transitory", "note": "일시적인→오래 못 가는"},
+      {"word": "temporary", "note": "임시의"},
+      {"word": "transient", "note": "일시적인→잠깐 머무는"},
+      {"word": "disappearing", "note": "사라지는"},
+      {"word": "vanishing", "note": "소멸하는"},
+      {"word": "fading", "note": "희미해지는"},
+      {"word": "passing", "note": "지나가는→덧없는"}
+    ],
+    "tips": [
+      "`e-`(밖으로) + `vanesc-`(사라지다) = 밖으로 사라지는 거야.",
+      "ephemeral, fleeting, transient이랑 한 세트야. GRE 단골 출제 단어거든!"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "evasive",
+    "pos": "adj.",
+    "head_meanings": [
+      "회피적인",
+      "잡기 어려운",
+      "핑계의",
+      "속임수의",
+      "중점흐리기화법의"
+    ],
+    "synonyms_from_image": [
+      {"word": "elusive", "note": "잡기 어려운→포착이 안 되는"},
+      {"word": "intangible", "note": "만질 수 없는→실체가 없는"},
+      {"word": "equivocal", "note": "모호한→확답을 피하는"},
+      {"word": "deceitful", "note": "속이는→진실을 감추는"},
+      {"word": "dishonest", "note": "정직하지 않은"}
+    ],
+    "tips": [
+      "`evade` + `-ive`야. 피하는 성격을 가진 거지.",
+      "evasive answer = 확답을 피하는 대답. GRE 지문에서 자주 나와."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "evade",
+    "pos": "v.",
+    "head_meanings": [
+      "피하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`e-`(밖으로) + `vade`(가다) = 밖으로 빠져나가다야.",
+      "evade taxes(탈세하다)처럼 의무나 책임을 교묘하게 피하는 뉘앙스야."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "even-handed",
+    "pos": "adj.",
+    "head_meanings": [
+      "공평한",
+      "공명정대한"
+    ],
+    "synonyms_from_image": [
+      {"word": "impartial", "note": "편파적이지 않은"},
+      {"word": "unbiased", "note": "편견 없는"},
+      {"word": "fair-minded", "note": "공정한 마음의"},
+      {"word": "objective", "note": "객관적인"},
+      {"word": "fair", "note": "공정한"},
+      {"word": "unprejudiced", "note": "선입견 없는"},
+      {"word": "dispassionate", "note": "감정에 치우치지 않는"},
+      {"word": "equal", "note": "동등한"}
+    ],
+    "tips": [
+      "양손(both hands)이 똑같이 고른(even) 거야→어느 한쪽에 치우치지 않는 공평함.",
+      "impartial, dispassionate, equitable이랑 한 세트로 잡아둬!"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "even-tempered",
+    "pos": "adj.",
+    "head_meanings": [
+      "침착한",
+      "차분한",
+      "온화한",
+      "평정한",
+      "마음이 안정된"
+    ],
+    "synonyms_from_image": [
+      {"word": "serene", "note": "고요한→마음이 평온한"},
+      {"word": "calm", "note": "차분한"},
+      {"word": "composed", "note": "침착한→감정을 다스린"},
+      {"word": "tranquil", "note": "평온한"},
+      {"word": "relaxed", "note": "느긋한"},
+      {"word": "easy-going", "note": "태평한→스트레스 안 받는"},
+      {"word": "equable", "note": "한결같은→감정 기복이 없는"},
+      {"word": "stable", "note": "안정된"},
+      {"word": "level-headed", "note": "냉정한→판단이 흔들리지 않는"},
+      {"word": "unflappable", "note": "당황하지 않는→흔들림 없는"}
+    ],
+    "tips": [
+      "기질(temper)이 고른(even) 거야→감정 기복 없이 차분한 사람.",
+      "equanimity(평정심)의 형용사 버전이라고 생각하면 돼."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "evict",
+    "pos": "v.",
+    "head_meanings": [
+      "(법적 절차에 따라) 퇴거시키다",
+      "쫓아버리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`e-`(밖으로) + `vict`(이기다) = 법적으로 이겨서 내쫓는 거야.",
+      "세입자를 법적으로 퇴거시킬 때 쓰는 단어야. eviction notice = 퇴거 통보."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "evince",
+    "pos": "v.",
+    "head_meanings": [
+      "나타내다",
+      "명시하다",
+      "분명하게 보여주다"
+    ],
+    "synonyms_from_image": [
+      {"word": "evidence", "note": "증거를 보이다→명백히 나타내다"},
+      {"word": "manifest", "note": "드러내다"},
+      {"word": "reveal", "note": "밝히다→드러내다"},
+      {"word": "express", "note": "표현하다"},
+      {"word": "display", "note": "보여주다"},
+      {"word": "exhibit", "note": "전시하다→나타내 보이다"}
+    ],
+    "tips": [
+      "`e-`(밖으로) + `vinc`(이기다) = 증거로 이겨내다→분명히 보여주다야.",
+      "GRE 고급 어휘야. evince interest = 관심을 분명히 드러내다."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "evocative",
+    "pos": "adj.",
+    "head_meanings": [
+      "(지난 일 등을) 생각나게 하는",
+      "(…을) 불러일으키는",
+      "환기하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "reminiscent", "note": "회상하게 하는"},
+      {"word": "redolent", "note": "연상시키는→향기처럼 떠오르게 하는"},
+      {"word": "suggestive", "note": "암시하는→떠올리게 하는"},
+      {"word": "vivid", "note": "생생한→선명하게 떠오르는"},
+      {"word": "graphic", "note": "생생한→그림처럼 묘사하는"},
+      {"word": "moving", "note": "감동적인→마음을 움직이는"},
+      {"word": "poignant", "note": "가슴 찡한→감정을 자극하는"}
+    ],
+    "tips": [
+      "`evoke`(불러일으키다) + `-ative`야.",
+      "evocative of childhood = 어린 시절을 떠올리게 하는. GRE 지문에서 자주 나와."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "evoke",
+    "pos": "v.",
+    "head_meanings": [
+      "(감정 따위를) 불러 일으키다",
+      "환기시키다",
+      "(웃음 따위를) 자아내다"
+    ],
+    "synonyms_from_image": [
+      {"word": "conjure", "note": "마법처럼 불러내다"},
+      {"word": "evince", "note": "나타내다→감정을 끌어내다"},
+      {"word": "elicit", "note": "이끌어내다→반응을 유도하다"},
+      {"word": "provoke", "note": "자극하다→반응을 불러일으키다"},
+      {"word": "extract", "note": "끌어내다→뽑아내다"},
+      {"word": "awaken", "note": "깨우다→잠든 감정을 일으키다"}
+    ],
+    "tips": [
+      "`e-`(밖으로) + `voc`(부르다) = 밖으로 불러내는 거야.",
+      "invoke(호출하다)와 비교해 봐. evoke는 감정/기억을 불러일으키는 뉘앙스야."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "exacerbate",
+    "pos": "v.",
+    "head_meanings": [
+      "(고통, 병, 원한 등을) 더욱 심하게 하다",
+      "악화시키다",
+      "(남을) 격분 시키다"
+    ],
+    "synonyms_from_image": [
+      {"word": "aggravate", "note": "악화시키다→더 심하게 만들다"},
+      {"word": "worsen", "note": "나빠지게 하다"},
+      {"word": "inflame", "note": "격화시키다→불을 지피듯 악화"},
+      {"word": "intensify", "note": "강화하다→정도를 심하게"},
+      {"word": "impair", "note": "손상시키다→기능을 떨어뜨리다"},
+      {"word": "increase", "note": "증가시키다→나쁜 것을 키우다"},
+      {"word": "heighten", "note": "높이다→정도를 더하다"},
+      {"word": "magnify", "note": "확대하다→문제를 키우다"},
+      {"word": "amplify", "note": "증폭하다"},
+      {"word": "augment", "note": "늘리다→악화를 가중시키다"}
+    ],
+    "tips": [
+      "`ex-`(완전히) + `acerb-`(쓴, acerbic과 같은 뿌리) = 더 쓰게 만들다 = 악화시키다야.",
+      "GRE 고빈도 단어야! aggravate와 함께 반드시 외워둬."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "exacting",
+    "pos": "adj.",
+    "head_meanings": [
+      "(요구 따위가) 엄한",
+      "가혹한",
+      "엄격한",
+      "(몹시) 힘드는"
+    ],
+    "synonyms_from_image": [
+      {"word": "demanding", "note": "요구가 많은"},
+      {"word": "challenging", "note": "도전적인→힘든"},
+      {"word": "onerous", "note": "부담스러운→짐이 되는"},
+      {"word": "taxing", "note": "힘이 드는→소모적인"},
+      {"word": "hard", "note": "어려운"},
+      {"word": "stern", "note": "엄한→타협 없는"},
+      {"word": "severe", "note": "가혹한→엄격한"},
+      {"word": "oppressive", "note": "억압적인→숨 막히는"},
+      {"word": "tough", "note": "힘든→혹독한"},
+      {"word": "critical", "note": "비판적인→까다로운"},
+      {"word": "strict", "note": "엄격한"},
+      {"word": "rigid", "note": "융통성 없는→딱딱한"}
+    ],
+    "tips": [
+      "`exact`(요구하다) + `-ing` = 많은 것을 요구하는 거야.",
+      "an exacting boss = 요구가 까다로운 상사. demanding과 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "exact",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "정확한",
+      "엄중한",
+      "엄격한",
+      "정밀한",
+      "꼼꼼한",
+      "(복종 등을) 강요하다",
+      "무리하게 요구하다",
+      "(세금 등을) 가차없이 거두다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정! adj=정확한, v=강요하다/가혹하게 거두다. 두 뜻이 완전 달라.",
+      "exact a toll = 대가를 치르게 하다. 동사 뜻을 꼭 외워둬!"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "exaction",
+    "pos": "n.",
+    "head_meanings": [
+      "강요",
+      "강제 징수",
+      "착취",
+      "강제 징수물(금)",
+      "혈세"
+    ],
+    "synonyms_from_image": [
+      {"word": "extortion", "note": "강탈→위협에 의한 강제 징수"}
+    ],
+    "tips": [
+      "`exact`(강제로 빼앗다) + `-ion`이야.",
+      "세금을 가혹하게 거두는 행위를 뜻해. 역사 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "exactitude",
+    "pos": "n.",
+    "head_meanings": [
+      "정확성",
+      "정밀도",
+      "엄격",
+      "엄정"
+    ],
+    "synonyms_from_image": [
+      {"word": "meticulousness", "note": "꼼꼼함→정확성을 추구하는 세심함"}
+    ],
+    "tips": [
+      "`exact` + `-itude`야. precision과 비슷한 뜻이야.",
+      "with exactitude = 정확하게. 격식체에서 쓰여."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "exaggerate",
+    "pos": "v.",
+    "head_meanings": [
+      "과대시하다",
+      "과장해서 말하다",
+      "(병 등을) 악화시키다"
+    ],
+    "synonyms_from_image": [
+      {"word": "overstate", "note": "과장하다→실제보다 크게 말하다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `agger-`(쌓다) = 밖으로 과하게 쌓는 거야.",
+      "overstate와 한 쌍이야. understate(과소평가)가 반의어."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "exaggeration",
+    "pos": "n.",
+    "head_meanings": [
+      "과장",
+      "과대시",
+      "과장된 표현"
+    ],
+    "synonyms_from_image": [
+      {"word": "hyperbole", "note": "과장법→수사학적 과장"},
+      {"word": "overstatement", "note": "과장→실제보다 크게 말함"},
+      {"word": "magnification", "note": "확대→부풀림"},
+      {"word": "amplification", "note": "증폭→과하게 키움"},
+      {"word": "aggrandizement", "note": "과대화→크게 부풀림"},
+      {"word": "elaboration", "note": "정교화→과하게 꾸밈"},
+      {"word": "embellishment", "note": "윤색→꾸며서 과장"},
+      {"word": "embroidery", "note": "자수→이야기를 수놓듯 과장"}
+    ],
+    "tips": [
+      "hyperbole은 문학적 과장법이고, exaggeration은 일상적 과장이야. 비교해 둬!",
+      "It's no exaggeration to say... = ...라고 해도 과언이 아니야."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "exalt",
+    "pos": "v.",
+    "head_meanings": [
+      "(지위, 명예, 권력 따위를) 높이다",
+      "승진시키다",
+      "칭찬하다",
+      "찬미하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "valorize", "note": "가치를 높이다"},
+      {"word": "glorify", "note": "영광스럽게 하다→찬양하다"},
+      {"word": "magnify", "note": "확대하다→위대하게 만들다"},
+      {"word": "honor", "note": "존경하다→예우하다"},
+      {"word": "venerate", "note": "숭배하다→깊이 공경하다"},
+      {"word": "laud", "note": "찬양하다→격식 있게 칭찬"},
+      {"word": "extol", "note": "극찬하다→높이 칭송"},
+      {"word": "praise", "note": "칭찬하다"},
+      {"word": "acclaim", "note": "환호하다→공개적으로 칭찬"}
+    ],
+    "tips": [
+      "`ex-`(위로) + `alt-`(높은, altitude와 같은 뿌리) = 높이 올리다야.",
+      "exalted position = 높은 지위. exaltation = 고양감."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "exasperate",
+    "pos": "v.",
+    "head_meanings": [
+      "성나게 하다",
+      "격분시키다",
+      "악화시키다"
+    ],
+    "synonyms_from_image": [
+      {"word": "annoy", "note": "짜증나게 하다"},
+      {"word": "provoke", "note": "자극하다→화나게 하다"},
+      {"word": "trouble", "note": "괴롭히다"},
+      {"word": "peeve", "note": "짜증나게 하다→신경 거슬리게"},
+      {"word": "aggravate", "note": "악화시키다→더 화나게 하다"},
+      {"word": "irritate", "note": "짜증나게 하다→거슬리게 하다"}
+    ],
+    "tips": [
+      "`ex-` + `asper-`(거친) = 거칠게 만들다 = 짜증나게 하는 거야.",
+      "exacerbate(악화시키다)와 헷갈리기 쉬워. exasperate는 '사람을' 화나게 하는 거야."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "exceptional",
+    "pos": "adj.",
+    "head_meanings": [
+      "예외적인",
+      "특별한",
+      "보통을 벗어난",
+      "드문",
+      "비범한",
+      "뛰어난"
+    ],
+    "synonyms_from_image": [
+      {"word": "unusual", "note": "흔하지 않은"},
+      {"word": "uncommon", "note": "보기 드문"},
+      {"word": "abnormal", "note": "비정상적인→보통과 다른"},
+      {"word": "atypical", "note": "비전형적인→틀에서 벗어난"},
+      {"word": "extraordinary", "note": "비범한→평범을 넘어선"},
+      {"word": "rare", "note": "희귀한"},
+      {"word": "unprecedented", "note": "전례 없는"},
+      {"word": "odd", "note": "이상한→예외적인"},
+      {"word": "strange", "note": "낯선→특이한"},
+      {"word": "anomalous", "note": "변칙적인→규범에서 벗어난"},
+      {"word": "peculiar", "note": "독특한"},
+      {"word": "weird", "note": "기이한"},
+      {"word": "outstanding", "note": "뛰어난→눈에 띄는"},
+      {"word": "remarkable", "note": "주목할 만한"},
+      {"word": "excellent", "note": "훌륭한"},
+      {"word": "phenomenal", "note": "경이로운"},
+      {"word": "prodigious", "note": "놀라운→엄청난"},
+      {"word": "unequalled", "note": "필적할 자 없는"},
+      {"word": "unparalleled", "note": "비할 데 없는"},
+      {"word": "unsurpassed", "note": "최고의→넘어설 수 없는"},
+      {"word": "peerless", "note": "무적의→동료가 없는"},
+      {"word": "matchless", "note": "비길 데 없는"},
+      {"word": "top-notch", "note": "최고 수준의"}
+    ],
+    "tips": [
+      "GRE 함정! 예외적인(unusual) OR 뛰어난(outstanding) 두 뜻 다 나와.",
+      "문맥에 따라 부정적(이례적인)일 수도, 긍정적(탁월한)일 수도 있어."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "excise",
+    "pos": "v.",
+    "head_meanings": [
+      "(몸 등에서) 절개하다",
+      "잘라내다",
+      "(구, 문장 등을) 삭제하다",
+      "지우다"
+    ],
+    "synonyms_from_image": [
+      {"word": "resect", "note": "절제하다→외과적 제거"},
+      {"word": "elide", "note": "생략하다→소리/문자를 빼다"},
+      {"word": "remove", "note": "제거하다"},
+      {"word": "amputate", "note": "절단하다→수술로 자르다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `cise`(자르다) = 잘라내는 거야. `incision`(절개)과 같은 어근이야.",
+      "물리적으로 잘라내는 것과 텍스트에서 삭제하는 것 두 뜻 다 가능해."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "excoriate",
+    "pos": "v.",
+    "head_meanings": [
+      "몹시 비난하다",
+      "책, 연극 등을 호되게/심하게/격렬히 비난하다",
+      "피부를 벗기다",
+      "가죽을 벗기다",
+      "까다"
+    ],
+    "synonyms_from_image": [
+      {"word": "denounce", "note": "규탄하다→공개적으로 비난"},
+      {"word": "vituperate", "note": "맹렬히 욕하다→독설을 퍼붓다"},
+      {"word": "berate", "note": "호되게 꾸짖다"},
+      {"word": "criticize", "note": "비판하다"},
+      {"word": "scathe", "note": "신랄하게 비난하다"},
+      {"word": "abrade", "note": "긁어내다→피부를 벗기다"},
+      {"word": "peel", "note": "벗기다→껍질을 까다"},
+      {"word": "strip", "note": "벗기다→발가벗기다"},
+      {"word": "chafe", "note": "쓸려 헐다→마찰로 벗기다"},
+      {"word": "rub", "note": "문지르다→피부를 벗기다"}
+    ],
+    "tips": [
+      "`ex-`(벗기다) + `cori-`(가죽, `corium`) = 가죽을 벗기다→호되게 비난하다야.",
+      "GRE에서는 비유적 의미(맹렬히 비난하다)가 핵심이야."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "excretion",
+    "pos": "n.",
+    "head_meanings": [
+      "배설",
+      "분비",
+      "배설(작용)"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ex-`(밖으로) + `cret-`(분리하다) = 몸 밖으로 분리해내는 거야.",
+      "secrete(분비하다)와 같은 어근이야. discrete도 같은 뿌리거든."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "excruciating",
+    "pos": "adj.",
+    "head_meanings": [
+      "심한 고통을 주는",
+      "몹시 괴로운",
+      "견딜 수 없는",
+      "맹렬한",
+      "대단한",
+      "극도의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ex-` + `cruci-`(십자가, `crucify`와 같은 뿌리) = 십자가에 매달린 듯한 고통이야.",
+      "excruciating pain = 극심한 고통. 물리적·정신적 고통 모두에 쓸 수 있어."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "exculpate",
+    "pos": "v.",
+    "head_meanings": [
+      "무죄로 하다",
+      "억울한 죄명을 풀어주다",
+      "죄를 면하게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "acquit", "note": "무죄를 선고하다"},
+      {"word": "forgive", "note": "용서하다→미묘하게 다르지만 죄를 풀어주는 맥락"},
+      {"word": "justify", "note": "정당화하다→무죄임을 증명"},
+      {"word": "exonerate", "note": "무죄를 밝히다"},
+      {"word": "absolve", "note": "면죄하다→죄를 풀어주다"},
+      {"word": "clear", "note": "혐의를 벗기다"},
+      {"word": "free", "note": "자유롭게 하다→혐의에서 해방"}
+    ],
+    "tips": [
+      "`ex-`(~에서 벗어나게) + `culp-`(죄, `culprit`과 같은 뿌리) = 죄에서 벗어나게 하다야.",
+      "inculpate(죄를 씌우다)가 반의어야!"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "execrable",
+    "pos": "adj.",
+    "head_meanings": [
+      "저주할",
+      "혐오할",
+      "증오스러운",
+      "몹시 나쁜",
+      "밉살스러운",
+      "지긋지긋한",
+      "형편없는",
+      "아주 서투른"
+    ],
+    "synonyms_from_image": [
+      {"word": "base", "note": "비열한→도덕적으로 저급한"},
+      {"word": "cursed", "note": "저주받은"},
+      {"word": "evil", "note": "사악한"},
+      {"word": "infernal", "note": "지옥 같은→끔찍한"},
+      {"word": "offensive", "note": "불쾌한→기분 나쁜"},
+      {"word": "damnable", "note": "저주받을 만한→극도로 나쁜"}
+    ],
+    "tips": [
+      "`execrate`(저주하다) + `-able` = 저주할 만한 거야.",
+      "execrable taste = 형편없는 취향. 매우 강한 부정적 표현이야."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "execrate",
+    "pos": "v.",
+    "head_meanings": [
+      "몹시 싫어하다",
+      "증오하다",
+      "저주하다",
+      "맹렬히 비난하다",
+      "지긋지긋해 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "hate", "note": "증오하다"},
+      {"word": "revile", "note": "욕하다→맹렬히 비난"},
+      {"word": "berate", "note": "호되게 꾸짖다"},
+      {"word": "damn", "note": "저주하다"}
+    ],
+    "tips": [
+      "`ex-` + `sacr-`(신성한) = 신성한 것 밖으로→저주하다(반어적)야.",
+      "abhor, detest, loathe와 비슷한 강도의 혐오 표현이야."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "execute",
+    "pos": "v.",
+    "head_meanings": [
+      "(계획, 명령 따위를) 실행하다",
+      "실시하다",
+      "(약속을) 이행하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "discharge", "note": "이행하다→의무를 수행"},
+      {"word": "effect", "note": "실행하다→결과를 내다"},
+      {"word": "realize", "note": "실현하다"},
+      {"word": "accomplish", "note": "달성하다→완수하다"},
+      {"word": "fulfill", "note": "이행하다→약속을 지키다"},
+      {"word": "achieve", "note": "성취하다"},
+      {"word": "complete", "note": "완료하다"},
+      {"word": "perform", "note": "수행하다"}
+    ],
+    "tips": [
+      "GRE에서 '사형 집행'보다 '실행하다' 뜻이 더 중요해.",
+      "execute a plan = 계획을 실행하다. execution은 '실행'과 '처형' 두 뜻 다 있어."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "exemplar",
+    "pos": "n.",
+    "head_meanings": [
+      "본(보기)",
+      "모범",
+      "전형",
+      "대표적 인물",
+      "원형",
+      "원본",
+      "사본"
+    ],
+    "synonyms_from_image": [
+      {"word": "model", "note": "모범→본보기"}
+    ],
+    "tips": [
+      "`example`과 같은 뿌리야. 본보기가 되는 대상을 말해.",
+      "an exemplar of virtue = 덕의 모범."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "exemplary",
+    "pos": "adj.",
+    "head_meanings": [
+      "모범적인",
+      "훌륭한",
+      "본보기의",
+      "전형적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "model", "note": "모범적인"},
+      {"word": "perfect", "note": "완벽한→결점 없는"},
+      {"word": "praiseworthy", "note": "칭찬할 만한"},
+      {"word": "pure", "note": "순수한→결백한"},
+      {"word": "virtuous", "note": "덕이 있는→도덕적인"},
+      {"word": "ideal", "note": "이상적인"}
+    ],
+    "tips": [
+      "모범적인 + 본보기로서의 두 뜻이 있어.",
+      "exemplary punishment = 본보기 처벌. 이 뜻도 알아둬야 해!"
+    ]
+  },
+  {
+    "id": "035",
+    "word": "exemplify",
+    "pos": "v.",
+    "head_meanings": [
+      "예증하다",
+      "예시하다",
+      "좋은 예가 되다"
+    ],
+    "synonyms_from_image": [
+      {"word": "typify", "note": "전형이 되다→대표하다"},
+      {"word": "epitomize", "note": "전형이 되다→축약하여 보여주다"},
+      {"word": "characterize", "note": "특징짓다→성격을 나타내다"},
+      {"word": "illustrate", "note": "설명하다→예로 보여주다"},
+      {"word": "depict", "note": "묘사하다→그려 보이다"},
+      {"word": "demonstrate", "note": "시범 보이다→증명하다"}
+    ],
+    "tips": [
+      "`example` + `-ify` = 예를 들어 보여주는 거야.",
+      "GRE 지문에서 This exemplifies...는 '이것이 ~의 좋은 예다'란 뜻이야."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "exert",
+    "pos": "v.",
+    "head_meanings": [
+      "(힘, 능력, 지력 등을) 쓰다",
+      "행사하다",
+      "노력하다",
+      "진력하다",
+      "(지도력 등을) 발휘하다",
+      "(감화, 압력을) 미치다/가하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "wield", "note": "휘두르다→권력/영향력을 행사하다"},
+      {"word": "apply", "note": "적용하다→힘을 가하다"},
+      {"word": "exercise", "note": "행사하다→권리를 사용하다"},
+      {"word": "employ", "note": "사용하다→수단을 동원하다"},
+      {"word": "use", "note": "사용하다"},
+      {"word": "utilize", "note": "활용하다→효과적으로 쓰다"},
+      {"word": "deploy", "note": "배치하다→전략적으로 사용하다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `sert-`(잇다) = 힘을 밖으로 내보내는 거야.",
+      "exert influence/pressure = 영향력/압력을 행사하다. GRE에서 자주 나오는 구문이야."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "exertion",
+    "pos": "n.",
+    "head_meanings": [
+      "노력",
+      "애씀",
+      "전력",
+      "분발",
+      "힘을 내기",
+      "(힘)의 발휘",
+      "권력/능력을 쓰기",
+      "행사",
+      "(육체와 정신의) 격심한 활동",
+      "매우 힘든 일"
+    ],
+    "synonyms_from_image": [
+      {"word": "exercise", "note": "운동→힘을 쓰는 행위"},
+      {"word": "energy", "note": "에너지→쏟아붓는 힘"},
+      {"word": "strength", "note": "힘→발휘하는 체력"},
+      {"word": "labor", "note": "노동→힘든 일"},
+      {"word": "toil", "note": "고된 노동→땀 흘리는 일"},
+      {"word": "work", "note": "일→노력을 들이는 활동"}
+    ],
+    "tips": [
+      "`exert` + `-ion`이야.",
+      "physical exertion = 육체적 노력. 운동이나 힘든 활동을 뜻해."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "exhaust",
+    "pos": "v.",
+    "head_meanings": [
+      "지치게 하다",
+      "고갈시키다",
+      "(연구 등) 철저히 살피다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ex-`(완전히) + `haust-`(빼내다) = 완전히 빼내다→고갈시키다야.",
+      "함정! exhaustive는 '지치게 하는'이 아니라 '철저한'이야!"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "exhaustive",
+    "pos": "adj.",
+    "head_meanings": [
+      "철저한",
+      "완전한",
+      "포괄적인",
+      "속속들이 규명해 내는",
+      "남김없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "encyclopedic", "note": "백과사전적인→방대한"},
+      {"word": "comprehensive", "note": "포괄적인→빠짐없는"},
+      {"word": "all-inclusive", "note": "모든 것을 포함하는"},
+      {"word": "complete", "note": "완전한"},
+      {"word": "thorough", "note": "철저한→빈틈없는"},
+      {"word": "in-depth", "note": "심층적인→깊이 있는"},
+      {"word": "detailed", "note": "상세한"},
+      {"word": "meticulous", "note": "꼼꼼한→세밀한"},
+      {"word": "painstaking", "note": "공들인→정성스러운"}
+    ],
+    "tips": [
+      "GRE 함정! exhaust(지치게 하다)와 달리 exhaustive=철저한/포괄적인이야.",
+      "an exhaustive study = 철저한 연구. 빠짐없이 다 다뤘다는 뜻이야."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "exhilaration",
+    "pos": "n.",
+    "head_meanings": [
+      "명랑",
+      "활기가 생김",
+      "들뜬 기분(으로 만들기)"
+    ],
+    "synonyms_from_image": [
+      {"word": "euphoria", "note": "행복감→들뜬 기분과 통함"}
+    ],
+    "tips": [
+      "`ex-` + `hilar-`(쾌활한, `hilarious`와 같은 뿌리) = 쾌활하게 만드는 것이야.",
+      "a feeling of exhilaration = 들뜬 기분. 긍정적인 흥분을 뜻해."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "exhort",
+    "pos": "v.",
+    "head_meanings": [
+      "열심히 당부하다",
+      "훈계하다",
+      "권하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "advise", "note": "조언하다→권고하다"},
+      {"word": "press", "note": "압박하다→강하게 권유"},
+      {"word": "push", "note": "밀다→적극적으로 권하다"},
+      {"word": "importune", "note": "졸라대다→끈질기게 요청"},
+      {"word": "admonish", "note": "훈계하다→경고하며 권고"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `hort-`(격려하다) = 밖으로 격려해 이끌어내는 거야.",
+      "exhort someone to do = ~에게 ~하라고 열심히 권하다. 강한 권유의 뉘앙스야."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "exhortation",
+    "pos": "n.",
+    "head_meanings": [
+      "간곡한 권고",
+      "장려",
+      "경고",
+      "훈계"
+    ],
+    "synonyms_from_image": [
+      {"word": "urging", "note": "촉구→강한 권유"},
+      {"word": "encouragement", "note": "격려→용기를 북돋움"},
+      {"word": "persuasion", "note": "설득"},
+      {"word": "pressure", "note": "압박→강하게 권유하는 힘"},
+      {"word": "admonishment", "note": "훈계→경고 섞인 권고"},
+      {"word": "warning", "note": "경고"},
+      {"word": "entreaty", "note": "간청→간곡한 부탁"},
+      {"word": "appeal", "note": "호소→간절한 요청"},
+      {"word": "call", "note": "요청→행동을 촉구"},
+      {"word": "charge", "note": "명령→위엄 있는 지시"},
+      {"word": "admonition", "note": "훈계→조심하라는 경고"}
+    ],
+    "tips": [
+      "exhort의 명사형이야.",
+      "an exhortation to action = 행동을 촉구하는 권고."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "exhume",
+    "pos": "v.",
+    "head_meanings": [
+      "발굴하다",
+      "공개하다",
+      "파내다"
+    ],
+    "synonyms_from_image": [
+      {"word": "disinter", "note": "파내다→다시 꺼내다"},
+      {"word": "uncover", "note": "드러내다"},
+      {"word": "unearth", "note": "발굴하다→땅에서 꺼내다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `hum-`(땅, `humus`) = 땅에서 꺼내는 거야.",
+      "주로 시체를 파내는 뜻이지만, 비유적으로 '묻힌 사실을 꺼내다'로도 써."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "exigency",
+    "pos": "n.",
+    "head_meanings": [
+      "긴급",
+      "위급",
+      "급박",
+      "긴급한 상황"
+    ],
+    "synonyms_from_image": [
+      {"word": "crisis", "note": "위기→긴급 상황"},
+      {"word": "pressure", "note": "압박→급박한 요구"},
+      {"word": "demand", "note": "요구→긴급한 필요"}
+    ],
+    "tips": [
+      "`exig-`(요구하다)에서 온 말이야. 상황이 긴급하게 무언가를 요구하는 거지.",
+      "the exigencies of war = 전쟁의 긴급한 요구들. 복수형으로 자주 써."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "exigent",
+    "pos": "adj.",
+    "head_meanings": [
+      "위급한",
+      "긴급한",
+      "급박한",
+      "절박한",
+      "자꾸 요구하는",
+      "요구가 너무나 많은"
+    ],
+    "synonyms_from_image": [
+      {"word": "pressing", "note": "긴급한"},
+      {"word": "urgent", "note": "급박한"},
+      {"word": "demanding", "note": "많은 것을 요구하는"}
+    ],
+    "tips": [
+      "exigency의 형용사형이야.",
+      "exigent circumstances = 긴급한 상황. 법률 용어로도 쓰여."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "exiguous",
+    "pos": "adj.",
+    "head_meanings": [
+      "근소한",
+      "약간",
+      "얼마 안 되는"
+    ],
+    "synonyms_from_image": [
+      {"word": "little", "note": "적은"},
+      {"word": "meager", "note": "빈약한→양이 부족한"},
+      {"word": "sparse", "note": "드문→산재한"},
+      {"word": "slight", "note": "약간의→미미한"},
+      {"word": "paltry", "note": "하찮은→보잘것없는"},
+      {"word": "skimpy", "note": "빈약한→부족한"},
+      {"word": "scanty", "note": "부족한→모자라는"}
+    ],
+    "tips": [
+      "`exig-`(재다, 측정하다)에서 왔어→재보니 아주 적은 거야.",
+      "GRE 고급 어휘야! meager, paltry, scanty와 한 세트로 외워둬."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "exile",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(모국, 고향에서) 추방하다",
+      "망명시키다",
+      "국외 추방하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ex-`(밖으로) + `il-`(가다) = 밖으로 보내다 = 추방이야.",
+      "명사로는 '추방된 상태' 또는 '추방된 사람'을 뜻해."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "existential",
+    "pos": "adj.",
+    "head_meanings": [
+      "존재론에 관한",
+      "실존적의",
+      "실존주의의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`exist` + `-ential`이야.",
+      "existential crisis = 실존적 위기. 삶의 의미를 의심하는 상태를 말해."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "exodus",
+    "pos": "n.",
+    "head_meanings": [
+      "이주",
+      "출국",
+      "출발"
+    ],
+    "synonyms_from_image": [
+      {"word": "egress", "note": "출구→나가는 행위"},
+      {"word": "exit", "note": "출구→나감"},
+      {"word": "emigration", "note": "이주→다른 나라로 떠남"},
+      {"word": "exile", "note": "추방→조국을 떠남"}
+    ],
+    "tips": [
+      "Exodus = 출애굽기야. `ex-`(밖으로) + `hodos`(길) = 밖으로 나가는 길.",
+      "대규모 이동/탈출을 뜻해. a mass exodus = 대규모 이탈."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "exonerate",
+    "pos": "v.",
+    "head_meanings": [
+      "용서하다",
+      "무죄로 하다",
+      "면제하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "absolve", "note": "면죄하다→죄를 풀어주다"},
+      {"word": "forgive", "note": "용서하다"},
+      {"word": "exempt", "note": "면제하다→의무에서 풀어주다"},
+      {"word": "release", "note": "풀어주다"}
+    ],
+    "tips": [
+      "`ex-`(~에서) + `oner-`(짐) = 짐(죄)에서 벗어나게 하는 거야.",
+      "exculpate와 거의 같은 뜻이야. 둘 다 '무죄를 증명하다'거든."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "exorbitant",
+    "pos": "adj.",
+    "head_meanings": [
+      "엄청난",
+      "터무니없는",
+      "무지 비싼"
+    ],
+    "synonyms_from_image": [
+      {"word": "demanding", "note": "요구가 과한→과도한"},
+      {"word": "extravagant", "note": "사치스러운→지나치게 비싼"},
+      {"word": "overpriced", "note": "가격이 과한"},
+      {"word": "extreme", "note": "극단적인→지나친"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `orbit-`(궤도) = 궤도를 벗어난→터무니없는이야.",
+      "exorbitant prices = 터무니없이 비싼 가격. 가격이나 요구에 주로 써."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "exorcise",
+    "pos": "v.",
+    "head_meanings": [
+      "(악귀를) 쫓아내다",
+      "액을 없애다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ex-`(밖으로) + `orcise`(맹세하여 부르다) = 맹세로 악귀를 밖으로 불러내는 거야.",
+      "비유적으로 exorcise one's fears = 두려움을 떨쳐내다로도 써."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "exotic",
+    "pos": "adj.",
+    "head_meanings": [
+      "외국산의",
+      "이국풍의",
+      "별난",
+      "이상한"
+    ],
+    "synonyms_from_image": [
+      {"word": "foreign", "note": "외국의"},
+      {"word": "imported", "note": "수입된→외국에서 들여온"},
+      {"word": "alien", "note": "이질적인→낯선"},
+      {"word": "unfamiliar", "note": "낯선→익숙하지 않은"},
+      {"word": "alluring", "note": "매혹적인→이국적 매력"},
+      {"word": "unusual", "note": "특이한→보기 드문"}
+    ],
+    "tips": [
+      "`exo-`(바깥) = 바깥에서 온 것→이국적인이야.",
+      "exotic species = 외래종. 생물학에서도 자주 쓰는 단어야."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "expansive",
+    "pos": "adj.",
+    "head_meanings": [
+      "팽창성이 있는",
+      "광범위의",
+      "풍부한",
+      "성격, 태도, 말이 개방적인",
+      "너그러운",
+      "마음 터놓는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`expand` + `-ive`야.",
+      "성격이 개방적인(talkative) 뜻도 있어. an expansive mood = 마음이 활짝 열린 기분."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "expansion",
+    "pos": "n.",
+    "head_meanings": [
+      "팽창",
+      "확대",
+      "발전"
+    ],
+    "synonyms_from_image": [
+      {"word": "augmentation", "note": "증가→확대와 통함"}
+    ],
+    "tips": [
+      "`expand` + `-ion`이야.",
+      "territorial expansion = 영토 확장. 물리적·비유적 확대 모두에 써."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "expatiate",
+    "pos": "v.",
+    "head_meanings": [
+      "상세히 설명하다",
+      "장황하게 늘어놓다"
+    ],
+    "synonyms_from_image": [
+      {"word": "amplify", "note": "확대하다→상세히 부연"},
+      {"word": "dilate", "note": "확장하다→장황하게 늘어놓다"},
+      {"word": "discuss", "note": "논의하다"},
+      {"word": "discourse", "note": "담론하다→길게 이야기"},
+      {"word": "detail", "note": "상세히 설명하다"},
+      {"word": "dissert", "note": "논술하다"},
+      {"word": "expand", "note": "확장하다→이야기를 넓히다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `patiate`(돌아다니다) = 주제 밖으로 돌아다니다→장황하게야.",
+      "expatiate on/upon = ~에 대해 장황하게 이야기하다. 부정적 뉘앙스가 있어."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "expediency",
+    "pos": "n.",
+    "head_meanings": [
+      "편의",
+      "방편",
+      "편리한 방법",
+      "임시처리 편의주의",
+      "사리(私利) 추구"
+    ],
+    "synonyms_from_image": [
+      {"word": "self-interest", "note": "사리사욕→자기 이익 추구"},
+      {"word": "opportunism", "note": "기회주의→상황 이용"},
+      {"word": "timeserving", "note": "시류에 영합→기회주의적 행동"}
+    ],
+    "tips": [
+      "expedient의 명사형이야.",
+      "political expediency = 정치적 편의주의. 원칙보다 이익을 우선하는 태도야."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "expedient",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "(수단이) 편의주의적인",
+      "정략적인",
+      "이기적인",
+      "적절한",
+      "정당한",
+      "쓸모 있는",
+      "시기적절한"
+    ],
+    "synonyms_from_image": [
+      {"word": "self-interested", "note": "이기적인→자기 이익 추구의"},
+      {"word": "opportune", "note": "시기적절한→때맞춘"},
+      {"word": "seasonable", "note": "시의적절한→철에 맞는"},
+      {"word": "timely", "note": "시기적절한"},
+      {"word": "well-timed", "note": "타이밍이 좋은"},
+      {"word": "useful", "note": "쓸모 있는"},
+      {"word": "helpful", "note": "도움이 되는"},
+      {"word": "advantageous", "note": "유리한→이익이 되는"},
+      {"word": "profitable", "note": "이득이 되는"}
+    ],
+    "tips": [
+      "GRE 함정! 편의주의적(부정적) OR 적절한(중립적) 두 뜻이 있어.",
+      "명사로는 '임시방편'이야. a political expedient = 정치적 임시방편."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "expedite",
+    "pos": "v.",
+    "head_meanings": [
+      "진척시키다",
+      "촉진시키다",
+      "신속히 처리하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "hasten", "note": "서두르다"},
+      {"word": "accelerate", "note": "가속하다"},
+      {"word": "quicken", "note": "빠르게 하다"},
+      {"word": "promote", "note": "촉진하다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `ped-`(발) = 발을 빼내다→장애물 없이 빠르게야.",
+      "expedite the process = 절차를 신속히 처리하다. 비즈니스에서 자주 쓰여."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "expel",
+    "pos": "v.",
+    "head_meanings": [
+      "내쫓다",
+      "권리, 자격을 박탈하여 쫓아내다",
+      "면직시키다",
+      "추방하다",
+      "(가스 등을) 방출(배출)하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "oust", "note": "쫓아내다→자리에서 몰아내다"},
+      {"word": "banish", "note": "추방하다→멀리 내쫓다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `pel-`(밀다) = 밖으로 밀어내는 거야.",
+      "expel a student = 퇴학시키다. compel(강제하다), propel(추진하다)과 같은 어근이야."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "expertise",
+    "pos": "n.",
+    "head_meanings": [
+      "전문가적 의견",
+      "기술",
+      "지식"
+    ],
+    "synonyms_from_image": [
+      {"word": "skillfulness", "note": "숙련됨"},
+      {"word": "know-how", "note": "노하우→실용적 지식"},
+      {"word": "expertness", "note": "전문성"},
+      {"word": "specialization", "note": "전문화→특정 분야 숙련"},
+      {"word": "professionalism", "note": "전문성→프로다운 능력"},
+      {"word": "skill", "note": "기술"}
+    ],
+    "tips": [
+      "`expert` + `-ise`야.",
+      "technical expertise = 기술적 전문성. 특정 분야의 깊은 지식과 기술을 뜻해."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "expert",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "숙달가",
+      "전문가",
+      "권위자",
+      "대가",
+      "숙련된",
+      "노련한",
+      "전문(가)의",
+      "정교한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `expertus` = 시험해본→경험으로 숙련된이야.",
+      "명사(전문가)와 형용사(숙련된) 두 가지로 쓰여."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "expiate",
+    "pos": "v.",
+    "head_meanings": [
+      "속죄하다",
+      "보상하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "atone", "note": "속죄하다"},
+      {"word": "compensate", "note": "보상하다"},
+      {"word": "amend", "note": "바로잡다→잘못을 고치다"},
+      {"word": "remedy", "note": "치유하다→문제를 고치다"},
+      {"word": "rectify", "note": "교정하다→바로잡다"},
+      {"word": "correct", "note": "고치다"}
+    ],
+    "tips": [
+      "`ex-` + `pi-`(경건한, `pious`와 같은 뿌리) = 경건함으로 씻다→속죄하다야.",
+      "expiate one's sins = 죄를 속죄하다. atone과 거의 동의어야."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "explicate",
+    "pos": "v.",
+    "head_meanings": [
+      "(논지, 원리 따위를) 명백히 하다",
+      "설명하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "explain", "note": "설명하다"},
+      {"word": "construe", "note": "해석하다→의미를 풀이"},
+      {"word": "expand", "note": "전개하다→더 넓게 설명"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `plic-`(접다, `complicate`와 같은 뿌리) = 접힌 것을 펼치다→명확히 설명이야.",
+      "explain보다 더 학문적이고 격식 있는 표현이야."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "explicable",
+    "pos": "adj.",
+    "head_meanings": [
+      "설명할 수 있는",
+      "명백할 수 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`explicate` + `-able`이야.",
+      "inexplicable(설명할 수 없는)이 GRE에 더 자주 나와. 반의어도 챙겨둬!"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "explicit",
+    "pos": "adj.",
+    "head_meanings": [
+      "명백한",
+      "잘 알 수 있는"
+    ],
+    "synonyms_from_image": [
+      {"word": "candid", "note": "솔직한→숨김없는"},
+      {"word": "frank", "note": "솔직한"},
+      {"word": "manifest", "note": "명백한"},
+      {"word": "unambiguous", "note": "모호하지 않은"}
+    ],
+    "tips": [
+      "`ex-` + `plic-`(접다) = 접힌 것이 펼쳐진→명백한이야.",
+      "`implicit`(암시적인)의 반의어! 이 쌍은 GRE 필수야."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "exploit",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 위업, 영웅적 행위, 공적",
+      "v.) 이용하다, 착취하다, 개발하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "achievement", "note": "업적"},
+      {"word": "feat", "note": "위업→대단한 행위"},
+      {"word": "accomplishment", "note": "성취"},
+      {"word": "adventure", "note": "모험→영웅적 모험"},
+      {"word": "utilize", "note": "활용하다"},
+      {"word": "handle", "note": "다루다→운용하다"},
+      {"word": "exercise", "note": "행사하다"},
+      {"word": "employ", "note": "사용하다→활용"},
+      {"word": "apply", "note": "적용하다→이용"}
+    ],
+    "tips": [
+      "GRE 함정! n.=위업(긍정), v.=착취(부정). 톤이 완전히 달라.",
+      "heroic exploits = 영웅적 위업 vs. exploit workers = 노동자를 착취하다."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "exponent",
+    "pos": "n.",
+    "head_meanings": [
+      "(주의의) 주창자",
+      "대표적 인물",
+      "전형",
+      "상징",
+      "해설(설명)자",
+      "연주자",
+      "구현형",
+      "(수학) 지수"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ex-`(밖으로) + `pon-`(놓다) = 앞에 내놓는 사람→주창자야.",
+      "수학의 지수(exponent)도 같은 단어야. a leading exponent of = ~의 대표적 주창자."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "exponential",
+    "pos": "adj.",
+    "head_meanings": [
+      "<증가 등이> 더욱 속도를 더하는",
+      "해설자/창도자의",
+      "지수의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`exponent` + `-ial`이야.",
+      "exponential growth = 기하급수적 성장. GRE 과학 지문에서 자주 나와."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "expository",
+    "pos": "adj.",
+    "head_meanings": [
+      "설명적인",
+      "해설적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "exegetic", "note": "주석적인→경전 해석의"},
+      {"word": "explanative", "note": "설명하는"},
+      {"word": "explicatory", "note": "해설하는"},
+      {"word": "interpretive", "note": "해석적인"}
+    ],
+    "tips": [
+      "`expose`(드러내다)와 같은 뿌리야→설명하여 드러내는 거야.",
+      "expository essay = 설명문. GRE Writing에서도 나오는 개념이야."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "expound",
+    "pos": "v.",
+    "head_meanings": [
+      "소상하게(상세히) 설명하다",
+      "상술하다",
+      "(경전 등을) 해설하다",
+      "해석하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "explain", "note": "설명하다→상세히 풀어 말하다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `pound`(놓다) = 밖으로 펼쳐놓다→상세히 설명하다야.",
+      "expound a theory = 이론을 상세히 설명하다. explicate, elucidate와 비슷해."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "expunge",
+    "pos": "v.",
+    "head_meanings": [
+      "지우다",
+      "삭제하다",
+      "씻어 없애다",
+      "말소하다",
+      "파괴하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "delete", "note": "삭제하다"},
+      {"word": "obliterate", "note": "말살하다→흔적도 없이"},
+      {"word": "erase", "note": "지우다"},
+      {"word": "efface", "note": "지우다→표면에서 없애다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `pung-`(찌르다, `puncture`와 같은 뿌리) = 찔러서 지워버리는 거야.",
+      "expunge from the record = 기록에서 말소하다. 법적/공식적 삭제에 자주 써."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "expurgate",
+    "pos": "v.",
+    "head_meanings": [
+      "(책 따위의 온당치 못한 부분을) 삭제하다",
+      "깨끗이 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "abridge", "note": "요약하다→불필요한 부분을 삭제"},
+      {"word": "censor", "note": "검열하다→부적절한 내용 제거"},
+      {"word": "delete", "note": "삭제하다"},
+      {"word": "edit", "note": "편집하다→손질하다"},
+      {"word": "purify", "note": "정화하다→깨끗이 하다"},
+      {"word": "cut", "note": "자르다→부분을 제거"},
+      {"word": "bowdlerize", "note": "원작을 검열하여 순화하다"}
+    ],
+    "tips": [
+      "`ex-` + `purg-`(깨끗이 하다, `purge`와 같은 뿌리) = 깨끗이 만들다→불순한 부분 제거야.",
+      "an expurgated edition = 불건전한 내용을 삭제한 판. bowdlerize와 비슷해."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "extant",
+    "pos": "adj.",
+    "head_meanings": [
+      "(문서, 기록, 건물 따위가) 지금도 남아 있는",
+      "현존하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "present", "note": "현재의"},
+      {"word": "subsistent", "note": "존속하는"},
+      {"word": "current", "note": "현재의→지금 있는"},
+      {"word": "existing", "note": "존재하는"}
+    ],
+    "tips": [
+      "GRE 함정! `extinct`(멸종한)과 헷갈리지 마.",
+      "`ex-`(밖으로) + `stant`(서있다) = 밖에 서 있다 = 현존하는이야."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "extemporaneous",
+    "pos": "adj.",
+    "head_meanings": [
+      "즉석의",
+      "즉흥적인",
+      "임시변통의",
+      "일시적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "unprepared", "note": "준비 안 된→즉석의"},
+      {"word": "improvised", "note": "즉흥적으로 만든"},
+      {"word": "offhand", "note": "즉석의→준비 없이"},
+      {"word": "ad-lib", "note": "즉석에서→대본 없이"},
+      {"word": "unrehearsed", "note": "리허설 없는→연습 안 한"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `tempor-`(시간) = 시간 밖에서→사전 준비 시간 없이야.",
+      "an extemporaneous speech = 즉석 연설. impromptu와 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "extenuate",
+    "pos": "v.",
+    "head_meanings": [
+      "가볍게 하다",
+      "정상을 참작하다",
+      "변명하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "moderate", "note": "완화하다→누그러뜨리다"},
+      {"word": "reduce", "note": "줄이다→경감하다"},
+      {"word": "enfeeble", "note": "약화시키다→힘을 줄이다"},
+      {"word": "apologize", "note": "사과하다→변명하다"}
+    ],
+    "tips": [
+      "`ex-` + `tenu-`(얇은, `tenuous`와 같은 뿌리) = 얇게 만들다→(죄를) 가볍게 하다야.",
+      "extenuating circumstances = 참작할 만한 사정. 법률 용어로 자주 나와!"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "exterminate",
+    "pos": "v.",
+    "head_meanings": [
+      "근절(절멸)하다",
+      "몰살하다",
+      "모조리 없애버리다"
+    ],
+    "synonyms_from_image": [
+      {"word": "eradicate", "note": "근절하다→뿌리째 뽑다"},
+      {"word": "eliminate", "note": "제거하다→없애다"},
+      {"word": "annihilate", "note": "전멸시키다→완전히 파괴"},
+      {"word": "abolish", "note": "폐지하다→완전히 없애다"},
+      {"word": "destroy", "note": "파괴하다"},
+      {"word": "kill", "note": "죽이다"}
+    ],
+    "tips": [
+      "`ex-` + `termin-`(끝, `terminal`과 같은 뿌리) = 끝장내다→완전히 없애다야.",
+      "해충 박멸(extermination)에서 많이 쓰여. eradicate, extirpate와 한 세트야."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "extinguish",
+    "pos": "v.",
+    "head_meanings": [
+      "끄다",
+      "진화(鎭火)하다",
+      "잃게 하다",
+      "절멸시키다",
+      "소멸시키다"
+    ],
+    "synonyms_from_image": [
+      {"word": "douse", "note": "물을 끼얹다→불을 끄다"}
+    ],
+    "tips": [
+      "`ex-` + `stinguere`(끄다) = 꺼버리는 거야.",
+      "비유적으로 extinguish hope = 희망을 소멸시키다로도 써."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "extirpate",
+    "pos": "v.",
+    "head_meanings": [
+      "근절하다",
+      "뿌리뽑다"
+    ],
+    "synonyms_from_image": [
+      {"word": "eliminate", "note": "제거하다"},
+      {"word": "annihilate", "note": "전멸시키다"},
+      {"word": "destroy", "note": "파괴하다"},
+      {"word": "excise", "note": "잘라내다→외과적 제거"},
+      {"word": "eradicate", "note": "근절하다→뿌리째 뽑다"}
+    ],
+    "tips": [
+      "`ex-` + `stirps`(뿌리) = 뿌리째 뽑는 거야.",
+      "eradicate(`e-` + `radix` 뿌리)와 한 세트야. 둘 다 '뿌리째 제거'라는 뜻이거든."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "extol",
+    "pos": "v.",
+    "head_meanings": [
+      "크게 칭찬(찬양)하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "laud", "note": "찬양하다"},
+      {"word": "commend", "note": "칭찬하다→공식적 인정"},
+      {"word": "exalt", "note": "높이 찬양하다"},
+      {"word": "compliment", "note": "칭찬하다→호의적 말"},
+      {"word": "eulogize", "note": "찬미하다→격식 있게 칭송"},
+      {"word": "applaud", "note": "박수치다→지지를 표하다"},
+      {"word": "bless", "note": "축복하다→찬양"},
+      {"word": "acclaim", "note": "환호하다→공개적 칭찬"},
+      {"word": "panegyrize", "note": "찬사를 보내다→격식 높은 찬양"}
+    ],
+    "tips": [
+      "`ex-`(위로) + `tol-`(들어올리다) = 높이 들어올리다→극찬하다야.",
+      "laud, acclaim, eulogize와 한 세트야. GRE에서 '칭찬하다' 동의어 세트는 필수!"
+    ]
+  },
+  {
+    "id": "081",
+    "word": "extort",
+    "pos": "v.",
+    "head_meanings": [
+      "강제로 빼앗다",
+      "위협하여 탈취하다",
+      "n.) 강탈, 갈취"
+    ],
+    "synonyms_from_image": [
+      {"word": "demand", "note": "요구하다→강제로 요구"},
+      {"word": "blackmail", "note": "협박하다→협박으로 갈취"},
+      {"word": "steal", "note": "훔치다→부당하게 빼앗다"},
+      {"word": "obtain", "note": "얻다→부당한 방법으로 취득"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `tort-`(비틀다, `torture`와 같은 뿌리) = 비틀어 짜내는 거야.",
+      "extortion = 강탈/갈취. 범죄 관련 지문에서 나올 수 있어."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "extract",
+    "pos": "n./v.",
+    "head_meanings": [
+      "발췌",
+      "인용구",
+      "뽑아내다",
+      "추출하다",
+      "짜내다",
+      "정보, 돈 등을 받아내다",
+      "끌어내다",
+      "추론하다",
+      "발췌하다",
+      "인용하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "remove", "note": "제거하다→뽑아내다"},
+      {"word": "exact", "note": "강제로 빼앗다→억지로 얻다"},
+      {"word": "extort", "note": "강탈하다→위협으로 빼앗다"},
+      {"word": "obtain", "note": "얻다→추출하다"},
+      {"word": "excerpt", "note": "발췌하다→일부를 뽑다"},
+      {"word": "select", "note": "선택하다→골라 뽑다"},
+      {"word": "derive", "note": "유래하다→끌어내다"},
+      {"word": "deduce", "note": "추론하다→결론을 이끌어내다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `tract-`(끌다) = 밖으로 끌어내는 거야.",
+      "extract information = 정보를 끌어내다. 명사로는 '추출물, 발췌문'이야."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "extraneous",
+    "pos": "adj.",
+    "head_meanings": [
+      "외부로부터의",
+      "이질적인",
+      "(본질과) 관계 없는",
+      "본질에서 벗어난",
+      "무관계한"
+    ],
+    "synonyms_from_image": [
+      {"word": "irrelevant", "note": "무관한→본질과 관계없는"},
+      {"word": "unrelated", "note": "관련 없는"},
+      {"word": "immaterial", "note": "중요하지 않은→본질적이지 않은"},
+      {"word": "incidental", "note": "부수적인→핵심이 아닌"},
+      {"word": "foreign", "note": "외부의→이질적인"},
+      {"word": "alien", "note": "이질적인→외래의"}
+    ],
+    "tips": [
+      "`extra-`(밖의) + `-aneous` = 본질 밖의 = 무관한이야.",
+      "GRE 고빈도! extraneous details = 본질과 무관한 세부사항."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "extraordinary",
+    "pos": "adj.",
+    "head_meanings": [
+      "비상한",
+      "비범한",
+      "색다른",
+      "괴상한",
+      "놀랄만한",
+      "현저한",
+      "훌륭한",
+      "멋진",
+      "엄청난"
+    ],
+    "synonyms_from_image": [
+      {"word": "remarkable", "note": "주목할 만한"},
+      {"word": "exceptional", "note": "예외적인→뛰어난"},
+      {"word": "amazing", "note": "놀라운"},
+      {"word": "astonishing", "note": "깜짝 놀랄 만한"},
+      {"word": "astounding", "note": "경악할 만한"},
+      {"word": "stunning", "note": "아찔할 정도로 놀라운"},
+      {"word": "incredible", "note": "믿기 힘든→대단한"},
+      {"word": "phenomenal", "note": "경이로운"},
+      {"word": "momentous", "note": "중대한→역사적인"},
+      {"word": "terrific", "note": "굉장한"},
+      {"word": "tremendous", "note": "엄청난"},
+      {"word": "stupendous", "note": "어마어마한"},
+      {"word": "awesome", "note": "경외스러운→대단한"},
+      {"word": "prodigious", "note": "놀라운→거대한"},
+      {"word": "monumental", "note": "기념비적인→엄청난"}
+    ],
+    "tips": [
+      "`extra-`(~을 넘어서) + `ordinary`(평범한) = 평범을 넘어선이야.",
+      "긍정적(뛰어난)·부정적(괴상한) 두 뉘앙스 모두 가능해."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "extrapolate",
+    "pos": "v./n.",
+    "head_meanings": [
+      "v.) 추론하다, 추정하다, 외삽하다",
+      "n.) 추정, 추론, 외삽"
+    ],
+    "synonyms_from_image": [
+      {"word": "guesswork", "note": "추측→추정의 일종"},
+      {"word": "inference", "note": "추론→논리적 도출"},
+      {"word": "amplification", "note": "확장→데이터의 확장 추정"}
+    ],
+    "tips": [
+      "`extra-`(밖으로) + `polate`(다듬다) = 기존 데이터 밖으로 다듬어 나가다→추정하다야.",
+      "interpolate(내삽하다)와 반대 개념이야. 알려진 것에서 미지의 것을 예측하는 거야."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "extravagance",
+    "pos": "n.",
+    "head_meanings": [
+      "(금전의) 낭비(벽)",
+      "사치(품)",
+      "(행동, 의견 등의) 지나침",
+      "과도(함)",
+      "무절제",
+      "방종",
+      "화려함"
+    ],
+    "synonyms_from_image": [
+      {"word": "profligacy", "note": "방탕→돈을 물 쓰듯 씀"},
+      {"word": "unthriftiness", "note": "검소하지 않음→낭비벽"},
+      {"word": "improvidence", "note": "무계획→앞날을 생각 안 함"},
+      {"word": "prodigality", "note": "낭비벽→아낌없이 씀"},
+      {"word": "lavishness", "note": "호화로움→풍족하게 씀"},
+      {"word": "indulgence", "note": "방종→욕구에 빠짐"},
+      {"word": "self-indulgence", "note": "자기 방종→자기 욕구에 탐닉"},
+      {"word": "ornateness", "note": "화려함→지나치게 꾸밈"},
+      {"word": "elaborateness", "note": "정교함→과하게 복잡한"},
+      {"word": "embellishment", "note": "장식→과도한 꾸밈"},
+      {"word": "ostentation", "note": "과시→허세 부리는 화려함"},
+      {"word": "exaggeration", "note": "과장→지나침"},
+      {"word": "immoderation", "note": "무절제→적정선을 넘음"}
+    ],
+    "tips": [
+      "`extra-`(밖으로) + `vag-`(방황하다, `vagabond`와 같은 뿌리) = 적정선 밖으로 벗어남→사치/낭비야.",
+      "extravagant(사치스러운)의 명사형이야. frugality(검소함)가 반의어!"
+    ]
+  },
+  {
+    "id": "087",
+    "word": "extremist",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "극단(과격)론자",
+      "극단적인 사람",
+      "과격한",
+      "극단과격론(자)의"
+    ],
+    "synonyms_from_image": [
+      {"word": "zealot", "note": "광신자→극단적 열정가"},
+      {"word": "fanatic", "note": "광신자→맹목적 신봉자"},
+      {"word": "enthusiast", "note": "열광자"},
+      {"word": "radical", "note": "급진주의자"},
+      {"word": "diehard", "note": "완고한 사람→끝까지 고수하는"},
+      {"word": "activist", "note": "활동가→적극적 행동주의자"},
+      {"word": "bigot", "note": "편협한 사람→맹목적 신념"},
+      {"word": "dogmatist", "note": "독단주의자"},
+      {"word": "partisan", "note": "당파적인 사람→편향된 지지자"},
+      {"word": "adherent", "note": "추종자→충실한 지지자"},
+      {"word": "devotee", "note": "헌신자→열렬한 신봉자"},
+      {"word": "fundamentalist", "note": "근본주의자"},
+      {"word": "hardliner", "note": "강경파"}
+    ],
+    "tips": [
+      "`extreme` + `-ist`야.",
+      "moderate(온건한)의 반대야. political extremist = 정치적 극단주의자."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "extricate",
+    "pos": "v.",
+    "head_meanings": [
+      "탈출시키다",
+      "구해내다",
+      "해결하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "release", "note": "풀어주다→속박에서 해방"},
+      {"word": "loose", "note": "풀다→느슨하게 하여 빼내다"},
+      {"word": "rescue", "note": "구출하다"},
+      {"word": "liberate", "note": "해방하다→자유롭게 하다"},
+      {"word": "untangle", "note": "풀다→엉킨 것에서 꺼내다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `tric-`(얽힘) = 얽힘에서 빼내는 거야.",
+      "extricate oneself from a situation = 상황에서 빠져나오다."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "extrinsic",
+    "pos": "adj.",
+    "head_meanings": [
+      "외부의",
+      "고유하지 않은",
+      "외부로부터의"
+    ],
+    "synonyms_from_image": [
+      {"word": "exterior", "note": "외부의"},
+      {"word": "extraneous", "note": "외부의→본질 밖의"},
+      {"word": "exotic", "note": "외래의→외부에서 온"},
+      {"word": "irrelevant", "note": "무관한→고유하지 않은"}
+    ],
+    "tips": [
+      "`extra/extro-`(밖의) + `-insic` = 밖에서 온이야.",
+      "`intrinsic`(본질적인)의 반의어! 이 쌍은 GRE 필수야."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "extrovert",
+    "pos": "n.",
+    "head_meanings": [
+      "외향적인 사람"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`extro-`(밖으로) + `vert`(향하다) = 밖을 향한 사람이야.",
+      "`introvert`(내향적인 사람)의 반의어야."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "exuberant",
+    "pos": "adj.",
+    "head_meanings": [
+      "무성한",
+      "기운찬",
+      "(상상력·재능 따위가) 풍부한",
+      "(문장이) 화려한"
+    ],
+    "synonyms_from_image": [
+      {"word": "lively", "note": "활기찬"},
+      {"word": "high-spirited", "note": "기운찬→사기 높은"},
+      {"word": "plentiful", "note": "풍부한"},
+      {"word": "productive", "note": "생산적인→활발한"},
+      {"word": "profuse", "note": "풍부한→넘치는"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `uber-`(풍요, 젖통) = 풍요가 넘치는→무성한/기운찬이야.",
+      "exuberant vegetation = 무성한 초목. 사람에게 쓰면 '기운 넘치는'이야."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "exude",
+    "pos": "v.",
+    "head_meanings": [
+      "스며나오다",
+      "스며나오게 하다",
+      "발산하다",
+      "냄새가 나다"
+    ],
+    "synonyms_from_image": [
+      {"word": "discharge", "note": "배출하다"},
+      {"word": "release", "note": "방출하다"},
+      {"word": "bleed", "note": "피가 나다→스며나오다"},
+      {"word": "emit", "note": "방출하다→내뿜다"},
+      {"word": "percolate", "note": "스며들다→서서히 배어나오다"},
+      {"word": "sweat", "note": "땀 흘리다→배어나오다"},
+      {"word": "weep", "note": "스며나오다→눈물처럼 흘러나오다"},
+      {"word": "seep", "note": "스며나오다→서서히"},
+      {"word": "escape", "note": "빠져나오다"},
+      {"word": "flow", "note": "흐르다"},
+      {"word": "leak", "note": "새다→누출되다"},
+      {"word": "emanate", "note": "발산하다→뿜어나오다"},
+      {"word": "radiate", "note": "방사하다→사방으로 퍼지다"},
+      {"word": "ooze", "note": "스며나오다→서서히 흘러나오다"},
+      {"word": "display", "note": "보여주다→감정을 드러내다"},
+      {"word": "exhibit", "note": "나타내다→품어 나오다"},
+      {"word": "transmit", "note": "전달하다→발산하여 전하다"}
+    ],
+    "tips": [
+      "`ex-`(밖으로) + `sud-`(땀, sweat) = 땀처럼 밖으로 배어나오는 거야.",
+      "exude confidence = 자신감을 풍기다. 물리적·비유적 발산 모두에 쓰여."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "exult",
+    "pos": "v.",
+    "head_meanings": [
+      "크게 기뻐하다",
+      "환희하다",
+      "기뻐 날뛰다"
+    ],
+    "synonyms_from_image": [
+      {"word": "jubilate", "note": "환호하다→기뻐 축하하다"}
+    ],
+    "tips": [
+      "`ex-`(위로) + `sult-`(뛰다) = 기뻐서 펄쩍 뛰는 거야.",
+      "exultant = 환희에 찬. exult in/at/over = ~에 대해 크게 기뻐하다."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "fabricate",
+    "pos": "v.",
+    "head_meanings": [
+      "맞추어 만들다",
+      "조립하다",
+      "꾸며내다",
+      "날조하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "compose", "note": "구성하다→짜 맞추다"},
+      {"word": "create", "note": "만들다"},
+      {"word": "construct", "note": "건설하다→조립하다"},
+      {"word": "manufacture", "note": "제조하다→대량 생산하다"}
+    ],
+    "tips": [
+      "`fabric`(직물) + `-ate` = 직물을 짜듯 만들다→날조하다야.",
+      "GRE에서는 '꾸며내다/날조하다'가 핵심 뜻이야! fabricate evidence = 증거를 조작하다."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "facade",
+    "pos": "n.",
+    "head_meanings": [
+      "(건물의) 정면",
+      "(사물의) 겉보기"
+    ],
+    "synonyms_from_image": [
+      {"word": "mask", "note": "가면→겉모습"},
+      {"word": "appearance", "note": "외모→겉으로 보이는 모습"},
+      {"word": "face", "note": "얼굴→정면"},
+      {"word": "show", "note": "겉치레→꾸며진 모습"},
+      {"word": "guise", "note": "외양→가장된 모습"},
+      {"word": "front", "note": "정면→겉모습"},
+      {"word": "frontage", "note": "건물 정면"}
+    ],
+    "tips": [
+      "프랑스어 `façade`(건물 정면)에서 왔어.",
+      "비유적으로 겉으로 보이는 가짜 모습을 뜻해. a facade of happiness = 행복한 척."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "facet",
+    "pos": "n.",
+    "head_meanings": [
+      "(결정체·보석의) 작은 면",
+      "(커트 글라스의) 자른 면",
+      "(일의) 일면",
+      "양상"
+    ],
+    "synonyms_from_image": [
+      {"word": "aspect", "note": "측면→다양한 양상 중 하나"},
+      {"word": "phase", "note": "국면→단계적 일면"},
+      {"word": "angle", "note": "각도→관점"}
+    ],
+    "tips": [
+      "`face`(면) + `-et`(작은) = 작은 면이야. 다이아몬드 커팅면처럼 여러 측면을 뜻해.",
+      "every facet of the problem = 문제의 모든 측면."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "facetious",
+    "pos": "adj.",
+    "head_meanings": [
+      "익살맞은",
+      "우스운"
+    ],
+    "synonyms_from_image": [
+      {"word": "witty", "note": "재치 있는"},
+      {"word": "humorous", "note": "유머러스한"},
+      {"word": "funny", "note": "우스운"},
+      {"word": "joking", "note": "농담하는"},
+      {"word": "jocular", "note": "농담을 즐기는→익살스러운"},
+      {"word": "comic", "note": "우스꽝스러운"}
+    ],
+    "tips": [
+      "GRE 함정! funny/humorous가 아니라 '부적절한 상황에서 우스개를 치는' 뉘앙스야.",
+      "진지해야 할 때 농담하는 거라서 부정적인 어감이 있어."
+    ]
+  },
+  {
+    "id": "098",
+    "word": "facile",
+    "pos": "adj.",
+    "head_meanings": [
+      "수월한",
+      "용이한",
+      "손쉬운",
+      "능란한",
+      "유창한",
+      "피상적인",
+      "겉핥기의",
+      "경솔한",
+      "경박한"
+    ],
+    "synonyms_from_image": [
+      {"word": "simplistic", "note": "지나치게 단순한→깊이 없는"},
+      {"word": "superficial", "note": "피상적인→겉만 훑는"},
+      {"word": "oversimplified", "note": "지나치게 단순화한"},
+      {"word": "shallow", "note": "얕은→깊이 없는"},
+      {"word": "glib", "note": "입만 번지르르한→말만 그럴듯한"},
+      {"word": "jejune", "note": "유치한→내용이 빈약한"},
+      {"word": "naive", "note": "순진한→생각이 단순한"},
+      {"word": "effortless", "note": "힘들이지 않는→손쉬운"},
+      {"word": "easy", "note": "쉬운"},
+      {"word": "undemanding", "note": "요구가 적은→수월한"},
+      {"word": "unexacting", "note": "까다롭지 않은"},
+      {"word": "painless", "note": "고통 없는→수월한"},
+      {"word": "skillful", "note": "능숙한"},
+      {"word": "adroit", "note": "능란한→솜씨 좋은"},
+      {"word": "handy", "note": "손재주 있는"},
+      {"word": "fluent", "note": "유창한"},
+      {"word": "smooth", "note": "매끄러운→능숙한"}
+    ],
+    "tips": [
+      "GRE 함정! '쉬운'보다 '피상적인/겉핥기의'가 GRE 핵심 뜻이야.",
+      "a facile argument = 피상적인(깊이 없는) 논증. glib과 비슷한 부정적 뉘앙스야."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "facilitate",
+    "pos": "v.",
+    "head_meanings": [
+      "(일을) 용이하게 하다",
+      "촉진하다",
+      "조장하다",
+      "돕다"
+    ],
+    "synonyms_from_image": [
+      {"word": "aid", "note": "돕다→지원하다"},
+      {"word": "assist", "note": "보조하다→도와주다"},
+      {"word": "help", "note": "돕다"},
+      {"word": "ease", "note": "쉽게 하다→부담을 줄이다"},
+      {"word": "further", "note": "촉진하다→앞으로 나아가게"},
+      {"word": "subserve", "note": "도움이 되다→보조 역할"},
+      {"word": "serve", "note": "봉사하다→돕다"},
+      {"word": "forward", "note": "추진하다→진전시키다"}
+    ],
+    "tips": [
+      "`facil-`(쉬운) + `-ate` = 쉽게 만드는 거야→돕다/촉진하다.",
+      "facilitate discussion = 논의를 촉진하다. facilitator = 진행자/촉진자."
+    ]
+  },
+  {
+    "id": "100",
+    "word": "faction",
+    "pos": "n.",
+    "head_meanings": [
+      "도당",
+      "파벌",
+      "당쟁",
+      "내분"
+    ],
+    "synonyms_from_image": [
+      {"word": "cabal", "note": "비밀 결사→음모 집단"},
+      {"word": "coalition", "note": "연합→일시적 동맹"},
+      {"word": "ring", "note": "도당→비밀 조직"}
+    ],
+    "tips": [
+      "`fact-`(만들다) + `-ion` = 만들어진 것→인위적으로 만든 파벌이야.",
+      "rival factions = 경쟁 파벌. 집단 내 분열을 강조하는 단어야."
+    ]
+  },
+  {
+    "id": "101",
+    "word": "factious",
+    "pos": "adj.",
+    "head_meanings": [
+      "당파심이 강한",
+      "당쟁을 일삼는"
+    ],
+    "synonyms_from_image": [
+      {"word": "factional", "note": "파벌의"},
+      {"word": "rebellious", "note": "반항적인→분열을 일으키는"},
+      {"word": "partisan", "note": "당파적인"},
+      {"word": "divisive", "note": "분열적인→갈등을 조장하는"},
+      {"word": "quarrelsome", "note": "싸움을 좋아하는→분쟁 일으키는"}
+    ],
+    "tips": [
+      "`faction` + `-ous` = 파벌적인이야.",
+      "`factitious`(인위적인)와 헷갈리지 마! 철자가 비슷하지만 뜻이 완전 달라."
+    ]
+  },
+  {
+    "id": "102",
+    "word": "factiousness",
+    "pos": "n.",
+    "head_meanings": [
+      "파당을 짓는 성향",
+      "분열",
+      "내분"
+    ],
+    "synonyms_from_image": [
+      {"word": "schism", "note": "분열→집단 내 갈라짐"}
+    ],
+    "tips": [
+      "`factious` + `-ness`야.",
+      "internal factiousness = 내부 분열. 조직 내 갈등을 뜻해."
+    ]
+  },
+  {
+    "id": "103",
+    "word": "factitious",
+    "pos": "adj.",
+    "head_meanings": [
+      "인위적인",
+      "모조의",
+      "가짜의"
+    ],
+    "synonyms_from_image": [
+      {"word": "fake", "note": "가짜의"},
+      {"word": "false", "note": "거짓된"},
+      {"word": "feigned", "note": "꾸며낸→가장한"},
+      {"word": "assumed", "note": "가장한→꾸민"},
+      {"word": "pseudo", "note": "사이비의→가짜의"},
+      {"word": "phony", "note": "가짜의→위조된"},
+      {"word": "unreal", "note": "비현실적인→실제가 아닌"},
+      {"word": "man-made", "note": "인공적인→사람이 만든"}
+    ],
+    "tips": [
+      "`fact-`(만들다) + `-itious` = 인위적으로 만든 = 가짜의야.",
+      "`factious`(파벌적인)와 헷갈리지 마! 이 둘은 GRE 함정 단어야."
+    ]
+  },
+  {
+    "id": "104",
+    "word": "factotum",
+    "pos": "n.",
+    "head_meanings": [
+      "잡역꾼",
+      "막일하는 사람"
+    ],
+    "synonyms_from_image": [
+      {"word": "handyman", "note": "만능 수리공→뭐든 하는 사람"}
+    ],
+    "tips": [
+      "`fac-`(하다, fact) + `totum`(모든 것) = 모든 것을 하는 사람이야.",
+      "GRE 고급 어휘야. 한 조직에서 온갖 잡일을 도맡아 하는 사람을 뜻해."
+    ]
+  },
+  {
+    "id": "105",
+    "word": "failure",
+    "pos": "n.",
+    "head_meanings": [
+      "실패",
+      "잘되지 않음",
+      "태만",
+      "부족",
+      "결핍",
+      "쇠약",
+      "감퇴",
+      "파산",
+      "낙제"
+    ],
+    "synonyms_from_image": [
+      {"word": "collapse", "note": "붕괴→실패로 인한 무너짐"}
+    ],
+    "tips": [
+      "`fail` + `-ure`야.",
+      "heart failure = 심부전. 의학 용어로도 쓰여. failure to comply = 불이행."
+    ]
+  },
+  {
+    "id": "106",
+    "word": "faint",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "(색, 소리, 빛 등이) 희미한",
+      "어렴풋한",
+      "(생각 등이) 뚜렷하지 않은",
+      "열성 없는",
+      "현기증이 나서"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "두 뜻이 있어: adj=희미한/어렴풋한, v=기절하다.",
+      "GRE에서는 adj 뜻이 더 중요해. a faint resemblance = 희미한 유사성."
+    ]
+  }
+]
