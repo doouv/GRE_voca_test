@@ -676,9 +676,14 @@
     ],
     "synonyms_from_image": [
       {"word": "carp", "note": "흠잡다"},
+      {"word": "grouse", "note": "투덜대다"},
       {"word": "quibble", "note": "사소한 것에 따지다"},
-      {"word": "nitpick", "note": "사소한 결점을 찾다"},
-      {"word": "grouse", "note": "투덜대다"}
+      {"word": "complain", "note": "불평하다"},
+      {"word": "belittle", "note": "깎아내리다"},
+      {"word": "find fault", "note": "흠을 찾다"},
+      {"word": "disparage", "note": "헐뜯다"},
+      {"word": "deprecate", "note": "반대하며 깎아내리다"},
+      {"word": "deride", "note": "비웃다"}
     ],
     "tips": [
       "라틴어 `cavillari`(조롱하다, 트집 잡다)에서 왔어.",
