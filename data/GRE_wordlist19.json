@@ -1,0 +1,1830 @@
+[
+  {
+    "id": "001",
+    "word": "fallacious",
+    "pos": "adj.",
+    "head_meanings": [
+      "그릇된",
+      "오류의",
+      "믿을 수 없는",
+      "현혹시키는"
+    ],
+    "synonyms_from_image": [
+      {"word": "deceptive", "note": "속이는→거짓으로 현혹하는"},
+      {"word": "false", "note": "거짓된→사실이 아닌"},
+      {"word": "deceiving", "note": "기만하는→속여서 잘못 믿게 하는"},
+      {"word": "illogical", "note": "비논리적인→논리에 맞지 않는"},
+      {"word": "erroneous", "note": "잘못된→오류가 있는"},
+      {"word": "sophistic", "note": "궤변적인→그럴듯하지만 틀린"}
+    ],
+    "tips": [
+      "`fallacy`(오류) + `-ous`에서 왔어. 그럴듯해 보이지만 실은 틀린 거야.",
+      "GRE 논리 문맥에서 자주 나와. fallacious reasoning = 오류가 있는 추론.",
+      "fallacy(명사), fallacious(형용사) 세트로 외워둬!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "fallible",
+    "pos": "adj.",
+    "head_meanings": [
+      "오류에 빠지기 쉬운",
+      "잘못을 면치 못하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "imperfect", "note": "불완전한→완벽하지 않아 실수할 수 있는"},
+      {"word": "uncertain", "note": "불확실한→확실하지 않아 틀릴 수 있는"},
+      {"word": "faulty", "note": "결함 있는→오류가 있을 수 있는"},
+      {"word": "unsound", "note": "견실하지 못한→근거가 허약한"},
+      {"word": "errable", "note": "오류를 범할 수 있는→실수 가능한"}
+    ],
+    "tips": [
+      "`fall`(넘어지다) + `-ible`(할 수 있는)에서 왔어. 넘어질 수 있는→실수할 수 있는.",
+      "반의어 infallible(절대 틀리지 않는)이 GRE에서 더 자주 나와!"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "fallow",
+    "pos": "adj.",
+    "head_meanings": [
+      "묵혀둔",
+      "경작되지 않은",
+      "개간하지 않은"
+    ],
+    "synonyms_from_image": [
+      {"word": "barren", "note": "불모의→작물이 자라지 않는"},
+      {"word": "unplanted", "note": "심지 않은→작물을 안 심은 상태"}
+    ],
+    "tips": [
+      "땅을 쉬게 하다→비유적으로 fallow period = 휴식기야.",
+      "GRE에서 '비활성 상태'를 표현할 때 나와. lie fallow = 쉬다/놀리다.",
+      "barren(영원히 불모)과 달리 fallow는 '일부러 쉬게 한' 뉘앙스가 있어!"
+    ]
+  },
+  {
+    "id": "004",
+    "word": "falsehood",
+    "pos": "n.",
+    "head_meanings": [
+      "거짓말",
+      "허위",
+      "허언",
+      "기만"
+    ],
+    "synonyms_from_image": [
+      {"word": "lie", "note": "거짓말→의도적으로 속이는 말"},
+      {"word": "untruth", "note": "사실이 아닌 것→거짓"},
+      {"word": "falsification", "note": "위조→사실을 거짓으로 바꿈"},
+      {"word": "fabrication", "note": "꾸며낸 이야기→날조"},
+      {"word": "invention", "note": "지어낸 것→없는 사실을 만들어냄"},
+      {"word": "fancy", "note": "공상→사실이 아닌 상상"},
+      {"word": "lying", "note": "거짓말하기→속이는 행위"},
+      {"word": "mendacity", "note": "허위→거짓말하는 성향"},
+      {"word": "untruthfulness", "note": "불성실→진실하지 않은 태도"},
+      {"word": "perjury", "note": "위증→법정에서의 거짓 증언"},
+      {"word": "deceit", "note": "사기→남을 속이는 행위"},
+      {"word": "deception", "note": "기만→속여서 잘못 믿게 함"},
+      {"word": "artifice", "note": "책략→교묘한 속임수"},
+      {"word": "double-crossing", "note": "배신→뒤통수치기"},
+      {"word": "treachery", "note": "배반→신뢰를 저버리는 행위"}
+    ],
+    "tips": [
+      "`false` + `-hood`(상태)에서 왔어. 거짓인 상태야.",
+      "mendacity, fabrication 같은 GRE 고급 동의어와 세트로 외워!"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "falter",
+    "pos": "v.",
+    "head_meanings": [
+      "망설이다",
+      "움찔하다",
+      "휘청거리다"
+    ],
+    "synonyms_from_image": [
+      {"word": "waver", "note": "흔들리다→망설이다"},
+      {"word": "vacillate", "note": "동요하다→이쪽저쪽 갈팡질팡"},
+      {"word": "hesitate", "note": "주저하다→결정을 못 내리다"},
+      {"word": "stagger", "note": "비틀거리다→흔들리며 나아가다"},
+      {"word": "halt", "note": "멈추다→주춤하다"},
+      {"word": "balk", "note": "주저하다→뒷걸음치다"}
+    ],
+    "tips": [
+      "목소리/걸음/의지가 흔들리는 이미지를 떠올려봐.",
+      "his voice faltered = 그의 목소리가 떨렸다. GRE 지문에서 자주 나와!",
+      "waver, vacillate, hesitate와 뉘앙스 차이를 구분해둬야 해!"
+    ]
+  },
+  {
+    "id": "006",
+    "word": "fanaticism",
+    "pos": "n.",
+    "head_meanings": [
+      "열광",
+      "광신"
+    ],
+    "synonyms_from_image": [
+      {"word": "zealotry", "note": "광신→맹목적 열정"},
+      {"word": "enthusiasm", "note": "열광→과도한 열정"},
+      {"word": "fever", "note": "열병→열광적 흥분"}
+    ],
+    "tips": [
+      "`fanatic` + `-ism`에서 왔어. 광신적 행위나 태도야.",
+      "zealotry가 GRE에서 가장 가까운 동의어야!"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "fanatic",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "광신적인",
+      "열광적인",
+      "광신자",
+      "열광자"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `fanaticus` = 신전의→신에게 미친→광신자에서 왔어.",
+      "zealot, extremist와 비슷한 맥락이야.",
+      "fanatical(형용사), fanaticism(명사) 세트로 외워둬!"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "fancied",
+    "pos": "adj.",
+    "head_meanings": [
+      "상상의",
+      "가공의",
+      "근거 없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "fabricated", "note": "꾸며낸→만들어진 이야기"},
+      {"word": "imaginary", "note": "상상의→실재하지 않는"},
+      {"word": "illusory", "note": "환상의→착각에 의한"},
+      {"word": "imagined", "note": "상상된→머릿속에서 만든"},
+      {"word": "notional", "note": "관념적인→실체 없이 머릿속에만 있는"}
+    ],
+    "tips": [
+      "`fancy`(상상하다)의 과거분사→상상된 거야.",
+      "fancied threats = 상상 속의 위협. 실제가 아닌 것을 강조해!"
+    ]
+  },
+  {
+    "id": "009",
+    "word": "fanciful",
+    "pos": "adj.",
+    "head_meanings": [
+      "공상적인",
+      "상상력이 풍부한",
+      "변덕스러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "quixotic", "note": "돈키호테 같은→비현실적으로 이상주의적인"},
+      {"word": "impractical", "note": "비현실적인→실용적이지 않은"},
+      {"word": "illusory", "note": "환상적인→실체가 없는"},
+      {"word": "fantastic", "note": "환상적인→상상에 의한"},
+      {"word": "far-fetched", "note": "억지스러운→현실성이 먼"},
+      {"word": "unbelievable", "note": "믿기 어려운→너무 비현실적인"},
+      {"word": "extravagant", "note": "과도한→지나치게 꾸민"},
+      {"word": "ridiculous", "note": "우스꽝스러운→터무니없는"},
+      {"word": "absurd", "note": "불합리한→말이 안 되는"},
+      {"word": "preposterous", "note": "터무니없는→상식 밖의"},
+      {"word": "imaginary", "note": "상상의→실재하지 않는"},
+      {"word": "fabulous", "note": "전설적인→믿기 어려울 만큼"},
+      {"word": "fictional", "note": "허구의→꾸며낸"},
+      {"word": "imaginative", "note": "상상력이 풍부한→창의적인"},
+      {"word": "inventive", "note": "독창적인→새로운 것을 만들어내는"},
+      {"word": "whimsical", "note": "변덕스러운→기발하고 엉뚱한"},
+      {"word": "capricious", "note": "변덕스러운→예측 불가한"},
+      {"word": "eccentric", "note": "별난→보통과 다른"},
+      {"word": "bizarre", "note": "기괴한→이상야릇한"},
+      {"word": "dreamy", "note": "몽상적인→꿈꾸는 듯한"}
+    ],
+    "tips": [
+      "`fancy` + `-ful`에서 왔어. 상상력이 넘치는/비현실적인 거야.",
+      "GRE에서 fanciful은 보통 부정적 뉘앙스로 '비현실적인' 뜻이야!"
+    ]
+  },
+  {
+    "id": "010",
+    "word": "farce",
+    "pos": "n.",
+    "head_meanings": [
+      "소극",
+      "광대극",
+      "어리석은 짓",
+      "웃음거리"
+    ],
+    "synonyms_from_image": [
+      {"word": "harlequinade", "note": "어릿광대극→익살극"},
+      {"word": "parody", "note": "패러디→풍자적 모방"},
+      {"word": "burlesque", "note": "익살극→과장된 풍자"},
+      {"word": "mock", "note": "조롱→우스꽝스러운 모방"}
+    ],
+    "tips": [
+      "이탈리아어 `farsa`(채우다)에서 왔어. 연극 사이 채우는 웃긴 막간극이야.",
+      "GRE에서 비유적으로 '형식만 있고 실속 없는 것'이란 뜻으로도 나와!",
+      "The trial was a farce. = 그 재판은 한심한 꼴이었다."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "far-reaching",
+    "pos": "adj.",
+    "head_meanings": [
+      "광범위에 걸친",
+      "멀리까지 미치는",
+      "원대한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`far` + `reaching` = 멀리까지 닿는→영향 범위가 넓은 거야.",
+      "far-reaching consequences = 광범위한 결과. GRE 지문에서 자주 봐!"
+    ]
+  },
+  {
+    "id": "012",
+    "word": "fashionable",
+    "pos": "adj.",
+    "head_meanings": [
+      "최신 유행의",
+      "유행하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "in vogue", "note": "유행 중인→지금 인기 있는"}
+    ],
+    "tips": [
+      "`fashion` + `-able`에서 왔어.",
+      "in vogue가 GRE에서 더 자주 나오는 표현이야!"
+    ]
+  },
+  {
+    "id": "013",
+    "word": "fastidious",
+    "pos": "adj.",
+    "head_meanings": [
+      "까다로운",
+      "괴팍스러운",
+      "꼼꼼한",
+      "세심한",
+      "정성들인"
+    ],
+    "synonyms_from_image": [
+      {"word": "scrupulous", "note": "꼼꼼한→양심적으로 세심한"},
+      {"word": "punctilious", "note": "세밀한→격식을 꼼꼼히 지키는"},
+      {"word": "painstaking", "note": "공들이는→고통 감수하며 세심한"},
+      {"word": "meticulous", "note": "세심한→꼼꼼한"},
+      {"word": "perfectionist", "note": "완벽주의자→흠 허용 안 하는"},
+      {"word": "finicky", "note": "까다로운→사소한 것에 예민"},
+      {"word": "critical", "note": "비판적인→결점을 잘 잡는"},
+      {"word": "overcritical", "note": "지나치게 비판적인"},
+      {"word": "hypercritical", "note": "초비판적인→극도로 까다로운"},
+      {"word": "fussy", "note": "까탈스러운→사소한 것에 신경 쓰는"},
+      {"word": "exacting", "note": "엄격한→높은 기준을 요구"},
+      {"word": "demanding", "note": "요구가 많은→까다롭게 구는"},
+      {"word": "pernickety", "note": "까다로운→사소한 것에 집착"},
+      {"word": "nit-picking", "note": "흠잡는→작은 결점을 꼬치꼬치 따지는"},
+      {"word": "choosy", "note": "가려뽑는→선택이 까다로운"},
+      {"word": "picky", "note": "까다로운→잘 골라먹는"}
+    ],
+    "tips": [
+      "GRE 고빈도 단어야! 까다로운 + 세심한 두 뜻을 다 알아야 해.",
+      "fastidious about details = 세부사항에 까다로운. 긍정/부정 맥락 둘 다 가능해!"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "fatal",
+    "pos": "adj.",
+    "head_meanings": [
+      "치명적인",
+      "파멸적인",
+      "불행을 가져다 주는",
+      "결정적인",
+      "운명의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`fate`(운명) + `-al`에서 왔어. GRE에서 '치명적인' 뜻이 핵심이야.",
+      "fatal flaw = 치명적 결함. fatality(사망자) 같이 외워둬!"
+    ]
+  },
+  {
+    "id": "015",
+    "word": "fatalism",
+    "pos": "n.",
+    "head_meanings": [
+      "운명적 명분"
+    ],
+    "synonyms_from_image": [
+      {"word": "determinism", "note": "결정론→모든 것이 정해져 있다는 사상"},
+      {"word": "predestination", "note": "예정론→운명이 미리 정해져 있음"}
+    ],
+    "tips": [
+      "`fatal` + `-ism` = 운명론이야. 모든 건 이미 정해져 있다는 태도.",
+      "fatalist = 운명론자. GRE 철학 지문에서 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "016",
+    "word": "fathom",
+    "pos": "v./n.",
+    "head_meanings": [
+      "헤아리다",
+      "알아내다",
+      "파악하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "penetrate", "note": "꿰뚫다→깊이 이해하다"},
+      {"word": "follow", "note": "따라가다→이해하다"},
+      {"word": "understand", "note": "이해하다→파악하다"}
+    ],
+    "tips": [
+      "원래 '두 팔 벌린 길이'(해양 측량 단위)야. 깊이를 재다→속을 파악하다.",
+      "I can't fathom why... = 왜 그런지 도무지 이해할 수 없어.",
+      "unfathomable(불가해한)이 GRE에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "017",
+    "word": "fathomable",
+    "pos": "adj.",
+    "head_meanings": [
+      "짐작할 수 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`fathom` + `-able` = 이해할 수 있는이야.",
+      "unfathomable(불가해한)이 GRE에서 더 자주 나와. 반의어로 기억해!"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "fatiguing",
+    "pos": "adj.",
+    "head_meanings": [
+      "피로하게 하는",
+      "고된"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`fatigue`(피로) + `-ing`에서 왔어.",
+      "fatiguing work = 기진맥진하게 만드는 일. exhausting과 비슷해!"
+    ]
+  },
+  {
+    "id": "019",
+    "word": "fatuous",
+    "pos": "adj.",
+    "head_meanings": [
+      "얼빠진",
+      "어리석은",
+      "천치의",
+      "실체 없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "silly", "note": "어리석은→바보 같은"},
+      {"word": "stupid", "note": "멍청한→판단력이 없는"},
+      {"word": "brainless", "note": "머리 빈→생각 없는"},
+      {"word": "vapid", "note": "맥빠진→내용 없고 지루한"}
+    ],
+    "tips": [
+      "라틴어 `fatuus`(바보)에서 왔어. 자기가 어리석은 줄도 모르는 어리석음이야.",
+      "fatuous remark = 얼빠진 발언. GRE에서 사람이나 발언을 묘사할 때 나와!"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "faultfinding",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "흠을 잡음",
+      "말꼬투리를 잡음",
+      "결점 잡기"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`fault` + `finding` = 결점 찾기야. 남의 흠잡기를 좋아하는 사람/행위.",
+      "captious, censorious와 비슷한 뉘앙스야!"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "faultless",
+    "pos": "adj.",
+    "head_meanings": [
+      "과실이 없는",
+      "완벽한"
+    ],
+    "synonyms_from_image": [
+      {"word": "perfect", "note": "완벽한→흠이 없는"}
+    ],
+    "tips": [
+      "`fault` + `-less` = 결점 없는이야.",
+      "flawless, impeccable과 같은 의미야!"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "fauna",
+    "pos": "n.",
+    "head_meanings": [
+      "동물군상"
+    ],
+    "synonyms_from_image": [
+      {"word": "beasts", "note": "짐승들→동물의 총칭"}
+    ],
+    "tips": [
+      "로마 신화 `Fauna`(숲의 여신)에서 왔어. flora(식물상)와 짝으로 외워!",
+      "flora and fauna = 동식물. GRE 생태학 지문 단골이야!"
+    ]
+  },
+  {
+    "id": "023",
+    "word": "favor",
+    "pos": "n./v.",
+    "head_meanings": [
+      "호의",
+      "친절",
+      "편애",
+      "찬성",
+      "지지"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `favere`(좋게 보다)에서 왔어.",
+      "in favor of = ~에 찬성하여. GRE에서 자주 나오는 표현이야!"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "favorable",
+    "pos": "adj.",
+    "head_meanings": [
+      "호의적인",
+      "찬성하는",
+      "유리한",
+      "형편에 알맞은",
+      "순조로운",
+      "유망한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`favor` + `-able`에서 왔어.",
+      "GRE에서 자주 나와. favorable conditions/reviews = 좋은 조건/호평."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "fawning",
+    "pos": "adj.",
+    "head_meanings": [
+      "알랑거리는",
+      "아첨하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "flattering", "note": "아부하는→지나치게 칭찬"},
+      {"word": "obsequious", "note": "비굴하게 복종하는→아첨하며 따르는"},
+      {"word": "cajoling", "note": "감언이설로 꼬시는→달콤하게 설득"},
+      {"word": "wheedling", "note": "구슬리는→달콤하게 꾀는"},
+      {"word": "blandishing", "note": "아첨하는→칭찬으로 구슬리는"}
+    ],
+    "tips": [
+      "`fawn`(새끼 사슴) + `-ing`→새끼 사슴처럼 꼬리치며 알랑거리는 거야.",
+      "GRE 고빈도! obsequious, sycophantic과 세트로 외워!",
+      "fawning praise = 아첨하는 칭찬."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "faze",
+    "pos": "v.",
+    "head_meanings": [
+      "당황하게 하다",
+      "겁먹게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "embarrass", "note": "당황하게 하다→쩔쩔매게"},
+      {"word": "abash", "note": "부끄럽게 하다→면전에서 쩔쩔"},
+      {"word": "confound", "note": "혼란시키다→갈피를 못 잡게"},
+      {"word": "confuse", "note": "혼동시키다→헷갈리게"},
+      {"word": "discomfit", "note": "당황하게 하다→계획을 망쳐 쩔쩔"}
+    ],
+    "tips": [
+      "`phase`(단계)와 철자 구분해! faze = 당황시키다야.",
+      "Nothing fazes her. = 그녀는 아무것에도 당황하지 않아."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "fealty",
+    "pos": "n.",
+    "head_meanings": [
+      "충성",
+      "충성의 맹세의무",
+      "성실"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`fidelity`와 같은 뿌리야. 봉건 시대 영주에 대한 충성 맹세거든.",
+      "swear fealty = 충성을 맹세하다. 격식체로 loyalty보다 무거운 느낌이야!"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "feasible",
+    "pos": "adj.",
+    "head_meanings": [
+      "실행할 수 있는",
+      "그럴듯한",
+      "있음직한",
+      "편리한"
+    ],
+    "synonyms_from_image": [
+      {"word": "expedient", "note": "편리한→목적에 맞는"},
+      {"word": "possible", "note": "가능한→실현될 수 있는"},
+      {"word": "suitable", "note": "적합한→조건에 맞는"},
+      {"word": "workable", "note": "실행 가능한→현실적으로 될 수 있는"}
+    ],
+    "tips": [
+      "라틴어 `facere`(하다)에서 왔어. 할 수 있는→실현 가능한이야.",
+      "GRE에서 자주 나오는 단어야. feasible plan = 실행 가능한 계획."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "feckless",
+    "pos": "adj.",
+    "head_meanings": [
+      "쓸모 없는",
+      "무가치한",
+      "무능한",
+      "무기력한",
+      "무책임한"
+    ],
+    "synonyms_from_image": [
+      {"word": "ineffective", "note": "효과 없는→성과를 못 내는"},
+      {"word": "useless", "note": "쓸모없는→아무 소용이 없는"},
+      {"word": "worthless", "note": "무가치한→가치가 없는"},
+      {"word": "incompetent", "note": "무능한→능력이 없는"},
+      {"word": "inept", "note": "서투른→솜씨가 없는"},
+      {"word": "feeble", "note": "허약한→힘이 없는"},
+      {"word": "weak", "note": "약한→의지가 없는"},
+      {"word": "lazy", "note": "게으른→할 의욕이 없는"},
+      {"word": "idle", "note": "한가한→놀고먹는"},
+      {"word": "slothful", "note": "나태한→극도로 게으른"},
+      {"word": "indolent", "note": "나태한→노력을 싫어하는"},
+      {"word": "shiftless", "note": "무기력한→의지도 능력도 없는"}
+    ],
+    "tips": [
+      "스코틀랜드어 `feck`(효과, `effect`의 변형) + `-less` = 효과 없는→무능한/무책임한.",
+      "GRE에서 사람의 무능함이나 무책임함을 표현할 때 나와!"
+    ]
+  },
+  {
+    "id": "030",
+    "word": "fecundity",
+    "pos": "n.",
+    "head_meanings": [
+      "생산력",
+      "다산",
+      "비옥",
+      "풍부"
+    ],
+    "synonyms_from_image": [
+      {"word": "fertility", "note": "비옥함→생산력"},
+      {"word": "prolificacy", "note": "다산→많이 낳음"},
+      {"word": "productivity", "note": "생산성→많이 만들어냄"},
+      {"word": "opulence", "note": "풍요→넘치는 풍부함"},
+      {"word": "plenty", "note": "풍부→넉넉함"}
+    ],
+    "tips": [
+      "`fecund` + `-ity`에서 왔어. 땅의 비옥함, 작가의 왕성한 생산력에도 써.",
+      "fecundity of ideas = 아이디어의 풍부함."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "fecund",
+    "pos": "adj.",
+    "head_meanings": [
+      "생산적인",
+      "다산의",
+      "풍부한"
+    ],
+    "synonyms_from_image": [
+      {"word": "fertile", "note": "비옥한→생산력이 있는"},
+      {"word": "fruitful", "note": "결실 있는→풍성한 결과를 내는"},
+      {"word": "productive", "note": "생산적인→많이 만들어내는"},
+      {"word": "high-yielding", "note": "수확이 많은→산출량이 높은"},
+      {"word": "rich", "note": "풍부한→자원이 넉넉한"},
+      {"word": "lush", "note": "무성한→식물이 우거진"},
+      {"word": "flourishing", "note": "번창하는→잘 자라는"},
+      {"word": "thriving", "note": "번성하는→잘 되어가는"}
+    ],
+    "tips": [
+      "라틴어 `fecundus`(비옥한)에서 왔어. GRE 고급 어휘!",
+      "fertile보다 격식체야. a fecund imagination = 풍부한 상상력."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "feeble",
+    "pos": "adj.",
+    "head_meanings": [
+      "연약한",
+      "허약한",
+      "미약한",
+      "나약한",
+      "내용이 부족한",
+      "시시한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `flebilis`(슬퍼할 만한)에서 왔어.",
+      "feeble attempt = 미약한 시도. feeble excuse = 궁색한 핑계."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "feedback",
+    "pos": "n.",
+    "head_meanings": [
+      "피드백",
+      "귀환",
+      "출력 에너지 일부를 입력에 되돌리는 조작"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`feed`(먹이다) + `back`(되돌려)→출력을 입력으로 되돌리다.",
+      "positive/negative feedback = 긍정적/부정적 피드백. 일상어지만 과학 맥락도 알아둬!"
+    ]
+  },
+  {
+    "id": "034",
+    "word": "feign",
+    "pos": "v.",
+    "head_meanings": [
+      "가장하다",
+      "인 체하다",
+      "꾸며대다"
+    ],
+    "synonyms_from_image": [
+      {"word": "affect", "note": "~인 체하다→가장하다"},
+      {"word": "fake", "note": "속이다→가짜로 행세"},
+      {"word": "sham", "note": "가장하다→거짓 흉내"},
+      {"word": "assume", "note": "~을 가장하다→꾸며내다"}
+    ],
+    "tips": [
+      "feign illness = 꾀병 부리다야.",
+      "라틴어 `fingere`(만들다)에서 왔어. `fiction`과 같은 뿌리거든!",
+      "feigned(가장된), feint(양동 작전)도 같은 가족이야."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "feisty",
+    "pos": "adj.",
+    "head_meanings": [
+      "기운찬",
+      "적극적인",
+      "강인한",
+      "싸우기 좋아하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "touchy", "note": "예민한→쉽게 성내는"},
+      {"word": "quarrelsome", "note": "싸움을 좋아하는→시비 거는"},
+      {"word": "frisky", "note": "활발한→까불대는"},
+      {"word": "spunky", "note": "기운찬→배짱 있는"}
+    ],
+    "tips": [
+      "작은 동물이 위협에도 꺾이지 않는 느낌이야.",
+      "a feisty old lady = 기운 넘치는 할머니. 긍정적 뉘앙스가 강해!"
+    ]
+  },
+  {
+    "id": "036",
+    "word": "felicitous",
+    "pos": "adj.",
+    "head_meanings": [
+      "들어맞은",
+      "적절한",
+      "잘 선택한",
+      "행복한"
+    ],
+    "synonyms_from_image": [
+      {"word": "fit", "note": "적합한→딱 맞는"},
+      {"word": "appropriate", "note": "적절한→상황에 맞는"},
+      {"word": "happy", "note": "행복한→잘 어울리는"},
+      {"word": "just", "note": "정확한→딱 맞는"},
+      {"word": "suitable", "note": "적합한→조건에 맞는"},
+      {"word": "fitting", "note": "어울리는→적절한"},
+      {"word": "timely", "note": "시기적절한→때를 잘 맞춘"},
+      {"word": "relevant", "note": "관련 있는→적절한"}
+    ],
+    "tips": [
+      "`felicity`(행복/적절함) + `-ous`에서 왔어.",
+      "GRE 함정! '행복한'보다 '적절한/잘 선택된'이 핵심 뜻이야.",
+      "a felicitous phrase = 딱 맞는 표현."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "felicity",
+    "pos": "n.",
+    "head_meanings": [
+      "지복",
+      "행복",
+      "경사",
+      "행운",
+      "적절한 표현",
+      "명문구"
+    ],
+    "synonyms_from_image": [
+      {"word": "bliss", "note": "지복→더할 나위 없는 행복"},
+      {"word": "delight", "note": "기쁨→큰 즐거움"},
+      {"word": "blissfulness", "note": "지복감→완전한 행복"}
+    ],
+    "tips": [
+      "두 뜻이 있어: 1) 행복 2) 적절한 표현/솜씨야.",
+      "a felicity of expression = 표현의 묘미. GRE에서 두 번째 뜻이 더 중요해!"
+    ]
+  },
+  {
+    "id": "038",
+    "word": "felon",
+    "pos": "n.",
+    "head_meanings": [
+      "중죄인",
+      "악인"
+    ],
+    "synonyms_from_image": [
+      {"word": "criminal", "note": "범죄자→법을 어긴 사람"},
+      {"word": "lawbreaker", "note": "법률 위반자→법을 깨뜨린 사람"},
+      {"word": "offender", "note": "범법자→범행을 저지른 자"},
+      {"word": "malefactor", "note": "악한 행위자→범죄자"}
+    ],
+    "tips": [
+      "중죄(felony)를 저지른 사람이야.",
+      "felon → felony(중죄) → felonious(중죄의) 세트로 외워!"
+    ]
+  },
+  {
+    "id": "039",
+    "word": "felony",
+    "pos": "n.",
+    "head_meanings": [
+      "중죄"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "중죄야. misdemeanor(경범죄)의 반대!",
+      "murder, robbery 같은 게 felony에 해당해. 법률 지문에서 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "ferment",
+    "pos": "n./v.",
+    "head_meanings": [
+      "효소",
+      "발효",
+      "소란",
+      "소요"
+    ],
+    "synonyms_from_image": [
+      {"word": "enzyme", "note": "효소→발효를 일으키는 물질"},
+      {"word": "tumult", "note": "소동→격한 소란"},
+      {"word": "unrest", "note": "불안→사회적 동요"},
+      {"word": "disquiet", "note": "불안→마음의 불안"},
+      {"word": "turmoil", "note": "혼란→격렬한 소란"},
+      {"word": "provoke", "note": "자극하다→유발하다"},
+      {"word": "enkindle", "note": "불타오르게 하다→격동시키다"}
+    ],
+    "tips": [
+      "GRE 함정! '발효하다'보다 '소란/동요'가 GRE 핵심 뜻이야.",
+      "social ferment = 사회적 격동. 발효처럼 부글부글 끓는 이미지거든!",
+      "fermentation(발효)은 과학 용어, ferment(동요)는 GRE 용어야."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "ferocity",
+    "pos": "n.",
+    "head_meanings": [
+      "잔인",
+      "포악성",
+      "사나움"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ferocious`(포악한) + `-ity`에서 왔어. 동물적인 사나움/잔인함이야.",
+      "the ferocity of the attack = 공격의 맹렬함."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "ferret (out)",
+    "pos": "v.",
+    "head_meanings": [
+      "뒤지다",
+      "찾아내다",
+      "탐색하다",
+      "찾다"
+    ],
+    "synonyms_from_image": [
+      {"word": "seek", "note": "찾다→탐색하다"},
+      {"word": "hunt", "note": "사냥하다→찾아다니다"},
+      {"word": "quest", "note": "탐색하다→추적하다"},
+      {"word": "search", "note": "수색하다→샅샅이 찾다"}
+    ],
+    "tips": [
+      "`ferret` = 흰족제비야. 족제비로 토끼를 사냥하던 것에서→끈질기게 찾아내다.",
+      "ferret out the truth = 진실을 캐내다."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "fertile",
+    "pos": "adj.",
+    "head_meanings": [
+      "비옥한",
+      "생산력이 풍부한"
+    ],
+    "synonyms_from_image": [
+      {"word": "fecund", "note": "비옥한→생산력이 풍부한"},
+      {"word": "fruitful", "note": "결실 있는→풍성한 결과를 내는"},
+      {"word": "productive", "note": "생산적인→많이 만들어내는"},
+      {"word": "high-yielding", "note": "수확이 많은→산출량이 높은"},
+      {"word": "rich", "note": "풍부한→자원이 넉넉한"},
+      {"word": "lush", "note": "무성한→식물이 우거진"},
+      {"word": "flourishing", "note": "번창하는→잘 자라는"},
+      {"word": "thriving", "note": "번성하는→잘 되어가는"}
+    ],
+    "tips": [
+      "라틴어 `fertilis`(열매를 맺는)에서 왔어.",
+      "fertile ground/imagination = 비옥한 토양/풍부한 상상력."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "fervent",
+    "pos": "adj.",
+    "head_meanings": [
+      "불타는",
+      "열렬한",
+      "뜨거운"
+    ],
+    "synonyms_from_image": [
+      {"word": "excited", "note": "흥분한→열정적인"},
+      {"word": "passionate", "note": "열정적인→강렬한 감정의"},
+      {"word": "zealous", "note": "열성적인→열광적으로 헌신하는"},
+      {"word": "ardent", "note": "열렬한→불타는 듯한"},
+      {"word": "burning", "note": "타오르는→강렬한"},
+      {"word": "glowing", "note": "빛나는→열정으로 달아오른"}
+    ],
+    "tips": [
+      "라틴어 `fervere`(끓다)에서 왔어. 끓는 듯한 열정이야.",
+      "`fervor`(열정, 명사)와 같은 뿌리야. fervent wish = 간절한 소망."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "fervid",
+    "pos": "adj.",
+    "head_meanings": [
+      "불타는 듯한",
+      "열정적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "blazing", "note": "불타는→열렬한"},
+      {"word": "excited", "note": "흥분한→열광적인"},
+      {"word": "fervent", "note": "열렬한→뜨거운 열정의"},
+      {"word": "zealous", "note": "열성적인→열광적으로 헌신하는"},
+      {"word": "hot-blooded", "note": "열혈의→격정적인"}
+    ],
+    "tips": [
+      "fervent와 거의 같은데, fervid가 더 격렬하고 과도한 뉘앙스야.",
+      "fervid supporter = 열광적인 지지자. 때로 부정적 뉘앙스가 있어!"
+    ]
+  },
+  {
+    "id": "046",
+    "word": "fervor",
+    "pos": "n.",
+    "head_meanings": [
+      "열렬",
+      "열정"
+    ],
+    "synonyms_from_image": [
+      {"word": "warmth", "note": "온기→따뜻한 열정"},
+      {"word": "vehemence", "note": "격렬함→열렬한 강도"},
+      {"word": "enthusiasm", "note": "열광→넘치는 열정"},
+      {"word": "love", "note": "사랑→깊은 열정"},
+      {"word": "passion", "note": "열정→강렬한 감정"},
+      {"word": "zeal", "note": "열의→강한 열정"}
+    ],
+    "tips": [
+      "`fervere`(끓다)에서 온 명사야. fervent/fervid와 한 가족이야.",
+      "religious fervor = 종교적 열정. with fervor = 열렬히."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "fester",
+    "pos": "v.",
+    "head_meanings": [
+      "곪다",
+      "부패하다",
+      "마음을 괴롭히다",
+      "악화되다"
+    ],
+    "synonyms_from_image": [
+      {"word": "decompose", "note": "부패하다→썩어 분해되다"},
+      {"word": "decay", "note": "썩다→부패하다"},
+      {"word": "plague", "note": "괴롭히다→역병처럼 고통"},
+      {"word": "annoy", "note": "짜증나게 하다→속을 곪게"},
+      {"word": "bother", "note": "괴롭히다→신경 쓰이게"},
+      {"word": "torment", "note": "고문하다→심하게 괴롭히다"},
+      {"word": "irritate", "note": "짜증나게 하다→속을 긁다"}
+    ],
+    "tips": [
+      "상처가 곪듯→감정도 속에서 곪는 이미지야.",
+      "festering resentment = 곪아가는 원한. 물리적/심리적 부패 둘 다 써!",
+      "GRE에서 비유적 용법(감정이 악화되다)이 더 자주 나와."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "festive",
+    "pos": "adj.",
+    "head_meanings": [
+      "즐거운",
+      "유쾌한",
+      "축제의",
+      "축제일 같은"
+    ],
+    "synonyms_from_image": [
+      {"word": "festal", "note": "축제의→축일 분위기의"},
+      {"word": "gala", "note": "축제의→화려한 행사의"},
+      {"word": "merry", "note": "즐거운→명랑한"},
+      {"word": "larkish", "note": "장난스러운→놀이하듯 즐거운"},
+      {"word": "playful", "note": "장난기 있는→흥겨운"},
+      {"word": "gleeful", "note": "기뻐하는→신나는"},
+      {"word": "jolly", "note": "유쾌한→명랑한"}
+    ],
+    "tips": [
+      "`feast`(축제) + `-ive`→축제 같은 분위기의야.",
+      "festive season = 축제 시즌(보통 크리스마스). festivity = 축제 행사."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "fetching",
+    "pos": "adj.",
+    "head_meanings": [
+      "매력적인",
+      "마음을 사로잡는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`fetch`(가져오다)→시선을 가져오는→매력적인이야.",
+      "a fetching smile = 매력적인 미소. 다소 구식이지만 GRE에서 나올 수 있어!"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "fetid",
+    "pos": "adj.",
+    "head_meanings": [
+      "악취가 나는",
+      "냄새가 고약한"
+    ],
+    "synonyms_from_image": [
+      {"word": "stinking", "note": "악취 나는→코를 찌르는"},
+      {"word": "noisome", "note": "유해한→불쾌한 악취의"},
+      {"word": "fusty", "note": "곰팡내 나는→오래되어 퀴퀴한"}
+    ],
+    "tips": [
+      "라틴어 `fetidus`(악취 나는)에서 왔어. GRE 고빈도!",
+      "malodorous, noisome과 세트로 외워. fetid swamp = 악취 나는 늪."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "fetter",
+    "pos": "n./v.",
+    "head_meanings": [
+      "족쇄를 채우다",
+      "구속하다",
+      "속박"
+    ],
+    "synonyms_from_image": [
+      {"word": "curb", "note": "억제하다→구속"},
+      {"word": "bind", "note": "묶다→자유를 제한"},
+      {"word": "hamper", "note": "방해하다→속박하다"},
+      {"word": "restrain", "note": "억제하다→구속하다"},
+      {"word": "confine", "note": "가두다→제한하다"},
+      {"word": "trammel", "note": "속박하다→그물로 얽매다"},
+      {"word": "leash", "note": "가죽끈으로 묶다→구속"},
+      {"word": "shackle", "note": "족쇄를 채우다→속박"}
+    ],
+    "tips": [
+      "`fetter` = 발에 채우는 족쇄야. 비유적으로 자유를 구속하는 것이야.",
+      "fettered by tradition = 전통에 얽매인. GRE에서 비유적 용법이 핵심!"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "feud",
+    "pos": "n./v.",
+    "head_meanings": [
+      "불화",
+      "싸움",
+      "반목"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "중세 가문 간 피의 복수(blood feud)에서 왔어. 오랫동안 지속되는 반목이야.",
+      "family feud = 가문 간 반목. 일회성이 아닌 오래된 갈등을 뜻해!"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "feudalism",
+    "pos": "n.",
+    "head_meanings": [
+      "봉건제",
+      "봉건주의조직"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`feud`(봉토) + `-al` + `-ism`에서 왔어. 봉건제도야.",
+      "GRE 역사 지문에서 나올 수 있어. feudal system과 같은 의미야!"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "fiasco",
+    "pos": "n.",
+    "head_meanings": [
+      "대실패",
+      "완전한 실패",
+      "불명예스러운 실패"
+    ],
+    "synonyms_from_image": [
+      {"word": "disappointment", "note": "실망→기대에 못 미치는 결과"},
+      {"word": "botch", "note": "실수→망친 일"},
+      {"word": "fizzle", "note": "흐지부지→시작은 좋았으나 실패"},
+      {"word": "flop", "note": "실패작→완전한 실패"},
+      {"word": "washout", "note": "완전 실패→물로 씻겨간 것처럼"}
+    ],
+    "tips": [
+      "이탈리아어 `fiasco`(병)에서 왔어. 연극 실패 시 관객이 병을 던진 데서 유래했대.",
+      "debacle과 비슷한 뜻이야. complete fiasco = 완전한 대실패."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "fickle",
+    "pos": "adj.",
+    "head_meanings": [
+      "변하기 쉬운",
+      "변덕스러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "capricious", "note": "변덕스러운→예측 불가한"},
+      {"word": "changeable", "note": "변하기 쉬운→자주 바뀌는"},
+      {"word": "variable", "note": "변동하는→일정하지 않은"},
+      {"word": "volatile", "note": "불안정한→급변하는"},
+      {"word": "mercurial", "note": "변덕스러운→수은처럼 재빨리 변하는"},
+      {"word": "inconsistent", "note": "일관성 없는→들쭉날쭉한"},
+      {"word": "flighty", "note": "경솔한→가볍게 변하는"},
+      {"word": "inconstant", "note": "변치 않지 않는→마음이 자주 바뀌는"},
+      {"word": "irresolute", "note": "우유부단한→결심이 흔들리는"},
+      {"word": "transient", "note": "일시적인→오래가지 않는"},
+      {"word": "skittish", "note": "겁 많은→쉽게 놀라 변하는"},
+      {"word": "labile", "note": "불안정한→쉽게 변하는"},
+      {"word": "mutable", "note": "변할 수 있는→변이 가능한"}
+    ],
+    "tips": [
+      "고대 영어 `ficol`(교활한)에서 왔어. GRE 고빈도!",
+      "capricious, mercurial과 세트로 외워. fickle fate = 변덕스러운 운명."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "fictitious",
+    "pos": "adj.",
+    "head_meanings": [
+      "소설적인",
+      "가공의",
+      "상상의"
+    ],
+    "synonyms_from_image": [
+      {"word": "fabricated", "note": "꾸며낸→만들어진"},
+      {"word": "falsified", "note": "위조된→거짓으로 만든"},
+      {"word": "fanciful", "note": "공상적인→상상의"},
+      {"word": "assumed", "note": "가장된→꾸며진"},
+      {"word": "untrue", "note": "사실이 아닌→허구의"}
+    ],
+    "tips": [
+      "`fiction`(소설) + `-itious`에서 왔어. 꾸며낸/허구의란 뜻이야.",
+      "`factitious`(인위적인)와 헷갈리지 마! fictitious = 허구, factitious = 인공적."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "fidelity",
+    "pos": "n.",
+    "head_meanings": [
+      "충실",
+      "성실",
+      "원래의 것과 똑같음"
+    ],
+    "synonyms_from_image": [
+      {"word": "accuracy", "note": "정확성→원본에 충실함"},
+      {"word": "faithfulness", "note": "충실함→믿음을 지키는"},
+      {"word": "fealty", "note": "충성→영주에 대한 맹세"},
+      {"word": "integrity", "note": "성실→도덕적 온전함"},
+      {"word": "piety", "note": "경건→신앙에 대한 충실"},
+      {"word": "constancy", "note": "변치 않음→한결같음"}
+    ],
+    "tips": [
+      "라틴어 `fides`(믿음)에서 왔어. `faith`와 같은 뿌리야.",
+      "high fidelity(Hi-Fi) = 원래 소리에 충실한 재생. GRE에서 '충실함' 뜻이 핵심!"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "fiery",
+    "pos": "adj.",
+    "head_meanings": [
+      "화염의",
+      "불타는",
+      "불 같은",
+      "격렬한",
+      "열렬한"
+    ],
+    "synonyms_from_image": [
+      {"word": "impassioned", "note": "열정적인→감정이 격한"},
+      {"word": "burning", "note": "타오르는→강렬한"},
+      {"word": "blazing", "note": "활활 타는→눈부시게 강렬한"},
+      {"word": "flaming", "note": "불꽃의→활활 타오르는"},
+      {"word": "ablaze", "note": "불타는→환하게 타오르는"},
+      {"word": "bright", "note": "밝은→빛나는"},
+      {"word": "vivid", "note": "선명한→강렬한"},
+      {"word": "intense", "note": "강렬한→격한"},
+      {"word": "passionate", "note": "열정적인→감정이 뜨거운"},
+      {"word": "ardent", "note": "열렬한→불타는 듯한"},
+      {"word": "fervent", "note": "열렬한→끓는 듯한 열정의"},
+      {"word": "fervid", "note": "열정적인→격렬하게 뜨거운"},
+      {"word": "spirited", "note": "기운찬→활기 넘치는"},
+      {"word": "quick-tempered", "note": "성급한→쉽게 화내는"},
+      {"word": "volatile", "note": "불안정한→감정이 급변하는"},
+      {"word": "explosive", "note": "폭발적인→격렬하게 터지는"},
+      {"word": "aggressive", "note": "공격적인→거세게 나서는"},
+      {"word": "resolute", "note": "단호한→굳은 의지의"}
+    ],
+    "tips": [
+      "`fire` + `-y` = 불 같은이야. 성격/연설/논쟁에 써.",
+      "fiery temper = 불같은 성격. fiery speech = 열렬한 연설."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "figurative",
+    "pos": "adj.",
+    "head_meanings": [
+      "비유적인",
+      "은유의",
+      "상징적인",
+      "표상적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "symbolic", "note": "상징적인→실제가 아닌 비유"},
+      {"word": "ironic", "note": "아이러니한→반어적 표현의"}
+    ],
+    "tips": [
+      "`figure`(형상) + `-ative`에서 왔어.",
+      "`literal`(문자적인)의 반의어야! GRE 고빈도.",
+      "figurative language = 비유적 표현. GRE RC에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "filibuster",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(소수파가 긴 연설 따위로) 의사진행을 방해하다",
+      "약탈하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "bother", "note": "방해하다→귀찮게 하다"},
+      {"word": "disturb", "note": "방해하다→진행을 막다"},
+      {"word": "agitate", "note": "교란하다→흔들어 방해"},
+      {"word": "trouble", "note": "곤란하게 하다→방해"},
+      {"word": "inconvenience", "note": "불편하게 하다→번거롭게"}
+    ],
+    "tips": [
+      "스페인어 `filibustero`(해적)에서 왔어. 해적처럼 의회 진행을 납치→의사방해!",
+      "미국 정치 용어야! Senate filibuster = 상원 의사방해.",
+      "GRE에서 미국 정치 지문에 나올 수 있어."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "filth",
+    "pos": "n.",
+    "head_meanings": [
+      "오물",
+      "쓰레기",
+      "때",
+      "더러움",
+      "도덕적 타락",
+      "음담패설"
+    ],
+    "synonyms_from_image": [
+      {"word": "dirt", "note": "먼지/오물→더러운 것"},
+      {"word": "muck", "note": "진흙→질척한 오물"},
+      {"word": "mire", "note": "수렁→진흙탕"},
+      {"word": "sludge", "note": "찌꺼기→진흙 같은 침전물"},
+      {"word": "slime", "note": "점액→끈적끈적한 오물"},
+      {"word": "ooze", "note": "진흙→바닥에 깔린 질척한 것"},
+      {"word": "excrement", "note": "배설물→대변"},
+      {"word": "excreta", "note": "배설물→몸에서 나온 노폐물"},
+      {"word": "dung", "note": "똥→동물의 배설물"},
+      {"word": "manure", "note": "거름→비료용 배설물"},
+      {"word": "sewage", "note": "하수→오수"},
+      {"word": "refuse", "note": "쓰레기→버린 것"},
+      {"word": "dross", "note": "찌꺼기→쓸모없는 부산물"},
+      {"word": "pollution", "note": "오염→더럽혀진 상태"},
+      {"word": "contamination", "note": "오염→유해물질에 의한 더러워짐"},
+      {"word": "uncleanliness", "note": "불결→깨끗하지 않은 상태"},
+      {"word": "foulness", "note": "악취/더러움→역겨운 상태"},
+      {"word": "nastiness", "note": "불쾌함→더럽고 역겨움"},
+      {"word": "pornography", "note": "음란물→외설적인 콘텐츠"},
+      {"word": "obscenity", "note": "외설→도덕적으로 불쾌한"},
+      {"word": "indecency", "note": "외설→품위에 어긋남"}
+    ],
+    "tips": [
+      "고대 영어 `fylþ`(더러움)에서 왔어.",
+      "filthy rich = 더럽게 부자. 물리적 더러움 + 도덕적 타락 두 뜻이야!"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "filthy",
+    "pos": "adj.",
+    "head_meanings": [
+      "더러운",
+      "불결한",
+      "부도덕한",
+      "상스러운",
+      "매우 불쾌한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`filth`(오물) + `-y`에서 왔어.",
+      "filthy language = 상스러운 말. filthy rich = 더럽게 부자."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "finale",
+    "pos": "n.",
+    "head_meanings": [
+      "종막",
+      "종극",
+      "대단원"
+    ],
+    "synonyms_from_image": [
+      {"word": "expiration", "note": "만료→끝남"},
+      {"word": "finis", "note": "끝→라틴어 종결"},
+      {"word": "epilogue", "note": "에필로그→마지막 부분"}
+    ],
+    "tips": [
+      "이탈리아어 `finale`(마지막의)에서 왔어.",
+      "grand finale = 대미. 음악/연극/행사의 화려한 마무리야!"
+    ]
+  },
+  {
+    "id": "064",
+    "word": "finesse",
+    "pos": "n./v.",
+    "head_meanings": [
+      "교묘한 처리",
+      "미묘한 솜씨"
+    ],
+    "synonyms_from_image": [
+      {"word": "discretion", "note": "분별력→세심한 판단"},
+      {"word": "artfulness", "note": "교묘함→기술적 솜씨"},
+      {"word": "craft", "note": "솜씨→교묘한 기술"},
+      {"word": "ruse", "note": "계략→교묘한 속임"},
+      {"word": "subterfuge", "note": "속임수→교묘한 회피"}
+    ],
+    "tips": [
+      "프랑스어 `finesse`(섬세함)에서 왔어.",
+      "diplomatic finesse = 외교적 수완. handle with finesse = 능숙하게 처리하다."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "finicky",
+    "pos": "adj.",
+    "head_meanings": [
+      "지나치게 신경을 쓰는",
+      "까다로운",
+      "젠체하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "attentive", "note": "주의 깊은→세심한"},
+      {"word": "detailed", "note": "세세한→꼼꼼한"},
+      {"word": "fastidious", "note": "까다로운→세심하게 따지는"},
+      {"word": "meticulous", "note": "세심한→꼼꼼한"}
+    ],
+    "tips": [
+      "`fine`(섬세한) + `-icky`→사소한 것에도 예민한이야.",
+      "fastidious와 비슷하지만 finicky가 더 부정적 뉘앙스야!"
+    ]
+  },
+  {
+    "id": "066",
+    "word": "finite",
+    "pos": "adj.",
+    "head_meanings": [
+      "한정되어 있는",
+      "유한의"
+    ],
+    "synonyms_from_image": [
+      {"word": "measurable", "note": "측정 가능한→한계가 있는"},
+      {"word": "bounded", "note": "경계가 있는→한정된"},
+      {"word": "countable", "note": "셀 수 있는→유한한"},
+      {"word": "circumscribed", "note": "제한된→범위가 정해진"},
+      {"word": "terminable", "note": "종결 가능한→끝이 있는"},
+      {"word": "confined", "note": "제한된→한정된"},
+      {"word": "limited", "note": "제한된→한계가 있는"}
+    ],
+    "tips": [
+      "`fin-`(끝) + `-ite`→끝이 있는 = 유한한이야. `infinite`의 반의어!",
+      "finite resources = 유한한 자원. GRE 과학/철학 지문에서 자주 나와."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "fiscal",
+    "pos": "adj.",
+    "head_meanings": [
+      "재무의",
+      "재정상의",
+      "국고의",
+      "국가 세입의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `fiscus`(국고)에서 왔어. fiscal year = 회계연도야.",
+      "monetary(화폐의)와 구분해! fiscal = 정부 재정, monetary = 통화 정책."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "fissure",
+    "pos": "n./v.",
+    "head_meanings": [
+      "갈라진 틈",
+      "틈",
+      "금"
+    ],
+    "synonyms_from_image": [
+      {"word": "split", "note": "갈라짐→쪼개진 틈"},
+      {"word": "break", "note": "부서짐→깨어진 틈"},
+      {"word": "discontinuity", "note": "불연속→끊어진 틈"},
+      {"word": "crack", "note": "금→갈라진 틈"},
+      {"word": "rift", "note": "균열→갈라진 틈"}
+    ],
+    "tips": [
+      "`fiss-`(쪼개다) + `-ure`에서 왔어. `fission`(핵분열)과 같은 뿌리야.",
+      "GRE에서 비유적으로 fissure in a relationship = 관계의 균열로도 써!"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "fit",
+    "pos": "adj./n./v.",
+    "head_meanings": [
+      "적당하다",
+      "발작"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정! '적합한' 외에 n. = '발작'이야. fit of anger = 분노의 발작.",
+      "fits and starts = 간헐적으로, 되다 말다 하면서."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "fitful",
+    "pos": "adj.",
+    "head_meanings": [
+      "간헐적인",
+      "발작적인",
+      "변하기 쉬운"
+    ],
+    "synonyms_from_image": [
+      {"word": "discontinuous", "note": "불연속적인→끊어졌다 이어지는"},
+      {"word": "inconstant", "note": "변치 않지 않는→일정하지 않은"},
+      {"word": "irregular", "note": "불규칙한→일정하지 않은"},
+      {"word": "unordered", "note": "무질서한→정돈되지 않은"},
+      {"word": "changeable", "note": "변하기 쉬운→자주 바뀌는"},
+      {"word": "variable", "note": "변동하는→일정하지 않은"},
+      {"word": "capricious", "note": "변덕스러운→예측 불가한"}
+    ],
+    "tips": [
+      "`fit`(발작) + `-ful`→발작적인→간헐적인이야.",
+      "fitful sleep = 뒤척이며 자는 불안한 잠. sporadic과 비슷해!"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "fixate",
+    "pos": "v.",
+    "head_meanings": [
+      "정착시키다",
+      "응시하다",
+      "집중하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`fix`(고정하다) + `-ate`에서 왔어.",
+      "fixated on = ~에 집착하는. fixation = 집착. GRE 심리학 지문에서 나와!"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "flabbergast",
+    "pos": "v.",
+    "head_meanings": [
+      "깜짝 놀라게 하다",
+      "어리둥절하게 하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "18세기 조어야. `flabby` + `aghast`를 합친 것으로 추정→축 늘어질 정도로 놀라게 하다.",
+      "I was flabbergasted! = 완전 깜짝 놀랐어! 구어에서도 자주 써."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "flabby",
+    "pos": "adj.",
+    "head_meanings": [
+      "축 늘어진",
+      "무기력한",
+      "연약한",
+      "의지 박약한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`flap`(펄럭이다)에서 파생→축 늘어진이야.",
+      "비유적으로 의지가 흐물흐물한 것도 표현해. flabby reasoning = 허술한 논리."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "flaccid",
+    "pos": "adj.",
+    "head_meanings": [
+      "흐느적거리는",
+      "축 늘어진",
+      "연약한"
+    ],
+    "synonyms_from_image": [
+      {"word": "weak", "note": "약한→힘이 없는"},
+      {"word": "limp", "note": "축 늘어진→탄력 없이 축 처진"},
+      {"word": "unnerved", "note": "기가 꺾인→힘이 빠진"},
+      {"word": "flimsy", "note": "부실한→얇고 약한"},
+      {"word": "loose", "note": "느슨한→팽팽하지 않은"},
+      {"word": "slack", "note": "늘어진→느슨하게 축 처진"},
+      {"word": "flabby", "note": "축 늘어진→살이 처진"}
+    ],
+    "tips": [
+      "라틴어 `flaccidus`(축 처진)에서 왔어.",
+      "flabby와 비슷하지만 flaccid가 더 격식체야. flaccid muscles = 축 처진 근육."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "flag",
+    "pos": "v.",
+    "head_meanings": [
+      "시들다",
+      "쇠퇴하다",
+      "약해지다"
+    ],
+    "synonyms_from_image": [
+      {"word": "decline", "note": "쇠퇴하다→약해지다"},
+      {"word": "fade", "note": "시들다→서서히 사라지다"},
+      {"word": "languish", "note": "시들다→기운 없이 축 처지다"}
+    ],
+    "tips": [
+      "GRE 함정! '깃발'이 아니라 '시들다/약해지다'가 GRE 핵심 뜻이야.",
+      "flagging enthusiasm = 사그라지는 열정. wane, ebb와 비슷해!"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "flagrant",
+    "pos": "adj.",
+    "head_meanings": [
+      "악명 높은",
+      "노골적인",
+      "명백한"
+    ],
+    "synonyms_from_image": [
+      {"word": "blatant", "note": "노골적인→숨기지 않는"},
+      {"word": "glaring", "note": "눈부신→너무 뻔한"},
+      {"word": "obvious", "note": "명백한→누가 봐도 아는"},
+      {"word": "overt", "note": "공공연한→드러낸"},
+      {"word": "conspicuous", "note": "눈에 띄는→뻔히 보이는"},
+      {"word": "barefaced", "note": "뻔뻔한→낯짝이 두꺼운"},
+      {"word": "shameless", "note": "부끄러움 없는→뻔뻔한"},
+      {"word": "brazen", "note": "뻔뻔한→놋쇠처럼 두꺼운 낯짝"},
+      {"word": "undisguised", "note": "위장하지 않은→숨기지 않는"},
+      {"word": "unconcealed", "note": "감추지 않은→드러낸"},
+      {"word": "outrageous", "note": "터무니없는→충격적인"},
+      {"word": "notorious", "note": "악명 높은→나쁜 쪽으로 유명한"},
+      {"word": "evil", "note": "사악한→나쁜"},
+      {"word": "disgraceful", "note": "수치스러운→불명예스러운"},
+      {"word": "shameful", "note": "부끄러운→창피한"},
+      {"word": "scandalous", "note": "추문의→충격적으로 나쁜"},
+      {"word": "terrible", "note": "끔찍한→심각하게 나쁜"},
+      {"word": "gross", "note": "심한→노골적으로 심각한"}
+    ],
+    "tips": [
+      "라틴어 `flagrare`(불타다)→불타듯 눈에 확 띄는→노골적인이야.",
+      "flagrant violation = 명백한 위반. blatant과 거의 동의어야!"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "flair",
+    "pos": "n.",
+    "head_meanings": [
+      "재능",
+      "직감",
+      "육감"
+    ],
+    "synonyms_from_image": [
+      {"word": "ability", "note": "능력→할 수 있는 힘"},
+      {"word": "aptitude", "note": "적성→타고난 소질"},
+      {"word": "artistry", "note": "예술적 기교→뛰어난 솜씨"},
+      {"word": "gift", "note": "재능→타고난 능력"},
+      {"word": "perception", "note": "지각→직감적 이해"},
+      {"word": "intelligence", "note": "지능→총명함"},
+      {"word": "genius", "note": "천재→뛰어난 재능"}
+    ],
+    "tips": [
+      "프랑스어 `flair`(후각)→직감적으로 알아채는 능력→재능이야.",
+      "flair for languages = 언어에 대한 재능. have a flair for = ~에 소질이 있다."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "flamboyant",
+    "pos": "adj.",
+    "head_meanings": [
+      "화려한",
+      "현란한",
+      "타는 듯한",
+      "이채를 띤"
+    ],
+    "synonyms_from_image": [
+      {"word": "ostentatious", "note": "과시적인→눈에 띄게 화려"},
+      {"word": "exuberant", "note": "기운찬→넘치는 활기"},
+      {"word": "animated", "note": "활기찬→생동감 있는"},
+      {"word": "vibrant", "note": "활기찬→생생한"},
+      {"word": "vivacious", "note": "활발한→쾌활한"},
+      {"word": "colorful", "note": "다채로운→화려한"},
+      {"word": "vivid", "note": "선명한→강렬한"},
+      {"word": "dazzling", "note": "눈부신→현란한"},
+      {"word": "gaudy", "note": "야한→지나치게 화려한"},
+      {"word": "garish", "note": "촌스럽게 화려한→눈이 아픈"},
+      {"word": "florid", "note": "화려한→지나치게 꾸민"},
+      {"word": "dashing", "note": "멋진→세련되게 화려한"},
+      {"word": "showy", "note": "과시적인→겉치레가 심한"},
+      {"word": "loud", "note": "야한→색상이 튀는"},
+      {"word": "elaborate", "note": "정교한→공들여 화려한"},
+      {"word": "ornate", "note": "장식이 많은→화려하게 꾸민"},
+      {"word": "fancy", "note": "화려한→장식적인"},
+      {"word": "baroque", "note": "바로크식의→과도하게 장식적인"},
+      {"word": "rococo", "note": "로코코식의→지나치게 화려한"}
+    ],
+    "tips": [
+      "프랑스어 `flamboyant`(불꽃의)에서 왔어. 불꽃처럼 화려하고 눈에 띄는 거야.",
+      "flamboyant personality = 화려한 성격. ostentatious보다 긍정적 뉘앙스야!"
+    ]
+  },
+  {
+    "id": "079",
+    "word": "flatter",
+    "pos": "v.",
+    "head_meanings": [
+      "아첨하다",
+      "알랑거리다",
+      "칭찬하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 프랑스어 `flater`(어루만지다)→기분 좋게 해주다→아첨하다야.",
+      "flattery = 아첨. Imitation is the sincerest form of flattery = 모방은 최고의 찬사."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "flaunt",
+    "pos": "v.",
+    "head_meanings": [
+      "뽐내다",
+      "과시하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "exhibit", "note": "전시하다→보여주다"},
+      {"word": "show", "note": "보여주다→과시"},
+      {"word": "parade", "note": "행진하다→자랑하며 돌아다니다"},
+      {"word": "demonstrate", "note": "보여주다→과시하다"},
+      {"word": "brandish", "note": "휘두르다→자랑스럽게 보이다"}
+    ],
+    "tips": [
+      "flaunt vs flout 헷갈리지 마! flaunt = 뽐내다, flout = 무시하다/어기다.",
+      "flaunt one's wealth = 부를 과시하다."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "flawless",
+    "pos": "adj.",
+    "head_meanings": [
+      "흠 없는",
+      "완전한",
+      "완벽한"
+    ],
+    "synonyms_from_image": [
+      {"word": "perfect", "note": "완벽한→흠이 없는"},
+      {"word": "unblemished", "note": "흠 없는→자국 하나 없는"},
+      {"word": "unmarked", "note": "자국 없는→깨끗한"},
+      {"word": "unimpaired", "note": "손상되지 않은→온전한"},
+      {"word": "whole", "note": "완전한→빠짐없는"},
+      {"word": "intact", "note": "손대지 않은→온전한"},
+      {"word": "undamaged", "note": "손상 없는→멀쩡한"},
+      {"word": "pristine", "note": "원래 상태의→깨끗하고 완전한"},
+      {"word": "impeccable", "note": "흠잡을 데 없는→완벽한"},
+      {"word": "immaculate", "note": "티 없는→깨끗하고 완벽한"},
+      {"word": "consummate", "note": "완전한→최고 수준의"},
+      {"word": "faultless", "note": "과실 없는→결점이 없는"},
+      {"word": "unerring", "note": "틀림없는→정확한"},
+      {"word": "exemplary", "note": "모범적인→본보기가 되는"},
+      {"word": "ideal", "note": "이상적인→더할 나위 없는"}
+    ],
+    "tips": [
+      "`flaw`(결점) + `-less` = 결점 없는이야.",
+      "impeccable과 거의 동의어야. flawless performance = 완벽한 공연."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "flay",
+    "pos": "v.",
+    "head_meanings": [
+      "가죽을 벗기다",
+      "약탈하다",
+      "비난하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "peel", "note": "벗기다→가죽을 벗기다"},
+      {"word": "despoil", "note": "약탈하다→빼앗다"},
+      {"word": "attack", "note": "공격하다→비난하다"},
+      {"word": "assail", "note": "맹공하다→거세게 비난"},
+      {"word": "lambaste", "note": "호되게 꾸짖다→맹렬히 비난"}
+    ],
+    "tips": [
+      "원래 '가죽을 벗기다'→비유적으로 '가죽이 벗겨지도록 혹독하게 비난하다'야.",
+      "GRE에선 '비난하다' 뜻이 핵심! The critics flayed the film. = 비평가들이 영화를 혹평했다."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "fledgling",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "풋내기의",
+      "미숙한",
+      "애송이의",
+      "새끼"
+    ],
+    "synonyms_from_image": [
+      {"word": "emerging", "note": "떠오르는→막 시작하는"},
+      {"word": "emergent", "note": "신흥의→막 등장한"},
+      {"word": "embryonic", "note": "배아의→초기 단계의"},
+      {"word": "infant", "note": "유아기의→갓 시작한"},
+      {"word": "nascent", "note": "초기의→막 탄생하는"},
+      {"word": "untried", "note": "시험되지 않은→경험 없는"},
+      {"word": "unpracticed", "note": "미숙한→연습 안 된"},
+      {"word": "callow", "note": "미숙한→풋내기의"},
+      {"word": "developing", "note": "발전 중인→성장하는"}
+    ],
+    "tips": [
+      "`fledge`(깃털이 나다) + `-ling`→막 깃털이 난 새끼 새→풋내기야.",
+      "a fledgling company = 신생 기업. nascent, incipient과 세트로 외워!"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "flee",
+    "pos": "v.",
+    "head_meanings": [
+      "달아나다",
+      "도피하다",
+      "사라지다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 영어 `fleon`에서 왔어.",
+      "flee vs flea(벼룩) 철자 구분해! flee-fled-fled."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "fleeting",
+    "pos": "adj.",
+    "head_meanings": [
+      "어느덧 지나가는",
+      "순식간의",
+      "덧없는"
+    ],
+    "synonyms_from_image": [
+      {"word": "transitory", "note": "일시적인→오래가지 않는"},
+      {"word": "short-lived", "note": "수명이 짧은→잠깐인"},
+      {"word": "ephemeral", "note": "하루살이 같은→순간적인"},
+      {"word": "momentary", "note": "순간적인→찰나의"},
+      {"word": "passing", "note": "지나가는→스쳐가는"},
+      {"word": "brief", "note": "짧은→잠깐의"}
+    ],
+    "tips": [
+      "`fleet`(빠르게 지나가다) + `-ing`→빠르게 지나가는 = 순간적인이야.",
+      "ephemeral, transient과 세트로 외워! a fleeting glance = 스치듯 보는 눈길."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "flexible",
+    "pos": "adj.",
+    "head_meanings": [
+      "구부릴 수 있는",
+      "나긋나긋한",
+      "유연한",
+      "다루기 쉬운",
+      "융통성 있는"
+    ],
+    "synonyms_from_image": [
+      {"word": "pliable", "note": "구부리기 쉬운→유연한"},
+      {"word": "supple", "note": "유연한→부드럽게 구부러지는"},
+      {"word": "bendable", "note": "구부릴 수 있는→휘어지는"},
+      {"word": "pliant", "note": "잘 휘는→유순한"},
+      {"word": "plastic", "note": "가소성의→형태를 바꿀 수 있는"},
+      {"word": "elastic", "note": "탄력 있는→늘어나는"},
+      {"word": "adaptable", "note": "적응력 있는→환경에 맞추는"},
+      {"word": "adjustable", "note": "조절 가능한→변경할 수 있는"},
+      {"word": "variable", "note": "변경 가능한→바꿀 수 있는"},
+      {"word": "versatile", "note": "다재다능한→다목적의"},
+      {"word": "open-ended", "note": "개방적인→유연한"},
+      {"word": "open", "note": "열린→수용적인"},
+      {"word": "accommodating", "note": "수용적인→잘 맞춰주는"},
+      {"word": "amenable", "note": "순응하는→기꺼이 따르는"},
+      {"word": "tolerant", "note": "관용적인→유연하게 받아들이는"}
+    ],
+    "tips": [
+      "`flex`(구부리다) + `-ible`에서 왔어. 물리적 유연함 + 비유적 융통성 두 뜻이야.",
+      "pliable, pliant, supple과 세트로 외워! rigid(경직된)의 반의어야."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "flimsy",
+    "pos": "adj.",
+    "head_meanings": [
+      "부서지기 쉬운",
+      "약한",
+      "근거가 박약한",
+      "설득력 없는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "'얇아서 부서지기 쉬운'→'근거가 박약한'이야.",
+      "flimsy excuse = 구차한 핑계. flimsy evidence = 빈약한 증거."
+    ]
+  }
+]
