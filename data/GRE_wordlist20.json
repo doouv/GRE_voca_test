@@ -1,0 +1,1720 @@
+[
+  {
+    "id": "001",
+    "word": "flippancy",
+    "pos": "n.",
+    "head_meanings": ["경솔", "경박", "불성실한 언동"],
+    "synonyms_from_image": [
+      {"word": "frivolity", "note": "경솔함, 진지하지 못한 태도"},
+      {"word": "levity", "note": "가벼움, 진지해야 할 때의 경솔"},
+      {"word": "facetiousness", "note": "익살스러움, 때와 장소 안 가리는 농담"},
+      {"word": "disrespect", "note": "무례함, 예의 없이 가볍게 구는 것"},
+      {"word": "irreverence", "note": "불경, 권위에 대한 경솔한 태도"},
+      {"word": "impudence", "note": "뻔뻔함, 건방지게 나서는 태도"},
+      {"word": "impertinence", "note": "건방짐, 무례하게 참견하는 태도"},
+      {"word": "lightness", "note": "가벼움, 진중하지 못한 태도"},
+      {"word": "inattention", "note": "부주의, 진지하게 관심을 두지 않음"},
+      {"word": "sassiness", "note": "건방짐, 되바라지게 말대꾸하는 태도"}
+    ],
+    "tips": [
+      "flip(경솔한)+ancy→경솔함.",
+      "진지해야 할 상황에서 가볍게 구는 것."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "flippant",
+    "pos": "adj.",
+    "head_meanings": ["경박한", "경솔한", "염치 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "flippancy의 형용사.",
+      "a flippant remark=경솔한 발언."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "flit",
+    "pos": "v.",
+    "head_meanings": ["경쾌하게 날다", "빠르게 옮겨 다니다", "가볍게 움직이다"],
+    "synonyms_from_image": [
+      {"word": "skim", "note": "스치다, 가볍게 지나가다"},
+      {"word": "flitter", "note": "팔랑거리다, 가볍게 날아다니다"},
+      {"word": "flutter", "note": "펄럭이다, 나비처럼 가볍게"},
+      {"word": "fleet", "note": "빠르게 지나가다"}
+    ],
+    "tips": [
+      "나비나 새가 가볍게 이리저리 날아다니는 이미지."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "float",
+    "pos": "v.",
+    "head_meanings": ["뜨다", "부유하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "물에 뜨다→비유적으로 아이디어를 '띄우다'(float an idea)."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "flora",
+    "pos": "n.",
+    "head_meanings": ["식물군", "식물상"],
+    "synonyms_from_image": [],
+    "tips": [
+      "로마 꽃의 여신 Flora.",
+      "fauna(동물상)와 짝. flora and fauna=동식물상."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "florid",
+    "pos": "adj.",
+    "head_meanings": ["불그스레한", "혈색이 좋은", "화려한"],
+    "synonyms_from_image": [
+      {"word": "rosy", "note": "장밋빛의, 붉은"},
+      {"word": "reddish", "note": "불그스름한"},
+      {"word": "rubicund", "note": "혈색 좋은, 붉은 얼굴의"},
+      {"word": "flushed", "note": "상기된, 붉어진"},
+      {"word": "bombastic", "note": "과장된, 화려하게 부풀린"}
+    ],
+    "tips": [
+      "라틴어 floridus(꽃 같은).",
+      "두 뜻: 1) 얼굴이 붉은 2) 문체가 화려한. GRE에선 2번이 중요!"
+    ]
+  },
+  {
+    "id": "007",
+    "word": "flounder",
+    "pos": "v.",
+    "head_meanings": ["버둥거리다", "허둥대다", "실수하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "flounder vs founder: flounder=허둥대다(고전하다), founder=완전히 실패하다/침몰하다.",
+      "둘 다 GRE 단골!"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "flourish",
+    "pos": "v.",
+    "head_meanings": ["잘 자라다", "번영하다", "번창하다", "화려하게 꾸미다"],
+    "synonyms_from_image": [
+      {"word": "thrive", "note": "번성하다"},
+      {"word": "grow", "note": "성장하다"},
+      {"word": "succeed", "note": "성공하다"},
+      {"word": "develop", "note": "발전하다"},
+      {"word": "bloom", "note": "꽃피다, 번영하다"},
+      {"word": "blossom", "note": "꽃피다, 활짝 피어나다"},
+      {"word": "flower", "note": "꽃피다, 전성기를 맞다"},
+      {"word": "burgeon", "note": "싹트다, 급성장하다"}
+    ],
+    "tips": [
+      "flour-(꽃, flower와 같은 뿌리)→꽃처럼 피어나다=번영하다."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "flout",
+    "pos": "v.",
+    "head_meanings": ["업신여기다", "경멸하다", "조롱하다", "거절하다"],
+    "synonyms_from_image": [
+      {"word": "defy", "note": "반항하다, 대놓고 거부"},
+      {"word": "disobey", "note": "불복하다"},
+      {"word": "violate", "note": "위반하다"},
+      {"word": "contravene", "note": "위반하다, 법에 어긋나다"},
+      {"word": "infringe", "note": "침해하다, 규칙을 어기다"},
+      {"word": "breach", "note": "위반하다, 약속을 깨다"},
+      {"word": "transgress", "note": "위반하다, 선을 넘다"},
+      {"word": "ignore", "note": "무시하다"},
+      {"word": "disregard", "note": "무시하다, 개의치 않다"},
+      {"word": "scorn", "note": "경멸하다, 업신여기다"},
+      {"word": "spurn", "note": "거부하다, 경멸하며 차다"},
+      {"word": "insult", "note": "모욕하다, 업신여기다"}
+    ],
+    "tips": [
+      "flaunt(뽐내다)와 헷갈리지 마!",
+      "flout=공개적으로 무시하다/어기다."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "fluctuation",
+    "pos": "n.",
+    "head_meanings": ["변동", "오르내림"],
+    "synonyms_from_image": [
+      {"word": "vacillation", "note": "동요, 오락가락함"},
+      {"word": "wavering", "note": "흔들림"},
+      {"word": "irregularity", "note": "불규칙성, 들쭉날쭉함"},
+      {"word": "oscillation", "note": "진동, 오르내림"},
+      {"word": "change", "note": "변화"},
+      {"word": "shift", "note": "변동, 이동"}
+    ],
+    "tips": [
+      "flux(흐름)+uation→끊임없이 흐르듯 변하는 것."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "fluency",
+    "pos": "n.",
+    "head_meanings": ["유창함", "능변"],
+    "synonyms_from_image": [
+      {"word": "diffuseness", "note": "산만함, 말이 술술 나옴"},
+      {"word": "eloquence", "note": "웅변, 유창한 표현력"},
+      {"word": "flow", "note": "흐름, 말의 자연스러운 흐름"},
+      {"word": "liquidity", "note": "유동성, 물 흐르듯 자연스러움"},
+      {"word": "talkativeness", "note": "수다스러움, 말이 많음"}
+    ],
+    "tips": [
+      "flu-(흐르다)+ency.",
+      "fluent=유창한."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "fluke",
+    "pos": "n.",
+    "head_meanings": ["뜻밖의 행운", "당구의 플루크"],
+    "synonyms_from_image": [
+      {"word": "accident", "note": "우연, 뜻밖의 일"},
+      {"word": "chance", "note": "우연, 행운"},
+      {"word": "miracle", "note": "기적, 기적적 행운"}
+    ],
+    "tips": [
+      "원래 당구 용어→뜻밖의 행운.",
+      "It was a fluke=그건 운이었어."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "flummox",
+    "pos": "v.",
+    "head_meanings": ["어리둥절하게 하다"],
+    "synonyms_from_image": [
+      {"word": "confound", "note": "당혹시키다, 갈피를 못 잡게"},
+      {"word": "bewilder", "note": "어리둥절하게 하다"},
+      {"word": "confuse", "note": "혼란시키다"}
+    ],
+    "tips": [
+      "19세기 영국 방언.",
+      "완전히 어리둥절하게 만드는 느낌."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "flummery",
+    "pos": "n.",
+    "head_meanings": ["실없는 소리", "허튼 소리", "헛소리"],
+    "synonyms_from_image": [
+      {"word": "humbug", "note": "사기, 허튼 소리"}
+    ],
+    "tips": [
+      "원래 웨일스 전통 디저트 이름→속이 빈 달콤한 것→허튼 소리."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "flurry",
+    "pos": "n.",
+    "head_meanings": ["돌풍", "혼란", "당황"],
+    "synonyms_from_image": [],
+    "tips": [
+      "눈보라(snow flurry)처럼 갑자기 몰아치는 혼란.",
+      "a flurry of activity=갑작스런 분주함."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "fluster",
+    "pos": "v.",
+    "head_meanings": ["어리둥절하게 하다", "당황하게 하다", "헷갈리게 하다"],
+    "synonyms_from_image": [
+      {"word": "disconcert", "note": "당황하게 하다, 평정을 깨뜨리다"},
+      {"word": "ruffle", "note": "흐트러뜨리다, 마음을 어지럽히다"},
+      {"word": "disturb", "note": "방해하다, 마음을 흔들다"},
+      {"word": "upset", "note": "속상하게 하다, 뒤집어놓다"},
+      {"word": "discompose", "note": "마음을 흐트러뜨리다"},
+      {"word": "discomfit", "note": "당혹시키다, 불편하게 하다"},
+      {"word": "befuddle", "note": "혼란시키다, 정신을 흐리게"},
+      {"word": "muddle", "note": "뒤죽박죽으로 만들다"}
+    ],
+    "tips": [
+      "갑작스러운 당황→정신이 없어지는 느낌.",
+      "flustered=당황한."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "flux",
+    "pos": "n.",
+    "head_meanings": ["유동", "흐름", "끊없는 변동", "불안정"],
+    "synonyms_from_image": [
+      {"word": "course", "note": "흐름, 진행"},
+      {"word": "flood", "note": "홍수, 넘치는 흐름"},
+      {"word": "current", "note": "흐름, 전류"},
+      {"word": "stream", "note": "개울, 흐름"},
+      {"word": "unrest", "note": "불안, 끊임없는 변동"}
+    ],
+    "tips": [
+      "라틴어 fluxus(흐름).",
+      "in flux=유동적인/변화 중인. GRE에서 자주 나오는 표현!"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "foe",
+    "pos": "n.",
+    "head_meanings": ["적", "원수", "상대", "적대자"],
+    "synonyms_from_image": [
+      {"word": "enemy", "note": "적"},
+      {"word": "adversary", "note": "적수, 대적하는 상대"},
+      {"word": "opponent", "note": "상대, 맞서는 사람"},
+      {"word": "rival", "note": "경쟁자"},
+      {"word": "antagonist", "note": "적대자, 대립하는 사람"},
+      {"word": "combatant", "note": "전투원, 싸우는 상대"},
+      {"word": "competitor", "note": "경쟁자"}
+    ],
+    "tips": [
+      "고대 영어 fah(적대적인).",
+      "GRE에서 enemy의 격식 표현."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "foible",
+    "pos": "n.",
+    "head_meanings": ["약점", "결점", "사소한 단점"],
+    "synonyms_from_image": [
+      {"word": "vice", "note": "악덕, 나쁜 습관"},
+      {"word": "defect", "note": "결함, 부족한 점"},
+      {"word": "inadequacy", "note": "부족, 불충분함"},
+      {"word": "flaw", "note": "결점, 흠"},
+      {"word": "deficiency", "note": "결핍, 부족함"}
+    ],
+    "tips": [
+      "프랑스어 foible(약한)→사소한 약점/결점.",
+      "심각한 결함이 아니라 귀여운 단점 느낌!"
+    ]
+  },
+  {
+    "id": "020",
+    "word": "foil",
+    "pos": "n./v.",
+    "head_meanings": ["n.) 대조가 되는 것, 상대", "v.) 좌절시키다, 허사로 만들다"],
+    "synonyms_from_image": [
+      {"word": "counterpart", "note": "대응물, 짝이 되는 것"},
+      {"word": "antithesis", "note": "정반대, 대조를 이루는 것"},
+      {"word": "complement", "note": "보완물, 대비되어 돋보이게 하는 것"},
+      {"word": "match", "note": "상대, 맞먹는 것"},
+      {"word": "baffle", "note": "당혹시키다, 좌절시키다"},
+      {"word": "confound", "note": "혼란시키다, 계획을 망치다"},
+      {"word": "balk", "note": "방해하다, 진행을 막다"},
+      {"word": "thwart", "note": "좌절시키다, 계획을 망치다"}
+    ],
+    "tips": [
+      "GRE에서 두 뜻 다 중요!",
+      "셰익스피어에서 주인공을 돋보이게 하는 조연이 foil."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "folly",
+    "pos": "n.",
+    "head_meanings": ["어리석음", "우둔", "어리석은 짓"],
+    "synonyms_from_image": [],
+    "tips": [
+      "fool(바보)+y→바보짓.",
+      "sheer folly=순전한 어리석음."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "foment",
+    "pos": "v.",
+    "head_meanings": ["촉진하다", "조장하다", "찜질하다"],
+    "synonyms_from_image": [
+      {"word": "promote", "note": "촉진하다"},
+      {"word": "urge", "note": "촉구하다, 재촉하다"},
+      {"word": "excite", "note": "흥분시키다, 자극하다"},
+      {"word": "provoke", "note": "유발하다, 도발하다"},
+      {"word": "incite", "note": "선동하다, 부추기다"},
+      {"word": "instigate", "note": "선동하다, 꾀어 일으키다"}
+    ],
+    "tips": [
+      "라틴어 fomentare(찜질하다)→열을 가하다→(나쁜 것을) 부추기다.",
+      "foment rebellion=반란을 선동하다."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "foolhardy",
+    "pos": "adj.",
+    "head_meanings": ["성급한", "무모한", "앞뒤 돌보지 않는"],
+    "synonyms_from_image": [
+      {"word": "audacious", "note": "대담한, 무모하게 용감한"},
+      {"word": "venturesome", "note": "모험적인, 위험을 무릅쓰는"},
+      {"word": "daring", "note": "대담한, 두려움 없는"},
+      {"word": "harebrained", "note": "경솔한, 토끼 머리처럼 생각 없는"}
+    ],
+    "tips": [
+      "fool(바보)+hardy(대담한)=바보같이 대담한.",
+      "brave와 달리 부정적!"
+    ]
+  },
+  {
+    "id": "024",
+    "word": "forage",
+    "pos": "v./n.",
+    "head_meanings": ["식량을 찾아다니다", "약탈하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 군대가 식량을 약탈하는 것→먹이를 찾아 돌아다니다."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "foray",
+    "pos": "n.",
+    "head_meanings": ["습격", "공격", "습입", "침입"],
+    "synonyms_from_image": [
+      {"word": "invasion", "note": "침입, 공격적 진입"},
+      {"word": "incursion", "note": "침입, 갑작스런 공격"},
+      {"word": "irruption", "note": "난입, 급습"}
+    ],
+    "tips": [
+      "foray into=~에 처음 뛰어들다.",
+      "비유적으로 '새 분야에 첫 시도'도."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "forbear",
+    "pos": "v.",
+    "head_meanings": ["참다", "그만두다", "보류하다"],
+    "synonyms_from_image": [
+      {"word": "refrain", "note": "삼가다, 자제하다"},
+      {"word": "abstain", "note": "삼가다, 절제하다"},
+      {"word": "desist", "note": "그만두다, 중단하다"},
+      {"word": "withhold", "note": "보류하다, 참고 안 하다"},
+      {"word": "eschew", "note": "피하다, 의식적으로 삼가다"},
+      {"word": "avoid", "note": "피하다"}
+    ],
+    "tips": [
+      "for-(떨어져)+bear(참다)=참고 멀리하다.",
+      "forbear vs forebears(조상) 헷갈리지 마!"
+    ]
+  },
+  {
+    "id": "027",
+    "word": "forbearing",
+    "pos": "adj.",
+    "head_meanings": ["참을성 있는", "관대한"],
+    "synonyms_from_image": [
+      {"word": "patient", "note": "인내심 있는"},
+      {"word": "tolerant", "note": "관대한, 너그러운"},
+      {"word": "lenient", "note": "관대한, 온화한"},
+      {"word": "clement", "note": "자비로운, 온화한"},
+      {"word": "forgiving", "note": "용서하는, 너그러운"},
+      {"word": "indulgent", "note": "관대한, 봐주는"},
+      {"word": "restrained", "note": "절제된, 자제하는"},
+      {"word": "self-controlled", "note": "자제력 있는"}
+    ],
+    "tips": [
+      "forbear+ing=참을성 있는.",
+      "forbearing teacher=관대한 선생님."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "forbearance",
+    "pos": "n.",
+    "head_meanings": ["관용", "용서", "인내", "자제"],
+    "synonyms_from_image": [
+      {"word": "forgiveness", "note": "용서"},
+      {"word": "leniency", "note": "관대함, 너그러운 처분"},
+      {"word": "mercifulness", "note": "자비로움"},
+      {"word": "temperance", "note": "절제"},
+      {"word": "toleration", "note": "관용, 참고 받아들임"}
+    ],
+    "tips": [
+      "GRE 고빈도!",
+      "단순한 '인내'가 아니라 '벌줄 수 있는데 참고 너그럽게 봐주는 것'."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "forbid",
+    "pos": "v.",
+    "head_meanings": ["금지하다", "하지 못하게 하다"],
+    "synonyms_from_image": [
+      {"word": "prohibit", "note": "금지하다, 법으로 못하게 하다"},
+      {"word": "proscribe", "note": "금지하다, 공식적으로 배제하다"},
+      {"word": "ban", "note": "금지하다"},
+      {"word": "outlaw", "note": "불법화하다"},
+      {"word": "veto", "note": "거부권을 행사하다"},
+      {"word": "disallow", "note": "허용하지 않다"},
+      {"word": "embargo", "note": "금수 조치를 취하다"},
+      {"word": "bar", "note": "막다, 금지하다"},
+      {"word": "debar", "note": "배제하다, 자격을 박탈하다"},
+      {"word": "interdict", "note": "금지하다, 차단하다"},
+      {"word": "enjoin", "note": "명하다, 금지 명령을 내리다"},
+      {"word": "restrain", "note": "억제하다, 제지하다"}
+    ],
+    "tips": [
+      "for-(금지)+bid(명령하다)→~하지 말라고 명령하다."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "forceful",
+    "pos": "adj.",
+    "head_meanings": ["힘이 있는", "강력한", "효과적인", "강제적인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "force+ful.",
+      "forceful argument=강력한 논증."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "forebears",
+    "pos": "n.",
+    "head_meanings": ["조상", "선조"],
+    "synonyms_from_image": [
+      {"word": "progenitor", "note": "시조, 혈통의 시작"},
+      {"word": "antecedent", "note": "선행자, 이전에 있던 사람"},
+      {"word": "forefather", "note": "선조, 조상"},
+      {"word": "ascendant", "note": "윗대, 조상"}
+    ],
+    "tips": [
+      "fore(앞의)+bear(낳다)→앞서 태어난 사람=조상.",
+      "forbear(참다)와 철자 구분!"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "foreboding",
+    "pos": "n.",
+    "head_meanings": ["전조", "흉감", "예감"],
+    "synonyms_from_image": [
+      {"word": "premonition", "note": "예감, 불길한 느낌"},
+      {"word": "prognostic", "note": "예후, 앞날의 징조"},
+      {"word": "foreshadowing", "note": "복선, 미리 암시하는 것"},
+      {"word": "forewarning", "note": "사전 경고"},
+      {"word": "foreknowledge", "note": "예지, 미리 아는 것"},
+      {"word": "hunch", "note": "직감, 육감적 예감"},
+      {"word": "prediction", "note": "예측"},
+      {"word": "omen", "note": "징조, 전조"}
+    ],
+    "tips": [
+      "fore(미리)+bode(예고하다)→나쁜 일이 올 것 같은 불안한 예감."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "foreknowledge",
+    "pos": "n.",
+    "head_meanings": ["예지", "선견지명", "통찰"],
+    "synonyms_from_image": [],
+    "tips": [
+      "fore+knowledge=미리 아는 것=예지."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "forensic",
+    "pos": "adj.",
+    "head_meanings": ["법정의에 관한", "변론의", "토론의"],
+    "synonyms_from_image": [
+      {"word": "legal", "note": "법률의, 법정과 관련된"},
+      {"word": "declamatory", "note": "웅변적인, 법정 변론의"},
+      {"word": "eloquent", "note": "웅변의, 말 잘하는"},
+      {"word": "rhetorical", "note": "수사학적인, 말솜씨에 관한"},
+      {"word": "dialectic", "note": "변증법적인, 논쟁의"}
+    ],
+    "tips": [
+      "라틴어 forensis(광장의, forum)→공개 토론장→법정의.",
+      "forensic science=법의학."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "foreordain",
+    "pos": "v.",
+    "head_meanings": ["미리 정하다", "미리 운명을 정하다"],
+    "synonyms_from_image": [
+      {"word": "predestine", "note": "미리 운명을 정하다"}
+    ],
+    "tips": [
+      "fore(미리)+ordain(정하다)=미리 정해놓다."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "forerunner",
+    "pos": "n.",
+    "head_meanings": ["선임", "선조", "전조", "미리 알리는 사람"],
+    "synonyms_from_image": [],
+    "tips": [
+      "fore+runner=앞서 달리는 사람→선구자/전조."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "foresee",
+    "pos": "v.",
+    "head_meanings": ["예견하다", "내다보다", "미리 보다"],
+    "synonyms_from_image": [
+      {"word": "anticipate", "note": "예상하다, 미리 내다보다"},
+      {"word": "prefigure", "note": "미리 보여주다, 예시하다"},
+      {"word": "prophesy", "note": "예언하다"},
+      {"word": "prognosticate", "note": "예측하다, 징후로 판단하다"},
+      {"word": "foreknow", "note": "미리 알다"},
+      {"word": "predict", "note": "예측하다"},
+      {"word": "forecast", "note": "예보하다"},
+      {"word": "envisage", "note": "예상하다, 마음속으로 그리다"},
+      {"word": "envision", "note": "상상하다, 미래를 그리다"},
+      {"word": "foretell", "note": "예언하다"}
+    ],
+    "tips": [
+      "fore+see=미리 보다=예견하다."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "foreseeable",
+    "pos": "adj.",
+    "head_meanings": ["예견할 수 있는", "예측할 수 있는"],
+    "synonyms_from_image": [
+      {"word": "predictable", "note": "예측 가능한"}
+    ],
+    "tips": [
+      "foresee+able.",
+      "in the foreseeable future=가까운 미래에."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "foreshadow",
+    "pos": "v.",
+    "head_meanings": ["앞을 미리 암시하다", "예시하다", "전조를 보이다"],
+    "synonyms_from_image": [
+      {"word": "signal", "note": "신호를 보내다, 조짐을 나타내다"},
+      {"word": "signify", "note": "의미하다, 전조를 나타내다"},
+      {"word": "herald", "note": "알리다, 도래를 예고하다"},
+      {"word": "portend", "note": "전조가 되다, 나쁜 일을 암시"},
+      {"word": "prefigure", "note": "미리 보여주다, 예시하다"},
+      {"word": "presage", "note": "예감하다, 전조를 나타내다"},
+      {"word": "hint", "note": "암시하다"},
+      {"word": "adumbrate", "note": "어렴풋이 보여주다, 미리 암시"},
+      {"word": "foretoken", "note": "전조가 되다, 미리 알리다"},
+      {"word": "bode", "note": "전조가 되다, 징조를 보이다"},
+      {"word": "augur", "note": "점치다, 예언하다"},
+      {"word": "forebode", "note": "예감하다, 불길한 전조"}
+    ],
+    "tips": [
+      "fore+shadow=미리 그림자를 드리우다→암시하다."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "foresight",
+    "pos": "n.",
+    "head_meanings": ["선견지명", "예지", "장래의 전망", "가량"],
+    "synonyms_from_image": [
+      {"word": "clairvoyance", "note": "투시력, 미래를 내다보는 능력"},
+      {"word": "foreknowledge", "note": "예지, 미리 앎"},
+      {"word": "prescience", "note": "선견지명, 미래를 아는 능력"},
+      {"word": "preparedness", "note": "대비, 미리 준비됨"},
+      {"word": "anticipation", "note": "예측, 미리 내다봄"}
+    ],
+    "tips": [
+      "fore+sight=앞을 보는 것=선견지명.",
+      "hindsight(뒤늦은 깨달음)의 반의어!"
+    ]
+  },
+  {
+    "id": "041",
+    "word": "forestall",
+    "pos": "v.",
+    "head_meanings": ["미리 막다", "앞서다", "기선을 제압하다", "방해하다"],
+    "synonyms_from_image": [
+      {"word": "avert", "note": "피하다, 미리 막다"},
+      {"word": "prevent", "note": "방지하다"},
+      {"word": "thwart", "note": "좌절시키다, 막다"},
+      {"word": "counteract", "note": "대응하다, 상쇄하다"},
+      {"word": "block", "note": "막다"},
+      {"word": "preclude", "note": "배제하다, 미리 차단"},
+      {"word": "obviate", "note": "미연에 방지하다, 불필요하게 만들다"},
+      {"word": "foil", "note": "좌절시키다, 계획을 무산"},
+      {"word": "anticipate", "note": "예측하다, 미리 대처하다"}
+    ],
+    "tips": [
+      "fore+stall(멈추게 하다)=미리 멈추게 하다=선수치다."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "forfeit",
+    "pos": "v./n.",
+    "head_meanings": ["몰수되다", "상실하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 foris(밖으로)+facere(하다)→규칙 밖으로 나가다→몰수당하다."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "forge",
+    "pos": "v.",
+    "head_meanings": ["위조하다", "날조하다", "지어내다", "주조하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "두 뜻: 1) 위조하다 2) (쇠를) 벼리다/만들다.",
+      "forge ahead=꿋꿋이 전진하다."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "forgery",
+    "pos": "n.",
+    "head_meanings": ["위조", "날조"],
+    "synonyms_from_image": [],
+    "tips": [
+      "forge+ry=위조(물).",
+      "art forgery=미술품 위조."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "forgive",
+    "pos": "v.",
+    "head_meanings": ["용서하다", "빚을 면제하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "for-(완전히)+give(주다)→완전히 내어주다=용서하다."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "forgo",
+    "pos": "v.",
+    "head_meanings": ["그만두다", "삼가다", "버리다", "무시경시하다"],
+    "synonyms_from_image": [
+      {"word": "eschew", "note": "피하다, 의식적으로 삼가다"},
+      {"word": "forswear", "note": "맹세코 끊다"},
+      {"word": "abjure", "note": "맹세하고 포기하다"},
+      {"word": "relinquish", "note": "포기하다, 내려놓다"},
+      {"word": "waive", "note": "포기하다, 권리를 포기"},
+      {"word": "renounce", "note": "포기하다, 공식적으로 버리다"},
+      {"word": "surrender", "note": "항복하다, 포기하다"},
+      {"word": "yield", "note": "양보하다, 내주다"},
+      {"word": "sacrifice", "note": "희생하다, 포기하다"}
+    ],
+    "tips": [
+      "for-(떨어져)+go(가다)→떨어져 가다=포기하다."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "forlorn",
+    "pos": "adj.",
+    "head_meanings": ["비참한", "황량한", "불쌍한", "외로운", "희망을 잃은", "절망의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "for-(완전히)+lorn(잃은, lose의 옛 과거분사)→완전히 잃어버린=비참한/외로운.",
+      "a forlorn hope=가냘픈 희망."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "formidable",
+    "pos": "adj.",
+    "head_meanings": ["무서운", "가공할", "만만치 않은", "겁나는", "엄청난"],
+    "synonyms_from_image": [
+      {"word": "difficult", "note": "어려운, 만만치 않은"},
+      {"word": "dreadful", "note": "무서운, 두려운"},
+      {"word": "fearful", "note": "겁나는, 두려운"},
+      {"word": "terrible", "note": "끔찍한, 무시무시한"},
+      {"word": "overwhelming", "note": "압도적인, 감당 못할"}
+    ],
+    "tips": [
+      "라틴어 formido(두려움).",
+      "GRE에서 '무서운'보다 '만만치 않은/강력한'이 핵심."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "formulaic",
+    "pos": "adj.",
+    "head_meanings": ["공식에 따른", "도식적인"],
+    "synonyms_from_image": [
+      {"word": "conventional", "note": "관습적인, 틀에 박힌"}
+    ],
+    "tips": [
+      "formula+ic=공식에 따른→판에 박힌.",
+      "부정적 뉘앙스!"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "forsake",
+    "pos": "v.",
+    "head_meanings": ["버리다", "그만두다", "주위 등 버리다"],
+    "synonyms_from_image": [
+      {"word": "flee", "note": "도망치다, 떠나다"},
+      {"word": "depart", "note": "떠나다, 버리고 가다"},
+      {"word": "leave", "note": "떠나다"},
+      {"word": "yield", "note": "양보하다, 포기하다"}
+    ],
+    "tips": [
+      "for-(완전히)+sake(거부하다)→완전히 거부하다=버리다.",
+      "forsaken=버림받은."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "forswear",
+    "pos": "v.",
+    "head_meanings": ["맹세로 끊다", "단연코 끊다", "맹세로 부인부정하다"],
+    "synonyms_from_image": [
+      {"word": "abjure", "note": "맹세하고 포기하다"},
+      {"word": "abnegate", "note": "부인하다, 포기하다"},
+      {"word": "eschew", "note": "피하다, 의식적으로 삼가다"},
+      {"word": "renounce", "note": "포기하다, 공식적으로 버리다"},
+      {"word": "relinquish", "note": "포기하다, 내려놓다"},
+      {"word": "reject", "note": "거부하다"},
+      {"word": "forgo", "note": "포기하다, 삼가다"},
+      {"word": "forsake", "note": "버리다, 떠나다"},
+      {"word": "disavow", "note": "부인하다, 관계를 끊다"},
+      {"word": "abandon", "note": "버리다, 포기하다"},
+      {"word": "recant", "note": "철회하다, 이전 주장을 취소"},
+      {"word": "repudiate", "note": "거부하다, 부인하다"},
+      {"word": "deny", "note": "부인하다"},
+      {"word": "gainsay", "note": "부인하다, 반박하다"}
+    ],
+    "tips": [
+      "for-(떨어져)+swear(맹세하다)=맹세하고 끊다.",
+      "거짓 맹세→위증하다."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "forte",
+    "pos": "n.",
+    "head_meanings": ["장점", "특기", "강한 부분"],
+    "synonyms_from_image": [
+      {"word": "specialty", "note": "전공, 전문 분야"},
+      {"word": "talent", "note": "재능"},
+      {"word": "ability", "note": "능력"},
+      {"word": "faculty", "note": "능력, 타고난 재능"},
+      {"word": "capacity", "note": "역량, 능력"}
+    ],
+    "tips": [
+      "프랑스어 fort(강한).",
+      "음악의 forte(크게)와 같은 뿌리."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "forthright",
+    "pos": "adj.",
+    "head_meanings": ["솔직한", "단도직입적인", "곧은"],
+    "synonyms_from_image": [
+      {"word": "frank", "note": "솔직한, 거리낌 없는"},
+      {"word": "straightforward", "note": "직설적인, 꾸밈없는"},
+      {"word": "honest", "note": "정직한"},
+      {"word": "outspoken", "note": "거침없이 말하는"},
+      {"word": "blunt", "note": "무뚝뚝한, 직설적인"},
+      {"word": "candid", "note": "솔직한, 숨김없는"},
+      {"word": "open", "note": "개방적인, 숨기지 않는"},
+      {"word": "plain", "note": "명백한, 꾸밈없는"},
+      {"word": "straight", "note": "곧은, 직접적인"}
+    ],
+    "tips": [
+      "forth(앞으로)+right(곧은)=앞으로 곧게→솔직한/단도직입적인."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "fortitude",
+    "pos": "n.",
+    "head_meanings": ["불굴의 정신", "용기", "강인함"],
+    "synonyms_from_image": [
+      {"word": "patience", "note": "인내"},
+      {"word": "strength", "note": "강함, 정신적 힘"},
+      {"word": "virtue", "note": "미덕, 강인함"},
+      {"word": "willpower", "note": "의지력"},
+      {"word": "resolution", "note": "결의, 굳은 의지"}
+    ],
+    "tips": [
+      "라틴어 fortis(강한)→역경 속에서의 정신적 강인함.",
+      "GRE 고빈도!"
+    ]
+  },
+  {
+    "id": "055",
+    "word": "fortuitous",
+    "pos": "adj.",
+    "head_meanings": ["뜻밖의", "우연한", "행운의"],
+    "synonyms_from_image": [
+      {"word": "accidental", "note": "우발적인, 뜻밖의"},
+      {"word": "adventitious", "note": "우연한, 외부에서 온"},
+      {"word": "unexpected", "note": "예상치 못한"},
+      {"word": "unforeseen", "note": "예견하지 못한"},
+      {"word": "serendipitous", "note": "뜻밖의 행운인"},
+      {"word": "casual", "note": "우연한, 무심한"},
+      {"word": "unpredictable", "note": "예측 불가능한"},
+      {"word": "incidental", "note": "부수적인, 우연히 일어나는"},
+      {"word": "chance", "note": "우연의"},
+      {"word": "coincidental", "note": "우연의 일치인"},
+      {"word": "random", "note": "무작위의"},
+      {"word": "inadvertent", "note": "부주의한, 의도치 않은"},
+      {"word": "unintentional", "note": "의도하지 않은"},
+      {"word": "lucky", "note": "운 좋은"},
+      {"word": "fortunate", "note": "행운의"},
+      {"word": "providential", "note": "섭리적인, 다행스러운"},
+      {"word": "timely", "note": "시기적절한"},
+      {"word": "opportune", "note": "기회가 좋은, 적절한"}
+    ],
+    "tips": [
+      "GRE 함정! 원래 '우연한'(=accidental)인데 '행운의'(=lucky)로도 쓰여.",
+      "두 뜻 다 알아야 해."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "forward",
+    "pos": "adj.",
+    "head_meanings": ["주제넘은", "나서기 좋아하는", "앞쪽으로의", "진보한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정! '앞으로의'보다 '주제넘은/나서는' 뜻이 GRE에서 중요."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "foster",
+    "pos": "v.",
+    "head_meanings": ["기르다", "돌보다", "양육하다", "촉진하다", "육성하다"],
+    "synonyms_from_image": [
+      {"word": "nurture", "note": "양육하다, 돌보며 기르다"},
+      {"word": "cultivate", "note": "기르다, 함양하다"},
+      {"word": "spur", "note": "자극하다, 촉진하다"},
+      {"word": "raise", "note": "기르다, 키우다"},
+      {"word": "harbor", "note": "품다, 마음에 품다"},
+      {"word": "nurse", "note": "돌보다, 보살피다"},
+      {"word": "nourish", "note": "영양을 주다, 성장시키다"},
+      {"word": "encourage", "note": "격려하다, 촉진하다"},
+      {"word": "assist", "note": "돕다"},
+      {"word": "uphold", "note": "지지하다, 뒷받침하다"},
+      {"word": "facilitate", "note": "촉진하다, 쉽게 하다"},
+      {"word": "advance", "note": "진전시키다, 촉진하다"},
+      {"word": "promote", "note": "촉진하다, 발전시키다"},
+      {"word": "aid", "note": "돕다"}
+    ],
+    "tips": [
+      "foster=남의 아이를 맡아 기르다. foster parent=양부모.",
+      "비유적으로 아이디어/발전을 '키우다'."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "foul",
+    "pos": "adj.",
+    "head_meanings": ["불결한", "썩은", "흉측한", "더러운"],
+    "synonyms_from_image": [],
+    "tips": [
+      "foul play=반칙/범죄 행위.",
+      "foul language=욕설."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "founder",
+    "pos": "n./v.",
+    "head_meanings": ["n.) 창설자, 발기인", "v.) 완전히 실패하다, 침몰하다"],
+    "synonyms_from_image": [
+      {"word": "collapse", "note": "붕괴하다, 무너지다"},
+      {"word": "abort", "note": "중단되다, 실패하다"},
+      {"word": "submerge", "note": "잠기다, 침몰하다"},
+      {"word": "originator", "note": "창시자, 처음 만든 사람"},
+      {"word": "creator", "note": "창조자"},
+      {"word": "builder", "note": "건설자, 설립자"},
+      {"word": "organizer", "note": "조직자"},
+      {"word": "planner", "note": "기획자"},
+      {"word": "author", "note": "저자, 창안자"},
+      {"word": "father", "note": "아버지, 창시자"}
+    ],
+    "tips": [
+      "GRE 함정! '창설자'(n.)와 '침몰하다/실패하다'(v.)가 완전히 다른 뜻!",
+      "flounder(허둥대다)와도 구별!"
+    ]
+  },
+  {
+    "id": "060",
+    "word": "fracas",
+    "pos": "n.",
+    "head_meanings": ["소동", "싸움"],
+    "synonyms_from_image": [
+      {"word": "commotion", "note": "소란, 떠들썩한 혼란"},
+      {"word": "fight", "note": "싸움"},
+      {"word": "fray", "note": "싸움, 다툼"},
+      {"word": "row", "note": "말다툼, 시끄러운 싸움"},
+      {"word": "free-for-all", "note": "난투극, 아수라장"},
+      {"word": "quarrel", "note": "말다툼"},
+      {"word": "hassle", "note": "실랑이, 다툼"},
+      {"word": "clamor", "note": "떠들썩함, 아우성"},
+      {"word": "disturbance", "note": "소동, 방해"},
+      {"word": "uproar", "note": "소란, 대소동"}
+    ],
+    "tips": [
+      "프랑스어 fracas(충돌 소리).",
+      "공개적인 소동/시끄러운 싸움."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "fractious",
+    "pos": "adj.",
+    "head_meanings": ["성 잘 내는", "성마른", "다루기 어려운", "반항적인"],
+    "synonyms_from_image": [
+      {"word": "restive", "note": "반항적인, 다루기 어려운"},
+      {"word": "bad-tempered", "note": "성질 나쁜"},
+      {"word": "irascible", "note": "성마른, 쉽게 화내는"},
+      {"word": "irritable", "note": "짜증 잘 내는"},
+      {"word": "crotchety", "note": "괴팍한, 심술궂은"},
+      {"word": "grouchy", "note": "투덜대는, 불만 많은"},
+      {"word": "cantankerous", "note": "고집스럽고 심술궂은"},
+      {"word": "short-tempered", "note": "성질 급한"},
+      {"word": "tetchy", "note": "신경질적인"},
+      {"word": "testy", "note": "성마른, 까칠한"},
+      {"word": "unmanageable", "note": "다루기 어려운"},
+      {"word": "opposing", "note": "반대하는"},
+      {"word": "refractory", "note": "반항적인, 다루기 힘든"},
+      {"word": "resistant", "note": "저항하는"},
+      {"word": "unwilling", "note": "꺼리는, 마지못한"}
+    ],
+    "tips": [
+      "fracture(부서지다)와 같은 뿌리→쉽게 부서지는 성질→성마른/다루기 어려운.",
+      "GRE 고빈도!"
+    ]
+  },
+  {
+    "id": "062",
+    "word": "fragile",
+    "pos": "adj.",
+    "head_meanings": ["약한", "부서지기 쉬운"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 frangere(부수다).",
+      "fragile ego=약한 자아."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "fragmentary",
+    "pos": "adj.",
+    "head_meanings": ["단편으로 된", "조각조각의", "불완전한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "fragment+ary=조각으로 된→불완전한."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "frailty",
+    "pos": "n.",
+    "head_meanings": ["연약", "부서지기 쉬움", "단점", "과실"],
+    "synonyms_from_image": [
+      {"word": "infirmity", "note": "허약함, 병약함"},
+      {"word": "weakness", "note": "약함"},
+      {"word": "enfeeblement", "note": "쇠약해짐"},
+      {"word": "debility", "note": "허약, 기력 없음"},
+      {"word": "fragility", "note": "깨지기 쉬움, 연약함"},
+      {"word": "delicacy", "note": "섬세함, 약함"},
+      {"word": "fallibility", "note": "오류 가능성, 불완전함"},
+      {"word": "flaw", "note": "결점, 흠"},
+      {"word": "imperfection", "note": "불완전함"},
+      {"word": "defect", "note": "결함"},
+      {"word": "fault", "note": "잘못, 결점"},
+      {"word": "shortcoming", "note": "단점, 부족한 점"},
+      {"word": "deficiency", "note": "결핍, 부족"},
+      {"word": "inadequacy", "note": "부족함, 불충분"}
+    ],
+    "tips": [
+      "frail(약한)+ty.",
+      "인간의 나약함(human frailty)."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "franchise",
+    "pos": "n.",
+    "head_meanings": ["특권", "공민권", "참정권", "선거권"],
+    "synonyms_from_image": [
+      {"word": "exemption", "note": "면제, 특별 허가"},
+      {"word": "grant", "note": "부여, 허가"},
+      {"word": "right", "note": "권리"},
+      {"word": "suffrage", "note": "선거권, 참정권"},
+      {"word": "voice", "note": "발언권, 의견을 낼 권리"},
+      {"word": "ballot", "note": "투표"},
+      {"word": "vote", "note": "투표권"}
+    ],
+    "tips": [
+      "라틴어 francus(자유로운).",
+      "두 뜻: 1) 참정권/선거권 2) 사업 특허권(맥도날드 프랜차이즈)."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "frank",
+    "pos": "adj.",
+    "head_meanings": ["솔직한", "숨김 없는", "노골적인", "공공연한"],
+    "synonyms_from_image": [
+      {"word": "sincere", "note": "진심의, 진실된"},
+      {"word": "candid", "note": "솔직한, 꾸밈없는"},
+      {"word": "plain", "note": "명백한, 꾸밈없는"},
+      {"word": "straight", "note": "곧은, 직접적인"},
+      {"word": "downright", "note": "완전한, 노골적인"},
+      {"word": "outspoken", "note": "거침없이 말하는"},
+      {"word": "honest", "note": "정직한"},
+      {"word": "explicit", "note": "명시적인, 노골적인"},
+      {"word": "open", "note": "개방적인, 숨기지 않는"},
+      {"word": "artless", "note": "꾸밈없는, 솔직한"},
+      {"word": "straightforward", "note": "직설적인"},
+      {"word": "bluff", "note": "무뚝뚝하지만 솔직한"},
+      {"word": "blunt", "note": "무뚝뚝한, 직설적인"},
+      {"word": "unsparing", "note": "가차 없는, 숨김없이 말하는"},
+      {"word": "obvious", "note": "명백한"},
+      {"word": "transparent", "note": "투명한, 숨김없는"},
+      {"word": "patent", "note": "명백한, 분명한"},
+      {"word": "manifest", "note": "명백한, 드러난"},
+      {"word": "evident", "note": "분명한"},
+      {"word": "palpable", "note": "명백한, 만져질 듯한"},
+      {"word": "blatant", "note": "노골적인, 뻔뻔한"},
+      {"word": "barefaced", "note": "노골적인, 뻔뻔스러운"}
+    ],
+    "tips": [
+      "frank(자유로운)→거리낌 없이 말하는→솔직한."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "frantic",
+    "pos": "adj.",
+    "head_meanings": ["광란의", "미친 듯이 날뛰는"],
+    "synonyms_from_image": [
+      {"word": "furious", "note": "격노한, 미친 듯한"},
+      {"word": "excited", "note": "흥분한, 극도로 흥분"},
+      {"word": "mad", "note": "미친, 광기의"},
+      {"word": "frenzied", "note": "광란의, 이성을 잃은"},
+      {"word": "frenetic", "note": "열광적인, 광적으로 활동하는"}
+    ],
+    "tips": [
+      "frantic vs frenetic: 거의 같은데 frantic은 공포/절박함, frenetic은 활동의 광기."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "fraternal",
+    "pos": "adj.",
+    "head_meanings": ["형제의", "우애의", "우애조합의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 frater(형제).",
+      "fraternity=형제단/사교 클럽."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "fraternize",
+    "pos": "v.",
+    "head_meanings": ["형제처럼 지내다", "친하게 지내다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "적군이나 반대 진영과 '친하게 지내다'는 부정적 뉘앙스도 있어."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "fraudulent",
+    "pos": "adj.",
+    "head_meanings": ["속이는", "기만하는"],
+    "synonyms_from_image": [
+      {"word": "treacherous", "note": "배신적인, 신뢰를 저버리는"},
+      {"word": "tricky", "note": "교활한, 속이는"},
+      {"word": "dishonest", "note": "부정직한"},
+      {"word": "thievish", "note": "도둑질하는, 부정한"}
+    ],
+    "tips": [
+      "fraud(사기)+ulent.",
+      "fraudulent claims=사기성 주장."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "fraudulence",
+    "pos": "n.",
+    "head_meanings": ["기만", "사기", "부정"],
+    "synonyms_from_image": [
+      {"word": "malfeasance", "note": "직권 남용, 부정행위"}
+    ],
+    "tips": [
+      "fraud+ulence.",
+      "사기/기만 행위."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "fraught",
+    "pos": "adj.",
+    "head_meanings": ["가득 실은", "위험으로 가득 찬"],
+    "synonyms_from_image": [
+      {"word": "burdened", "note": "짐을 진, 부담이 가득한"},
+      {"word": "loaded", "note": "가득 실린"},
+      {"word": "weighed", "note": "무게가 실린, 압박받는"},
+      {"word": "oppressed", "note": "억압된, 짓눌린"},
+      {"word": "laden", "note": "가득 실린, 짐을 진"}
+    ],
+    "tips": [
+      "fraught with danger=위험으로 가득한.",
+      "항상 부정적인 것으로 가득 찬 느낌!"
+    ]
+  },
+  {
+    "id": "073",
+    "word": "frenetic",
+    "pos": "adj.",
+    "head_meanings": ["열광적인", "광기의"],
+    "synonyms_from_image": [
+      {"word": "mad", "note": "미친, 광적인"},
+      {"word": "overactive", "note": "과잉 활동의"},
+      {"word": "overzealous", "note": "지나치게 열심인"},
+      {"word": "rabid", "note": "광적인, 미친 듯한"},
+      {"word": "wild", "note": "거친, 야생적으로 날뛰는"}
+    ],
+    "tips": [
+      "그리스어 phren(정신)→정신이 나간 듯 날뛰는.",
+      "frenzy와 같은 뿌리."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "frenzied",
+    "pos": "adj.",
+    "head_meanings": ["열광한", "광포한", "격노한"],
+    "synonyms_from_image": [
+      {"word": "mad", "note": "미친"},
+      {"word": "violent", "note": "격렬한, 폭력적으로 날뛰는"},
+      {"word": "frantic", "note": "광란의, 절박하게 날뛰는"},
+      {"word": "ecstatic", "note": "황홀한, 극도로 흥분"},
+      {"word": "frenetic", "note": "열광적인"},
+      {"word": "rabid", "note": "광적인"},
+      {"word": "wild", "note": "거친"}
+    ],
+    "tips": [
+      "frenzy(광란)+ed→광란에 빠진."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "fret",
+    "pos": "v.",
+    "head_meanings": ["초조해하다", "안달하다", "걱정하다"],
+    "synonyms_from_image": [
+      {"word": "worry", "note": "걱정하다"},
+      {"word": "brood", "note": "곱씹다, 깊이 걱정하다"},
+      {"word": "mope", "note": "우울해하다, 풀이 죽다"},
+      {"word": "distress", "note": "괴롭히다, 고통스럽게 하다"},
+      {"word": "fuss", "note": "안달하다, 호들갑 떨다"}
+    ],
+    "tips": [
+      "고대 영어 fretan(갉아먹다)→걱정이 마음을 갉아먹다."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "friable",
+    "pos": "adj.",
+    "head_meanings": ["깨지기 쉬운", "부서지기 쉬운"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 friare(부수다).",
+      "friable soil=잘 부서지는 흙."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "friction",
+    "pos": "n.",
+    "head_meanings": ["마찰", "압력", "불화", "충돌"],
+    "synonyms_from_image": [
+      {"word": "counteraction", "note": "반작용, 대항"},
+      {"word": "discord", "note": "불화, 불일치"},
+      {"word": "hostility", "note": "적대감"},
+      {"word": "opposition", "note": "반대, 대립"},
+      {"word": "dissension", "note": "의견 충돌, 내분"},
+      {"word": "antagonism", "note": "적대, 반감"}
+    ],
+    "tips": [
+      "물리적 마찰→비유적 불화/갈등.",
+      "reduce friction=마찰을 줄이다."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "frigid",
+    "pos": "adj.",
+    "head_meanings": ["추위가 극심한", "차가운", "냉담한", "무뚝뚝한"],
+    "synonyms_from_image": [
+      {"word": "cold", "note": "차가운"},
+      {"word": "chilly", "note": "쌀쌀한, 서늘한"},
+      {"word": "cool", "note": "시원한, 냉정한"},
+      {"word": "emotionless", "note": "감정 없는"},
+      {"word": "unfeeling", "note": "무감각한, 냉정한"},
+      {"word": "indifferent", "note": "무관심한"},
+      {"word": "stiff", "note": "딱딱한, 경직된"}
+    ],
+    "tips": [
+      "라틴어 frigidus(차가운).",
+      "물리적 추위+감정적 냉담함 둘 다."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "fringe",
+    "pos": "n./adj.",
+    "head_meanings": ["언저리", "주변", "핵심에서 벗어난"],
+    "synonyms_from_image": [
+      {"word": "marginal", "note": "주변적인, 핵심에서 벗어난"}
+    ],
+    "tips": [
+      "옷의 술 장식(fringe)→가장자리→주변부.",
+      "fringe benefits=부가 혜택."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "frivolity",
+    "pos": "n.",
+    "head_meanings": ["경솔", "불성실", "시시한 것"],
+    "synonyms_from_image": [
+      {"word": "giddiness", "note": "들뜸, 경솔한 흥분"},
+      {"word": "flightiness", "note": "변덕스러움, 경솔함"},
+      {"word": "levity", "note": "가벼움, 진지하지 못함"},
+      {"word": "lightness", "note": "가벼움, 경솔함"},
+      {"word": "triviality", "note": "사소함, 하찮음"},
+      {"word": "wantonness", "note": "방종, 제멋대로임"},
+      {"word": "light-mindedness", "note": "경솔함, 생각이 가벼움"}
+    ],
+    "tips": [
+      "frivolous(경솔한)의 명사형.",
+      "진지해야 할 때 가벼운 행동."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "frivolous",
+    "pos": "adj.",
+    "head_meanings": ["경솔한", "진지하지 않은"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 frivolus(하찮은).",
+      "frivolous lawsuit=사소한 소송."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "frothy",
+    "pos": "adj.",
+    "head_meanings": ["거품이 이는", "실속이 없는", "천박한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "froth(거품)+y→거품 같은→실속 없는/천박한."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "frown (upon)",
+    "pos": "v.",
+    "head_meanings": ["눈살을 찌푸리다", "얼굴을 찡그리다", "불쾌한 표정을 하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "frown upon=~을 못마땅하게 여기다.",
+      "GRE에서 이 숙어적 용법이 중요!"
+    ]
+  },
+  {
+    "id": "084",
+    "word": "frugality",
+    "pos": "n.",
+    "head_meanings": ["검약", "절약"],
+    "synonyms_from_image": [
+      {"word": "parsimony", "note": "인색함, 극도의 절약"},
+      {"word": "temperance", "note": "절제"},
+      {"word": "stinting", "note": "인색함, 아끼는 것"},
+      {"word": "husbandry", "note": "관리, 절약적 운영"},
+      {"word": "prudence", "note": "분별, 신중한 절약"},
+      {"word": "economy", "note": "절약, 경제적 사용"}
+    ],
+    "tips": [
+      "라틴어 frugalis(절약하는). GRE 고빈도!",
+      "thrifty/parsimonious/penurious와 세트."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "fruition",
+    "pos": "n.",
+    "head_meanings": ["결실", "성과", "실현", "달성"],
+    "synonyms_from_image": [
+      {"word": "accomplishment", "note": "성취, 완성"},
+      {"word": "pleasure", "note": "기쁨, 결실의 즐거움"},
+      {"word": "attainment", "note": "달성, 목표에 도달"},
+      {"word": "achievement", "note": "성취, 이룬 것"}
+    ],
+    "tips": [
+      "라틴어 frui(즐기다)→과실을 즐기다→결실/실현.",
+      "come to fruition=실현되다. GRE 고빈도!"
+    ]
+  },
+  {
+    "id": "086",
+    "word": "frustrate",
+    "pos": "v.",
+    "head_meanings": ["좌절시키다", "방해하다", "실패시키다"],
+    "synonyms_from_image": [
+      {"word": "thwart", "note": "좌절시키다, 방해하다"},
+      {"word": "disappoint", "note": "실망시키다"},
+      {"word": "neutralize", "note": "무력화하다"},
+      {"word": "outwit", "note": "한 수 앞서다, 꾀로 이기다"},
+      {"word": "baffle", "note": "당혹시키다, 좌절시키다"},
+      {"word": "nullify", "note": "무효화하다"},
+      {"word": "ruin", "note": "망치다"}
+    ],
+    "tips": [
+      "라틴어 frustra(헛되이).",
+      "계획을 좌절시키다/방해하다."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "fudge",
+    "pos": "v.",
+    "head_meanings": ["적당히 얼버무리다", "둘러대다"],
+    "synonyms_from_image": [
+      {"word": "evade", "note": "피하다, 회피하다"},
+      {"word": "avoid", "note": "피하다"},
+      {"word": "dodge", "note": "피하다, 교묘히 빠져나가다"},
+      {"word": "skirt", "note": "비껴가다, 핵심을 피하다"},
+      {"word": "hedge", "note": "회피하다, 확답을 피하다"},
+      {"word": "prevaricate", "note": "얼버무리다, 진실을 피하다"},
+      {"word": "vacillate", "note": "동요하다, 이쪽저쪽"},
+      {"word": "equivocate", "note": "모호하게 말하다, 얼버무리다"},
+      {"word": "adjust", "note": "조정하다, 수치를 조작"},
+      {"word": "manipulate", "note": "조작하다, 부정하게 다루다"},
+      {"word": "compromise", "note": "타협하다, 양보하다"}
+    ],
+    "tips": [
+      "fudge the numbers=숫자를 조작하다.",
+      "사탕 fudge처럼 뭉개서 얼버무리는 이미지!"
+    ]
+  },
+  {
+    "id": "088",
+    "word": "fugitive",
+    "pos": "n./adj.",
+    "head_meanings": ["순식간의", "덧없는", "내내 사라져버리는"],
+    "synonyms_from_image": [
+      {"word": "fugacious", "note": "덧없는, 빨리 사라지는"},
+      {"word": "ephemeral", "note": "순간적인, 하루살이의"},
+      {"word": "short-lived", "note": "단명하는"},
+      {"word": "momentary", "note": "순간의"},
+      {"word": "passing", "note": "지나가는, 일시적인"}
+    ],
+    "tips": [
+      "라틴어 fugere(도망치다). n.=도망자, adj.=덧없는/순간적인.",
+      "GRE에선 adj 뜻도 나와!"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "full-fledged",
+    "pos": "adj.",
+    "head_meanings": ["완전한", "성숙한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "full+fledge(깃털이 다 난)→완전히 성숙한.",
+      "fledgling(풋내기)의 반대!"
+    ]
+  },
+  {
+    "id": "090",
+    "word": "fulminate",
+    "pos": "v.",
+    "head_meanings": ["맹렬히 비난하다", "폭발하다", "번쩍이다"],
+    "synonyms_from_image": [
+      {"word": "blast", "note": "폭발하다, 맹렬히 비난"},
+      {"word": "condemn", "note": "비난하다, 정죄하다"},
+      {"word": "detonate", "note": "폭발하다"}
+    ],
+    "tips": [
+      "라틴어 fulmen(번개)→번개처럼 맹렬히 비난하다.",
+      "fulminate against=~에 대해 맹렬히 비난하다."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "fulsome",
+    "pos": "adj.",
+    "head_meanings": ["지나치게 칭찬하는", "아첨의", "비위 거슬리는"],
+    "synonyms_from_image": [
+      {"word": "flattering", "note": "아부하는, 지나치게 칭찬"},
+      {"word": "soapy", "note": "미끈한, 기름진 아첨의"},
+      {"word": "honey-tongued", "note": "꿀 같은 말의, 달콤하게 아부하는"},
+      {"word": "extravagant", "note": "과한, 지나치게 화려한"},
+      {"word": "bombastic", "note": "과장된, 허풍의"}
+    ],
+    "tips": [
+      "GRE 함정! '충분한(full)'이 아니라 '지나치게 과한/아부하는'이야!"
+    ]
+  },
+  {
+    "id": "092",
+    "word": "fumble",
+    "pos": "v.",
+    "head_meanings": ["서투른 짓을 하다", "실수하다", "공을 놓치다", "더듬다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "손이 서투른→실수하다.",
+      "fumble for words=말을 더듬다."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "fundamental",
+    "pos": "adj.",
+    "head_meanings": ["기본적인", "중요한", "근본적인"],
+    "synonyms_from_image": [
+      {"word": "underlying", "note": "근본적인, 밑바닥에 깔린"},
+      {"word": "foundational", "note": "기초의, 토대가 되는"},
+      {"word": "requisite", "note": "필수의, 꼭 필요한"},
+      {"word": "elementary", "note": "기본적인, 초보적인"}
+    ],
+    "tips": [
+      "fundament(기초)+al→기본에 해당하는."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "funereal",
+    "pos": "adj.",
+    "head_meanings": ["장례식에 알맞는", "침울한", "우울한"],
+    "synonyms_from_image": [
+      {"word": "lugubrious", "note": "우울한, 과하게 슬픈"},
+      {"word": "dark", "note": "어두운, 침울한"},
+      {"word": "gloomy", "note": "우울한, 음침한"},
+      {"word": "depressing", "note": "우울하게 하는, 침울한"}
+    ],
+    "tips": [
+      "funeral(장례식)+eal→장례식 같은→침울한/우울한."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "fungal",
+    "pos": "adj.",
+    "head_meanings": ["균의", "곰팡이의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "fungus(곰팡이/균)+al."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "fungible",
+    "pos": "adj.",
+    "head_meanings": ["대체 가능한", "교환 가능한"],
+    "synonyms_from_image": [
+      {"word": "interchangeable", "note": "교환 가능한, 대체할 수 있는"}
+    ],
+    "tips": [
+      "법률/경제 용어. 돈처럼 동등한 가치로 교환 가능한 것.",
+      "NFT=Non-Fungible Token!"
+    ]
+  },
+  {
+    "id": "097",
+    "word": "furor",
+    "pos": "n.",
+    "head_meanings": ["열광", "열중", "큰 흥분"],
+    "synonyms_from_image": [
+      {"word": "passion", "note": "열정, 강한 감정"},
+      {"word": "fervor", "note": "열렬함, 뜨거운 감정"},
+      {"word": "insanity", "note": "광기, 이성을 잃은 흥분"},
+      {"word": "mania", "note": "광기, 집착적 열광"},
+      {"word": "delirium", "note": "섬망, 정신 착란적 흥분"}
+    ],
+    "tips": [
+      "라틴어 furor(광기).",
+      "public furor=대중의 격분/열광."
+    ]
+  },
+  {
+    "id": "098",
+    "word": "furtive",
+    "pos": "adj.",
+    "head_meanings": ["몰래 하는", "은밀한", "교활한"],
+    "synonyms_from_image": [
+      {"word": "covert", "note": "비밀의, 은밀한"},
+      {"word": "deceitful", "note": "속이는, 교활한"},
+      {"word": "surreptitious", "note": "몰래 하는, 은밀한"},
+      {"word": "secret", "note": "비밀의"}
+    ],
+    "tips": [
+      "라틴어 furtivus(훔친, theft와 관련)→도둑처럼 몰래 하는.",
+      "a furtive glance=은밀한 눈길."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "fussy",
+    "pos": "adj.",
+    "head_meanings": ["안달복달하는", "까다로운", "지나치게 재는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "fuss(안달)+y→사소한 것에 안달하는=까다로운."
+    ]
+  },
+  {
+    "id": "100",
+    "word": "fustian",
+    "pos": "adj./n.",
+    "head_meanings": ["과장된", "허풍의", "웅변조의"],
+    "synonyms_from_image": [
+      {"word": "pompous", "note": "거드름 피우는, 과장되게 거창한"}
+    ],
+    "tips": [
+      "원래 거친 천(fustian)→값싸 보이는 화려함→과장된 허풍."
+    ]
+  },
+  {
+    "id": "101",
+    "word": "fusty",
+    "pos": "adj.",
+    "head_meanings": ["곰팡내 나는", "케케묵은", "진부한"],
+    "synonyms_from_image": [
+      {"word": "outmoded", "note": "구식의, 시대에 뒤떨어진"}
+    ],
+    "tips": [
+      "fust(곰팡이)+y→곰팡내 나는→낡은/진부한."
+    ]
+  },
+  {
+    "id": "102",
+    "word": "futile",
+    "pos": "adj.",
+    "head_meanings": ["무익한", "쓸데없는", "하찮은", "시시한"],
+    "synonyms_from_image": [
+      {"word": "pointless", "note": "무의미한"},
+      {"word": "fruitless", "note": "성과 없는, 열매 맺지 못하는"},
+      {"word": "hopeless", "note": "희망 없는"},
+      {"word": "vain", "note": "헛된"},
+      {"word": "useless", "note": "쓸모없는"},
+      {"word": "ineffectual", "note": "효과 없는"},
+      {"word": "ineffective", "note": "무효한, 효력 없는"},
+      {"word": "inefficacious", "note": "효능 없는"},
+      {"word": "worthless", "note": "가치 없는"},
+      {"word": "unavailing", "note": "소용없는"},
+      {"word": "unsuccessful", "note": "성공하지 못한"},
+      {"word": "failed", "note": "실패한"},
+      {"word": "thwarted", "note": "좌절된"},
+      {"word": "unproductive", "note": "비생산적인"},
+      {"word": "barren", "note": "불모의, 결실 없는"},
+      {"word": "unprofitable", "note": "이익 없는"},
+      {"word": "abortive", "note": "유산된, 실패한"},
+      {"word": "profitless", "note": "이익 없는"},
+      {"word": "impotent", "note": "무력한"},
+      {"word": "hollow", "note": "공허한, 속 빈"},
+      {"word": "empty", "note": "빈, 무의미한"},
+      {"word": "forlorn", "note": "비참한, 희망 없는"},
+      {"word": "idle", "note": "쓸데없는, 공허한"},
+      {"word": "bootless", "note": "무익한, 보람 없는"},
+      {"word": "frivolous", "note": "하찮은, 시시한"}
+    ],
+    "tips": [
+      "라틴어 futilis(샌다)→물을 담아도 새는 그릇→무익한.",
+      "GRE 고빈도!"
+    ]
+  },
+  {
+    "id": "103",
+    "word": "futility",
+    "pos": "n.",
+    "head_meanings": ["무용", "헛됨", "무가치", "무익"],
+    "synonyms_from_image": [
+      {"word": "pointlessness", "note": "무의미함"},
+      {"word": "fruitlessness", "note": "성과 없음"},
+      {"word": "uselessness", "note": "쓸모없음"},
+      {"word": "vanity", "note": "헛됨, 허무"},
+      {"word": "ineffectiveness", "note": "효과 없음"},
+      {"word": "inefficacy", "note": "효능 없음"},
+      {"word": "failure", "note": "실패"},
+      {"word": "barrenness", "note": "불모, 결실 없음"},
+      {"word": "unprofitability", "note": "이익 없음"},
+      {"word": "impotence", "note": "무력함"},
+      {"word": "hollowness", "note": "공허함"},
+      {"word": "emptiness", "note": "공허, 무의미"},
+      {"word": "forlornness", "note": "비참함, 절망"},
+      {"word": "hopelessness", "note": "절망, 희망 없음"},
+      {"word": "bootlessness", "note": "무익함"}
+    ],
+    "tips": [
+      "futile+ity.",
+      "the futility of war=전쟁의 무의미함."
+    ]
+  },
+  {
+    "id": "104",
+    "word": "gadget",
+    "pos": "n.",
+    "head_meanings": ["간단한 기계", "전기 장치", "장치", "도구", "묘안"],
+    "synonyms_from_image": [
+      {"word": "appliance", "note": "기기, 가전제품"},
+      {"word": "apparatus", "note": "기구, 장치"},
+      {"word": "instrument", "note": "기구, 도구"},
+      {"word": "utensil", "note": "도구, 용구"},
+      {"word": "contrivance", "note": "고안물, 장치"},
+      {"word": "device", "note": "장치, 기기"},
+      {"word": "gimmick", "note": "묘책, 눈속임 장치"}
+    ],
+    "tips": [
+      "어원 불명.",
+      "작은 기계/장치."
+    ]
+  },
+  {
+    "id": "105",
+    "word": "gaffe",
+    "pos": "n.",
+    "head_meanings": ["실패", "실수", "실언", "과실"],
+    "synonyms_from_image": [
+      {"word": "indiscretion", "note": "경솔한 행동, 실수"},
+      {"word": "impropriety", "note": "부적절함, 예의에 어긋남"},
+      {"word": "mistake", "note": "실수"},
+      {"word": "error", "note": "오류, 잘못"},
+      {"word": "slip", "note": "실수, 말실수"},
+      {"word": "blunder", "note": "큰 실수, 어이없는 잘못"},
+      {"word": "faux pas", "note": "사교적 실수, 무례한 행동"},
+      {"word": "gaucherie", "note": "어색함, 사회적 미숙함"}
+    ],
+    "tips": [
+      "프랑스어 gaffe(실수).",
+      "social gaffe=사회적 실수/실언."
+    ]
+  }
+]
