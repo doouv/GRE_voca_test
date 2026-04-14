@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "001",
+    "word": "inchoate",
+    "pos": "adj.",
+    "head_meanings": ["방금 시작된", "미발달된", "미완성의", "조직적이 아닌", "너저분한", "산만한"],
+    "synonyms_from_image": [
+      {"word": "rudimentary", "note": "초보적인, 막 시작 단계라 덜 발달된"},
+      {"word": "beginning", "note": "시작하는, 이제 막 시작된 상태"},
+      {"word": "formless", "note": "형태 없는, 아직 모양이 잡히지 않은"},
+      {"word": "unshaped", "note": "형태가 잡히지 않은, 미완성 상태"},
+      {"word": "unordered", "note": "정리되지 않은, 체계가 없는"},
+      {"word": "vague", "note": "모호한, 아직 윤곽이 불분명한"},
+      {"word": "shapeless", "note": "형체 없는, 구조가 잡히지 않은"}
+    ],
+    "tips": [
+      "`in-`(시작)+`choate`(시작하다)→막 시작된=미완성의.",
+      "GRE 고빈도! 아직 형태가 안 잡힌 초기 상태를 뜻해."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "incidence",
+    "pos": "n.",
+    "head_meanings": ["발생 사건", "발생의 정도", "범위", "율", "빈도", "발생률", "발병률", "입사", "투사", "입사각", "부담", "귀착"],
+    "synonyms_from_image": [
+      {"word": "scope", "note": "범위, 발생이 미치는 범위"},
+      {"word": "range", "note": "범위, 발생 정도의 폭"},
+      {"word": "extent", "note": "정도, 발생이 미치는 규모"},
+      {"word": "frequency", "note": "빈도, 얼마나 자주 발생하는지"}
+    ],
+    "tips": [
+      "incident와 구분! incidence=발생률/빈도.",
+      "the incidence of crime=범죄 발생률."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "incidental",
+    "pos": "adj.",
+    "head_meanings": ["부수하여 일어나는", "흔히 있는", "우연히 일어나는", "우연적인", "중요하지 않은", "부차적인", "지엽적인"],
+    "synonyms_from_image": [
+      {"word": "secondary", "note": "부차적인, 주된 것에 딸린"},
+      {"word": "extraneous", "note": "관련 없는, 본질과 무관한"},
+      {"word": "accessory", "note": "부수적인, 주된 것에 덧붙는"},
+      {"word": "minor", "note": "사소한, 중요하지 않은"},
+      {"word": "subordinate", "note": "하위의, 주된 것보다 덜 중요한"},
+      {"word": "unexpected", "note": "예기치 않은, 우연히 일어나는"}
+    ],
+    "tips": [
+      "`in-`+`cid-`(떨어지다)→우연히 떨어진→부수적인.",
+      "incidental expenses=부대 비용."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "incident",
+    "pos": "n.",
+    "head_meanings": ["사건", "부가적 사건", "작은 사건"],
+    "synonyms_from_image": [],
+    "tips": [
+      "incident vs accident: incident는 일반적 사건, accident는 우연한 사고.",
+      "`in-`+`cid-`(떨어지다)→떨어진 일=사건."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "incinerate",
+    "pos": "v.",
+    "head_meanings": ["소각하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`ciner-`(재, cinder)→재로 만들다=소각하다.",
+      "incinerate waste=폐기물을 소각하다."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "incipient",
+    "pos": "adj.",
+    "head_meanings": ["시초의", "초기의", "발단의"],
+    "synonyms_from_image": [
+      {"word": "initial", "note": "처음의, 시작 단계의"},
+      {"word": "primary", "note": "최초의, 가장 이른 단계의"},
+      {"word": "original", "note": "원래의, 처음 발생한"}
+    ],
+    "tips": [
+      "`in-`+`cip-`(잡다, capture)→막 잡기 시작한=초기의.",
+      "GRE 고빈도! incipient disease=초기 질병."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "incise",
+    "pos": "v.",
+    "head_meanings": ["째다", "자르다", "절개하다", "새기다", "조각하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`(안으로)+`cise`(자르다, scissors)→안으로 자르다=절개하다.",
+      "incise a wound=상처를 절개하다."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "incisive",
+    "pos": "adj.",
+    "head_meanings": ["예리한", "날카로운", "기민한", "재빠른", "문장이 통렬한", "말이 신랄한"],
+    "synonyms_from_image": [
+      {"word": "acrimonious", "note": "신랄한, 날카롭게 비꼬는"},
+      {"word": "caustic", "note": "통렬한, 독설적으로 날카로운"},
+      {"word": "eloquent", "note": "웅변적인, 말이 날카롭고 설득력 있는"},
+      {"word": "concise", "note": "간결한, 군더더기 없이 핵심을 찌르는"},
+      {"word": "sagacious", "note": "예리한, 통찰력이 날카로운"}
+    ],
+    "tips": [
+      "incise(자르다)+ive→칼처럼 예리한.",
+      "분석력/비판이 날카로운 걸 뜻해. incisive analysis."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "inflate",
+    "pos": "v./adj.",
+    "head_meanings": ["부풀리다", "팽창시키다", "과장하다", "adj.) 과장된, 부푼"],
+    "synonyms_from_image": [
+      {"word": "boastful", "note": "허풍떠는, 과장되게 자랑하는"},
+      {"word": "bombastic", "note": "과장된, 허풍으로 부풀린"},
+      {"word": "distended", "note": "팽창한, 부풀어 오른"}
+    ],
+    "tips": [
+      "`in-`+`flat-`(불다)→안으로 불어넣다=부풀리다.",
+      "inflated ego=부풀려진 자아. inflate prices=물가를 올리다."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "infraction",
+    "pos": "n.",
+    "head_meanings": ["위반", "침해"],
+    "synonyms_from_image": [
+      {"word": "disobedience", "note": "불복종, 규칙을 따르지 않음"},
+      {"word": "lawbreaking", "note": "위법, 법을 어김"},
+      {"word": "overstepping", "note": "일탈, 한계를 넘어섬"},
+      {"word": "transgression", "note": "위반, 규범을 넘어섬"}
+    ],
+    "tips": [
+      "`in-`+`fract-`(부수다, fracture)→규칙을 부수다=위반.",
+      "traffic infraction=교통 위반."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "incite",
+    "pos": "v.",
+    "head_meanings": ["자극하다", "고무하다", "선동하다", "일으키게 하다", "유발하다"],
+    "synonyms_from_image": [
+      {"word": "advise", "note": "충고하다, 행동을 부추기는 조언"},
+      {"word": "excite", "note": "흥분시키다, 감정을 자극하다"},
+      {"word": "impel", "note": "떠밀다, 행동하도록 강하게 몰아가다"},
+      {"word": "instigate", "note": "선동하다, 남을 부추겨 일으키다"},
+      {"word": "induce", "note": "유도하다, 설득해서 행동하게 하다"},
+      {"word": "agitate", "note": "동요시키다, 선동하여 불안하게 하다"}
+    ],
+    "tips": [
+      "`in-`+`cite`(움직이다)→안에서 움직이게 하다=선동하다.",
+      "incite violence=폭력을 선동하다."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "inclement",
+    "pos": "adj.",
+    "head_meanings": ["기후가 모진", "험악한", "매서운", "혹심한"],
+    "synonyms_from_image": [
+      {"word": "cold", "note": "추운, 혹독한 날씨"},
+      {"word": "pitiless", "note": "무자비한, 인정사정 없는 날씨"},
+      {"word": "harsh", "note": "가혹한, 거칠고 매서운"},
+      {"word": "stringent", "note": "엄격한, 매서울 정도로 혹독한"},
+      {"word": "bitter", "note": "매서운, 살을 에는 듯한"},
+      {"word": "tempestuous", "note": "폭풍우의, 거칠게 몰아치는"}
+    ],
+    "tips": [
+      "`in-`(부정)+`clement`(온화한)→온화하지 않은=매서운.",
+      "inclement weather=궂은 날씨. 거의 날씨에만 써."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "incline",
+    "pos": "v./n.",
+    "head_meanings": ["기울이다", "경사지게 하다", "마음을 돌리다"],
+    "synonyms_from_image": [
+      {"word": "cant", "note": "기울이다, 한쪽으로 기울다"},
+      {"word": "tilt", "note": "기울이다, 한쪽으로 치우치다"},
+      {"word": "lean", "note": "기대다, 기울어지다"},
+      {"word": "tend", "note": "경향이 있다, ~쪽으로 기울다"}
+    ],
+    "tips": [
+      "`in-`+`cline`(기울다)→안으로 기울다.",
+      "be inclined to=~하는 경향이 있다."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "inclined",
+    "pos": "adj.",
+    "head_meanings": ["하고 싶어하는", "할 생각이 있는", "경향이 있는", "기운", "경사진", "경사면과 각도를 이루는"],
+    "synonyms_from_image": [
+      {"word": "willing", "note": "기꺼이 하는, 마음이 기운"},
+      {"word": "disposed", "note": "마음이 내키는, ~할 성향의"},
+      {"word": "minded", "note": "~할 마음이 있는"},
+      {"word": "prone", "note": "~하기 쉬운, 경향이 있는"},
+      {"word": "ready", "note": "준비된, ~할 마음이 있는"}
+    ],
+    "tips": [
+      "incline+d→~할 마음이 기운→~하는 경향의.",
+      "I'm inclined to agree=동의하는 쪽으로 기울어."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "inclusive",
+    "pos": "adj.",
+    "head_meanings": ["모든 것을 포함하는", "포괄적인"],
+    "synonyms_from_image": [
+      {"word": "all-encompassing", "note": "모든 것을 아우르는"},
+      {"word": "generic", "note": "포괄적인, 전반적인"},
+      {"word": "comprehensive", "note": "종합적인, 빠짐없이 포함하는"},
+      {"word": "overall", "note": "전체적인, 전반을 아우르는"},
+      {"word": "joint", "note": "공동의, 함께 포함하는"},
+      {"word": "whole", "note": "전체의, 모두 포함하는"},
+      {"word": "total", "note": "총체적인, 전부 포함하는"}
+    ],
+    "tips": [
+      "`in-`+`clud-`(닫다)+ive→안에 닫아넣는→포괄적인.",
+      "inclusive society=포용적 사회."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "incognito",
+    "pos": "adv./adj.",
+    "head_meanings": ["신분을 숨기고", "익명으로"],
+    "synonyms_from_image": [
+      {"word": "anonymous", "note": "익명의, 이름을 밝히지 않는"},
+      {"word": "disguised", "note": "변장한, 신분을 감춘"},
+      {"word": "private", "note": "비공개의, 몰래 하는"},
+      {"word": "anon", "note": "익명으로, 이름 없이"},
+      {"word": "nameless", "note": "이름 없는, 신원 불명의"}
+    ],
+    "tips": [
+      "이탈리아어→`in-`(부정)+`cognito`(알려진)=알려지지 않은.",
+      "travel incognito=신분을 숨기고 여행하다."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "incoherent",
+    "pos": "adj.",
+    "head_meanings": ["조리가 맞지 않는", "논리가 일관되지 않는", "모순된", "전혀 결합력이 없는", "흐트러진", "통일성이 없는", "조화가 없는"],
+    "synonyms_from_image": [
+      {"word": "loose", "note": "느슨한, 논리적 연결이 헐거운"},
+      {"word": "disconnected", "note": "단절된, 앞뒤가 이어지지 않는"},
+      {"word": "discontinuous", "note": "불연속적인, 끊어져 이어지지 않는"},
+      {"word": "unconnected", "note": "연결되지 않은, 관련 없이 흩어진"}
+    ],
+    "tips": [
+      "`in-`(부정)+`coherent`(일관된)=일관되지 않는.",
+      "incoherent speech=조리 없는 말."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "incommensurable",
+    "pos": "adj.",
+    "head_meanings": ["같은 표준으로 잴 수 없는", "비교할 수 없는", "현격한 차이가 나는", "불균형한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`com-`+`mensur-`(재다, measure)→같이 잴 수 없는=비교 불가능한.",
+      "두 가지를 같은 척도로 비교할 수 없을 때 써."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "incommensurate with",
+    "pos": "adj.",
+    "head_meanings": ["불균형의", "맞지 않은", "부적당한", "어울리지 않는", "과잉한", "너무 작은"],
+    "synonyms_from_image": [
+      {"word": "incommensurable", "note": "비교할 수 없는, 같은 척도로 못 재는"},
+      {"word": "inappropriate", "note": "부적절한, 어울리지 않는"},
+      {"word": "inordinate", "note": "과도한, 지나친"},
+      {"word": "undue", "note": "부당한, 과한"},
+      {"word": "inadequate", "note": "불충분한, 맞지 않는"}
+    ],
+    "tips": [
+      "`in-`+`commensurate`(비례하는)=비례하지 않는.",
+      "GRE에서 자주 나와! punishment incommensurate with the crime."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "incompatible",
+    "pos": "adj.",
+    "head_meanings": ["조화와 양립할 수 없는", "모순된", "서로 뜻이 조화되지 않는", "상대되는", "일관성 없는"],
+    "synonyms_from_image": [
+      {"word": "inconsistent", "note": "일관성 없는, 서로 모순되는"},
+      {"word": "irreconcilable", "note": "화해 불가, 양립 불가"},
+      {"word": "unsuited", "note": "맞지 않는, 어울리지 않는"},
+      {"word": "mismatched", "note": "짝이 안 맞는, 서로 맞지 않는"},
+      {"word": "conflicting", "note": "상충하는, 서로 부딪치는"},
+      {"word": "contradictory", "note": "모순된, 서로 반대되는"},
+      {"word": "antagonistic", "note": "적대적인, 대립하는"},
+      {"word": "clashing", "note": "충돌하는, 서로 부딪히는"},
+      {"word": "inharmonious", "note": "조화롭지 않은, 불협화의"},
+      {"word": "discordant", "note": "불협화의, 어울리지 않는"},
+      {"word": "different", "note": "다른, 서로 맞지 않는"},
+      {"word": "disagreeing", "note": "의견이 다른, 서로 일치하지 않는"}
+    ],
+    "tips": [
+      "`in-`+`compatible`(양립 가능한)=양립 불가능한.",
+      "incompatible personalities=맞지 않는 성격."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "incompetence",
+    "pos": "n.",
+    "head_meanings": ["무능력", "부적격", "무자격", "능력 없음"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`competence`(능력)=무능력.",
+      "professional incompetence=직업적 무능."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "inconclusive",
+    "pos": "adj.",
+    "head_meanings": ["결정적이지 않은", "결론이 이르지 못하는"],
+    "synonyms_from_image": [
+      {"word": "indecisive", "note": "결정적이지 않은, 결론이 안 나는"},
+      {"word": "indefinite", "note": "불확정한, 명확하지 않은"},
+      {"word": "indeterminate", "note": "미정의, 확정되지 않은"},
+      {"word": "unresolved", "note": "해결되지 않은, 결론이 안 난"},
+      {"word": "unsettled", "note": "미해결의, 아직 정해지지 않은"}
+    ],
+    "tips": [
+      "`in-`+`conclusive`(결정적인)=결정적이지 않은.",
+      "inconclusive evidence=결정적이지 않은 증거."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "incongruity",
+    "pos": "n.",
+    "head_meanings": ["불일치", "부조화", "모순", "부적당", "부조화한 것"],
+    "synonyms_from_image": [
+      {"word": "discrepancy", "note": "불일치, 서로 어긋남"},
+      {"word": "difference", "note": "차이, 서로 맞지 않는 부분"},
+      {"word": "discord", "note": "불화, 조화되지 않음"},
+      {"word": "illogicalness", "note": "비논리성, 앞뒤가 맞지 않음"},
+      {"word": "inconsistency", "note": "불일치, 일관성 없음"}
+    ],
+    "tips": [
+      "`in-`+`congruity`(일치)=불일치/부조화.",
+      "the incongruity of the situation=상황의 부조화."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "incongruous",
+    "pos": "adj.",
+    "head_meanings": ["조화되지 않는", "일치하지 않는", "이야기 등이 앞뒤가 맞지 않는", "태도", "말씨 등이 부적당한"],
+    "synonyms_from_image": [
+      {"word": "incompatible", "note": "양립 불가한, 서로 맞지 않는"},
+      {"word": "inappropriate", "note": "부적절한, 상황에 안 맞는"},
+      {"word": "inconsistent", "note": "일관성 없는, 앞뒤가 안 맞는"},
+      {"word": "absurd", "note": "터무니없는, 맞지 않아서 우스운"},
+      {"word": "odd", "note": "이상한, 어울리지 않는"},
+      {"word": "strange", "note": "이상한, 기대와 다른"},
+      {"word": "bizarre", "note": "기괴한, 맥락에 안 맞아 이상한"}
+    ],
+    "tips": [
+      "`in-`+`congruous`(조화되는)=조화되지 않는.",
+      "GRE 고빈도! incongruous behavior=상황에 맞지 않는 행동."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "inconsequential",
+    "pos": "adj.",
+    "head_meanings": ["하찮은", "대수롭지 않은", "이치에 맞지 않는"],
+    "synonyms_from_image": [
+      {"word": "trivial", "note": "하찮은, 사소한"},
+      {"word": "insignificant", "note": "무의미한, 중요하지 않은"},
+      {"word": "unimportant", "note": "중요하지 않은, 대수롭지 않은"},
+      {"word": "negligible", "note": "무시할 수 있는, 미미한"},
+      {"word": "slight", "note": "약간의, 대수롭지 않은"},
+      {"word": "minor", "note": "사소한, 작은"},
+      {"word": "trifling", "note": "시시한, 하찮은"},
+      {"word": "petty", "note": "사소한, 쩨쩨한"},
+      {"word": "loose", "note": "느슨한, 논리가 허술한"},
+      {"word": "illogical", "note": "비논리적인, 이치에 맞지 않는"},
+      {"word": "invalid", "note": "타당하지 않은, 근거 없는"},
+      {"word": "irrelevant", "note": "무관한, 상관없는"}
+    ],
+    "tips": [
+      "`in-`+`consequential`(중요한)=중요하지 않은=하찮은.",
+      "inconsequential details=하찮은 세부사항."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "inconsistent",
+    "pos": "adj.",
+    "head_meanings": ["조화되지 않은", "엇갈린", "조리가 서지 않은", "일관성 없는"],
+    "synonyms_from_image": [
+      {"word": "mixed", "note": "뒤섞인, 일관성 없이 섞인"},
+      {"word": "ambivalent", "note": "양가적인, 상반된 감정이 공존하는"},
+      {"word": "equivocal", "note": "모호한, 이쪽저쪽 다 되는"},
+      {"word": "contradictory", "note": "모순된, 서로 반대되는"},
+      {"word": "conflicting", "note": "상충하는, 서로 충돌하는"},
+      {"word": "confused", "note": "혼란된, 뒤죽박죽인"},
+      {"word": "muddled", "note": "뒤죽박죽인, 혼란스러운"},
+      {"word": "divergent", "note": "상이한, 서로 다른 방향의"},
+      {"word": "incongruent", "note": "불일치하는, 서로 맞지 않는"},
+      {"word": "inconstant", "note": "변덕스러운, 일정하지 않은"},
+      {"word": "unstable", "note": "불안정한, 계속 바뀌는"},
+      {"word": "unsteady", "note": "불안정한, 일정하지 않은"},
+      {"word": "variable", "note": "변하기 쉬운, 일정하지 않은"},
+      {"word": "capricious", "note": "변덕스러운, 예측 불가한"},
+      {"word": "fickle", "note": "변덕스러운, 자주 바뀌는"},
+      {"word": "erratic", "note": "불규칙한, 일정한 패턴이 없는"}
+    ],
+    "tips": [
+      "`in-`+`consistent`(일관된)=일관되지 않는.",
+      "inconsistent statements=모순된 진술."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "incontrovertible",
+    "pos": "adj.",
+    "head_meanings": ["논쟁할 여지 없는", "다툴 나위 없는", "명백한"],
+    "synonyms_from_image": [
+      {"word": "certain", "note": "확실한, 의심할 여지 없는"},
+      {"word": "evidential", "note": "증거가 되는, 명백한"},
+      {"word": "unarguable", "note": "반박할 수 없는, 논쟁 불가"},
+      {"word": "undeniable", "note": "부인할 수 없는, 분명한"},
+      {"word": "irrefutable", "note": "반박 불가능한, 논파할 수 없는"}
+    ],
+    "tips": [
+      "`in-`+`controvertible`(논쟁 가능한)=논쟁 불가=명백한.",
+      "incontrovertible evidence=반박할 수 없는 증거."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "incorporate",
+    "pos": "v.",
+    "head_meanings": ["포함하다", "통합시키다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`corpor-`(몸, corpus)→몸 안에 넣다=통합하다.",
+      "incorporate feedback=피드백을 반영하다."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "incorrigible",
+    "pos": "adj.",
+    "head_meanings": ["교정할 수 없는", "어쩔 도리 없는", "뿌리 깊은", "철저한"],
+    "synonyms_from_image": [
+      {"word": "confirmed", "note": "확고한, 고쳐지지 않을 만큼 굳어진"},
+      {"word": "hopeless", "note": "가망 없는, 고칠 희망이 없는"},
+      {"word": "irreclaimable", "note": "되찾을 수 없는, 교정 불가능한"},
+      {"word": "unruly", "note": "다루기 힘든, 통제 불능의"}
+    ],
+    "tips": [
+      "`in-`+`corrigible`(교정 가능한)=교정 불가능한.",
+      "an incorrigible liar=고칠 수 없는 거짓말쟁이."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "incredible",
+    "pos": "adj.",
+    "head_meanings": ["믿어지지 않는", "의심스러운", "믿을 수 없을 정도의 사실이 아닌", "기발한", "놀라운", "굉장한"],
+    "synonyms_from_image": [
+      {"word": "improbable", "note": "있을 법하지 않은, 믿기 어려운"},
+      {"word": "unbelievable", "note": "믿을 수 없는, 믿기 힘든"},
+      {"word": "unconvincing", "note": "설득력 없는, 납득이 안 되는"},
+      {"word": "far-fetched", "note": "억지스러운, 현실성 없는"},
+      {"word": "implausible", "note": "그럴듯하지 않은, 신빙성 없는"},
+      {"word": "dubious", "note": "의심스러운, 미심쩍은"},
+      {"word": "doubtful", "note": "의심스러운, 확신이 안 서는"},
+      {"word": "inconceivable", "note": "상상할 수 없는, 믿기 어려운"},
+      {"word": "magnificent", "note": "장대한, 믿기 힘들 만큼 대단한"},
+      {"word": "wonderful", "note": "경이로운, 놀라울 정도의"},
+      {"word": "remarkable", "note": "놀라운, 주목할 만한"},
+      {"word": "extraordinary", "note": "비범한, 보통을 넘어서는"}
+    ],
+    "tips": [
+      "`in-`+`credible`(믿을 수 있는)=믿을 수 없는.",
+      "GRE 함정: '놀라운'보다 '믿기 어려운'이 핵심 의미야."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "incredulity",
+    "pos": "n.",
+    "head_meanings": ["쉽사리 믿지 않음", "의심이 많음"],
+    "synonyms_from_image": [
+      {"word": "agnosticism", "note": "불가지론, 확신하지 않는 태도"},
+      {"word": "disbelief", "note": "불신, 믿지 않음"}
+    ],
+    "tips": [
+      "incredible과 헷갈리지 마!",
+      "incredulity=쉽게 안 믿는 성향. 주체의 태도를 뜻해."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "incredulous",
+    "pos": "adj.",
+    "head_meanings": ["쉽사리 믿지 않는", "의심이 많은"],
+    "synonyms_from_image": [
+      {"word": "agnostic", "note": "불가지론적인, 확신하지 않는"},
+      {"word": "unbelieving", "note": "믿지 않는, 불신하는"},
+      {"word": "ungullible", "note": "잘 속지 않는, 쉽게 안 믿는"},
+      {"word": "questioning", "note": "의문을 품는, 쉽게 수긍 안 하는"}
+    ],
+    "tips": [
+      "GRE 함정! incredible(믿기 어려운)≠incredulous(잘 안 믿는).",
+      "주체가 다름! 대상 vs 사람의 태도."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "increment",
+    "pos": "n.",
+    "head_meanings": ["증가", "증대", "인상", "증액", "이익"],
+    "synonyms_from_image": [
+      {"word": "augmentation", "note": "증대, 양이 늘어남"},
+      {"word": "expansion", "note": "확장, 규모가 커짐"},
+      {"word": "extension", "note": "연장, 범위가 늘어남"},
+      {"word": "gain", "note": "이득, 늘어난 부분"},
+      {"word": "benefit", "note": "이익, 좋은 방향의 증가"},
+      {"word": "rise", "note": "상승, 올라감"},
+      {"word": "growth", "note": "성장, 점진적 증가"}
+    ],
+    "tips": [
+      "`in-`+`cre-`(자라다)+ment→증가분.",
+      "salary increment=급여 인상."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "incriminate",
+    "pos": "v.",
+    "head_meanings": ["죄를 뒤집어 씌우다", "유죄로 만들다", "죄가 있다고 지탄하다"],
+    "synonyms_from_image": [
+      {"word": "inculpate", "note": "죄를 뒤집어씌우다, 유죄로 만들다"},
+      {"word": "involve", "note": "연루시키다, 범죄에 끌어들이다"},
+      {"word": "attack", "note": "공격하다, 비난하며 몰아세우다"},
+      {"word": "assail", "note": "맹렬히 비난하다, 거세게 공격하다"},
+      {"word": "impugn", "note": "이의를 제기하다, 비난하다"}
+    ],
+    "tips": [
+      "`in-`+`crimin-`(죄, crime)→죄 안에 넣다=죄를 뒤집어씌우다.",
+      "incriminating evidence=유죄 입증 증거."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "inculcate",
+    "pos": "v.",
+    "head_meanings": ["가르쳐주다", "깨우치다"],
+    "synonyms_from_image": [
+      {"word": "indoctrinate", "note": "주입하다, 사상을 가르쳐 넣다"},
+      {"word": "instill", "note": "심어주다, 서서히 주입하다"},
+      {"word": "infuse", "note": "불어넣다, 스며들게 하다"},
+      {"word": "imbue", "note": "물들이다, 깊이 스며들게 하다"},
+      {"word": "instruct", "note": "가르치다, 지도하다"},
+      {"word": "enlighten", "note": "깨우치다, 눈뜨게 하다"},
+      {"word": "infix", "note": "깊이 박다, 마음에 새기다"},
+      {"word": "impress", "note": "각인시키다, 깊이 새기다"}
+    ],
+    "tips": [
+      "`in-`+`culc-`(밟다)→마음에 밟아넣다=가르쳐주다/주입하다.",
+      "inculcate values in children=아이들에게 가치관을 심어주다."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "inculpate",
+    "pos": "v.",
+    "head_meanings": ["남에게 죄를 뒤집어 씌우다", "비난하다"],
+    "synonyms_from_image": [
+      {"word": "incriminate", "note": "죄를 뒤집어씌우다, 유죄로 만들다"}
+    ],
+    "tips": [
+      "`in-`+`culp-`(죄, culprit)→죄 안에 넣다.",
+      "exculpate(무죄로 하다)의 반의어!"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "incumbent",
+    "pos": "n./adj.",
+    "head_meanings": ["현직자", "재직자", "성직록 소유자", "현직의", "의무인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정! n.=현직자, adj.=의무인.",
+      "it is incumbent upon=~할 의무가 있다."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "incur",
+    "pos": "v.",
+    "head_meanings": ["빚을 지다", "떠맡다", "초래하다", "가져오다", "부채를 짊어지다"],
+    "synonyms_from_image": [
+      {"word": "contract", "note": "떠맡다, 계약으로 지다"},
+      {"word": "arouse", "note": "불러일으키다, 초래하다"},
+      {"word": "provoke", "note": "유발하다, 초래하다"}
+    ],
+    "tips": [
+      "`in-`+`cur-`(달리다)→안으로 달려들다=초래하다.",
+      "incur debts=빚을 지다. incur losses=손실을 입다."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "incursion",
+    "pos": "n.",
+    "head_meanings": ["일시적인 침략", "습격", "침입"],
+    "synonyms_from_image": [
+      {"word": "intrusion", "note": "침입, 허락 없이 들어옴"},
+      {"word": "attack", "note": "공격, 무력으로 침입"},
+      {"word": "aggression", "note": "침략, 공격적 침입"},
+      {"word": "raid", "note": "급습, 기습적 침입"}
+    ],
+    "tips": [
+      "`in-`+`curs-`(달리다)→안으로 달려들어옴=침입.",
+      "military incursion=군사적 침입."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "indecisive",
+    "pos": "adj.",
+    "head_meanings": ["결단성 없는", "우유부단한", "결정적이지 않은", "결론에 이르지 못한"],
+    "synonyms_from_image": [
+      {"word": "irresolute", "note": "결단력 없는, 망설이는"},
+      {"word": "hesitant", "note": "주저하는, 결정을 못 내리는"},
+      {"word": "tentative", "note": "잠정적인, 확신 없이 시도하는"},
+      {"word": "weak", "note": "약한, 결단력이 부족한"},
+      {"word": "vacillating", "note": "동요하는, 이리저리 흔들리는"},
+      {"word": "equivocating", "note": "얼버무리는, 명확히 못 정하는"},
+      {"word": "wavering", "note": "흔들리는, 결정을 못 내리고 망설이는"},
+      {"word": "faltering", "note": "머뭇거리는, 자신감 없이 주저하는"},
+      {"word": "ambivalent", "note": "양가적인, 마음이 둘로 갈리는"},
+      {"word": "doubtful", "note": "의심스러운, 확신이 안 서는"},
+      {"word": "unsure", "note": "확신 없는, 결정 못 하는"},
+      {"word": "uncertain", "note": "불확실한, 확신이 없는"},
+      {"word": "undecided", "note": "결정 못 한, 아직 미정인"},
+      {"word": "inconclusive", "note": "결정적이지 않은, 결론이 안 난"},
+      {"word": "indeterminate", "note": "미정의, 확정되지 않은"},
+      {"word": "unsettled", "note": "미해결의, 아직 정해지지 않은"},
+      {"word": "indefinite", "note": "불확정한, 명확하지 않은"},
+      {"word": "unclear", "note": "불분명한, 명확하지 않은"},
+      {"word": "ambiguous", "note": "모호한, 여러 해석이 가능한"}
+    ],
+    "tips": [
+      "`in-`+`decisive`(결단력 있는)=우유부단한.",
+      "an indecisive leader=우유부단한 리더."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "indecorous",
+    "pos": "adj.",
+    "head_meanings": ["예절 없는", "거친", "천한", "보기 흉한", "몰사나운"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`decorous`(예절 바른)=예절 없는.",
+      "GRE 어휘! indecorous behavior=무례한 행동."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "indebted",
+    "pos": "adj.",
+    "head_meanings": ["은혜를 입은", "신세진", "빚이 있는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`debt`(빚)→빚을 진=은혜를 입은.",
+      "I'm deeply indebted to you=신세 많이 졌어."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "indefatigable",
+    "pos": "adj.",
+    "head_meanings": ["성질이 지칠 줄 모르는", "끈기 있는", "불굴의", "지치지 않는"],
+    "synonyms_from_image": [
+      {"word": "continuing", "note": "계속되는, 멈추지 않는"},
+      {"word": "industrious", "note": "근면한, 지치지 않고 일하는"},
+      {"word": "persevering", "note": "인내하는, 끈질기게 버티는"},
+      {"word": "abiding", "note": "지속하는, 변함없이 계속되는"},
+      {"word": "inexhaustible", "note": "무진장의, 소진되지 않는"},
+      {"word": "diligent", "note": "부지런한, 꾸준히 노력하는"}
+    ],
+    "tips": [
+      "`in-`+`de-`+`fatig-`(피로, fatigue)+able→지칠 수 없는=불굴의.",
+      "GRE 고빈도! an indefatigable worker=지칠 줄 모르는 일꾼."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "indefinite",
+    "pos": "adj.",
+    "head_meanings": ["명확하지 않은", "불확정한", "막연한", "애매한", "정해지지 않은", "부정의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`definite`(명확한)=명확하지 않은.",
+      "indefinite period=무기한. 기간이 정해지지 않은."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "indelible",
+    "pos": "adj.",
+    "head_meanings": ["지울 수 없는", "씻어버릴 수 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`del-`(지우다, delete)+ible→지울 수 없는.",
+      "indelible impression=지울 수 없는 인상."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "indemnify",
+    "pos": "v.",
+    "head_meanings": ["배상하다", "보상보전하다"],
+    "synonyms_from_image": [
+      {"word": "compensate", "note": "보상하다, 손해를 메우다"},
+      {"word": "pay", "note": "지불하다, 배상하다"},
+      {"word": "recompense", "note": "보답하다, 보상하다"},
+      {"word": "requite", "note": "보답하다, 갚다"},
+      {"word": "rectify", "note": "바로잡다, 시정하다"},
+      {"word": "reimburse", "note": "상환하다, 비용을 돌려주다"},
+      {"word": "remunerate", "note": "보수를 지불하다, 대가를 치르다"},
+      {"word": "repay", "note": "갚다, 되돌려주다"},
+      {"word": "redress", "note": "시정하다, 바로잡다"},
+      {"word": "insure", "note": "보험에 들다, 손실을 보전하다"},
+      {"word": "recoup", "note": "만회하다, 손실을 보충하다"}
+    ],
+    "tips": [
+      "`in-`+`demn-`(손해)+ify→손해를 메우다=배상하다.",
+      "indemnify against loss=손실에 대해 배상하다."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "indicative",
+    "pos": "adj.",
+    "head_meanings": ["암시하는", "지시하는", "표시하는", "직설법의"],
+    "synonyms_from_image": [
+      {"word": "significant", "note": "의미 있는, 무언가를 시사하는"},
+      {"word": "indicatory", "note": "나타내는, 표시하는"},
+      {"word": "evidential", "note": "증거가 되는, 무언가를 보여주는"},
+      {"word": "characteristic", "note": "특징적인, 특성을 나타내는"},
+      {"word": "symptomatic", "note": "징후적인, 증상을 나타내는"},
+      {"word": "expressive", "note": "표현하는, 감정/의미를 드러내는"}
+    ],
+    "tips": [
+      "indicate(가리키다)+ive→~을 나타내는.",
+      "indicative of=~을 나타내는/시사하는."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "indict",
+    "pos": "v.",
+    "head_meanings": ["기소고발하다", "비난하다", "나무라다"],
+    "synonyms_from_image": [
+      {"word": "accuse", "note": "고발하다, 죄를 물다"},
+      {"word": "inculpate", "note": "죄를 씌우다, 유죄로 만들다"},
+      {"word": "cite", "note": "소환하다, 법적으로 불러내다"},
+      {"word": "arraign", "note": "기소하다, 법정에 세우다"},
+      {"word": "censure", "note": "비난하다, 공식적으로 질책하다"},
+      {"word": "denounce", "note": "공개 비난하다, 규탄하다"}
+    ],
+    "tips": [
+      "`in-`+`dict-`(말하다)→공식적으로 말하다=기소하다.",
+      "발음 주의: [ɪnˈdaɪt]! c가 묵음이야."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "indifferent",
+    "pos": "adj.",
+    "head_meanings": ["무관심한", "냉담한", "개의치 않는", "아무렇지 않은", "편견을 갖지 않는"],
+    "synonyms_from_image": [
+      {"word": "apathetic", "note": "무감각한, 관심이 전혀 없는"},
+      {"word": "unconcerned", "note": "무관심한, 신경 쓰지 않는"},
+      {"word": "insensible", "note": "둔감한, 느끼지 못하는"},
+      {"word": "unmoved", "note": "동요하지 않는, 감정 변화 없는"},
+      {"word": "impassive", "note": "무표정한, 감정을 드러내지 않는"},
+      {"word": "cool", "note": "냉담한, 차가운 태도의"},
+      {"word": "aloof", "note": "초연한, 거리를 두는"}
+    ],
+    "tips": [
+      "`in-`+`different`→차이를 두지 않는→무관심한.",
+      "indifferent to praise=칭찬에 무관심한."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "indifference",
+    "pos": "n.",
+    "head_meanings": ["무관심", "냉담"],
+    "synonyms_from_image": [
+      {"word": "apathy", "note": "무관심, 감정/관심이 없음"}
+    ],
+    "tips": [
+      "indifferent의 명사형.",
+      "show indifference=무관심을 보이다."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "indigent",
+    "pos": "adj./n.",
+    "head_meanings": ["궁핍한", "생필품이 결핍된", "결함이 있는", "불완전한", "궁핍자", "곤궁자"],
+    "synonyms_from_image": [
+      {"word": "impecunious", "note": "돈이 없는, 무일푼의"},
+      {"word": "poor", "note": "가난한, 경제적으로 어려운"},
+      {"word": "destitute", "note": "극빈한, 가진 것이 아무것도 없는"},
+      {"word": "impoverished", "note": "빈곤해진, 가난에 빠진"},
+      {"word": "insolvent", "note": "지불 불능의, 파산한"},
+      {"word": "needy", "note": "궁핍한, 도움이 필요한"},
+      {"word": "broke", "note": "무일푼인, 돈이 다 떨어진"}
+    ],
+    "tips": [
+      "`in-`(부정)+`dig-`(가치 있는, dignity)→가치를 가지지 못한→궁핍한.",
+      "GRE 고빈도! indigenous(토착의)와 헷갈리지 마."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "indigence",
+    "pos": "n.",
+    "head_meanings": ["가난", "빈궁", "빈곤", "궁핍"],
+    "synonyms_from_image": [
+      {"word": "destitution", "note": "극빈, 아무것도 없는 상태"},
+      {"word": "privation", "note": "결핍, 생활 필수품이 없음"},
+      {"word": "need", "note": "궁핍, 필요한 것이 부족한 상태"},
+      {"word": "lack", "note": "부족, 없음"},
+      {"word": "want", "note": "결핍, 필요한 것이 없음"},
+      {"word": "beggary", "note": "거지 신세, 극도의 빈곤"},
+      {"word": "mendicancy", "note": "구걸, 남에게 의지하는 빈곤"}
+    ],
+    "tips": [
+      "indigent의 명사형=빈곤/궁핍.",
+      "live in indigence=궁핍하게 살다."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "indigenous",
+    "pos": "adj.",
+    "head_meanings": ["토착의", "그 고유의", "본토산의", "타고난", "생득의"],
+    "synonyms_from_image": [
+      {"word": "aboriginal", "note": "원주민의, 그 지역 본래의"},
+      {"word": "homebred", "note": "토착의, 그 땅에서 태어난"},
+      {"word": "domestic", "note": "국내의, 자국 고유의"}
+    ],
+    "tips": [
+      "`indi-`(안의)+`gen-`(태어나다)→안에서 태어난=토착의.",
+      "indigenous people=원주민. indigent(궁핍한)와 혼동 주의!"
+    ]
+  },
+  {
+    "id": "054",
+    "word": "indignation",
+    "pos": "n.",
+    "head_meanings": ["분노", "분개", "의분"],
+    "synonyms_from_image": [
+      {"word": "anger", "note": "분노, 화남"},
+      {"word": "annoyance", "note": "짜증, 불쾌함"},
+      {"word": "rage", "note": "격노, 극도의 분노"},
+      {"word": "resentment", "note": "분개, 부당함에 대한 분노"},
+      {"word": "displeasure", "note": "불쾌, 불만"},
+      {"word": "vexation", "note": "짜증, 속상함"},
+      {"word": "dismay", "note": "경악, 당혹과 분노"},
+      {"word": "irritation", "note": "짜증, 자극받아 화남"}
+    ],
+    "tips": [
+      "`in-`(부정)+`dign-`(존엄)→존엄이 훼손된→의분/분노.",
+      "righteous indignation=의분. 부당함에 대한 정당한 분노."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "indignity",
+    "pos": "n.",
+    "head_meanings": ["경멸", "모욕", "무례", "냉대"],
+    "synonyms_from_image": [
+      {"word": "abuse", "note": "학대, 함부로 대함"},
+      {"word": "mistreatment", "note": "부당한 대우, 학대"},
+      {"word": "outrage", "note": "만행, 심한 모욕"},
+      {"word": "affront", "note": "모욕, 공개적 무례"},
+      {"word": "injustice", "note": "부당함, 불공정한 대우"}
+    ],
+    "tips": [
+      "`in-`+`dignity`→존엄을 빼앗는 것=모욕.",
+      "suffer indignities=모욕을 당하다."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "indiscretion",
+    "pos": "n.",
+    "head_meanings": ["무분별", "지각 없음", "경솔함", "경솔한 행동", "비밀 누설"],
+    "synonyms_from_image": [
+      {"word": "imprudence", "note": "경솔, 신중하지 못함"},
+      {"word": "injudiciousness", "note": "분별 없음, 판단력 부족"},
+      {"word": "carelessness", "note": "부주의, 조심하지 않음"},
+      {"word": "rashness", "note": "무모함, 생각 없이 행동함"},
+      {"word": "recklessness", "note": "무모함, 결과를 생각 안 함"},
+      {"word": "foolhardiness", "note": "무모한 용기, 어리석은 대담함"},
+      {"word": "folly", "note": "어리석음, 분별 없는 행동"},
+      {"word": "tactlessness", "note": "재치 없음, 눈치 없는 행동"},
+      {"word": "blunder", "note": "실수, 어리석은 큰 실수"},
+      {"word": "lapse", "note": "실수, 일시적 부주의"},
+      {"word": "gaffe", "note": "실언, 사회적 실수"},
+      {"word": "impropriety", "note": "부적절함, 예절에 어긋남"},
+      {"word": "misdemeanor", "note": "비행, 가벼운 위반"},
+      {"word": "transgression", "note": "위반, 도덕적 일탈"},
+      {"word": "peccadillo", "note": "사소한 잘못, 가벼운 과실"}
+    ],
+    "tips": [
+      "`in-`+`discretion`(분별)=분별 없음=경솔한 행동.",
+      "youthful indiscretions=젊은 시절의 경솔한 행동들."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "discretion",
+    "pos": "n.",
+    "head_meanings": ["사려", "분별", "신중성", "자유재량"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`dis-`+`cret-`(분리하다)→옳고 그름을 분리하는 능력=분별력.",
+      "at one's discretion=재량에 따라."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "indiscriminate",
+    "pos": "adj.",
+    "head_meanings": ["무차별의", "무분별한", "마구잡이의", "무계획적인", "혼잡한", "난잡한"],
+    "synonyms_from_image": [
+      {"word": "miscellaneous", "note": "잡다한, 가리지 않고 섞인"},
+      {"word": "confused", "note": "혼란된, 구별 없이 뒤죽박죽인"},
+      {"word": "unchoosy", "note": "가리지 않는, 선택하지 않는"},
+      {"word": "unselective", "note": "선별하지 않는, 무차별인"},
+      {"word": "undistinguishing", "note": "구별 못 하는, 분별 없는"},
+      {"word": "haphazard", "note": "되는 대로의, 계획 없는"},
+      {"word": "random", "note": "무작위의, 아무거나"},
+      {"word": "arbitrary", "note": "자의적인, 기준 없는"},
+      {"word": "unsystematic", "note": "체계 없는, 무계획적인"},
+      {"word": "undirected", "note": "방향 없는, 목적 없이"},
+      {"word": "aimless", "note": "목적 없는, 무계획의"},
+      {"word": "chaotic", "note": "혼란스러운, 뒤죽박죽인"},
+      {"word": "general", "note": "일반적인, 특정하지 않은"},
+      {"word": "sweeping", "note": "전면적인, 무차별적으로 쓸어버리는"},
+      {"word": "blanket", "note": "총괄적인, 구별 없이 적용되는"},
+      {"word": "thoughtless", "note": "생각 없는, 분별력 없는"},
+      {"word": "unthinking", "note": "무심한, 생각 없이 하는"},
+      {"word": "unconsidered", "note": "고려하지 않은, 무분별한"},
+      {"word": "careless", "note": "부주의한, 가리지 않는"}
+    ],
+    "tips": [
+      "`in-`+`discriminate`(구별하다)=구별 없이→무차별의.",
+      "indiscriminate killing=무차별 살상."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "indispensable to",
+    "pos": "adj.",
+    "head_meanings": ["없어서는 안될", "필수불가결의", "절대 필요한", "규칙 등의 피할 수 없는", "게을리 할 수 없는"],
+    "synonyms_from_image": [
+      {"word": "crucial", "note": "결정적인, 절대 필요한"},
+      {"word": "requisite", "note": "필수의, 반드시 필요한"},
+      {"word": "required", "note": "요구되는, 필수인"},
+      {"word": "essential", "note": "필수적인, 없으면 안 되는"},
+      {"word": "necessary", "note": "필요한, 꼭 있어야 하는"},
+      {"word": "imperative", "note": "필수적인, 명령적으로 필요한"},
+      {"word": "obligatory", "note": "의무적인, 꼭 해야 하는"},
+      {"word": "unavoidable", "note": "피할 수 없는, 불가피한"}
+    ],
+    "tips": [
+      "`in-`+`dispensable`(없어도 되는)=없어서는 안 되는.",
+      "indispensable to success=성공에 필수불가결한."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "indisputable",
+    "pos": "adj.",
+    "head_meanings": ["의문의 여지 없는", "명백한"],
+    "synonyms_from_image": [
+      {"word": "certain", "note": "확실한, 의심할 여지 없는"},
+      {"word": "evidential", "note": "증거가 되는, 분명한"},
+      {"word": "manifest", "note": "명백한, 누가 봐도 분명한"},
+      {"word": "unqualified", "note": "무조건적인, 완전한"},
+      {"word": "assured", "note": "확실한, 보장된"},
+      {"word": "incontrovertible", "note": "논쟁 불가한, 반박할 수 없는"},
+      {"word": "unquestionable", "note": "의문의 여지 없는, 확실한"}
+    ],
+    "tips": [
+      "`in-`+`disputable`(논쟁 가능한)=논쟁할 수 없는=명백한.",
+      "indisputable fact=논란의 여지 없는 사실."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "indistinguishable",
+    "pos": "adj.",
+    "head_meanings": ["구별할 수 없는", "차별할 수 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`distinguishable`=구별할 수 없는.",
+      "indistinguishable from the original=원본과 구별 불가."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "indolence",
+    "pos": "n.",
+    "head_meanings": ["나태", "게으름"],
+    "synonyms_from_image": [
+      {"word": "inaction", "note": "무위, 아무것도 안 함"},
+      {"word": "inertia", "note": "관성, 움직이지 않으려는 타성"},
+      {"word": "slowness", "note": "느림, 행동이 굼뜸"},
+      {"word": "vegetation", "note": "식물처럼 삶, 아무것도 안 하고 지냄"},
+      {"word": "inactivity", "note": "비활동, 활동하지 않음"}
+    ],
+    "tips": [
+      "`in-`(부정)+`dol-`(고통)→고통을 느끼지 않는→게으른.",
+      "고통을 피하려는 나태. sink into indolence=나태에 빠지다."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "indomitable",
+    "pos": "adj.",
+    "head_meanings": ["굽히지 않는", "불굴의", "꿋꿋한"],
+    "synonyms_from_image": [
+      {"word": "invincible", "note": "무적의, 이길 수 없는"},
+      {"word": "persevering", "note": "인내하는, 끈질기게 버티는"},
+      {"word": "ungovernable", "note": "통제 불능의, 다스릴 수 없는"},
+      {"word": "refractory", "note": "반항적인, 다루기 힘든"},
+      {"word": "recalcitrant", "note": "반항하는, 고분고분하지 않은"}
+    ],
+    "tips": [
+      "`in-`+`domitable`(길들일 수 있는)=길들일 수 없는=불굴의.",
+      "GRE 고빈도! indomitable spirit=불굴의 정신."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "indubitable",
+    "pos": "adj.",
+    "head_meanings": ["의심할 여지 없는", "분명한", "확실한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`dubitable`(의심할 수 있는)=의심할 수 없는=확실한.",
+      "indubitable evidence=확실한 증거."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "induce",
+    "pos": "v.",
+    "head_meanings": ["남을 권유해 시키다", "권하다", "유도하여 하게 하다"],
+    "synonyms_from_image": [
+      {"word": "coax", "note": "구슬리다, 부드럽게 설득하다"},
+      {"word": "influence", "note": "영향을 미치다, 설득하다"},
+      {"word": "prompt", "note": "촉구하다, 행동하게 하다"},
+      {"word": "dispose", "note": "마음이 내키게 하다, 경향을 주다"},
+      {"word": "incline", "note": "마음을 기울이다, 쪽으로 설득하다"},
+      {"word": "impel", "note": "떠밀다, 행동하게 몰아가다"}
+    ],
+    "tips": [
+      "`in-`+`duc-`(이끌다)→안으로 이끌다=설득하다/유도하다.",
+      "induce someone to confess=자백을 유도하다."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "inductive",
+    "pos": "adj.",
+    "head_meanings": ["귀납적인", "유도의"],
+    "synonyms_from_image": [
+      {"word": "dialectical", "note": "변증법적인, 논리적 추론의"},
+      {"word": "discursive", "note": "논증적인, 추론을 통한"}
+    ],
+    "tips": [
+      "induce+ive. inductive reasoning=귀납적 추론(개별→일반).",
+      "deductive(연역적)의 반대!"
+    ]
+  },
+  {
+    "id": "067",
+    "word": "induction",
+    "pos": "n.",
+    "head_meanings": ["귀납"],
+    "synonyms_from_image": [],
+    "tips": [
+      "induct+ion. 귀납법.",
+      "deduction(연역법)과 한 쌍!"
+    ]
+  },
+  {
+    "id": "068",
+    "word": "deduction",
+    "pos": "n.",
+    "head_meanings": ["역추리", "연역법"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`de-`(아래로)+`duc-`(이끌다)→위에서 아래로→일반에서 개별로=연역법.",
+      "Sherlock Holmes의 deduction=추리."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "indulge",
+    "pos": "v.",
+    "head_meanings": ["빠지다", "탐닉하다", "마음껏 실컷 누리다", "욕망 등을 만족시키다", "충족시키다", "제멋대로 하게 하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "indulge in=~에 빠지다/탐닉하다.",
+      "self-indulgence=방종. 자기 욕구에 빠짐."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "indulgent",
+    "pos": "adj.",
+    "head_meanings": ["응석받는", "엄하지 않은", "관대한", "하고 싶은 대로 하게 놔두는"],
+    "synonyms_from_image": [
+      {"word": "considerate", "note": "배려하는, 너그럽게 대하는"},
+      {"word": "intemperate", "note": "절제 없는, 방종하는"},
+      {"word": "patient", "note": "인내심 있는, 참을성 있게 봐주는"},
+      {"word": "permissive", "note": "허용적인, 다 해주는"}
+    ],
+    "tips": [
+      "indulge+ent→응석을 받아주는/관대한.",
+      "indulgent parents=아이를 마냥 봐주는 부모."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "industrious",
+    "pos": "adj.",
+    "head_meanings": ["근면한", "부지런한", "열심인", "노력하는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "industry(산업/근면)+ous.",
+      "GRE에서 '근면한' 뜻으로 나와. industrial(산업의)과 구분!"
+    ]
+  },
+  {
+    "id": "072",
+    "word": "ineffectual",
+    "pos": "adj.",
+    "head_meanings": ["효과적이 아닌", "무익한", "헛된", "무능한"],
+    "synonyms_from_image": [
+      {"word": "inept", "note": "서투른, 능력이 부족한"},
+      {"word": "incompetent", "note": "무능한, 자격 미달인"},
+      {"word": "ineffective", "note": "효과 없는, 성과를 못 내는"},
+      {"word": "unsatisfactory", "note": "만족스럽지 않은, 기대에 못 미치는"},
+      {"word": "unprofitable", "note": "이익 없는, 성과가 없는"},
+      {"word": "useless", "note": "쓸모없는, 도움이 안 되는"},
+      {"word": "vain", "note": "헛된, 결과가 없는"}
+    ],
+    "tips": [
+      "`in-`+`effectual`(효과적인)=효과 없는.",
+      "ineffective와 거의 같지만 ineffectual은 '사람이 무능한' 뉘앙스가 더 강해."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "ineluctable",
+    "pos": "adj.",
+    "head_meanings": ["불가항력의", "피할 수 없는"],
+    "synonyms_from_image": [
+      {"word": "inevitable", "note": "필연적인, 피할 수 없는"},
+      {"word": "inescapable", "note": "벗어날 수 없는, 불가피한"},
+      {"word": "fated", "note": "운명 지어진, 정해진"},
+      {"word": "certain", "note": "확실한, 반드시 일어나는"},
+      {"word": "ineludible", "note": "피할 수 없는, 불가피한"}
+    ],
+    "tips": [
+      "`in-`+`e-`+`luct-`(씨름하다)→씨름해서 빠져나갈 수 없는=피할 수 없는.",
+      "GRE 고급 어휘! ineluctable fate=피할 수 없는 운명."
+    ]
+  },
+  {
+    "id": "074",
+    "word": "inept",
+    "pos": "adj.",
+    "head_meanings": ["서투른", "터무니 없는", "어리석은", "바보 같은", "무능력한", "부적당한", "부적절한"],
+    "synonyms_from_image": [
+      {"word": "incompetent", "note": "무능한, 자격 미달인"},
+      {"word": "unskillful", "note": "미숙한, 솜씨가 없는"},
+      {"word": "inexpert", "note": "미숙한, 경험이 없는"},
+      {"word": "amateurish", "note": "아마추어 같은, 프로답지 않은"},
+      {"word": "clumsy", "note": "어설픈, 손발이 안 맞는"},
+      {"word": "awkward", "note": "서투른, 어색한"},
+      {"word": "maladroit", "note": "서투른, 솜씨가 없는"},
+      {"word": "unhandy", "note": "솜씨 없는, 손재주가 없는"},
+      {"word": "bungling", "note": "서투른, 일을 망치는"},
+      {"word": "blundering", "note": "실수투성이의, 헤매는"},
+      {"word": "unproductive", "note": "비생산적인, 성과가 없는"},
+      {"word": "unsuccessful", "note": "성공하지 못한, 실패한"},
+      {"word": "ineffectual", "note": "효과 없는, 무능한"},
+      {"word": "foolish", "note": "어리석은, 판단력이 없는"},
+      {"word": "unintelligent", "note": "영리하지 못한, 둔한"}
+    ],
+    "tips": [
+      "`in-`+`ept`(apt의 반대)→적절하지 않은→서투른/무능한.",
+      "socially inept=사교적으로 서투른."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "inequity",
+    "pos": "n.",
+    "head_meanings": ["불공평", "불공정"],
+    "synonyms_from_image": [
+      {"word": "inequality", "note": "불평등, 균등하지 않음"},
+      {"word": "imparity", "note": "불균등, 동등하지 않음"},
+      {"word": "prejudice", "note": "편견, 공정하지 못한 선입견"},
+      {"word": "irregularity", "note": "불규칙, 공정하지 않은 처리"},
+      {"word": "difference", "note": "차이, 균등하지 않은 격차"},
+      {"word": "variableness", "note": "가변성, 일정하지 않음"}
+    ],
+    "tips": [
+      "`in-`+`equity`(공정)=불공정.",
+      "inequality(불평등)와 구분! inequity는 '도덕적 불공정'에 가까워."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "inerrancy",
+    "pos": "n.",
+    "head_meanings": ["잘못이 없음", "절대로 옳음"],
+    "synonyms_from_image": [
+      {"word": "inerrability", "note": "무오류성, 틀림이 없는 성질"},
+      {"word": "accuracy", "note": "정확성, 오류 없음"},
+      {"word": "precision", "note": "정밀함, 빈틈없이 정확함"},
+      {"word": "correctness", "note": "정확함, 맞음"}
+    ],
+    "tips": [
+      "`in-`+`errancy`(오류)=무오류.",
+      "성경의 inerrancy=성경 무오설."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "inert",
+    "pos": "adj.",
+    "head_meanings": ["움직이지 않는", "활력 없는", "자동력이 없는", "비활성의", "활력이 없는", "둔한", "완만한", "활발치 못한", "느린"],
+    "synonyms_from_image": [
+      {"word": "unmoving", "note": "움직이지 않는, 정지한"},
+      {"word": "motionless", "note": "동작 없는, 꿈쩍 않는"},
+      {"word": "immobile", "note": "움직일 수 없는, 고정된"},
+      {"word": "inanimate", "note": "생명 없는, 활기 없는"},
+      {"word": "stationary", "note": "정지된, 제자리에 있는"},
+      {"word": "static", "note": "정적인, 변화 없는"},
+      {"word": "dormant", "note": "휴면의, 활동을 멈춘"},
+      {"word": "sleeping", "note": "잠든, 활동하지 않는"},
+      {"word": "unconscious", "note": "의식 없는, 반응이 없는"},
+      {"word": "lifeless", "note": "생기 없는, 활력이 없는"},
+      {"word": "idle", "note": "놀고 있는, 아무것도 안 하는"},
+      {"word": "inactive", "note": "비활동적인, 활동하지 않는"},
+      {"word": "sluggish", "note": "느릿한, 반응이 둔한"},
+      {"word": "lethargic", "note": "무기력한, 기운 없는"},
+      {"word": "stagnant", "note": "정체된, 흐르지 않는"},
+      {"word": "listless", "note": "무기력한, 의욕이 없는"},
+      {"word": "torpid", "note": "둔한, 마비된 듯 움직이지 않는"}
+    ],
+    "tips": [
+      "`in-`+`ert-`(기술/행동, art)→행동하지 않는=활력 없는.",
+      "GRE 고빈도! 화학에서 inert gas=비활성 기체."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "inertia",
+    "pos": "n.",
+    "head_meanings": ["활발하지 못함", "지둔", "무력", "이완", "관성", "타성"],
+    "synonyms_from_image": [
+      {"word": "immobility", "note": "부동, 움직이지 않음"},
+      {"word": "inactivity", "note": "비활동, 활동하지 않음"},
+      {"word": "inaction", "note": "무위, 아무것도 안 함"},
+      {"word": "inertness", "note": "불활성, 활력 없음"},
+      {"word": "passivity", "note": "수동성, 능동적이지 않음"},
+      {"word": "apathy", "note": "무관심, 의욕이 없음"},
+      {"word": "stagnation", "note": "정체, 발전이 없음"},
+      {"word": "enervation", "note": "기력 상실, 힘이 빠짐"},
+      {"word": "lethargy", "note": "무기력, 기운이 없음"},
+      {"word": "listlessness", "note": "무기력함, 의욕 없음"},
+      {"word": "torpor", "note": "둔함, 마비된 듯한 상태"},
+      {"word": "idleness", "note": "게으름, 놀고 있음"},
+      {"word": "sloth", "note": "나태, 게으름"},
+      {"word": "indolence", "note": "나태, 움직이기 싫어함"},
+      {"word": "motionlessness", "note": "정지 상태, 움직임 없음"},
+      {"word": "lifelessness", "note": "생기 없음, 활력 없음"},
+      {"word": "stasis", "note": "정체, 변화 없는 상태"}
+    ],
+    "tips": [
+      "inert+ia. 물리학의 관성(慣性).",
+      "비유적으로 변화에 저항하는 타성. bureaucratic inertia=관료적 타성."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "inestimable",
+    "pos": "adj.",
+    "head_meanings": ["헤아릴 수 없는", "헤아릴 수 없을 만큼 큰", "평가할 수 없을 만큼 귀중한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`estimable`(평가할 수 있는)=평가할 수 없는→너무 귀중한.",
+      "GRE 함정! '가치 없는'이 아니라 '값을 매길 수 없을 만큼 소중한'이야."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "inevitable",
+    "pos": "adj.",
+    "head_meanings": ["피할 수 없는", "필연적인"],
+    "synonyms_from_image": [
+      {"word": "ineluctable", "note": "피할 수 없는, 불가항력의"},
+      {"word": "inescapable", "note": "벗어날 수 없는, 불가피한"},
+      {"word": "unpreventable", "note": "방지 불가능한, 막을 수 없는"},
+      {"word": "predetermined", "note": "미리 정해진, 이미 결정된"}
+    ],
+    "tips": [
+      "`in-`+`evitable`(피할 수 있는)=피할 수 없는.",
+      "inevitable consequence=피할 수 없는 결과."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "inexhaustible",
+    "pos": "adj.",
+    "head_meanings": ["다 쓸 수 없는", "무진장의", "다 소모 고갈되지 않는", "지칠 줄 모르는", "끈기 있는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`exhaustible`→소진할 수 없는=무진장의.",
+      "inexhaustible energy=무한한 에너지."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "inexorable",
+    "pos": "adj.",
+    "head_meanings": ["냉혹무정한", "용서 없는", "가차없는", "굽힐 수 없는", "움직일 수 없는"],
+    "synonyms_from_image": [
+      {"word": "relentless", "note": "가차 없는, 멈추지 않는"},
+      {"word": "unstoppable", "note": "막을 수 없는, 멈출 수 없는"},
+      {"word": "inevitable", "note": "필연적인, 피할 수 없는"},
+      {"word": "irrevocable", "note": "돌이킬 수 없는, 취소 불가한"},
+      {"word": "persistent", "note": "끈질긴, 포기하지 않는"},
+      {"word": "continuous", "note": "계속되는, 끊이지 않는"},
+      {"word": "interminable", "note": "끝없는, 끝나지 않는"},
+      {"word": "incessant", "note": "끊임없는, 쉬지 않는"},
+      {"word": "unceasing", "note": "그치지 않는, 멈추지 않는"},
+      {"word": "unremitting", "note": "끊임없는, 누그러지지 않는"},
+      {"word": "unrelenting", "note": "가차 없는, 봐주지 않는"},
+      {"word": "intransient", "note": "일시적이지 않은, 지속되는"},
+      {"word": "unbending", "note": "굽히지 않는, 완고한"},
+      {"word": "unyielding", "note": "양보하지 않는, 굽히지 않는"},
+      {"word": "inflexible", "note": "유연하지 않은, 꺾이지 않는"},
+      {"word": "adamant", "note": "단호한, 확고부동한"},
+      {"word": "obdurate", "note": "완고한, 마음을 바꾸지 않는"},
+      {"word": "implacable", "note": "달랠 수 없는, 화해 불가한"},
+      {"word": "unappeasable", "note": "달랠 수 없는, 만족시킬 수 없는"},
+      {"word": "unforgiving", "note": "용서하지 않는, 가차 없는"},
+      {"word": "unsparing", "note": "가차 없는, 인정사정 없는"},
+      {"word": "uncompromising", "note": "타협하지 않는, 절대 양보 안 하는"},
+      {"word": "ruthless", "note": "무자비한, 가차 없는"},
+      {"word": "pitiless", "note": "무정한, 동정심 없는"},
+      {"word": "merciless", "note": "자비 없는, 무자비한"},
+      {"word": "intractable", "note": "다루기 힘든, 고집 센"},
+      {"word": "strict", "note": "엄격한, 엄한"}
+    ],
+    "tips": [
+      "`in-`+`exorable`(설득 가능한)=설득할 수 없는=가차 없는.",
+      "GRE 고빈도! the inexorable march of time=거침없는 시간의 흐름."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "inexplicable",
+    "pos": "adj.",
+    "head_meanings": ["설명할 수 없는", "해석할 수 없는", "불가해한"],
+    "synonyms_from_image": [
+      {"word": "incomprehensible", "note": "이해할 수 없는, 파악 불가한"},
+      {"word": "unaccountable", "note": "설명할 수 없는, 이유를 모르는"},
+      {"word": "unexplainable", "note": "설명 불가능한, 해명할 수 없는"},
+      {"word": "unfathomable", "note": "헤아릴 수 없는, 깊이를 알 수 없는"},
+      {"word": "impenetrable", "note": "꿰뚫을 수 없는, 이해 불가한"},
+      {"word": "insoluble", "note": "풀 수 없는, 해결 불가능한"},
+      {"word": "baffling", "note": "당혹스러운, 이해가 안 되는"},
+      {"word": "puzzling", "note": "의아한, 이해하기 어려운"},
+      {"word": "perplexing", "note": "난처한, 머리가 복잡해지는"},
+      {"word": "mystifying", "note": "불가사의한, 신비롭게 이해 안 되는"},
+      {"word": "bewildering", "note": "어리둥절한, 혼란스러운"},
+      {"word": "mysterious", "note": "신비로운, 수수께끼 같은"}
+    ],
+    "tips": [
+      "`in-`+`explicable`(설명 가능한)=설명 불가능한.",
+      "inexplicable phenomenon=설명할 수 없는 현상."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "infallible",
+    "pos": "adj.",
+    "head_meanings": ["전혀 잘못이 없는", "절대로 과실이 없는", "확실한"],
+    "synonyms_from_image": [
+      {"word": "exact", "note": "정확한, 틀림이 없는"},
+      {"word": "inerrable", "note": "오류 불가능한, 절대 틀리지 않는"},
+      {"word": "perfect", "note": "완벽한, 흠이 없는"},
+      {"word": "rigorous", "note": "엄밀한, 빈틈없는"},
+      {"word": "reliable", "note": "신뢰할 수 있는, 믿을 만한"}
+    ],
+    "tips": [
+      "`in-`+`fallible`(오류 가능한)=오류 없는=틀림없는.",
+      "No one is infallible=아무도 완벽하지 않아."
+    ]
+  },
+  {
+    "id": "085",
+    "word": "infamous",
+    "pos": "adj.",
+    "head_meanings": ["파렴치한", "악명높은"],
+    "synonyms_from_image": [
+      {"word": "notorious", "note": "악명 높은, 나쁜 쪽으로 유명한"},
+      {"word": "disreputable", "note": "평판 나쁜, 명예롭지 못한"},
+      {"word": "vile", "note": "비열한, 극도로 나쁜"}
+    ],
+    "tips": [
+      "`in-`+`famous`→유명하지만 나쁜 쪽으로=악명 높은.",
+      "GRE 함정! famous(유명한)의 반대가 아니라 '나쁜 방향의 유명'이야."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "infantile",
+    "pos": "adj.",
+    "head_meanings": ["어린애 같은", "유치한"],
+    "synonyms_from_image": [
+      {"word": "babyish", "note": "아기 같은, 유치한"},
+      {"word": "juvenile", "note": "미성년의, 성숙하지 않은"},
+      {"word": "sophomoric", "note": "얕은 지식으로 잘난 체하는, 유치한"}
+    ],
+    "tips": [
+      "infant(유아)+ile→유아 같은=유치한.",
+      "infantile behavior=유치한 행동."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "infatuated",
+    "pos": "adj.",
+    "head_meanings": ["이성을 잃은", "열광한", "미친", "반한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`in-`+`fatu-`(바보, fatuous)→바보가 된=이성을 잃고 반한.",
+      "infatuated with=~에 푹 빠진. 맹목적 사랑."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "infelicity",
+    "pos": "n.",
+    "head_meanings": ["불행", "불운", "불운한 사태", "역경", "재난", "표현 행동 등의 부적절", "부적절한 것"],
+    "synonyms_from_image": [
+      {"word": "mistake", "note": "실수, 잘못된 선택"},
+      {"word": "error", "note": "오류, 틀린 것"},
+      {"word": "blunder", "note": "큰 실수, 어리석은 잘못"},
+      {"word": "slip", "note": "실수, 사소한 잘못"},
+      {"word": "lapse", "note": "실수, 일시적 부주의"},
+      {"word": "solecism", "note": "문법 오류, 표현의 부적절"}
+    ],
+    "tips": [
+      "`in-`+`felicity`(행복/적절함)=불행/부적절.",
+      "felicitous(적절한)의 반의어!"
+    ]
+  },
+  {
+    "id": "089",
+    "word": "infer",
+    "pos": "v.",
+    "head_meanings": ["추론하다", "추정하다", "결론짓다"],
+    "synonyms_from_image": [
+      {"word": "deduce", "note": "연역하다, 논리적으로 끌어내다"},
+      {"word": "conclude", "note": "결론짓다, 판단을 내리다"},
+      {"word": "gather", "note": "짐작하다, 정보로부터 추론하다"},
+      {"word": "conjecture", "note": "추측하다, 불완전한 정보로 판단하다"},
+      {"word": "surmise", "note": "짐작하다, 근거 없이 추측하다"},
+      {"word": "reason", "note": "추론하다, 논리적으로 생각하다"},
+      {"word": "suppose", "note": "가정하다, ~라고 생각하다"},
+      {"word": "assume", "note": "추정하다, ~로 간주하다"},
+      {"word": "reckon", "note": "생각하다, ~라고 판단하다"},
+      {"word": "judge", "note": "판단하다, 평가하여 결론 내다"}
+    ],
+    "tips": [
+      "`in-`+`fer-`(나르다)→안으로 가져오다=결론을 이끌어내다.",
+      "GRE 고빈도! imply(암시하다)와 구분. infer는 듣는 쪽이 추론."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "infertile",
+    "pos": "adj.",
+    "head_meanings": ["메마른", "불모의", "불임의", "생식번식력이 없는"],
+    "synonyms_from_image": [
+      {"word": "barren", "note": "불모의, 아무것도 자라지 않는"},
+      {"word": "unfruitful", "note": "결실 없는, 열매를 맺지 못하는"},
+      {"word": "unproductive", "note": "비생산적인, 결실이 없는"},
+      {"word": "sterile", "note": "불임의, 생식 불가능한"},
+      {"word": "impoverished", "note": "메마른, 양분이 빠진"},
+      {"word": "arid", "note": "건조한, 메마른"},
+      {"word": "infecund", "note": "불임의, 번식력이 없는"}
+    ],
+    "tips": [
+      "`in-`+`fertile`(비옥한)=불모의/불임의.",
+      "infertile soil=메마른 토양."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "infiltrate",
+    "pos": "v.",
+    "head_meanings": ["침투하다", "스며들다", "잠입하다"],
+    "synonyms_from_image": [
+      {"word": "insinuate", "note": "슬쩍 끼워넣다, 교묘히 침투하다"},
+      {"word": "foist", "note": "슬쩍 떠넘기다, 침투시키다"},
+      {"word": "saturate", "note": "포화시키다, 완전히 스며들다"}
+    ],
+    "tips": [
+      "`in-`+`filtr-`(거르다, filter)→필터를 통해 스며들다=침투하다.",
+      "infiltrate an organization=조직에 잠입하다."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "infinitesimal",
+    "pos": "adj.",
+    "head_meanings": ["미소한", "무한소의", "미분의"],
+    "synonyms_from_image": [
+      {"word": "microscopic", "note": "현미경적인, 극히 작은"},
+      {"word": "thin", "note": "얇은, 미세한"},
+      {"word": "atomic", "note": "원자의, 극소의"},
+      {"word": "tenuous", "note": "희박한, 가늘고 미세한"},
+      {"word": "invisible", "note": "보이지 않는, 너무 작아서 안 보이는"}
+    ],
+    "tips": [
+      "infinite(무한)+esimal→무한히 작은.",
+      "수학의 미분 개념! infinitesimal difference=극미한 차이."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "infirmity",
+    "pos": "n.",
+    "head_meanings": ["허약", "쇠약", "결점", "약점", "병"],
+    "synonyms_from_image": [
+      {"word": "disability", "note": "장애, 신체적 기능 저하"},
+      {"word": "ailment", "note": "질환, 가벼운 병"},
+      {"word": "debility", "note": "쇠약, 몸이 약해진 상태"},
+      {"word": "fault", "note": "결함, 약한 부분"},
+      {"word": "imperfection", "note": "불완전함, 결점"}
+    ],
+    "tips": [
+      "`in-`+`firm`(단단한)→단단하지 않은=허약함.",
+      "the infirmities of old age=노쇠의 허약함."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "inflammatory",
+    "pos": "adj.",
+    "head_meanings": ["격앙시키는", "선동적인", "염증을 일으키는", "염증성의"],
+    "synonyms_from_image": [
+      {"word": "provocative", "note": "도발적인, 반응을 불러일으키는"},
+      {"word": "incendiary", "note": "선동적인, 불을 지르듯 격앙시키는"},
+      {"word": "stirring", "note": "흥분시키는, 감정을 자극하는"},
+      {"word": "rousing", "note": "분발시키는, 열정을 불러일으키는"},
+      {"word": "seditious", "note": "선동적인, 반란을 부추기는"},
+      {"word": "mutinous", "note": "반란의, 불복종을 선동하는"},
+      {"word": "fiery", "note": "불같은, 격렬한"},
+      {"word": "passionate", "note": "열정적인, 감정이 격한"},
+      {"word": "contentious", "note": "논쟁적인, 싸움을 일으키는"}
+    ],
+    "tips": [
+      "`in-`+`flamm-`(불, flame)+atory→불을 지르는→선동적인.",
+      "inflammatory rhetoric=선동적 발언."
+    ]
+  }
+]
