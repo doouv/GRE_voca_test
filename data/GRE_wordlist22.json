@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "001",
+    "word": "gouge",
+    "pos": "v.",
+    "head_meanings": ["(특히 눈알을) 도려내다", "바가지를 씌우다, 속여 빼앗다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "gouge는 두 뜻이야: 1) 도구로 파내다/도려내다 2) 바가지를 씌우다(overcharge).",
+      "GRE에선 '속여서 바가지 씌우다' 뜻이 중요해. gouge customers=손님에게 바가지."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "gourmand",
+    "pos": "n.",
+    "head_meanings": ["미식가", "식도락가", "대식가"],
+    "synonyms_from_image": [],
+    "tips": [
+      "gourmand vs gourmet 구별 중요! gourmand는 '많이 먹는' 대식가 뉘앙스, gourmet는 '잘 먹는' 미식가.",
+      "`gour-`(맛)에서 온 건데, gourmand는 양(quantity)에 초점이야."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "gourmet",
+    "pos": "n.",
+    "head_meanings": ["식도락가", "미식가"],
+    "synonyms_from_image": [],
+    "tips": [
+      "gourmet는 질(quality)에 초점인 미식가야. gourmand보다 세련된 느낌.",
+      "gourmet restaurant, gourmet food처럼 형용사로도 자주 쓰여."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "grandiloquent",
+    "pos": "adj.",
+    "head_meanings": ["과장된", "호언장담하는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`grand-`(큰)+`iloquent`(말하는) = 거창하게 말하는 → 과장된.",
+      "magniloquent, bombastic이랑 비슷한 뜻이야. GRE 단골 단어!"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "grandiose",
+    "pos": "adj.",
+    "head_meanings": ["장대한", "웅장한", "과장된", "허세의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`grand-`(큰)+`-iose` = 크고 웅장한. 근데 부정적으로 '허세 부리는' 뜻도 있어.",
+      "GRE에선 보통 부정적 뉘앙스로 나와. grandiose plans=허풍 떠는 계획."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "grandstand",
+    "pos": "v.",
+    "head_meanings": ["관심을 끌기 위해 과시적으로 행동하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grand(멋진)+stand(서다) → 관중석 앞에서 멋지게 서서 쇼하는 느낌.",
+      "grandstanding politician=쇼하는 정치인. 과시적 행동을 뜻해."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "graphic",
+    "pos": "adj.",
+    "head_meanings": ["생생한", "사실적인", "도해의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`graph-`(쓰다/그리다) → 그림처럼 생생한. graphic description=생생한 묘사.",
+      "GRE에서 '그래픽 디자인'이 아니라 'vivid(생생한)' 뜻으로 나와!"
+    ]
+  },
+  {
+    "id": "008",
+    "word": "grate",
+    "pos": "v.",
+    "head_meanings": ["불쾌한 소리를 내다", "신경을 거슬리게 하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "치즈 grater(강판)로 갈 때 끼이익 소리나잖아. 그 신경 거슬리는 느낌!",
+      "grate on one's nerves=신경을 거슬리다. grating(adj.)도 같이 외워."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "gratify",
+    "pos": "v.",
+    "head_meanings": ["만족시키다", "기쁘게 하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`grat-`(기쁨, grateful의 그 grat-) → 기쁘게 하다, 만족시키다.",
+      "gratify a desire=욕구를 충족시키다. 감사(grateful)할 만큼 기쁘게 해주는 거야."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "grating",
+    "pos": "adj.",
+    "head_meanings": ["거슬리는", "신경에 거슬리는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grate(신경 거슬리다)의 형용사형. grating voice=거슬리는 목소리.",
+      "jarring이랑 비슷한 뜻이야. 둘 다 '거슬리는, 불쾌한' 느낌."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "gratis",
+    "pos": "adv./adj.",
+    "head_meanings": ["무료로", "공짜의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어에서 온 말. `grat-`(호의)+`-is` → 호의로 주는 = 공짜!",
+      "gratuitous, gratuity도 같은 어근이야. 다 '공짜/보수' 관련이지."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "gratuitous",
+    "pos": "adj.",
+    "head_meanings": ["무료의", "불필요한", "근거 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`gratuit-`(공짜의) → 1) 무료의 2) 줄 필요 없는데 준 → 불필요한, 근거 없는.",
+      "GRE에선 '불필요한(uncalled-for)' 뜻이 핵심! gratuitous violence=불필요한 폭력."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "gratuity",
+    "pos": "n.",
+    "head_meanings": ["사례금", "팁", "선물", "급여금"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`gratuit-`(공짜) → 의무는 아닌데 감사해서 주는 돈 = 팁!",
+      "식당에서 주는 tip을 격식체로 gratuity라고 해."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "grave",
+    "pos": "adj.",
+    "head_meanings": ["엄숙한", "진지한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "무덤(grave)처럼 엄숙하고 진지한 분위기. grave concern=심각한 우려.",
+      "gravitas, gravity도 같은 어근이야. 다 '무겁고 진지한' 뉘앙스."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "gravitas",
+    "pos": "n.",
+    "head_meanings": ["엄숙함", "진지함"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 그대로 들어온 단어야. `grav-`(무거운) → 무게감 있는 진지함.",
+      "a leader with gravitas=무게감 있는 리더. gravity의 추상명사 버전이라 생각해."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "gravity",
+    "pos": "n.",
+    "head_meanings": ["진지함", "엄숙함", "중대성"],
+    "synonyms_from_image": [],
+    "tips": [
+      "중력(gravity) 말고 GRE 뜻은 '진지함, 중대성'이야! GRE 함정 단어!",
+      "the gravity of the situation=상황의 중대성. 무겁다 → 심각하다 느낌."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "green",
+    "pos": "adj.",
+    "head_meanings": ["미숙한", "경험 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "초록색이 아니라 '덜 익은 과일=green fruit' 에서 온 뜻이야. 미숙한!",
+      "GRE 함정 단어! green recruit=풋내기 신병. naive, inexperienced 뜻."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "gregarious",
+    "pos": "adj.",
+    "head_meanings": ["사교적인", "군거하는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`greg-`(무리, 떼)+`-arious` → 무리 짓는 → 사교적인.",
+      "congregation(모임), aggregate(모으다)도 같은 어근이야."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "grievance",
+    "pos": "n.",
+    "head_meanings": ["불평", "불만", "고충"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`griev-`(무겁다, 슬프다) → 마음이 무거운 것 = 불만, 고충.",
+      "air grievances=불만을 토로하다. 공식적인 '고충 사항' 느낌이 강해."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "grievous",
+    "pos": "adj.",
+    "head_meanings": ["통탄할", "몹시 슬픈", "심각한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`griev-`(슬픈)+`-ous` → 몹시 슬프고 심각한.",
+      "grievous error=중대한 실수, grievous harm=심각한 피해. 무게감 있는 단어야."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "grill",
+    "pos": "v.",
+    "head_meanings": ["심문하다", "굽다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "고기를 불에 굽듯이 사람을 화끈하게 심문하는 거야!",
+      "GRE에선 '심문하다(interrogate)' 뜻이 중요해. grill a suspect=용의자를 심문하다."
+    ]
+  },
+  {
+    "id": "022",
+    "word": "grim",
+    "pos": "adj.",
+    "head_meanings": ["엄격한", "냉혹한", "무시무시한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "Grim Reaper(저승사자) 생각하면 돼. 어둡고 냉혹하고 무서운 느낌.",
+      "grim reality=냉혹한 현실, grim prospects=암울한 전망."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "grimace",
+    "pos": "n./v.",
+    "head_meanings": ["찡그린 얼굴", "찡그리다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grim(무서운)+face → 얼굴을 찡그리는 거라고 연상해봐.",
+      "grimace in pain=고통으로 얼굴을 찡그리다."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "gripe",
+    "pos": "v./n.",
+    "head_meanings": ["불평하다", "불평", "불만"],
+    "synonyms_from_image": [],
+    "tips": [
+      "gripe, grouse, groan, grumble... 다 'gr-'로 시작하는 '불평' 단어들이야!",
+      "사소한 불평에 주로 쓰여. stop griping=그만 투덜거려."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "gripping",
+    "pos": "adj.",
+    "head_meanings": ["매우 흥미로운", "마음을 사로잡는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grip(꽉 잡다)+ping → 마음을 꽉 잡는 → 매우 흥미로운.",
+      "a gripping novel=손에서 놓을 수 없는 소설. riveting이랑 같은 뜻!"
+    ]
+  },
+  {
+    "id": "026",
+    "word": "grisly",
+    "pos": "adj.",
+    "head_meanings": ["소름끼치는", "무시무시한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grisly(소름끼치는) vs grizzly(회색곰) 헷갈리지 마! 스펠링 주의!",
+      "grisly murder=소름끼치는 살인. gruesome이랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "grizzle",
+    "pos": "v.",
+    "head_meanings": ["징징거리다", "투덜대다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grizzle은 주로 영국 영어에서 아이가 '징징거리다'는 뜻이야.",
+      "grizzled(희끗희끗한)와 혼동 주의! grizzle은 울보, grizzled는 백발."
+    ]
+  },
+  {
+    "id": "028",
+    "word": "groan",
+    "pos": "v./n.",
+    "head_meanings": ["신음하다", "신음", "불평"],
+    "synonyms_from_image": [],
+    "tips": [
+      "아플 때 '으으~' 하는 소리가 groan이야. 고통의 신음.",
+      "groan under the weight of=~의 무게에 짓눌리다. 비유적으로도 많이 써."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "groundbreaking",
+    "pos": "adj.",
+    "head_meanings": ["기공의", "착공의", "획기적인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "땅(ground)을 처음 파는(breaking) 것 → 착공 → 전에 없던 새로운 것 → 획기적인!",
+      "GRE에선 '획기적인(pioneering, innovative)' 뜻이 중요해."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "groundless",
+    "pos": "adj.",
+    "head_meanings": ["근거 없는", "이유 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "ground(근거)+less(없는) = 근거가 없는. 심플!",
+      "groundless fears=근거 없는 두려움. baseless, unfounded랑 같은 뜻."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "grouse",
+    "pos": "v./n.",
+    "head_meanings": ["불평하다", "불평"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grouse는 원래 '들꿩'인데, 투덜투덜 불평하다는 뜻도 있어.",
+      "gripe, grumble이랑 비슷해. 다 사소한 불평에 쓰는 단어들!"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "grovel",
+    "pos": "v.",
+    "head_meanings": ["기다", "엎드리다", "비굴하게 굴다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "바닥에 엎드려서 용서를 비는 모습 상상해봐. 그게 grovel이야.",
+      "grovel before someone=~앞에서 비굴하게 굴다. 자존심 없는 느낌!"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "groveling",
+    "pos": "adj./n.",
+    "head_meanings": ["비굴한", "기기", "아첨"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grovel(비굴하게 굴다)의 형용사형. 굽신굽신하는 태도.",
+      "sycophantic(아첨하는), servile(비굴한)이랑 비슷한 뉘앙스야."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "grudge",
+    "pos": "n./v.",
+    "head_meanings": ["원한", "유감", "아까워하다", "주기 싫어하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hold a grudge=원한을 품다. 영화 'The Grudge(그루지)' 생각하면 쉬워!",
+      "동사로는 grudge someone something=~에게 ~을 주기 아까워하다."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "grudging",
+    "pos": "adj.",
+    "head_meanings": ["마음 내키지 않는", "인색한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grudge(아까워하다)+ing → 마지못해 하는, 내키지 않는.",
+      "grudging admiration=마지못한 감탄. reluctant이랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "grueling",
+    "pos": "adj.",
+    "head_meanings": ["기진맥진하게 하는", "몹시 힘든"],
+    "synonyms_from_image": [],
+    "tips": [
+      "gruel(묽은 죽) → 죽도 못 먹을 정도로 힘든 → 기진맥진하게 하는.",
+      "grueling workout=살인적으로 힘든 운동. arduous, strenuous랑 비슷해."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "gruesome",
+    "pos": "adj.",
+    "head_meanings": ["무서워서 소름끼치는", "끔찍한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "grisly랑 비슷한 뜻인데, gruesome이 더 '역겨운' 느낌이 강해.",
+      "gruesome crime scene=끔찍한 범죄 현장. macabre, ghastly랑도 비슷해."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "gruff",
+    "pos": "adj.",
+    "head_meanings": ["거친", "퉁명스러운"],
+    "synonyms_from_image": [],
+    "tips": [
+      "목소리가 rough(거친) 한 느낌. gruff voice=걸걸한 목소리.",
+      "겉은 퉁명스럽지만 속은 따뜻한 캐릭터한테 자주 쓰여. brusque랑 비슷해."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "guarded",
+    "pos": "adj.",
+    "head_meanings": ["조심스러운", "경계하는", "속내를 드러내지 않는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "guard(경비하다) → 마음에 경비를 세운 → 조심스러운, 속내를 안 드러내는.",
+      "guarded response=신중한 대답. cautious, circumspect랑 비슷해."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "guffaw",
+    "pos": "n.",
+    "head_meanings": ["너털웃음", "폭소"],
+    "synonyms_from_image": [],
+    "tips": [
+      "소리 자체가 웃음소리 같아. '거퍼허~' 하고 크게 웃는 너털웃음!",
+      "guffaw는 품위 없이 시원하게 터지는 웃음이야. a loud guffaw=큰 폭소."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "guile",
+    "pos": "n.",
+    "head_meanings": ["교활함", "간계"],
+    "synonyms_from_image": [],
+    "tips": [
+      "guile=교활함, guileless=순진한. 세트로 외워!",
+      "full of guile=교활함으로 가득한. cunning, craftiness랑 같은 뜻."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "guileless",
+    "pos": "adj.",
+    "head_meanings": ["정직한", "꾸밈없는", "순진한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "guile(교활함)+less(없는) = 교활함이 없는 → 순진한, 꾸밈없는.",
+      "artless, ingenuous, naive랑 비슷한 뜻이야. 긍정적 뉘앙스!"
+    ]
+  },
+  {
+    "id": "043",
+    "word": "guise",
+    "pos": "n.",
+    "head_meanings": ["외관", "복장", "가장", "구실"],
+    "synonyms_from_image": [],
+    "tips": [
+      "disguise(변장)에서 dis를 빼면 guise! 겉모습, 가장이란 뜻이야.",
+      "under the guise of=~을 가장하여, ~의 구실로. 속이려는 의도가 있어."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "gull",
+    "pos": "v.",
+    "head_meanings": ["속이다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "갈매기(gull)처럼 멍하니 있다가 당하는 느낌. gull=속이다.",
+      "gull → gullible(잘 속는). 같은 어원이야. 세트로 외워!"
+    ]
+  },
+  {
+    "id": "045",
+    "word": "gullible",
+    "pos": "adj.",
+    "head_meanings": ["잘 속는", "잘 믿는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "gull(속이다)+ible(할 수 있는) = 속일 수 있는 → 잘 속는.",
+      "credulous랑 같은 뜻이야. gullible person=순진하게 잘 속는 사람."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "gust",
+    "pos": "n.",
+    "head_meanings": ["돌풍", "돌발적인 감정"],
+    "synonyms_from_image": [],
+    "tips": [
+      "갑자기 '훅' 하고 부는 바람이 gust야. a gust of wind=한줄기 돌풍.",
+      "a gust of anger=갑작스러운 분노. 감정에 대해서도 쓸 수 있어."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "gustatory",
+    "pos": "adj.",
+    "head_meanings": ["미각의", "미각에 영향을 미치는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`gust-`(맛보다)+`-atory` → 미각의. gusto(열의)와 같은 어원!",
+      "gustatory pleasure=미각의 즐거움. 오감 중 taste에 해당하는 형용사야."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "gusto",
+    "pos": "n.",
+    "head_meanings": ["열의", "취미", "즐거움"],
+    "synonyms_from_image": [],
+    "tips": [
+      "이탈리아어에서 온 말. '맛'이라는 뜻에서 → 뭔가를 즐기는 열의.",
+      "with gusto=열정적으로, 즐겁게. eat with gusto=맛있게 먹다."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "gusty",
+    "pos": "adj.",
+    "head_meanings": ["바람이 세찬", "돌풍이 부는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "gust(돌풍)+y = 돌풍이 부는. gusty weather=바람 세찬 날씨.",
+      "blustery랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "guzzle",
+    "pos": "v.",
+    "head_meanings": ["벌컥벌컥 마시다", "허겁지겁 먹다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "'꿀꺽꿀꺽' 소리 나는 느낌의 단어야. 벌컥벌컥 들이키는 거!",
+      "guzzle beer=맥주를 벌컥벌컥 마시다. gas guzzler=기름 먹는 하마(차)."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "hackneyed",
+    "pos": "adj.",
+    "head_meanings": ["진부한", "판에 박힌"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hackney(셋말, 대여마차) → 너무 많이 쓰여서 닳아빠진 → 진부한.",
+      "hackneyed phrase=진부한 표현. trite, banal, clichéd랑 같은 뜻. GRE 단골!"
+    ]
+  },
+  {
+    "id": "052",
+    "word": "haggard",
+    "pos": "adj.",
+    "head_meanings": ["야윈", "수척한", "초췌한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hag(노파, 마녀) 같은 느낌. 피로와 걱정으로 야위고 초췌한 모습.",
+      "haggard face=수척한 얼굴. gaunt랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "haggle",
+    "pos": "v.",
+    "head_meanings": ["값을 깎다", "옥신각신하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "시장에서 '에이~ 좀 깎아주세요~' 하는 게 haggle이야.",
+      "haggle over the price=가격을 두고 흥정하다. bargain이랑 비슷해."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "hagiographic",
+    "pos": "adj.",
+    "head_meanings": ["성인전의", "지나치게 찬양적인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hagio-`(성스러운)+`graphic`(기록하는) → 성인전의 → 지나치게 찬양하는.",
+      "GRE에선 '과도하게 미화하는' 뜻이 핵심! hagiographic biography=지나치게 미화된 전기."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "hail",
+    "pos": "v.",
+    "head_meanings": ["환호하다", "맞이하다", "불러 세우다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hail a taxi=택시를 부르다, hail someone as a hero=~을 영웅으로 환호하다.",
+      "hail from=~출신이다 라는 숙어도 있어. 다양한 뜻이 있으니 문맥 주의!"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "halcyon",
+    "pos": "adj.",
+    "head_meanings": ["평온한", "태평한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스 신화에서 halcyon(물총새)이 바다를 잔잔하게 했다는 전설에서 왔어.",
+      "halcyon days=태평한 시절, 황금기. GRE에서 자주 나오는 고급 단어!"
+    ]
+  },
+  {
+    "id": "057",
+    "word": "hale",
+    "pos": "adj.",
+    "head_meanings": ["건강한", "원기 왕성한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hale and hearty=건강하고 활기찬. 이 관용구로 많이 나와.",
+      "주로 노인이 건강할 때 쓰는 표현이야. robust, vigorous랑 비슷해."
+    ]
+  },
+  {
+    "id": "058",
+    "word": "half-formulated",
+    "pos": "adj.",
+    "head_meanings": ["반쯤 형성된", "미완성의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "half(반)+formulated(구체화된) = 반만 구체화된 → 미완성의.",
+      "half-formulated ideas=반쯤 형성된 아이디어. 아직 덜 다듬어진 느낌."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "halfhearted",
+    "pos": "adj.",
+    "head_meanings": ["마음이 내키지 않는", "열성 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "half(반)+hearted(마음의) = 마음이 반만 있는 → 열의 없는.",
+      "halfhearted attempt=성의 없는 시도. lukewarm이랑 비슷한 뉘앙스야."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "hallmark",
+    "pos": "n./v.",
+    "head_meanings": ["특징", "표지", "품질보증 표시", "특징짓다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 금은에 찍는 품질 보증 마크(mark)였어. → 대표적 특징이라는 뜻으로 확장.",
+      "the hallmark of great writing=훌륭한 글의 특징. trademark랑 비슷한 느낌."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "hallowed",
+    "pos": "adj.",
+    "head_meanings": ["신성한", "축복받은"],
+    "synonyms_from_image": [],
+    "tips": [
+      "Halloween이 All Hallows' Eve(만성절 전야)에서 온 거야. hallow=신성하게 하다.",
+      "hallowed ground=신성한 땅. sacred, consecrated랑 같은 뜻."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "hallow",
+    "pos": "v.",
+    "head_meanings": ["신성하게 하다", "성스럽게 하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "holy(신성한)와 같은 어원이야. hallow → hallowed(신성한).",
+      "sanctify, consecrate랑 같은 뜻. hallowed be thy name=이름이 거룩히 여김을 받으소서."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "hallucination",
+    "pos": "n.",
+    "head_meanings": ["환각", "환상"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `hallucinari`(방황하다, 헤매다) → 정신이 헤매는 것 → 환각.",
+      "visual hallucination=시각적 환각. 실제로 없는 걸 보거나 듣는 거야."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "halting",
+    "pos": "adj.",
+    "head_meanings": ["망설이는", "더듬거리는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "halt(멈추다) → 자꾸 멈추면서 하는 → 더듬거리는, 망설이는.",
+      "halting speech=더듬거리는 말. faltering이랑 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "halt",
+    "pos": "v./n.",
+    "head_meanings": ["멈추다", "중지"],
+    "synonyms_from_image": [],
+    "tips": [
+      "Halt!=멈춰! 군대에서 쓰는 명령어 느낌. come to a halt=멈추다.",
+      "bring to a halt=중지시키다. 갑자기 딱 멈추는 느낌이야."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "hamper",
+    "pos": "v.",
+    "head_meanings": ["방해하다", "저해하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hamper(세탁물 바구니)를 들고 뛰면 방해되잖아! 그래서 '방해하다'.",
+      "hamper progress=진전을 방해하다. hinder, impede랑 같은 뜻."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "hamstring",
+    "pos": "v.",
+    "head_meanings": ["무력화하다", "손상시키다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hamstring(뒷무릎 힘줄)을 끊으면 걸을 수 없잖아 → 무력화하다.",
+      "be hamstrung by regulations=규제에 의해 무력화되다. cripple이랑 비슷해."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "hands-off",
+    "pos": "adj.",
+    "head_meanings": ["간섭하지 않는", "방임의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hands(손)+off(떼다) = 손 안 대는 → 간섭 안 하는, 방임하는.",
+      "hands-off approach=방임적 접근법. laissez-faire랑 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "069",
+    "word": "hanker",
+    "pos": "v.",
+    "head_meanings": ["갈망하다", "열망하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hanker after/for=~을 갈망하다. 간절히 원하는 느낌!",
+      "yearn, crave, long for랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "hap",
+    "pos": "n.",
+    "head_meanings": ["우연", "운", "행운"],
+    "synonyms_from_image": [],
+    "tips": [
+      "happen, happy, hapless 다 `hap`(운)에서 왔어! 운수, 우연이란 뜻.",
+      "by hap=우연히. 고어체라 요즘엔 잘 안 쓰지만 어원으로 중요해."
+    ]
+  },
+  {
+    "id": "071",
+    "word": "haphazard",
+    "pos": "adj.",
+    "head_meanings": ["우연의", "되는대로의", "무계획한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hap`(우연)+`hazard`(위험) = 우연에 맡기는 → 무계획한, 되는대로의.",
+      "haphazard planning=되는대로 하는 계획. random, slapdash랑 비슷해."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "hapless",
+    "pos": "adj.",
+    "head_meanings": ["불운한", "재수 없는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hap`(운)+`less`(없는) = 운이 없는 → 불운한.",
+      "hapless victim=불쌍한 희생자. unlucky, unfortunate랑 같은 뜻인데 더 문학적이야."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "harangue",
+    "pos": "n./v.",
+    "head_meanings": ["장광설", "열변", "장황하게 꾸짖다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "연단 위에서 '하! 랑! 그!' 하면서 길게 열변 토하는 모습 상상해봐.",
+      "harangue는 부정적 뉘앙스야. 지루하게 길고 공격적인 연설!"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "harass",
+    "pos": "v.",
+    "head_meanings": ["괴롭히다", "성가시게 굴다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "반복적으로 계속 괴롭히는 거야. sexual harassment=성희롱.",
+      "harry, badger, pester랑 비슷한 뜻. 다 '계속 괴롭히다'!"
+    ]
+  },
+  {
+    "id": "075",
+    "word": "harbinger",
+    "pos": "n.",
+    "head_meanings": ["선구자", "전조", "징조"],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 '숙소를 미리 잡으러 가는 사람'이었어 → 먼저 와서 알리는 자 → 전조.",
+      "harbinger of spring=봄의 전조. precursor, herald랑 같은 뜻. GRE 단골!"
+    ]
+  },
+  {
+    "id": "076",
+    "word": "harbor",
+    "pos": "v.",
+    "head_meanings": ["은닉하다", "품다", "피난처를 제공하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "항구(harbor)가 배에게 안전한 곳인 것처럼, 누군가를 숨겨주는 거야.",
+      "harbor a grudge=원한을 품다, harbor a fugitive=도망자를 은닉하다."
+    ]
+  },
+  {
+    "id": "077",
+    "word": "hard-boiled",
+    "pos": "adj.",
+    "head_meanings": ["냉혹한", "비정한", "현실적인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "계란을 완숙(hard-boiled)으로 삶으면 딱딱하잖아 → 냉혹한, 비정한.",
+      "hard-boiled detective=비정한 탐정. 감정에 흔들리지 않는 느낌."
+    ]
+  },
+  {
+    "id": "078",
+    "word": "harden",
+    "pos": "v.",
+    "head_meanings": ["굳게 하다", "단련하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hard(딱딱한)+en(~하게 하다) = 굳게 하다, 단련시키다.",
+      "harden one's heart=마음을 굳게 먹다. hardened criminal=상습범."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "hard-headed",
+    "pos": "adj.",
+    "head_meanings": ["냉정한", "실제적인", "완고한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "머리(head)가 딱딱한(hard) → 감정에 안 흔들리는 → 냉정한, 실제적인.",
+      "hard-headed businessman=냉정한 사업가. pragmatic이랑 비슷한 뉘앙스야."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "hard-pressed",
+    "pos": "adj.",
+    "head_meanings": ["곤경에 빠진", "압박받는"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hard(심하게)+pressed(눌린) = 심하게 압박받는 → 곤경에 빠진.",
+      "hard-pressed to find=찾기 어려운. 어려운 상황에 처한 느낌이야."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "hare",
+    "pos": "n.",
+    "head_meanings": ["산토끼"],
+    "synonyms_from_image": [],
+    "tips": [
+      "rabbit(집토끼)보다 크고 귀가 긴 게 hare(산토끼)야.",
+      "harebrained=경솔한(토끼 뇌=생각 없는). 이솝우화 토끼와 거북이의 그 토끼!"
+    ]
+  },
+  {
+    "id": "082",
+    "word": "hardy",
+    "pos": "adj.",
+    "head_meanings": ["강인한", "튼튼한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hard(딱딱한)+y → 강인한, 튼튼한. hardy plants=강건한 식물(추위에 잘 견디는).",
+      "robust, sturdy랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "harness",
+    "pos": "v./n.",
+    "head_meanings": ["이용하다", "동원하다", "마구", "장비"],
+    "synonyms_from_image": [],
+    "tips": [
+      "말에 마구(harness)를 채워서 힘을 이용하는 것처럼, 자원이나 에너지를 활용하는 거야.",
+      "harness solar energy=태양 에너지를 이용하다. utilize랑 비슷한 뜻."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "harping",
+    "pos": "n./adj.",
+    "head_meanings": ["같은 말을 되풀이함", "지루한 반복"],
+    "synonyms_from_image": [],
+    "tips": [
+      "harp(하프) → 하프를 같은 줄만 계속 튕기면 지루하잖아 → 같은 말 반복.",
+      "harp on=~에 대해 잔소리하다. stop harping on it!=그만 잔소리해!"
+    ]
+  },
+  {
+    "id": "085",
+    "word": "harrow",
+    "pos": "v.",
+    "head_meanings": ["괴롭히다", "고통을 주다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "harrow는 원래 농기구(써레)로 밭을 갈아엎는 거야 → 마음을 갈아엎듯 괴롭히다.",
+      "harrowing(adj.)도 같이 외워. harrowing experience=끔찍한 경험."
+    ]
+  },
+  {
+    "id": "086",
+    "word": "harrowing",
+    "pos": "adj.",
+    "head_meanings": ["비참한", "괴로운", "마음 아픈"],
+    "synonyms_from_image": [],
+    "tips": [
+      "harrow(괴롭히다)+ing → 마음을 갈아엎는 듯한 → 비참한, 괴로운.",
+      "harrowing tale=마음 아픈 이야기. distressing, agonizing이랑 비슷해."
+    ]
+  },
+  {
+    "id": "087",
+    "word": "harry",
+    "pos": "v.",
+    "head_meanings": ["약탈하다", "계속 괴롭히다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "harass랑 어원이 같아! 반복적으로 괴롭히고 공격하는 거야.",
+      "harry the enemy=적을 계속 괴롭히다. 전쟁에서 끊임없이 습격하는 느낌."
+    ]
+  },
+  {
+    "id": "088",
+    "word": "hasten",
+    "pos": "v.",
+    "head_meanings": ["서두르다", "재촉하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "haste(서두름)+en(~하게 하다) = 서두르게 하다, 재촉하다.",
+      "hasten to add=서둘러 덧붙이다. expedite, accelerate랑 비슷해."
+    ]
+  },
+  {
+    "id": "089",
+    "word": "hatch",
+    "pos": "n./v.",
+    "head_meanings": ["출입구", "부화하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "알에서 병아리가 깨고 나오는 게 hatch! hatch a plan=계획을 꾸미다 뜻도 있어.",
+      "escape hatch=탈출구. 명사로는 배나 비행기의 출입구를 뜻해."
+    ]
+  },
+  {
+    "id": "090",
+    "word": "haughty",
+    "pos": "adj.",
+    "head_meanings": ["오만한", "거만한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`haut-`(높은, 프랑스어 haut) → 자기가 높다고 생각하는 → 오만한.",
+      "hauteur(거만함)도 같은 어원이야. arrogant, supercilious랑 같은 뜻."
+    ]
+  },
+  {
+    "id": "091",
+    "word": "haul",
+    "pos": "v.",
+    "head_meanings": ["세게 잡아당기다", "운반하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "무거운 걸 '으차!' 하고 끌어당기는 게 haul이야. long haul=먼 거리, 장기간.",
+      "haul away=끌어가다. 트럭으로 짐 나르는 이미지 떠올려봐."
+    ]
+  },
+  {
+    "id": "092",
+    "word": "haunt",
+    "pos": "v.",
+    "head_meanings": ["자주 가다", "머릿속에 떠오르다", "출몰하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "유령(ghost)이 출몰하는 게 haunted house야. 마음에 귀신처럼 따라다니는 느낌!",
+      "haunting melody=잊히지 않는 멜로디. GRE에선 '마음에서 떠나지 않는' 뜻이 중요해."
+    ]
+  },
+  {
+    "id": "093",
+    "word": "hauteur",
+    "pos": "n.",
+    "head_meanings": ["거만함", "오만함"],
+    "synonyms_from_image": [],
+    "tips": [
+      "프랑스어 `haut`(높은)+`-eur` → 자기가 높다는 태도 = 거만함.",
+      "haughty의 명사형이라 생각하면 돼. with hauteur=거만하게."
+    ]
+  },
+  {
+    "id": "094",
+    "word": "haven",
+    "pos": "n.",
+    "head_meanings": ["안식처", "피난처", "항구"],
+    "synonyms_from_image": [],
+    "tips": [
+      "heaven(천국)이랑 비슷하게 생겼지? 안전한 곳, 피난처란 뜻이야.",
+      "tax haven=조세 피난처, safe haven=안전한 피난처. refuge, sanctuary랑 같은 뜻."
+    ]
+  },
+  {
+    "id": "095",
+    "word": "havoc",
+    "pos": "n.",
+    "head_meanings": ["대파괴", "대혼란"],
+    "synonyms_from_image": [],
+    "tips": [
+      "wreak havoc=대혼란을 일으키다. 이 표현으로 정말 많이 나와!",
+      "The storm wreaked havoc on the city=폭풍이 도시에 대파괴를 일으켰다."
+    ]
+  },
+  {
+    "id": "096",
+    "word": "hazardous",
+    "pos": "adj.",
+    "head_meanings": ["위험한", "모험적인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hazard(위험)+ous = 위험한. hazardous waste=위험 폐기물.",
+      "perilous, precarious랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "097",
+    "word": "hazy",
+    "pos": "adj.",
+    "head_meanings": ["흐릿한", "안개 낀", "모호한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "haze(안개, 연무)+y = 안개 낀 → 흐릿한, 모호한.",
+      "hazy memory=흐릿한 기억, hazy idea=모호한 생각. vague, nebulous랑 비슷해."
+    ]
+  },
+  {
+    "id": "098",
+    "word": "headlong",
+    "pos": "adj./adv.",
+    "head_meanings": ["성급한", "무턱대고", "머리부터"],
+    "synonyms_from_image": [],
+    "tips": [
+      "head(머리)+long(길게) → 머리부터 곤두박질 → 성급한, 무모한.",
+      "rush headlong into=무턱대고 뛰어들다. rash, precipitate랑 비슷해."
+    ]
+  },
+  {
+    "id": "099",
+    "word": "headstrong",
+    "pos": "adj.",
+    "head_meanings": ["고집 센", "제멋대로인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "head(머리)+strong(강한) = 머리(생각)가 강한 → 고집 센.",
+      "stubborn, obstinate, willful이랑 같은 뜻. 남 말 안 듣는 느낌!"
+    ]
+  },
+  {
+    "id": "100",
+    "word": "hearten",
+    "pos": "v.",
+    "head_meanings": ["용기를 북돋우다", "격려하다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "heart(마음)+en(~하게 하다) = 마음에 힘을 주다 → 격려하다.",
+      "dishearten(낙담시키다)의 반대말이야. encourage랑 같은 뜻."
+    ]
+  },
+  {
+    "id": "101",
+    "word": "heckler",
+    "pos": "n.",
+    "head_meanings": ["야유하는 사람", "훼방꾼"],
+    "synonyms_from_image": [],
+    "tips": [
+      "연설이나 공연 중에 끼어들어서 야유하는 사람이 heckler야.",
+      "heckle(야유하다)+r → 훼방꾼. 코미디쇼에서 heckler 퇴장시키는 거 많이 봤지?"
+    ]
+  },
+  {
+    "id": "102",
+    "word": "hectic",
+    "pos": "adj.",
+    "head_meanings": ["매우 바쁜", "몹시 흥분된"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hectic schedule=살인적으로 바쁜 일정. 정신없이 바쁜 느낌!",
+      "frenetic, frantic이랑 비슷해. 좋은 바쁨이 아니라 정신없는 바쁨이야."
+    ]
+  },
+  {
+    "id": "103",
+    "word": "hedge",
+    "pos": "v./n.",
+    "head_meanings": ["에워싸다", "회피하다, 얼버무리다", "울타리"],
+    "synonyms_from_image": [],
+    "tips": [
+      "울타리(hedge)로 둘러싸듯이 → 위험을 차단하다(hedge a bet) 또는 말을 얼버무리다.",
+      "GRE에선 'hedge=회피하다, 얼버무리다' 뜻이 중요해. equivocate랑 비슷해."
+    ]
+  },
+  {
+    "id": "104",
+    "word": "hedonism",
+    "pos": "n.",
+    "head_meanings": ["쾌락주의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `hedone`(쾌락) → 쾌락이 최고의 선이라는 철학적 입장.",
+      "asceticism(금욕주의)의 반대 개념이야. GRE에서 대비 쌍으로 나와!"
+    ]
+  },
+  {
+    "id": "105",
+    "word": "heedless",
+    "pos": "adj.",
+    "head_meanings": ["부주의한", "경솔한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "heed(주의를 기울이다)+less(없는) = 주의를 안 기울이는 → 부주의한.",
+      "heedless of danger=위험에 개의치 않는. careless, reckless랑 비슷해."
+    ]
+  },
+  {
+    "id": "106",
+    "word": "heft",
+    "pos": "n./v.",
+    "head_meanings": ["무게", "중요성", "무게를 재어보다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "heavy에서 온 말이야. 물건을 들어올려서 무게를 가늠하는 동작이 heft.",
+      "intellectual heft=지적 무게감. 비유적으로 '영향력, 중요성' 뜻도 있어."
+    ]
+  },
+  {
+    "id": "107",
+    "word": "hegemony",
+    "pos": "n.",
+    "head_meanings": ["패권", "지배권", "주도권"],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `hegemon`(지도자) → 한 국가나 집단이 다른 것들을 지배하는 권력.",
+      "cultural hegemony=문화적 패권. dominance, supremacy랑 비슷해. GRE 고급 단어!"
+    ]
+  },
+  {
+    "id": "108",
+    "word": "heinous",
+    "pos": "adj.",
+    "head_meanings": ["가증스러운", "극악무도한"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hate(증오)에서 파생됐어. heinous crime=극악무도한 범죄.",
+      "atrocious, abominable이랑 비슷한 뜻. 도덕적으로 최악인 행위에 쓰여."
+    ]
+  },
+  {
+    "id": "109",
+    "word": "heirloom",
+    "pos": "n.",
+    "head_meanings": ["가보", "세습 재산"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`heir`(상속인)+`loom`(도구) = 대대로 물려받는 물건 → 가보.",
+      "family heirloom=집안 가보. heirloom tomato=재래종 토마토라는 뜻도 있어."
+    ]
+  },
+  {
+    "id": "110",
+    "word": "helter-skelter",
+    "pos": "adj./adv./n.",
+    "head_meanings": ["허둥지둥한", "되는대로의", "혼란"],
+    "synonyms_from_image": [],
+    "tips": [
+      "소리 자체가 혼란스럽지? helter-skelter로 이리저리 뛰어다니는 느낌!",
+      "run helter-skelter=허둥지둥 뛰다. haphazard, chaotic이랑 비슷해."
+    ]
+  },
+  {
+    "id": "111",
+    "word": "heresy",
+    "pos": "n.",
+    "head_meanings": ["이단", "반대론"],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `hairesis`(선택) → 정통에서 벗어난 선택 → 이단.",
+      "heretic(이단자)과 세트로 외워! 종교뿐 아니라 학문적 이단에도 쓰여."
+    ]
+  },
+  {
+    "id": "112",
+    "word": "heretic",
+    "pos": "n.",
+    "head_meanings": ["이교도", "이단자"],
+    "synonyms_from_image": [],
+    "tips": [
+      "heresy(이단)+tic → 이단을 믿는 사람 = 이단자.",
+      "heterodox(이단의)도 비슷한 뜻이야. orthodox(정통)의 반대 진영 사람!"
+    ]
+  },
+  {
+    "id": "113",
+    "word": "heretofore",
+    "pos": "adv.",
+    "head_meanings": ["이제까지", "지금까지"],
+    "synonyms_from_image": [],
+    "tips": [
+      "here(여기)+to+fore(전에) = 여기까지, 지금까지. 격식체 표현이야.",
+      "hitherto랑 같은 뜻. 공식 문서나 학술 글에서 나오는 단어."
+    ]
+  },
+  {
+    "id": "114",
+    "word": "hermetic",
+    "pos": "adj.",
+    "head_meanings": ["밀봉된", "난해한", "폐쇄적인"],
+    "synonyms_from_image": [],
+    "tips": [
+      "Hermes(헤르메스) 신에서 유래. 연금술의 밀봉 기술 → 밀봉된, 폐쇄적인.",
+      "hermetic seal=완전 밀봉. 비유적으로 '외부와 단절된, 난해한' 뜻도 있어."
+    ]
+  },
+  {
+    "id": "115",
+    "word": "hermitage",
+    "pos": "n.",
+    "head_meanings": ["은둔처", "은자의 집"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hermit(은둔자)+age(장소) = 은둔자가 사는 곳 → 은둔처.",
+      "러시아의 Hermitage Museum(에르미타시 박물관)도 여기서 온 이름이야."
+    ]
+  },
+  {
+    "id": "116",
+    "word": "heterodox",
+    "pos": "adj.",
+    "head_meanings": ["이단의", "정통이 아닌"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hetero-`(다른)+`dox`(의견) = 정통과 다른 의견 → 이단의.",
+      "orthodox(정통의)의 반대말이야! unorthodox랑 같은 뜻. GRE 단골 대비쌍!"
+    ]
+  },
+  {
+    "id": "117",
+    "word": "heterogeneous",
+    "pos": "adj.",
+    "head_meanings": ["이질적인", "서로 다른 종류의"],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hetero-`(다른)+`geneous`(종류) = 종류가 다른 → 이질적인.",
+      "homogeneous(동질적인)의 반대말! 이 대비쌍 GRE에 꼭 나와!"
+    ]
+  },
+  {
+    "id": "118",
+    "word": "hew (to)",
+    "pos": "v.",
+    "head_meanings": ["따르다", "고수하다", "잘라내다"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hew는 원래 도끼로 '자르다'인데, hew to=~에 따르다, 고수하다 뜻이 있어.",
+      "GRE에선 hew to tradition=전통을 고수하다 이런 식으로 나와. adhere랑 같은 뜻!"
+    ]
+  },
+  {
+    "id": "119",
+    "word": "heyday",
+    "pos": "n.",
+    "head_meanings": ["전성기", "절정"],
+    "synonyms_from_image": [],
+    "tips": [
+      "hey(감탄사)+day(날) → 감탄할 만한 날들 → 전성기!",
+      "in its heyday=전성기에. prime, zenith, apex랑 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "120",
+    "word": "hiatus",
+    "pos": "n.",
+    "head_meanings": ["중단", "공백", "틈"],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `hiare`(벌어지다) → 활동이 벌어진 틈 = 중단, 공백.",
+      "take a hiatus=활동을 중단하다. 드라마 시즌 사이 쉬는 기간도 hiatus야."
+    ]
+  }
+]
