@@ -1,0 +1,1361 @@
+[
+  {
+    "id": "001",
+    "word": "gainsay",
+    "pos": "v.",
+    "head_meanings": [
+      "부정(부인)하다",
+      "의의를 제기하다",
+      "반대(반박)하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "deny", "note": "사실이 아니라고 부정하다"},
+      {"word": "dispute", "note": "이의를 제기하며 다투다"},
+      {"word": "contradict", "note": "정반대로 말하며 부정하다"},
+      {"word": "repudiate", "note": "공식적으로 거부하며 부정하다"},
+      {"word": "challenge", "note": "이의를 제기하며 도전하다"},
+      {"word": "controvert", "note": "논쟁하며 반박하다"},
+      {"word": "rebut", "note": "증거를 들어 반박하다"},
+      {"word": "refute", "note": "논리적으로 논파하다"},
+      {"word": "oppose", "note": "반대하다"},
+      {"word": "contest", "note": "이의를 제기하며 다투다"},
+      {"word": "counter", "note": "맞서서 반박하다"},
+      {"word": "confute", "note": "완전히 논파하다"}
+    ],
+    "tips": [
+      "`gain-`(against) + `say`→반대로 말하다 = 부정/반박하다.",
+      "GRE 고빈도! deny보다 격식 있는 표현이야."
+    ]
+  },
+  {
+    "id": "002",
+    "word": "gall",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 담즙, 쓰라림, 뻔뻔스러움, 원한",
+      "v.) 화나게 하다, 짜증나게 하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "annoy", "note": "짜증나게 하다"},
+      {"word": "irritate", "note": "짜증나게 하다"},
+      {"word": "irk", "note": "성가시게 하다"},
+      {"word": "provoke", "note": "자극하다→화나게"},
+      {"word": "gripe", "note": "불평→짜증"},
+      {"word": "vex", "note": "괴롭히다→화나게"},
+      {"word": "miff", "note": "기분 상하게 하다"},
+      {"word": "fret", "note": "초조하게 하다"},
+      {"word": "humiliate", "note": "모욕하다→자존심 상하게"},
+      {"word": "rancor", "note": "원한→깊은 적의"},
+      {"word": "hate", "note": "증오→강한 혐오"},
+      {"word": "impudence", "note": "뻔뻔스러움"},
+      {"word": "effrontery", "note": "뻔뻔함→철면피"},
+      {"word": "boldness", "note": "대담함→뻔뻔한 용기"},
+      {"word": "audacity", "note": "뻔뻔한 대담함"},
+      {"word": "temerity", "note": "만용→무모한 대담"}
+    ],
+    "tips": [
+      "gall=담즙(쓴 맛)→쓰라림/원한→뻔뻔스러움까지 다양한 뜻.",
+      "`the gall to do sth` = ~할 뻔뻔함."
+    ]
+  },
+  {
+    "id": "003",
+    "word": "gallant",
+    "pos": "adj.",
+    "head_meanings": [
+      "용맹스러운",
+      "당당한",
+      "화려한",
+      "(여성에게) 친절한",
+      "정중한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "원래 '화려한/당당한'→여성에게 '정중한'.",
+      "gallant knight = 용맹한 기사."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "galvanize",
+    "pos": "v.",
+    "head_meanings": [
+      "갑자기 활기기운을 내게 하다",
+      "활기 띠게 하다",
+      "사람을 격려하다",
+      "격려를 주다",
+      "북돋우다"
+    ],
+    "synonyms_from_image": [
+      {"word": "inspire", "note": "영감을 주다"},
+      {"word": "spur", "note": "자극하다→박차를 가하다"},
+      {"word": "prod", "note": "찔러 재촉하다"},
+      {"word": "urge", "note": "재촉하다"},
+      {"word": "stimulate", "note": "자극하다"},
+      {"word": "rouse", "note": "깨우다→분발시키다"},
+      {"word": "arouse", "note": "불러일으키다"},
+      {"word": "excite", "note": "흥분시키다"},
+      {"word": "awaken", "note": "깨우다→자각시키다"},
+      {"word": "invigorate", "note": "활력을 주다"},
+      {"word": "vitalize", "note": "활력을 불어넣다"},
+      {"word": "energize", "note": "에너지를 주다"},
+      {"word": "exhilarate", "note": "들뜨게 하다"},
+      {"word": "motivate", "note": "동기를 부여하다"},
+      {"word": "electrify", "note": "전기를 통하다→충격적으로 자극"},
+      {"word": "electrolyze", "note": "전기분해하다→전류로 자극"},
+      {"word": "enliven", "note": "활기 띠게 하다"}
+    ],
+    "tips": [
+      "Luigi Galvani(이탈리아 과학자)→개구리 다리에 전기 실험.",
+      "갑자기 자극을 줘서 움직이게 하다."
+    ]
+  },
+  {
+    "id": "005",
+    "word": "gambol",
+    "pos": "v./n.",
+    "head_meanings": [
+      "뛰놀다",
+      "장난치다",
+      "장난치기"
+    ],
+    "synonyms_from_image": [
+      {"word": "jump", "note": "뛰다→뛰어놀다"},
+      {"word": "rollick", "note": "신나게 놀다→거침없이 뛰놀다"},
+      {"word": "frisk", "note": "까불다→경쾌하게 뛰어다니다"},
+      {"word": "cavort", "note": "뛰어놀다→신나게 장난치다"},
+      {"word": "frolic", "note": "장난치다→즐겁게 뛰놀다"}
+    ],
+    "tips": [
+      "gamble(도박)과 헷갈리지 마! gambol = 뛰어놀다.",
+      "어린 양이 풀밭에서 뛰노는 이미지."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "gape",
+    "pos": "v.",
+    "head_meanings": [
+      "멍하니 바라보다",
+      "입을 벌리고 바라보다"
+    ],
+    "synonyms_from_image": [
+      {"word": "gaze", "note": "응시하다→멍하니 바라보다"},
+      {"word": "wonder", "note": "놀라다→신기하게 바라보다"},
+      {"word": "yawn", "note": "하품하다→입을 벌리다"}
+    ],
+    "tips": [
+      "입을 딱 벌리고 멍하니 바라보는 거야.",
+      "gaping hole = 크게 벌어진 구멍."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "garbled",
+    "pos": "adj.",
+    "head_meanings": [
+      "부당한 취사 선택을 하는",
+      "멋대로 고친",
+      "함부로 왜곡하는"
+    ],
+    "synonyms_from_image": [
+      {"word": "distorted", "note": "왜곡된"},
+      {"word": "falsified", "note": "변조된→거짓으로 고친"},
+      {"word": "unauthentic", "note": "진본이 아닌→왜곡된"}
+    ],
+    "tips": [
+      "garble(왜곡하다) + d → 함부로 왜곡된/뒤죽박죽된.",
+      "garbled message = 왜곡된 메시지."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "gargantuan",
+    "pos": "adj.",
+    "head_meanings": [
+      "거대한"
+    ],
+    "synonyms_from_image": [
+      {"word": "gigantic", "note": "거대한"},
+      {"word": "immense", "note": "광대한→엄청난"},
+      {"word": "great", "note": "거대한→대단한"},
+      {"word": "prodigious", "note": "엄청난→놀라울 만큼 큰"}
+    ],
+    "tips": [
+      "Gargantua = 라블레 소설의 거인 이름→엄청나게 큰.",
+      "gigantic, colossal과 세트로 외워둬."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "garish",
+    "pos": "adj.",
+    "head_meanings": [
+      "유난히 번쩍거리는",
+      "유독 색깔이 야한",
+      "화려한",
+      "지나치게 꾸민"
+    ],
+    "synonyms_from_image": [
+      {"word": "gaudy", "note": "야한→촌스럽게 화려한"},
+      {"word": "lurid", "note": "선정적인→눈에 거슬리는"},
+      {"word": "loud", "note": "야한→색이 튀는"},
+      {"word": "glaring", "note": "눈부신→지나치게 밝은"},
+      {"word": "showy", "note": "과시적인→겉치레가 심한"},
+      {"word": "gorgeous", "note": "화려한→눈에 띄게 아름다운"}
+    ],
+    "tips": [
+      "garish vs gaudy: 거의 같은 뜻.",
+      "둘 다 '지나치게 화려해서 눈이 아픈' 느낌."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "garishness",
+    "pos": "n.",
+    "head_meanings": [
+      "번쩍임",
+      "야함",
+      "화려함"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "garish + ness = 지나치게 화려한 상태.",
+      "garish의 명사형이야."
+    ]
+  },
+  {
+    "id": "011",
+    "word": "garner",
+    "pos": "v.",
+    "head_meanings": [
+      "모으다",
+      "저축하다",
+      "저장하다",
+      "축적하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "save", "note": "저장하다→모아두다"},
+      {"word": "deposit", "note": "예치하다→저장하다"},
+      {"word": "stockpile", "note": "비축하다→대량으로 모으다"}
+    ],
+    "tips": [
+      "원래 '곡물 창고'(granary와 같은 뿌리)→곡식을 모아 저장하다→수집/축적하다.",
+      "garner support = 지지를 모으다."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "garnish",
+    "pos": "v.",
+    "head_meanings": [
+      "장식하다",
+      "(요리에) 야채나 해초 따위를 곁들이다"
+    ],
+    "synonyms_from_image": [
+      {"word": "embellish", "note": "장식하다→꾸미다"},
+      {"word": "deck", "note": "장식하다→치장하다"},
+      {"word": "ornament", "note": "장식하다"},
+      {"word": "adorn", "note": "꾸미다→아름답게 하다"},
+      {"word": "beautify", "note": "아름답게 하다"},
+      {"word": "dress", "note": "차리다→장식하다"}
+    ],
+    "tips": [
+      "garnish는 요리 위에 파슬리 같은 걸 얹는 거야.",
+      "비유적으로 '꾸미다'."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "garrulity",
+    "pos": "n.",
+    "head_meanings": [
+      "수다",
+      "다변"
+    ],
+    "synonyms_from_image": [
+      {"word": "loquacity", "note": "수다스러움→말이 많음"},
+      {"word": "verboseness", "note": "장황함→말이 지나치게 많음"},
+      {"word": "wordiness", "note": "장황함→불필요하게 말이 많음"},
+      {"word": "prattle", "note": "재잘거림→시시한 수다"},
+      {"word": "chattering", "note": "지껄임→쉬지 않고 말함"}
+    ],
+    "tips": [
+      "garrulous + ity = 수다스러움.",
+      "loquacity와 거의 같은 뜻이야."
+    ]
+  },
+  {
+    "id": "014",
+    "word": "garrulous",
+    "pos": "adj.",
+    "head_meanings": [
+      "잘 지껄이는",
+      "말이 많은",
+      "수다스러운",
+      "군말이 많은",
+      "(연설 등이) 장황한",
+      "내내 지껄이는",
+      "시끄러운",
+      "내내 등이 끊임없이 소리 내어 흐르는"
+    ],
+    "synonyms_from_image": [
+      {"word": "loquacious", "note": "말이 많은→수다스러운"},
+      {"word": "gossipy", "note": "험담하는→수다스러운"},
+      {"word": "babbling", "note": "지껄이는→알아듣기 힘들게 말하는"},
+      {"word": "prattling", "note": "재잘거리는→쓸데없이 말하는"},
+      {"word": "talkative", "note": "말이 많은"},
+      {"word": "chatty", "note": "수다스러운→친근하게 말 많은"},
+      {"word": "diffuse", "note": "산만한→장황한"}
+    ],
+    "tips": [
+      "라틴어 garrire(지껄이다)→수다스러운.",
+      "GRE 고빈도! loquacious, verbose와 세트."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "gauche",
+    "pos": "adj.",
+    "head_meanings": [
+      "서투른",
+      "미숙한",
+      "버릇없는",
+      "눈치 없는",
+      "무뚝뚝한",
+      "투박스러운"
+    ],
+    "synonyms_from_image": [
+      {"word": "bungling", "note": "서투른→일을 망치는"},
+      {"word": "maladroit", "note": "서투른→솜씨 없는"},
+      {"word": "ignorant", "note": "무지한→매너를 모르는"},
+      {"word": "awkward", "note": "어색한→서투른"},
+      {"word": "tactless", "note": "눈치 없는→무신경한"}
+    ],
+    "tips": [
+      "프랑스어 gauche(왼쪽)→왼손잡이 = 서투른.",
+      "사회적으로 서투르고 어색한 느낌."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "gauge",
+    "pos": "n./v.",
+    "head_meanings": [
+      "치수",
+      "양 등을 측정하다",
+      "재다",
+      "평가(판단)하다",
+      "표준(치수)에 맞추다",
+      "규격",
+      "평가(판단 등의) 기준",
+      "방법",
+      "수단",
+      "용적",
+      "용량",
+      "범위",
+      "한도",
+      "계기(계량)",
+      "계측기"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "측정 도구/기준.",
+      "gauge the situation = 상황을 가늠하다."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "gaunt",
+    "pos": "adj.",
+    "head_meanings": [
+      "몹시 야윈",
+      "수척한",
+      "(장소가) 황량한",
+      "쓸쓸한",
+      "무시무시한"
+    ],
+    "synonyms_from_image": [
+      {"word": "lanky", "note": "호리호리한→마른"},
+      {"word": "skinny", "note": "빼빼 마른"},
+      {"word": "bony", "note": "뼈만 앙상한"},
+      {"word": "slender", "note": "날씬한→가냘픈"},
+      {"word": "deserted", "note": "버려진→황량한"},
+      {"word": "barren", "note": "황량한→메마른"},
+      {"word": "bleak", "note": "황량한→쓸쓸한"},
+      {"word": "desolate", "note": "황폐한→적막한"}
+    ],
+    "tips": [
+      "병이나 기아로 뼈만 남은 이미지.",
+      "gaunt face = 수척한 얼굴."
+    ]
+  },
+  {
+    "id": "018",
+    "word": "genealogy",
+    "pos": "n.",
+    "head_meanings": [
+      "가계",
+      "혈통",
+      "족보연구",
+      "계보"
+    ],
+    "synonyms_from_image": [
+      {"word": "parentage", "note": "가계→부모/혈통"},
+      {"word": "pedigree", "note": "혈통→가문의 계보"},
+      {"word": "extraction", "note": "출신→가문의 유래"},
+      {"word": "derivation", "note": "유래→기원"},
+      {"word": "ancestry", "note": "조상→가계"}
+    ],
+    "tips": [
+      "`gene-`(태어남) + `logy`(학문)→가계를 연구하는 학문 = 족보학.",
+      "pedigree와 세트로 외워둬."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "generality",
+    "pos": "n.",
+    "head_meanings": [
+      "일반성",
+      "일반적인 것",
+      "보편성",
+      "일반론",
+      "개괄",
+      "개론",
+      "개설",
+      "총칙",
+      "큰 개론",
+      "총론",
+      "대수",
+      "과반수",
+      "대반",
+      "태반"
+    ],
+    "synonyms_from_image": [
+      {"word": "truism", "note": "자명한 이치→뻔한 일반론"},
+      {"word": "abstraction", "note": "추상→구체적이지 않은 일반론"},
+      {"word": "extrapolation", "note": "추정→일반화"},
+      {"word": "universality", "note": "보편성"},
+      {"word": "all-inclusiveness", "note": "전부 포함→포괄성"},
+      {"word": "broadness", "note": "폭넓음→일반성"},
+      {"word": "majority", "note": "다수→대부분"}
+    ],
+    "tips": [
+      "general + ity.",
+      "GRE에서 '막연한 일반론/추상적 진술' 뜻으로 자주 나와."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "generic",
+    "pos": "adj.",
+    "head_meanings": [
+      "일반적인",
+      "표준적인",
+      "총칭적인",
+      "속의",
+      "속성의"
+    ],
+    "synonyms_from_image": [
+      {"word": "inclusive", "note": "포괄적인→전부 포함하는"},
+      {"word": "all-encompassing", "note": "모든 것을 아우르는"},
+      {"word": "general", "note": "일반적인"},
+      {"word": "sweeping", "note": "광범위한→포괄적인"},
+      {"word": "blanket", "note": "일괄적인→전면적인"},
+      {"word": "comprehensive", "note": "포괄적인→종합적인"},
+      {"word": "broad", "note": "넓은→포괄적인"},
+      {"word": "common", "note": "흔한→일반적인"},
+      {"word": "nonexclusive", "note": "배타적이지 않은→일반적인"},
+      {"word": "unspecific", "note": "구체적이지 않은→일반적인"},
+      {"word": "indefinite", "note": "불특정한→막연한"},
+      {"word": "universal", "note": "보편적인"},
+      {"word": "collective", "note": "집합적인→총칭적인"}
+    ],
+    "tips": [
+      "`gen-`(종류) + eric → 종류 전체에 해당하는 = 일반적인.",
+      "generic drug = 일반명 약품(복제약)."
+    ]
+  },
+  {
+    "id": "021",
+    "word": "genesis",
+    "pos": "n.",
+    "head_meanings": [
+      "기원",
+      "발생",
+      "창시"
+    ],
+    "synonyms_from_image": [
+      {"word": "commencement", "note": "시작→출발점"},
+      {"word": "inception", "note": "시초→시작"},
+      {"word": "creation", "note": "창조→탄생"},
+      {"word": "birth", "note": "탄생→시작"},
+      {"word": "root", "note": "뿌리→근원"},
+      {"word": "rise", "note": "일어남→발생"}
+    ],
+    "tips": [
+      "그리스어 genesis(기원/탄생).",
+      "성경의 창세기 = Genesis!"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "genial",
+    "pos": "adj.",
+    "head_meanings": [
+      "친절한",
+      "다정한",
+      "상냥한",
+      "날씨 등이 온화한",
+      "쾌적한"
+    ],
+    "synonyms_from_image": [
+      {"word": "friendly", "note": "다정한→친근한"},
+      {"word": "affable", "note": "상냥한→붙임성 있는"},
+      {"word": "cordial", "note": "진심 어린→따뜻한"},
+      {"word": "amiable", "note": "상냥한→호감 가는"},
+      {"word": "sympathetic", "note": "공감하는→동정적인"},
+      {"word": "good-natured", "note": "성격이 좋은→선량한"},
+      {"word": "hospitable", "note": "손님을 잘 대접하는"},
+      {"word": "comradely", "note": "동지적인→친근한"},
+      {"word": "sociable", "note": "사교적인→잘 어울리는"},
+      {"word": "convivial", "note": "쾌활한→즐겁게 어울리는"},
+      {"word": "gregarious", "note": "사교적인→무리 짓기 좋아하는"}
+    ],
+    "tips": [
+      "`gen-`(태어남)→타고난 좋은 성품→친절한/다정한.",
+      "genial smile = 다정한 미소."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "geniality",
+    "pos": "n.",
+    "head_meanings": [
+      "친절",
+      "다정",
+      "상냥함",
+      "쾌적"
+    ],
+    "synonyms_from_image": [
+      {"word": "friendliness", "note": "다정함→친근함"},
+      {"word": "cordiality", "note": "진심 어린 따뜻함"},
+      {"word": "good nature", "note": "선량한 성품"},
+      {"word": "hospitality", "note": "환대→손님 접대"},
+      {"word": "sociability", "note": "사교성→잘 어울림"}
+    ],
+    "tips": [
+      "genial + ity = 친절함/다정함.",
+      "genial의 명사형이야."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "genteel",
+    "pos": "adj.",
+    "head_meanings": [
+      "기분이 좋은",
+      "예의 바른",
+      "품위 있는",
+      "우아한",
+      "멋진",
+      "점잖은"
+    ],
+    "synonyms_from_image": [
+      {"word": "chic", "note": "세련된→멋스러운"},
+      {"word": "decorous", "note": "예절 바른→격식 있는"},
+      {"word": "mannerly", "note": "예의 바른"},
+      {"word": "courteous", "note": "정중한→예의 있는"},
+      {"word": "polite", "note": "공손한"},
+      {"word": "proper", "note": "올바른→격식에 맞는"},
+      {"word": "seemly", "note": "적절한→예의에 맞는"},
+      {"word": "refined", "note": "세련된→교양 있는"},
+      {"word": "noble", "note": "고귀한→품위 있는"},
+      {"word": "stylish", "note": "세련된→멋스러운"},
+      {"word": "cultured", "note": "교양 있는→세련된"},
+      {"word": "dignified", "note": "위엄 있는→품격 있는"},
+      {"word": "gracious", "note": "우아한→상냥한"},
+      {"word": "affable", "note": "상냥한→붙임성 있는"}
+    ],
+    "tips": [
+      "gentle과 같은 뿌리→품위 있는.",
+      "때로 '점잔 빼는/겉치레의' 부정적 뉘앙스도 있어."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "gentility",
+    "pos": "n.",
+    "head_meanings": [
+      "명문 태생",
+      "상류 사회",
+      "양반티",
+      "교양함"
+    ],
+    "synonyms_from_image": [
+      {"word": "decorousness", "note": "예절 바름→격식 있는 태도"},
+      {"word": "nobility", "note": "고귀함→귀족적 품위"},
+      {"word": "chivalry", "note": "기사도→고상한 매너"},
+      {"word": "gallantry", "note": "용맹함→고결한 태도"}
+    ],
+    "tips": [
+      "gentle + ity = 교양/품위.",
+      "genteel의 명사형."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "gentry",
+    "pos": "n.",
+    "head_meanings": [
+      "귀족 다음가는 계급의 사람들",
+      "상류 사회",
+      "신사 계급"
+    ],
+    "synonyms_from_image": [
+      {"word": "aristocracy", "note": "귀족→상류 계급"},
+      {"word": "elite", "note": "엘리트→특권 계층"},
+      {"word": "gentlefolk", "note": "상류층→점잔은 사람들"},
+      {"word": "nobility", "note": "귀족→상류 계급"}
+    ],
+    "tips": [
+      "gentle + ry = 상류 계급.",
+      "영국에서 귀족(nobility) 바로 아래 계급이야."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "genuine",
+    "pos": "adj.",
+    "head_meanings": [
+      "진짜의",
+      "성실한",
+      "진심의",
+      "거짓없는",
+      "참된",
+      "(혈통적으로) 순수한",
+      "순종의"
+    ],
+    "synonyms_from_image": [
+      {"word": "authentic", "note": "진짜의→정품인"},
+      {"word": "bona fide", "note": "진정한→선의의"},
+      {"word": "verifiable", "note": "검증 가능한→진짜인"},
+      {"word": "undisputed", "note": "논란 없는→확실한"},
+      {"word": "sincere", "note": "진심의→거짓 없는"},
+      {"word": "honest", "note": "정직한→솔직한"},
+      {"word": "straightforward", "note": "솔직한→직설적인"},
+      {"word": "frank", "note": "솔직한→거리낌 없는"},
+      {"word": "candid", "note": "솔직한→숨김없는"},
+      {"word": "artless", "note": "꾸밈없는→순진한"},
+      {"word": "unaffected", "note": "꾸밈없는→자연스러운"}
+    ],
+    "tips": [
+      "라틴어 genuinus(타고난)→진짜의/진심의.",
+      "GRE에서 자주 나와!"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "germane",
+    "pos": "adj.",
+    "head_meanings": [
+      "밀접한 관계가 있는",
+      "적절한"
+    ],
+    "synonyms_from_image": [
+      {"word": "related", "note": "관련된"},
+      {"word": "relevant", "note": "적절한→관련 있는"},
+      {"word": "applicable", "note": "적용 가능한→해당하는"},
+      {"word": "connected", "note": "연결된→관련된"},
+      {"word": "apropos", "note": "적절한→시의적절한"},
+      {"word": "suitable", "note": "적합한→알맞은"}
+    ],
+    "tips": [
+      "german(같은 부모의)→밀접한 관계가 있는 = 적절한.",
+      "GRE 고빈도! relevant의 고급 동의어야."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "germinal",
+    "pos": "adj.",
+    "head_meanings": [
+      "창의적인",
+      "처음의",
+      "원시의",
+      "본질의",
+      "근원의",
+      "어린 싹의",
+      "배종의",
+      "배의",
+      "유아의",
+      "(발달의) 초기 단계의",
+      "미발달의"
+    ],
+    "synonyms_from_image": [
+      {"word": "original", "note": "최초의→근원적인"},
+      {"word": "initial", "note": "처음의→초기의"},
+      {"word": "inaugural", "note": "취임의→최초의"},
+      {"word": "fundamental", "note": "근본적인→본질적인"},
+      {"word": "essential", "note": "본질적인→핵심적인"}
+    ],
+    "tips": [
+      "`germ`(씨앗) + inal → 씨앗 단계의 = 초기의/근원적인.",
+      "germinal idea = 싹이 될 아이디어."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "germinate",
+    "pos": "v.",
+    "head_meanings": [
+      "싹이 트다",
+      "싹트게 하다",
+      "자라기 시작하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "grow", "note": "자라다"},
+      {"word": "increase", "note": "증가하다→자라나다"},
+      {"word": "develop", "note": "발달하다→싹트다"},
+      {"word": "vegetate", "note": "식물이 자라다"},
+      {"word": "generate", "note": "발생시키다→생겨나게 하다"},
+      {"word": "burgeon", "note": "싹트다→급성장하다"}
+    ],
+    "tips": [
+      "`germ`(씨앗) + inate → 씨앗에서 싹트다.",
+      "burgeon과 세트로 외워둬."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "ghastly",
+    "pos": "adj.",
+    "head_meanings": [
+      "무서운",
+      "소름이 끼칠 듯한",
+      "유령 같은",
+      "아주 창백한"
+    ],
+    "synonyms_from_image": [
+      {"word": "terrible", "note": "끔찍한→무서운"},
+      {"word": "hideous", "note": "흉측한→보기 끔찍한"},
+      {"word": "gruesome", "note": "섬뜩한→소름끼치는"},
+      {"word": "ugly", "note": "추한→보기 싫은"},
+      {"word": "spectral", "note": "유령 같은→섬뜩한"},
+      {"word": "colorless", "note": "핏기 없는→창백한"},
+      {"word": "deathly", "note": "죽은 듯한→극도로 창백한"},
+      {"word": "wan", "note": "창백한→핏기 없는"},
+      {"word": "pasty", "note": "창백한→얼굴이 하얀"}
+    ],
+    "tips": [
+      "ghost(유령)에서 파생→유령 같은→소름끼치는/창백한.",
+      "ghastly pale = 유령처럼 창백한."
+    ]
+  },
+  {
+    "id": "032",
+    "word": "gibber",
+    "pos": "v.",
+    "head_meanings": [
+      "뜻 모를 말을 지껄이다",
+      "영문 모를 말을 빨리 지껄이다",
+      "시시한 허튼 소리",
+      "종잡을 수 없는 말"
+    ],
+    "synonyms_from_image": [
+      {"word": "chatter", "note": "지껄이다→빠르게 말하다"}
+    ],
+    "tips": [
+      "무의미한 말을 빠르게 중얼거리는 소리.",
+      "gibberish(횡설수설)의 어원이야."
+    ]
+  },
+  {
+    "id": "033",
+    "word": "gibe",
+    "pos": "n./v.",
+    "head_meanings": [
+      "놀려대다",
+      "비웃다",
+      "우롱하다",
+      "조롱하다",
+      "웃음거리로 만들다",
+      "빈정",
+      "조롱",
+      "우롱"
+    ],
+    "synonyms_from_image": [
+      {"word": "jibe", "note": "비아냥거리다→조롱"},
+      {"word": "jeer", "note": "야유하다→조롱하다"},
+      {"word": "taunt", "note": "놀리다→도발적으로 놀림"},
+      {"word": "scoff", "note": "비웃다→조소하다"},
+      {"word": "sneer", "note": "비웃다→냉소하다"},
+      {"word": "insult", "note": "모욕하다"},
+      {"word": "barb", "note": "가시→날카로운 비꼼"},
+      {"word": "mock", "note": "조롱하다→흉내내며 비웃다"}
+    ],
+    "tips": [
+      "gibe = jibe와 같은 단어. 날카로운 조롱/비꼼.",
+      "taunt, jeer와 세트로 외워둬."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "giddy",
+    "pos": "adj.",
+    "head_meanings": [
+      "경박한",
+      "사려 없는",
+      "들떠 있는",
+      "경솔한",
+      "충동적인",
+      "변덕스러운",
+      "현기증 나는",
+      "어찔한"
+    ],
+    "synonyms_from_image": [
+      {"word": "reeling", "note": "비틀거리는→어지러운"},
+      {"word": "whirling", "note": "빙빙 도는→현기증 나는"},
+      {"word": "frivolous", "note": "경박한→가벼운"},
+      {"word": "heedless", "note": "부주의한→생각 없는"},
+      {"word": "erratic", "note": "변덕스러운→불규칙한"},
+      {"word": "flighty", "note": "변덕스러운→경솔한"},
+      {"word": "changeable", "note": "변하기 쉬운→변덕스러운"},
+      {"word": "impulsive", "note": "충동적인"},
+      {"word": "capricious", "note": "변덕스러운→기분파인"},
+      {"word": "fickle", "note": "변덕스러운→마음이 잘 변하는"}
+    ],
+    "tips": [
+      "두 뜻: 1) 현기증 나는 2) 경박한/들떠있는.",
+      "giddy with excitement = 신나서 들뜬."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "gigantic",
+    "pos": "adj.",
+    "head_meanings": [
+      "거대한",
+      "막대한",
+      "거인 같은"
+    ],
+    "synonyms_from_image": [
+      {"word": "huge", "note": "거대한→매우 큰"},
+      {"word": "enormous", "note": "막대한→엄청나게 큰"},
+      {"word": "colossal", "note": "거대한→압도적으로 큰"},
+      {"word": "immense", "note": "광대한→엄청난"},
+      {"word": "massive", "note": "육중한→거대한"},
+      {"word": "vast", "note": "광활한→매우 넓은"},
+      {"word": "mammoth", "note": "매머드 같은→거대한"}
+    ],
+    "tips": [
+      "giant(거인) + ic → 거인 같은 = 거대한.",
+      "gargantuan, colossal과 세트."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "gingerly",
+    "pos": "adv./adj.",
+    "head_meanings": [
+      "아주 조심스럽게",
+      "아주 신중하게"
+    ],
+    "synonyms_from_image": [
+      {"word": "discreetly", "note": "신중하게→조심스럽게"},
+      {"word": "cautiously", "note": "조심스럽게→주의 깊게"},
+      {"word": "warily", "note": "경계하며→조심스럽게"},
+      {"word": "prudently", "note": "신중하게→분별 있게"},
+      {"word": "heedfully", "note": "주의 깊게→신경 써서"}
+    ],
+    "tips": [
+      "어원 불명. 살금살금 조심스럽게 다루는 느낌.",
+      "gingerly open = 조심스럽게 열다."
+    ]
+  },
+  {
+    "id": "037",
+    "word": "gist",
+    "pos": "n.",
+    "head_meanings": [
+      "(논문일 따위의) 요점",
+      "요지",
+      "골자",
+      "본질"
+    ],
+    "synonyms_from_image": [
+      {"word": "content", "note": "내용→핵심 내용"},
+      {"word": "sum", "note": "총합→핵심 요약"},
+      {"word": "substance", "note": "본질→실질적 내용"}
+    ],
+    "tips": [
+      "프랑스 법률 용어 '핵심 쟁점'에서 왔어.",
+      "get the gist = 요점을 파악하다."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "glacial",
+    "pos": "adj.",
+    "head_meanings": [
+      "빙하의",
+      "빙원의",
+      "몹시 추운",
+      "얼음처럼 쌀쌀한",
+      "냉담한",
+      "태도나 눈빛이 차가운"
+    ],
+    "synonyms_from_image": [
+      {"word": "frigid", "note": "극한의→몹시 추운"},
+      {"word": "icy", "note": "얼음 같은→차가운"}
+    ],
+    "tips": [
+      "glacier(빙하) + al → 빙하의→몹시 추운/냉담한.",
+      "glacial pace = 빙하처럼 느린 속도."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "glance",
+    "pos": "v./n.",
+    "head_meanings": [
+      "언뜻 보다",
+      "흘끗 보다",
+      "(at~) 대충 훑어보다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "잠깐 흘끗 보다.",
+      "at first glance = 언뜻 보기에."
+    ]
+  },
+  {
+    "id": "040",
+    "word": "glaring",
+    "pos": "adj.",
+    "head_meanings": [
+      "눈에 잘 띄는",
+      "아주 명백한",
+      "틀림없는",
+      "몹시 눈부신",
+      "화려한",
+      "야한",
+      "(눈이) 노려보는",
+      "쏘아보는"
+    ],
+    "synonyms_from_image": [
+      {"word": "prominent", "note": "두드러진→눈에 잘 띄는"},
+      {"word": "patent", "note": "명백한→누가 봐도 뻔한"},
+      {"word": "gaudy", "note": "야한→촌스럽게 화려한"},
+      {"word": "flashy", "note": "번쩍이는→화려한"},
+      {"word": "obvious", "note": "명백한→분명한"},
+      {"word": "blatant", "note": "노골적인→뻔뻔하게 드러나는"}
+    ],
+    "tips": [
+      "glare(번쩍임/노려봄) + ing → 눈에 확 띄는 = 아주 명백한.",
+      "glaring error = 명백한 실수."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "glean",
+    "pos": "v.",
+    "head_meanings": [
+      "이삭을 줍다",
+      "주워모으다",
+      "(사실·정보 따위)를 모으다",
+      "수집하다"
+    ],
+    "synonyms_from_image": [
+      {"word": "collect", "note": "수집하다→모으다"},
+      {"word": "obtain", "note": "얻다→입수하다"},
+      {"word": "garner", "note": "모으다→축적하다"},
+      {"word": "gather", "note": "모으다→수집하다"},
+      {"word": "harvest", "note": "수확하다→거두다"},
+      {"word": "reap", "note": "거두다→수확하다"},
+      {"word": "get", "note": "얻다→구하다"},
+      {"word": "amass", "note": "축적하다→대량으로 모으다"},
+      {"word": "cull", "note": "골라내다→선별해 모으다"}
+    ],
+    "tips": [
+      "원래 추수 후 이삭을 줍다→조금씩 정보를 모으다.",
+      "GRE 고빈도!"
+    ]
+  },
+  {
+    "id": "042",
+    "word": "glee",
+    "pos": "n.",
+    "head_meanings": [
+      "큰 기쁨",
+      "환희",
+      "고소해 하기"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "gleeful = 기뻐하는.",
+      "glee = 남의 불행에 고소해하는 기쁨 뉘앙스도 있어."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "glib",
+    "pos": "adj.",
+    "head_meanings": [
+      "입심 좋은",
+      "말로만 조잘거리는",
+      "유창한",
+      "경박한"
+    ],
+    "synonyms_from_image": [
+      {"word": "eloquent", "note": "웅변적인→말을 잘하는"},
+      {"word": "talkative", "note": "수다스러운→말이 많은"},
+      {"word": "gabby", "note": "수다스러운→재잘거리는"},
+      {"word": "voluble", "note": "유창한→말이 거침없는"}
+    ],
+    "tips": [
+      "GRE 함정! '유창한'이 아니라 '입만 번드르르한/피상적으로 유창한'이 핵심.",
+      "glib answer = 겉핥기식 대답."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "glimmer",
+    "pos": "n./v.",
+    "head_meanings": [
+      "희미하게 빛나다",
+      "깜박거리다",
+      "명멸하다",
+      "가물하다",
+      "희미하게 나타나다",
+      "어렴풋한 이해",
+      "암시",
+      "소량"
+    ],
+    "synonyms_from_image": [
+      {"word": "shimmer", "note": "미광→미세하게 반짝이다"},
+      {"word": "flicker", "note": "깜박임→불안정하게 빛나다"},
+      {"word": "gleam", "note": "미광→은은하게 빛나다"}
+    ],
+    "tips": [
+      "a glimmer of hope = 한 줄기 희망의 빛.",
+      "shimmer, flicker와 세트로 외워둬."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "gloat",
+    "pos": "v.",
+    "head_meanings": [
+      "자못 만족스럽게 기쁜 뜻이",
+      "기분 좋은 뜻이",
+      "보란 듯이 바라보다",
+      "흐뭇해 하다",
+      "남의 불행 등을 고소한 듯이 바라보다",
+      "만족해 함",
+      "고소해 함"
+    ],
+    "synonyms_from_image": [
+      {"word": "delight", "note": "기뻐하다→만족스러워하다"},
+      {"word": "revel", "note": "즐기다→만끽하다"},
+      {"word": "rejoice", "note": "기뻐하다→환호하다"},
+      {"word": "exult", "note": "크게 기뻐하다→의기양양해하다"},
+      {"word": "crow", "note": "자랑하다→기고만장하다"},
+      {"word": "boast", "note": "자랑하다"},
+      {"word": "brag", "note": "뽐내다→허풍"},
+      {"word": "vaunt", "note": "자랑하다→과시하다"}
+    ],
+    "tips": [
+      "gloat over someone's failure = 남의 실패를 고소해하다.",
+      "schadenfreude(남의 불행에 느끼는 기쁨)와 비슷한 느낌."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "gloomy",
+    "pos": "adj.",
+    "head_meanings": [
+      "우울한",
+      "침울한",
+      "음침한",
+      "어두운",
+      "울적하게 하는",
+      "희망이 없는",
+      "비관적인"
+    ],
+    "synonyms_from_image": [
+      {"word": "lugubrious", "note": "비통한→지나치게 슬퍼하는"},
+      {"word": "depressed", "note": "우울한→기가 죽은"},
+      {"word": "sad", "note": "슬픈"},
+      {"word": "melancholy", "note": "우울한→깊은 슬픔"},
+      {"word": "sorrowful", "note": "슬픈→비탄에 잠긴"},
+      {"word": "despondent", "note": "낙담한→절망적인"},
+      {"word": "downcast", "note": "풀이 죽은→침울한"},
+      {"word": "dispirited", "note": "기가 꺾인→의기소침한"},
+      {"word": "blue", "note": "우울한→울적한"},
+      {"word": "saddening", "note": "슬프게 하는"},
+      {"word": "distressing", "note": "괴롭히는→고통스러운"},
+      {"word": "somber", "note": "침울한→어두운"},
+      {"word": "disappointing", "note": "실망스러운"},
+      {"word": "hopeless", "note": "희망 없는→절망적인"},
+      {"word": "disheartening", "note": "낙담시키는→의욕을 꺾는"},
+      {"word": "overcast", "note": "흐린→어두운"},
+      {"word": "dull", "note": "칙칙한→무미건조한"},
+      {"word": "dim", "note": "어두운→흐릿한"},
+      {"word": "shadowy", "note": "그늘진→어두운"},
+      {"word": "dismal", "note": "음울한→암울한"},
+      {"word": "dark", "note": "어두운→암울한"},
+      {"word": "cloudy", "note": "흐린→우울한"}
+    ],
+    "tips": [
+      "gloom(어둠) + y → 어두운→우울한.",
+      "GRE에서 자주 나와! somber, dismal과 세트."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "gloss (over)",
+    "pos": "v./n.",
+    "head_meanings": [
+      "그럴싸하게 설명하다",
+      "억지 해석을 내리다",
+      "둘러대다",
+      "그럴듯한 말로 얼버무리다",
+      "광택(을) 내다",
+      "주석을 달다",
+      "주해하다",
+      "통하게 설명하다",
+      "주석",
+      "주해",
+      "해설",
+      "어휘",
+      "해석",
+      "걸치레",
+      "허영",
+      "그럴듯한 구실"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "두 뜻: 1) 광택 2) gloss over = 얼버무리다/감추다.",
+      "GRE에선 2번이 핵심!"
+    ]
+  },
+  {
+    "id": "048",
+    "word": "glossary",
+    "pos": "n.",
+    "head_meanings": [
+      "용어 사전",
+      "어휘",
+      "용어 해설"
+    ],
+    "synonyms_from_image": [
+      {"word": "dictionary", "note": "사전"},
+      {"word": "interpretation", "note": "해설→해석"},
+      {"word": "lexicon", "note": "어휘집→사전"},
+      {"word": "wordbook", "note": "단어집"},
+      {"word": "thesaurus", "note": "유의어 사전"}
+    ],
+    "tips": [
+      "`gloss`(해설) + ary → 해설 모음집 = 용어 사전.",
+      "책 뒤에 붙는 용어 해설이 glossary야."
+    ]
+  },
+  {
+    "id": "049",
+    "word": "glum",
+    "pos": "adj.",
+    "head_meanings": [
+      "시무룩한",
+      "침울한",
+      "울죽은",
+      "무뚝뚝한",
+      "기분이 좋지 않은"
+    ],
+    "synonyms_from_image": [
+      {"word": "gloomy", "note": "우울한→침울한"},
+      {"word": "morose", "note": "침울한→무뚝뚝하게 우울한"},
+      {"word": "downcast", "note": "풀이 죽은→침울한"},
+      {"word": "downhearted", "note": "낙심한→기가 죽은"},
+      {"word": "dejected", "note": "낙담한→풀이 죽은"},
+      {"word": "despondent", "note": "낙담한→절망적인"},
+      {"word": "crestfallen", "note": "풀이 죽은→실망해 기가 꺾인"},
+      {"word": "disheartened", "note": "낙담한→의욕이 꺾인"},
+      {"word": "depressed", "note": "우울한→기가 죽은"},
+      {"word": "desolate", "note": "쓸쓸한→비통한"},
+      {"word": "doleful", "note": "슬픈→구슬픈"},
+      {"word": "melancholy", "note": "우울한→깊은 슬픔"},
+      {"word": "miserable", "note": "비참한→불행한"},
+      {"word": "woebegone", "note": "슬픔에 잠긴→수심 가득한"},
+      {"word": "mournful", "note": "슬퍼하는→애도하는"},
+      {"word": "forlorn", "note": "외로운→쓸쓸한"},
+      {"word": "blue", "note": "우울한→울적한"}
+    ],
+    "tips": [
+      "gloomy보다 더 '입을 다물고 시무룩한' 느낌.",
+      "glum face = 시무룩한 얼굴."
+    ]
+  },
+  {
+    "id": "050",
+    "word": "glut",
+    "pos": "n./v.",
+    "head_meanings": [
+      "배불리 먹이다",
+      "실컷 ~하다",
+      "(시장을) 공급 과다가 되게 하다",
+      "과도",
+      "과다"
+    ],
+    "synonyms_from_image": [
+      {"word": "surfeit", "note": "과잉→지나치게 많음"},
+      {"word": "stuff", "note": "채우다→배를 꽉 채우다"},
+      {"word": "gorge", "note": "게걸스럽게 먹다→폭식하다"},
+      {"word": "gluttonize", "note": "폭식하다→게걸스럽게 먹다"},
+      {"word": "satiate", "note": "포식시키다→충분히 채우다"},
+      {"word": "oversupply", "note": "과잉 공급하다"}
+    ],
+    "tips": [
+      "라틴어 gluttire(삼키다)→배불리 먹다/공급 과다.",
+      "a glut of oil = 석유 과잉."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "glutinous",
+    "pos": "adj.",
+    "head_meanings": [
+      "아교질의",
+      "점착성의",
+      "진득진득한"
+    ],
+    "synonyms_from_image": [
+      {"word": "adhesive", "note": "접착성의→달라붙는"},
+      {"word": "gluey", "note": "풀 같은→끈적끈적한"},
+      {"word": "tacky", "note": "끈적끈적한→달라붙는"},
+      {"word": "viscid", "note": "점성 있는→끈끈한"}
+    ],
+    "tips": [
+      "gluten(글루텐) + ous → 끈적끈적한.",
+      "glutinous rice = 찹쌀."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "glutton",
+    "pos": "n.",
+    "head_meanings": [
+      "대식가",
+      "열중하는 사람"
+    ],
+    "synonyms_from_image": [
+      {"word": "gormandizer", "note": "대식가→게걸스럽게 먹는 사람"},
+      {"word": "gorger", "note": "폭식하는 사람"},
+      {"word": "stuffer", "note": "배를 채우는 사람"},
+      {"word": "overeater", "note": "과식하는 사람"},
+      {"word": "trencherman", "note": "대식가→식탁의 전사"}
+    ],
+    "tips": [
+      "glutton for punishment = 고생을 사서 하는 사람.",
+      "비유적 표현으로도 자주 쓰여!"
+    ]
+  },
+  {
+    "id": "053",
+    "word": "goad",
+    "pos": "n./v.",
+    "head_meanings": [
+      "(가축 등을) 막대기로 찌르다",
+      "몰다",
+      "못살게 굴다",
+      "괴롭히다",
+      "선동하다",
+      "자극하다",
+      "격려(하다)"
+    ],
+    "synonyms_from_image": [
+      {"word": "drive", "note": "몰다→밀어붙이다"},
+      {"word": "exhort", "note": "간곡히 권하다→독려하다"},
+      {"word": "impel", "note": "떠밀다→강하게 재촉하다"},
+      {"word": "thrust", "note": "밀다→강하게 찌르다"},
+      {"word": "prod", "note": "찔러 재촉하다"},
+      {"word": "spur", "note": "박차를 가하다→자극하다"},
+      {"word": "stimulate", "note": "자극하다"},
+      {"word": "incite", "note": "선동하다→부추기다"},
+      {"word": "instigate", "note": "선동하다→꾀어 부추기다"}
+    ],
+    "tips": [
+      "가축을 모는 뾰족한 막대기→자극하다/몰아세우다.",
+      "goad someone into action = 누군가를 행동하게 몰아세우다."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "gobble",
+    "pos": "v.",
+    "head_meanings": [
+      "급하게 먹다",
+      "게걸스럽게 먹다",
+      "헐레벌떡 먹다",
+      "다 먹어치우다",
+      "통째로 삼키다",
+      "달려들다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "칠면조 울음소리 gobble gobble에서→게걸스럽게 먹다.",
+      "gobble up = 다 먹어치우다/흡수하다."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "gorge",
+    "pos": "n./v.",
+    "head_meanings": [
+      "n.) 골짜기, 협곡",
+      "v.) 게걸스럽게 먹다, 배불리 먹다"
+    ],
+    "synonyms_from_image": [
+      {"word": "chasm", "note": "깊은 틈→골짜기"},
+      {"word": "ravine", "note": "협곡→깊은 계곡"},
+      {"word": "hollow", "note": "움푹 팬 곳"},
+      {"word": "abyss", "note": "심연→깊은 골짜기"},
+      {"word": "crevasse", "note": "균열→빙하의 갈라진 틈"},
+      {"word": "fill", "note": "채우다→배를 채우다"},
+      {"word": "glut", "note": "폭식하다→배불리"},
+      {"word": "satiate", "note": "포식시키다→충분히 채우다"},
+      {"word": "overeat", "note": "과식하다"},
+      {"word": "overindulge", "note": "탐닉하다→지나치게 먹다"}
+    ],
+    "tips": [
+      "gorge = 목구멍(throat)에서 왔어.",
+      "좁은 목구멍처럼 좁은 골짜기 / 목구멍까지 꽉 채워 먹다."
+    ]
+  },
+  {
+    "id": "056",
+    "word": "gossamer",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "얇은 천 같은",
+      "얇고 가벼운",
+      "섬세한",
+      "가날픈",
+      "박약한",
+      "덧없는 것",
+      "가날픈 것"
+    ],
+    "synonyms_from_image": [
+      {"word": "smooth", "note": "매끄러운→부드러운"},
+      {"word": "thin", "note": "얇은"},
+      {"word": "transparent", "note": "투명한→비치는"},
+      {"word": "flimsy", "note": "약한→얇고 가벼운"},
+      {"word": "insubstantial", "note": "실체 없는→가벼운"}
+    ],
+    "tips": [
+      "원래 가을에 떠다니는 거미줄→극도로 가볍고 섬세한 것.",
+      "GRE 고급 어휘! gossamer wings = 투명한 날개."
+    ]
+  }
+]
