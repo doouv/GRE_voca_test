@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "001",
+    "word": "hidebound",
+    "pos": "adj.",
+    "head_meanings": [
+      "편협한",
+      "고루한",
+      "완고한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hide`(가죽) + `bound`(묶인)에서 왔어. 가죽이 꽉 조이는 느낌→융통성 없는.",
+      "원래 소의 가죽이 뼈에 딱 붙어 움직이기 힘든 상태를 묘사한 말이야.",
+      "GRE에서 narrow-minded, conservative 뉘앙스로 나와!"
+    ]
+  },
+  {
+    "id": "002",
+    "word": "highlight",
+    "pos": "v.",
+    "head_meanings": [
+      "강조하다",
+      "부각시키다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`high` + `light` = 밝게 비추다→강조하다.",
+      "형광펜으로 줄 긋는 거 생각하면 돼. 중요한 부분을 눈에 띄게!"
+    ]
+  },
+  {
+    "id": "003",
+    "word": "hilarity",
+    "pos": "n.",
+    "head_meanings": [
+      "유쾌함",
+      "폭소",
+      "흥청거림"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "hilarious(매우 웃긴)의 명사형이야.",
+      "라틴어 hilaris(쾌활한)에서 왔어. 배꼽 잡고 웃는 느낌!",
+      "GRE에서 merriment, gaiety와 비슷한 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "004",
+    "word": "hinder",
+    "pos": "v.",
+    "head_meanings": [
+      "방해하다",
+      "저해하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "고대 영어 hindrian에서 왔어. 뒤로 잡아당기다→방해하다.",
+      "hamper, impede, obstruct와 비슷한 뜻이야. GRE 동의어 문제에 자주 등장!"
+    ]
+  },
+  {
+    "id": "005",
+    "word": "hindrance",
+    "pos": "n.",
+    "head_meanings": [
+      "방해",
+      "장애물"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hinder` + `-ance` = 방해(물).",
+      "obstacle, impediment와 동의어야. without hindrance = 아무 방해 없이."
+    ]
+  },
+  {
+    "id": "006",
+    "word": "hint",
+    "pos": "n./v.",
+    "head_meanings": [
+      "암시",
+      "힌트",
+      "넌지시 말하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "hint at = ~을 암시하다. 직접 말하지 않고 돌려 말하는 거야.",
+      "drop a hint = 넌지시 알려주다. take a hint = 눈치를 채다."
+    ]
+  },
+  {
+    "id": "007",
+    "word": "historicism",
+    "pos": "n.",
+    "head_meanings": [
+      "역사주의",
+      "역사적 조건을 중시하는 이론"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`history` + `-ism` = 역사를 중심에 놓는 사상.",
+      "모든 현상을 역사적 맥락에서 이해해야 한다는 입장이야."
+    ]
+  },
+  {
+    "id": "008",
+    "word": "histrionic",
+    "pos": "adj.",
+    "head_meanings": [
+      "연극적인",
+      "과장된",
+      "호들갑스러운"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `histrio`(배우)에서 왔어. 배우처럼 과장된 감정 표현!",
+      "GRE 고빈도! theatrical, melodramatic과 비슷한 뜻이야.",
+      "histrionics(명사) = 과장된 감정 표현, 호들갑."
+    ]
+  },
+  {
+    "id": "009",
+    "word": "hitch",
+    "pos": "n./v.",
+    "head_meanings": [
+      "걸림돌",
+      "장애",
+      "묶다",
+      "걸리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "without a hitch = 아무 문제 없이. 이 표현 자주 나와!",
+      "hitchhike(히치하이크)도 여기서 왔어. 차에 '걸쳐 타다'는 느낌."
+    ]
+  },
+  {
+    "id": "010",
+    "word": "hitherto",
+    "pos": "adv.",
+    "head_meanings": [
+      "지금까지",
+      "이제까지"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hither`(이쪽으로) + `to`→이쪽까지 = 지금까지.",
+      "격식체 표현이야. GRE 지문에서 자주 보이는 부사!"
+    ]
+  },
+  {
+    "id": "011",
+    "word": "hoard",
+    "pos": "v./n.",
+    "head_meanings": [
+      "비축하다",
+      "저장하다",
+      "비축물"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`horde`(무리)와 헷갈리지 마! hoard = 저장, horde = 떼거리.",
+      "다람쥐가 도토리 모으듯 몰래 쌓아두는 이미지야."
+    ]
+  },
+  {
+    "id": "012",
+    "word": "hoarse",
+    "pos": "adj.",
+    "head_meanings": [
+      "쉰 목소리의",
+      "거친 목소리의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "감기 걸렸을 때 쉰 목소리 생각하면 돼.",
+      "horse(말)와 철자 구분! hoarse = 쉰 목소리."
+    ]
+  },
+  {
+    "id": "013",
+    "word": "hoary",
+    "pos": "adj.",
+    "head_meanings": [
+      "백발의",
+      "희끗희끗한",
+      "아주 오래된"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hoar`(서리 내린 듯 흰) + `-y`→흰 머리의→아주 오래된.",
+      "hoary joke = 아주 오래된(진부한) 농담. 나이 든 느낌과 연결!"
+    ]
+  },
+  {
+    "id": "014",
+    "word": "hoax",
+    "pos": "n./v.",
+    "head_meanings": [
+      "속임수",
+      "장난",
+      "속이다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "사람들을 속이는 거짓말이나 장난이야. prank보다 더 심각한 느낌.",
+      "hoax call = 장난 전화. 가짜 뉴스도 hoax라고 해."
+    ]
+  },
+  {
+    "id": "015",
+    "word": "hobble",
+    "pos": "v.",
+    "head_meanings": [
+      "절뚝거리다",
+      "방해하다",
+      "구속하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "다리를 묶어 움직이기 어렵게 하다→방해하다.",
+      "말의 다리를 묶는 것도 hobble이야. 비유적으로 '발목을 잡다' 느낌."
+    ]
+  },
+  {
+    "id": "016",
+    "word": "hodgepodge",
+    "pos": "n.",
+    "head_meanings": [
+      "뒤죽박죽",
+      "잡동사니"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hodge` + `podge` = 이것저것 섞인 것. 영국식으로는 hotchpotch.",
+      "GRE 어휘! mishmash, jumble과 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "017",
+    "word": "hoist",
+    "pos": "v.",
+    "head_meanings": [
+      "들어올리다",
+      "올리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "깃발이나 무거운 것을 끌어올리는 이미지야.",
+      "hoist the flag = 깃발을 올리다. 크레인으로 들어올리는 느낌!"
+    ]
+  },
+  {
+    "id": "018",
+    "word": "holistic",
+    "pos": "adj.",
+    "head_meanings": [
+      "전체론적인",
+      "총체적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`whole`(전체)과 같은 뿌리야. holistic approach = 총체적 접근.",
+      "부분이 아니라 전체를 보는 관점. 의학에서도 holistic medicine이라고 해."
+    ]
+  },
+  {
+    "id": "019",
+    "word": "hollow",
+    "pos": "adj.",
+    "head_meanings": [
+      "텅 빈",
+      "공허한",
+      "실속 없는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "hollow promise = 속 빈 약속. hollow victory = 허무한 승리.",
+      "물리적으로 '속이 빈' 것에서 비유적으로 '내용 없는, 공허한'으로 확장됐어."
+    ]
+  },
+  {
+    "id": "020",
+    "word": "homage",
+    "pos": "n.",
+    "head_meanings": [
+      "경의",
+      "존경",
+      "헌사"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "pay homage to = ~에 경의를 표하다. 프랑스어에서 온 말이야.",
+      "영화나 음악에서 '오마주'라고 하는 게 바로 이 단어!"
+    ]
+  },
+  {
+    "id": "021",
+    "word": "home in on",
+    "pos": "v.",
+    "head_meanings": [
+      "~에 초점을 맞추다",
+      "~을 향해 나아가다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "미사일이 목표를 향해 날아가듯→집중하다.",
+      "hone in on이라고 쓰는 사람도 있지만 원래는 home in on이 정확해!"
+    ]
+  },
+  {
+    "id": "022",
+    "word": "homeostasis",
+    "pos": "n.",
+    "head_meanings": [
+      "항상성",
+      "내적 균형 상태"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`homeo-`(같은) + `stasis`(정지) = 같은 상태 유지.",
+      "체온 36.5도 유지하는 것처럼, 몸이 일정한 상태를 유지하려는 성질이야."
+    ]
+  },
+  {
+    "id": "023",
+    "word": "homily",
+    "pos": "n.",
+    "head_meanings": [
+      "설교",
+      "도덕적 훈계"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "교회 설교에서 출발→길고 지루한 잔소리 뉘앙스도 있어.",
+      "sermon과 비슷하지만 homily는 좀 더 '일상적 도덕 훈계' 느낌."
+    ]
+  },
+  {
+    "id": "024",
+    "word": "homogeneous",
+    "pos": "adj.",
+    "head_meanings": [
+      "동질적인",
+      "균일한",
+      "같은 종류의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`homo-`(같은) + `gen-`(종류) = 같은 종류의.",
+      "heterogeneous(이질적인)의 반의어! GRE에서 쌍으로 외워두면 좋아."
+    ]
+  },
+  {
+    "id": "025",
+    "word": "hone",
+    "pos": "v.",
+    "head_meanings": [
+      "갈다",
+      "날카롭게 하다",
+      "연마하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "hone one's skills = 기술을 연마하다. 칼을 가는 이미지에서 확장된 뜻.",
+      "숫돌(hone)에 칼을 갈아 날카롭게 만드는 거야."
+    ]
+  },
+  {
+    "id": "026",
+    "word": "honorific",
+    "pos": "adj./n.",
+    "head_meanings": [
+      "경의를 표하는",
+      "존칭"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`honor` + `-ific` = 명예를 주는.",
+      "Mr., Dr., Professor 같은 존칭이 honorific이야."
+    ]
+  },
+  {
+    "id": "027",
+    "word": "hoodwink",
+    "pos": "v.",
+    "head_meanings": [
+      "속이다",
+      "기만하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hood`(두건) + `wink`(눈) → 두건으로 눈을 가리다 = 속이다.",
+      "deceive, dupe, bamboozle와 비슷한 뜻이야. 재미있는 어원!"
+    ]
+  },
+  {
+    "id": "028",
+    "word": "horde",
+    "pos": "n.",
+    "head_meanings": [
+      "떼",
+      "군중",
+      "무리"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hoard`(비축)와 철자 구분! horde = 떼거리, hoard = 저장.",
+      "몽골의 Golden Horde(황금 군단)에서 유래한 말이야."
+    ]
+  },
+  {
+    "id": "029",
+    "word": "hortatory",
+    "pos": "adj.",
+    "head_meanings": [
+      "훈계의",
+      "권고하는",
+      "충고하는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `hortari`(격려하다)에서 왔어. exhort와 같은 뿌리!",
+      "GRE 고급 어휘! hortatory speech = 권고하는 연설."
+    ]
+  },
+  {
+    "id": "030",
+    "word": "hospitable",
+    "pos": "adj.",
+    "head_meanings": [
+      "환대하는",
+      "손님을 잘 접대하는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hospital`과 같은 뿌리야. 손님을 돌보는 느낌.",
+      "inhospitable = 환대하지 않는, 살기 힘든(환경)."
+    ]
+  },
+  {
+    "id": "031",
+    "word": "hover",
+    "pos": "v.",
+    "head_meanings": [
+      "맴돌다",
+      "배회하다",
+      "머뭇거리다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "헬리콥터처럼 한 곳에 떠 있는 이미지야.",
+      "hover around = 주위를 맴돌다. 마우스 커서를 올려놓는 것도 hover!"
+    ]
+  },
+  {
+    "id": "032",
+    "word": "hubbub",
+    "pos": "n.",
+    "head_meanings": [
+      "소란",
+      "시끄러운 혼란",
+      "떠들썩함"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "의성어에서 온 말이야. 시장바닥 같은 소란을 떠올려 봐.",
+      "commotion, tumult, uproar와 비슷한 뜻!"
+    ]
+  },
+  {
+    "id": "033",
+    "word": "hubris",
+    "pos": "n.",
+    "head_meanings": [
+      "오만",
+      "자만",
+      "교만"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스 비극의 핵심 개념! 신에게 도전하는 과도한 자만심이야.",
+      "GRE 고빈도! arrogance보다 더 강한, 파멸을 부르는 오만함.",
+      "이카루스가 태양에 너무 가까이 날아간 게 hubris의 대표적 예시."
+    ]
+  },
+  {
+    "id": "034",
+    "word": "hue",
+    "pos": "n.",
+    "head_meanings": [
+      "색조",
+      "색깔",
+      "빛깔"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "hue and cry = 항의의 함성(별도 숙어). 이건 따로 외워야 해!",
+      "shade, tint, tone과 비슷하지만 hue는 색의 기본 속성을 가리켜."
+    ]
+  },
+  {
+    "id": "035",
+    "word": "hue and cry",
+    "pos": "n.",
+    "head_meanings": [
+      "항의의 함성",
+      "시끄러운 항의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "중세 범인 추적 시 외치던 소리에서 유래했어.",
+      "지금은 '강력한 대중적 항의'라는 뜻으로 쓰여. raise a hue and cry = 강력히 항의하다."
+    ]
+  },
+  {
+    "id": "036",
+    "word": "humane",
+    "pos": "adj.",
+    "head_meanings": [
+      "인도적인",
+      "자비로운",
+      "인정 있는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`human`(인간) + `-e`→인간다운 = 자비로운.",
+      "GRE에서 human(인간의)과 humane(인도적인) 구별이 중요해!"
+    ]
+  },
+  {
+    "id": "037",
+    "word": "humanity",
+    "pos": "n.",
+    "head_meanings": [
+      "인간애",
+      "인도주의",
+      "자비심"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "humane의 명사형이기도 하고, 인류 전체를 가리키기도 해.",
+      "the humanities = 인문학. crimes against humanity = 반인도적 범죄."
+    ]
+  },
+  {
+    "id": "038",
+    "word": "humble",
+    "pos": "adj./v.",
+    "head_meanings": [
+      "겸손한",
+      "비천한",
+      "겸허하게 만들다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `humilis`(낮은, `humus` = 땅)→땅에 가까운 = 겸손한.",
+      "humble pie = 굴욕을 당하다(eat humble pie). humble beginnings = 비천한 출신."
+    ]
+  },
+  {
+    "id": "039",
+    "word": "humdrum",
+    "pos": "adj.",
+    "head_meanings": [
+      "단조로운",
+      "지루한",
+      "따분한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hum`(윙윙) + `drum`(북)→윙윙 북소리처럼 단조로운.",
+      "monotonous, tedious와 동의어. 매일 같은 일상의 지루함!"
+    ]
+  },
+  {
+    "id": "040",
+    "word": "humid",
+    "pos": "adj.",
+    "head_meanings": [
+      "습한",
+      "눅눅한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "humidity = 습도. 한국 여름 딱 그 느낌이야.",
+      "라틴어 `humidus`(축축한)에서 왔어. humidifier = 가습기."
+    ]
+  },
+  {
+    "id": "041",
+    "word": "humiliate",
+    "pos": "v.",
+    "head_meanings": [
+      "모욕하다",
+      "창피를 주다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`humble`과 같은 뿌리야. 남을 낮추다 = 굴욕을 주다.",
+      "humiliation(명사) = 굴욕, 모욕. 공개적으로 망신당하는 느낌."
+    ]
+  },
+  {
+    "id": "042",
+    "word": "humility",
+    "pos": "n.",
+    "head_meanings": [
+      "겸손",
+      "겸허"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`humble` + `-ity`. pride(교만)의 반대야.",
+      "with humility = 겸손하게. 겸손은 미덕이지만 GRE에서는 중립적으로 나올 수도."
+    ]
+  },
+  {
+    "id": "043",
+    "word": "hunch",
+    "pos": "n.",
+    "head_meanings": [
+      "직감",
+      "예감",
+      "육감"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "I have a hunch = 직감이 와. 논리적 근거 없이 느끼는 예감.",
+      "hunchback = 꼽추. 이건 '등이 굽은' 뜻의 hunch에서 온 거야."
+    ]
+  },
+  {
+    "id": "044",
+    "word": "husbandry",
+    "pos": "n.",
+    "head_meanings": [
+      "절약",
+      "관리",
+      "농업",
+      "목축"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정! '남편'이 아니라 '절약적 관리/농업'이 핵심 뜻이야.",
+      "animal husbandry = 목축업. 자원을 알뜰하게 관리하는 것도 husbandry."
+    ]
+  },
+  {
+    "id": "045",
+    "word": "husky",
+    "pos": "adj.",
+    "head_meanings": [
+      "쉰 목소리의",
+      "건장한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "시베리안 허스키처럼 거칠고 강한 이미지야.",
+      "husky voice = 허스키한(쉰) 목소리. 매력적인 느낌으로도 쓰여."
+    ]
+  },
+  {
+    "id": "046",
+    "word": "hybrid",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "잡종",
+      "혼합체",
+      "혼합의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `hybrida`(잡종)에서 왔어. hybrid car = 하이브리드 자동차.",
+      "두 가지 이상이 섞인 것을 가리켜. 생물학적 잡종부터 기술 융합까지."
+    ]
+  },
+  {
+    "id": "047",
+    "word": "hygiene",
+    "pos": "n.",
+    "head_meanings": [
+      "위생",
+      "위생학"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스 건강의 여신 Hygeia에서 유래했어.",
+      "personal hygiene = 개인 위생. dental hygiene = 구강 위생."
+    ]
+  },
+  {
+    "id": "048",
+    "word": "hyperbole",
+    "pos": "n.",
+    "head_meanings": [
+      "과장법",
+      "과장"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hyper-`(넘어서) + `bole`(던지다) = 과도하게 던지다 = 과장.",
+      "GRE 고빈도! '죽을 만큼 배고파'처럼 실제보다 과장해서 말하는 수사법이야.",
+      "hyperbolic(형용사) = 과장된. 수학의 쌍곡선도 hyperbola!"
+    ]
+  },
+  {
+    "id": "049",
+    "word": "hypercritical",
+    "pos": "adj.",
+    "head_meanings": [
+      "지나치게 비판적인",
+      "트집 잡는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hyper-`(과도하게) + `critical` = 지나치게 비판적인.",
+      "captious, fault-finding과 비슷한 뜻. 뭐든 흠을 찾아내는 사람!"
+    ]
+  },
+  {
+    "id": "050",
+    "word": "hypnotic",
+    "pos": "adj.",
+    "head_meanings": [
+      "최면의",
+      "최면에 걸린 듯한",
+      "매혹적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스 잠의 신 Hypnos에서 왔어.",
+      "hypnotic rhythm = 최면적인 리듬. mesmerizing과 비슷한 느낌."
+    ]
+  },
+  {
+    "id": "051",
+    "word": "hypochondriac",
+    "pos": "n./adj.",
+    "head_meanings": [
+      "건강 염려증 환자",
+      "건강에 지나치게 걱정하는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hypo-`(아래) + `chondria`(갈비뼈)→갈비뼈 아래(내장)에 병이 있다고 착각.",
+      "아프지도 않은데 자꾸 아프다고 걱정하는 사람이야."
+    ]
+  },
+  {
+    "id": "052",
+    "word": "hypocrisy",
+    "pos": "n.",
+    "head_meanings": [
+      "위선",
+      "가식"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `hypokrisis`(연기)→배우처럼 가장하는 것 = 위선.",
+      "말과 행동이 다른 것. GRE에서 duplicity와 비슷한 맥락으로 나와."
+    ]
+  },
+  {
+    "id": "053",
+    "word": "hypocrite",
+    "pos": "n.",
+    "head_meanings": [
+      "위선자"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "hypocrisy의 사람형이야.",
+      "겉으로는 도덕적인 척하면서 속은 다른 사람. 그리스어 '배우'에서 유래."
+    ]
+  },
+  {
+    "id": "054",
+    "word": "hypothetical",
+    "pos": "adj.",
+    "head_meanings": [
+      "가설의",
+      "가정의",
+      "가상의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`hypo-`(아래) + `thesis`(놓다) = 밑에 깔아놓은 가정.",
+      "hypothetical situation = 가상의 상황. hypothesis(가설)의 형용사형."
+    ]
+  },
+  {
+    "id": "055",
+    "word": "icon",
+    "pos": "n.",
+    "head_meanings": [
+      "아이콘",
+      "우상",
+      "상징"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `eikon`(이미지)에서 왔어. 종교적 성상→상징적 인물/이미지.",
+      "cultural icon = 문화적 상징. 컴퓨터 아이콘도 같은 단어!"
+    ]
+  },
+  {
+    "id": "056",
+    "word": "iconoclastic",
+    "pos": "adj.",
+    "head_meanings": [
+      "인습 타파의",
+      "우상 파괴의",
+      "전통을 공격하는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`icon-`(우상) + `clast-`(부수다) = 우상을 부수는.",
+      "GRE 고빈도! 기존 권위나 전통에 도전하는 사람이나 태도를 묘사해.",
+      "비잔틴 제국의 성상 파괴 운동에서 유래한 말이야."
+    ]
+  },
+  {
+    "id": "057",
+    "word": "iconoclast",
+    "pos": "n.",
+    "head_meanings": [
+      "인습 타파주의자",
+      "우상 파괴자"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "iconoclastic의 명사형이야.",
+      "전통이나 관습을 깨부수는 사람. maverick, nonconformist와 비슷!"
+    ]
+  },
+  {
+    "id": "058",
+    "word": "idealistic",
+    "pos": "adj.",
+    "head_meanings": [
+      "이상주의적인",
+      "비현실적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ideal` + `-istic`. 좋은 뜻이지만 GRE에선 '비현실적' 뉘앙스도 있어.",
+      "pragmatic(실용적인)의 반대 느낌으로 자주 나와."
+    ]
+  },
+  {
+    "id": "059",
+    "word": "idealize",
+    "pos": "v.",
+    "head_meanings": [
+      "이상화하다",
+      "미화하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ideal` + `-ize` = 이상적으로 만들다→실제보다 좋게 보다.",
+      "romanticize와 비슷해. 현실을 무시하고 이상적으로만 보는 거야."
+    ]
+  },
+  {
+    "id": "060",
+    "word": "ideologue",
+    "pos": "n.",
+    "head_meanings": [
+      "이념론자",
+      "교조적 사상가"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ideology` + `-ue` = 이념에 경직된 사람.",
+      "부정적 뉘앙스가 강해. 현실보다 이념에 매몰된 사람을 가리켜."
+    ]
+  },
+  {
+    "id": "061",
+    "word": "ideology",
+    "pos": "n.",
+    "head_meanings": [
+      "이념",
+      "사상 체계"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ideo-`(생각) + `logy`(학문) = 사상의 체계.",
+      "political ideology = 정치 이념. 중립적이지만 '경직된 사상'이라는 부정적 뉘앙스도."
+    ]
+  },
+  {
+    "id": "062",
+    "word": "idiocy",
+    "pos": "n.",
+    "head_meanings": [
+      "어리석음",
+      "우둔함",
+      "바보 같은 행동"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`idiot` + `-cy`. 바보 같은 행동이나 상태를 가리켜.",
+      "stupidity, foolishness보다 더 강한 어감이야."
+    ]
+  },
+  {
+    "id": "063",
+    "word": "idiom",
+    "pos": "n.",
+    "head_meanings": [
+      "관용구",
+      "숙어",
+      "특유의 표현"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "그리스어 `idios`(자기만의)→그 언어만의 고유 표현.",
+      "idiomatic = 관용적인. 단어 하나하나로는 뜻을 알 수 없는 표현이야."
+    ]
+  },
+  {
+    "id": "064",
+    "word": "idiosyncrasy",
+    "pos": "n.",
+    "head_meanings": [
+      "특이한 버릇",
+      "개인적 특성",
+      "고유한 특질"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`idio-`(자기만의) + `syn-`(함께) + `crasis`(혼합) = 자기만의 기질 혼합.",
+      "GRE 고빈도! quirk, peculiarity와 비슷한 뜻이야.",
+      "그 사람만의 독특한 습관이나 특성을 가리켜."
+    ]
+  },
+  {
+    "id": "065",
+    "word": "idle",
+    "pos": "adj.",
+    "head_meanings": [
+      "게으른",
+      "한가한",
+      "쓸모없는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "GRE 함정! '게으른' 외에 idle threat = 빈 위협, idle talk = 쓸데없는 말.",
+      "idol(우상)과 철자 구분! idle = 한가한/쓸모없는."
+    ]
+  },
+  {
+    "id": "066",
+    "word": "idolatry",
+    "pos": "n.",
+    "head_meanings": [
+      "우상 숭배",
+      "맹목적 숭배"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`idol`(우상) + `latry`(숭배) = 우상 숭배.",
+      "종교적 우상 숭배뿐 아니라 비유적으로 맹목적 숭배도 가리켜."
+    ]
+  },
+  {
+    "id": "067",
+    "word": "idyllic",
+    "pos": "adj.",
+    "head_meanings": [
+      "목가적인",
+      "평화로운",
+      "전원적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`idyll`(전원시)에서 왔어. 동화 같은 평화로운 풍경을 묘사해.",
+      "GRE 고빈도! pastoral, bucolic과 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "068",
+    "word": "igneous",
+    "pos": "adj.",
+    "head_meanings": [
+      "불의",
+      "화성암의"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "라틴어 `ignis`(불)에서 왔어. igneous rock = 화성암.",
+      "ignite(점화하다)와 같은 뿌리야. 불과 관련된 단어!"
+    ]
+  },
+  {
+    "id": "069",
+    "word": "ignoble",
+    "pos": "adj.",
+    "head_meanings": [
+      "비열한",
+      "치사한",
+      "비천한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ig-`(부정) + `noble`(고귀한) = 고귀하지 않은 = 비열한.",
+      "noble의 정반대! base, dishonorable과 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "070",
+    "word": "ignominious",
+    "pos": "adj.",
+    "head_meanings": [
+      "수치스러운",
+      "불명예스러운",
+      "치욕적인"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ig-`(부정) + `nomin-`(이름) = 이름을 더럽히는 = 수치스러운.",
+      "GRE 고빈도! ignominious defeat = 수치스러운 패배. ignominy(명사)도 같이 외워!"
+    ]
+  },
+  {
+    "id": "071",
+    "word": "ignore",
+    "pos": "v.",
+    "head_meanings": [
+      "무시하다",
+      "묵살하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ig-`(부정) + `nor-`(알다) = 알지 못하는 척하다.",
+      "disregard, overlook과 비슷하지만 ignore는 '일부러 무시하는' 느낌이 강해."
+    ]
+  },
+  {
+    "id": "072",
+    "word": "ignorant",
+    "pos": "adj.",
+    "head_meanings": [
+      "무지한",
+      "모르는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`ignore`와 같은 뿌리야. ignorance = 무지.",
+      "ignorant of = ~을 모르는. 일부러 무시한 게 아니라 진짜 모르는 상태."
+    ]
+  },
+  {
+    "id": "073",
+    "word": "illegible",
+    "pos": "adj.",
+    "head_meanings": [
+      "읽기 어려운",
+      "판독 불가능한"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`il-`(부정) + `legible`(읽을 수 있는) = 읽을 수 없는.",
+      "악필로 쓴 글씨를 떠올려 봐. eligible(자격 있는)과 헷갈리지 마!"
+    ]
+  },
+  {
+    "id": "074",
+    "word": "illicit",
+    "pos": "adj.",
+    "head_meanings": [
+      "불법의",
+      "금지된"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`il-`(부정) + `licit`(합법적인) = 불법의.",
+      "elicit(끌어내다)와 헷갈리지 마! illicit = 불법, elicit = 끌어내다."
+    ]
+  },
+  {
+    "id": "075",
+    "word": "illiteracy",
+    "pos": "n.",
+    "head_meanings": [
+      "문맹",
+      "무식"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`il-` + `literacy`(문해력) = 문해력 없음 = 문맹.",
+      "financial illiteracy = 금융 문맹처럼 비유적으로도 많이 쓰여."
+    ]
+  },
+  {
+    "id": "076",
+    "word": "illuminate",
+    "pos": "v.",
+    "head_meanings": [
+      "비추다",
+      "밝히다",
+      "해명하다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`il-`(안에) + `lumin-`(빛) = 빛을 비추다→해명하다.",
+      "물리적으로 밝히는 것과 비유적으로 이해를 돕는 것 둘 다 돼. GRE에서는 비유적 뜻이 더 중요!"
+    ]
+  },
+  {
+    "id": "077",
+    "word": "illusion",
+    "pos": "n.",
+    "head_meanings": [
+      "환상",
+      "착각",
+      "환영"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`il-`(안에) + `lud-`(놀다) = 안에서 놀리다 = 속이다→착각.",
+      "optical illusion = 착시. allusion(암시), elusion(회피)과 구분!"
+    ]
+  },
+  {
+    "id": "078",
+    "word": "illusory",
+    "pos": "adj.",
+    "head_meanings": [
+      "환상의",
+      "착각에 의한",
+      "실체 없는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`illusion` + `-ory` = 환상 같은.",
+      "GRE 고빈도! illusory hope = 헛된 희망. 실체가 없는 거야."
+    ]
+  },
+  {
+    "id": "079",
+    "word": "illustrious",
+    "pos": "adj.",
+    "head_meanings": [
+      "저명한",
+      "명성 높은",
+      "빛나는"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`il-`(안에) + `lustr-`(빛) = 빛나는 = 명성이 높은.",
+      "GRE 고빈도! eminent, renowned, distinguished와 비슷한 뜻이야."
+    ]
+  },
+  {
+    "id": "080",
+    "word": "imbecility",
+    "pos": "n.",
+    "head_meanings": [
+      "어리석음",
+      "우둔함",
+      "정신적 허약"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`imbecile`(바보) + `-ity`. 매우 심한 어리석음을 가리켜.",
+      "라틴어 `imbecillus`(약한, 지팡이 없는)에서 왔어."
+    ]
+  },
+  {
+    "id": "081",
+    "word": "imbibe",
+    "pos": "v.",
+    "head_meanings": [
+      "마시다",
+      "흡수하다",
+      "받아들이다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`im-`(안으로) + `bib-`(마시다) = 안으로 마시다.",
+      "비유적으로 지식을 흡수하는 것도 imbibe야. imbibe knowledge = 지식을 흡수하다."
+    ]
+  },
+  {
+    "id": "082",
+    "word": "imbroglio",
+    "pos": "n.",
+    "head_meanings": [
+      "복잡한 상황",
+      "얽힌 분쟁",
+      "혼란"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "이탈리아어 `imbrogliare`(뒤얽히다)에서 왔어.",
+      "GRE 고급 어휘! 외교적 분쟁이나 복잡하게 얽힌 상황을 가리켜."
+    ]
+  },
+  {
+    "id": "083",
+    "word": "imbrue",
+    "pos": "v.",
+    "head_meanings": [
+      "물들이다",
+      "(특히 피로) 적시다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "주로 피로 물드는 이미지야. imbrue one's hands with blood.",
+      "문학적이고 고어적인 표현. stain, soak와 비슷하지만 더 극적인 느낌."
+    ]
+  },
+  {
+    "id": "084",
+    "word": "imbue",
+    "pos": "v.",
+    "head_meanings": [
+      "가득 채우다",
+      "스며들게 하다",
+      "불어넣다"
+    ],
+    "synonyms_from_image": [],
+    "tips": [
+      "`im-`(안으로) + bue(적시다)→안으로 스며들게 하다.",
+      "imbue with passion = 열정을 불어넣다. GRE 고빈도!",
+      "permeate, infuse와 비슷한 뜻이야. 감정이나 특질이 스며드는 느낌."
+    ]
+  }
+]
