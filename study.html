@@ -906,10 +906,17 @@
     const urlParams = new URLSearchParams(window.location.search);
     const WORDLIST_NUMBER = urlParams.get('list');
     const MOCK_ID = urlParams.get('mock');
-    const IS_MOCK = !!MOCK_ID;
-    const STORAGE_KEY = IS_MOCK
-      ? `gre_study_progress_mock_${MOCK_ID}`
-      : `gre_study_progress_wordlist_${WORDLIST_NUMBER}`;
+    const MODE = urlParams.get('mode');
+    const IS_RANDOM = MODE === 'random';
+    const RANDOM_FROM = parseInt(urlParams.get('from')) || 1;
+    const RANDOM_TO = parseInt(urlParams.get('to')) || 1;
+    const RANDOM_COUNT = parseInt(urlParams.get('count')) || 50;
+    const IS_MOCK = !IS_RANDOM && !!MOCK_ID;
+    const STORAGE_KEY = IS_RANDOM
+      ? `gre_study_progress_random_${RANDOM_FROM}_${RANDOM_TO}_${RANDOM_COUNT}`
+      : IS_MOCK
+        ? `gre_study_progress_mock_${MOCK_ID}`
+        : `gre_study_progress_wordlist_${WORDLIST_NUMBER}`;
 
     let ALL_WORDS = [];
     let GROUPS = [];
@@ -921,20 +928,75 @@
     let quizAnswered = [];
 
     // ── Init ──
-    const displayName = IS_MOCK
-      ? MOCK_ID.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
-      : `Word List ${WORDLIST_NUMBER}`;
+    const displayName = IS_RANDOM
+      ? `🎲 Random (List ${RANDOM_FROM}-${RANDOM_TO}, ${RANDOM_COUNT}문제)`
+      : IS_MOCK
+        ? MOCK_ID.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase())
+        : `Word List ${WORDLIST_NUMBER}`;
     document.getElementById('subtitleTop').textContent = displayName;
+
+    // Seeded RNG for stable random selection across reloads
+    function seededRandom(seed) {
+      let x = Math.sin(seed) * 10000;
+      return x - Math.floor(x);
+    }
+    function seededShuffle(arr, seed) {
+      const a = [...arr];
+      let s = seed;
+      for (let i = a.length - 1; i > 0; i--) {
+        s++;
+        const j = Math.floor(seededRandom(s) * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
 
     async function init() {
       try {
-        const url = IS_MOCK
-          ? (MOCK_ID.startsWith('기출대전') ? `data/${MOCK_ID}.json` : `data/Mock_${MOCK_ID}.json`)
-          : `data/GRE_wordlist${WORDLIST_NUMBER}.json`;
-        const res = await fetch(url);
-        if (!res.ok) throw new Error('Not found');
-        ALL_WORDS = await res.json();
-        ALL_WORDS.forEach((w, i) => { w.id = String(i + 1).padStart(3, '0'); });
+        if (IS_RANDOM) {
+          // Load all wordlists in range
+          const allWords = [];
+          for (let i = RANDOM_FROM; i <= RANDOM_TO; i++) {
+            try {
+              const r = await fetch(`data/GRE_wordlist${i}.json`);
+              if (r.ok) {
+                const data = await r.json();
+                data.forEach((w, idx) => { w.id = String(idx + 1).padStart(3, '0'); w._listNum = i; });
+                allWords.push(...data);
+              }
+            } catch (err) {
+              console.warn(`Failed to load wordlist ${i}`, err);
+            }
+          }
+          if (allWords.length === 0) throw new Error('No wordlists loaded');
+
+          // Dedupe by word
+          const seen = new Set();
+          const unique = allWords.filter(w => {
+            const key = w.word.toLowerCase().trim();
+            if (seen.has(key)) return false;
+            seen.add(key);
+            return true;
+          });
+          unique.forEach(w => { w.id = `${w._listNum}-${w.id}`; });
+
+          // Seeded shuffle so the same URL always gives the same set
+          let seed = 0;
+          const seedStr = `${RANDOM_FROM}_${RANDOM_TO}_${RANDOM_COUNT}`;
+          for (let i = 0; i < seedStr.length; i++) {
+            seed = ((seed << 5) - seed) + seedStr.charCodeAt(i);
+            seed |= 0;
+          }
+          ALL_WORDS = seededShuffle(unique, seed).slice(0, Math.min(RANDOM_COUNT, unique.length));
+        } else {
+          const url = IS_MOCK
+            ? (MOCK_ID.startsWith('기출대전') ? `data/${MOCK_ID}.json` : `data/Mock_${MOCK_ID}.json`)
+            : `data/GRE_wordlist${WORDLIST_NUMBER}.json`;
+          const res = await fetch(url);
+          if (!res.ok) throw new Error('Not found');
+          ALL_WORDS = await res.json();
+          ALL_WORDS.forEach((w, i) => { w.id = String(i + 1).padStart(3, '0'); });
+        }
       } catch (e) {
         document.getElementById('heroTitle').textContent = '데이터를 불러올 수 없습니다';
         document.getElementById('heroDesc').textContent = `${displayName}이(가) 존재하지 않습니다.`;
@@ -1466,7 +1528,9 @@
 
       if (isLastGroup) {
         document.getElementById('fullTestBtn').addEventListener('click', () => {
-          if (IS_MOCK) {
+          if (IS_RANDOM) {
+            window.location.href = `test.html?mode=random&from=${RANDOM_FROM}&to=${RANDOM_TO}&count=${RANDOM_COUNT}`;
+          } else if (IS_MOCK) {
             window.location.href = `mock_test.html?mock=${MOCK_ID}`;
           } else {
             window.location.href = `test.html?list=${WORDLIST_NUMBER}`;
